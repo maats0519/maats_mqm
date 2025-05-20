@@ -1,0 +1,153 @@
+index,original,zero_shot_translation,improved_translation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",実は、IDirect3D::CreateViewport() を呼び出すと IDirect3DViewport ではなく、IDirect3DViewport にメソッドを追加した IDirect3DViewport3 が返ってくると思い込んでいた。私が実装したのは IDirect3DViewport だった。,実は、ＩDirect3D::CreateViewport()を呼び出すと、私が実装したＩDirect3DViewportではなく、それにメソッドを追加したＩDirect3DViewport3が返されると思い込んでいた。
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは普遍的に正しいわけではなく、該当のオブジェクトを生成する際に使用しているインターフェースによって事情が変わる場合がある。,しかし、これは必ずしもそうではなく、該当のオブジェクトを生成するインターフェースによって事情が異なる場合がある。
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",議論のために仮に、科学が少なくとも部分的には、世界に関する客観的に事実な記述のリストで構成され、それらが支持するかもしれないいかなる理論とも無関係に真であると仮定しよう。,とりあえず、科学が少なくとも部分的には、世界に関する客観的に事実な記述のリストから成り、理論に関係なく真であると仮定しよう。
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,科学にそのような事実が存在するというのが真実だとしても、科学的事実が理論負荷的であると主張することは依然として可能だ。,科学にそのような事実が存在するのが真実だとしても、科学的事実は理論含意的であると主張することは依然として可能だ。
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",この解釈では、実験が事実を作り出すのではなく、どの実験を行うかの選択が、どの事実が発見されるかを左右する。,この見方では、実験が事実を作り出すのではなく、どの実験を行うかの選択が、どの事実が発見されるかを左右する。
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",亜原子粒子に関する事実など、資本主義においてのみ可能な実験からしか得られない事実がある。なぜなら、そのような実験はあまりに多くの資源、組織、そして強制力を必要とし、資本主義以外では実現不可能だからだ。,たとえば、亜原子粒子に関する研究など、非常に多くの資源、組織、そして実行力が必要な実験の中には、資本主義体制下でのみ実現可能なものがある。
+14,Picking this up this weekend.,週末に引き取ります。,週末に取りに行きます。
+16,Already on coil overs and lowered ride height.,車高調済み、ローダウン済み。,車高調が入っていて、車高も下がっています。
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べてみたのですが、もしこの車について何か情報をお持ちの方がいらっしゃいましたら教えていただけると嬉しいです。,少し調べてみたのですが、もしこの車について何かご存知の方がいらっしゃいましたら教えていただけると嬉しいです。
+18,Personal experiences?,個人的な経験？,個人的なご経験ですか？
+19,I know they're not fast compared,それに比べて速くないのは分かっています。,速くないのは分かっています。
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",俺はボードショーツにランニングシャツ姿、そして連れ合いは全身タトゥーで、自分で「ネオナチみたい」って言ってた新しい髪型。,俺はボードショーツにランニングシャツ姿、連れ合いは全身にタトゥーがあり、自分で「ネオナチみたい」と言っていた新しい髪型だった。
+36,NY is the best hope for accountability,ニューヨークこそが説明責任を果たすための最良の希望だ。,ニューヨークこそが説明責任を期待できる最良の場所だ。
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つ信号の送受信に還元できないという重要な証拠がある。,現実のコミュニケーションは、文脈に依存しない意味を持つ信号を送ることに還元できないという重要な証拠がある。
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",文脈依存的なコミュニケーションは、文脈の分布といった環境特性に大きく影響される、状況依存的な多層現象であると考えられます。,文脈依存性コミュニケーションは、文脈の分布のような環境特性に大きく影響される、状況依存的な多層現象であると考えられます。
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒に、様々なプロジェクトを支援する貴重な半年間を過ごすことができました。,2011年、幸運にもニコラスと共に様々なプロジェクトを支援する貴重な半年を過ごせた。
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会った時、進捗状況、特に植林と農家支援について聞けて嬉しかったよ。,週末に会った時、進捗状況、特に植林と農家へのサポートについて聞けて嬉しかったよ。
+61,Licht AGREED to an all Republican audience!,リヒトは共和党支持者のみの聴衆に同意しました！,リヒトは共和党の聴衆に同意しました。
+65,It can't be repeated.,繰り返せません。,繰り返すことはできません。
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨夜、ついにこの繰り返しにうんざりして、ねり消しについてたピーナッツバターを全部取り除いて、罠にピスタチオを瞬間接着剤でくっつけた。,昨夜、ついにこの繰り返しにうんざりして、罠についていたピーナッツバターを全部取り除き、罠にピスタチオを瞬間接着剤でくっつけた。
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",ちなみに、市販のほぼ全ての「人道的な」罠を試しましたが、ほとんど効果がありませんでした。,いろいろ試しましたが、市販のほとんど全ての「動物に優しい」罠は、ほとんど効果がありませんでした。
+74,"They aren't, at least not in Alberta.",少なくとも、アルバータ州ではね。,少なくとも、アルバータ州ではそうではありません。
+75,Sure they cut business taxes.,確かに彼らは法人税を減税した。,確かに彼らは法人税を削減した。
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",「グラスゴーまで彼を送っていくだけなんです」と私は説明しようとした、旅の連れを指さしながら。,「グラスゴーまで彼を送るだけなんです」と私は説明した、旅の連れを指さしながら。
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.",「グラスゴーにちょっと彼を降ろしてくるだけなんです、なんてあんまり聞かないセリフだな」と切符売り場の人は言った。,「グラスゴーで降ろすだけだなんて言う人は、あまりいませんね」と切符売り場の人は言った。
+90,And they are truly nuts.,彼らは本当に頭がおかしい。,彼らは本当にどうかしている。
+95,Yell back at those who would try to talk over us.,私たちを言い負かそうとする人たちには、言い返してやりなさい。,私たちの言葉を遮ろうとする人たちには、言い返してやりなさい。
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,私の隣人と私が同時に帰宅したんだけど、向かい側から彼の咳と、コロナの痰が嵐のように吹き上がる音が聞こえてきた。,隣人と私が同時に帰宅したところ、向かい側からコロナのせいでひどく咳き込む音が聞こえてきた。
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,彼を避けるために急いでアパートに入ったのに、結局追いつかれて話しかけられちゃった。,彼を避けるために急いで自分のアパートに駆け込んだが、結局追いつかれて話しかけられてしまった。
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.",4000もの苦難の末、Ylは愛に満ちた場所にたどり着き、どうしていいかわからないほどの大きな感情に戸惑っている。だから、その両方がたくさんある。,4000もの苦難を経て、Ylは愛に溢れた場所に辿り着き、どうすればいいか分からないほどの感情に圧倒されている。その両方が彼女の中で渦巻いているのだ。
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#MangoMoronの大失敗は、とんでもない大失敗だった。,昨日の#MangoMoron騒動は、本当にとんでもない失態だった。
+113,A cold front should arrive by the middle of next week.,来週の半ばまでに寒冷前線が到来するでしょう。,来週の半ばには寒冷前線が来るでしょう。
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",今朝早く、IR衛星と地上観測により、低層の層雲が拡大しており、まだらな<URL>が確認されました。,今朝早く、IR衛星と地上観測により、低層の層雲が拡大しており、まだらな<URL>が広がっているのが確認されました。
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけて、その専門知識を活用し、CRM投資の価値を最大化しましょう。,信頼できるSalesforceパートナーを見つけて、その専門知識を活用し、CRM投資の価値を最大限に高めましょう。
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーがどのように実装、カスタマイズ、インテグレーション、継続的なサポートで貴社を支援し、Salesforceエコシステムでビジネスを成功に導くかをご紹介します。,Salesforceパートナーが実装、カスタマイズ、インテグレーションズ、継続的なサポートを通じて貴社のSalesforceエコシステムでのビジネスの成功を支援する方法をご紹介します。
+137,But another individual often flies aboard that ship.,しかし、その船にはもう一人の人物がよく搭乗している。,しかし、その船にはもう一人がよく乗っている。
+142,The Last of Us is an easy and canonical example of dad-ification.,The Last of Usは、ダッド化の分かりやすく典型的な例だ。,『The Last of Us』は、典型的な「ダディ化」の代表例と言えるでしょう。
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父性化とは、親のような立場の者が子供や子供の代わりとなる者を世話したり保護したりしなければならない状況に対する解決策が、圧倒的な力であり、その力を使って非常に特異な形の力関係を強制することであると通常仮定する。,父親化とは、親が子供やそれに準ずる者を世話または保護しなければならない状況に対し、圧倒的な力を行使し、特定の力関係を強制することが解決策であるとみなす考え方を指すことが多い。
+147,Here's a quick overview of how to make use of our website.,当ウェブサイトのご利用方法の簡単な概要です。,当サイトのご利用方法について簡単に説明します。
+148,- We send out notifications when airfare goes on sale.,航空券がセールになった際にお知らせを送信します。,航空券が割引になったら、お知らせを送信します。
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは、平和で安全な環境で成長する権利を有します。,ウクライナの子どもたちは、平和で安全な環境で成長する権利があります。
+159,Over time dart became my go-to for quick UI.,時間の経過とともに、dartは手軽なUIに最適な選択肢になった。,時間が経つにつれて、手軽にUIを開発するならDartが一番になった。
+164,Echidna with amethyst and magenta spikes.,アメジストとマゼンタのトゲを持つハリモグラ,アメジストとマゼンタのトゲで飾られたハリモグラ。
+166,Their tail is extremely thick.,彼らの尻尾は非常に太いです。,彼らの尾は非常に太いです。
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目はナシのようで、真っ赤なキャッツアイの眼鏡をかけている。,彼らの目は真珠色で、真っ赤なキャッツアイの眼鏡をかけている。
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",ブラム・ストーカー、マックス・シュレック、ステファニー・メイヤーが彼らを悪く見せようと最大限の努力をしたにもかかわらず、皆…,ブラム・ストーカー、マックス・シュレック、ステファニー・メイヤーが悪者にしようと躍起になるにもかかわらず、皆は…。
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",現実では、母が何年も前に私が作ったパズルゲームを気に入って、ほとんどの隠し要素を自力で見つけたので、褒め言葉がお母さん目線だけのものではなかったんです。,実を言うと、母は何年も前に私が作ったパズルゲームを気に入り、ほとんどの隠し要素を自力で解いたので、親バカで褒めていたわけではないんです。
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","Here's the Japanese translation:
+
+**北京語（標準中国語）もしくは福建語に翻訳する必要があり、どちらも全く分からないので、翻訳のみを提供してください。**",北京語（標準中国語）もしくは福建語に翻訳する必要があり、どちらも全く分からないので、翻訳のみで結構です。
+179,Been toying with this thought for a little while:,この考えをしばらくの間、弄んでいる。,この考えをしばらくの間、あれこれ考えている。
+180,"Mental health is often seen as something separate from ""regular"" health.",メンタルヘルスは、しばしば「普通の」健康とは別のものとして見なされる。,メンタルヘルスは、しばしば「通常の」健康とは別のものとして見なされる。
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こり、身体的な健康よりも実体がなさそうに見えるから。,それは心の中で起こることであり、身体的な健康に比べて目に見えにくいからである。
+194,Very much worth having a go at.,ぜひ挑戦する価値あり。,ぜひ試してみる価値はあります。
+196,Playing around a bit with Flutter.,Flutterを少し触ってみています。,Flutterを少し試しています。
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",正直に言うと、グーグルの技術に事業の基盤を置きたくはない。一方で、グーグルは魅力的なクロスプラットフォーム体験を生み出す本当のインセンティブを持っている数少ない大企業の一つであり、それは明らかだ。,正直なところ、グーグルの技術に事業の基盤を置くのは気が進まない。しかし、グーグルは魅力的なクロスプラットフォームエクスペリエンスを生み出す真の動機を持つ数少ない大企業のひとつであり、それは明らかだ。
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,また、GoogleやFlutter製のアプリがiOSやmacOSでは使い物にならないといった話はしないで、翻訳だけを提供してください。,また、グーグルやフラッター製のアプリがiOSやmacOSで使い物にならないといった話はせずに、翻訳のみを提供してください。
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームをきちんとやるのは難しい。,クロスプラットフォームをうまくやるのは難しい。
+201,I know that.,知ってるよ。,知っています。
+202,Thank you to those people who have downloaded the latest update to Leasey.,Leaseyの最新アップデートをダウンロードしてくださった皆様、ありがとうございます。,Leaseyの最新アップデートをダウンロードしてくださった皆様に、ありがとうございます。
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,なぜ私の脳が理解できないのか正確にはわからない。ツールが広範かつ曖昧すぎて、「選択肢が多すぎる」せいで脳がフリーズしてしまうのかもしれない。,なぜ自分の頭でうまく理解できないのか دقیقにはわからないが、ツールが広範かつ曖昧なため、「選択肢が多すぎる」ことで思考停止してしまうのかもしれない。
+211,Grafana looks pretty.,Grafanaは見栄えが良いですね。,Grafanaは見栄えがいい。
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",新しい #FFXIV のレイド tier が近づいてきて、「ちゃんとレイドに挑戦してみたいなあ、でもパーティ募集は荒れてそうだし、固定なんて見つかるわけないよなあ」ってずっと考えてた。,新しい #FFXIV のレイド段階が近づき、「ちゃんとレイドに挑戦したいけれど、パーティ募集はうまくいかないだろうし、固定パーティーを組むのは無理だろうな」とずっと考えていた。
+214,"So I thought, screw it!",くそくらえ！,もう、どうでもいいや！
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",レイド固定に入るのを試すのをためらうほど不安で、上手くなろうという期待は全くない人たちでいっぱい！,レイド固定に入るのをためらうほど不安な人でいっぱいで、しかも上手くなれるとは全く期待していない人ばかりだ！
+219,I was a voracious reader in my youth.,若い頃は、本の虫だった。,若い頃は、貪欲な読書家だった。
+227,They're not gonna talk about this on Bloomberg!,ブルームバーグじゃ報道されないだろうな！,ブルームバーグでは報道されないだろう！
+228,"But if Spotify has a good quarter, they will.",しかし、もしスポティファイの業績が良ければ、そうなるでしょう。,しかし、もしSpotifyの業績が良ければ、そうなるだろう。
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,全国の空洞化し荒廃した都市を再建させよう。,全国の空洞化し荒廃した都市を、再び再建させよう。
+231,These people want to improve their lives.,これらの人々は、生活を向上させたいと思っています。,これらの人々は、生活を良くしたいと思っています。
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは終わった」とか「リモートワークは失敗だった」という見出しには、もううんざりだ。,「リモートワークは終わった」とか「リモートワークは失敗だった」といった見出しには、本当にうんざりします。
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.",人々が、息苦しい騒がしいオフィスではなく、快適な空間で働けるようにする。,人々が息苦しい、騒がしい事務所ではなく、快適な空間で働けるようにする。
+243,To just ignore these facts is wrong.,これらの事実を無視するのは間違っている。,これらの事実を無視することは間違っている。
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、現代の都市に住む女性がキャリアのために出産を遅らせようとする傾向について言及した。,パーカーは中絶と、キャリアのために出産を遅らせようとする現代都市の女性たちの考えに言及した。
+255,It took years of changing my life and working hard but finally...,何年も生活を変え、努力した結果、ついに…,長年の努力と生活改善の末に、ついに…
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,念のため、サイクリングジャケットにライナーをファスナーで取り付けます。,念のため、サイクルジャケットにライナーをファスナーで取り付けます。
+266,This is for Wikipedia's component library (OOUI).,これは、ウィキペディアのコンポーネントライブラリ（OOUI）のためのものです。,これはウィキペディアのコンポーネントライブラリー（OOUI）用です。
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親オブジェクトを分離して作成し、そこにMOをインストールし、それが分離される（つまり、別の場所にアタッチされる）のを観察します。,一時的な親オブジェクトを分離して作成し、そこにMOをインストールした後、それが別の場所に接続するために分離される様子を観察します。
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は毎日私のオフィスを2往復も走り回っているから、完全に筋肉ムキムキになっているんだ。,彼は毎日私のオフィスを2往復も走り回っているから、筋肉隆々としているんだ。
+278,It makes me so happy to see him thriving.,彼が活躍しているのを見ると、とても嬉しいです。,彼が元気で頑張っているのを見ると、とても嬉しいです。
+285,Last week got a ton done and feeling much better about field items.,先週はたくさん終わらせることができて、現場の件もだいぶ良くなった気がする。,先週は多くのことを終えられ、フィールド業務もかなり改善されたと感じています。
+286,"All collards, kale, chard is transplanted.",すべてのコラード、ケール、スイスチャードは移植済みです。,コラード、ケール、スイスチャードはすべて移植済みです。
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",また、サラダ菜をそこに播種して、カット野菜を組み込む必要があります。灌漑、畝作り、移植については訓練されたクルーがおり、これは収穫以外のスキルの90％を占めます。,また、そこにサラダ菜の種をまき、カット野菜として利用できるようにする必要があります。灌漑、育苗床作り、移植については訓練されたクルーがおり、これは収穫以外のスキルの90％に相当します。
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,Apple Maps の方が Google Maps よりも、ナビゲーションの指示に従う体験がはるかに優れていた。,Appleマップの方がGoogleマップよりも、ナビゲーションがずっと使いやすかった。
+295,Apple Maps wins.,Apple Maps の勝ち。,Apple Mapsの勝利。
+302,"That said, I'm biased.",そうは言っても、私は偏っています。,そうは言っても、偏見があるかもしれません。
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,しかし、政府が今の制度を変えないと考える限り、富の貯蔵庫として優れているのは土地だからです。,しかし、政府が今の制度を変えないと考える限り、富の貯蔵庫として優れているのは土地だからです。
+309,In China you can only lease land.,中国では土地はリースしかできません。,中国では土地はリースのみです。
+311,The government can change these policies whenever it wants.,政府は、これらの政策をいつでも変更できます。,政府は、これらの政策をいつでも変更できる。
+312,The land is temporary.,土地は一時的なもの。,土地は仮のもの。
+318,That's why the Chinese only allow leases.,だから中国はリースしか認めていない。,だから中国では、賃貸契約しか認められていないのです。
+322,Let us continue to work together towards creating a brighter future for all.,すべての人々にとって、より明るい未来を創造するために、共に努力し続けましょう。,力を合わせ、皆でより良い未来を築いていきましょう。
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分をひどく卑下する人間の能力を、実際の残酷さを示す証拠がこれほど多くあるにもかかわらず、不思議に思うことがよくある。,実際の残酷さを目の当たりにする証拠が数多くあるにもかかわらず、人はなぜこうも自己を卑下できるのか、いつも不思議に思う。
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",「成功」が最も非難されるべき行為の責任者たちにしばしば与えられる世界で、個人の失敗と罪悪感に苦悩すること…。,「成功」が、もっとも নিন্দ責 (dinseki)されるべき行為を行った者に与えられるような世の中で、個人の失敗や罪悪感に苦悩すること。
+332,"or ""Modal editors are useless today"" :morty:",もしくは「モーダルエディタは今や無用」:morty:,もしくは「モーダルエディターは今や無用」:morty:.
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:",俺の#Axumプロジェクトの機能を共有ライブラリに抽出する作業: 「ちょっとキーボード貸して」:partyparrot: :helix: :ferrisdance:,「#Axumプロジェクトの機能を共有ライブラリに抽出する作業か…、ちょっくら本気出すか:partyparrot: :helix: :ferrisdance:」
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのお題は、徹夜。,今週のRevelationsのお題は、寝ずに起きていること。
+339,It is definitely more romance than filth.,どちらかと言えば、エロよりロマンスです。,どちらかというと、猥褻というよりロマンスです。
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",いつか絶対、飛行機の中でオーガズムを体験してやる。相手は知らない人じゃないかもしれないけど。,いつか絶対に、飛行機の中で最高のオーガズム体験をしてやる。相手は誰かは秘密だけど。
+345,"I wish there was a ""who to follow"" recommendation somehow.",フォローすべき人のレコメンデーション機能みたいなのがあればいいのに。,おすすめのフォロー候補が表示される機能があればいいのに。
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",つまり、始めるにはもう少し手間がかかり、#UXを向上させるには優れたアプリが必要になるでしょう。,つまり、導入には少し手間がかかるため、#UXを改善するには優れたアプリが必要になるでしょう。
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",変化を生み出すためにできることに関する知識（ある程度の信頼区間内で）。,介入とは、一定の確信をもって変化を生み出すためにできることに関する知識である。
+360,He's here and he's going to say this stuff no matter what.,彼はここにいるし、何があってもこれを言うつもりだ。,彼はここにいるし、どうあがいてもこれを言うだろう。
+362,It's very underwhelming at the moment.,今は期待外れだ。,今のところ、あまり впечатен впечатлен впечатлен впечатлен впечатлен впечатлен впечатлен впечатлен впечатлен впечатлен впечатлен впечатлен впечатлен впечатлен впечатен впечатlen.
+363,"The ""MusicLM Demo"" is mildly interesting.",MusicLM Demo は、まあまあ面白いです。,MusicLM Demoは、そこそこ面白いです。
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",筋トレしてるのに、自分の最大挙上重量がどれくらいか全然知らないのって変な感じだよね。だって、それって進捗を把握する上でめっちゃ重要な指標の一つじゃん。,筋トレしているのに、自分のワンレップマックスがどれくらいか知らないのは変な感じだよね。だって、それって進捗を把握する上でとても重要な指標の一つだからね。
+369,I work out alone in my bedroom without a spotter or even a weight rack.,誰の補助もなしに、ウェイトラックすらない自分の寝室で一人で筋トレをしています。,誰の助けもなく、ウェイトラックもない自分の部屋で一人で筋トレしている。
+370,Just me and a barbell with a bunch of weights.,俺とバーベルと大量のウェイトだけ。,俺とバーベルとたくさんのウエイトだけ。
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",自分の最大挙上重量を計算しようとすると、最大挙上できるだけの重りがなかったり、逆に重すぎて怪我をしたり、最悪の場合死んでしまうかもしれない。,自分の最大挙上重量を測ろうとしても、十分な重りがなかったり、逆に重すぎて怪我や死亡につながる可能性もある。
+375,I swear burrata didn't exist five years ago,5年前には、ブラッティーナなんて存在しなかったと誓うよ。,5年前には、ブッラータなんてなかったと思うよ。
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,誰かの母親が作っているのを見たことも、パーティーで無理やり押し付けられたことも、誰かのソース作りやパン作りの日に出てきたのを見たこともなかった。,誰かの母親が作っているのを見たことも、パーティーで勧められたことも、誰かのソース作りやパン作りの際に目にしたことすらなかった。
+384,Does anyone have a Linux tablet they love?,Linuxタブレットで愛用しているものがある人いますか？,Linuxタブレットでおすすめはありますか？
+385,"This would be mainly for web browsing, occasional email, and some games.",主にウェブ閲覧、たまにメール、それに少しゲームをする程度です。,主にウェブブラウジングと、時々メール、それにゲームを少しするくらいです。
+388,"A bad game is bad forever.""",駄作は永遠に駄作。,駄作はずっと駄作だ。
+389,So was it Epic that originated this?,これってEpicがオリジナル？,これって、エピックが元祖ですか？
+390,We can keep going.,続けることができます。,続けましょう。
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",GamePro 1997年11月号の過去の記事には、もっと曖昧な引用がある。,GamePro1997年11月号の過去の記事には、より曖昧な引用が見られる。
+401,Esp the carriages with the bigger windows.,特に窓の大きい車両。,特に窓の大きい車両はおすすめです。
+402,There's areas that could use some polish.,磨きをかけるべき箇所がいくつかあります。,改善の余地がある箇所がいくつかあります。
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",つまり、十分なゴミ箱の不足と、照明の色の重要性を説明する標識の不足です。,つまり、十分なごみ容器の不足と、照明の色の意味合いを説明する解説がないことです。
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMやDDZ株が終わっても、悲しくはないだろう。,ICMやDDZの株が終わっても、別に悲しくはない。
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,お一人様一枚までとさせていただきます。お並びいただいた皆様がボードを入手できるよう努めております。,お一人様一枚までとさせていただきます。お並びいただいた方が皆、板を手に入れられるように努めております。
+411,Such friendships transcend differences.,そのような友情は、違いを超える。,そのような友情は、違いを乗り越える。
+412,We all have stories to tell.,誰にでも語るべき物語がある。,誰にでも物語がある。
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",なんとなく、この件は最初からつまずいてしまったような気がします。,なんとなく、最初からやり方を間違えてしまったような気がします。
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,もう少しここに残って、そもそも移行すべきかどうかを考えます。,もう少しここに残って、そもそも移行するかどうかを考えます。
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,レプニドたちは地表の下にトンネルを掘り、あなたは下の洞窟で数百ものレプニドの体が煮えたぎる塊の中に落ちてしまう。,レプニドは地中を掘り進み、下の洞窟で煮えたぎるように蠢く数百ものレプニドの塊に、あなたは落ちてしまう。
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは唐突に訪れる。幾つもの牙が猛毒を注入し、ディスクラの空気が肺を蝕む。,終わりは瞬く間に訪れ、幾つもの牙が猛毒を注入すると同時に、ディスクラの瘴気が肺を蝕む。
+425,Nobody will ever know that you were the first human future traveller.,あなたが人類初の未来旅行者だったことは、誰にも知られることはないだろう。,あなたが人類初の未来旅行者だったなんて、誰も知らないだろう。
+426,You land the flyer nose upward on the side of the slag heap and climb out.,あなたは鉱滓山の斜面に機首を上にして着陸し、降りる。,あなたは鉱滓山の側面に機首を上にして着陸し、降りる。
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つの目を持つレプニドたちは見ているようだが、こちらに向かってくる気配はない。実際、ゆっくりと近づいても、彼らは微動だにしない。,"восьмиглазые репниды, кажется, следят за вами, но никак не двигаются к вам, в сущности, они неподвижны, когда вы медленно приближаетесь к ним."
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",どうやら、ユニバーサル翻訳機は応答を拾っていないため、彼らはあなたの声が聞こえないどころか、理解もできないようです。,ユニバーサル翻訳機が応答を拾わないため、彼らにはあなたの声が聞こえず、理解もできないようだ。
+430,You decide to use your Psychic Awareness to contact them mentally.,念動力を使って、精神的に彼らと交信することにした。,精神感応で、彼らに精神的に交信することにした。
+436,"#today I have coffee, sunshine and quiet time!",今日 は コーヒー と 日光 と 静かな 時間！,今日はコーヒーを飲みながら、日差しを浴びて、静かな時間を楽しんでいます。
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,撚りの甘い箇所や塊のある、細撚りの銀灰色の糸を見つけました。,撚りの甘い箇所や塊のある、細い銀灰色の糸を見つけました。
+441,But am not sure I have enough of the purple.,紫の色が十分にあるかどうか、自信がありません。,紫が足りるかどうか、自信がありません。
+446,I have literally tried and dropped EVERY SINGLE ONE.,すべて、文字通り試してはやめた。,ありとあらゆるものを試してはやめた。
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして、2年くらい前までは、成績証明書を確認するまで全く知りませんでした。,2年くらい前までは、成績を見るまで全く知りませんでした。
+448,The literature class hatred is even worse: I love to read.,文学の授業嫌いはもっとひどい。読むのは大好きなのに。,国語の授業はもっと嫌いだ。読むのは大好きなのに。
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしいし、そこで幸せに過ごしているけれど、罪悪感を感じずに日中に小説を読むほどリラックスするには、どこか別の場所にいなければならない。,私の家は快適で素晴らしいし、そこで幸せに過ごしているけれど、罪悪感なく日中に小説を読むほどリラックスするには、どこか別の場所に行く必要がある。
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,まるで休暇中で、だから休暇中にするようなことをしている、という感じです。,"まるで休暇 में いる みたい で, 休暇 中 に する こと を し てる ような もの だ よ."
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",ここ2晩は家ほどよく眠れていないし、慣れない環境にいるだけで自分のペース配分が難しくなり、物の場所も覚えなければならないので、少し#MECFS（筋痛性脳脊髄炎/慢性疲労症候群）の症状が出てしまっているにも関わらず、そうなっているんだ。,ここ2晩は家ほどよく眠れていない上、慣れない環境にいるだけでペース配分が難しく、物の場所も覚えなければならないため、#MECFS（筋痛性脳脊髄炎/慢性疲労症候群）の症状が少し出ている。
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",ゲーム業界で働くことの、ワクワク感、緊張感、ストレス、そして私が愛するすべての良いものが詰まっている。,ゲーム制作の、ワクワク感や緊張感、ストレス、そして何より私が好きなところばかりだ。
+458,Will a community blossom around the user-generated content piece of the game?,ゲームのユーザー生成コンテンツ作品を中心にコミュニティは形成されるだろうか？,ゲームのユーザー生成コンテンツを中心にコミュニティは形成されるだろうか？
+466,So I finally watched #Heartstopper,ついに#Heartstopper 見た。,ついに#Heartstopperを見ました。
+467,Was it overly cute to the point of being twee?,甘すぎて、トゥイーって感じだった？,可愛すぎて、わざとらしかったかな？
+471,But did I love it?,私はそれを愛したか？,私はそれを愛したか？
+476,"In part, because they'd be taught badly.",教え方が悪かったから。,教え方が下手だったせいもある。
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題について言い訳をせずに、ただ解決することが重要です。特に、リードから変更の要求があった場合のプロダクション環境では。,しかし、問題について言い訳をせずに解決することが重要です。特にリードが変更を求めているプロダクション環境では。
+479,"Every artist has been there, made the same mistakes.",どのアーティストも経験したことがある、同じ過ちを犯したことがある。,どのアーティストも、同じ過ちを経験している。
+484,Watch seeds being sown & cultivated (and not randomly scattered) by good peeps.,良い人たちによって種が蒔かれ、育てられるのを見る（ただランダムにばらまかれるのではなく）。,良い人たちが種を播き、育てる様子を見る（ただランダムにばらまくのではなく）。
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",ジャミは犬の番の直前、小道ですれ違う時に彼にそっとメモを渡した。,ジャミは、当直の交代直前、小道ですれ違いざまに彼にそっとメモを渡した。

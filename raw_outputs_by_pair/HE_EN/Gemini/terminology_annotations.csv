@@ -1,0 +1,587 @@
+index,original,translated,locale_convention_annotation
+8,עוד צוין כי תועדו בתקופה האחרונה פחות מ-20 ברדלסים בשבעה מחוזות שונים במדינה.,It was also noted that fewer than 20 cheetahs have been documented in seven different provinces of the country in recent times.,"```
+MQM annotations:
+```"
+21,"לפני כמה שבועות, קיבלתי הזדמנות ראשונית לנסות את המוצר החדש, שזמין כרגע רק לנסיינים בודדים בארה""ב, כאן בישראל.","A few weeks ago, I received an initial opportunity to try the new product, which is currently only available to a few testers in the US, here in Israel.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""in the US"" should be ""in the USA"" to adhere to correct abbreviation style."
+23,"אחרי שבועיים של השתעשעות, הבנתי כיצד ה-Car Thing יכול להפוך בקלות לחלק בלתי נפרד מהמערכת של אנשים רבים.","After two weeks of playing around, I realized how the Car Thing could easily become an integral part of many people's systems.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/ Wrong capitalization - ""Car Thing"" should be ""Car Thing"".
+```"
+26,"אי שם בשנת 2018, משתמשי ספוטיפיי החלו לקבל הצעה מעניינת בתיבת האימייל שלהם - אפשרות לרכוש מכשיר חדש עם שליטה קולית וחיבוריות דור רביעי, שיהפוך כל מערכת ישנה לרכב לחכמה.","Sometime around 2018, Spotify users began receiving an interesting offer in their email inbox - the option to purchase a new device with voice control and 4G connectivity, that would turn any old car stereo into a smart one.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/wrong term - ""4G connectivity"" is a valid translation for ""דור רביעי"" but in this context, it should be ""4G connection""."
+56,"מסך הבית מוכר לכל המשתמשים באפליקציה, שכן כמו היישום בסמארטפון, הוא שם דגש על תמונות האלבומים ורשימות ההשמעה.","The home screen is familiar to all users of the app, as, like the application on a smartphone, it emphasizes album art and playlists.","```
+MQM annotations:
+```"
+60,"באמצעותה, תוכלו להפעיל שירים, פלייליסטים, אלבומים ואפילו לחפש פודקאסטים.","Through it, you can play songs, playlists, albums, and even search for podcasts.","```
+MQM annotations:
+```"
+72,"השאלה הזו מתחזקת בעת התחשבות בכך שמכשירי אייפון ואנדרואיד חזקים בהרבה מזה של ספוטיפיי, וברוב הפעמים יקנו למשתמש הרבה יותר פונקציונליות.","This question becomes stronger when considering that iPhones and Android devices are much more powerful than Spotify's [device/app], and in most cases will provide the user with much more functionality.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation of ""Spotify's [device/app]"" is too vague. It should be something more specific based on context."
+96,זה לא סוד - שיתוף ומוכנות הארגון |,It's no secret - organizational sharing and readiness.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""organizational sharing"" should be ""organizational cooperation"". ""Sharing"" implies a less formal or structured exchange than ""cooperation"" in a business context.
+```"
+105,הסקרנות מקדמת |,Curiosity advances.,"```
+MQM annotations:
+```"
+114,"העלות הכלכלית בגין אי־סגירת התחנות הפחמיות במועד שנקבע ביוני 2022 מוערכת בכמיליארד שקלים עבור שנת 2022, כך חושף דו""ח של מרכז המחקר והמידע של הכנסת.","The economic cost due to the failure to close the coal-fired power plants by the date set in June 2022 is estimated at approximately one billion shekels for 2022, according to a report by the Knesset Research and Information Center.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""coal-fired power plants"" should be in singular form ""coal-fired power plant"" to match the singular Hebrew term."
+126,בכמה יתייקר התשלום על המשכנתא?,By how much will the mortgage payment increase?,"```
+MQM annotations:
+```"
+132,"זאת, לאחר שבמשך שנים הריבית במשק היתה קרובה לאפס.",This is after the interest rate in the economy was close to zero for years.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""interest rate"" should be in plural form as the source uses ""ריבית"" which is plural.
+```"
+137,בכמה התייקרה המשכנתא הממוצעת מתחילת השנה?,By how much has the average mortgage increased since the beginning of the year?,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM/capitalization - ""By how much has the average mortgage increased since the beginning of the year?"" Mortgage should not be capitalized here."
+142,מסלול הריבית המשתנה צמודת מדד (26.7% במסלול הזה) ישלים התייקרות של כ־120 שקלים.,"The variable-rate, index-linked track (26.7% in this track) will result in an increase of about 120 shekels.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""variable-rate, index-linked track"" should be ""variable interest rate track, index-linked"". The current translation is understandable, but less precise and slightly awkward.
+```"
+150,לגבי רוכשי דירות מקבלן - צרור ממליץ להקדים תשלומים לקבלן ולקחת משכנתא כעת.,Regarding apartment buyers from a contractor - Tzur recommends expediting payments to the contractor and taking out a mortgage now.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - ""Tzur"" should be transliterated more accurately to reflect Hebrew pronunciation; potentially ""Tzur"" should be tagged as a named entity instead of a glossary term."
+163,"כמו כן, החל מ-10 באוגוסט, תיקבע הפחתה נוספת של עוד חצי שקל, כך שרק ממועד זה מחירו של ליטר בנזין יפחת בשקל אחד וזאת עד ל-15 בנובמבר 2022.","Furthermore, starting August 10th, an additional reduction of another half shekel will be determined, so that only from that date will the price of a liter of gasoline decrease by one shekel, and this is until November 15th, 2022.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""half shekel"" should be ""half a shekel"" for better readability.
+```"
+172,"למחיר הדלק יש השפעה דרמטית על יוקר המחיה במשק - משום שהוא משפיע גם על הוצאות משקי הבית וגם על הוצאות העסקים, על מחירי התחבורה הציבורית והטיסות, על עלויות ההובלה ועוד.","The price of fuel has a dramatic impact on the cost of living in the economy - because it affects both household expenses and business expenses, the prices of public transportation and flights, transportation costs, and more.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""cost of living"" should be more specific and contextualized, perhaps ""standard of living"" or ""expenses"". Though 'cost of living' is understandable, it is a general term that may not fully capture the intended nuance in this economic context.
+```"
+178,אשדוד היא העיר הידידותית ביותר לעסקים קטנים ובינוניים.,Ashdod is the most business-friendly city for small and medium-sized businesses.,"MQM annotations
+Terminology errors:
+minor: WRONG TERM - ""small and medium-sized businesses"" should be ""small and medium enterprises"". The correct translation of ""עסקים קטנים ובינוניים"" is small and medium enterprises, not small and medium-sized businesses
+```"
+181,"אחריהן ממוקמות לפי הסדר: אשקלון, ראשון לציון, תל אביב־יפו, חיפה, רמת גן, חולון, באר שבע, ירושלים, בת ים, נתניה ובני ברק.","Following them, in order, are: Ashkelon, Rishon LeZion, Tel Aviv-Yafo, Haifa, Ramat Gan, Holon, Be'er Sheva, Jerusalem, Bat Yam, Netanya, and Bnei Brak.","MQM annotations
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error"
+182,הסוכנות עורכת את מדד הרשויות המקומיות.,The Agency conducts the Local Authorities Index.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Agency"" should be ""The Agency"" to match the definite article present in the original text ""הסוכנות"".
+```"
+198,"פיתוח העסקים הקטנים הוא אינטרס ציבורי של כולנו, אולם לרשות המקומית יש השפעה ישירה על העסקים שנמצאים בה.","Developing small businesses is in everyone's public interest, but the local authority has a direct impact on the businesses located within it.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""local authority"" should be ""local government"" based on the glossary entry and general usage.
+```"
+199,"הקורונה הדגישה את חשיבותו של השלטון המקומי וראינו כי רשויות שפעלו ועודדו את קידום העסקים הקטנים ומצאו פתרונות יצירתיים עבורם, הפכו לממשק השלטוני הראשון עבורם"".","The coronavirus highlighted the importance of local government, and we saw that authorities that acted and encouraged the promotion of small businesses and found creative solutions for them, became the first governmental interface for them.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""governmental interface"" should be ""government interface"" to match standard English usage and be more natural. While ""governmental"" isn't strictly incorrect, ""government"" is more commonly used as an adjective."
+200,"רן קויתי, מנהל הסוכנות לעסקים קטנים ובינוניים במשרד הכלכלה והתעשייה, מוסיף: ""לרשויות המקומיות חלק מרכזי ומהותי ביכולתם של עסקים בתחומן לשגשג ולפרוח.","Ran Kviti, Director of the Small and Medium Business Agency in the Ministry of Economy and Industry, adds: ""Local authorities have a central and essential role in the ability of businesses within their boundaries to thrive and flourish.""","```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM - ""Ministry of Economy and Industry"" should likely be ""Ministry of Economy"" to match common English usage, though the provided translation isn't technically incorrect as ""Ministry of Economy and Industry"" is a valid phrasing. Contextually, ""Ministry of Economy"" is often preferred for brevity.
+```"
+201,"בשנתיים האחרונות, שבהן אנו מתמודדים עם משבר הקורונה, לרשויות משקל גדול יותר בסיוע לעסקים לשרוד בתחומן ולשרוד בכלל"".","In the last two years, during which we have been dealing with the Corona crisis, the authorities have had a greater weight in helping businesses survive in their field and survive in general.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""משקל גדול יותר"" is translated as ""greater weight."" While not incorrect, it lacks the nuance of ""significant role"" or ""greater responsibility,"" which might be more fitting in this context. However, it's not a critical error.
+```"
+217,"יותר חבילות הגיעו בדצמבר מבכל חודש אחר, ככל הנראה בעקבות חגי הקניות של נובמבר, דוגמת יום הרווקים הסיני, בלאק פריידי וסייבר מאנדיי.","More packages arrived in December than in any other month, most likely due to the November shopping holidays, such as Singles' Day in China, Black Friday, and Cyber Monday.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Singles' Day in China"" should be ""Chinese Singles' Day"" to better reflect the common usage and meaning.
+```"
+220,"לשכירים רבים מגיע כסף מהמדינה, שיכול להגיע לעשרות אלפי שקלים •","Many salaried employees are entitled to money from the state, which can amount to tens of thousands of shekels.","```
+MQM annotations:
+```"
+221,שיניתם מקום עבודה?,Did you change jobs?,"```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM - ""jobs"" is a possible translation, but ""job"" would be more natural in this context, as it is unlikely that the person changed to multiple jobs.
+```"
+223,עברתם מהעיר ליישוב?,Did you move from the city to a settlement/community?,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""settlement/community"" is not a precise translation of ""יישוב"". A more accurate translation, depending on context, could be ""community"" or ""settlement"" but the combination with the slash is awkward and imprecise in this context.
+```"
+249,100% מהעוברים לישוב מזכה קיבלו החזר מס על שנת המעבר היות ואישור על תושבות בישוב מזכה ניתנת רק לאחר 12 חודשים מיום הפיכת התושב לתושב מזכה ובכך למעשה השנה הראשונה משולם מס מלא.,"100% of those moving to an eligible locality received a tax refund for the year of the move, since proof of residency in an eligible locality is only given after 12 months from the day the resident becomes an eligible resident, and thus in effect, the first year is taxed in full.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - The term ""eligible locality"" is used twice when it should be consistent as ""locality מזכה"".
+minor: WRONG TERM/Wrong Term - The term ""eligible resident"" is used when it should be ""תושב מזכה""."
+253,שיעור ההחזר יכול להגיע לעשרות אלפי שקלים לאורך 6 שנים.,The return rate can reach tens of thousands of shekels over 6 years.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""return rate"" should be more accurately translated as ""rate of return"" or ""return on investment"" to better reflect the financial context. Although ""return rate"" is understandable, it's not the most precise term.
+```"
+255,"מנכ״ל tax:on, טל כרמון: ""משבר הקורונה גרם לכך שציבור השכירים בישראל הפך להרבה יותר אקטיבי.","tax:on CEO, Tal Carmon: ""The Corona crisis caused the salaried public in Israel to become much more active.""","```
+MQM annotations:
+```"
+256,"הוא מתעניין, בודק ודורש את מה שמגיע לו בהחזרים ממס הכנסה.","He's interested, checks, and demands what he's owed in tax refunds.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""tax refunds"" is a valid translation of ""החזרים ממס הכנסה"", but in this context, ""tax return"" would be slightly more accurate as it refers to the refund claim process. However, ""tax refunds"" is not incorrect, just slightly less precise."
+264,"לפי הדו""ח, מחפשי העבודה התעניינו בעיקר בתחומים רוויי משרות כמו אדמיניסטרציה ומכירות, שלגביהן נשלחו 1,738,485 קורות חיים.","According to the report, job seekers were mainly interested in saturated fields like administration and sales, for which 1,738,485 resumes were sent.","```
+MQM annotations:
+```"
+268,"השכר החודשי בתחום התוכנה היה 17,915 שקלים בממוצע, ובניתוח מערכות מידע הוא עמד על 17,140 שקלים.","The average monthly salary in software was 17,915 shekels, and in information systems analysis it was 17,140 shekels.","```
+MQM annotations:
+```"
+276,ההיצע הגדול ביותר היה למשרות ללא ניסיון - וכאלה היו יותר מ-58 אלף באתר.,"The largest supply was for entry-level positions - and there were more than 58,000 of them on the site.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""entry-level positions"" should be inflected according to the context. It should be ""entry-level positions"".
+```"
+286,"במילים אחרות, מדובר ב- 193 אלף לא מועסקים לעומת 180.3 אלף.","In other words, we're talking about 193,000 unemployed compared to 180,300.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""לא מועסקים"" is translated as ""unemployed"", which is acceptable but could be improved with a more precise translation reflecting the nuances of the Hebrew term, like ""not employed"" or ""non-employed"". However, since ""unemployed"" is a common and generally understood term, the error is minor.
+```"
+289,"מאלה שבכוח העבודה 95.5% המהווים 4,059,700 הם מועסקים והשאר בלתי מועסקים.","Of the workforce, 95.5%, constituting 4,059,700, are employed, and the rest are unemployed.","```
+MQM annotations:
+```"
+295,"הסקר מאפשר מעקב אחר ההתפתחות בכוח העבודה, גודלו ותכונותיו, היקף האבטלה ועוד.","The survey allows for tracking the development of the workforce, its size and characteristics, the scope of unemployment, and more.","```
+MQM annotations:
+```"
+301,הקידוש והמסורת הם שורש מאוד עמוק בנשמה שלי.,Sanctity and tradition are a very deep root in my soul.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM/wrong term - ""Sanctity"" is a possible translation of ""הקידוש"" but it's not the best fit in this context. ""Sanctity"" leans more towards holiness or sacredness, whereas ""הקידוש"" in this context (and given the connection to ""tradition"") likely refers to the *act* of sanctification or ritual of Kiddush (often associated with Jewish Sabbath or holidays). While understandable, it slightly misses the nuance. A better fit might have been something like ""Sanctification"" or ""Kiddush"" itself, if keeping with a more Hebrew-centric cultural context.
+```"
+302,"ימי שישי אצלי מוקדשים לילדים, אור (10) ויונתן (8).","Fridays for me are dedicated to the children, Or (10) and Yonatan (8).","MQM annotations:
+Terminology errors:
+None"
+310,"כשאנחנו מגיעים לחמותי, כבר מלובי הבניין עולים ריחות מדהימים מהדירה שלה.","When we arrive at my mother-in-law's, even from the building lobby, amazing smells rise from her apartment.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""mother-in-law's"" should be ""mother-in-law's house"" or similar to match the intended meaning of visiting her home, not just referring to her as a person.
+```"
+316,כל פינה נידחת בארץ עשתה לו גאווה בלב.,Every remote corner of the land filled his heart with pride.,"```
+MQM annotations:
+```"
+323,שבוע־שבועיים לפני יום העצמאות כבר הייתי מטפס על עצים וקושר לבית חוטים עם דגלי ישראל.,"A week or two before Independence Day, I would already be climbing trees and tying wires with Israeli flags to the house.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Independence Day"" should be translated according to the glossary entry, potentially taking into account the specific context and desired level of formality."
+348,"""הייתי פותחת שולחן גדול ומזמינה את 'המתים שלי'.",I would set a large table and invite 'my dead ones.',"```
+MQM annotations:
+```"
+349,"לפעמים אני מדמיינת מה היה אילו אחי דניאל ז""ל היה בחיים, או אם אבא שלי, שניאור ז""ל, היה רואה את הילדים שלי: אוריאל (23) והתאומות תמרה ונעמה (16 וחצי).","Sometimes I imagine what it would be like if my brother Daniel, may his memory be a blessing, was alive, or if my father, Schneur, may his memory be a blessing, could see my children: Uriel (23) and the twins Tamara and Naama (16 and a half).","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""may his memory be a blessing"" is a literal translation of ""ז""ל"" and is slightly awkward in English. While not strictly incorrect, alternative renderings like ""of blessed memory"" are more common.
+minor: WRONG TERM -  Same as above, ""may his memory be a blessing"" is a literal translation of ""ז""ל"" and is slightly awkward in English. While not strictly incorrect, alternative renderings like ""of blessed memory"" are more common.
+```"
+364,"ביבי תשחק בתפקיד נועה, שאותו גילמה דפנה ארמוני.","Bibi will play the role of Noa, which was played by Dafna Armoni.","```
+MQM annotations:
+```"
+371,את הידיעה המשמחת חלקה אתמול בערב (שישי) לופז עם מעריציה באתר הרשמי שלה onthejlo.com,Lopez shared the joyous news yesterday evening (Friday) with her fans on her official website onthejlo.com.,"```
+MQM annotations:
+```"
+390,"עכשיו אנחנו יותר חשופות, פונות ישירות למצלמה באופן טבעי, לא רק ריאליטי אלא סדרה דוקומנטרית אותנטית"".","""Now we are more exposed, addressing the camera directly in a natural way, not just reality TV but an authentic documentary series.""","```
+MQM annotations:
+```"
+402,אינדינגב בניחוח בינלאומי: אפגן וויגז מצטרפים אל אביתר בנאי ונגה ארז,IndieNegev with an international flavor: Afghan Whigs join Avitar Banai and Noga Erez.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/ Wrong capitalization - ""Afghan Whigs"" should be ""The Afghan Whigs"" to match the proper name of the band.
+```"
+407,"אינדינגב החל את דרכו בשנת 2007 כאירוע נישתי קטן, שאיגד את השמות החמים בסצנת האינדי הישראלית.","IndieNegev began its journey in 2007 as a small, niche event that brought together the hottest names in the Israeli indie scene.","```
+MQM annotations:
+```"
+409,אביב גפן ושרית חדד: פסטיבל חוצות היוצר בירושלים בהפתעות חדשות,Aviv Geffen and Sarit Hadad: The Jerusalem Arts and Crafts Fair with new surprises.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""The Jerusalem Arts and Crafts Fair"" should be ""Hutzot Hayotzer"".
+```"
+410,"הפסטיבל הבינלאומי בבירה, שהפך למסורת ויתקיים במספר מוקדים יציג מופעים מוזיקליים של אמנים מקומיים מובילים, וישלב מופעי קרקס ומיצגים אמנותיים חדשניים ומפתיעים","The international festival in the capital, which has become a tradition and will take place in several locations, will present musical performances by leading local artists and incorporate circus performances and innovative and surprising artistic displays.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/ Wrong Term - ""artistic displays"" should be ""art installations"" to align with the standard translation of ""מיצגים אמנותיים"".
+```"
+417,"SPARKS הוא מופע קרקס, תנועה וריחוף אווירי של קרקס Y, תערוכת צילום אינסטגרמית בהשראת יצירות אמנות מפורסמות.","SPARKS is a circus, movement, and aerial levitation show by Circus Y, an Instagrammable photography exhibition inspired by famous works of art.","```
+MQM annotations:
+```"
+418,"The Black Box Gallery – היא גלריית ההצצה של היוצר והמבצע ליאור כלפון, שתוצב ברחבת היריד עם חורי הצצה שיחשפו את הקהל לתערוכת יצירותיו הזרחניות של ליאור כלפון, יצירות אמנות של פסלים מוארים של האמן הרב תחומי אלון בירגר (תיאטרון האור) ועוד.","The Black Box Gallery – is the peepshow gallery of creator and performer Lior Kalfon, which will be placed in the fairground with peepholes that will expose the audience to an exhibition of Lior Kalfon's fluorescent works, artworks of illuminated sculptures by multi-disciplinary artist Alon Birger (Theater of Light), and more.","```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM/ capitalization - ""Theater of Light"" should be ""Theatre of Light"" as it is a proper noun and should be capitalized consistently.
+```"
+444,.,". ,","Okay, I'm ready to analyze the provided translations and identify any terminology errors based on the given guidelines. I will await the source and target segments to perform the annotation."
+446,"היא מרוויחה על קמפיינים יותר מוונדר וומן, היא יפה מדי, היא יודעת להעמיד במקום את דנה ויס, וכשצריך - גם לסנגר על השותף העסקי שלה.","She earns more on campaigns than Wonder Woman, she's too beautiful, she knows how to put Dana Weiss in her place, and when needed - also defend her business partner.","```
+MQM annotations:
+```"
+457,כאן מחפשים גיבורי־על.,Superheroes wanted here.,"```
+MQM annotations:
+```"
+465,"תגידו: ספונג'ה וניקיונות, סירים על הגז וריחות בחדר המדרגות, ירון אילן או אבי כאכון בטלוויזיה, אבל הכי מוזר יהיה אם מישהו יגיד פתאום ""גיל ססובר"".","Say: ""Sponge and cleaning, pots on the stove and smells in the stairwell, Yaron Ilan or Avi Kakun on television,"" but it would be strangest if someone suddenly said ""Gil Sassover.""","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Sponge"" should be ""Floor cloth"" to better reflect the meaning of ספונג'ה in this context.
+```"
+468,לאורך מחצית ממנה - ססובר עומד.,Along half of it - Sassover stands.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""Sassover"" should be inflected in this context, likely to ""Sassoverer"".
+```"
+477,"רותי רוסו בתגובה: ""שמחה שיש מקומות שמשקיעים יותר בקולינריה של אוכלוסייה זו"".","Ruti Russo in response: ""Glad there are places that invest more in the culinary aspect of this population's food.""","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""אוכלוסייה"" should be ""אוכלוסייה זו"" to match the source text.
+```"
+481,בישראל בשנים האחרונות יותר ויותר משפחות ואנשים מבוגרים מבינים כי בדידות זו המחלה הקשה ביותר בגיל מבוגר ורואים במקומות הקהילתיים כפתרון מוכח למחלה.,"In Israel, in recent years, more and more families and elderly people understand that loneliness is the most difficult disease in old age and see community spaces as a proven solution to the disease.","```
+MQM annotations:
+```"
+483,מרבית בתי הדיור המוגן נעזרים בשפים מקצועיים על מנת לבנות תפריט.,Most assisted living facilities employ professional chefs to create their menus.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""assisted living facilities"" is a valid translation of ""בתי דיור מוגן"" but ""retirement home"" would be a more accurate translation in this context.
+```"
+487,"אני מכבדת את עבודתם הקשה של טבחים, טבחיות, שפיות ושפים בכל מקום, גם בדיור המוגן"".","I respect the hard work of cooks, female cooks, chefs, and male chefs everywhere, including in assisted living facilities.","```
+MQM annotations:
+```"
+491,"הזמר בתגובה: ""הפלישה לאוקראינה שונה מאוד מהקונפליקט הישראלי-פלשתיני","The singer, in response: ""The invasion of Ukraine is very different from the Israeli-Palestinian conflict.""","```
+MQM annotations:
+```"
+518,"לבקשת שר הבריאות ניצן הורוביץ, ימשיך במקביל בתפקידו כפרויקטור.","At the request of the Minister of Health, Nitzan Horowitz, he will continue in his role as project manager in parallel.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The word ""parallel"" is grammatically incorrect. It should be ""in parallel"" or ""concurrently"".
+```"
+527,"דו""ח מבקר המדינה: התקציב בפועל ברוב שנות פעילות ועדת סל התרופות – קטן מהתקציב המומלץ",State Comptroller's Report: The actual budget in most years of operation of the drug basket committee – was smaller than the recommended budget.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""drug basket committee"" should be ""medicines basket committee"" to align with the official terminology.
+```"
+528,"על פי הדו""ח של מתניהו אנגלמן, במשך יותר מ-20 שנות פעילות הסל – משרד הבריאות לא פיקח על פעילות הוועדה •","According to Matanyahu Engelman's report, for over 20 years of the basket's operation, the Ministry of Health did not oversee the committee's activities.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""the basket's operation"" should be ""the basket of medicines' operation"" or ""the health basket's operation"" to be more specific and clear. While understandable, it lacks precision.
+```"
+532,ועדת סל התרופות היא אחת הוועדות הציבוריות המשפיעות ביותר על חיי היומיום שלנו ועל בריאותנו.,The drug basket committee is one of the most influential public committees on our daily lives and our health.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The definite article ""the"" should not be used in ""The drug basket committee"".
+
+```"
+535,"על פי הדו""ח של מתניהו אנגלמן, הוא ממליץ ""לבצע בתהליך הרחבת הסל תיקונים ושיפורים, שיביאו למיצוי איכותי יותר של תקציב סל שירותי הבריאות שהציבור זכאי לו"".","According to Matanyahu Englman's report, he recommends ""making corrections and improvements in the process of expanding the basket [of health services], which will lead to a more qualitative realization of the health services basket budget to which the public is entitled.""","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""basket [of health services]"" should either be ""health basket"" or ""basket of health services"", but without brackets.
+```"
+539,"ברוב שנות פעולת הוועדה (90% מהזמן), גובה התוספת התקציבית היה קטן מ-1.5% של סל הבריאות, שיעור שהומלץ על ידי ועדות שונות כשיעור התוספת הרצוי.","For the majority of the committee's years of operation (90% of the time), the amount of the budget increase was less than 1.5% of the health basket, a rate recommended by various committees as the desired increase rate.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""health basket"" should be ""basket of health services"".
+```"
+559,אנגלמן ממליץ למשרד הבריאות לעדכן את נהלי עבודת הסל וגם לקבוע האם יש צורך בתוספת כספית נפרדת עבור שירותים אלו.,Engelman recommends that the Ministry of Health update the procedures for the basket of services and also determine whether there is a need for a separate financial supplement for these services.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/capitalization - ""Ministry of Health"" should likely be ""ministry of health"" (lowercase) as it is not used as a formal title here.
+minor: WRONG TERM/grammar - ""basket of services"" should likely be ""basket of health services"" to match common usage and be grammatically correct.
+```"
+581,"ד""ר נעמה נוס אחראית אפדימיולוגיה לשכת הבריאות בת""א ציינה כי ""אנחנו לא יכולים לקבוע חד משמעית ממה שלושת הידיירים נפטרו.","Dr. Na'ama Nuss, the epidemiology officer at the Tel Aviv Health Bureau, stated that ""We cannot definitively determine what the three victims died from.""","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The capitalization of ""epidemiology"" should match the glossary specification.
+```"
+593,"יגאל נחתומי, מנכ""ל בית אקשטיין שמנהל את המעון ואף ניהל את המעון בעצמו אמר ""מאות ואלפי אנשים בכל המערך קמים רק במטרה אחת: לעשות טוב לאנשים.","Yigal Nahtomi, CEO of Beit Ekstein, which manages the residence and even managed the residence himself, said, ""Hundreds and thousands of people throughout the system wake up with only one goal: to do good for people.""","```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM/ Wrong capitalization - ""Beit Ekstein"" should likely remain as ""בית אקשטיין"" (transliterated) or be translated to ""Ekstein House/Home"" depending on the context and glossary definition. Since it's the name of an organization, transliteration is more appropriate.
+```"
+595,את אחת הדיירות הרדמתי על הידיים.,I lulled one of the residents to sleep in my arms.,"```
+MQM annotations:
+```"
+604,"זהו ההליך הראשון שביצע ד""ר פראס אבו עכר כמנהל היחידה לניתוחי חזה בבית החולים •",This is the first procedure Dr. Firas Abu Akar performed as the director of the Breast Surgery Unit at Hospital •.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The article ""the"" is missing before ""Hospital""."
+619,"לדבריו, הלב היה מרוקן מדם, לחצי הדם היו אפסיים, והגישה הניתוחית היתה שגויה.","According to him, the heart was drained of blood, the blood pressure was negligible, and the surgical approach was incorrect.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""blood pressure"" does not precisely translate ""לחצי הדם"" which refers to blood pressure values, not just the concept of blood pressure.
+```"
+622,"עוד ציין: ""מדובר בהליך לא מסובך, שנמשך כמה דקות"", והוסיף: ""לא ניתן שלא להתייחס לתהליך הלקוי של קבלת ד""ר אבו עכר לתפקיד.","He also noted: ""This is a straightforward procedure, that takes a few minutes,"" and added: ""It's impossible not to address the flawed process of Dr. Abu Akar's appointment to the position.""","```
+MQM annotations:
+```"
+647,"ד""ר שלומי קודש לא שוכח, גם ממרום תפקידו, את הדחיפה מפרופ' שאול סוקניק ז""ל •","Dr. Shlomi Kodesh doesn't forget, even from his high position, the push from Prof. Shaul Soknik, of blessed memory.","```
+MQM annotations:
+```"
+674,"על פרופ' שאול סוקניק ז""ל","On Professor Saul Sukenik, of blessed memory.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""of blessed memory"" is a standard English phrase but may not be the most natural or appropriate translation for ""ז""ל"" (z""l) in this context. While accurate, it could be considered slightly awkward or formal.
+```"
+676,.,". ,","Okay, I'm ready to analyze the provided source and translation and annotate any terminology errors. I will wait for the source and translated text to be provided. Once I have that, I will use the annotation template to identify and classify any terminology errors, paying close attention to the glossary entries."
+684,"כאשר סיימתי את ההתמחות והתלבטתי אם לנסוע לתקופת השתלמות בחו""ל, שאול דחף וכיוון אותי, וסייע לי במכתבי המלצה ובעצות כיצד להתנהל.","When I finished my internship and was debating whether to go for a fellowship abroad, Shaul pushed and guided me, and helped me with recommendation letters and advice on how to proceed.","```
+MQM annotations:
+```"
+692,הביא לאור: איליה יגורוב,Brought to light by: Ilya Yegorov,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Brought to light by"" is a valid translation of ""הביא לאור"", but in this context, ""Edited by"" or ""Published by"" would be more appropriate. However, it doesn't significantly hinder comprehension.
+```"
+701,אבל למדתי ממנו דברים משמעותיים ועמוקים אף יותר.,But I learned from him things that were even more significant and profound.,"```
+MQM annotations:
+```"
+709,זו הסיבה שד״ר טומי שינפלד מהווה עבורי הרבה יותר מדמות מעוררת השראה.,This is why Dr. Tommy Sheinfeld is much more than an inspiring figure for me.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Dr."" should be ""Dr"" (without the period)."
+717,"מגפת האומיקרון משתוללת והעומס כבר מורגש בבתי החולים: 37,847 אלף נדבקים אובחנו אתמול (שני) עם קורונה.","The Omicron epidemic is raging and the burden is already being felt in hospitals: 37,847 new coronavirus cases were diagnosed yesterday (Monday).","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""new coronavirus cases"" should be ""new cases of coronavirus"" or ""new COVID-19 cases"" to be more natural. While understandable, it's slightly awkward.
+```"
+731,"אנשי צוות רפואי מבודדים, מתוכם 542 רופאים.","Medical staff in isolation, including 542 doctors.","```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - ""Medical staff"" should be ""Medical personnel"" to align with common terminology.
+```"
+737,"ואולם, למרבה הצער, לעתים מסתיימות לידות בנזקים חמורים הנגרמים ליולדת או ליילוד כתוצאה מהתרשלות הצוות הרפואי.","However, unfortunately, sometimes births end with serious damage caused to the mother or the newborn as a result of medical staff negligence.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""medical staff negligence"" should be ""negligence of the medical staff"" or ""medical malpractice"" for better flow and accuracy in legal/medical contexts.
+
+```"
+738,"במקרים שבהם הסתיימה הלידה בפגיעה גופנית, ליילוד או לאם, יש מקום לבחון את השתלשלות האירועים אשר הובילו לפגיעה ואף לשקול פנייה לקבלת ייעוץ משפטי.","In cases where the delivery resulted in physical injury to the newborn or the mother, there is reason to examine the sequence of events that led to the injury and even consider seeking legal advice.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/grammatical error - ""יילוד"" should be inflected to ""לילוד"" (to the newborn).
+```"
+745,שלב הצירים נמשך בממוצע בין 8 ל-14 שעות.,The first stage of labor lasts on average between 8 to 14 hours.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""The first stage of labor"" should be ""The first phase of labor"" to accurately reflect the meaning of ""שלב הצירים"".
+```"
+766,"במקרים מסוימים, מתפתחת לידה דיספונקציונלית, קרי, חוסר התקדמות של תהליך הלידה האקטיבית.","In some cases, dysfunctional labor develops, meaning a lack of progress in the active labor process.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""dysfunctional labor"" should be ""dystocia""
+```"
+778,שיתוק על שם ERB,Erb's palsy,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Erb's palsy"" should be ""Erb's paralysis"". While ""palsy"" and ""paralysis"" can be used interchangeably, ""Erb's paralysis"" is the more accurate and common term in a medical context."
+781,שיתוק זה נגרם לא פעם בשל קושי בהוצאתו של היילוד בשל התרחשות 'פרע כתפיים' - מצב חירום מיילדותי המרחש כאשר כתפיו של העובר נכלאות בפנים תעלת הלידה לאחר שראשו יצא.,This paralysis is often caused by difficulty in delivering the newborn due to the occurrence of shoulder dystocia - an obstetric emergency that occurs when the baby's shoulders become trapped inside the birth canal after the head has emerged.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""shoulder dystocia"" should be translated into Hebrew according to the glossary.
+```"
+795,פטירת יולדת במהלך הלידה הינו אירו נדיר למדי.,The death of a woman in childbirth is a fairly rare event.,"```
+MQM annotations:
+```"
+797,במקרים מסוימים לא מאתר הצוות הרפואי דימום אצל היולדת במועד או מגיב באיחור לדימום כאמור.,"In some cases, the medical team does not detect bleeding in the postpartum woman in time or responds late to the aforementioned bleeding.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""postpartum woman"" is a possible but less common translation of ""יולדת"" than ""new mother"" or ""woman who has just given birth."" While technically correct, it's slightly less natural in this context.
+```"
+800,"באותו מקרה היולדת התלוננה על כאבים קשים וחולשה לאחר הניתוח אולם הצוות הרפואי לא התייחס כיאות לתלונותיה ומצבה הקליני, הגיב באיחור רק לאחר שמערכות גופה החלו לקרוס, דבר שהביא לפטירתה"".","In that case, the woman who had given birth complained of severe pain and weakness after the surgery, but the medical staff did not adequately address her complaints and clinical condition, responding late only after her bodily systems began to collapse, which led to her death.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""medical staff"" should be ""team"" or ""staff"" according to the glossary, and the provided translation sounds less natural.
+```"
+805,"פיצוי יילוד בגין פגיעה עקב רשלנות רפואית בלידה כולל רכיבי נזק רבים, כאשר הסכומים המשמעותיים ביותר ניתנים עבור כאב וסבל, סיעוד וטיפול בשכר, הפסדי שכר ופנסיה לנפגע ואף להוריו ורכיבי נזק נוספים.","Compensation for a newborn due to injury resulting from medical negligence during childbirth includes many damage components, with the most significant amounts awarded for pain and suffering, nursing and care wages, loss of wages and pension for the injured party and even their parents, and additional damage components.","MQM annotations:
+Terminology errors:
+major: WRONG TERM - ""nursing and care wages"" is not the best translation for ""סיעוד וטיפול בשכר"". A better option would be ""nursing care costs"" or ""paid nursing care"".
+major: WRONG TERM - ""damage components"" is not as accurate as ""elements of damages"". It should be ""elements of damages""."
+813,מחקר העלה כי קיים קשר בין התפתחות המחלה לנישואי קרובים •,A study found a link between the development of the disease and consanguineous marriages.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""consanguineous marriages"" is a valid translation, but ""marriage between relatives"" might be more easily understood by the general public. While not technically incorrect, it could be argued a more accessible term would be preferable.
+```"
+830,"הדבר נובע בעיקר משכיחות גבוהה של נישואים בתוך המשפחה (בעיקר במגזר הבדואי) ומאלרגיות שונות, וחוסר מודעות לטיפול נכון בבעיה"".","The issue stems mainly from a high prevalence of consanguineous marriages (especially in the Bedouin sector) and from various allergies, as well as a lack of awareness regarding proper treatment of the problem.","```
+MQM annotations:
+```"
+855,"עד כיתה ט' למד בבית הספר בכפר חורפיש, ולאחר מכן עבר לפנימייה הצבאית שבבית הספר הריאלי בחיפה.","Until 9th grade, he studied at the school in the village of Hurfeish, and then he moved to the military boarding school at the HaReali School in Haifa.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""HaReali School"" should likely be ""Reali School"" to match common usage and avoid redundancy, assuming ""Ha"" is the definite article which is already present in ""the"" before the school name."
+861,"בשנת 2010 חבר לעמותת ""אחריי"" והתחיל להדריך קבוצה בכפר חורפיש, לאחר שדאג שהעמותה תחל לפעול בכפרים הדרוזיים כדי לעודד את בני הנוער להתגייס.","In 2010, he joined the ""Acharei!"" association and began mentoring a group in the village of Hurfeish, after ensuring that the association would begin operating in Druze villages to encourage youth to enlist in the army.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Acharei!"" should be ""Acharei"".
+```"
+869,"ראוי שהוא יקבל את המקום המתאים לו"".",He deserves the place that suits him.,"```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM - The word ""place"" should have been translated into a more suitable term, given the context. It's not technically wrong, but could be improved for nuance.
+```"
+876,אך בתקשורת הערבית הוצג בדיעבד ציוד קשר שלדברי הפלשתינים הושאר על ידי הכוחות מאחור.,"However, in Arab media, communication equipment was presented after the fact, which the Palestinians claimed was left behind by the forces.","```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM - The term ""after the fact"" is a literal translation and sounds awkward in this context. A more natural translation would be ""subsequently"" or ""later"".
+```"
+877,"לטענת חמאס, המבצע נועד להטמנת מכשירי האזנה.","According to Hamas's claim, the operation was intended to plant listening devices.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The article ""the"" should be removed from ""According to Hamas' claim""."
+885,"מפקד כוח הלוחמים ולוחם נוסף בצוות קיבלו אף הם צל""ש.",The commander of the fighting force and another fighter on the team also received citations.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""citations"" might not be the most accurate translation of ""צל""ש"" in this context. A more specific term related to military awards might be more appropriate."
+889,"ישראל צריכה לשאול את עצמה, שוב, אם לא נכון לשנות מדיניות מול גזרת ג'נין •","Israel needs to ask itself, again, if it isn't right to change its policy toward the Jenin area.","MQM annotations
+Terminology errors:
+minor: WRONG TERM - ""Jenin area"" should be ""Jenin district""
+```"
+895,"עדות לכך ניתנה במהלך מבצע המעצרים שבו נהרג שלשום לוחם הימ""מ, רס""ב נעם רז ז""ל.","Evidence of this was given during the arrest operation in which YAMAM fighter, Staff Sergeant Noam Raz, of blessed memory, was killed the day before yesterday.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - ""of blessed memory"" is a common, but less precise, translation of ז""ל (Zichrono Livracha). While not technically incorrect, it's a less accurate rendering than options like ""may his memory be a blessing."" The whole glossary entry must be annotated.
+```"
+896,"לוחמים שהשתתפו בקרב בג'נין העידו כי הם אינם זוכרים היקף כזה של ירי ואלימות - עדות לא רק לכמות האדירה של אמל""ח שיש בשטח, אלא גם לנכונות להשתמש בו.","Fighters who participated in the battle in Jenin testified that they do not remember such a scope of fire and violence - evidence not only of the immense amount of weaponry present in the area, but also of the willingness to use it.","```
+MQM annotations:
+```"
+901,"פעילות מבצעית היא עניין מסוכן למי שמשתתף בה, ולמי שנוכח בזירה.",An operational activity is a dangerous matter for those who participate in it and for those who are present in the area.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""operational activity"" is a bit too literal. While not incorrect, ""military operation"" or ""operation"" would be more natural and fitting in the context.
+```"
+906,"ממילא נראה ששום דבר לא ישכנע את המשוכנעים: העולם כבר הזדרז לגנות את ישראל מבלי שטרח לאזן זאת במילת אמפתיה לקורבנות הטרור הפלשתיני - העילה המקורית שבשמה צה""ל פועל ללא הרף בג'נין.","Anyway, it seems nothing will convince the convinced: the world has already rushed to condemn Israel without bothering to balance it with a word of empathy for the victims of Palestinian terror – the original cause for which the IDF is constantly operating in Jenin.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Palestinian terror"" should be ""Palestinian terrorism"" to align with common usage and potentially the glossary definition.
+```"
+907,"כתמיד, טבעם של סיפורים כאלה לגווע.","As always, the nature of such stories is to fade away.","```
+MQM annotations:
+```"
+911,האחריות מחייבת: לפעול להרגעת המצב.,Responsibility requires: to act to calm the situation.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""to calm the situation"" sounds slightly awkward. While not strictly incorrect, a more natural phrasing might be ""to de-escalate the situation"" or ""to ease tensions,"" depending on the specific context.
+```"
+919,"ח""כ עופר כסיף הוא הדוגמה האחרונה לכך; אם לא יינקטו כלפיו צעדים - לרבות העמדה לדין על תקיפת שוטר - תעודד המדינה במשתמע את נבחר הציבור הבא להקצין עוד יותר את פעולותיו.",MK Ofer Cassif is the latest example of this; if no action is taken against him - including prosecution for assaulting a police officer - the state will implicitly encourage the next elected official to further radicalize their actions.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""MK"" should be ""Member of Knesset"".
+```"
+921,"מכל מי ששכל ישר בראשו מצופה להתעלות מעל לכל אלה, ולפעול להרגעת המצב; אחרת, עלולה ישראל לגלוש במהירות להסלמה מול אויבים מבחוץ, וגרוע מכך - מול יריבים מבית.","Anyone with common sense is expected to rise above all this and act to calm the situation; otherwise, Israel could quickly slide into escalation with enemies from abroad, and worse - with rivals from within.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation of ""שכל ישר"" as ""common sense"" is a reasonable approximation but could be refined for better accuracy in a more formal context. There may be a more precise term in the glossary.
+```"
+928,"נוסף על כך, בין 100 ל-110 אלף פלשתינים עם היתרי עבודה נכנסים מדי יום לעבודה בישראל דרך 34 מעברים מפוקחים.","In addition, between 100,000 and 110,000 Palestinians with work permits enter Israel daily for work through 34 supervised crossings.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""supervised crossings"" should be ""controlled crossings"" to align better with the common translation of ""מפוקחים"" in this context.
+
+```"
+940,"לעיתים הדבר חוזר על עצמו גם בפעם השנייה, אך רק בפעם השלישית הוא נעצר, נכלא ומוגש נגדו כתב אישום בגין שהייה בלתי חוקית.","Sometimes it repeats itself a second time as well, but only the third time is he stopped, imprisoned, and indicted for illegal stay.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""illegal stay"" is a valid translation of ""שהייה בלתי חוקית,"" but in the context of criminal charges, ""unlawful presence"" or ""illegal residence"" might be more appropriate. However, the term isn't technically incorrect, making it a minor issue.
+```"
+954,הוא יכול להיות אב למשפחה שנכנס לארץ לעבוד כדי להרוויח כמה שקלים ולחזור.,He could be a family man who entered the country to work in order to earn a few shekels and return.,"```
+MQM annotations:
+```"
+968,"חברות רשומות לא עוסקות בזה, מכיוון שאם החברה תיתפס, דינה להיסגר"".","Registered companies do not engage in this, because if the company is caught, its punishment is to be shut down.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/capitalization - ""Registered companies"" should likely be ""Registered Companies"" to adhere to English capitalization conventions for titles or headings, but this is a minor stylistic issue.
+```"
+971,"לרוב החבר'ה האלה מסיעים עם רכב מצ'וקמק כי הם יודעים שנחרים להם את הרכב אז הם מעדיפים לנסוע ברכב ישן"".","""Most of these guys drive around in beat-up cars because they know their vehicles will be confiscated, so they prefer to drive an old car.""","```
+MQM annotations:
+```"
+972,תיעוד: הצתת שדות במושב ציפורי,Documentation: Arson of fields in Moshav Tzippori.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Moshav"" should be transliterated according to the glossary specifications.
+```"
+979,"נציין כי במוקד זה הוקם ה""שומר החדש"" בניסיון למגר את התופעה הקשה.","We note that the ""New Guard"" was established at this focal point in an attempt to eradicate the severe phenomenon.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""New Guard"" is a proper noun and should be ""New Guard"", not ""New guard"".
+```"
+981,"במסגרת התרגיל המטכ""לי ""מרכבות אש"", התרעת צופרים תשמע ביום ראשון, שני ורביעי בכמה מוקדים בישראל •","As part of the general staff exercise ""Chariots of Fire,"" sirens will be heard on Sunday, Monday, and Wednesday in several locations in Israel.","```
+MQM annotations:
+```"
+999,"בפעילות הלוחמים בעיר ג'נין שבמרחב החטיבה המרחבית מנשה, נעצרו שני מבוקשים החשודים בפעילות טרור.","During the activity of the soldiers in the city of Jenin, in the area of the Menashe Regional Brigade, two wanted individuals suspected of terrorist activity were arrested.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Regional Brigade"" should be ""Regional Division""."
+1029,משרד רואה חשבון יהודה ברלב לא מעוניין להגיב.,The Yehuda Barlev accounting firm is not interested in commenting.,"```
+MQM annotations:
+```"
+1032,"גנץ התייחס בין היתר לתיעוד של אל-סייד בשבי החמאס: ""סרטון שמטרתו סחטנות – על גבה של סוגייה הומניטארית"" •","Gantz addressed, among other things, the documentation of al-Sayed in Hamas captivity: ""A video whose purpose is extortion - at the expense of a humanitarian issue.""","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""A video whose purpose is extortion - at the expense of a humanitarian issue."" The original text is referring to ""Al-Sayed"" being used as a tool for extortion, not just ""a video"". The text seems to be missing the reference to Al-Sayed explicitly.
+```"
+1036,"חמאס מחזיק בשבי את ארבעת הבנים בניגוד לחוק הבינלאומי, בניגוד למוסר.","Hamas is holding the four sons captive in violation of international law, in violation of morality.","```
+MQM annotations:
+```"
+1046,"""'השלוחים החדשים', הם טרוריסטים עם מקלדת שדינם כמו לוחמי ארגוני טרור אחרים.","""The 'new emissaries' are keyboard terrorists whose fate is like that of fighters in other terror organizations.""","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""emissaries"" is a possible translation of ""שלוחים"", but it's a formal word, and ""representatives"" or ""agents"" might be more appropriate in this context, though it doesn't significantly hinder comprehension.
+```"
+1047,"אנחנו יודעים מי הם, אנחנו פוגעים בהם ובשולחיהם, וגם היום הם על הכוונת שלנו – ולא רק במימד הקיברנטי.","We know who they are, we are harming them and their senders, and even today they are in our sights – and not only in the cyber dimension.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""cyber dimension"" should be ""cyber realm"" according to the glossary.
+```"
+1073,"מדריך לחימה בטרור של מג""ב עוטף ירושלים: ""הפיתוח, נותן מענה רלוונטי לאיומי הייחוס ומדמה את המציאות בשטח"" •","Border Police Jerusalem Envelope Counter-Terrorism Training Guide: ""The development provides a relevant response to the designated threats and simulates the reality on the ground.""","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Border Police Jerusalem Envelope"" should likely be more specific and potentially more accurate in its translation based on context."
+1081,"במסגרת התחרות, וכמענה לצורך בתרגול לוחמי מג""ב ללחימה באימון ירי בתנועה ובמתארים מסוג זה, אסף בן דויד, מדריך לחימה בטרור של מג""ב עוטף ירושלים פיתח את ""מתקן אסף"", המורכב ממטרה דינאמית, שמחוברת למוט טלסקופי עליו מורכב מנשא שניתן לרתום למדריך.","Within the framework of the competition, and in response to the need for Border Police fighters to practice fighting in live-fire exercises while moving and in scenarios of this kind, Asaf Ben David, a counter-terrorism combat instructor for the Border Police of the Jerusalem Envelope, developed the ""Asaf Device,"" which consists of a dynamic target connected to a telescopic pole on which a carrier is mounted that can be harnessed to the instructor.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Border Police"" should be ""Border Guard Police"".
+minor: WRONG TERM - ""Jerusalem Envelope"" should be ""Jerusalem Area""."
+1082,"משרתם המדריך את המנשא למותנו, הוא יכול לתרגל את הלוחם שעומד לפניו על ידי שליטה והזזת המטרה לצדדים וטווחים שונים.","Their servant guiding the carrier to our death, can practice the warrior standing before them by controlling and moving the target to different sides and ranges.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Their servant"" is not the correct way to translate ""משרתם"" in this context. A more accurate translation would be ""Their instrument"" or ""That which serves them"". The current translation is understandable, but slightly off."
+1091,מתניהו אנגלמן התריע בשבוע הסייבר הבינלאומי מפני חוסר המוכנות של ישראל לתקיפות פצחנים •,Matanyahu Englman warned at Cyber Week about Israel's lack of preparedness for hacker attacks.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - ""Cyber Week"" should be ""International Cyber Week"".
+```"
+1109,"במקביל לאימונים האינטנסיביים עם הנבחרת, בלייזר עסק בשבוע האחרון גם בעתידו, עד שחתם לשנתיים בהפועל ירושלים.","Alongside the intense training with the national team, Blazer has also been occupied in the last week with his future, until he signed for two years with Hapoel Jerusalem.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""national team"" is too broad and could be more specific depending on the context of the article. It is not necessarily wrong, but could be more precise.
+minor: WRONG TERM - The term ""Hapoel Jerusalem"" is appropriate but may benefit from additional context if it is a sports team, what is that activity."
+1112,"לא היית בנבחרת ארבע שנים, עד כמה אתה שמח לחזור, ועד כמה אתה רוצה לשחק בשני המשחקים הקרובים?","You haven't been on the national team for four years, how happy are you to be back, and how much do you want to play in the next two games?","```
+MQM annotations:
+```"
+1113,"""קודם כל, אני רוצה ליהנות בנבחרת ואני בא בגישה של לתרום בכל מה שאני יכול, אם זה מהניסיון שלי ואם זה על המגרש.","First of all, I want to enjoy myself in the national team and I'm coming with the attitude of contributing in any way I can, whether it's from my experience or on the field.","```
+MQM annotations:
+```"
+1123,ברגע שהרגשתי חיבור עם ההנהלה ועם המאמן הבנתי שזה המקום הנכון בשבילי.,"The moment I felt a connection with the management and the coach, I understood this was the right place for me.","```
+MQM annotations:
+```"
+1128,"אני בטוח שתהיה קבוצה מחויבת ומהנה ורציתי להיות חלק מזה"".","I'm sure it will be a committed and enjoyable group, and I wanted to be a part of that.","```
+MQM annotations
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+1160,רז אדם עשוי להיות מושאל לעירוני נס ציונה •,Raz Adam may be loaned to Ironi Nes Ziona.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation ""may be loaned"" is grammatically correct but sounds slightly awkward in this context. A more natural phrasing might be ""could be loaned"" or ""is likely to be loaned.""
+```"
+1167,"במכבי ת""א הודיעו: נובאטוס מירושי נמכר לזולטה הבלגית",Maccabi Tel Aviv announced: Novatus Miroshi has been sold to the Belgian team Zulte.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""Zulte"" should be ""Zulte Waregem"" as the full name of the team is required for the glossary entry.
+```"
+1197,"הקבוצה של אריאל בית הלחמי חיברה ניצחון שלישי ברצף, הפעם מרשים במיוחד •","Ariel Beit Halevy's team recorded its third consecutive victory, this time a particularly impressive one.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Ariel Beit Halevy"" should be ""Ariel Beit-Halahmy""."
+1221,אלה שהפכו לשואבי מים ומנופפי מגבות במשחקים באירופה.,Those who have become water carriers and towel wavers in European games.,"```
+MQM annotations:
+```"
+1276,לפני המשחק מנהל הקבוצה עמי ביטון נכנס לחדר ההלבשה ונשא דברים מרגשים בפני השחקנים.,"Before the game, the team manager Ami Biton entered the locker room and delivered an emotional speech to the players.","```
+MQM annotations:
+```"
+1317,אין פגיעה בחשיבה הביקורתית.,No harm to critical thinking.,"```
+MQM annotations:
+```"
+1339,"על פי שכלול נתוני המחקר, 84% מהקרקעות המיועדות לחקלאות בעולם יחוו מחסור כבד במי גשמים.","According to the refined research data, 84% of land designated for agriculture worldwide will experience a severe shortage of rainwater.","MQM annotations
+Terminology errors:
+minor: WRONG TERM/Wrong Term - ""land designated for agriculture"" should be ""agricultural land"" or ""land for agriculture"" to better reflect common usage and flow in English. Although not incorrect, ""land designated for agriculture"" is less idiomatic."
+1364,עמלנו חודשים רבים להבאת בסיס להתקנת הסיבים וכעת החזון הופך למציאות.,"We toiled for many months to bring the infrastructure for fiber installation, and now the vision is becoming a reality.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""fiber installation"" should likely be ""fiber optic installation"" to be more precise and common.
+```"
+1376,יש קשר בין רמות הנוגדנים שמפתחים לתופעות הלוואי?,Is there a connection between antibody levels developed and side effects?,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""antibody levels"" should ideally be ""levels of antibodies"" for better flow, although the current phrasing is understandable.
+```"
+1388,יש בכלל אפשרות להעריך חוזק של מערכת חיסון?,Is it even possible to assess the strength of the immune system?,"```
+MQM annotations:
+```"
+1429,"ובכן, מה דעתכם לצאת לסיורים חינמיים בעקבות גיבורי הסדרות האהובות של נטפליקס?","So, what do you think about going on free tours following in the footsteps of the beloved Netflix series' heroes?","```
+MQM annotations:
+```"
+1452,"המחירים השתנו, תנאי הכבודה כבר לא אותו הדבר וישראלים רבים מופתעים כשהם מגיעים לנמל התעופה ומגלים שהם צריכים להוסיף סכומים גבוהים עבור מזוודות שחשבו שכלולות במחיר.","Prices have changed, baggage conditions are no longer the same, and many Israelis are surprised when they arrive at the airport and discover they need to add significant amounts for luggage they thought was included in the price.","```
+MQM annotations:
+```"
+1471,בישראייר המחיר לא כולל כבודה.,"At Israir, the price does not include luggage.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""כבודה"" should be translated to ""baggage"" instead of ""luggage"". Although both are acceptable, ""baggage"" aligns better with standard terminology in the aviation context."
+1484,"הזמנה של מזוודה נוספת יכולה לעלות בין 90-150 דולרים לכיוון אם תעשו זאת בנמל התעופה, בהזמנה מראש המחיר מעט זול יותר.",Booking an additional suitcase can cost between $90-150 per direction if you do it at the airport; booking in advance is slightly cheaper.,"```
+MQM annotations:
+```"

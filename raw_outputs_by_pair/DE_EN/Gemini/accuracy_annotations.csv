@@ -1,0 +1,961 @@
+index,original,translated,accuracy_annotation
+0,Diego Cocca wird neuer Nationaltrainer von Mexiko,Diego Cocca will be the new head coach of Mexico.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+3,"Franko Stein (FD Umwelt, links) und Friedhelm Ringe (Nabu) stellen die Pflanzenschilder in den Beeten der Fußgängerzone auf.","Franko Stein (FD Environment, left) and Friedhelm Ringe (Nabu) are placing the plant signs in the flowerbeds of the pedestrian zone.","MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+6,"Damit das Unterfangen nicht nur eine Aktion von Naturschützern und dem Fachdienst Umwelt der Stadt bleibt, sondern bis in die privaten Gärten hinein weite Kreise zieht, werden immer wieder erklärende Tafeln zu den Pflanzen gestellt. Etwa 50 Schilder sind es bis jetzt. Passanten sollen sich auf diese Weise informieren können, was hier gerade so schön blüht. Die Hoffnung ist, dass Hobbygärtner zu Hause gezielt nachpflanzen.","To ensure that the undertaking doesn't remain solely an action by conservationists and the city's environmental department, but rather reaches a wide audience, extending even into private gardens, explanatory signs are repeatedly placed next to the plants. There are about 50 signs so far. Passersby should be able to find out in this way what is currently blooming so beautifully here. The hope is that amateur gardeners will specifically replant at home.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+7,In der ersten Januarwoche war bereits Saisonstart bei der Wildhasel,The hazel catkins already started releasing pollen in the first week of January.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""The hazel catkins already started releasing pollen"" is a mistranslation of ""Saisonstart bei der Wildhasel"" which means the start of the season for wild hazel. The translation focuses on the pollen release, which is a consequence, not the start of the season.
+[Minor]: none"
+8,"Jüngeren Datums sind Sträucher wie Winterduftheckenkirsche und Winterschneeball in den Beeten der Fußgängerzone. Sie stecken jetzt seit einem Jahr in der Erde der Kübel an der Bergedorer Straße, zeigen blätterlos gerade die ersten zarten Blüten in Weiß und Rosa und sind jüngst mit weiteren Schildern bedacht worden. ""Die Winterduftheckenkirsche ist ein sehr breitbuschiger Strauch und kann zwischen zwei Meter hoch und drei Meter breit werden"", ist dort unter weiteren Angaben etwa zum geeigneten Standort zu lesen.","Of more recent date are shrubs like fragrant honeysuckle and winter snowball in the pedestrian zone's flowerbeds. They have been in the soil of the containers on Bergedorer Straße for a year now, are showing their first delicate blossoms in white and pink without leaves, and have recently been provided with additional signs. ""The fragrant honeysuckle is a very broad bush and can grow to between two meters high and three meters wide,"" can be read there, along with further information about the suitable location.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+9,"Friedhelm Ringe betont, dass aber nicht nur die Beetpflanzen nun Blüten zeigen. In der ersten Januarwoche war bereits Saisonstart bei der Wildhasel. Sie blüht besonders üppig am Richtweg bei der Steigung, in der Gutenbergstraße, Wilhelm-Holert-Straße, Fahrendofer Weg und vielen Knicks.","Friedhelm Ringe emphasizes that it is not only the bedding plants that are now showing flowers. The hazel catkins were already in season in the first week of January. They are flowering particularly abundantly on Richtweg at the incline, in Gutenbergstrasse, Wilhelm-Holert-Strasse, Fahrendofer Weg and many Knicks (hedgerows/field boundaries).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+12,"Immer montags treffen sich nämlich dort in der ""Mandolin Motion Show Academy"" um Punkt 15 Uhr drei Damen zum flotten Stepptanz - zusammen sind sie unglaubliche 277 Jahre alt, pardon jung!","Every Monday at 3 p.m., three ladies meet there at the ""Mandolin Motion Show Academy"" for a lively tap dance – together they are an incredible 277 years old, pardon, young!","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+13,"Die Älteste von ihnen ist Ernestine Stauchner, sie feierte kürzlich ihren 102. Geburtstag.",The oldest of them is Ernestine Stauchner; she recently celebrated her 102nd birthday.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+14,"Für die gebürtige Münchnerin (15. Januar 1921) von der Schwanthaler Höh"" ist der Montag DER Höhepunkt der Woche. ""Tanzen und Steppen ist mein Leben, ohne kann ich mir nicht vorstellen"".","For the Munich native (born January 15, 1921) from the Schwanthaler Höhe district, Monday is THE highlight of the week. ""Dancing and tap dancing is my life, I can't imagine life without it.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+17,"Mit ihren 79 Jahren ist Elfriede Widmann so etwas wie das Küken in der Runde der Stepptänzerinnen. Sie sagt: ""Wir haben hier einfach Spaß mit unserer Tanzlehrerin Sissy Engl"".","At 79, Elfriede Widmann is something of the baby in the group of tap dancers. She says: ""We're just having fun here with our dance teacher Sissy Engl.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+19,"Die 77-jährige Sissi Engl ist die gute Seele des Tanzstudios am Ostbahnhof. Sie ist Schauspielerin, Tänzerin und Choreografin. ""Wir sind eine große Familie, bei uns sind groß und klein, Alt und Jung willkommen"".","77-year-old Sissi Engl is the heart and soul of the dance studio at the Ostbahnhof (East Train Station). She is an actress, dancer, and choreographer. ""We are a big family; everyone is welcome here, young and old, big and small.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+22,Mit fortschreitender Digitalisierung wächst bei so manchen wieder die Lust auf analog,"As digitalization progresses, some people are experiencing a renewed interest in analog.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+23,"Die Rasanz, mit der unser Alltag digital wurde, ließ uns kaum Zeit, Regeln für den Umgang damit aufzustellen und unsere Kommunikations- und Arbeitsweisen daran anzupassen, meint DNN-Kolumnistin Claudia Muntschick.","The speed at which our everyday life became digital barely left us time to establish rules for how to deal with it and adapt our communication and working methods accordingly, says DNN columnist Claudia Muntschick.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+24,"Dresden. Wenn man im Jahr 1985 in Bautzen ein Telefongespräch führen wollte, gab es drei Möglichkeiten. Entweder gehörte man zu den sechs Prozent der Glücklichen, die über einen privaten Anschluss verfügten. Oder man gehörte zu denen, die Jemanden aus dieser exklusiven Gruppe in der Nachbarschaft hatten und dort für eine Flasche Radeberger mit der Verwandtschaft telefonieren konnten. Oder man suchte eine Telefonzelle auf. Unvergessen der Geruch des Plastehörers und das Klicken der Kleingeldmünzen im Automaten. Mein größter Traum war es, beim Anrufen auch das Gesicht des Anderen sehen zu können - Bildtelefonie, dachte ich, was wäre das für eine tolle Sache!","Dresden. If you wanted to make a phone call in Bautzen in 1985, there were three possibilities. Either you belonged to the six percent of lucky people who had a private connection. Or you were among those who knew someone from this exclusive group in the neighborhood and could call relatives there for a bottle of Radeberger beer. Or you went to a phone booth. Unforgettable was the smell of the plastic receiver and the clicking of the small coins in the machine. My biggest dream was to be able to see the other person's face when calling - videotelephony, I thought, what a great thing that would be!","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+28,"Nach nur anderthalb Jahren im Amt war Ministerpräsidentin Natalia Gavrilita überraschend zurückgetreten. Die pro-europäische Regierungschefin stand unter massivem Druck., wie sie selbst als Erklärung für ihre Demission bekannt gab - offenbar wurde sie von pro-russischen Kräften angefeindet.","After only a year and a half in office, Prime Minister Natalia Gavrilita unexpectedly resigned. The pro-European head of government was under massive pressure, as she herself announced as an explanation for her resignation - apparently she was being attacked by pro-Russian forces.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+33,Das waren die Kostüme der Promis,Those were the costumes of the celebrities.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+35,"Landesvater Markus Söder ging nicht etwa als Moses, was sein Kostüm vermuten lässt. Er sieht sich eher als Stammesältester der Bayern. An seiner Seite Ehefrau Karin Baumüller-Söder.","State Premier Markus Söder didn't go as Moses, as his costume might suggest. He sees himself more as a tribal elder of Bavaria. At his side, his wife Karin Baumüller-Söder.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+36,"Bayerns Umwelt- und Verbraucherschutzminister, Thorsten Glauber, hat sich den Kinderheld Chase von der Paw Patrol für sein Kostüm herausgesucht.","Bavaria's Environment and Consumer Protection Minister, Thorsten Glauber, chose the children's hero Chase from Paw Patrol for his costume.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+38,"Völlig abgehoben: Minister für Wissenschaft und Kunst, Markus Blume, zieht es in den Weltraum.","Completely detached: Minister for Science and Art, Markus Blume, is drawn to space.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - ""Completely detached"" is a possible translation of ""Völlig abgehoben,"" but it carries a stronger negative connotation than the original German phrase, which can also mean ""out of touch"" or ""living in a world of their own,"" but in this context implies someone who is eccentric.
+[Minor]: None"
+41,Bob der Baumeister alias Bauminister Christian Bernreiter mit seiner Frau Ann-Kathrin Jandt-Bernreiter als Wendy.,"Bob the Builder, a.k.a. Construction Minister Christian Bernreiter, with his wife Ann-Kathrin Jandt-Bernreiter as Wendy.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+47,Das Wandern ist des SPD-Fraktionschefs Lust: Florian von Brunn mit SPD-Landesvorsitzenden Ronja Endres.,Hiking is the SPD parliamentary group leader's delight: Florian von Brunn with SPD state chairwoman Ronja Endres.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+49,"Sonst spricht er sicherlich mehr. In Veitshöchheim war der Fraktionsvorsitzende im EU-Parlament, Manfred Weber, als Pantomime unterwegs. An seiner Seite Frau Andrea.","Otherwise, he certainly speaks more. In Veitshöchheim, the parliamentary group leader in the EU Parliament, Manfred Weber, was acting as a pantomime. At his side was Mrs. Andrea.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+52,"Zurück in die 1920er: die juristische Direktorin des BR, Eva Majuntke, BR-Intendantin Katja Wildermuth und BR-Kultur-Programmdirektor Björn Wilhelm.","Back to the 1920s: BR's Legal Director Eva Majuntke, BR Director General Katja Wildermuth, and BR's Cultural Program Director Björn Wilhelm.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+53,Ein kleiner Seitenhieb gegen die Klimaaktivisten vom fränkischen Tatort-Kommissar Sebastian Fleischer gespielt von Alexander Leopold Schadt.,"A small jab at climate activists from Franconian Tatort commissioner Sebastian Fleischer, played by Alexander Leopold Schadt.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+56,"Bö setzte seine beeindruckende Serie trotz schwieriger Bedingungen fort und gewann auch das sechste Sprintrennen der Saison. Der fünfmalige Olympiasieger hat nun schon 14 WM-Titel gesammelt und schließt weiter zu seinem Landsmann Ole Einar Björndalen auf. Die Biathlon-Ikone, die als TV-Experte vor Ort ist, ist mit 20 WM-Goldmedaillen noch unangefochtener Rekordchampion. Auch teilweise starker Nebel hinderte Dauersieger Bö nicht daran, schon sein zweites Gold am Rennsteig einzusammeln. Am Mittwoch hatte es mit Norwegens Mixed-Staffel schon zur erfolgreichen Titelverteidigung gereicht.","Bö continued his impressive streak despite difficult conditions, winning his sixth sprint race of the season. The five-time Olympic champion has now collected 14 World Championship titles and is closing in on his compatriot Ole Einar Björndalen. The biathlon icon, who is on-site as a TV expert, remains the undisputed record champion with 20 World Championship gold medals. Even periods of heavy fog didn't stop serial winner Bö from collecting his second gold on the Rennsteig. On Wednesday, it was enough for a successful title defense with Norway's mixed relay team.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+57,"Kaum jemand zweifelt daran, dass im Jagdrennen Nummer drei folgen wird. In der Verfolgung ist Bö einmal mehr der klare Favorit. Seine Laufform ist überragend, sodass er Schießfehler bis zu einem gewissen Maß erschreckend einfach kompensieren kann.","Hardly anyone doubts that pursuit number three will follow in the hunting race. In the pursuit, Boe is once again the clear favorite. His running form is outstanding, allowing him to compensate for shooting errors to a certain extent with terrifying ease.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+59,"In Hochfilzen gewann er vor sechs Jahren überraschend mit 0,7 Sekunden Vorsprung hauchdünn vor Bö. Es war einer von insgesamt nur drei Karriereerfolgen Dolls, der in diesem Winter bislang einmal auf dem Podest stand. Der Olympia-Achte von Peking zog nach seinem schwachen Auftritt wortlos davon und gab zunächst keine Interviews. Roman Rees schaffte es auf Platz 19, der zweite WM-Debütant David Zobel belegte Rang 35.","In Hochfilzen, six years ago, he surprisingly won by a hair's breadth, with a 0.7-second lead over Bö. It was one of only three career victories for Doll, who has so far been on the podium once this winter. The Olympic eighth-place finisher from Beijing left wordlessly after his weak performance and initially gave no interviews. Roman Rees finished in 19th place, while the second World Championship debutant, David Zobel, finished 35th.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+61,"Bei einem Treffen zwischen US-Präsident Joe Biden und seinem Amtskollegen aus Brasilien, Luiz Inácio Lula da Silva, geht es vor allem um den Wert der Demokratie. Beide blicken auf ihre Vorgänger zurück.","A meeting between US President Joe Biden and his Brazilian counterpart, Luiz Inácio Lula da Silva, will primarily focus on the value of democracy. Both are looking back at their predecessors.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+68,"In einem Land mit Denunziationskultur, die gab es schon vor Corona, wurde so öffentlich Stimmung gemacht, gegen die gefährlichsten Gegner der BRD; sagen wir mal der bürgerlichen Demokratie, sagen wir mal der spätkapitalistischen Gesellschaft. (Hier nichts zu den wirklich Gefährlichen in Nadelstreifenanzug und Krawatte.)","In a country with a culture of denunciation, which existed even before Corona, public sentiment was incited against the most dangerous opponents of the Federal Republic of Germany; let's say of bourgeois democracy, let's say of late-capitalist society. (Here, nothing about the truly dangerous ones in pinstripe suits and ties.)","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+69,"Nun gibt die Stuttgarter Zeitung, die sonst eher hinter Raudis in den S-Bahnen oder Onanisten im Park her ist, eine Neuauflage mit des ""Kriegsverbrechers"" Putins Freunden. Weil die so schön sind, gibt es eine Bildergalerie. Natürlich ist die StZ schlecht informiert, denn es gibt in dieser Welt zu der Asien, Afrika und Lateinamerika gehören vielleicht mehr ""Russenfreunde"" als die StZ Platz für Bilder hat.","Now, the Stuttgarter Zeitung, which is usually more interested in chasing hooligans in commuter trains or masturbators in the park, is publishing a new edition featuring the ""war criminal"" Putin's friends. Because they're so beautiful, there's a picture gallery. Of course, the StZ is poorly informed, because in this world, which includes Asia, Africa, and Latin America, there are perhaps more ""friends of Russia"" than the StZ has space for pictures.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+72,"Und spätestens jetzt, gut dialektisch, sollte Frau Wagenknecht die beliebteste Politikerin aller noch nicht ganz verblödeten, d.h. friedliebenden, pazifistischen und antimilitaristischen Menschen sein. (Und hier ist nun keine Differenzierung mehr nötig.)","And at the very latest now, dialectically speaking, Wagenknecht should be the most popular politician for all not-quite-stupid, i.e., peace-loving, pacifist, and antimilitarist people. (And no further differentiation is needed here.)","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+76,SS-Massakers in Oradour-sur-Glane: Letzter Überlebender tot,SS Massacre in Oradour-sur-Glane: Last Survivor Dead,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+80,"Deutsche-Bank-Chef Christian Sewing hält weitere Zinserhöhungen im Kampf gegen die hohe Teuerungsrate für ""absolut"" notwendig. ""Die inflationären Risiken sind weiter groß. Die Kosten für Energie können leicht wieder steigen, und auch die Öffnung Chinas kann den Preisen vorübergehend einen Schub geben"", sagte Sewing der ""Welt am Sonntag"".","Deutsche Bank CEO Christian Sewing believes further interest rate hikes are ""absolutely"" necessary in the fight against the high inflation rate. ""The inflationary risks remain high. Energy costs could easily rise again, and the opening of China could also give prices a temporary boost,"" Sewing told ""Welt am Sonntag.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+82,"Höhere Zinsen verteuern Kredite. Dies kann die Nachfrage bremsen und so hohen Teuerungsraten entgegenwirken. Höhere Kreditzinsen können zugleich dazu führen, dass Investitionen aufgeschoben werden und somit das Wirtschaftswachstum schwächer ausfällt.","Higher interest rates make loans more expensive. This can dampen demand and thus counteract high inflation rates. At the same time, higher loan interest rates can lead to investments being postponed, resulting in weaker economic growth.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+84,"Die EZB strebt für den Euroraum mittelfristig Preisstabilität bei einer Teuerungsrate von zwei Prozent an. Diese Zielmarke ist seit Monaten weit entfernt. Im Januar schwächte sich der Preisauftrieb zwar erneut ab, dennoch lagen die Verbraucherpreise im Währungsraum der inzwischen 20 Länder um 8,5 Prozent über dem Niveau des Vorjahresmonats.","The ECB aims for price stability in the euro area in the medium term, with an inflation rate of two percent. This target has been far from reach for months. In January, the rise in prices did weaken again, but consumer prices in the currency area, now comprising 20 countries, were still 8.5 percent above the level of the same month last year.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+87,"Bosch-Chef Stefan Hartung hofft auf eine breite Debatte zum von Bundeskanzler Olaf Scholz (SPD) ausgerufenen ""Deutschland-Tempo"" bei Infrastrukturprojekten. ""Es wird einen politischen und gesellschaftlichen Dialog dazu geben müssen. Und er wird vielleicht auch ein bisschen kontroverser sein"", sagte er der Deutschen Presse-Agentur in Stuttgart. Er hoffe, dass am Ende ein Regelwerk herauskomme, mit dem es zwar nicht zwingend so schnell gehen müsse wie bei den um den Jahreswechsel in Betrieb genommenen LNG-Terminals - aber auch nicht so langsam wie vorher.","Bosch CEO Stefan Hartung hopes for a broad debate on the ""Germany Speed"" for infrastructure projects proclaimed by Chancellor Olaf Scholz (SPD). ""There will have to be a political and social dialogue about this. And it may even be a bit more controversial,"" he told the German Press Agency in Stuttgart. He hopes that in the end a set of rules will emerge that, while not necessarily as fast as the LNG terminals that went into operation around the turn of the year, is also not as slow as before.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+90,"In der Vergangenheit habe man es mit dem klassischen Regelwerk versucht und nicht geschafft. ""Wir sollten uns nochmal Gedanken machen, ob das bisherige Vorgehen so richtig war. Vielleicht haben wir es mit dem Regelwerk auch übertrieben und es uns zu kompliziert gemacht"".","In the past, they tried using the classic set of rules and failed. ""We should think again about whether the previous approach was correct. Perhaps we overdid it with the rules and made it too complicated for ourselves.""","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+91,"Angesichts der vielen offenen Aufgaben etwa beim Ausbau der Stromtrassen beneide er die Bundesregierung und die beteiligten Unternehmen aber nicht, sagte Hartung. ""Als Konsument dieser Energien brauche ich den Ausbau unbedingt und er soll so grün sein, wie es geht"".","Given the many outstanding tasks, such as the expansion of power lines, he wouldn't envy the federal government and the companies involved, Hartung said. ""As a consumer of these energies, I urgently need the expansion and it should be as green as possible.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+96,Baumann steht seit langem in der Kritik. Die 2018 abgeschlossene Übernahme des US-Saatgutherstellers Monsanto für 63 Milliarden Dollar hängt dem Manager nach. Mit dem Kauf hatten sich die Leverkusener teure Rechtsstreitigkeiten um angebliche Krebsrisiken des Unkrautvernichters Glyphosat ins Haus geholt. Die Bayer-Aktie befand sich über Jahre im Sinkflug. Im Jahr 2019 verweigerten die Aktionäre dem Vorstandschef auf der Hauptversammlung gar die Entlastung.,"Baumann has been under criticism for a long time. The acquisition of the US seed manufacturer Monsanto for 63 billion dollars, completed in 2018, is still haunting the manager. With the purchase, the Leverkusen-based company brought expensive lawsuits concerning alleged cancer risks of the weed killer glyphosate upon itself. The Bayer share price was in freefall for years. In 2019, the shareholders even refused to discharge the CEO at the annual general meeting.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+97,"Schon länger war bekannt, dass Baumann keine Verlängerung seines Vertrags anstrebt, der eigentlich noch bis 2024 laufen sollte. Druck gemacht hatten langfristig orientierte strategische Investoren. Zuletzt mischten auch mehrere aktivistische angelsächsische Investoren wie Bluebell Capital mit. Bluebell dringt laut einem Medienbericht auf eine Aufspaltung des Konzerns.","It had been known for some time that Baumann was not seeking an extension of his contract, which was actually supposed to run until 2024. Long-term oriented strategic investors had been putting pressure on him. Recently, several activist Anglo-Saxon investors such as Bluebell Capital also got involved. According to a media report, Bluebell is pushing for a breakup of the company.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+98,"Der sehr kleine Fonds mit unbekannter Beteiligungshöhe an Bayer ist für ein aggressives Vorgehen bekannt. Eine Abspaltung ""der Sparte Consumer Health wäre ein möglicher Weg, um den Unternehmenswert zu steigern"", sagte Markus Manns, Fondsmanager bei Union Investment, der ""Rheinischen Post"". Eine Abspaltung der weit größeren Agrarsparte Crop Science hält er dagegen nicht für machbar.","The very small fund with an unknown stake in Bayer is known for aggressive tactics. A spin-off ""of the Consumer Health division would be a possible way to increase the company's value,"" Markus Manns, fund manager at Union Investment, told the ""Rheinische Post."" He does not, however, consider a spin-off of the much larger Crop Science agricultural division to be feasible.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+101,Auch am Samstag wollen die Franzosen wieder gegen die geplante Rentenreform auf die Straße gehen.,The French plan to take to the streets again on Saturday to protest the planned pension reform.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+104,"Bereits jetzt arbeiten viele Menschen in Frankreich länger als bis zum Alter von 62 Jahren, wenn sie mit Erreichen der Altersgrenze noch nicht lange genug für eine abschlagsfreie Rente eingezahlt haben. In vielen anstrengenden Berufen könnten die Menschen kaum länger arbeiten, meinen die Gegner der Reform. Außerdem wollten die Beschäftigten ihre wohlverdiente Rente genießen können und ihre Gesundheit nicht vollends im Job verschleißen.","Even now, many people in France work longer than until the age of 62 because they haven't contributed long enough for a full pension without deductions when they reach retirement age. Opponents of the reform argue that people in many physically demanding jobs could hardly work any longer. Furthermore, they say employees want to enjoy their well-deserved retirement and not completely wear out their health on the job.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+106,"Macron begründet die Reform mit einem drohenden Defizit in der Rentenkasse. Weil die Bevölkerung immer älter wird, müssten die Beschäftigten mit ihren Beiträgen für eine steigende Zahl von Rentnern aufkommen. Damit die Höhe der Rente stabil gehalten werden könne, müsse die Bevölkerung etwas mehr arbeiten. Die Kritiker zweifeln die Berechnungen der Regierung an und fordern, der Staat müsse andere Geldquellen finden, um das Rentensystem im Gleichgewicht zu halten.","Macron justifies the reform with a looming deficit in the pension fund. Because the population is getting older and older, employees have to use their contributions to support a growing number of pensioners. In order to keep the pension amount stable, the population has to work a little more. Critics doubt the government's calculations and demand that the state find other sources of funding to keep the pension system in balance.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+107,Doch nicht nur am Rentenalter will die Regierung schrauben. Die bereits vor Jahren beschlossene Anhebung der nötigen Einzahldauer für eine volle Rente soll beschleunigt werden. Außerdem sollen Einzelrentensysteme mit Privilegien für bestimmte Berufsgruppen abgeschafft werden. Die Mindestrente soll auf etwa 1200 Euro steigen.,"However, the government doesn't just want to tinker with the retirement age. The increase in the required contribution period for a full pension, which was decided years ago, is to be accelerated. In addition, individual pension systems with privileges for certain professional groups are to be abolished. The minimum pension is to be increased to around 1200 euros.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+108,"Die Rentenreform gilt als eines der wichtigsten Vorhaben von Präsident Macron. Während der Corona-Pandemie wurde ein erster Anlauf zur Umsetzung der Reform abgebrochen, schon damals gab es massive Proteste und Streiks. Schon etliche Präsidenten vor Macron bemühten sich mit unterschiedlichem Erfolg um Reformen des französischen Rentensystems - breiter Protest und Streiks waren allen gewiss.","Pension reform is considered one of President Macron's most important projects. During the Corona pandemic, an initial attempt to implement the reform was abandoned, even then there were massive protests and strikes. Many presidents before Macron had tried with varying degrees of success to reform the French pension system - broad protest and strikes were certain for all of them.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+113,"In Deutschland wird mindestens bis zu Wochenmitte ruhiges Hochdruckwetter erwartet. ""Beim Betrachten der Wetterkarten sticht sofort ein mächtiges Hochdruckgebiet direkt über Mitteleuropa ins Auge"", erklärt der Meteorologe Markus Übel vom Deutschen Wetterdienst am Samstag in Offenbach. ""Zwar verlagert sich dieses Hoch im Laufe der nächsten Woche ein wenig nach Osten. Es bestimmt aber weiterhin das Wetter in Deutschland"".","In Germany, calm high-pressure weather is expected until at least the middle of the week. ""Looking at the weather maps, a powerful high-pressure area directly over Central Europe immediately catches the eye,"" explains meteorologist Markus Übel from the German Weather Service in Offenbach on Saturday. ""Although this high shifts slightly eastward over the course of next week, it will continue to determine the weather in Germany.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+114,"Allerdings bedeute ruhiges Hochdruckwetter im Winter nicht zwangsläufig auch sonniges Wetter, sagt Übel. ""So ein Hoch kann sogar ziemlich gemein sein und den Menschen in den Niederungen tagelang tristes Hochnebelgrau bescheren, während es in den Hochlagen der Mittelgebirge Sonne pur gibt"".","However, calm high-pressure weather in winter doesn't necessarily mean sunny weather, says Übel. ""Such a high can even be quite nasty and bring people in the lowlands days of dreary high fog grey, while there is pure sunshine in the higher altitudes of the low mountain ranges.""","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+115,"So startet der Sonntag in den meisten Regionen neblig-trüb. Vom Erzgebirge und dem Thüringer Wald bis nach Niederbayern kann es laut DWD auch noch etwas regnen. Vor allem am Alpenrand, aber auch im Südwesten und teils im Westen lockert die Wolkendecke im Tagesverlauf auf und die Sonne kommt immer häufiger zum Vorschein. Im Rest des Landes bleibt es stark bewölkt oder hochnebelartig bedeckt. Die Temperaturen erreichen 4 bis 9 Grad, in Rheinnähe um 10 Grad.","This is how Sunday starts in most regions: foggy and gloomy. According to the DWD (German Weather Service), there might still be some rain from the Ore Mountains and the Thuringian Forest to Lower Bavaria. Especially on the edge of the Alps, but also in the southwest and partly in the west, the cloud cover will break up during the day, and the sun will appear more and more frequently. The rest of the country will remain heavily cloudy or covered in high fog. Temperatures will reach 4 to 9 degrees Celsius, around 10 degrees Celsius near the Rhine.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+116,"""Am Montag knabbert dann die allmählich stärker werdende Sonne wieder am Hochnebel und kann ihn im Tagesverlauf mehr und mehr auflösen"", sagt der Meteorologe. Am Alpenrand, in den Hochlagen der Mittelgebirge und in Teilen von Nordrhein-Westfalen werde ganztags Sonne erwartet, andernorts müsse sie sich erst durch die Hochnebeldecke kämpfen. Die Höchstwerte liegen bei 5 bis 9 Grad, am Niederrhein werden um 11 Grad, im Dauergrau im Südosten werden dagegen nur um 3 Grad erwartet. Dazu weht schwacher Wind aus unterschiedlichen Richtungen.","""On Monday, the gradually strengthening sun will nibble at the persistent high fog and will be able to dissolve it more and more over the course of the day,"" says the meteorologist. Sunshine is expected all day along the edge of the Alps, in the higher elevations of the low mountain ranges, and in parts of North Rhine-Westphalia; elsewhere, it will have to fight its way through the high fog cover first. The highs will be 5 to 9 degrees Celsius, around 11 degrees are expected on the Lower Rhine, while only around 3 degrees are expected in the persistent gray in the southeast. In addition, there will be a light wind from varying directions.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+117,"Am Dienstag kann es in manchen Niederungen erneut nur zähe Auflösung von Nebel oder Hochnebel geben. Ansonsten zeigt sich das Wetter nach Nebelauflösung heiter. In Hochlagen, in weiten Teilen von NRW und am Alpenrand scheint den Prognosen zufolge ganztags die Sonne. Die Temperaturen klettern je nach Sonnenschein auf 5 bis 11 Grad.","On Tuesday, in some low-lying areas, persistent fog or high fog may linger again. Otherwise, after the fog clears, the weather will be sunny. In higher elevations, in large parts of North Rhine-Westphalia (NRW), and on the edge of the Alps, the sun is predicted to shine all day. Temperatures will climb to 5 to 11 degrees Celsius, depending on sunshine.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+119,Die geschlagene Topfavoritin Sofia Goggia hat sich nach ihrem Aus in der Abfahrt der alpinen Ski-Weltmeisterschaften schwer enttäuscht gezeigt.,Defeated top favorite Sofia Goggia expressed deep disappointment after her elimination in the downhill at the Alpine Ski World Championships.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+121,"""Ich bin traurig, weil ich nicht die Leistung gebracht habe, die ich kann"", sagte die Italienerin im ZDF, nachdem sie an einem Tor eingefädelt hatte und ausgeschieden war. Immerhin konnte die 30-Jährige einen womöglich schweren Sturz gerade noch verhindern.","""I'm sad because I didn't perform to my potential,"" the Italian woman said on ZDF after catching an edge on a gate and being eliminated. At least the 30-year-old was able to just prevent a potentially serious fall.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+122,"Goggia ist seit Jahren die dominierende Abfahrerin im Weltcup. Vier der bisherigen sechs Saisonrennen in dieser Disziplin hat sie gewonnen. Nach Gold 2018 in Pyeongchang holte sie bei den Olympischen Winterspielen 2022 in Peking Silber. Auf eine WM-Medaille in ihrer Paradedisziplin muss Goggia, die für ihre riskante Fahrweise bekannt ist, aber weiter warten. Bei ihrem Heimspiel in Cortina d'Ampezzo vor zwei Jahren fehlte sie verletzungsbedingt.","Goggia has been the dominant downhill skier in the World Cup for years. She has won four of the six season races in this discipline so far. After gold in Pyeongchang in 2018, she won silver at the 2022 Winter Olympics in Beijing. However, Goggia, who is known for her risky style of skiing, still has to wait for a World Championship medal in her pet event. She was absent due to injury at her home race in Cortina d'Ampezzo two years ago.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+128,Personenbeschreibung: schlanke Gestalt,Physical description: slender build,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+134,Selenskyj und Minister gegen Russlands Olympia-Teilnahme,Zelenskyy and ministers against Russia's Olympic participation.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+143,Auch Bundesinnenministerium bezieht Stellung,The Federal Ministry of the Interior also takes a position.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+144,"Das für Sport zuständige Bundesinnenministerium erklärte im Anschluss, auch bei den Beratungen bekräftigt zu haben, einen Start russischer und belarussischer Sportler in Paris abzulehnen. ""Es gibt aus unserer Sicht keinen Anlass, den russischen und belarussischen Sport zur Rückkehr in die Wettkämpfe einzuladen. Den ukrainischen Athletinnen und Athleten muss weiterhin die uneingeschränkte Solidarität und Unterstützung der internationalen Sportgemeinschaft gelten. Die Bestrebung des IOC zur Wiederaufnahme der russischen und belarussischen Athletinnen und Athleten ist der falsche Weg"", teilte ein Sprecher des Innenministeriums auf dpa-Anfrage mit.","The Federal Ministry of the Interior, which is responsible for sports, subsequently declared that it had reaffirmed during the consultations that it rejects the participation of Russian and Belarusian athletes in Paris. ""From our point of view, there is no reason to invite Russian and Belarusian sports to return to competitions. Ukrainian athletes must continue to receive the unrestricted solidarity and support of the international sports community. The IOC's efforts to reinstate Russian and Belarusian athletes are the wrong way to go,"" a spokesman for the Interior Ministry told dpa in response to a query.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+148,"""Hey, geiler Hintern!"", der Närrin im knappen sexy Kostüm hinterherpfeifen und anzügliche Sprüche rufen: All das fällt unter den Begriff des ""Catcalling"" (dt. Katzenrufe). Hinter dem Begriff verbirgt sich nicht geringeres als eine Form der verbalen sexuellen Belästigung im öffentlichen Raum.","""Hey, nice ass!"" whistling after the fool in the skimpy, sexy costume and shouting suggestive remarks: All of this falls under the term ""catcalling."" Behind this term lies nothing less than a form of verbal sexual harassment in public space.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+150,Hälfte der Fahrzeuge verloren? USA sehen Moskaus Panzerbestand stark dezimiert,Half of vehicles lost? USA see Moscow's tank inventory heavily decimated.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+153,Wallander machte bei einer Online-Veranstaltung der Denkfabrik Center for a New American Security keine weiteren Angaben zur Zahl der nach US-Einschätzung beschlagnahmten und zerstörten Panzer.,"Wallander, at an online event held by the think tank Center for a New American Security, did not provide further details on the number of tanks that the US estimates have been seized and destroyed.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+154,Die Ukraine soll in den kommenden Wochen von mehreren westlichen Verbündeten Kampfpanzer erhalten. Großbritannien hat Kiew die Lieferung von Challenger-2-Kampfpanzern für März zugesagt. Deutschland will in einer Koalition mit anderen Staaten bis April ein Bataillon an Leopard-2-Panzern in die Ukraine liefern. Die USA haben ebenfalls ein Bataillon aus 31 Kampfpanzer vom Typ Abrams zugesagt. Ihre Lieferung dauert jedoch aller Voraussicht nach wesentlich länger.,"Ukraine is expected to receive battle tanks from several Western allies in the coming weeks. The UK has pledged to deliver Challenger 2 battle tanks to Kyiv by March. Germany, in a coalition with other states, intends to deliver a battalion of Leopard 2 tanks to Ukraine by April. The USA has also pledged a battalion of 31 Abrams battle tanks. However, their delivery is expected to take significantly longer.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+158,Wirbel um Postenbesetzung bei Heer,Controversy over personnel changes in the army.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+159,"Denn der Posten, den künftig der frühere Direktor des Heeresgeschichtlichen Museums (HGM) Christian Ortner bekleiden wird, war nicht ausgeschrieben. Der Personalvertreter der Akademie Herwig Jedlaucnik vermutet Postenkorruption und Amtsmissbrauch. Verteidigungsministerin Klaudia Tanner (ÖVP) verteidigt das Vorgehen.","Because the position that the former director of the Museum of Military History (HGM), Christian Ortner, will hold in the future was not advertised. The staff representative of the Academy, Herwig Jedlaucnik, suspects jobbery and abuse of office. Minister of Defence Klaudia Tanner (ÖVP) defends the procedure.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+160,"Eine Ausschreibung sei nicht erforderlich, weil die Ernennung auf einen bisher unbesetzten Arbeitsplatz erfolge, so die Ministerin. ""Spekulationen eines freiheitlichen Personalvertreters"" wolle sie nicht kommentieren. Ortner wurde im vergangenen Jahr nach 17 Jahren an der Spitze des HGM abgelöst. Neben Kritik am Umgang des Museums mit der militärischen Vergangenheit Österreichs war er mit schweren Mobbingvorwürfen konfrontiert. Diese sind aus Tanners Sicht ausgeräumt.","A tender is not required because the appointment is to a previously vacant position, according to the minister. She declined to comment on ""speculation by a Freedom Party personnel representative."" Ortner was replaced last year after 17 years at the head of the HGM. In addition to criticism of the museum's handling of Austria's military past, he was confronted with serious allegations of mobbing. From Tanner's perspective, these have been cleared up.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+161,"Jedlaucnik zweifelt auch an der inhaltlichen Eignung Ortners. Dieser sei Experte für den Ersten Weltkrieg und die Kriege der Monarchie, das Institut beschäftige sich aber mit aktuellen Fragen der Sicherheitspolitik.","Jedlaucnik also doubts Ortner's suitability in terms of content. He is an expert on the First World War and the wars of the monarchy, but the institute deals with current issues of security policy.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+162,"Die SPÖ verlangt von Tanner Aufklärung über den ""unüblichen Bestellvorgang"". An der Entscheidung hafte der ""Anschein von Postenschacher"", sagt SPÖ-Wehrsprecher Robert Laimer. Die Neos fordern Tanner auf, die Ernennung zurückzunehmen. Die ÖVP stecke ""weiterhin bis zum Hals im Korruptionssumpf"", meinte Douglas Hoyos, Sprecher für Landesverteidigung. Er kündigte eine parlamentarische Anfrage zum Thema an.","The SPÖ (Social Democratic Party) is demanding clarification from Tanner regarding the ""unusual appointment process."" The decision has the ""appearance of patronage,"" says SPÖ defense spokesman Robert Laimer. The Neos (liberal party) are calling on Tanner to withdraw the appointment. The ÖVP (People's Party) is ""still up to its neck in a swamp of corruption,"" said Douglas Hoyos, spokesman for national defense. He announced a parliamentary inquiry into the matter.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+163,Karneval: Erste Narren gehen vor Kosten in die Knie,Carnival: First fools buckle under costs.,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: accuracy/mistranslation - ""buckle under costs"" doesn't fully capture the meaning of ""gehen vor Kosten in die Knie"", which implies being overwhelmed or brought to their knees by the costs, possibly meaning they are cancelling or significantly scaling back their carnival plans. ""Buckle under costs"" is a more general phrase and less specific to the context of carnival preparations.
+[Minor]: no-error"
+165,"In Brandenburg fallen keine Karnevalsumzüge aus. Der ""Zug der fröhlichen Leute"" in Cottbus, wohl erneut Ostdeutschlands größter, findet erstmals nach der Pandemie statt. Auch bei der schwäbisch-alemannischen Fastnacht wurden keine Umzüge abgesagt.","No carnival parades are cancelled in Brandenburg. The ""Zug der fröhlichen Leute"" (Parade of Happy People) in Cottbus, probably once again the largest in Eastern Germany, is taking place for the first time after the pandemic. Also, no parades have been cancelled for the Swabian-Alemannic Fastnacht (Carnival).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+179,"Steinmeier genoss dennoch den Besuch des 10-km-Sprintrennens bei der Biathlon-WM in Oberhof, bekam von den Olympiasiegern Frank Ullrich und Peter Sendel zahlreiche Tipps: ""Seit den Olympischen Spielen in Südkorea, als Laura Dahlmeier im ersten Rennen Gold gewonnen hatte, fasziniert mich das Biathlon"", verriet er und lobte Oberhof außerdem für seine modernisierten Sportstätten: ""Die runderneuerte Arena ist großartig und bietet ideale Bedingungen. Das sagen auch die Sportler - mit Dank an diejenigen, die seit Vergabe der WM hier angepackt haben"". Auch in Sachen Nachhaltigkeit sei der Standort jetzt vielen anderen ""einen Schritt voraus"" und damit ""für die nächsten Jahre und sogar Jahrzehnte sicher"".","Steinmeier nevertheless enjoyed visiting the 10km sprint race at the Biathlon World Championships in Oberhof, receiving numerous tips from Olympic champions Frank Ullrich and Peter Sendel: ""Since the Olympic Games in South Korea, when Laura Dahlmeier won gold in the first race, I have been fascinated by biathlon,"" he revealed, also praising Oberhof for its modernized sports facilities: ""The completely renovated arena is magnificent and offers ideal conditions. The athletes also say that - with thanks to those who have tackled the work here since the awarding of the World Championships."" In terms of sustainability, the location is now ""one step ahead"" of many others and therefore ""secure for the next years and even decades.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+182,"Bö war vor 14.300 Zuschauern mit der Nummer 1 ins Rennen gegangen und manifestierte diesen Status trotz der komplizierten Sichtverhältnisse. Allerdings: Bei seinen letzten beiden Stehendschüssen hatte er das Glück des Tüchtigen; sie landeten jeweils am Rand der Scheiben und fielen trotzdem. Die Siegerehrung genoss der 29-Jährige dann gemeinsam mit seinem fünf Jahre älteren Bruder: ""Es ist das beste Gefühl, mit ihm hier zu stehen"", sagte der Weltmeister: ""Wir sind die beste Familie, die besten Brüder, die besten Athleten"".","Bø started the race with bib number 1 in front of 14,300 spectators and lived up to this status despite the complicated visibility. However, he had the luck of the draw with his last two standing shoots; they each landed on the edge of the targets and still fell. The 29-year-old then enjoyed the awards ceremony together with his brother, who is five years older: ""It's the best feeling to be standing here with him,"" said the world champion: ""We are the best family, the best brothers, the best athletes.""","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - ""luck of the draw"" instead of ""Glück des Tüchtigen"". ""Glück des Tüchtigen"" translates more accurately to ""the luck of the capable"" or ""the luck of the competent"".
+[Minor]: None"
+184,"Brych missfällt ""Bienenschwarm"" auf dem Platz","Brych dislikes the ""swarm of bees"" on the pitch.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""swarm of bees"" is an inaccurate translation of ""Bienenschwarm"". ""Bienenschwarm"" in football context refers to a disorganized or overwhelming rush of players, not literally a swarm of bees.
+[Minor]: none"
+190,"""Aus der Emotionalität können im Spielverlauf durchaus Konflikte entstehen. Aber wenn die Emotionalität in eine persönliche Verunglimpfung überschwappt, dann muss man auch akzeptieren, dass die entsprechenden Maßnahmen von Schiedsrichterseite getroffen werden"", sagte Fröhlich. In den jüngsten Fällen hätten die Beteiligten die Dinge im Nachgang ausgeräumt. ""Wichtig wäre es nur, wenn dann auch mal ein Umdenkprozess insgesamt in Gang käme, dass sich solch ein Verhalten einfach nicht gehört"", sagte Fröhlich am Rande einer Veranstaltung des Verbandes Deutscher Sportjournalisten in München.","""Conflicts can certainly arise from emotion during the course of a game. But if that emotion spills over into personal insults, then one must also accept that appropriate measures will be taken by the referee,"" said Fröhlich. In recent cases, those involved have cleared things up afterwards. ""It would only be important if, then, a rethinking process were set in motion overall, that such behavior simply isn't acceptable,"" Fröhlich said on the sidelines of an event of the Association of German Sports Journalists in Munich.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+195,Sieben Leichtverletzte nach Auffahrunfall auf A5,Seven minor injuries after rear-end collision on A5.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+196,"Sieben Menschen sind bei einem Unfall mit vier Fahrzeugen auf der Autobahn 5 bei Hemsbach (Rhein-Neckar-Kreis) leicht verletzt worden, darunter zwei Kinder. Laut einer Mitteilung der Polizei war es am Samstag zu dem Auffahrunfall gekommen, als ein Autofahrer während eines leichten Rückstaus von hinten gegen einen Wagen stieß und ihn auf zwei weitere Autos schob. Die Vollsperrung der Fahrspuren in Richtung Heidelberg sei nach etwa eineinhalb Stunden aufgehoben worden.","Seven people, including two children, sustained minor injuries in an accident involving four vehicles on Autobahn 5 near Hemsbach (Rhein-Neckar district). According to a police statement, the rear-end collision occurred on Saturday when a driver rear-ended a car during a slight traffic jam, pushing it into two other cars. The complete closure of the lanes heading towards Heidelberg was lifted after about an hour and a half.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+200,"Die Finissage zu der Ausstellung ""Wandgebunden"" findet am Sonntag, 12. Februar, um 15 Uhr im Übergangsquartier des Marler Skulpturenmuseums in der Georg-Herwegh-Straße 63-67 statt. In drei Ausstellungsräumen ziehen jeweils zwei großformatige Wandgemälde die Aufmerksamkeit auf sich.","The closing event for the exhibition ""Wall-Bound"" will take place on Sunday, February 12th, at 3 p.m. in the temporary location of the Marl Sculpture Museum on Georg-Herwegh-Straße 63-67. In three exhibition rooms, two large-format murals in each room attract attention.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+202,Zur Finissage wird Dr. Friederike Schuler außerdem einen Vortrag zu wandgebundener Kunst im Dienst der Gemeinschaft halten. Anhand zahlreicher Bildbeispiele stellt sie die Besonderheiten der Wandmalerei aus der Weimarer Republik vor und fragt nach den Verbindungslinien zu dieser Kunstgattung in der Bundesrepublik mit Schwerpunkt im NRW der 1950er- bis 1970er-Jahre.,"At the finissage, Dr. Friederike Schuler will also give a lecture on wall-bound art in the service of the community. Using numerous pictorial examples, she will present the special features of mural painting from the Weimar Republic and inquire into the connecting lines to this art genre in the Federal Republic of Germany, with a focus on North Rhine-Westphalia (NRW) from the 1950s to the 1970s.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+214,"""Bis ins hohe Alter war er ein wichtiger Ratgeber in unserer Partei, dessen Klugheit fehlen wird"".","Until a ripe old age, he was an important advisor in our party, whose wisdom will be missed.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+218,"Wie es in einem Bericht der Deutschen Presse-Agentur (dpa) heißt, habe Modrow den neuen Staat ""durchaus kritisch"" gesehen. Zu schnell sei die deutsche Einheit vollzogen worden, zu bedingungslos sei die DDR untergegangen, und zu einseitig sei sie als ""Unrechtsstaat"" verdammt worden, habe Modrow laut dpa in vielen Interviews kritisiert.","According to a report by the German Press Agency (dpa), Modrow viewed the new state ""quite critically."" According to dpa, Modrow criticized in many interviews that German reunification had been carried out too quickly, the GDR had collapsed too unconditionally, and it had been condemned too unilaterally as an ""unjust state.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+219,Was in der Nacht passiert ist,What happened during the night.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+221,"Kiew - Die jüngste Welle russischer Raketenangriffe erzwingt erneut Notreparaturen am ukrainischen Energienetz. Doch auch die Ukraine greift russische Stellungen an. Mehrere Wärme- und Wasserkraftwerke seien beschädigt worden, sagte der Chef des Energieversorgers Ukrenerho, Wolodymyr Kudryzkyj, am Freitagabend im ukrainischen Fernsehen. Besonders schlecht sehe es mit der Stromversorgung im Gebiet Charkiw aus. Wegen der Instabilität im ukrainischen Stromnetz musste am AKW Chmelnyzkyj ein Reaktorblock abgeschaltet werden, in den Kernkraftwerken Riwne und Südukraine wurde die Produktion gedrosselt.","Kyiv - The latest wave of Russian missile attacks is once again forcing emergency repairs to the Ukrainian energy grid. But Ukraine is also attacking Russian positions. Several thermal and hydroelectric power plants have been damaged, said the head of the energy supplier Ukrenerho, Volodymyr Kudrytskyi, on Ukrainian television on Friday evening. The electricity supply in the Kharkiv region is particularly bad. Due to the instability in the Ukrainian power grid, a reactor unit had to be shut down at the Khmelnytskyi nuclear power plant, and production was reduced at the Rivne and South Ukraine nuclear power plants.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+224,"Am 24. Februar wird seit einem Jahr Krieg herrschen. US-Präsident Joe Biden kündigte einen Besuch beim wichtigen Ukraine-Unterstützer Polen kurz vor dem Jahrestag an. Die Gefahr durch russische Raketenangriffe dauerte indes auch in der Nacht zu Samstag an. In der Hauptstadt Kiew wurde am späten Freitagabend zum fünften Mal für diesen Tag Luftalarm ausgelöst. ""Es droht ein Angriff mit Drohnen"", teilte die Militärverwaltung des Kiewer Gebietes mit. Kampfdrohnen iranischer Bauart wurden auch über den Gebieten Mykolajiw und Odessa im Süden gesichtet und abgeschossen.","On February 24th, the war will have been raging for a year. US President Joe Biden announced a visit to Poland, an important supporter of Ukraine, shortly before the anniversary. Meanwhile, the danger from Russian missile attacks continued into the night leading to Saturday. In the capital Kyiv, air raid sirens were triggered for the fifth time that day late Friday evening. ""There is a threat of a drone attack,"" announced the military administration of the Kyiv region. Iranian-made combat drones were also sighted and shot down over the Mykolaiv and Odessa regions in the south.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+227,Sanierungsstau von 80 Milliarden Euro,Deferred maintenance totaling 80 billion euros,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+236,"Erste Rüstungsprojekte sind deshalb schon gestrichen worden, weiteren Vorhaben droht dasselbe, wie die ""Welt am Sonntag"" berichtet. Welche Investitionen konkret wegfallen würden, könne derzeit aber noch nicht gesagt werden. ""Es besteht keine Notwendigkeit, bereits zum jetzigen Zeitpunkt einem eventuellen Einsparungsbedarf konkrete Beschaffungsmaßnahmen zuzuordnen"", heißt es in einer Antwort der Bundesregierung auf eine Anfrage des Bundestagsabgeordneten Ingo Gädechens (CDU).","As a result, initial armaments projects have already been cancelled, and the same fate threatens further projects, as reported by ""Welt am Sonntag"". However, it is not yet possible to say which specific investments would be cut. ""There is no necessity to assign concrete procurement measures to a possible need for savings at this point in time,"" reads the Federal Government's response to an inquiry from Member of Parliament Ingo Gädechens (CDU).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+242,Viele Stuttgarter folgten am Freitagabend dem Aufruf der Feuerbacher Ditib-Moscheegemeinde,"On Friday evening, many Stuttgart residents followed the call of the Feuerbach Ditib Mosque community.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+247,Die Solidarität der Muslime in Deutschland mit den Erdbebenopfern im türkisch-syrischen Grenzgebiet ist groß. Bei der Spendenaktion des Deutschen Islamverbands Türisch-Islamische Union (Ditib) sind bereits mehrere Millionen Euro zusammengekommen.,The solidarity of Muslims in Germany with the earthquake victims in the Turkish-Syrian border region is great. The donation campaign of the German Islamic Association Turkish-Islamic Union (Ditib) has already raised several million euros.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+250,"""Nach dem Essen sollst du ruh'n oder tausend Schritte tun "".... Die Älteren kennen das Sprichwort, die Jüngeren setzen es einfach nur in die Praxis um. So oder so hat in den Jahren der Pandemie der gute, alte Verdauungsspaziergang eine ungeahnte Renaissance erfahren. Denn wer dank Home-Office nicht mitten in einer Steinwüste, sondern vielmehr nur einen Steinwurf entfernt von Feld, Wald und Wiese sitzt, nutzt nun die Mittagspause entweder nach dem schnellen Snack vor dem Bildschirm oder gleich ersatzweise für einen Gang an die frische Luft. Zumindest könnte man diesen Eindruck rund um den Egglburger See gewinnen, wo sich zwischen 12 und 14 Uhr längst nicht nur Hundebesitzer tummeln.","""After eating, you should rest or walk a thousand steps"".... The older generation knows the saying, the younger generation simply puts it into practice. Either way, in the years of the pandemic, the good old digestive walk has experienced an unexpected renaissance. Because those who, thanks to home office, are not sitting in the middle of a concrete jungle, but rather just a stone's throw away from field, forest and meadow, now use their lunch break either after a quick snack in front of the screen or as a substitute for a walk in the fresh air. At least, that's the impression one could get around Lake Egglburg, where between 12 and 2 p.m. it's not just dog owners who are out and about.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+251,"Ein Grund könnte natürlich auch darin liegen, dass der Mensch der Neuzeit im Zuge einer optimalen Zeitslot-Nutzung die gesundheitsfördernde Frischluftzufuhr mit weiteren Dingen verbinden kann. Denn warum nicht anlässlich eines kurzen Marsches durch die Natur von der lange nicht gesehenen Nachbarin Neuigkeiten aus der Siedlung erfahren? Oder die Freundin treffen, mit der man es abends nie ins Kino schafft, nicht mal ins Alte Kino? Auch ließen sich auf diese Weise Beruf und Privatleben verbinden - wer sagt denn, dass der Termin mit Steuerberaterin, Anwältin oder Anlageberater nicht im Freien stattfinden kann? Sofern keine Fremdohren in der Nähe sind, natürlich.","One reason could of course also be that modern humans, in the course of optimally using their time slots, can combine the health-promoting supply of fresh air with other things. For why not take the opportunity of a short walk through nature to hear news from the long-unseen neighbor about the settlement? Or meet the friend with whom you never manage to go to the movies in the evening, not even to the Old Cinema? Profession and private life could also be combined in this way - who says that the appointment with the tax advisor, lawyer or investment advisor cannot take place outdoors? Provided there are no eavesdroppers nearby, of course.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+262,Die Herausgabe an den Kongress ist für Trump wohl heikler: Dort ist der Kreis der Zugriffsberechtigten etwas größer und unter bestimmten Bedingungen könnten im Lauf der Untersuchung des Ausschusses einzelne Details veröffentlicht werden. Zudem dringt aus dem Parlament auch immer wieder Vertrauliches nach außen.,"Handing it over to Congress is likely more delicate for Trump: There, the circle of those authorized to access the documents is somewhat larger, and under certain conditions, individual details could be published in the course of the committee's investigation. In addition, confidential information repeatedly leaks out of Parliament.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+264,Kabarett in der Bastion: Zwischen Geburt und Tod spielt das Leben,Cabaret in the bastion: Life plays out between birth and death.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+276,"Und er bricht es auf die wichtigste Frage herunter, die viele vor sich herschieben: Was ist wirklich wichtig? Das alles mit einem riesengroßen Augenzwinkern, unaufgeregt und sehr ironisch. Und so werden auf nicht nur gut unterhalten, sondern können dabei auch etwas dazulernen.","And he breaks it down to the most important question that many people procrastinate on: What is truly important? All of this with a huge wink, calmly and very ironically. And so we are not only well entertained, but can also learn something in the process.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+278,Mein Handy klingelt mit unbekannter Nummer. Ich nehme an. Diese Frau ist die ehrliche Finderin ihres Portemonnaies.,My phone is ringing with an unknown number. I answer. This woman is the honest finder of her wallet.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+280,"MdB Pfeiffer bezeichnet Klimaschutz als Ersatzreligion. Mag sogar stimmen, denn ich liebe diesen Planeten und seine Zivilisation mehr als irgendeinen abstrakten Gott","MP Pfeiffer describes climate protection as a substitute religion. May even be true, because I love this planet and its civilization more than any abstract god.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+283,"Gut, dass seit Jahrzehnzen die Stadtpolitik die Vorteile etkennt und nie infrage stellt.",It's good that city politics have recognized the advantages for decades and never questioned them.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+291,"Parteikollegin Annegret Kramp-Karrenbauer elf, genauso das Bildungsministerium unter Anja Karliczek, auch sie ist CDU-Ministerin.","Party colleague Annegret Kramp-Karrenbauer as well, and the Ministry of Education under Anja Karliczek, who is also a CDU minister.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+295,"Hab lange nix geschrieben, die Suche nach einem passenden Arbeitsplatz hat lange alle Ressourcen beansprucht.","Haven't written in a while, the search for a suitable job has been taking up all my resources for a long time.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+297,"Richtet die Stadt diese Radverkehrsrouten im Nebennetz ein, ist er auch wieder dagegen. Kann der Mann sich mal entscheiden?","If the city sets up these cycling routes on the secondary network, he's against it again. Can the man ever make up his mind?","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+299,Nach einem schweren Unfall oder anderen traumatischen Ereignissen stehen Betroffene oft unter einem Schock. Wie hilft man bei einem psychischen Schock?,"After a serious accident or other traumatic events, those affected are often in shock. How do you help with psychological shock?","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+304,"Morgen kann ich endlich meinen Rechner zur Wiederherstellung abgeben und dann ist die Perspektive ganz gut, dass ich irgendwann im Juni wieder arbeiten kann. Hey, immerhin eine Perspektive!","Tomorrow I can finally hand in my computer for repair and then the outlook is quite good that I can work again sometime in June. Hey, at least there's a perspective!","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+306,"Einweg oder Mehrweg? Die Umwelthilfe empfiehlt Mehrweg, Lidl setzt ein Einwegsystem dagegen. Es kommt aber auch auf andere Faktoren an, wie kurze Transportwege.","Single-use or reusable? The Environmental Action Germany recommends reusable, Lidl is countering with a single-use system. However, other factors also play a role, such as short transport routes.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+309,"Morgen habe ich wieder frei, weil keine Aufliegerbeschriftung und auch nicht so schrecklich viel dringliches zu tun. Mal ein Freitag der den Namen verdient!",Tomorrow I have another day off because there's no trailer lettering to do and not terribly much urgent stuff either. Finally a Friday that lives up to its name!,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+311,"Liebe Lesende, liebe Followis, Wenn ja, wieviel kostet diese? Gibt es besondere Konditionen? Wenn nicht, ist eine solche Variante noch geplant? Vielen Danke euch!","Dear readers, dear followers, If yes, how much does it cost? Are there any special conditions? If not, is such a variant planned? Thank you all!","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+316,"Dem vorausgegangen waren heftige politische Auseinandersetzungen, auch an der generellen Ostpolitik Willy Brandts (SPD).","This was preceded by fierce political disputes, including over Willy Brandt's (SPD) general Ostpolitik.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+317,"Bin selber gar kein solcher Elefanten-Fan, aber vielleicht findet es ja hier noch ein paar Fans.","I'm not an elephant fan myself at all, but maybe it will find some fans here.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+322,Ich will ne orange-farbene Netzwerkkarte haben! Welche Farbe hat eure bzw. wollt ihr haben?,I want an orange network card! What color is yours or what color do you want?,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+323,Die Vorsorgeuntersuchung als wesentlicher Messpunkt der verstreichenden Zeit.,The check-up as an essential benchmark of passing time.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+330,Im Gesagten nur den anderen zu sehen? Uns selbst in ihnen gesehen...,To see only the other in what is said? To have seen ourselves in them...,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+333,"""Kleine Geschichte der Religion vom anthropogenen Klimawandel: Vom Mythos ewigen Kohlendioxids oder wie elegante Thesen zu Evangelien werden, wenn sie an der irdischen Praxis zu scheitern drohen.""","A short history of religion concerning anthropogenic climate change: From the myth of eternal carbon dioxide, or how elegant theses become gospels when they threaten to fail in earthly practice.","MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+340,"So, nach aktuellem Stand der Einplanung fahre ich, eventuell, ab September elektrisch. Mal sehen wie oft sich der Bautermin noch verschiebt bis dahin....","So, according to the current planning status, I will, possibly, be driving electric from September. Let's see how often the construction date gets postponed until then....","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+348,"Hab vor einigen Tagen mit Leuten gesprochen, die genau dies an ""der Politik"" kritisiert haben.","A few days ago, I was talking to people who criticized ""politics"" for exactly this.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+355,"Bei Hertha ist das noch fraglich, gegen den Tabellenletzten aus Berlin liegt ein Sieg in der Luft.","It's still questionable with Hertha, but a win is in the air against the bottom team from Berlin.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+356,Jetzt muss ich mal kurz eine nette Geschichte loswerden.,I just have to share a nice story quickly.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+357,"Ich habe absolut nicht mehr damit gerechnet, dass man eine Bahnkarte in Papier per Post zugeschickt bekommt.",I absolutely didn't expect to receive a train ticket by mail in paper form anymore.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+365,"Eine #PopClip-Extension, mit der man Text in #Obsidian farbig markieren kann ... <URL>",A #PopClip extension that allows you to highlight text in #Obsidian with color ... <URL>,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+366,#FAV2023 Nach einer #Coaching-Session und der Mittagspause geht es mit den #Digitallotsen weiter,"#FAV2023 After a #coaching session and lunch break, we continue with the #Digitallotsen (Digital Guides).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+368,"#Demokratie|n haben bisher auch einen breiten #Wohlstand generiert. Was eine Demokratie Wert ist, wenn sie keinen Wohlstand mehr bedeutet werden wir sehen.",#Democracies have generated broad #prosperity so far. What a democracy is worth when it no longer means prosperity is something we will see.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+374,Ich sitze noch auf ca 200 eur unbearbeiteten Fahrkarten vom letzten #warnstreik.,I'm still sitting on about 200 euros worth of unprocessed tickets from the last #warningstrike.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+380,1. Allgemeines,General,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+382,"Der Gegner wird durch langsam fahrende Kettenfahrzeuge und schnelle Super-Panzer, sowie flinke Raketen dargestellt, die, während des erweiterten Spielablaufs, immer schwieriger zu treffen sind. Zusätzlich erscheinen noch in periodischen Abständen UFO's. Diese können den Spieler-Panzer nicht angreifen. Umgekehrt kann der Spieler aber durch einen UFO-Treffer eine hohe Punktzahl erreichen. Das Gerät BATTLEZONE besitzt fünf (5) verschiedene Betriebsarten. Diese sind der Attraktions-Ablauf, der Spieleinleitungs-Ablauf, der Spiel-Abl auf, die Initialeneingabe für Höchstergebnisse und der Selbsttest-Ablauf. Letztere Betriebsart stellt einen speziellen Ablauf fUr die Überprüfung der Bedienelemente und der Computerfunktion dar.","The opponent is represented by slow-moving tracked vehicles and fast super-tanks, as well as nimble missiles that become increasingly difficult to hit during extended gameplay. Additionally, UFOs appear at periodic intervals. These cannot attack the player's tank. Conversely, the player can achieve a high score by hitting a UFO. The BATTLEZONE device has five (5) different operating modes. These are the attract mode sequence, the game introduction sequence, the game sequence, the initials entry for high scores, and the self-test sequence. The latter operating mode represents a special sequence for checking the controls and the computer function.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+384,"Der Spielablauf wird ausgelöst, wenn der Druckschalter START betätigt wird. Der LED-Schalter bleibt erleuchtet und die Spielgeräusche werden hörbar. Wird der letzte Spieler-Panzer vom feindlichen Angreifer eliminiert, ist ein Spiel beendet. Das Spiel beginnt mit langsam fahrenden Panzern, die auf dem Bildschirm sichtbar werden. Die Position der jeweiligen feindlichen Panzer oder Raketen kann der Spieler dadurch bestimmen, dass er den eingeblendeten Text im oberen linken Hinweisdisplay-Winkel seines Cockpits beachtet. Ein Hinweis kann z.B. lauten: GEGNER VON RECHTS. Zusätzlich wird auf dem weitreichenden Radarschirm, begleitet von einem Sonar-BLIP-Ton, ein Punkt sichtbar, der die feindliche Stellung darstellt.","The game begins when the START pressure switch is activated. The LED switch remains illuminated, and game sounds become audible. A game ends when the last player tank is eliminated by the enemy attacker. The game starts with slowly moving tanks becoming visible on the screen. The player can determine the position of enemy tanks or missiles by paying attention to the displayed text in the upper left corner of their cockpit's heads-up display. A hint might be, for example: ENEMY FROM THE RIGHT. Additionally, a dot representing the enemy's position becomes visible on the long-range radar screen, accompanied by a sonar BLIP sound.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+385,"Die obere, kegelförmige Fläche auf dem Radarschirm repräsentiert das Blickfeld des Spielers auf dem darunterliegenden Bildschirm. Befindet sich der Gegner in diesem Bereich, so ist er auf dem Bildschirm gut anzupeilen. Weiterhin wird gleichzeitig GEGNER IM FEUERBEREICH im oberen linken Hinweisdisplay eingeblendet.","The upper, cone-shaped area on the radar screen represents the player's field of view on the screen below. If the opponent is within this area, they are easy to target on the screen. Furthermore, ENEMY IN FIRING RANGE is simultaneously displayed in the upper left information display.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+387,5. Initialeneingabe bei Höchstergebnissen,Entering initials for high scores.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+388,"Überschreitet ein Spieler die Minimum-Punktzahl in der Tabelle der Höchstergebnisse, so kann ER oder SIE nach Spielende drei (3) persönliche Initialen in die Tabelle eingeben. Die Anweisung hierfür ist selbsterläuternd und kann in vier Sprachen eingeblendet werden. Zu beachten ist, dass mit dem Auslösen eines Selbsttests, dem Bätatigen des RESET-Knopfes auf dem Battlezone Analog Vector-Generator PCB oder einer Unterbrechung der Netzspannung, die Tabelle mit den Höchstergebnissen gelöscht wird. Beim Löschen (RESET) werden die zehn (10) höchsten Punktzahlen mit ihren Initialen erhalten und wieder auf dem Bildschirm eingeschrieben, um weitere Spieler herauszufordern. Jede Punktzahl , die über 100.000 liegt, wird zusätzlich mit einem Panzersymbol markiert, gefolgt von den Initialen des Spielers. Sollte ein Spieler seine pder ihre Initialen nicht innerhalb von 60 Sekunden eingeben, werden vom Computer auto-matisch Striche eingeschrieben. Hiernach wechselt das Gerät wieder in den Attraktions-Spielablauf. AUFBAUANORDNUNG","If a player exceeds the minimum score in the high score table, HE or SHE can enter three (3) personal initials into the table after the game. The instructions for this are self-explanatory and can be displayed in four languages. Please note that triggering a self-test, pressing the RESET button on the Battlezone Analog Vector Generator PCB, or interrupting the power supply will erase the high score table. When resetting (RESET), the ten (10) highest scores with their initials are retained and re-written to the screen to challenge other players. Any score exceeding 100,000 is additionally marked with a tank symbol, followed by the player's initials. If a player does not enter his or her initials within 60 seconds, the computer will automatically enter dashes. After this, the device will return to the attraction game sequence. ASSEMBLY INSTRUCTIONS","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: accuracy/mistranslation - ""pder"" instead of ""oder"". This seems to be a typo in the source text, but it still constitutes an error in the translation, even if it's a direct transcription of the error."
+391,"Diese neuen Bauteile, sowie alle anderen Hauptbaugruppen dieses Gerätes sind auf der Abbildung 1 dargestellt. Wird eines dieser Neuteile im Handbuch erwähnt, so finden Sie dieses Zeichen. 2. Geräteinspektion","These new components, as well as all other main assemblies of this device, are shown in Figure 1. If one of these new parts is mentioned in the manual, you will find this symbol. 2. Device Inspection.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+396,"Bitte nehmen Sie sich die Zeit und überprüfen Sie, ob Ihr System den Anforderungen entspricht, die auf der Packung aufgelistet sind. Mithilfe des DirectX-Diagnoseprogramms können Sie sich einen Überblick über Ihr System verschaffen, wenn Sie sich nicht sicher sind, ob Ihr PC den Anforderungen entspricht. Gehen Sie bitte folgendermaßen vor, um das DirectX-Diagnoseprogramm aufzurufen: Klicken Sie auf die Schaltfläche „Start“ und wählen Sie die Option „Ausführen“. Geben Sie in das Textfeld „dxdiag"" ein. Nun wird die Benutzeroberfläche des DirectX-Diagnoseprogramms angezeigt. Hier haben Sie Zugriff auf alle relevanten Systemdetails, inklusive Informationen über Grafik- und Soundkarte. Sie können unter anderem überprüfen, ob Grafik und Sound richtig funktionieren, indem Sie auf die entsprechenden Schaltflächen klicken, um DirectDraw, Direct3D und DirectSound zu testen. Hinweis: Falls Sie nicht über fortgeschrittene Computerkenntnisse verfügen, würden wir Ihnen davon abraten, irgeneine der Optionen im DirectX-Diagnoseprogramm zu ändern. Vor dem Starten des Spiels","Please take the time to check if your system meets the requirements listed on the packaging. You can use the DirectX Diagnostic Tool to get an overview of your system if you are unsure whether your PC meets the requirements. Please follow these steps to access the DirectX Diagnostic Tool: Click the ""Start"" button and select the ""Run"" option. Enter ""dxdiag"" in the text field. The DirectX Diagnostic Tool interface will now be displayed. Here you have access to all relevant system details, including information about the graphics and sound card. Among other things, you can check whether graphics and sound are working correctly by clicking on the corresponding buttons to test DirectDraw, Direct3D, and DirectSound. Note: If you do not have advanced computer skills, we would advise you not to change any of the options in the DirectX Diagnostic Tool.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: accuracy/omission - ""Vor dem Starten des Spiels"" (Before starting the game) is omitted from the translation. While it doesn't critically impact the understanding, it's a loss of information."
+397,"Es kann vorkommen, dass andere Programme die Systemressourcen in Beschlag nehmen, die das Spiel benötigt, um einwandfrei zu laufen. Nicht bei allen dieser Programme ist es offensichtlich, dass sie aktiv sind, und viele werden automatisch beim Hochfahren des Systems gestartet. Solche Programme, die ständig auf ihrem System aktiv sind, nennt man auch „Hintergrundanwendungen“. In manchen Fällen können sie die Ursache dafür sein, dass Ihr Programm hängt oder abstürzt. Deshalb empfehlen wir Ihnen, solche Hintergrundanwendungen zu beenden, bevor Sie das Spiel starten. - Wenn auf Ihrem System Antivirus- oder Crash Guard-Programme laufen, sollten Sie diese schließen oder deaktivieren, ehe Sie das Spiel starten. Suchen Sie dazu das Symbol des Programms in der Windows-Taskleiste. Rechtsklicken Sie das Symbol und wählen Sie die entsprechende Option („Deaktivieren“ „Schließen“, oder ähnliches). - Sobald Sie die Antivirus- und Crash Guard-Programme deaktiviert haben, sollten Sie auch allgemeine Hintergrundanwendungen beenden, da diese manchmal zu Problemen führen, wenn Sie ein PC-Spiel installieren oder ausführen. Mehr dazu können Sie im Abschnitt „Wie man alle unnötigen Hintergrundanwendungen beenden kann“ nachlesen. Das System aufräumen","It can happen that other programs hog the system resources that the game needs to run properly. Not all of these programs make it obvious that they are active, and many are started automatically when the system boots up. Such programs, which are constantly active on your system, are also called ""background applications."" In some cases, they can be the reason why your program hangs or crashes. Therefore, we recommend that you close such background applications before starting the game. - If you have antivirus or crash guard programs running on your system, you should close or disable them before starting the game. To do this, find the program's icon in the Windows taskbar. Right-click the icon and select the appropriate option (""Disable"", ""Close"", or similar). - Once you have deactivated the antivirus and crash guard programs, you should also close general background applications, as these can sometimes cause problems when you install or run a PC game. You can find out more in the section ""How to close all unnecessary background applications"". Clean up the system,","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+406,"1. Halten Sie die Tasten STRG und ALT auf Ihrer Tastatur gedrückt und drücken Sie dann ENTF. Nun wird der Windows-Task-Manager angezeigt. 2. Um eine Hintergrundanwendung zu beenden, wechseln Sie zur Registerkarte „Anwendungen"", klicken Sie auf den entsprechenden Eintrag in der Taskliste und dann auf die Schaltfläche „Task beenden“. Bevor Sie die Hotline anrufen","1. Hold down the CTRL and ALT keys on your keyboard, and then press DEL. The Windows Task Manager will now appear. 2. To terminate a background application, switch to the ""Applications"" tab, click on the corresponding entry in the task list, and then click the ""End Task"" button.","MQM annotations:
+Accuracy Errors
+[Critical]: omission - ""Bevor Sie die Hotline anrufen"" (Before you call the hotline) is omitted. This changes the meaning of the instruction, as it is missing a crucial step (or cautionary note) before calling for help.
+[Major]: none
+[Minor]: none"
+415,"Die in diesem SERVICE MANUAL enthaltenen Angaben und Abbildungen entsprechen dem Stand zur Zeit der Drucklegung. ÄNDERUNGEN IM SINNE DES TECHNISCHEN FORTSCHRITTES VORBEHALTEN, JEDOCH KEINE NACHRÜSTPFLICHT! Bitte bei der Aufstellung beachten","The information and illustrations contained in this SERVICE MANUAL correspond to the status at the time of printing. WE RESERVE THE RIGHT TO MAKE CHANGES IN THE INTEREST OF TECHNICAL PROGRESS, HOWEVER, THERE IS NO OBLIGATION TO RETROFIT! Please observe the following during setup.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+416,Transportschäden,Transportation damage,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+417,"Soweit äußerliche Transportschäden erkennbar sind, müssen diese sofort beanstandet, auf einem Transportschein festgehalten und vom Anlieferer (Spediteur, Bundesbahn, etc.) bestätigt werden. Der Hersteller haftet nicht fur Transportschäden! Netzspannung","If external transport damage is apparent, it must be reported immediately, noted on a transport document, and confirmed by the deliverer (freight forwarder, German Federal Railway, etc.). The manufacturer is not liable for transport damage! Mains voltage.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+418,Das Gerät ist fur die auf dem Typenschild angegebene Netzspannung eingestellt. Für andere Netzspannungen müssen der Geräte-Transformator und der Monitor-Transformator umgeschaltet werden. Gemäß VDE-Vorschrift ist das Gerät mit Schutzleiteranschluss versehen und nur für trockene Räume bestimmt. Einwandfreies Arbeiten der Münzanlage bedingt waage- und lotrechtes Aufstellen des Gerätes. SERVICE TIPS,"The device is set for the mains voltage specified on the nameplate. For other mains voltages, the device transformer and the monitor transformer must be switched. According to VDE regulations, the device is equipped with a protective earth connection and is intended for dry rooms only. Proper functioning of the coin mechanism requires the device to be set up horizontally and vertically.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""waage- und lotrechtes Aufstellen"" translates to ""horizontally and vertically"" which misses the nuance of being level and perpendicular. A more accurate translation would be ""level and perpendicular installation"".
+[Minor]: none"
+420,"Vor Reparatur Netzstecker ziehen! Bei Überwachung und Erprobung: Spannung führende Teile nicht berühren! Auch bei ausgeschaltetem Gerät kann der Monitor noch gefährliche Spannung führen. ACHTUNG,HOCHSPANNUNG! Am Anodenanschluss der Bildröhre liegen etwa 20000 Volt. Sicherungen nur durch solche mit gleichen Werten ersetzen! Eine durchgebrannte Sicherung signalisiert Überlastung eines Bauteiles. Wenn die Sicherung durch eine höherwertige ersetzt wird, kann ernsthafter Schaden verursacht werden. Bauteile nur durch Original-Ersatzteile ersetzen. Niemals gedruckte Schaltungen/Verbindungen bei eingeschaltetem Gerät entfernen. SERVICE MANUAL QIX","Disconnect the power plug before repair! During monitoring and testing: do not touch voltage-carrying parts! Even when the device is switched off, the monitor can still carry dangerous voltage. WARNING, HIGH VOLTAGE! Approximately 20,000 volts are present at the anode connection of the picture tube. Only replace fuses with ones of the same values! A blown fuse indicates an overload of a component. Replacing the fuse with a higher value can cause serious damage. Only replace components with original spare parts. Never remove printed circuits/connections when the device is switched on.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+423,"Das QIX-Spiel ist in der Lage, sich selbst zu prüfen, es stellt Daten zur Verfügung und demonstriert, dass Schaltungen und Steuerungen einwandfrei arbeiten. Weitere Informationen siehe ""Service Programm"". Die Lautstärke kann am Lautstärkesteller (VOLUME) auf dem Data/Sound PC-Board vorgenommen werden.","The QIX game is able to test itself, provides data, and demonstrates that circuits and controls are working correctly. See ""Service Program"" for more information. The volume can be adjusted using the volume control (VOLUME) on the Data/Sound PC board.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+429,"Funktion: Rückstellung auf Fabrikeinstellung (bis Schriftzug grün), Aufzählung um 1 Schritt (wenn Schriftzug grün leuchtet) Programmier- u.Test Schalter: Down","Function: Factory reset (until the lettering turns green), Increment list by 1 step (when the lettering illuminates green) Programming and Test Switch: Down","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+430,Funktion: Ruckzählung um 1 Schritt,Function: Backward counting by 1 step,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+437,"""Schwierigkeit"": Schwierigkeitsgrad des Spielablaufes",Difficulty,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/omission - The translation only provides ""Difficulty"" while the source specifies ""Schwierigkeitsgrad des Spielablaufes"" which translates to ""Difficulty level of the gameplay"". The translation omits the description of what the difficulty refers to.
+[Minor]: None"
+440,"bei ""1"" Tischgerät","""With '1' table device""","MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: accuracy/mistranslation - The translation seems to imply that the phrase ""with '1' table device"" is part of a longer sentence; the original German phrase is lacking context. The translation doesn't account for the missing context and comes across as an incomplete sentence.
+[Minor]: no-error"
+456,Schnelle Lieferung und gute Verarbeitung,Fast delivery and good workmanship.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+460,Leider zu groß für unter 1 Jahr,Unfortunately too big for under 1 year olds.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+463,"Ich habe mich hier durch die teils überschwänglichen Rezensionen wohl blenden lassen. Vorausschicken möchte ich, dass ich bereits 2 Rucksäcke von Lowepro im Einsatz habe. Einen sehr großen (zur Aufbewahrung der Ausrüstung) und einen ziemlich kleinen für die wichtigsten, alltäglichen Dinge, die man mal eben mitnimmt. Dadurch, dass ich mir gerade das Sigma 70-200 2.8 gekauft habe, ist der kleine Lowepro nun endgültig zu klein geworden und ich benötige Ersatz. Beim Prime Day habe ich diesen Rucksack für einen wirklich sehr erschwinglichen Preis (knapp 29 EUR) erworben und war eigentlich sehr froh über diesen Kauf, hatte ich mir doch viele der Rezensionen vorab durchgelesen. Als der Rucksack dann gestern kam, folgte die Ernüchterung: Der Rucksack ist für unter 30 EUR nicht schlecht, das kann man nicht sagen. Aber dass er (wie in vielen Rezensionen geschrieben) mit den namhaften Produkten, welche zu weit höheren Preisen verkauft werden, mithalten kann .... Leute, das stimmt einfach nicht! Ich hatte wirklich gehofft, dass es so ist, aber davon kann echt keine Rede sein. Die gepolsterten Wände sind wesentlich dünner und bieten nicht einen solchen Schutz, wie meine Lowepro. Ach die Trennungen innen, sind von einem anderen Kaliber, wesentlich labbriger. Insgesamt ist die Haptik dieses Rucksacks nicht mit der meinen Lowepro zu vergleichen. Auch die Reisverschlüsse und die Materialien der Fächer für das Kleinmaterial sind nicht gerade hochwertig. Daher habe ich für mich entschieden, dass der Rucksack zurück geht. Wenn ich mir eine Ausrüstung von vielen Tausend EUR anschaffe, dann muss ich leider auch das Geld für einen vernünftigen Rucksack in die Hand nehmen. Qualität hat hier anscheinend doch seinen Preis. Für jemanden, der nicht viel Geld ausgeben möchte, ist der Rucksack bestimmt eine gute Wahl, für mich jedoch nicht. Und es ist auch nicht so, dass mir die Entscheidung schwer gefallen ist. Als ich den Rucksack ausgepackt habe, wusste ich nach 2 Minuten, dass er zurück geht. Was mir gut gefallen hat, ist die Farbe innen. Hier findet man seine Sachen bestimmt sehr viel schneller, als mit einem grauen Innenleben. Für jemanden, der andere Ansprüche an einen Rucksack hat, ist der Rucksack bestimmt eine tolle Sache, meiner geht jedoch zurück.","I think I was blinded by the partly effusive reviews here. Let me preface this by saying that I already have 2 Lowepro backpacks in use. A very large one (for storing equipment) and a fairly small one for the most important, everyday things you just want to take with you. Because I just bought the Sigma 70-200 2.8, the small Lowepro has finally become too small and I need a replacement. On Prime Day, I purchased this backpack for a really very affordable price (just under 29 EUR) and was actually very happy with the purchase, having read many of the reviews beforehand. When the backpack arrived yesterday, I was disillusioned: For under 30 EUR, the backpack isn't bad, you can't say that. But to say that it can compete with the well-known products, which are sold at much higher prices (as written in many reviews).... Guys, that's simply not true! I really hoped that it would be, but that's not the case at all. The padded walls are much thinner and do not offer the same protection as my Lowepro. Also, the dividers inside are of a different caliber, much flimsier. Overall, the feel of this backpack cannot be compared to my Lowepro. The zippers and the materials of the compartments for the small items are not exactly high-quality either. Therefore, I have decided that the backpack will be returned. If I buy equipment for many thousands of EUR, then unfortunately I also have to spend the money on a decent backpack. Quality apparently does have its price here. For someone who doesn't want to spend a lot of money, the backpack is definitely a good choice, but not for me. And it's not like the decision was difficult. When I unpacked the backpack, I knew after 2 minutes that it was going back. What I liked was the color inside. You can definitely find your things much faster here than with a gray interior. For someone who has different demands on a backpack, the backpack is definitely a great thing, but mine is going back.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+466,"Mensch zerstört alles, weiß nichts zu schätzen und lernt nicht dazu! Zuerst einmal: Sooo schlecht ist der Film jetzt nicht, wie viele schreiben. Klar, natürlich ist die Story total konstruiert, und immer wieder nach dem gleichen Schema F konzepiert. Wenn man den Anfang gesehen hat, weiß man wie das Ende ist. Und die Botschaft ist auch immer die gleiche: Mensch zerstört alles, und weiß nichts zu schätzen, und lernt nicht dazu! Und genau das ist es, was der Film uns sagen möchte! Wie oft hab ich bei dem Film nur gedacht ( und das obwohl ich weiß, das es nur nen Film ist, und die Tiere aus dem Computer stammen) : Oh mein Gott, die armen Tiere, da schießen einen oftmals schon die Tränen in den Augen. Von daher ist Jurassic World Das gefallene Königreich schon wirklich ordentlich gemacht. Es ist nur schade, das der Mensch die Botschaft hinter dem Film einfach nicht rafft, und das, obwohl es ein Mainstream Film ist. Wir zerstören konsequent, die Tier und die Umwelt und letztenendes unseren Planeten und uns dazu. Aus Hab und Profitgier, und aus Dummheit und Arroganz ! Empathie für die Umwelt und die Lebewesen :Fehlanzeige. 4 Sterne, weil der Film gut gemacht ist, aber leider immer nach dem gleichen Prinzip, sonst wären 5 Sterne drin gewesen. Trotzdem gut gemachtes PopcornKino.","Humans destroy everything, appreciate nothing, and learn nothing! First of all: the movie isn't *that* bad, as many write. Sure, the story is totally contrived and conceived according to the same old formula. Once you've seen the beginning, you know how it ends. And the message is always the same: Humans destroy everything and appreciate nothing and learn nothing! And that's exactly what the film wants to tell us! How often did I think during the movie (even though I know it's just a movie and the animals are from the computer): Oh my God, the poor animals, it often brings tears to your eyes. Therefore, Jurassic World: Fallen Kingdom is really well made. It's just a shame that humans simply don't get the message behind the film, even though it's a mainstream film. We consistently destroy animals, the environment and ultimately our planet and ourselves. Out of greed and profit, and out of stupidity and arrogance! Empathy for the environment and living beings: nonexistent. 4 stars, because the film is well made, but unfortunately always follows the same principle, otherwise it would have been 5 stars. Still, well-made popcorn cinema.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+480,"An paar stellen war die Farbe abgesplittert und wenn man nur drüber gegangen ist mit der Hand ging die Farbe gleich auch an manche stelle ab. Wir wollten sie kostenlos abholen lassen weil wir sie nicht mehr haben wollten , aber leider nur auf unsere Kosten . sie würden nur die beschädigte teile austauschen aber wie wenn beide kommode beschädigt war. Schlechter Service vom Hersteller Amazon hat das alles für uns erledigt und uns das Geld zurück überwiesen. Ein LOB an Amazon","In a couple of places, the paint was chipped, and even just running your hand over it would cause the paint to come off in some areas. We wanted to have them picked up for free because we didn't want them anymore, but unfortunately, that was only possible at our own expense. They would only replace the damaged parts, but how when both chests of drawers were damaged? Poor service from the manufacturer. Amazon took care of everything for us and refunded our money. A praise to Amazon.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+484,- Türen knallen durch Magnete (kann man vielleicht mit Gumminoppen ausgleichen) - manche unsaubere Stellen,- Doors slam shut due to magnets (can perhaps be compensated with rubber stoppers) - some unclean spots,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+485,"- mitgelieferte Dübel sind viel zu klein und wackeln (hatte keine anderen und habe sie da auch kein Pokal im Haus war, mit Bastelkleber festgeklebt) - die Halterungen für den Einlegeboden wackeln etwas (habs mit etwas Papier umwickelt und ausgeglichen) Fazit: Wenn er nicht so gut aussehen würde und so gute Maße hätte, würde ich weniger Sterne geben, da man sich alles passend machen muss, um wirklich zufrieden zu sein. Außerdem finde Ich ihn dann dafür auch etwas zu teuer.","- The included dowels are much too small and wobbly (I didn't have any others and, since there was no goblet in the house, I glued them in place with craft glue) - the supports for the shelf wobble a bit (I wrapped a little paper around them and balanced it out). Conclusion: If it didn't look so good and have such good dimensions, I would give it fewer stars, because you have to make everything fit to be truly satisfied. Also, I think it's a bit too expensive for that.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - ""since there was no goblet in the house"" is a mistranslation of ""da auch kein Pokal im Haus war"" which translates to ""since there was no trophy in the house"".
+[Minor]: None"
+486,Der Kaffee schmeckt mir....aber,I like the taste of the coffee...but,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+487,"...es gibt nur 3 Sterne. Der Geschmack ist subjektiv gut, meiner Meinung nach sind die Originalkapseln aber besser (aber auch wesentlich teurer). Insofern hätte ich 5* vergeben. Leider läuft der Kaffee nicht gleichmäßig durch (wenn überhaupt!). Auch der zusätzliche Plastikmüll (einzeln verpackt s.Foto) bedeutet für mich ein Stern Abzug. Ich hoffe der Hersteller ändert dies und kassiert bald volle Punktzahl.","...there are only 3 stars. The taste is subjectively good, but in my opinion the original capsules are better (but also significantly more expensive). In that respect, I would have given 5 stars. Unfortunately, the coffee doesn't flow through evenly (if at all!). Also, the additional plastic waste (individually wrapped, see photo) means a star deduction for me. I hope the manufacturer changes this and soon gets full marks.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+491,"Ich habe vier Leuchtmittel im Haus durch diese Lampen ersetzt. Leider konnte ich nur vier ersetzen, denn die anderen beiden wurden ohne Fassung geliefert - stattdessen lacht mich an dieser Stelle eine Platine an... Es lag auch nichts im Karton. ""6 zahlen - 4 erhalten"" ist kein guter Deal. Bestimmt hätte Amazon das kulant und schnell geregelt, aber ich habe das erst nach der Rückgabefrist festgestellt. Somit sehe ich das zwar als meinen Fehler und lebe damit. Dennoch ist es kein gutes Indiz für die Qualität dieser Leuchtmittel - bisher der einzige Grund für zwei Sterne Abzug. Das Licht an sich ist super. Die Räume werden nun sehr hell und gleichmäßig ausgeleuchtet. Die Lichtfarbe geht eher in Richtung kaltweiß. Für Flur, Arbeitszimmer, Werkraum, Waschküche etc perfekt. Für Wohnräume würde ich persönlich zu wärmeren Licht greifen. Durchaus mit einer guten alten 100 Watt Birne vergleichbar. Das können andere Lampen allerdings auch und evtl bekomme ich dort auch intakte Exemplare entsprechend der Bestellung. Sollte meine Bewertung eine Hilfe sein, freue ich mich über eine positive Bewertung. Fragen versuche ich schnell zu beantworten.","I replaced four bulbs in my house with these lamps. Unfortunately, I could only replace four, because the other two were delivered without sockets - instead, a circuit board is staring at me... There was nothing else in the box either. ""Pay for 6 - get 4"" is not a good deal. Amazon would certainly have resolved this amicably and quickly, but I only noticed it after the return period had expired. So, I see it as my own fault and will live with it. Nevertheless, it's not a good indication of the quality of these bulbs - so far the only reason for deducting two stars. The light itself is great. The rooms are now very bright and evenly lit. The light color is more in the cool white direction. Perfect for hallways, offices, workshops, laundry rooms, etc. For living rooms, I personally would prefer warmer light. Definitely comparable to a good old 100 watt bulb. However, other lamps can do that too, and maybe I'll even get intact copies there according to the order. If my review is helpful, I would appreciate a positive rating. I will try to answer questions quickly.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+492,Tolle,"Great, just provide the translation.","MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+493,"Ich habe Gesten erhalten, und ich würde gerne meine erste Blick teilen. Ja positiv. Ich hab lange überlegt ob ich dieses Set bestelle, oder nicht. ** Das Material ist stabil und Es liegt gut In der Hand. **Die Utensilien haben alle am Griff ein Loch um sie aufhängen zu können ** Das weiche Silikon verkratzt teures Kochgeschirr und Töpfe nicht und ist insbesondere praktisch an Pfannen mit Beschichtung zu verwenden. **Sie sind hitzebeständig und können bis zu 440 ℉ verwendet werden. **Sie weiterleiten die Hitze auch nicht und damit können direkt angefasst werden. **Die Spülmaschine hinterlässt allerdings auf dem schwarzen Silikon manchmal Wasserflecken. Aber kurz nach wischen und sie sind weg. Schließlich Ich muss sagen, dass ich sehr überrascht bin und ich kann nur empfehlen","I received gestures, and I would like to share my first impression. Yes, positive. I thought long and hard about whether or not to order this set. **The material is sturdy and it feels good in the hand.** **The utensils all have a hole in the handle to hang them up.** **The soft silicone doesn't scratch expensive cookware and pots and is especially practical for use on pans with a coating.** **They are heat-resistant and can be used up to 440 ℉.** **They also don't conduct heat and can therefore be touched directly.** **However, the dishwasher sometimes leaves water spots on the black silicone. But a quick wipe and they are gone.** Finally, I must say that I am very surprised and I can only recommend it.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+498,Starker Mäher mit schwachem Fangkorb,Powerful mower with a weak collection bag.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"

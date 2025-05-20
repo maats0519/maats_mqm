@@ -1,0 +1,530 @@
+index,original,translated,locale_convention_annotation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",実は、IDirect3D::CreateViewport() を呼び出すと IDirect3DViewport ではなく、IDirect3DViewport にメソッドを追加した IDirect3DViewport3 が返ってくると思い込んでいた。私が実装したのは IDirect3DViewport だった。,"```
+locale conventions:
+
+MQM annotations:
+```"
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは普遍的に正しいわけではなく、該当のオブジェクトを生成する際に使用しているインターフェースによって事情が変わる場合がある。,"locale conventions:
+
+MQM annotations:"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",議論のために仮に、科学が少なくとも部分的には、世界に関する客観的に事実な記述のリストで構成され、それらが支持するかもしれないいかなる理論とも無関係に真であると仮定しよう。,"```
+MQM annotations:
+```"
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,科学にそのような事実が存在するというのが真実だとしても、科学的事実が理論負荷的であると主張することは依然として可能だ。,"locale conventions:
+
+MQM annotations:"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",この解釈では、実験が事実を作り出すのではなく、どの実験を行うかの選択が、どの事実が発見されるかを左右する。,"locale conventions:
+
+MQM annotations:"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",亜原子粒子に関する事実など、資本主義においてのみ可能な実験からしか得られない事実がある。なぜなら、そのような実験はあまりに多くの資源、組織、そして強制力を必要とし、資本主義以外では実現不可能だからだ。,"locale conventions:
+
+MQM annotations:"
+14,Picking this up this weekend.,週末に引き取ります。,"locale conventions:
+
+MQM annotations:"
+16,Already on coil overs and lowered ride height.,車高調済み、ローダウン済み。,"locale conventions:
+
+MQM annotations:"
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べてみたのですが、もしこの車について何か情報をお持ちの方がいらっしゃいましたら教えていただけると嬉しいです。,"locale conventions:
+
+MQM annotations:"
+18,Personal experiences?,個人的な経験？,"locale conventions:
+
+MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+19,I know they're not fast compared,それに比べて速くないのは分かっています。,"locale conventions:
+
+MQM annotations:"
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",俺はボードショーツにランニングシャツ姿、そして連れ合いは全身タトゥーで、自分で「ネオナチみたい」って言ってた新しい髪型。,"locale conventions:
+
+MQM annotations:"
+36,NY is the best hope for accountability,ニューヨークこそが説明責任を果たすための最良の希望だ。,"locale conventions:
+
+MQM annotations:"
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つ信号の送受信に還元できないという重要な証拠がある。,"locale conventions:
+
+MQM annotations:"
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",文脈依存的なコミュニケーションは、文脈の分布といった環境特性に大きく影響される、状況依存的な多層現象であると考えられます。,"locale conventions:
+
+MQM annotations:"
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒に、様々なプロジェクトを支援する貴重な半年間を過ごすことができました。,"locale conventions:
+
+MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会った時、進捗状況、特に植林と農家支援について聞けて嬉しかったよ。,"locale conventions:
+
+MQM annotations:"
+61,Licht AGREED to an all Republican audience!,リヒトは共和党支持者のみの聴衆に同意しました！,"locale conventions:
+
+MQM annotations:
+Critical: no-error
+Major: no-error
+Minor: no-error"
+65,It can't be repeated.,繰り返せません。,"locale conventions:
+
+MQM annotations:"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨夜、ついにこの繰り返しにうんざりして、ねり消しについてたピーナッツバターを全部取り除いて、罠にピスタチオを瞬間接着剤でくっつけた。,"locale conventions:
+
+MQM annotations:
+minor: accuracy/mistranslation - ""ねり消し"" (neri keshi) translates to ""kneaded eraser"" or ""putty eraser,"" which is an incorrect translation of ""peanut butter."""
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",ちなみに、市販のほぼ全ての「人道的な」罠を試しましたが、ほとんど効果がありませんでした。,"locale conventions:
+
+MQM annotations:
+None"
+74,"They aren't, at least not in Alberta.",少なくとも、アルバータ州ではね。,"locale conventions:
+
+MQM annotations:"
+75,Sure they cut business taxes.,確かに彼らは法人税を減税した。,"locale conventions:
+
+MQM annotations:"
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",「グラスゴーまで彼を送っていくだけなんです」と私は説明しようとした、旅の連れを指さしながら。,"locale conventions:
+
+MQM annotations:"
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.",「グラスゴーにちょっと彼を降ろしてくるだけなんです、なんてあんまり聞かないセリフだな」と切符売り場の人は言った。,"locale conventions:
+
+MQM annotations:
+There are no locale convention errors in this translation."
+90,And they are truly nuts.,彼らは本当に頭がおかしい。,"locale conventions:
+
+MQM annotations:"
+95,Yell back at those who would try to talk over us.,私たちを言い負かそうとする人たちには、言い返してやりなさい。,"locale conventions:
+
+MQM annotations:"
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,私の隣人と私が同時に帰宅したんだけど、向かい側から彼の咳と、コロナの痰が嵐のように吹き上がる音が聞こえてきた。,"locale conventions:
+
+MQM annotations:"
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,彼を避けるために急いでアパートに入ったのに、結局追いつかれて話しかけられちゃった。,"locale conventions:
+
+MQM annotations:"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.",4000もの苦難の末、Ylは愛に満ちた場所にたどり着き、どうしていいかわからないほどの大きな感情に戸惑っている。だから、その両方がたくさんある。,"locale conventions:
+
+MQM annotations:"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#MangoMoronの大失敗は、とんでもない大失敗だった。,"locale conventions:
+
+MQM annotations:"
+113,A cold front should arrive by the middle of next week.,来週の半ばまでに寒冷前線が到来するでしょう。,"locale conventions:
+
+MQM annotations:"
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",今朝早く、IR衛星と地上観測により、低層の層雲が拡大しており、まだらな<URL>が確認されました。,"locale conventions:
+
+MQM annotations:
+None"
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけて、その専門知識を活用し、CRM投資の価値を最大化しましょう。,"```
+locale conventions:
+
+MQM annotations:
+```"
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーがどのように実装、カスタマイズ、インテグレーション、継続的なサポートで貴社を支援し、Salesforceエコシステムでビジネスを成功に導くかをご紹介します。,"```
+locale conventions:
+
+MQM annotations:
+```"
+137,But another individual often flies aboard that ship.,しかし、その船にはもう一人の人物がよく搭乗している。,"locale conventions:
+
+MQM annotations:"
+142,The Last of Us is an easy and canonical example of dad-ification.,The Last of Usは、ダッド化の分かりやすく典型的な例だ。,"```
+locale conventions:
+
+MQM annotations:
+```"
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父性化とは、親のような立場の者が子供や子供の代わりとなる者を世話したり保護したりしなければならない状況に対する解決策が、圧倒的な力であり、その力を使って非常に特異な形の力関係を強制することであると通常仮定する。,"```
+locale conventions:
+
+MQM annotations:
+```"
+147,Here's a quick overview of how to make use of our website.,当ウェブサイトのご利用方法の簡単な概要です。,"locale conventions:
+
+MQM annotations:"
+148,- We send out notifications when airfare goes on sale.,航空券がセールになった際にお知らせを送信します。,"locale conventions:
+
+MQM annotations:
+Critical: no-error
+Major: no-error
+Minor: no-error"
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは、平和で安全な環境で成長する権利を有します。,"locale conventions:
+
+MQM annotations:
+No errors detected."
+159,Over time dart became my go-to for quick UI.,時間の経過とともに、dartは手軽なUIに最適な選択肢になった。,"locale conventions:
+
+MQM annotations:"
+164,Echidna with amethyst and magenta spikes.,アメジストとマゼンタのトゲを持つハリモグラ,"locale conventions:
+
+MQM annotations:
+None"
+166,Their tail is extremely thick.,彼らの尻尾は非常に太いです。,"locale conventions:
+
+MQM annotations:"
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目はナシのようで、真っ赤なキャッツアイの眼鏡をかけている。,"locale conventions:
+
+MQM annotations:
+No errors found."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",ブラム・ストーカー、マックス・シュレック、ステファニー・メイヤーが彼らを悪く見せようと最大限の努力をしたにもかかわらず、皆…,"locale conventions:
+
+MQM annotations:"
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",現実では、母が何年も前に私が作ったパズルゲームを気に入って、ほとんどの隠し要素を自力で見つけたので、褒め言葉がお母さん目線だけのものではなかったんです。,"locale conventions:
+
+MQM annotations:"
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","Here's the Japanese translation:
+
+**北京語（標準中国語）もしくは福建語に翻訳する必要があり、どちらも全く分からないので、翻訳のみを提供してください。**","Based on the information provided, there's no actual translation into Mandarin or Hokkien. The ""translation"" given is a Japanese sentence explaining the situation. Therefore, there are no locale convention errors to annotate.
+
+```
+MQM annotations:
+```"
+179,Been toying with this thought for a little while:,この考えをしばらくの間、弄んでいる。,"locale conventions:
+
+MQM annotations:"
+180,"Mental health is often seen as something separate from ""regular"" health.",メンタルヘルスは、しばしば「普通の」健康とは別のものとして見なされる。,"locale conventions:
+
+MQM annotations:"
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こり、身体的な健康よりも実体がなさそうに見えるから。,"locale conventions:
+
+MQM annotations:
+No locale convention errors found."
+194,Very much worth having a go at.,ぜひ挑戦する価値あり。,"locale conventions:
+
+MQM annotations:"
+196,Playing around a bit with Flutter.,Flutterを少し触ってみています。,"locale conventions:
+
+MQM annotations:
+minor: no-error - N/A"
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",正直に言うと、グーグルの技術に事業の基盤を置きたくはない。一方で、グーグルは魅力的なクロスプラットフォーム体験を生み出す本当のインセンティブを持っている数少ない大企業の一つであり、それは明らかだ。,"locale conventions:
+
+MQM annotations:"
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,また、GoogleやFlutter製のアプリがiOSやmacOSでは使い物にならないといった話はしないで、翻訳だけを提供してください。,"```
+locale conventions:
+
+MQM annotations:
+```"
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームをきちんとやるのは難しい。,"locale conventions:
+
+MQM annotations:"
+201,I know that.,知ってるよ。,"locale conventions:
+
+MQM annotations:"
+202,Thank you to those people who have downloaded the latest update to Leasey.,Leaseyの最新アップデートをダウンロードしてくださった皆様、ありがとうございます。,"```
+locale conventions:
+
+MQM annotations:
+```"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,なぜ私の脳が理解できないのか正確にはわからない。ツールが広範かつ曖昧すぎて、「選択肢が多すぎる」せいで脳がフリーズしてしまうのかもしれない。,"locale conventions:
+
+MQM annotations:"
+211,Grafana looks pretty.,Grafanaは見栄えが良いですね。,"```
+locale conventions:
+
+MQM annotations:
+```"
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",新しい #FFXIV のレイド tier が近づいてきて、「ちゃんとレイドに挑戦してみたいなあ、でもパーティ募集は荒れてそうだし、固定なんて見つかるわけないよなあ」ってずっと考えてた。,"locale conventions:
+
+MQM annotations:"
+214,"So I thought, screw it!",くそくらえ！,"locale conventions:
+
+MQM annotations:"
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",レイド固定に入るのを試すのをためらうほど不安で、上手くなろうという期待は全くない人たちでいっぱい！,"locale conventions:
+
+MQM annotations:"
+219,I was a voracious reader in my youth.,若い頃は、本の虫だった。,"locale conventions:
+
+MQM annotations:"
+227,They're not gonna talk about this on Bloomberg!,ブルームバーグじゃ報道されないだろうな！,"locale conventions:
+
+MQM annotations:"
+228,"But if Spotify has a good quarter, they will.",しかし、もしスポティファイの業績が良ければ、そうなるでしょう。,"locale conventions:
+
+MQM annotations:"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,全国の空洞化し荒廃した都市を再建させよう。,"locale conventions:
+
+MQM annotations:"
+231,These people want to improve their lives.,これらの人々は、生活を向上させたいと思っています。,"locale conventions:
+
+MQM annotations:"
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは終わった」とか「リモートワークは失敗だった」という見出しには、もううんざりだ。,"locale conventions:
+
+MQM annotations:"
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.",人々が、息苦しい騒がしいオフィスではなく、快適な空間で働けるようにする。,"locale conventions:
+
+MQM annotations:
+There are no locale convention errors in this translation. The Japanese text does not violate any specific Japanese locale conventions for formatting numbers, dates, times, addresses, currencies, telephone numbers, or measurements.
+
+```"
+243,To just ignore these facts is wrong.,これらの事実を無視するのは間違っている。,"locale conventions:
+
+MQM annotations:"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、現代の都市に住む女性がキャリアのために出産を遅らせようとする傾向について言及した。,"```
+locale conventions:
+
+MQM annotations:
+```"
+255,It took years of changing my life and working hard but finally...,何年も生活を変え、努力した結果、ついに…,"locale conventions:
+
+MQM annotations:
+There are no locale convention errors in this translation."
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,念のため、サイクリングジャケットにライナーをファスナーで取り付けます。,"locale conventions:
+
+MQM annotations:"
+266,This is for Wikipedia's component library (OOUI).,これは、ウィキペディアのコンポーネントライブラリ（OOUI）のためのものです。,"locale conventions:
+
+MQM annotations:
+[Critical]: None
+[Major]: None
+[Minor]: None"
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親オブジェクトを分離して作成し、そこにMOをインストールし、それが分離される（つまり、別の場所にアタッチされる）のを観察します。,"locale conventions:
+
+MQM annotations:"
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は毎日私のオフィスを2往復も走り回っているから、完全に筋肉ムキムキになっているんだ。,"locale conventions:
+
+MQM annotations:"
+278,It makes me so happy to see him thriving.,彼が活躍しているのを見ると、とても嬉しいです。,"locale conventions:
+
+MQM annotations:
+no-error"
+285,Last week got a ton done and feeling much better about field items.,先週はたくさん終わらせることができて、現場の件もだいぶ良くなった気がする。,"locale conventions:
+
+MQM annotations:"
+286,"All collards, kale, chard is transplanted.",すべてのコラード、ケール、スイスチャードは移植済みです。,"locale conventions:
+
+MQM annotations:"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",また、サラダ菜をそこに播種して、カット野菜を組み込む必要があります。灌漑、畝作り、移植については訓練されたクルーがおり、これは収穫以外のスキルの90％を占めます。,"locale conventions:
+
+MQM annotations:"
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,Apple Maps の方が Google Maps よりも、ナビゲーションの指示に従う体験がはるかに優れていた。,"locale conventions:
+
+MQM annotations:"
+295,Apple Maps wins.,Apple Maps の勝ち。,"locale conventions:
+
+MQM annotations:"
+302,"That said, I'm biased.",そうは言っても、私は偏っています。,"locale conventions:
+
+MQM annotations:"
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,しかし、政府が今の制度を変えないと考える限り、富の貯蔵庫として優れているのは土地だからです。,"locale conventions:
+
+MQM annotations:"
+309,In China you can only lease land.,中国では土地はリースしかできません。,"locale conventions:
+
+MQM annotations:"
+311,The government can change these policies whenever it wants.,政府は、これらの政策をいつでも変更できます。,"locale conventions:
+
+MQM annotations:"
+312,The land is temporary.,土地は一時的なもの。,"locale conventions:
+
+MQM annotations:
+None"
+318,That's why the Chinese only allow leases.,だから中国はリースしか認めていない。,"locale conventions:
+
+MQM annotations:"
+322,Let us continue to work together towards creating a brighter future for all.,すべての人々にとって、より明るい未来を創造するために、共に努力し続けましょう。,"locale conventions:
+
+MQM annotations:"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分をひどく卑下する人間の能力を、実際の残酷さを示す証拠がこれほど多くあるにもかかわらず、不思議に思うことがよくある。,"locale conventions:
+
+MQM annotations:"
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",「成功」が最も非難されるべき行為の責任者たちにしばしば与えられる世界で、個人の失敗と罪悪感に苦悩すること…。,"locale conventions:
+
+MQM annotations:"
+332,"or ""Modal editors are useless today"" :morty:",もしくは「モーダルエディタは今や無用」:morty:,"locale conventions:
+
+MQM annotations:"
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:",俺の#Axumプロジェクトの機能を共有ライブラリに抽出する作業: 「ちょっとキーボード貸して」:partyparrot: :helix: :ferrisdance:,"locale conventions:
+
+MQM annotations:"
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのお題は、徹夜。,"locale conventions:
+
+MQM annotations:
+[Critical]: None
+[Major]: None
+[Minor]: None"
+339,It is definitely more romance than filth.,どちらかと言えば、エロよりロマンスです。,"locale conventions:
+
+MQM annotations:
+no error"
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",いつか絶対、飛行機の中でオーガズムを体験してやる。相手は知らない人じゃないかもしれないけど。,"locale conventions:
+
+MQM annotations:"
+345,"I wish there was a ""who to follow"" recommendation somehow.",フォローすべき人のレコメンデーション機能みたいなのがあればいいのに。,"locale conventions:
+
+MQM annotations:"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",つまり、始めるにはもう少し手間がかかり、#UXを向上させるには優れたアプリが必要になるでしょう。,"locale conventions:
+
+MQM annotations:"
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",変化を生み出すためにできることに関する知識（ある程度の信頼区間内で）。,"locale conventions:
+
+MQM annotations:
+None"
+360,He's here and he's going to say this stuff no matter what.,彼はここにいるし、何があってもこれを言うつもりだ。,"locale conventions:
+
+MQM annotations:
+None"
+362,It's very underwhelming at the moment.,今は期待外れだ。,"locale conventions:
+
+MQM annotations:"
+363,"The ""MusicLM Demo"" is mildly interesting.",MusicLM Demo は、まあまあ面白いです。,"locale conventions:
+
+MQM annotations:"
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",筋トレしてるのに、自分の最大挙上重量がどれくらいか全然知らないのって変な感じだよね。だって、それって進捗を把握する上でめっちゃ重要な指標の一つじゃん。,"locale conventions:
+
+MQM annotations:"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,誰の補助もなしに、ウェイトラックすらない自分の寝室で一人で筋トレをしています。,"locale conventions:
+
+MQM annotations:"
+370,Just me and a barbell with a bunch of weights.,俺とバーベルと大量のウェイトだけ。,"locale conventions:
+
+MQM annotations:"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",自分の最大挙上重量を計算しようとすると、最大挙上できるだけの重りがなかったり、逆に重すぎて怪我をしたり、最悪の場合死んでしまうかもしれない。,"locale conventions:
+
+MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+375,I swear burrata didn't exist five years ago,5年前には、ブラッティーナなんて存在しなかったと誓うよ。,"locale conventions:
+
+MQM annotations:"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,誰かの母親が作っているのを見たことも、パーティーで無理やり押し付けられたことも、誰かのソース作りやパン作りの日に出てきたのを見たこともなかった。,"locale conventions:
+
+MQM annotations:"
+384,Does anyone have a Linux tablet they love?,Linuxタブレットで愛用しているものがある人いますか？,"```
+locale conventions:
+
+MQM annotations:
+```"
+385,"This would be mainly for web browsing, occasional email, and some games.",主にウェブ閲覧、たまにメール、それに少しゲームをする程度です。,"locale conventions:
+
+MQM annotations:"
+388,"A bad game is bad forever.""",駄作は永遠に駄作。,"locale conventions:
+
+MQM annotations:"
+389,So was it Epic that originated this?,これってEpicがオリジナル？,"locale conventions:
+
+MQM annotations:"
+390,We can keep going.,続けることができます。,"locale conventions:
+
+MQM annotations:"
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",GamePro 1997年11月号の過去の記事には、もっと曖昧な引用がある。,"locale conventions:
+
+MQM annotations:"
+401,Esp the carriages with the bigger windows.,特に窓の大きい車両。,"locale conventions:
+
+MQM annotations:"
+402,There's areas that could use some polish.,磨きをかけるべき箇所がいくつかあります。,"locale conventions:
+
+MQM annotations:
+None"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",つまり、十分なゴミ箱の不足と、照明の色の重要性を説明する標識の不足です。,"locale conventions:
+
+MQM annotations:"
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMやDDZ株が終わっても、悲しくはないだろう。,"locale conventions:
+
+MQM annotations:"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,お一人様一枚までとさせていただきます。お並びいただいた皆様がボードを入手できるよう努めております。,"locale conventions:
+
+MQM annotations:"
+411,Such friendships transcend differences.,そのような友情は、違いを超える。,"locale conventions:
+
+MQM annotations:"
+412,We all have stories to tell.,誰にでも語るべき物語がある。,"locale conventions:
+
+MQM annotations:"
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",なんとなく、この件は最初からつまずいてしまったような気がします。,"locale conventions:
+
+MQM annotations:"
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,もう少しここに残って、そもそも移行すべきかどうかを考えます。,"locale conventions:
+
+MQM annotations:"
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,レプニドたちは地表の下にトンネルを掘り、あなたは下の洞窟で数百ものレプニドの体が煮えたぎる塊の中に落ちてしまう。,"locale conventions:
+
+MQM annotations:"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは唐突に訪れる。幾つもの牙が猛毒を注入し、ディスクラの空気が肺を蝕む。,"```
+locale conventions:
+
+MQM annotations:
+```"
+425,Nobody will ever know that you were the first human future traveller.,あなたが人類初の未来旅行者だったことは、誰にも知られることはないだろう。,"locale conventions:
+
+MQM annotations:"
+426,You land the flyer nose upward on the side of the slag heap and climb out.,あなたは鉱滓山の斜面に機首を上にして着陸し、降りる。,"locale conventions:
+
+MQM annotations:"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つの目を持つレプニドたちは見ているようだが、こちらに向かってくる気配はない。実際、ゆっくりと近づいても、彼らは微動だにしない。,"locale conventions:
+
+MQM annotations:
+None"
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",どうやら、ユニバーサル翻訳機は応答を拾っていないため、彼らはあなたの声が聞こえないどころか、理解もできないようです。,"locale conventions:
+
+MQM annotations:"
+430,You decide to use your Psychic Awareness to contact them mentally.,念動力を使って、精神的に彼らと交信することにした。,"locale conventions:
+
+MQM annotations:"
+436,"#today I have coffee, sunshine and quiet time!",今日 は コーヒー と 日光 と 静かな 時間！,"locale conventions:
+
+MQM annotations:"
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,撚りの甘い箇所や塊のある、細撚りの銀灰色の糸を見つけました。,"locale conventions:
+
+MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+441,But am not sure I have enough of the purple.,紫の色が十分にあるかどうか、自信がありません。,"locale conventions:
+
+MQM annotations:"
+446,I have literally tried and dropped EVERY SINGLE ONE.,すべて、文字通り試してはやめた。,"locale conventions:
+
+MQM annotations:
+minor: style/awkward - The translated sentence sounds a bit unnatural and could be phrased more elegantly in Japanese."
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして、2年くらい前までは、成績証明書を確認するまで全く知りませんでした。,"locale conventions:
+
+MQM annotations:"
+448,The literature class hatred is even worse: I love to read.,文学の授業嫌いはもっとひどい。読むのは大好きなのに。,"locale conventions:
+
+MQM annotations:"
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしいし、そこで幸せに過ごしているけれど、罪悪感を感じずに日中に小説を読むほどリラックスするには、どこか別の場所にいなければならない。,"locale conventions:
+
+MQM annotations:
+No Locale Convention Errors"
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,まるで休暇中で、だから休暇中にするようなことをしている、という感じです。,"locale conventions:
+
+MQM annotations:
+None"
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",ここ2晩は家ほどよく眠れていないし、慣れない環境にいるだけで自分のペース配分が難しくなり、物の場所も覚えなければならないので、少し#MECFS（筋痛性脳脊髄炎/慢性疲労症候群）の症状が出てしまっているにも関わらず、そうなっているんだ。,"```
+locale conventions:
+
+MQM annotations:
+```"
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",ゲーム業界で働くことの、ワクワク感、緊張感、ストレス、そして私が愛するすべての良いものが詰まっている。,"locale conventions:
+
+MQM annotations:"
+458,Will a community blossom around the user-generated content piece of the game?,ゲームのユーザー生成コンテンツ作品を中心にコミュニティは形成されるだろうか？,"locale conventions:
+
+MQM annotations:"
+466,So I finally watched #Heartstopper,ついに#Heartstopper 見た。,"locale conventions:
+
+MQM annotations:
+no error"
+467,Was it overly cute to the point of being twee?,甘すぎて、トゥイーって感じだった？,"locale conventions:
+
+MQM annotations:"
+471,But did I love it?,私はそれを愛したか？,"locale conventions:
+
+MQM annotations:"
+476,"In part, because they'd be taught badly.",教え方が悪かったから。,"locale conventions:
+
+MQM annotations:"
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題について言い訳をせずに、ただ解決することが重要です。特に、リードから変更の要求があった場合のプロダクション環境では。,"locale conventions:
+
+MQM annotations:
+minor: NUMBER FORMAT/PUNCTUATION - The translated sentence includes a period at the end, like ""。"". This might be a style choice rather than a convention error, but it's subtly different from the English original. It could be argued it alters the tone/style, if slightly."
+479,"Every artist has been there, made the same mistakes.",どのアーティストも経験したことがある、同じ過ちを犯したことがある。,"locale conventions:
+
+MQM annotations:
+No locale convention errors found."
+484,Watch seeds being sown & cultivated (and not randomly scattered) by good peeps.,良い人たちによって種が蒔かれ、育てられるのを見る（ただランダムにばらまかれるのではなく）。,"locale conventions:
+
+MQM annotations:
+No locale convention errors found."
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",ジャミは犬の番の直前、小道ですれ違う時に彼にそっとメモを渡した。,"locale conventions:
+
+MQM annotations:"

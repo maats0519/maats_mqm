@@ -1,0 +1,579 @@
+index,original,translated,locale_convention_annotation
+1,助成金ツアー・県民割旅行ならクラブツーリズム！,"Club Tourism! Subsidy tour, prefectural discount travel.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+2,各都道府県毎の助成を活用したツアーをご紹介。,"Here is the translation from Japanese to English:
+
+We introduce tour packages that utilize subsidies from each prefecture.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters ""&gt;"" cause them to be malformed."
+6,【比較表】薬剤師転職サイト - 一覧比較表でおすすめ紹介,[Comparison Table] Pharmacist Job Posting Sites - Recommended Introduction with Comparison Table,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed.
+[Minor]: MARKUP TAG - The emoticon format has changed relative to the source text."
+7,《2022年最新版》薬剤師転職サイトランキング。,The latest 2022 ranking of pharmacist job search websites.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese text ""《2022年最新版》"" contains angle brackets that are not properly escaped in the English translation."
+14,初めてのフリーランスで不安な集客や確定申告サポートもご用意しています。,We offer support for anxious freelancers with client acquisition and tax filing for the first time.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character `&gt;` contains an extra whitespace, making it malformed."
+16,ルミクス脱毛のサロン紹介サイト - 予約数ランキングTOP5,Lumix Hair Removal Salon Introduction Site - Top 5 Reservation Ranking,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+18,早い 短期間 痛くない 熱くないSHR方式のルミクス脱毛サロン予約サイト,"Quick, short-term, painless, non-heating SHR method Lumix hair removal salon reservation site.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+19,月々1760円からできる歯科矯正 - 【公式】ウィスマイル矯正,"Orthodontic treatment starting from 1,760 yen per month - [Official] Wismile Orthodontics","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+20,【1760円から】低価格ではじめるならウィスマイル矯正。,"Orthodontic treatment with Wismile starts at a low price of 1,760 yen.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character `【` is not properly formatted."
+23,1650円のお試しコース受付中。,$16.50 trial course now available.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The currency symbol ""$"" is missing in the translation, which should be ""$16.50"" to match the source text."
+25,WEBから24時間予約受付中・格安マウスピース矯正・調整料0円。,"24-hour online reservation available, affordable mouthpiece orthodontics, adjustment fee free.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+29,不動産のことなら連合隊 - 北見不動産連合隊,Unified real estate team - Kitami real estate unified team.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+31,賃貸アパート、マンション、一戸建て。,"Rental apartment, condominium, detached house.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese characters ""賃貸アパート、マンション、一戸建て"" are not properly formatted in the English translation."
+33,地元に密着・写真は最大30枚・無料の物件査定も実施中。,"Local area-focused, up to 30 photos, and free property appraisals are currently available.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character ""&gt;"" is malformed due to the extra whitespace."
+36,お急ぎ便が使い放題。,Same-day delivery is available unlimited.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation uses the square brackets `[ ]` to enclose the unlimited delivery icon, which is different from the source text format."
+40,ポイントが貯まる・スマホアプリあり・数億種の品揃え。,"Point accumulation, smartphone app available, over hundreds of millions of product selection.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+45,あの人気漫画を今こそ一気読み。,"That popular manga, now is the time to read it all at once.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+46,全作品試し読みアリ・買うよりお得。,"All works available for sample reading, more affordable than buying.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character `&gt;` contains an extra whitespace, making it malformed."
+50,クチコミ情報も満載です。,Word-of-mouth information is also full.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The target text contains a malformed HTML entity with extra whitespace: ""クチコミ情報も[満載]MARKUP TAG です。""."
+51,タイムセールや限定プランも。,Time sale and limited plans.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains a malformed HTML entity with extra whitespace, e.g., ""Time sale and limited plans[& nbsp ;]MARKUP TAG""."
+52,自宅で簡単予約・ビジネスホテルが充実・プラン充実・会員登録でポイント貯まる。,"Easy reservation at home, well-equipped business hotels, abundant plans, and accumulate points with membership registration.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+54,端子台 貫通をこの価格で買える通販モノタロウ。,Terminal block through-hole can be purchased at the online store Monotaro at this price.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+56,端子台 貫通の通販。,Terminal block through-type online shopping.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character `通販。` contains an extra whitespace, making it malformed."
+59,紀伊御坊駅の格安ホテル - 【じゃらん】公式サイト,Affordable hotels near Kii-Gobo Station - Official site of [Jalan],"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+62,【紀伊御坊駅】のホテル・旅館を予約するならじゃらん。,"Here is the translation:
+
+Book hotels and inns near Kii-Gobo Station on Jalan.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese locale convention for the station name ""紀伊御坊駅"" is not preserved in the English translation, which uses the Romanized version ""Kii-Gobo Station"" instead."
+63,じゃらん限定・格安プランも充実。,Abundant discounted plans exclusive to Jalan.,"Source Japanese: じゃらん限定・格安プランも充実。
+
+Translation English: Abundant discounted plans exclusive to Jalan.
+
+MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation does not contain any design or markup errors."
+64,会員登録でポイント貯まる・当日予約OKの宿多数・お得なクーポン配布中。,"Many accommodations where you can accumulate points by registering as a member, accept same-day reservations, and distribute discount coupons.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+65,入力簡単60秒で無料査定依頼 - 路線価・地価の相場を調べるなら,"Easy input, free appraisal request in 60 seconds - If you want to check the market price and land price.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed."
+66,マンション・土地・一戸建ての無料売却査定が可能。,"Possible free real estate appraisal for condominiums, land, and detached houses.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character `&gt;` contains an extra whitespace, making it malformed."
+67,エリアから価格相場の把握ができます。,You can grasp the price range from the area.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains a whitespace inserted within the escaped HTML character `[& gt ;]`, which makes the markup tag malformed."
+68,不動産売却のお悩みはプロが解決！,Real estate sale worries are solved by professionals!,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese emoji format ""!"" is different from the English exclamation mark in the source text."
+71,マンションの売却・査定・最適な売却プランをご提案・売主様へ安心サポート。,"Proposal of the optimal sales plan, assessment, and sale of the condominium. Providing peace of mind support to the seller.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+75,ダイキン エアコン お客様 センター見つけましょう。,Daikin air conditioning customer center.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese text ""ダイキン エアコン お客様 センター見つけましょう。"" is not enclosed in any markup tags, which may affect the visual presentation or formatting of the content."
+78,来場予約キャンペーン実施中 - 都市型狭小3階建てモデルハウス,Come and visit campaign in progress - Urban compact 3-story model home.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+83,ITツールを駆使し業務コストを削減し、リーズナブルな価格でのサービス提供を実現,Utilizing IT tools to reduce business costs and realize the provision of services at reasonable prices.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+92,どうしても今すぐお金が必要 - 【厳選3社】即日キャッシング,I need money urgently right now.,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The escaped HTML character `【` is not properly formatted."
+98,レストラン予約するなら一休.com、お店の口コミも掲載。,"Restaurant reservations can be made on Ikyu.com, which also features reviews of the establishments.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character `&gt;` contains an extra whitespace, making it malformed."
+102,幸せウエディングを叶える情報満載／結婚式準備はゼクシィ。,"""Information-packed for realizing a happy wedding / Prepare for your wedding with Zexy.""","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character ""&gt;"" in the target text contains an extra whitespace, making it malformed."
+107,ゴールドカードはメリットばかり！,Gold card is all benefits!,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains an extra whitespace within the escaped HTML character for the emoji, making it malformed.
+
+The translation is:
+""Gold card is all benefits!"""
+110,自宅用のホームルーターをお探しの方必見！,Home router for home use must-see!,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character ""&gt;"" is malformed due to the extra whitespace."
+112,置くだけで使えるWiFiも！,Plug-and-play WiFi too!,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains an extra whitespace within the escaped HTML character for the WiFi icon, making it malformed.
+
+The translation is:
+""Plug-and-play WiFi[ ]too!"""
+115,蒲田イン ソーシャル- トリップアドバイザー,Kamata Inn Social - TripAdvisor,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+119,ショートが似合うか不安な方でもしっかりとカウンセリングして似合わせをいっしょに考えます。,"A person who is unsure if a short hairstyle would suit them can receive thorough counseling, and we will consider together what style would be most suitable.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese emoticon ""ショート"" is not properly formatted in the English translation."
+124,ロハコ限定、くらしになじむデザインが多数。,"Rohaco limited, many designs that fit into your lifestyle.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese word ""ロハコ"" is not properly formatted in the English translation. It should be kept in its original Japanese form without any additional markup."
+125,最短翌日お届け、PayPay決済対応。,"Next-day delivery, PayPay payment accepted.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+127,都心へのマルチアクセスを叶えるタワーレジデンス。,A tower residence that provides multi-access to the city center.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains an extra whitespace within the escaped HTML character `&gt;`, making it malformed."
+128,4路線利用できる‘目黒’駅に誕生。,"Meguro Station, where you can use 4 train lines, has been born.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese character '駅' (station) is not properly formatted in the English translation."
+129,野村不動産グループ×JR東日本グループ開発エリア【MEGURO MARC】の32階建タワー。,"Meguro Marc, a 32-story tower developed by the Nomura Real Estate Group and the JR East Japan Group.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+132,続くから変われる、人生を変える英会話の力をあなたへ。,"Your life can change through the power of English conversation, because it continues to evolve.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+136,クラウド電話を1内線200円から - 【公式】サテライトオフィス,Cloud phone from 200 yen per extension.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character ""&#91;"" is malformed due to the inserted whitespace."
+145,glovesdepoを探すなら、日本最大級通販ショップ楽天市場。,"Rakuten Ichiba, Japan's largest online shopping mall, is where you can find glovesdepot.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters ""楽天市場"" cause them to be malformed."
+148,目黒 恵比寿 五反田エリアで顧問弁護士をお探しなら目黒国際法律事務所。,"Meguro, Ebisu, and Gotanda area, if you are looking for a legal counsel, Meguro International Law Office.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese locale convention for the address format is not followed in the English translation. The address components are not separated by the appropriate symbols (e.g., ""/"", "">"")."
+151,若手弁護士がフットワーク軽く迅速に対応します。,The young lawyer will respond quickly and nimbly.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains a malformed HTML entity with extra whitespace, e.g., ""[ ]"" instead of ""[]""."
+152,20代～シニアまで申込める保険 - 【生命保険】はなさく生命,Life insurance for ages 20s to seniors - Hanasaku Life.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+161,素肌が喜ぶ、FOOD(食べもの)から生まれた化粧品。,Skincare products born from FOOD.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text.
+
+The source Japanese text is:
+素肌が喜ぶ、FOOD(食べもの)から生まれた化粧品。
+
+The English translation is:
+Skincare products born from FOOD.
+
+The design and markup error is that the emoji format in the target text does not match the source text. The source text does not contain any emojis, but the target text has an emoji that is not present in the source."
+162,食べてカラダにいいFOODをお肌にも！,"Eat foods that are good for your body, and also for your skin!","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese emoji format ""FOOD"" is not correctly rendered in the English translation."
+164,特別セールやキャンペーンをお見逃しなく。,Don't miss out on special sales and campaigns.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese emoji format ""特別セールやキャンペーンをお見逃しなく。"" has been changed to a different format in the English translation ""Don't miss out on special sales and campaigns."""
+165,韓国で人気のスキンフード・韓国コスメのスキンフード・SKINFOOD公式通販。,Skinfood - popular Korean skincare brand. Official Skinfood online store.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character `&gt;` contains an extra whitespace, making it malformed."
+166,【広島】ホットヨガTOP3 - 人気No1のホットヨガスタジオ,"Here is the translation from Japanese to English:
+
+【Hiroshima】Top 3 Hot Yoga - The most popular No. 1 Hot Yoga studio","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese locale convention for the title ""【Hiroshima】Top 3 Hot Yoga - The most popular No. 1 Hot Yoga studio"" is not preserved in the English translation. The square brackets ""【】"" around ""Hiroshima"" are not properly translated."
+169,お得なキャンペーン中,Limited-time special offer.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+175,活力サポートサプリ・テストフェン配合・スーパーマカ配合。,Vitality support supplement - containing TestoFen - containing Super Maca.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+177,【東京23区】で一戸建て探しならオープンハウス。,Open House for detached house search in the 23 wards of Tokyo.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese locale convention for representing the 23 wards of Tokyo as ""【東京23区】"" is not properly translated into the English target text. The markup tags should be preserved to maintain the formatting."
+180,厳選した大泉学園の一戸建てを掲載中。,Detached houses in Oizumi Gakuen are now available for viewing.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese locale convention for the address format ""Prefecture/Region> City> Street"" is not correctly translated. The target text uses the incorrect HTML entity format with extra whitespaces."
+186,宿泊&航空券をあんしん予約。,Secure reservation for accommodation and airline tickets.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese characters ""宿泊&航空券"" are not properly escaped in the English translation, resulting in a malformed HTML entity."
+196,モテ髪ヘアカタログ・人気サロンをネット予約・ネット予約でポイントGet。,"Hair catalog for attracting attention, popular salon online reservation, get points by online reservation.","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The escaped HTML characters `&gt;` are malformed due to the insertion of whitespaces."
+198,クチコミ比較、最安値予約、現地払い。,"Word-for-word translation:
+Word-of-mouth comparison, lowest price reservation, on-site payment.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese word ""クチコミ"" is not properly formatted as an emoji or other markup element in the English translation."
+204,全国のビューティーサロンの検索、空席確認、ネット予約。,"Beauty salon search, vacancy check, and online booking across Japan.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+206,理想の照明がない… - 取扱いブランド数、日本最大級,"""There is no ideal lighting...""","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese text ""理想の照明がない…"" is not properly enclosed in markup tags in the English translation."
+209,各種カード、ポイント還元・日本最大級2万点の品ぞろえ。,"A wide variety of cards, point redemption, and Japan's largest selection of over 20,000 items.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+214,"【公式】ヴァージンクリニック - 全身医療脱毛5回88,000円／京都","Virgin Clinic - Full-body medical hair removal 5 times 88,000 yen / Kyoto","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text.
+
+The translation provided is:
+""Virgin Clinic - Full-body medical hair removal 5 times 88,000 yen / Kyoto""
+
+The source Japanese text is:
+【公式】ヴァージンクリニック - 全身医療脱毛5回88,000円／京都
+
+The error identified is:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text. The source text contains a Japanese symbol, but the translation does not preserve the original formatting."
+217,追加料金も0円で安心,"Additional fees are also 0 yen, so you can rest assured.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese text ""追加料金も0円で安心"" is correctly translated as ""Additional fees are also 0 yen, so you can rest assured."" There are no design or markup errors in the English translation."
+218,幕張本郷 口コミ第1位の整体院 - 多くの専門家が絶賛する技術,"Makuhari Honcho, the No. 1 osteopathic clinic in word-of-mouth - Highly praised techniques by many experts.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+232,料金も時間も節約しよう。,Save on both cost and time.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese text ""料金も時間も節約しよう。"" is correctly translated as ""Save on both cost and time."" However, the translation does not contain any markup tags or design elements that need to be annotated."
+234,お気に入りの宿を特別料金で。,Your favorite accommodation at a special rate.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese emoji format ""お"" in the source text is not properly represented in the English translation."
+238,自分で淹れたおいしい一杯を味わいながら、プロの技をマスター。,Savor a delicious cup that you brewed yourself while mastering the techniques of a professional.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+244,25歳以下または対象期間内に引越した方でAirターミナル5を購入・契約し、開通後アンケート回答で,"25 years old or younger, or those who have moved within the target period, who have purchased or contracted for AirTerminal 5 and responded to the questionnaire after activation.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+246,3層タイプのプリーツマスクで、オメガ形状のプリーツが大きく広がり、鼻や口を圧迫しにくく、呼吸しやすくなっています。,"The pleated mask is of a 3-layer type, with large, wide omega-shaped pleats that do not easily press against the nose or mouth, making it easy to breathe.","Source Japanese:
+3層タイプのプリーツマスクで、オメガ形状のプリーツが大きく広がり、鼻や口を圧迫しにくく、呼吸しやすくなっています。
+
+Translation English:
+The pleated mask is of a 3-layer type, with large, wide omega-shaped pleats that do not easily press against the nose or mouth, making it easy to breathe.
+
+MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation does not contain any design or markup errors."
+248,10枚/袋×2袋で包装しており、持ち運び便利な仕様です。,"20 sheets per package, packaged for easy portability.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed.
+
+The source text is:
+10枚/袋×2袋で包装しており、持ち運び便利な仕様です。
+
+The translation is:
+20 sheets per package, packaged for easy portability.
+
+The annotated translation is:
+20 sheets per package, packaged for easy portability."
+249,ゴム紐は6mmの平ゴム形状なので、耳への当たりが柔らかく、よくある耳の痛みも軽減してくれます。,"The rubber band has a flat rubber shape of 6mm, so it is soft on the ears and can reduce the common ear pain.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The rubber band shape is described as ""6mm of flat rubber"", but the translation uses the term ""6mm flat rubber shape"", which slightly changes the phrasing."
+263,※A4 5冊入の商品に掲載の画像は新しいパッケージの商品です。,The image shown is of the new package of the product that comes in a set of 5 A4-sized items.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed.
+
+The translation provided is:
+""The image shown is of the new package of the product that comes in a set of 5 A4-sized items.""
+
+The source segment is:
+""※A4 5冊入の商品に掲載の画像は新しいパッケージの商品です。""
+
+The minor error is related to the markup tag, where the escaped HTML character `&gt;` has extra whitespaces inserted, making it malformed."
+264,以前のパッケージ商品の用紙と仕様は同一です。,The paper and specifications of the previous packaged product are the same.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The paper and specifications of the previous packaged product are the same.
+
+The translation does not contain any design or markup errors. The target text accurately reflects the source text without any issues related to markup tags, HTML characters, or emoji formats."
+266,箱に記載されている注文コードと500枚入の包装紙記載の注文コードは異なります。,The order code printed on the box is different from the order code printed on the 500-sheet packaging paper.,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The order code printed on the box is different from the order code printed on the 500-sheet packaging paper, which indicates a potential issue with the markup or formatting of the information."
+267,(500枚入の1冊で販売するためです),"""It is for sale as a single volume containing 500 sheets.""","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese source text contains a parenthetical note ""(500枚入の1冊で販売するためです)"", which is not properly translated into the English target text. The parentheses and the content within them should be preserved in the translation to maintain the original formatting."
+270,ブレーキライニングやブレーキドラムや機械部品等に付着したオイルやグリース等の汚れをきれいに落としブレーキ装置から発生する様々な粉塵を空気中に飛散させることなく、油脂類やカーボン等の汚れを素早くきれいに落とします。,"The dirt such as oil and grease attached to brake linings, brake drums, and mechanical parts is thoroughly removed, and the various dusts generated from the brake system are prevented from scattering into the air, quickly and cleanly removing oil, grease, and carbon deposits.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The target text contains malformed HTML entities with extra whitespaces, such as ""[ & gt ;]"" instead of the correctly escaped ""&gt;""."
+271,又、オゾン層の破壊や環境汚染の原因となるフロン及びトリクロロエタンを一切含まない有機溶剤中毒予防規則適用外の洗浄剤です。,"It is a cleaning agent that is not subject to the Organic Solvent Poisoning Prevention Regulation, and does not contain any chlorofluorocarbons or trichloroethane, which are the causes of ozone layer depletion and environmental pollution.","Source Japanese:
+又、オゾン層の破壊や環境汚染の原因となるフロン及びトリクロロエタンを一切含まない有機溶剤中毒予防規則適用外の洗浄剤です。
+
+Translation English:
+It is a cleaning agent that is not subject to the Organic Solvent Poisoning Prevention Regulation, and does not contain any chlorofluorocarbons or trichloroethane, which are the causes of ozone layer depletion and environmental pollution.
+
+MQM annotations:
+design and markup errors:
+[Minor]: markup/tag - The translation does not contain any markup tags, but the source text includes Japanese characters that may require special handling or formatting in the target language."
+274,缶の逆さ使用OK。,Upside-down use of the can is okay.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation uses square brackets `[]` to enclose the upside-down can symbol, which is a deviation from the source text format."
+276,ニトリルゴム手袋 極薄 粉なし ブルー色 100枚入,"Nitrile rubber gloves, ultra-thin, powder-free, blue color, 100 pieces.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+277,柔らかく手にピッタリフィットするので、長時間の細かな作業に適しています。,Fits snugly in the hand and is suitable for long periods of detailed work.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+279,便利な左右兼用タイプのためムダなくお使いいただけます。,You can use it without waste as it is a convenient ambidextrous type.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The target text contains a malformed HTML entity with extra whitespace: ""without waste as it is a convenient ambidextrous type[.]MARKUP TAG"""
+283,※体質によっては、かゆみ、かぶれ、発疹等をおこすことがあります。,"May cause itching, rash, or other skin irritations, depending on individual constitution.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character `&gt;` contains an extra whitespace, making it malformed."
+286,膨潤、浸透、老化することがあります。,"It may swell, penetrate, and age.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains a malformed HTML entity with extra whitespace, e.g., ""浸透、老化することがあります[& gt ;]""."
+289,※爪先、刃物や尖ったもの等で傷をつけないよう注意してください。,"Be careful not to scratch yourself with your fingertips, sharp objects, or pointed items.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+290,水漏れの原因になります。,The cause of water leakage.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The cause of water leakage."
+295,サイズが一目瞭然のデザイン。,The design is self-evident in size.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The design is self-evident in size.
+
+The translation does not contain any design or markup errors. The target text accurately conveys the meaning of the source text without any issues related to markup tags, HTML characters, or emoji formats."
+299,※電池のアルカリ液が目に入ったときは失明などのおそれがあるので、すぐに多量のきれいな水で洗い流し、 医師の治療を受ける。,"If the alkaline battery liquid gets into the eyes, there is a risk of blindness, so immediately rinse with a large amount of clean water and receive medical treatment.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+306,※この電池は充電式でないので、充電すると液漏れ、発熱、破裂のおそれがある。,"This battery is not rechargeable, so charging it may cause leakage, overheating, or explosion.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed.
+
+The translation provided is:
+""This battery is not rechargeable, so charging it may cause leakage, overheating, or explosion.""
+
+The source Japanese text is:
+""※この電池は充電式でないので、充電すると液漏れ、発熱、破裂のおそれがある。""
+
+The design and markup error identified is:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed."
+315,着け具合も柔らかくフィット感のある軍手です。,It is a work glove that fits softly and comfortably.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The target text contains a malformed HTML entity with extra whitespace: ""軍手です[。]MARKUP TAG""."
+318,※回転体を伴う機械作業では、使用しないでください。,Do not use for machinery operations involving rotational bodies.,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The target text contains a malformed HTML entity with extra whitespace within the brackets, which affects the visual integrity of the content."
+321,マスキングテープ 高品質 和紙基材,"Masking tape, high quality, Japanese paper-based.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese paper-based material is not properly marked up in the target text.
+
+The source text ""マスキングテープ 高品質 和紙基材"" indicates that the masking tape is made of high-quality Japanese paper material. However, the target text ""Masking tape, high quality, Japanese paper-based"" does not properly convey this information through markup or formatting."
+323,のり残りが少なくタテ裂けが起こりにくいです。,The nori (seaweed) residue is minimal and vertical tearing is less likely to occur.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The nori (seaweed) residue is minimal and vertical tearing is less likely to occur.
+
+The translation is accurate, and there are no design or markup errors in the target text. The only potential issue is that the term ""nori"" is not explained or defined, which may require additional context for some readers. However, this is not a design or markup error, so it is not annotated."
+324,※被着体、塗料の種類によっては貼り跡やのり残りが発生する場合がありますので、問題がないことを確かめてからご使用下さい。,"Please check that there are no issues before use, as adhesive residue or staining may occur depending on the surface and type of paint.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+329,※ティシューは水に溶けにくいため、水洗トイレには流さないでください。,"Please do not flush tissues down the water-flushing toilet, as they do not dissolve easily in water.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `※` cause it to be malformed."
+331,※引火の原因になりますので、火気の近くに置かないでください。,Do not place it near open flames as it may cause ignition.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains an extra whitespace within the escaped HTML character `&gt;`, making it malformed."
+334,プロユーザーにも安心してご使用いただける品質の、弱粘着タイプ養生テープです。,It is a low-tack masking tape that can be used with confidence by professional users as well.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character `&gt;` contains an extra whitespace, which makes it malformed."
+339,手で簡単にカットできる養生用ポリエチレンクロステープで耐候性・耐水性に優れています。,The polyethylene cross tape for protection is easy to cut by hand and has excellent weather and water resistance.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The polyethylene cross tape for protection is easy to cut by hand and has excellent weather and water resistance.
+
+Explanation: The translation does not contain any design or markup errors. The target text is well-formed and accurately reflects the source text."
+340,再はくり性が良好です。,Good repeatability.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese text ""再はくり性が良好です。"" is translated as ""Good repeatability."" without any markup errors."
+341,※貼る対象物や使用環境によっては、粘着力等数値通りの値が出ない場合がございます。,"The adhesive strength and other values may not be as indicated, depending on the object to be attached and the usage environment.","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+349,※養生後、テープを早く剥すと破断する恐れがありますので、ゆっくり剥してください。,Remove the tape slowly as there is a risk of tearing if removed too quickly.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters ""テープ"" and ""ゆっくり"" cause them to be malformed."
+350,※粘着剤特有のにおいがありますので、換気の良い所でのご使用をお勧めします。,Please use the product in a well-ventilated area as it has a characteristic adhesive odor.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The characteristic adhesive odor is mentioned in the source text, but the target text does not include any markup tags to indicate this information."
+351,※被着体と養生期間によっては、被着体を汚染・損傷する場合がありますので、ご使用前にお確かめください。,"The surface to be applied and the curing period may cause contamination or damage to the surface, so please check before use.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+356,従来品に比べ耐候性がアップしました。,Weatherability has been improved compared to the conventional product.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains a whitespace inserted within the escaped HTML character `&gt;`, making it malformed."
+360,保管する場合は密閉することを推奨します。,It is recommended to store in a sealed container.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains a malformed HTML entity with extra whitespace: ""密閉することを推奨します。"" is translated as ""it is recommended to store in a sealed container[ ]."""
+362,※一度ご使用された製品を再度ご使用にされることで、結束力不足により不具合が発生する可能性があります。,The product may malfunction due to insufficient cohesion if used again after initial use.,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The product may malfunction due to insufficient cohesion if used again after initial use.
+
+The source text contains no markup tags, but the translation includes some markup tags that are not present in the original text, which could affect the design and layout of the content."
+365,※取り付けの際には現車取り付け部に真っ直ぐ取り付け作業を行ってください。,Please install it straight onto the vehicle mounting part.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains a whitespace inserted within the escaped HTML character `取り付け部に真っ直ぐ取り`, making it malformed."
+368,現在販売している商品は品質確認済になりますのでご安心してご使用下さい。,"The products currently on sale have undergone quality inspection, so please use them with confidence.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character `&gt;` contains an extra whitespace, making it malformed."
+369,※当製品は交換作業を整備業者へ依頼して行う事をおすすめします。,We recommend that the replacement work be entrusted to a maintenance service provider.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters ""& gt ;"" cause them to be malformed."
+370,個人で交換作業を行った場合は補償出来ない場合もございます。,"In the event that the exchange work is carried out individually, there may be cases where compensation cannot be provided.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` cause it to be malformed."
+371,※ネジ寸法が各オイルフィルターで異なっている為、高さや外径などが同じフィルターに見えても取り付け前に再度、車種とネジ寸法をご確認ください。,"The screw dimensions vary for each oil filter, so even if the height and outer diameter appear to be the same as the filter, please reconfirm the vehicle model and screw dimensions before installation.","Source Japanese:
+※ネジ寸法が各オイルフィルターで異なっている為、高さや外径などが同じフィルターに見えても取り付け前に再度、車種とネジ寸法をご確認ください。
+
+Translation English:
+The screw dimensions vary for each oil filter, so even if the height and outer diameter appear to be the same as the filter, please reconfirm the vehicle model and screw dimensions before installation.
+
+MQM annotations:
+design and markup errors:
+No errors found."
+373,※わずかな違いでも大きなトラブルになる場合がございます。,There may be cases where even a slight difference can lead to a major problem.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed.
+
+The translation provided is:
+""送付先住所[ ]形式:都道府県[& gt ;]市区町>村[& gt ;]番地""
+
+The source text is:
+""※わずかな違いでも大きなトラブルになる場合がございます。""
+
+The translation contains a markup error where the HTML entity `&gt;` has extra whitespaces inserted, making it malformed. This is a minor design and markup error as it does not significantly impact the overall understanding of the content."
+378,白メリヤスウエス 中古生地,"White knitted fabric, used.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The target text contains an extra whitespace within the escaped HTML character for the word ""used"".
+
+The annotated translation is as follows:
+
+White knitted fabric, used[]."
+380,ウエス製品の中で優れた製品です。,It is an excellent product among Ues products.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese word ""ウエス"" is not properly formatted in the English translation. It should be written as ""Ues"" without any special formatting."
+382,カット済。,Cut.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese source text ""カット済。"" has been translated to ""Cut."" in English, but the translation does not contain any markup tags or formatting issues."
+390,※用途以外に使用しないでください。,Do not use for purposes other than intended.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character ""&gt;"" contains an extra whitespace, making it malformed."
+393,ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,Avoid using chemical products as they may cause color fading.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` causing it to be malformed."
+395,食品に触れる用途には使用しないでください。,Do not use for applications that come into contact with food.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The target text contains a malformed HTML entity with extra whitespace: ""食品に触れる用途には使用しないでください[ ]。"""
+398,※ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,Please avoid using chemical products as they may cause color fading.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+399,ハンドクリーナー 工業用 オレンジエキス保湿成分配合 スクラブ入り,"Hand cleaner, industrial, with orange extract moisturizing ingredients, with scrub.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+409,異物感が残る場合は、眼科医にご相談ください。,"If you continue to feel a foreign body sensation, please consult an ophthalmologist.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The target text contains a malformed HTML entity with extra whitespace: ""眼科医にご相談ください[ ]."""
+421,※使用後の本製品の廃棄は、お住まいの各自治体で定められたゴミ廃棄方法に従ってください。,Please dispose of this product after use according to the waste disposal methods specified by your local municipality.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+422,※袋を閉じる際は結束バンドでしっかり結んでください。,Please securely tie the bag closed with a cable tie.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The cable tie symbol (結束バンド) in the source text is not properly represented in the English translation."
+428,※本来の用途以外には使用しないでください。,Do not use for purposes other than the original intended use.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character `&gt;` contains an extra whitespace, making it malformed."
+434,※フタが開けにくい際はフタを少し潰す様に押すと開けやすくなります。,The lid can be opened more easily by pressing it down slightly as if flattening it.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The lid can be opened more easily by pressing it down slightly as if flattening it.
+
+The source text contains a note about how to open the lid more easily, but the translation does not include any special formatting or markup to indicate that this is a note or instruction, unlike the source text which uses the ""※"" symbol to denote a note."
+435,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"When disposing of the contents, cleaning waste liquid, or containers, please entrust it to a specialized waste disposal company that has obtained permission from the prefectural government.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+438,透明度があり加工後も封入物の文字をクッキリ読めます。,"The text translates to:
+
+""It has transparency and the text of the encapsulated material can be clearly read even after processing.""","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The text ""クッキリ"" contains an extra whitespace within the emoji format, which is not present in the source text."
+439,※機器には接着加工してあるシール部分から挿入してください。,Please insert from the adhesive-processed seal portion of the device.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `※` and `>` cause them to be malformed.
+
+The translation is:
+""Please insert from the adhesive-processed seal portion of the device.""
+
+The source Japanese text is:
+""※機器には接着加工してあるシール部分から挿入してください。""
+
+The design and markup error in the translation is the presence of whitespaces within the HTML entities, which makes them malformed. This is a minor error as it does not significantly impact the overall understanding of the content."
+443,※一度加工したシートは再生不能となります。,The sheet once processed becomes irreparable.,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The sheet once processed becomes irreparable.
+
+The translation contains a markup error where the greater-than symbol `>` is not properly escaped as `&gt;`. This disrupts the visual integrity of the content and makes it appear as if there is an incomplete HTML tag."
+450,※工業用の薬品やアルコール、石油製品などには絶対に使用しないで下さい。,"Do not use for industrial chemicals, alcohol, petroleum products, or the like.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+451,※熱湯は入れないで下さい。,Do not pour in hot water.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese source text contains a line break symbol ""※"" which is not properly represented in the English translation."
+455,中身が漏れる恐れがございます。,The contents may leak.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The contents of the target text do not match the source text, as the escaped HTML character `&gt;` is not properly formatted.
+
+The correct translation should be:
+""There is a risk of the contents leaking."""
+459,店頭でフックなどに吊り下げることができる便利な穴付きです。,It has a convenient hole that can be hung on hooks or the like at the store counter.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains a malformed HTML entity with extra whitespace, e.g., ""[ ]""."
+460,フック用穴と本体の間はミシン目入りなので、フックに掛けて本体を引っ張れば穴の下から切れて使える構造になっています。,"The space between the hook hole and the main body is perforated, so you can hook it and pull the main body to cut it from the bottom of the hole, making it usable.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The space between the hook hole and the main body is perforated, so you can hook it and pull the main body to cut it from the bottom of the hole, making it usable.
+
+The translation contains a minor markup error where the HTML entity `&gt;` is not properly formatted, with an extra space inserted between the `&` and `gt;` characters. This makes the HTML entity malformed and not properly rendered."
+461,表面にエンボス加工入り。,Embossed surface.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The embossed surface is not indicated in the target text, which differs from the source."
+464,※幼児や子供がかぶって遊ぶと窒息などの危険がありますのでご注意ください。,Please be careful as there is a risk of suffocation if infants or children play by putting it over their heads.,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The escaped HTML characters for the symbol "">"" are malformed, containing extra whitespaces."
+465,※高温多湿を避け、火の気のない場所で保管してください。,"Keep in the place away from high temperature and high humidity, and away from fire.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters ""火の気のない"" cause them to be malformed."
+481,OPPテープ 透明色,Transparent color OPP tape.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+482,梱包用テープとして、価格も安く強度も強い為、良く使われています。,Packing tape is widely used because it is inexpensive and has high strength.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` causing it to be malformed."
+487,※梱包用途以外の使用は避けてください。,Please avoid using for purposes other than packaging.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` cause it to be malformed."
+488,貼る面を損傷する場合がございます。,May cause damage to the surface to be applied.,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The translation contains a malformed HTML entity with extra whitespace, which affects the visual integrity of the content.
+
+The source text is:
+貼る面を損傷する場合がございます。
+
+The English translation is:
+May cause damage to the surface to be applied."
+492,※物性は測定値であり、規格値或いは保証値でありません。,The physical properties are measured values and not specification values or guaranteed values.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `※` and `或` cause them to be malformed."
+499,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"When disposing of the contents, cleaning waste liquid, or containers, please entrust it to a specialized waste disposal company that has obtained permission from the prefectural government.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."

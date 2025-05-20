@@ -1,0 +1,2070 @@
+index,original,zero_shot_translation,annotation
+6,"Соревнования личные с командным зачетом, участвуют спортсмены команд субъектов РФ, в одной возрастной группе — мужчины, женщины.","Individual competitions with team standings, athletes from teams of the constituent entities of the Russian Federation participate, in one age group - men, women.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""личные"" (individual) from the source text.
+[Minor]: [mistranslation] - The translation uses ""athletes from teams"" instead of ""athletes of teams"" as in the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses ""participate"" instead of ""participating"" to match the structure of the source text.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [awkward] - The translation sounds a bit awkward and could be rephrased more naturally.
+
+Terminology Errors
+[No Errors]
+
+Non-translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]"
+9,"Перезачет результатов для спортсменов, которые не принимали участие в данных соревнованиях, не производится, а очки для командного зачета не начисляются.","The results are not transferred for athletes who did not participate in these competitions, and points for the team standings are not awarded.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the phrase ""перезачет результатов"", which is an important detail about the results not being transferred.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""are not transferred"") instead of the more natural active voice (""are not transferred"").
+
+Terminology Errors
+[Minor]: [inconsistent use] - The term ""соревнования"" is translated as ""competitions"" in the first part, but ""standings"" in the second part, which is not fully consistent.
+
+Overall, the translation is generally accurate and understandable, with only minor errors that do not significantly impact the meaning or flow of the text."
+14,"В эстафетном беге спортсмены, могут выступать только за команду одной территории.","In relay racing, athletes can only compete for a team from one territory.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The source text mentions that athletes can only compete for a team from one territory, but the translation does not include the word ""only"".
+
+Fluency Errors
+[No errors]
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[No errors]
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]"
+23,Официальная тренировка на соревновательной арене 14 февраля с 16:00 до 19:00. В соревновательные дни — вне времени соревнований.,Official training on the competition arena on February 14 from 16:00 to 19:00. On competition days - outside of competition times.,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the information about the training schedule on competition days.
+
+Fluency Errors
+[Minor]: [punctuation] - The translation lacks a period at the end of the second sentence.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only minor issues related to omission of information and punctuation. The translation conveys the key details of the training schedule effectively."
+26,СаЙ Коот будет расположен за вторым виражом рядом с сектором толкания ядра.,The shot put sector will be located behind the second turn next to the shot put sector.,"MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The source text refers to the ""Сай Коот"" (Sai Koot), which is likely a proper noun referring to a location, but the translation renders it as ""shot put sector"" which is incorrect.
+[Minor]: [omission] - The source text mentions that the location will be ""рядом с сектором толкания ядра"" (next to the shot put sector), but this detail is missing from the translation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""will be located"" which is grammatically correct, but a more natural phrasing in English would be ""is located"".
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [awkward] - The phrasing ""behind the second turn next to the shot put sector"" is a bit awkward and could be rephrased more naturally.
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation has a few minor issues with accuracy, fluency, and style, but the meaning is still generally understandable."
+29,Уход участников с места соревнований без разрешения рефери запрещается.,Leaving the competition venue without the referee's permission is prohibited.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Omission] - The translation does not include the word ""participants"" which is present in the source text.
+
+Fluency Errors
+[Minor]: [Register] - The translation uses more formal language (""venue"" instead of ""place"") compared to the source text.
+
+Locale Convention Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Overall, the translation is accurate and fluent, with only minor issues related to omission of a word and register. The translation conveys the meaning of the source text effectively."
+35,"В беге на 60 м и беге с барьерами 60 м соревнования проводятся в 3 круга, выход в следующий круг будет определен по окончанию приема заявок.","In the 60m run and the 60m hurdles, the competitions are held in 3 rounds, the advancement to the next round will be determined upon the completion of the registration.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the information about the criteria for advancing to the next round (determined by the end of registration).
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""the advancement to the next round will be determined"" which is grammatically correct but could be more natural-sounding in English.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+39,"В прыжках и метаниях проводятся квалификационные (в случае более 16 заявленным спортсменов) и финальные соревнования, для участия в которых необходимо пройти квалификацию.","In jumps and throws, qualifying (in case of more than 16 athletes entered) and final competitions are held, for participation in which it is necessary to qualify.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""заявленным"" (entered) from the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""for participation in which it is necessary to qualify"" which is grammatically correct but could be more natural and idiomatic.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""jumps and throws"" is a bit too technical and could be more naturally expressed as ""jumping and throwing events"".
+
+Overall, the translation is generally accurate and understandable, with only minor errors that do not significantly impact the meaning or flow of the text."
+57,Техническое совещание ГСК с официальными представителями команд состоится 14 февраля в 18:00 в конференц-зале манежа ЛФК ЦСКА.,Technical meeting of the GSK with official representatives of the teams will be held on February 14 at 6:00 PM in the conference hall of the LFK CSKA sports complex.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The time of the meeting is mistranslated from 18:00 to 6:00 PM.
+
+Fluency Errors
+[Minor]: [Punctuation] - The translation lacks a period at the end of the sentence.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+59,"Июльский номер традиционно сдается во время Московского кинофестиваля, и это, конечно, очень грустно: вычитывать полосы, когда душа рвется на Шаброля.","The July issue is traditionally handed in during the Moscow Film Festival, and this, of course, is very sad: to proofread the pages when the soul yearns for Chabrol.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""Chabrol"" does not accurately convey the meaning of the Russian phrase ""Шаброль"" which refers to the Moscow Film Festival.
+
+Fluency Errors
+[Minor]: [grammar] - The sentence structure in the translation is slightly awkward, e.g. ""to proofread the pages when the soul yearns for Chabrol.""
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[Minor]: [awkward] - The phrasing in the translation, such as ""to proofread the pages when the soul yearns for Chabrol,"" is a bit stilted and could be improved for more natural-sounding English.
+
+Terminology Errors
+[No errors]
+
+Non-translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is generally accurate and understandable, with only minor issues related to fluency and style. The quality is acceptable."
+62,"А еще мы в этот раз публикуем первую часть довольно подробного гида по творчеству Альфреда Хичкока, и вот тут уж точно не нужно ничего специально рекламировать, и ежу понятно, что автор «Подозрения» и «Веревки» - это наше Татьяна Алешичева, Борис Глейзеров, Анна Головня, Ник Де Семлин, Дэн Джолин, Тамара Дондурей, Николай Караев, Денис Корсаков, Мария Кувшинова, Иван Куликов, Уилл Лоуренс, Сергей Мезенов, Сергей Натапов, Иан Нейтан, Ким Ньюмэн, Заира Озова, Нев Пирс, Алексей Простяков, Серафима Скибюк, Адам Смит, Мур Соболева, Василий Степанов, Александр Стрелков, Олли Ричардс, Олег Тищенков, Алена Логунова, Крис Хьюитт, Ольга Шакина лондинку-цэрэушницу Эвелин Солт, несмотря на блестящий послужной список, заподозрили в шпионаже в пользу русских и решили во что бы то ни стало изловить.","Here is the translation from Russian to English:
+
+And this time we are also publishing the first part of a rather detailed guide to the work of Alfred Hitchcock, and here it is definitely not necessary to advertise anything specially, and it is clear to everyone that the author of ""Suspicion"" and ""Rope"" is our Tatyana Aleshicheva, Boris Gleizerov, Anna Golovnya, Nick De Semlin, Dan Jolin, Tamara Dondureyev, Nikolai Karaev, Denis Korsakov, Maria Kuvshinova, Ivan Kulikov, Will Lawrence, Sergey Mezenov, Sergey Natapov, Ian Nathan, Kim Newman, Zaira Ozova, Nev Pierce, Alexey Prostyakov, Serafima Skibuk, Adam Smith, Moor Soboleva, Vasily Stepanov, Alexander Strelkov, Olly Richards, Oleg Tishchenko, Alena Logunova, Chris Hewitt, Olga Shakina the London-based CIA agent Evelyn Salt, despite her brilliant service record, was suspected of spying for the Russians and decided to catch her at all costs.","MQM annotations:
+
+Accuracy Errors
+[Major]: [Mistranslation] - The phrase ""несмотря на блестящий послужной список, заподозрили в шпионаже в пользу русских"" is mistranslated as ""despite her brilliant service record, was suspected of spying for the Russians"". The original text suggests that Evelyn Salt was suspected of spying for the Russians despite her brilliant service record, but the translation implies that she was suspected of spying for the Russians due to her brilliant service record.
+
+Fluency Errors
+[Minor]: [Grammar] - The sentence ""And this time we are also publishing the first part of a rather detailed guide to the work of Alfred Hitchcock, and here it is definitely not necessary to advertise anything specially, and it is clear to everyone that the author of ""Suspicion"" and ""Rope"" is our Tatyana Aleshicheva, Boris Gleizerov, Anna Golovnya, Nick De Semlin, Dan Jolin, Tamara Dondureyev, Nikolai Karaev, Denis Korsakov, Maria Kuvshinova, Ivan Kulikov, Will Lawrence, Sergey Mezenov, Sergey Natapov, Ian Nathan, Kim Newman, Zaira Ozova, Nev Pierce, Alexey Prostyakov, Serafima Skibuk, Adam Smith, Moor Soboleva, Vasily Stepanov, Alexander Strelkov, Olly Richards, Oleg Tishchenko, Alena Logunova, Chris Hewitt, Olga Shakina the London-based CIA agent Evelyn Salt, despite her brilliant service record, was suspected of spying for the Russians and decided to catch her at all costs."" contains some grammatical errors, such as the use of ""the London-based CIA agent Evelyn Salt"" as a subject in the second part of the sentence.
+
+Terminology Errors
+[Minor]: [Inconsistent use] - The name ""Evelyn Salt"" is used inconsistently, with the first mention using the full name ""the London-based CIA agent Evelyn Salt"" and the second mention using only the last name ""Salt""."
+63,"Загнанная в угол, она перекрасится в привычный нам черный и сама отправится искать правду.","Cornered, she will dye herself in the familiar black and go in search of the truth.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""перекрасится в привычный нам черный"" is translated as ""will dye herself in the familiar black"", which is a slightly different meaning than the original.
+[Minor]: [omission] - The Russian phrase ""сама отправится искать правду"" is translated as ""go in search of the truth"", omitting the reflexive pronoun ""сама"" (herself).
+
+Fluency Errors
+[No errors detected]
+
+Locale Convention Errors
+[No errors detected]
+
+Style Errors
+[No errors detected]
+
+Terminology Errors
+[No errors detected]
+
+Non-Translation Errors
+[No errors detected]
+
+Other Errors
+[No errors detected]
+
+Overall, the translation is generally accurate and fluent, with only minor issues related to mistranslation and omission. The translation conveys the main meaning of the source text."
+66,Примерно так красота и должна спасать мир.,"Beauty should save the world, roughly like that.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text ""Примерно так красота и должна спасать мир"" is not accurately translated as ""Beauty should save the world, roughly like that."" The source text suggests that beauty should save the world in a more general sense, while the translation makes it sound more like a specific way in which beauty should save the world.
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""Beauty should save the world, roughly like that"" has a slightly awkward grammatical structure compared to more natural English phrasing.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""beauty"" may not fully capture the nuance of the Russian word ""красота"" in this context, which could have a broader meaning.
+
+Overall, the translation conveys the general meaning of the source text, but there are some minor issues with accuracy, fluency, and terminology that could be improved."
+67,"Вот он, родной, взорвавший и починивший мир «Пятым элементом» и сделавший Миллу Йовович самой прекрасной женщиной во вселенной.","Here he is, the native, who blew up and fixed the world with ""The Fifth Element"" and made Milla Jovovich the most beautiful woman in the universe.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""blew up and fixed the world"" does not accurately convey the meaning of the original Russian text, which suggests that the director ""exploded and repaired the world"" with the film ""The Fifth Element"".
+[Minor]: [mistranslation] - The translation ""made Milla Jovovich the most beautiful woman in the universe"" does not fully capture the meaning of the original Russian text, which suggests that the director made Milla Jovovich the most beautiful woman in the universe through his work on ""The Fifth Element"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the pronoun ""he"" to refer to the director, but the original Russian text does not specify the gender of the person being discussed.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""native"" used in the translation may not be the most appropriate term to describe the director in this context."
+70,Что делал Бессон 13 лет между «Элементом...» и «Аделью...» вспоминать не хочется.,"What Besson did for 13 years between ""The Element..."" and ""Adele..."" is not something he wants to remember.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text refers to the time period between ""The Fifth Element"" and ""Adele"", but the translation refers to ""The Element..."" and ""Adele..."", which is not accurate.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""is not something he wants to remember"", which is grammatically correct but could be improved to ""is not something he wants to recall"" or ""is not something he wishes to remember"".
+
+Overall, the translation is generally accurate and fluent, with only minor errors detected."
+71,"Он, мягко говоря, без дела не сидел, но вся эта сценарно-продюсерская суета и редкие, вымученные режиссерские выступления забудутся.","He, to put it mildly, was not idle, but all this scenario-producing hustle and rare, agonized directorial performances will be forgotten.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""мягко говоря"" is translated as ""to put it mildly"", which is a slightly different nuance.
+[Minor]: [Mistranslation] - The phrase ""вымученные режиссерские выступления"" is translated as ""agonized directorial performances"", which does not fully capture the meaning of ""forced"" or ""labored"" performances.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the passive voice (""will be forgotten"") instead of the active voice used in the source text (""забудутся"").
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [Awkward] - The translation sounds a bit awkward and could be phrased more naturally.
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and understandable, with a few minor issues related to nuance, grammar, and style. The translation quality is acceptable."
+72,А вот «Адель...» — едва ли.,"""Adele...""—hardly.","MQM annotations:
+Accuracy Errors
+[Minor]: Omission - The source text ""А вот"" is missing in the translation.
+
+Fluency Errors
+[Minor]: Punctuation - The translation lacks a period at the end of the sentence.
+
+Locale Convention Errors
+[No-error]
+
+Terminology Errors
+[No-error]
+
+Overall, the translation is mostly accurate and fluent, with only minor errors related to omission and punctuation. The meaning of the source text is still clearly conveyed in the translation."
+73,"Когда смотришь это кино, кажется, что 13 лет перед нами был не наш Бессон, а какой-то двойник.","When you watch this movie, it seems that 13 years ago it was not our Besson, but some kind of double.","MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The translation does not accurately convey the meaning of the original text. The original text states that it seems the director Luc Besson has changed significantly in the past 13 years, but the translation suggests that it was not the real Besson but a double.
+[Minor]: [omission] - The translation omits the word ""before us"" (перед нами) from the original text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""When you watch this movie"" instead of ""When one watches this movie"" to match the impersonal tone of the original."
+76,"Тут весь невероятный драйв заключается в том, что за каждым поворотом или репликой вас поджидают сюрпризы.","Here, the incredible drive is that surprises await you around every corner or line.","MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The source text refers to the ""incredible drive"" or excitement of the experience, but the translation does not accurately convey this meaning.
+[Minor]: Omission - The source text mentions ""every turn or line"", but the translation only mentions ""every corner or line"".
+
+Fluency Errors
+[Minor]: Grammar - The phrasing ""the incredible drive is that surprises await you"" is grammatically awkward.
+
+Terminology Errors
+[Minor]: Inappropriate for context - The term ""drive"" is used in the source text to convey a sense of excitement or thrill, but the translation uses it more literally to refer to a physical drive or journey."
+77,И все как один приятные.,And they are all pleasant.,"MQM annotations:
+Accuracy Errors
+[Minor]: Omission - The source text mentions that ""they are all pleasant"", but the translation omits the plural pronoun ""they"", making the translation less precise.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+78,"То ли девушка, то ли видение","A vision, or a girl.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text is ambiguous, suggesting that the subject could be either a girl or a vision, whereas the translation simply states that it is ""a vision, or a girl"", which does not fully capture the ambiguity of the original.
+
+Fluency Errors
+[Minor]: [grammar] - The translation lacks a verb, making the sentence structure incomplete.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""vision"" in this context may not be the most appropriate translation for the Russian word ""видение"", which can also mean ""apparition"" or ""phantom"".
+
+Overall, the translation conveys the general meaning of the source text, but it could be improved to better capture the ambiguity and nuance of the original."
+84,"Режиссер не бежит за зрителем с протянутой рукой, умоляя оценить спецэффекты, декорации или трюки, а увлекает за собой, как старомодный романист, восклицающий пред большим путешествием к центру земли или на край света: «Вперед, мой читатель, нас ждут великие дела!»","The director does not run after the viewer with an outstretched hand, begging to appreciate the special effects, sets, or stunts, but rather draws them in, like an old-fashioned novelist, exclaiming before a great journey to the center of the earth or to the edge of the world: ""Forward, my reader, great deeds await us!""","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""умоляя оценить"" (begging to appreciate) is not accurately translated as ""begging to appreciate"".
+[Minor]: [Mistranslation] - The phrase ""восклицающий пред большим путешествием"" (exclaiming before a great journey) is not accurately translated as ""exclaiming before a great journey"".
+
+Fluency Errors
+[Minor]: [Grammar] - The sentence structure in the translation could be improved for better flow and readability.
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The term ""old-fashioned novelist"" may not be the most appropriate choice in this context.
+
+Overall, the translation is generally accurate and conveys the meaning of the source text, with only minor errors that do not significantly impact the overall quality of the translation."
+85,"При этом Бессон обращается с жанровым кино, про которое знает решительно все, бесцеремонно и весело, как мальчишка, насмотревшийся старых фильмов и начитавшийся Жюля Верна.","At the same time, Besson deals with genre cinema, about which he knows absolutely everything, unceremoniously and cheerfully, like a boy who has watched old movies and read Jules Verne.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The phrase ""про которое знает решительно все"" is translated as ""about which he knows absolutely everything"", which is a slight mistranslation. A more accurate translation would be ""about which he knows absolutely everything"".
+[Minor]: [omission] - The phrase ""насмотревшийся старых фильмов и начитавшийся Жюля Верна"" is partially omitted in the translation, which only mentions ""a boy who has watched old movies and read Jules Verne"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""like a boy who has watched old movies and read Jules Verne"", which is grammatically correct but could be improved by using a more natural phrasing, such as ""like a boy who had watched old movies and read Jules Verne"".
+
+Locale Convention Errors
+[None]
+
+Style Errors
+[Minor]: [awkward] - The translation is slightly awkward in its phrasing, and could be improved to sound more natural and idiomatic.
+
+Terminology Errors
+[None]
+
+Non-translation Errors
+[None]
+
+Other Errors
+[None]"
+86,"Манипулируя банальностями, не отказывая себе в цинизме и не стесняясь риско","Manipulating banalities, not denying oneself cynicism and not being ashamed of risk.","MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The translation does not fully capture the meaning of the original text. The phrase ""не стесняясь риска"" (not being ashamed of risk) has been translated as ""not being ashamed of risk"" instead of ""not shying away from risk"".
+[Minor]: [Omission] - The translation omits the word ""Manipulating"" at the beginning of the sentence.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation lacks a subject for the sentence, making it grammatically incomplete."
+90,"Город переполошило древнее чудовище, которое пробудил к жизни старый медиум.","The ancient monster, which an old medium awakened to life, has thrown the city into a state of turmoil.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Russian phrase ""Город переполошило древнее чудовище"" is translated as ""The ancient monster has thrown the city into a state of turmoil"", which is a slightly different meaning. The original Russian implies that the monster itself has caused the city to be in a state of turmoil, whereas the translation suggests the monster has thrown the city into turmoil.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]"
+92,С той же целью девушка тащит из Египта настоящую мумию.,A girl drags a real mummy from Egypt for the same purpose.,"MQM annotations:
+Accuracy Errors
+[Minor]: Mistranslation - The source text indicates that the girl is dragging the mummy from Egypt, but the translation does not specify that the mummy is being dragged.
+[Minor]: Omission - The source text mentions that the girl is doing this ""with the same purpose"", but this context is missing from the translation.
+
+Fluency Errors
+[Minor]: Grammar - The translation uses the phrase ""a girl"" instead of ""the girl"", which would be more natural in this context.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+96,"Стиль Бессона в этом фильме складывается из словесного трюкачества, актерской клоунады и сюжетной эквилибристики (цирковые термины вполне уместны - единение двух искусств здесь органично и крепко как никогда).","The style of Besson in this film is made up of verbal trickery, acting clownery, and plot acrobatics (circus terms are quite appropriate - the unity of the two arts here is as organic and strong as ever).","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""verbal trickery"" does not fully capture the meaning of ""словесное трюкачество"" which implies more of a sense of showmanship or theatricality in the use of language.
+[Minor]: [mistranslation] - The translation ""acting clownery"" does not fully capture the meaning of ""актерская клоунада"" which implies more of a sense of exaggerated, comedic acting.
+[Minor]: [mistranslation] - The translation ""plot acrobatics"" does not fully capture the meaning of ""сюжетная эквилибристика"" which implies more of a sense of dexterous maneuvering or balancing of the plot.
+
+Fluency Errors
+[Minor]: [grammar] - The sentence structure could be improved to be more natural in English, e.g. ""The style of Besson in this film is characterized by verbal trickery, acting clownery, and plot acrobatics (circus terms are quite appropriate as the unity of the two arts here is as organic and strong as ever).""
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The use of the term ""clownery"" may not be the most appropriate choice to convey the intended meaning.
+
+Overall, the translation captures the general meaning of the source text, but could be improved in terms of fluency and terminology to better reflect the nuances of the original."
+98,"В ней воплотился незаслуженно забытый типаж авантюристки, которая берет не столько эксплуатацией сексуальности, сколько чистейшим куражом и отвагой.","In her, the undeservedly forgotten type of the adventuress was embodied, who takes not so much by the exploitation of sexuality, but by the purest daring and courage.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The phrase ""незаслуженно забытый типаж авантюристки"" is not accurately translated as ""the undeservedly forgotten type of the adventuress"". A more accurate translation would be ""the undeservedly forgotten archetype of the adventuress"".
+[Minor]: [omission] - The translation omits the phrase ""берет не столько эксплуатацией сексуальности, сколько"", which means ""takes not so much by the exploitation of sexuality, but rather"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""who takes"" instead of ""who takes"" to match the subject ""the adventuress"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""adventuress"" may not be the most appropriate translation for ""авантюристки"" in this context, as it has a more negative connotation. A more neutral term like ""adventurer"" or ""explorer"" may be more suitable.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."
+99,"В кино к таким девушкам, как правило, приставляют какого-нибудь дежурного мачо или волоокого романтика",A typical movie scenario involves pairing such girls with a standard macho man or a dreamy romantic.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""A typical movie scenario involves pairing such girls with a standard macho man or a dreamy romantic"" does not fully capture the nuance of the original Russian text, which suggests that in movies, such girls are typically paired with a ""on-duty macho man or a dreamy romantic.""
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+104,"Натренированный на многочисленных жанровых «кошках» и, казалось, совсем скисший Люк Бессон проявил неожиданную творческую лихость, напомнив, что граница между предпочтениями скучающих посетителей мегамоллов и высоколобых завсегдатаев арт-хаусных залов легко преодолевается фильмами для жизнерадостных безумцев.","Trained on numerous genre ""cats"" and, it seemed, completely soured, Luc Besson showed unexpected creative daring, reminding that the boundary between the preferences of bored visitors of megamalls and high-browed regulars of art-house halls is easily overcome by films for cheerful madmen.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""жанровых «кошках»"" is translated as ""genre ""cats"""" which is not a common English idiom and does not accurately convey the meaning.
+[Minor]: [Mistranslation] - The phrase ""скисший Люк Бессон"" is translated as ""completely soured, Luc Besson"" which does not accurately capture the meaning of the original Russian phrase.
+[Minor]: [Mistranslation] - The phrase ""высоколобых завсегдатаев арт-хаусных залов"" is translated as ""high-browed regulars of art-house halls"" which does not fully capture the meaning of the original Russian phrase.
+
+Fluency Errors
+[Minor]: [Grammar] - The sentence structure in the translation is a bit awkward and could be improved for better fluency.
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The use of the term ""madmen"" to describe the target audience of the films may not be the most appropriate or sensitive terminology.
+
+Overall, the translation is generally understandable, but there are some minor accuracy and fluency issues that could be improved."
+107,"Герметичный хоррор с претензией на психологизм и политический контекст 2002 году дебютный ужастик Джонатана Либесмана был разруган критикой, но понравился публике и хорошо заработал в прокате, а главное - попался на глаза продюсеру Майклу Бэю.","A hermetic horror with a claim to psychologism and political context, Jonathan Liebesman's 2002 debut horror film was panned by critics, but was liked by the public and did well at the box office, and most importantly - caught the eye of producer Michael Bay.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""hermetic horror"" does not accurately convey the meaning of the original ""Герметичный хоррор"", which could be better translated as ""claustrophobic horror"".
+[Minor]: [mistranslation] - The translation ""with a claim to psychologism and political context"" does not fully capture the meaning of the original ""с претензией на психологизм и политический контекст"", which suggests the film had aspirations to explore psychological and political themes.
+
+Fluency Errors
+[Minor]: [grammar] - The sentence structure in the translation could be improved for better flow and readability.
+
+Style Errors
+[Minor]: [awkward] - The phrasing ""caught the eye of producer Michael Bay"" is a bit awkward and could be rephrased more naturally.
+
+Overall, the translation conveys the main points of the original text, but could be improved in terms of accuracy and fluency."
+115,А трое мужчин в запертой комнате пытаются выработать стратегию выживания: объединиться в команду или перестрелять друг друга?,"""And three men in a locked room are trying to develop a survival strategy: to unite as a team or to shoot each other?""","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian source text mentions ""three men in a locked room"", while the English translation says ""And three men in a locked room"". The ""And"" at the beginning of the translation is an addition not present in the source.
+[Minor]: [mistranslation] - The Russian source text uses the phrase ""пытаются выработать стратегию выживания"" (trying to develop a survival strategy), while the English translation uses ""are trying to develop a survival strategy"". The Russian phrase is more accurately translated as ""are trying to work out a survival strategy"".
+
+Fluency Errors
+[Minor]: [grammar] - The English translation uses the present continuous tense (""are trying"") which is grammatically correct, but the Russian source text uses the present tense (""пытаются"") which could also be translated using the simple present tense (""try"").
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The Russian phrase ""перестрелять друг друга"" is more accurately translated as ""shoot each other"" rather than ""to shoot each other"", as the English translation uses.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+117,Или пытаться сломать свою клетку любой ценой?,To try to break one's cage at any cost.,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The source text includes the phrase ""Или пытаться"" (Or to try), which is missing in the translation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""To try to break one's cage at any cost"" is grammatically correct but does not match the natural phrasing of the source text.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""cage"" may not be the most appropriate translation for ""клетку"" in this context, as it could have a more metaphorical meaning.
+
+Overall, the translation conveys the general meaning of the source text, but there are some minor errors in accuracy, fluency, and terminology that could be improved."
+118,"Проверку проходят не только они, но и молодая амбициозная сотрудница спецслужб, которую тестирует на безжалостность поднаторевший в диких экспериментах опытный профессор.","The young ambitious employee of the special services, who is tested for ruthlessness by an experienced professor who has become adept at wild experiments, undergoes the verification, not only them.","MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The translation incorrectly places the young ambitious employee of the special services as the subject of the verification, when the source text indicates that both the young employee and the experienced professor are undergoing the verification.
+[Minor]: [Omission] - The translation omits the word ""not only"" at the beginning of the sentence, which changes the meaning slightly.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation has some grammatical issues, such as the placement of the phrase ""not only them"" at the end of the sentence.
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The term ""special services"" may not be the most appropriate translation for the Russian term ""спецслужб"", which could be better translated as ""intelligence agencies"" or ""security services"".
+
+Overall, the translation has some minor accuracy and fluency issues, but the meaning is still generally understandable."
+120,Их сажают в изолированную комнату и выдают каждому кипу листов с бессмысленными вопросами.,They are placed in an isolated room and given each a stack of papers with meaningless questions.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Russian word ""кипу"" is translated as ""a stack of"" instead of ""a pile of"".
+
+Fluency Errors
+[Minor]: [Grammar] - The phrase ""They are placed in an isolated room and given each a stack of papers"" could be improved to ""They are placed in an isolated room and each given a stack of papers"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."
+122,"Начинается игра на выживание, за которой за стеклом внимательно наблюдают правительственные агенты.","The game of survival begins, which is being closely observed by government agents behind the glass.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""за стеклом"" is translated as ""behind the glass"", which is a slightly different meaning than the original.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality with only a minor accuracy error. The translation conveys the meaning of the original text accurately and fluently."
+126,"Куртуазным образом жизни отца она уязвлена и откровенно подглядывает за тем, как он, словно пародируя знаменитую сцену из «Шоугелз» Пола Верхувена, ныряет в бассейн за очередной романтической жертвой.","She is offended by her father's courtly way of life and openly peeps at how he, as if parodying the famous scene from Paul Verhoeven's ""Showgirls"", dives into the pool after another romantic victim.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The phrase ""куртуазным образом жизни"" is not accurately translated as ""courtly way of life"". A more accurate translation would be ""courtly lifestyle"" or ""courtly manner of living"".
+[Minor]: [mistranslation] - The phrase ""ныряет в бассейн за очередной романтической жертвой"" is not accurately translated as ""dives into the pool after another romantic victim"". A more accurate translation would be ""dives into the pool after another romantic conquest"".
+
+Fluency Errors
+[Minor]: [grammar] - The sentence structure could be improved for better fluency, for example: ""She is offended by her father's courtly lifestyle and openly peeps as he, as if parodying the famous scene from Paul Verhoeven's 'Showgirls', dives into the pool after another romantic conquest.""
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""victim"" may not be the most appropriate choice in this context, as it suggests the person is being taken advantage of, when the text implies the father is pursuing romantic relationships."
+129,Вялую мелодраматическую Мгер Мкртчан вместе с Павлом Бардиным снял комедию с Иваном Ургантом «Трое и снежинка».,"""Mger Mkrtchyan, along with Pavel Bardin, directed a comedy with Ivan Urgant called 'Three and a Snowflake'.""","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text describes the film as ""sluggish melodramatic"", but the translation omits this description.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""directed"") instead of the active voice used in the source text (""снял"" - ""shot/filmed"").
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The translation uses the term ""comedy"" to describe the film, but the source text does not explicitly state the genre.
+
+Overall, the translation conveys the main information accurately, with only minor errors that do not significantly impact the comprehension of the text."
+133,"Особенно жалко линию про бизнес по перекупке футбольных игроков, так и оставшийся за кадром.","Especially regrettable is the line about the business of reselling football players, which remained off-screen.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""remained off-screen"" does not accurately convey the meaning of the original Russian text, which suggests that the line about the business of reselling football players was not included or covered.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""which remained off-screen"") instead of the more natural active voice (""which was left out/not covered"").
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""reselling football players"" may not be the most appropriate or common way to refer to the business of buying and selling football/soccer players.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+137,"Зато с потенциальным слоганом для аудитории фильма автор попал «в девятку»: «Не ищи проблему там, где ее нет». Точнее не скажешь.","""But with the potential slogan for the film's audience, the author hit the ""bullseye"": ""Don't look for a problem where there isn't one."" Couldn't have said it better.""","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""в девятку"" is an idiomatic expression meaning ""hit the mark"" or ""got it right"", which is not fully captured by the translation ""hit the 'bullseye'"".
+
+Fluency Errors
+[Minor]: [register] - The tone of the translation is slightly more informal than the original Russian text.
+
+Terminology Errors
+[Minor]: [inconsistent use] - The term ""slogan"" is used in the first part of the translation, while ""potential slogan"" is used in the second part, which could be more consistent.
+
+Overall, the translation conveys the meaning of the original text accurately, with only minor issues related to idiomatic expression, register, and terminology consistency."
+140,"Герои скачут практически по одним и тем же частям света (оба фильма начинаются в Латинской Америке и заканчиваются в порту Лос-Анджелеса) и эксплуатируют одни и те же эффектные кадры - и там и там взрывается нечто, набитое долларовыми купюрами, и на декорации опускается вихрь из баксов.","The heroes ride almost through the same parts of the world (both films start in Latin America and end in the port of Los Angeles) and exploit the same spectacular shots - in both, something stuffed with dollar bills explodes, and a whirlwind of dollars descends on the sets.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""The heroes ride almost through the same parts of the world"" does not accurately convey the meaning of the original Russian text, which states that the heroes ""скачут практически по одним и тем же частям света"" (literally ""gallop/jump almost through the same parts of the world"").
+[Minor]: [mistranslation] - The translation ""something stuffed with dollar bills explodes"" does not accurately convey the meaning of the original Russian text, which states that ""нечто, набитое долларовыми купюрами, и на декорации опускается вихрь из баксов"" (literally ""something stuffed with dollar bills explodes, and a whirlwind of dollars descends on the sets"").
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""is stuffed"", ""is exploded"") instead of the more natural active voice used in the original Russian text.
+
+Terminology Errors
+[Minor]: [inconsistent use] - The translation uses both ""dollar bills"" and ""dollars"" to refer to the same currency, which could be considered inconsistent.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+146,"Просто удивительно, как они, не сговариваясь, привели разный материал к абсолютно идентичному громыхающему знаменателю, сделав довольно тяжелые, предсказуемые, ненужные боевики, вызывающие в памяти массу картин с Уиллисом и Шварценеггером (сравнения неизменно оказываются в пользу Брюса и Арнольда).","It's simply amazing how, without conspiring, they brought different material to an absolutely identical, thunderous denominator, creating rather heavy, predictable, unnecessary action films that evoke a multitude of images with Willis and Schwarzenegger (the comparisons invariably turn out in favor of Bruce and Arnold).","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The phrase ""привели разный материал к абсолютно идентичному громыхающему знаменателю"" is not accurately translated as ""brought different material to an absolutely identical, thunderous denominator"". A more accurate translation would be ""brought different material to an absolutely identical, resounding common denominator"".
+[Minor]: [mistranslation] - The phrase ""вызывающие в памяти массу картин с Уиллисом и Шварценеггером"" is not accurately translated as ""evoke a multitude of images with Willis and Schwarzenegger"". A more accurate translation would be ""evoking a multitude of images with Willis and Schwarzenegger"".
+
+Fluency Errors
+[Minor]: [grammar] - The phrase ""the comparisons invariably turn out in favor of Bruce and Arnold"" could be improved to ""the comparisons invariably favor Bruce and Arnold"".
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [awkward] - The overall translation is a bit awkward and could be improved to be more natural and idiomatic English.
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]"
+151,"Но они живы — и намерены во что бы то ни стало отомстить негодяю с томным голосом, который все это подстроил.",But they are alive - and intend to take revenge at all costs on the scoundrel with the languid voice who orchestrated all this.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Russian phrase ""во что бы то ни стало"" is translated as ""at all costs"", which is a slightly different nuance.
+
+Fluency Errors
+[Minor]: [Register] - The phrase ""the scoundrel with the languid voice"" has a slightly more formal register compared to the source text.
+
+Overall, the translation is of good quality with only minor errors that do not significantly impact the meaning or flow of the text."
+153,"Сделанный из вторсырья, условно съедобный боевичок","Made from recycled materials, conditionally edible action movie.","MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The source text refers to a ""боевичок"" which is a small action movie, but the translation renders it as a ""action movie"" which does not capture the diminutive meaning.
+[Minor]: Omission - The source text mentions that the item is ""made from recycled materials"", but this detail is not included in the translation.
+
+Fluency Errors
+[Minor]: Register - The translation uses the formal term ""conditionally edible"" which does not match the more casual tone of the source text.
+
+Terminology Errors
+[Major]: Inappropriate for context - The term ""action movie"" does not accurately convey the meaning of ""боевичок"" in the context, which refers to a small, low-budget action film."
+154,Простая история о беглом румынском каторжнике,A simple story about a fugitive Romanian convict.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text refers to a ""Romanian convict"", while the translation uses the term ""Romanian convict"". The term ""convict"" may have a slightly different connotation than ""katozhnik"" (which means ""convict"" or ""prisoner"") in the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""a fugitive Romanian convict"", which is grammatically correct but could be more natural-sounding as ""a Romanian convict on the run"" or similar.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""katozhnik"" in the source text has a more specific meaning of ""convict"" or ""prisoner"", while the translation uses the more general term ""convict"". A more precise term could be used.
+
+Overall, the translation is generally accurate and fluent, with only minor issues identified. The quality of the translation is good."
+158,"Безусловно, оно будет реалистичным, притом жестко.","It will be realistic, and harsh.","MQM annotations:
+Accuracy Errors
+[Minor]: Omission - The source text mentions that the ""it"" (referring to something) will be ""realistic, and harsh"", but the translation omits the word ""безусловно"" (which means ""undoubtedly"" or ""certainly"").
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor omission error. The translation conveys the core meaning of the source text."
+159,Высока вероятность участия актеров-непрофессионалов.,High probability of participation of non-professional actors.,"MQM annotations:
+Accuracy Errors
+[Minor]: Mistranslation - The Russian word ""Высока"" is translated as ""High"" instead of ""Highly likely"".
+[No Error]: The rest of the translation is accurate.
+
+Fluency Errors
+[No Error]: The translation is fluent and grammatically correct.
+
+Locale Convention Errors
+[No Error]: No issues with locale conventions.
+
+Style Errors
+[No Error]: The translation is not awkward.
+
+Terminology Errors
+[No Error]: The terminology used is appropriate for the context.
+
+Non-Translation Errors
+[No Error]: All text is translated.
+
+Overall, the translation is of good quality with only a minor accuracy error. The meaning is still clearly conveyed."
+161,"Также, не зная года выпуска, можно запросто принять происходящее на экране за упражнения каких-то подпольных критических реалистов из стран Варшавского договора, которым в начале 80-х прочитали лекцию о Брессоне","Also, without knowing the year of release, one can easily mistake what is happening on the screen for exercises of some underground critical realists from the Warsaw Pact countries, who were given a lecture on Bresson in the early 80s.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""without knowing the year of release"" does not fully capture the meaning of the Russian phrase ""не зная года выпуска"", which implies not knowing the year the film was made.
+[Minor]: [mistranslation] - The translation ""critical realists from the Warsaw Pact countries"" does not accurately convey the meaning of ""подпольных критических реалистов из стран Варшавского договора"", which suggests these were underground or clandestine critical realists from Warsaw Pact countries.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""what is happening on the screen"" which is grammatically correct but slightly awkward compared to the more natural-sounding Russian phrasing.
+
+Terminology Errors
+[Minor]: [inconsistent use] - The term ""Bresson"" is used without any additional context or explanation, which may not be clear to all readers."
+168,"конвертировать в эксплотейшн а-ля 70-е, с ковбоем, решившим прогуляться из тюряги, откуда ему скоро выходить, до ближайшего салуна).","Convert to a 70s-style exploitation, with a cowboy who decides to take a stroll from the prison, where he's about to be released, to the nearest saloon.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""конвертировать в эксплотейшн а-ля 70-е"" is translated as ""Convert to a 70s-style exploitation"", which is a close but not exact translation.
+[Minor]: [mistranslation] - The Russian phrase ""с ковбоем, решившим прогуляться из тюряги, откуда ему скоро выходить, до ближайшего салуна"" is translated as ""with a cowboy who decides to take a stroll from the prison, where he's about to be released, to the nearest saloon"", which is a close but not exact translation.
+Fluency Errors
+[Minor]: [spelling] - The word ""эксплотейшн"" in the source text is misspelled as ""exploitation"" in the translation.
+[Minor]: [grammar] - The phrase ""a 70s-style exploitation"" could be improved to ""a 1970s-style exploitation"" for better grammar.
+[Minor]: [register] - The use of the informal term ""tюряга"" (prison) in the source text is translated as the more formal ""prison"" in the target text.
+No other errors detected."
+175,"Неплохой дебют, внушающий слабую надежду, что из румынского артхауса когда-нибудь вырастет приличное направление","A decent debut, instilling a weak hope that the Romanian art house will someday grow into a respectable direction.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""A decent debut, instilling a weak hope that the Romanian art house will someday grow into a respectable direction"" does not fully capture the meaning of the original Russian text, which suggests that the debut is not bad and provides a glimmer of hope that the Romanian art house will develop into a decent direction.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""will someday grow into"" which is grammatically correct but could be improved to better match the original phrasing.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""art house"" may not be the most appropriate translation for the original Russian term, as it has specific connotations in the English context.
+
+Overall, the translation conveys the main meaning of the original text, but could be improved in terms of accuracy and fluency to better match the nuances of the source."
+178,"«Гадкий я», наверное, лучшая работа его команды: картина прекрасно нарисована (кстати, имеет смысл смотреть в ЗО), особенно, если вы любите, когда разные объекты то и дело норовят выпрыгнуть с экрана в зал), сносно написана, и, главное, здесь нет ни одной нижепоясной шутки, из-за которых на «Ледниковых периодах» приходилось стыдливо вжиматься в кресло и закрывать детские ушки руками.","""Despicable Me"" is probably the best work of his team: the picture is beautifully drawn (by the way, it's worth watching in 3D), especially if you like when different objects constantly try to jump out of the screen into the hall), decently written, and, most importantly, there is not a single below-the-belt joke here, because of which you had to shyly shrink into the chair and cover the children's ears with your hands on ""Ice Age"".","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""наверное, лучшая работа его команды"" is translated as ""is probably the best work of his team"", which does not fully capture the meaning of ""наверное"" (which means ""probably"" or ""most likely"").
+[Minor]: [Omission] - The phrase ""кстати, имеет смысл смотреть в ЗО"" is not fully translated, as the translation only mentions ""it's worth watching in 3D"" and does not include the ""by the way"" part.
+
+Fluency Errors
+[Minor]: [Grammar] - The sentence ""особенно, если вы любите, когда разные объекты то и дело норовят выпрыгнуть с экрана в зал"" is translated as ""especially if you like when different objects constantly try to jump out of the screen into the hall"", which has a slightly awkward grammar structure.
+[Minor]: [Punctuation] - The translation does not preserve the original punctuation, such as the comma after ""особенно"" and the closing parenthesis after ""ЗО"".
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [Awkward] - The translation of the last sentence, ""because of which you had to shyly shrink into the chair and cover the children's ears with your hands on 'Ice Age'"", is a bit awkward and could be rephrased for a more natural flow.
+
+Terminology Errors
+[No Errors]
+
+Non-translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only minor issues in the areas of mistranslation, omission, grammar, punctuation, and style. The translation conveys the main meaning of the source text effectively."
+179,"Понятно, что причиной смены курса стало не чувство меры авторов, а вопиющая асексуальность главного героя, каковая в свою очередь продиктована нежеланием как бы то ни было касаться темы педофилии.","Understood, that the reason for the change of course was not the authors' sense of moderation, but the glaring asexuality of the protagonist, which in turn is dictated by the unwillingness to touch upon the topic of pedophilia in any way.","MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The Russian phrase ""вопиющая асексуальность"" is translated as ""glaring asexuality"", but the meaning is more accurately ""blatant lack of sexuality"".
+[Minor]: Omission - The phrase ""как бы то ни было"" is not fully translated, which means ""in any way, shape, or form"".
+
+Fluency Errors
+[Minor]: Grammar - The sentence structure in the translation is a bit awkward and could be improved for better fluency.
+
+Style Errors
+[Minor]: Awkward - The translation sounds a bit formal and could be phrased in a more natural way."
+182,"Чувствуется кропотливая работа слаженной команды маркетологов, продумавших каждую мелочь, чтобы фильм понравился всем категориям граждан.",The meticulous work of a well-coordinated team of marketers who have thought through every detail to make the film appealing to all categories of citizens can be felt.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""categories of citizens"" does not fully capture the meaning of ""граждан"" which refers to ""people"" or ""population"" in a more general sense.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses a passive construction ""can be felt"" which is not as natural as the active voice used in the source text.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is of good quality and accurately conveys the meaning of the source text with only minor errors that do not significantly impact comprehension."
+189,В финале Грю танцует партию Траволты,"In the finale, Gru dances Travolta's part.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The source text mentions ""Грю"" (Gru), a character from the Despicable Me franchise, dancing Travolta's part, but the translation simply refers to ""Gru"" dancing Travolta's part without providing the necessary context.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the correct grammar, but could be improved by using a more natural phrasing, such as ""In the finale, Gru dances Travolta's part.""
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The use of ""Travolta"" in the translation may not be the most appropriate terminology in this context, as it refers to the actor John Travolta rather than a specific dance move or style.
+
+Overall, the translation is generally understandable, but could be improved by providing more context and using more natural phrasing."
+190,"К заброшенному трейлеру где-то посреди условной пустыни подкатывает тачка, из которой выходят три пары добротнейших сисек.","To the abandoned trailer somewhere in the middle of a conditional desert, a car pulls up, from which three pairs of excellent tits emerge.","MQM annotations:
+Accuracy Errors
+[Critical]: Mistranslation - The source text refers to ""three pairs of excellent breasts"" emerging from the car, while the translation uses the more vulgar and inappropriate term ""tits"".
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: Register - The translation uses a very informal and colloquial register that is inappropriate for the context.
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: Awkward - The phrasing and word choice in the translation result in an awkward and unnatural-sounding sentence.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: Inappropriate for context - The use of the term ""tits"" is inappropriate and too vulgar for the context.
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+192,Сами по себе носительницы этого дара не так существенны.,The bearers of this gift are not so significant in themselves.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""Сами по себе носительницы этого дара не так существенны"" is not accurately translated as ""The bearers of this gift are not so significant in themselves."" A more accurate translation would be ""The bearers of this gift are not so important in themselves.""
+
+Fluency Errors
+[Minor]: [grammar] - The use of ""bearers"" instead of ""carriers"" or ""possessors"" is not the most natural English phrasing.
+
+Overall, the translation conveys the general meaning of the source text, but there are some minor accuracy and fluency issues that could be improved."
+196,А происходит много всего забавного.,A lot of funny things are happening.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Russian source ""А происходит много всего забавного"" is more accurately translated as ""A lot of funny things are happening"" rather than ""A lot of funny things are happening.""
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation error."
+198,"Создатели считают, что матерящаяся телка с щедрыми формами, вымазанная в грязи, с разбитым носом и сияющими белизной зубами - это круто.","The creators consider that a foul-mouthed cow with generous curves, smeared in dirt, with a broken nose and gleaming white teeth - this is cool.","MQM annotations:
+Accuracy Errors
+[Critical]: Mistranslation - The source text uses a derogatory term ""телка"" (heifer) to refer to a woman, which is not accurately translated in the target text.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: Register - The target text uses informal and colloquial language that does not match the more formal register of the source text.
+[Minor]: Spelling - The word ""foul-mouthed"" is misspelled as ""foul-mouthed"".
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: Awkward - The overall phrasing and structure of the target text is awkward and does not flow naturally.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+201,Близкий по духу фильм в московском прокате — «Ствол для Дженнифер».,"""A Barrel for Jennifer""","MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The source text ""Близкий по духу фильм в московском прокате"" was mistranslated as ""A Barrel for Jennifer"", which does not accurately convey the meaning of the original.
+[Minor]: Untranslated text - The title of the film ""Ствол для Дженнифер"" was not translated.
+Fluency Errors
+[Minor]: Register - The translation uses a more informal register compared to the formal tone of the source text.
+Terminology Errors
+[Major]: Inappropriate for context - The translated title ""A Barrel for Jennifer"" does not match the context of the source text, which seems to be referring to a film."
+203,"В общем, для кино-фетишиста здесь обнаруживается настоящий Клондайк удовольствий.",A true Klondike of pleasures for the cinema fetishist.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""кино-фетишиста"" is not accurately translated as ""cinema fetishist"". A more accurate translation would be ""film enthusiast"" or ""film buff"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""a true Klondike of pleasures"", which is grammatically correct but could be phrased more naturally as ""a true treasure trove of pleasures"" or ""a true wealth of pleasures"".
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or comprehension of the text."
+205,"Если бы не физические данные актрис, скучно стало бы уже к середине.","If it were not for the physical data of the actresses, it would have become boring already by the middle.","MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The Russian source text is referring to the physical attributes/appearance of the actresses, but the translation incorrectly interprets this as ""physical data"".
+[Minor]: Omission - The translation omits the word ""уже"" (already) from the source text.
+
+Fluency Errors
+[Minor]: Grammar - The translation uses the incorrect verb tense (""would have become"" instead of ""would become"").
+
+Terminology Errors
+[Minor]: Inappropriate for context - The term ""physical data"" is not the most appropriate way to refer to the physical attributes of actresses in this context."
+207,"В РОЛЯХ: Джулия Вот, Эрин Каммингс, Америка Оливо, Майкл Херст, Рон Мелендес","Julia Voth, Erin Cummings, America Olivo, Michael Hurst, Ron Melendez.","MQM annotations:
+Accuracy Errors
+[Minor]: Untranslated text - The source text contains the cast list, but the translation only provides the names without any context.
+
+Fluency Errors
+[Minor]: Inconsistency - The names are presented in a list format without any punctuation or formatting to indicate they are a cast list.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[Minor]: Awkward - The translation presents the names in a plain list format without any additional context or formatting to indicate they are a cast list.
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+209,"Ничего не добившись и застрелив несчастного бандита, бабы начинают цапаться, драться друг с другом и периодически прибывающими откуда-то отморозками, а также регулярно целоваться и тискаться.","Nothing achieved and having shot the unfortunate bandit, the women begin to squabble, fight with each other and the periodically arriving thugs from somewhere, as well as regularly kissing and fondling.","MQM annotations:
+Accuracy Errors
+[Critical]: Mistranslation - The translation does not accurately convey the meaning of the source text. The source text describes the women fighting with each other and with arriving thugs, as well as kissing and fondling, but the translation does not capture the full context and nuance of the original.
+[Major]: Omission - The translation omits the phrase ""Ничего не добившись"" (Having achieved nothing), which is an important part of the original meaning.
+[Minor]: None
+
+Fluency Errors
+[Critical]: Grammar - The translation contains grammatical errors, such as the use of ""the women begin to squabble"" instead of ""the women begin squabbling"".
+[Major]: Register - The translation uses a more informal and colloquial register than the source text, which has a more neutral tone.
+[Minor]: Spelling - The word ""fondling"" is misspelled as ""tiskatsya"".
+
+Locale Convention Errors
+[Minor]: None
+
+Style Errors
+[Major]: Awkward - The phrasing and word choice in the translation result in an awkward and unnatural-sounding sentence.
+
+Terminology Errors
+[Minor]: None
+
+Non-translation Errors
+[Minor]: None
+
+Overall, the translation has several critical and major errors that significantly impact the accuracy and fluency of the text. The translation does not fully capture the meaning and nuance of the source text."
+210,"По ходу дела выясняется, что все трое не те, кем представлялись в начале.",It turns out that all three of them are not who they presented themselves to be at the beginning.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""по ходу дела"" is not accurately translated as ""It turns out"", but rather as ""As the matter progresses"" or ""As the situation unfolds"".
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation of the opening phrase."
+214,Кровожадный и кусачий пеплум возвращает режиссеру пошатнувшееся доверие.,The bloodthirsty and biting peplum restores the director's shaken trust.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian word ""пеплум"" (peplum) refers to a type of historical film, but the translation ""the bloodthirsty and biting peplum"" does not accurately convey this meaning.
+[Minor]: [mistranslation] - The Russian phrase ""возвращает режиссеру пошатнувшееся доверие"" is translated as ""restores the director's shaken trust"", but the meaning is not entirely clear.
+
+Fluency Errors
+[Minor]: [register] - The use of the word ""bloodthirsty"" to describe a film genre is somewhat informal or colloquial.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""peplum"" is a specialized term that may not be familiar to all readers."
+217,"«План Маршалла» по очищению «пеплума» от налипшей пост-гладиаторской киногрязи, в целом, сработал.","""The Marshall Plan"" for cleaning the ""peplum"" from the adhered post-gladiator film dirt, in general, worked.","MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The phrase ""пеплум"" (peplum) is a specific term referring to a type of ancient Greek garment, and it is not accurately translated as ""the 'peplum'"".
+[Minor]: [Untranslated text] - The term ""пеплум"" is left untranslated in the English translation.
+
+Fluency Errors
+[Major]: [Grammar] - The use of ""worked"" in the translation is grammatically incorrect, as it should be ""worked well"" or ""was effective"".
+[Minor]: [Register] - The use of the phrase ""post-gladiator film dirt"" is somewhat informal and may not match the expected register of the source text.
+
+Style Errors
+[Minor]: [Awkward] - The overall phrasing of the translation is somewhat awkward and could be improved for better readability."
+226,"Тонкому артхаусному артисту пока удалось отвоевать в Голливуде лишь острохарактерные роли второго плана, но очень хочется верить, что после «Центуриона» ситуация изменится.","""The thin arthouse artist has so far only managed to win over acute character roles in the second tier in Hollywood, but one really wants to believe that the situation will change after 'The Centurion'.""","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The phrase ""тонкому артхаусному артисту"" is translated as ""The thin arthouse artist"", which does not accurately convey the meaning of the original Russian phrase.
+[Minor]: [omission] - The translation omits the word ""лишь"" (only) from the original Russian sentence.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""one really wants to believe"" which is not a natural English construction. A more natural phrasing would be ""one hopes"" or ""one hopes that"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""The Centurion"" is used in the translation, but this is likely referring to a specific film title that should be left untranslated.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."
+240,"Лысая, как бильярдный шар, киса замыслила захватить весь мир, и теперь собаки-суперагенты вынуждены объединить усилия со своими мяукующими антагонистами.","A bald, like a billiard ball, kitty has plotted to conquer the whole world, and now the super-agent dogs are forced to join forces with their meowing antagonists.","MQM annotations:
+Accuracy Errors
+[Critical]: Mistranslation - The source text refers to a ""bald, like a billiard ball, kitty"" which is mistranslated as ""A bald, like a billiard ball, kitty"".
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: Grammar - The translation uses incorrect grammar, such as ""a bald, like a billiard ball, kitty"" instead of ""a bald kitty, like a billiard ball"".
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: Awkward - The translation sounds unnatural and awkward, such as ""the super-agent dogs are forced to join forces with their meowing antagonists"".
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+244,"Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.","Pay attention to George Clooney, who has teamed up with rock photographer-turned-director Anton Corbijn (""Control"") for a rather curious existential study of the psychology of an aging hired assassin, hiding from people in a small Italian town and belatedly coming to understand human nature.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Russian source mentions that the assassin is ""hiding from people"", while the English translation says he is ""hiding from people in a small Italian town"". The location is not specified in the Russian source.
+
+Fluency Errors
+[Minor]: [Grammar] - The phrase ""and slapozdeniyem postigayushchego chelovecheskuyu prirodu"" in the Russian source is translated as ""and belatedly coming to understand human nature"", which is grammatically correct but could be more natural.
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[Minor]: [Awkward] - The phrase ""a rather curious existential study of the psychology of an aging hired assassin"" is a bit awkward and could be rephrased in a more natural way.
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is quite good and accurately conveys the meaning of the Russian source text, with only minor fluency and style issues."
+247,"Взяв за основу роман Мартина Бута «Очень скрытный джентльмен», Роуэн Джоффе внес в свой сценарий кое-какие коррективы: место рассказчика-англичанина занял вынесенный в заглавие американец, а из оружейника-нелегала главный герой превратился в простого убийцу.","Taking the novel ""The American"" by Martin Booth as a basis, Rowan Joffe made some adjustments to his screenplay: the English narrator was replaced by an American featured in the title, and the main character went from being an illegal arms dealer to a simple assassin.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text refers to the novel ""The Very Private Gentleman"" by Martin Booth, while the translation incorrectly states it is ""The American"".
+[Minor]: [omission] - The source text mentions that the main character ""превратился в простого убийцу"" (became a simple assassin), but this detail is omitted in the translation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice ""was replaced"" instead of the more natural active voice ""replaced"".
+
+Terminology Errors
+[Minor]: [inconsistent use] - The translation uses both ""The American"" and ""an American"" to refer to the main character, which is inconsistent.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."
+253,А можно я вас из фоторужья щелкну!?,"""Can I take a photo of you with a camera?""","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text uses the term ""фоторужье"" which is a colloquial term for a camera, but the translation does not capture this idiomatic usage and instead uses a more literal translation of ""camera"".
+
+Fluency Errors
+[Minor]: [register] - The source text uses a more casual, colloquial register with the use of ""можно я"" and ""щелкну"", whereas the translation is more formal.
+
+Overall, the translation conveys the general meaning of the source text, but does not fully capture the idiomatic and register-specific nuances."
+254,Джонни Деппа в этом сезоне можно было увидеть в двух местах одновременно.,Johnny Depp could be seen in two places at the same time this season.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Russian source text refers to Johnny Depp being in two places at the same time, but the English translation does not convey the same meaning. The translation is more literal and does not capture the nuance of the original.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]"
+257,"Во-вторых, в Пуэрто Рико на площадке «Ромового дневника», экранизации дебютного романа легендарного Хантера С. Томпсона.","In Puerto Rico, on the set of ""The Rum Diary,"" the film adaptation of the debut novel by the legendary Hunter S. Thompson.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the phrase ""Во-вторых,"" which is present in the source text.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality, with only a minor omission error that does not significantly impact the overall meaning or comprehension of the text."
+261,"Впрочем, хорошо хотя бы то, что героиня российской картины хоть и чужая, но совсем не лысая.","However, it's good at least that the heroine of the Russian film, although a foreigner, is not bald at all.","MQM annotations:
+Accuracy Errors
+[Minor]: Mistranslation - The Russian phrase ""хоть и чужая"" is translated as ""although a foreigner"", but a more accurate translation would be ""even though she is a stranger/outsider"".
+
+Fluency Errors
+[Minor]: Register - The translation uses a more informal/colloquial register compared to the original Russian text.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+265,"В график также заложен и седьмой фильм — романтическая комедия «Джек и Джилл», где Сэндлеру предстоит одновременно сыграть Джека и его сестру-близнеца Джилл.","Jack and Jill, a romantic comedy where Sandler is set to play both Jack and his twin sister Jill.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text mentions that the seventh film in the schedule is a romantic comedy ""Jack and Jill"", where Sandler will play both Jack and his twin sister Jill. The translation correctly conveys this information, but does not mention that it is the seventh film in the schedule.
+Fluency Errors
+[No Errors]"
+269,"В то время как съемки новой серии Бондианы откладываются, ее новый режиссер Сэм Мендес скучать не успевает.","While the filming of the new James Bond series is being postponed, its new director, Sam Mendes, doesn't have time to get bored.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""new James Bond series"" is not accurate, as the source text refers to a ""new series of the Bond franchise"" (Бондиана).
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""its new director, Sam Mendes, doesn't have time to get bored"" could be improved to ""its new director, Sam Mendes, is not getting bored.""
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+277,"По признанию режиссера, это нелегкая (в романе шесть параллельных сюжетных линий), но крайне интересная работа.","This is a challenging work (the novel has six parallel storylines), but extremely interesting, according to the director's admission.","MQM annotations:
+Accuracy Errors
+[Minor]: Mistranslation - The source text states that the work is ""нелегкая"" (not easy), while the translation says it is ""challenging"", which is not a direct translation.
+
+Fluency Errors
+[Minor]: Grammar - The translation uses the phrase ""according to the director's admission"", which is not a natural way to express this in English. A more natural phrasing would be ""as the director admitted"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+279,В Крыму проходят съемки интернационального боевика Максима Коростышевского под рабочим названием «Солдаты удачи».,"The filming of Maxim Korostyshevsky's international action movie with the working title ""Soldiers of Fortune"" is taking place in Crimea.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian word ""съемки"" is translated as ""filming"" rather than the more accurate ""shooting"" or ""filming"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the present continuous tense (""is taking place"") instead of the simple present tense, which would be more natural in English.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""action movie"" may not fully capture the meaning of the Russian ""боевик"", which has a more specific connotation of a military or war-themed film.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."
+280,"Он посвящен миллионерам, отправившимся за свои деньги на настоящую войну в поисках адреналина.",He is dedicated to millionaires who have gone to real war in search of adrenaline with their own money.,"MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The subject of the sentence is not ""He"" but rather ""The documentary/film"" which is dedicated to millionaires who have gone to war for adrenaline.
+[Minor]: Omission - The Russian source mentions that the millionaires went to ""real war"", but this detail is missing in the English translation.
+
+Fluency Errors
+[Minor]: Grammar - The use of ""He is dedicated to"" is grammatically incorrect. A more appropriate phrasing would be ""It is dedicated to"".
+
+Terminology Errors
+[Minor]: Inappropriate for context - The term ""millionaires"" may not be the most appropriate terminology in this context, as it could be more precise to use ""wealthy individuals"" or ""the wealthy""."
+288,Этот факт не должен пугать искушенного зрителя - в истории кинематографа есть масса примеров успешной переквалификации моделей в актрис.,This fact should not scare the experienced viewer - in the history of cinema there are many examples of successful retraining of models into actresses.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The phrase ""искушенного зрителя"" is translated as ""experienced viewer"" instead of ""seasoned/discerning viewer"".
+[Minor]: [mistranslation] - The phrase ""масса примеров"" is translated as ""many examples"" instead of ""a multitude of examples"".
+
+Fluency Errors
+[Minor]: [grammar] - The sentence structure could be improved for better flow, e.g., ""This fact should not scare the seasoned viewer, as the history of cinema has many examples of successful retraining of models into actresses.""
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""models"" may not be the most appropriate in this context and could be replaced with ""fashion models"" or ""modeling"".
+
+Overall, the translation is generally accurate and understandable, with only minor errors that do not significantly impact the meaning or flow of the text."
+289,"Шарлиз Терон («Монстро»), Анджелина Джоли («Прерванная жизнь»), Джессика Лэнг («Голубое небо», «Тутси»), Ким Бэсингер («Секреты Лос-Анджелеса»), Дженнифер Коннели («Игры разума»), Джина Дэвис («Случайный турист») и «Первая вице-мисс США-86» Халле Берри («Бал монстров») начинали как манекенщицы или снимались для модных журналов, в итоге получили заслуженный «Оскар».","Charlize Theron (""Monster""), Angelina Jolie (""Girl, Interrupted""), Jessica Lange (""Blue Sky"", ""Tootsie""), Kim Basinger (""L.A. Confidential""), Jennifer Connelly (""A Beautiful Mind""), Geena Davis (""The Accidental Tourist"") and ""Miss USA 1986"" Halle Berry (""Introducing Dorothy Dandridge"") started out as models or appeared in fashion magazines, eventually earning well-deserved Oscars.","MQM annotations:
+Accuracy Errors
+[Minor]: Untranslated text - The Russian title ""Первая вице-мисс США-86"" was not translated.
+
+Fluency Errors
+[Minor]: Punctuation - The translation is missing a period at the end of the sentence.
+
+Locale Convention Errors
+[None]
+
+Style Errors
+[None]
+
+Terminology Errors
+[None]
+
+Non-Translation Errors
+[None]
+
+Other Errors
+[None]
+
+Overall, the translation is of good quality with only minor errors that do not significantly impact the comprehension of the text."
+290,"Преуспели в актерском мастерстве (также красавицы Милла Йовович, Кэмерон Диас, Моника Белуччи и, что особенно приятно, наша соотечественница Ольга Куриленко.","They have succeeded in acting (also beauties Milla Jovovich, Cameron Diaz, Monica Bellucci and, especially pleasantly, our compatriot Olga Kurylenko).","MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The source text mentions that the actresses ""preuspeli v akterskm masterstve"" (succeeded in acting), but the translation only says they ""have succeeded in acting"" without specifying that it is in the field of acting.
+[Minor]: Omission - The source text mentions that the actresses are ""also beauties"", but this part is omitted in the translation.
+[Minor]: Omission - The source text mentions that Olga Kurylenko is ""our compatriot"", but this part is omitted in the translation.
+
+Fluency Errors
+[Minor]: Grammar - The translation uses the present perfect tense (""have succeeded"") instead of the past tense which would be more natural in this context.
+
+Terminology Errors
+[None]
+
+Locale Convention Errors
+[None]
+
+Style Errors
+[None]
+
+Non-Translation Errors
+[None]
+
+Other Errors
+[None]"
+293,"Валерия Гай Германика, заслужившая Особого упоминания каннского жюри в 2008 году за картину «Все умрут, а я останусь» и снявшая скандальный телесериал «Школа», получила должность креативного директора на телеканале МТ.","Valeria Gai Germanika, who received a Special Mention from the Cannes jury in 2008 for the film ""All Will Die, and I'll Stay Alive"" and directed the controversial TV series ""School,"" has been appointed as the creative director at the MT TV channel.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""Все умрут, а я останусь"" is translated as ""All Will Die, and I'll Stay Alive"", which is not a completely accurate translation. A more accurate translation would be ""Everyone will die, but I will remain.""
+
+Fluency Errors
+[Minor]: [grammar] - The sentence ""Valeria Gai Germanika, who received a Special Mention from the Cannes jury in 2008 for the film ""All Will Die, and I'll Stay Alive"" and directed the controversial TV series ""School,"" has been appointed as the creative director at the MT TV channel."" could be improved by using a more natural sentence structure, such as ""Valeria Gai Germanika, who received a Special Mention from the Cannes jury in 2008 for the film ""All Will Die, and I'll Stay Alive"" and who directed the controversial TV series ""School,"" has been appointed as the creative director at the MT TV channel.""
+
+No other errors detected."
+296,Также Германика начала кастинг новых ведущих.,"Also, Germanika has started casting new hosts.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""began"" from the original Russian sentence.
+
+Fluency Errors
+[Minor]: [register] - The translation uses the formal term ""hosts"" instead of the more natural ""presenters"" or ""anchors"".
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."
+297,Комедия «Колотилов» режиссера Лео Габриадзе и продюсера Тимура Бекмамбетова неожиданно превратилась в «Выкрутасы».,"The comedy ""Kolotilov"" directed by Leo Gabriadze and produced by Timur Bekmambetov unexpectedly turned into ""Vykyrutas"".","MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The Russian title ""Колотилов"" was mistranslated as ""Kolotilov"" instead of the correct English title ""Kolotilova"".
+[Minor]: Untranslated text - The Russian word ""Выкрутасы"" was left untranslated and should have been translated as ""Vykyrutas"".
+
+Fluency Errors
+[Minor]: Spelling - The English title ""Vykyrutas"" contains a spelling error and should be ""Vykyrutas"".
+
+Locale Convention Errors
+[None]
+
+Style Errors
+[None]
+
+Terminology Errors
+[None]
+
+Non-Translation Errors
+[None]
+
+Other Errors
+[None]"
+299,Новое развитие получила вторая сюжетная линия картины.,The second plot line of the film has received new development.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""Новое развитие получила вторая сюжетная линия картины"" is more accurately translated as ""The second plot line of the film has undergone new development"" rather than ""The second plot line of the film has received new development"".
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]"
+308,"Очумевшие от жесткого расписания, критики и кинематографисты на сверхскоростях носились меж сочинским Зимним театром, где проходили показы с мастер-классами, и гостиницей «Жемчужина», в которой потоком шли пресс-конференции и круглые столы, едва успевая нырнуть в Черное море.","Overwhelmed by the rigid schedule, critics and filmmakers rushed at breakneck speeds between the Sochi Winter Theater, where screenings with master classes were taking place, and the Zhemchuzhina Hotel, where press conferences and round tables were constantly in progress, barely managing to dive into the Black Sea.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""едва успевая нырнуть в Черное море"" is translated as ""barely managing to dive into the Black Sea"", which is not entirely accurate. The original Russian phrase suggests that the critics and filmmakers were so busy with their schedule that they barely had time to take a break and go to the Black Sea, rather than literally diving into it.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""at breakneck speeds"", which is grammatically correct but may not be the most natural way to express the idea in English.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor issues related to the interpretation of the original Russian phrase and the phrasing in English. The translation conveys the main idea of the source text effectively."
+313,"На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.","""At the round table dedicated to the fate of Russian art house, the chairman of the fund for the support of domestic cinema, Sergei Tolstikov, arranged a vivid quarrel with the critics: 'Do you even read the articles in the press that I read?' - he asked the assembled people menacingly.""","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The phrase ""живописную свару с критиками устроил"" is translated as ""arranged a vivid quarrel with the critics"", which is a slightly different meaning than the original Russian.
+[Minor]: [omission] - The phrase ""посвященном судьбам российского артхауса"" is not fully translated in the English version.
+
+Fluency Errors
+[Minor]: [grammar] - The sentence structure in the English translation is slightly awkward, with the long introductory phrase before the main clause.
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[Minor]: [awkward] - The phrasing in the English translation, such as ""he asked the assembled people menacingly"", sounds a bit unnatural.
+
+Terminology Errors
+[No errors]
+
+Non-translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is generally accurate and understandable, with a few minor issues in terms of fluency and style. The quality of the translation is acceptable."
+318,"Председателю жюри Карену Шахназарову картина Лозницы, напротив, не понравилась вовсе — но под давлением коллег он вынужден был дать ей приз за режиссуру.","The chairman of the jury, Karen Shakhnazarov, on the contrary, did not like Loznitsa's film at all - but under pressure from his colleagues, he was forced to give it the prize for directing.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""under pressure from his colleagues"" does not fully capture the nuance of the original ""под давлением коллег"", which suggests a stronger sense of compulsion or obligation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the pronoun ""it"" to refer to the film, but the original Russian text uses the more natural ""ей"" (her/it) to refer to the film.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+319,Награду за лучший дебют — «Пропавший без вести» — получила дочь,"""The Missing"" won the award for best debut.","MQM annotations:
+Accuracy Errors
+[Minor]: Mistranslation - The source text mentions that the award for best debut was won by ""The Missing"", but the translation simply states that ""The Missing"" won the award, without specifying that it was for best debut.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor error in the specificity of the award won."
+320,"Жуткая киноэнциклопедия русской жизни: наивного гуманного и рационального героя бьют, грабят и провоцируют на чудовищные поступки без всякой видимой цели.","The chilling cinematic encyclopedia of Russian life: the naive, humane, and rational hero is beaten, robbed, and provoked into monstrous acts without any apparent purpose.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""chilling cinematic encyclopedia of Russian life"" does not fully capture the nuance of the original phrase ""Жуткая киноэнциклопедия русской жизни"", which has a more ominous and unsettling connotation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""the naive, humane, and rational hero is beaten, robbed, and provoked into monstrous acts without any apparent purpose"" could be improved by using a more natural sentence structure, such as ""the naive, humane, and rational hero is beaten, robbed, and provoked into committing monstrous acts without any apparent purpose.""
+
+Overall, the translation conveys the main meaning of the source text, with only minor errors that do not significantly impact the comprehension of the text."
+323,Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.,"The most complex film of the ""Kinotavr"" has already been selected for the Karlovy Vary competition - a directorial star has been born.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""Самая сложная картина 'Кинотавра'"" is translated as ""The most complex film of the 'Kinotavr'"", but a more accurate translation would be ""The most complex film from the 'Kinotavr' [film festival]"".
+[Minor]: [omission] - The Russian phrase ""режиссерская звезда родилась"" is translated as ""a directorial star has been born"", but the original Russian phrase suggests that the director has become a star, which is not fully captured in the translation.
+
+Fluency Errors
+[None]
+
+Locale Convention Errors
+[None]
+
+Style Errors
+[None]
+
+Terminology Errors
+[None]
+
+Non-Translation Errors
+[None]
+
+Other Errors
+[None]"
+324,"Безупречно одетый и постриженный программист Леонид реагирует на мир со сдержанной брезгливостью, прячась в норе аккуратного холостяцкого быта.","Impeccably dressed and groomed programmer Leonid reacts to the world with restrained disdain, hiding in the den of a tidy bachelor's life.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian word ""брезгливостью"" is translated as ""disdain"" in English, which does not fully capture the nuance of ""disgust"" or ""fastidiousness"" that the original word conveys.
+
+Fluency Errors
+[Minor]: [grammar] - The phrase ""reacts to the world with restrained disdain"" could be improved to ""reacts to the world with restrained disgust"" to better match the original Russian.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""programmer"" may not fully capture the nuance of the Russian word ""программист"", which could be more accurately translated as ""software engineer"" or ""computer scientist"".
+
+Overall, the translation is generally accurate and fluent, with only minor issues that do not significantly impact the meaning or readability of the text."
+325,"Но на дом опускается чугунная баба, на голову героя — несправедливая рука карательных органов, и он начинает бессмысленный бег по кафкианским пространствам и ситуациям.","But a cast-iron woman descends on the house, an unjust hand of the punitive organs falls on the hero's head, and he begins a senseless run through Kafkaesque spaces and situations.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""cast-iron woman"" does not accurately convey the meaning of the Russian phrase ""чугунная баба"", which refers to a heavy metal object or weight that descends on the house.
+[Minor]: [mistranslation] - The translation ""punitive organs"" does not accurately convey the meaning of the Russian phrase ""карательные органы"", which refers to law enforcement or security agencies.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses passive voice (""is descended"", ""falls"") instead of active voice, which is more natural in English.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The use of the term ""Kafkaesque"" may not be the most appropriate choice for the context, as it may not be widely understood by all readers."
+328,И это симптоматично - нынче в нашем кино зубры движутся за молодежью.,And this is symptomatic - nowadays in our cinema the old guard is moving behind the youth.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The phrase ""зубры движутся за молодежью"" is not accurately translated as ""the old guard is moving behind the youth"". A more accurate translation would be ""the old guard is following the youth"".
+Fluency Errors
+[Minor]: [register] - The phrase ""the old guard"" has a slightly formal or military connotation, which may not fully capture the intended meaning of ""зубры"" (literally ""bison"" or ""elders"")."
+330,"Документальное кино, снятое так, что голову сносит почище, чем от аналогичного художественного.","Documentary film, shot in such a way that it blows your mind more than a similar fictional one.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""голову сносит почище"" is translated as ""it blows your mind more"", which is a slightly different meaning. The Russian phrase implies that the documentary film is more mind-blowing than a similar fictional film.
+Fluency Errors
+[Minor]: [register] - The translation uses a more informal/colloquial register (""blows your mind"") compared to the more formal tone of the source text."
+331,"Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.","The author is interested in both the screwdriver investigating the electric meter and the piece of unsalted butter drifting across the cast-iron skillet - all of which transforms the story of the unemployed miner, his gaptoothed lover, and her criminal brother into a true oil-painting documentary.","MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The phrase ""редкозубой возлюбленной"" is translated as ""his gaptoothed lover"", which does not accurately convey the meaning of the original text.
+[Minor]: [Omission] - The phrase ""превращает историю"" is not fully translated in the target text.
+
+Fluency Errors
+[Minor]: [Grammar] - The sentence structure in the target text is slightly awkward.
+
+Style Errors
+[Minor]: [Awkward] - The phrasing ""oil-painting documentary"" is somewhat unusual and could be improved.
+
+Overall, the translation captures the general meaning of the source text, but there are some minor accuracy and fluency issues that could be improved."
+332,Победитель конкурса короткого метра Николай Соколов примеряет черно-белую стилистику французской новой волны на мир спальных районов.,"The winner of the short film competition, Nikolai Sokolov, tries on the black-and-white aesthetics of the French New Wave on the world of residential neighborhoods.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""tries on the black-and-white aesthetics of the French New Wave on the world of residential neighborhoods"" does not fully capture the meaning of the original Russian text, which is more about the director Nikolai Sokolov applying the style of the French New Wave to the world of residential neighborhoods.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""the winner of the short film competition"" which is grammatically correct but could be more natural as ""the winner of the short film competition, Nikolai Sokolov"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""residential neighborhoods"" may not be the most natural or common way to refer to ""спальные районы"" in this context.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."
+333,"Пусть годаровские монтажные ходы в истории о двух школьниках, один из которых мечтает сделать бомбу, а другой — сыграть Баха задом наперед, выглядят странно, но за редкую попытку поэтизации окружающей реальности — спасибо.","Let the Godard-like editing techniques in the story about two schoolboys, one of whom dreams of making a bomb and the other of playing Bach in reverse, seem strange, but thank you for the rare attempt to poeticize the surrounding reality.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""годаровские монтажные ходы"" is not accurately translated as ""Godard-like editing techniques"". A more accurate translation would be ""Godardian montage techniques"".
+[Minor]: [Mistranslation] - The phrase ""сыграть Баха задом наперед"" is not accurately translated as ""playing Bach in reverse"". A more accurate translation would be ""play Bach backwards"".
+
+Fluency Errors
+[Minor]: [Grammar] - The sentence structure could be improved for better fluency, for example: ""While the Godardian montage techniques in the story about two schoolboys, one of whom dreams of making a bomb and the other of playing Bach backwards, may seem strange, thank you for the rare attempt to poeticize the surrounding reality.""
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[Minor]: [Awkward] - The translation sounds a bit awkward in places, and could be made more natural-sounding.
+
+Terminology Errors
+[No errors]
+
+Non-translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is generally accurate and understandable, with only minor issues related to mistranslation, grammar, and style. The quality is acceptable."
+338,"Недавно режиссером был назначен Карл Ринш (у него в графике уже стоит ремейк «Твари из Черной лагуны»), прославившийся своими рекламными роликами.","Recently, Karl Rinsch was appointed as the director (he already has a remake of ""Creature from the Black Lagoon"" on his schedule), who became famous for his commercials.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""у него в графике уже стоит ремейк"" is translated as ""he already has a remake"", which is not entirely accurate. A more precise translation would be ""he already has a remake on his schedule"".
+[Minor]: [untranslated text] - The Russian name ""Карл Ринш"" is not translated, it should be ""Karl Rinsch"".
+
+Fluency Errors
+[Minor]: [grammar] - The sentence structure could be improved for better fluency, for example: ""Recently, Karl Rinsch, who became famous for his commercials, was appointed as the director (he already has a remake of 'Creature from the Black Lagoon' on his schedule).""
+
+Locale Convention Errors
+[None]
+
+Style Errors
+[None]
+
+Terminology Errors
+[None]
+
+Non-translation Errors
+[None]
+
+Other Errors
+[None]"
+341,Роберт Родригес приобрел права на ротоскопический фэнтези-мультфильм 80-х и планирует сделать из него масштабное кино.,Robert Rodriguez acquired the rights to the 1980s rotoscope fantasy animated film and plans to turn it into a large-scale cinematic production.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text mentions that Robert Rodriguez acquired the rights to a ""ротоскопический фэнтези-мультфильм"" (rotoscope fantasy animated film), while the translation refers to it as a ""rotoscope fantasy animated film"". The term ""ротоскопический"" (rotoscope) is not fully captured in the translation.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]"
+343,"Темой мультфильма были мечи, магия и большое количество нарисованных сисек.","Swords, magic, and a large number of drawn boobs.","MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The Russian source text refers to the theme of the animated film, which is not accurately conveyed in the English translation.
+[Minor]: Omission - The English translation omits the word ""мультфильма"" (animated film) from the source text.
+Fluency Errors
+[Minor]: Register - The English translation uses informal/colloquial language (""boobs"") that does not match the more formal register of the source text."
+347,"На широкие экраны героев вернет не кто иной, как Майкл Бэй - властелин экшена, взрывов и хоррор-ремейков.","Michael Bay - the master of action, explosions, and horror remakes - will bring the heroes back to the big screens.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""не кто иной, как"" is translated as ""not who other than"", which is not a natural English expression. A more natural translation would be ""none other than"".
+
+Fluency Errors
+[Minor]: [grammar] - The phrase ""will bring the heroes back to the big screens"" is grammatically correct but could be improved to ""will bring the heroes back to the big screen"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""властелин"" (master) is a bit strong and could be replaced with a more neutral term like ""director"" or ""filmmaker"".
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text. The quality of the translation is good."
+353,— Китайские женщины в наше время управляют крупным бизнесом и выигрывают олимпийское золото.,— Chinese women in our time manage large businesses and win Olympic gold.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian source mentions that Chinese women manage large businesses and win Olympic gold, while the English translation only mentions the business aspect and not the Olympic gold.
+
+Fluency Errors
+[Minor]: [grammar] - The English translation could be improved by using ""nowadays"" instead of ""in our time"" to better match the meaning of the Russian source.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to mistranslation and grammar. The translation conveys the main meaning of the source text."
+367,И этот контакт у нас случился буквально через несколько минут после знакомства.,And this contact happened with us literally just a few minutes after meeting.,"MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The Russian phrase ""И этот контакт у нас случился"" is not accurately translated as ""And this contact happened with us"". The Russian phrase implies a more intimate or physical interaction, which is not captured in the English translation.
+[Minor]: Omission - The Russian phrase ""буквально через несколько минут после знакомства"" is not fully translated, as the English version omits the specificity of ""literally just a few minutes after meeting"".
+
+Fluency Errors
+[Minor]: Grammar - The English translation uses the phrase ""happened with us"" which is not standard English grammar. A more natural phrasing would be ""happened between us"" or ""occurred between us""."
+373,Как прошли съемки в Севастополе?,The filming in Sevastopol went well.,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The source text mentions ""съемки"" (filming), but the translation does not specify that the filming went well.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor omission error."
+375,"У меня никогда не было там гастролей, ни на отдых, ни в детстве я туда не приезжала.","I have never been there on tour, nor have I ever visited there for vacation or in my childhood.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the phrase ""ни на отдых"" (nor for vacation).
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses ""there"" twice in the same sentence, which could be improved for better flow.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."
+380,"Получается, вам было несложно играть влюбленность в этот город.",It turns out it was not difficult for you to play at being in love with this city.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the original Russian text. The Russian text suggests that the person found it easy to pretend to be in love with the city, whereas the English translation implies that it was not difficult for the person to play at being in love with the city.
+
+Fluency Errors
+[Minor]: [grammar] - The use of ""play at being in love"" is slightly awkward and could be improved to better match natural English phrasing.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""play at being in love"" may not be the most natural or idiomatic way to express the idea of pretending or feigning love for the city in this context.
+
+Overall, the translation is generally understandable, but could be improved to better capture the nuance and meaning of the original Russian text."
+381,"Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.","Generally, you are extremely organic on the screen, which many, frankly speaking, did not expect.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""extremely organic"" does not accurately convey the meaning of the Russian phrase ""предельно органичны"", which suggests that the person is very natural or authentic on screen.
+Fluency Errors
+[Minor]: [register] - The translation uses a more formal register (""generally"") compared to the more conversational tone of the Russian source text (""Вообще"")."
+387,"Я прекрасно понимаю, что со стороны видней, и я, опять же, прошу подсказок и разговариваю с режиссером, очень долго, даже не я с ним разговариваю, а он со мной ведет предварительные беседы и предельно четко и точно объясняет, что ему нужно.","I perfectly understand that it is more visible from the outside, and I, again, ask for hints and talk to the director, very long, it's not even me talking to him, but he is having preliminary conversations with me and explains in the most clear and precise way what he needs.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""со стороны видней"" is not accurately translated as ""it is more visible from the outside"". A more accurate translation would be ""it is more apparent from the outside"".
+[Minor]: [Omission] - The phrase ""и я, опять же, прошу подсказок"" is not fully translated. A more complete translation would be ""and I, in turn, ask for hints"".
+
+Fluency Errors
+[Minor]: [Grammar] - The sentence structure in the translation could be improved for better grammatical flow, such as ""I perfectly understand that it is more apparent from the outside, and I, in turn, ask for hints and talk to the director at length. It's not even me talking to him, but rather he having preliminary conversations with me and explaining in the clearest and most precise way what he needs.""
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[Minor]: [Awkward] - The phrasing in the translation is slightly awkward in places, such as ""it's not even me talking to him, but he is having preliminary conversations with me"".
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is generally accurate and understandable, with only minor issues related to mistranslation, omission, grammar, and style. The quality of the translation is acceptable."
+390,"Я кайфовала от всех, оператора, режиссера, продюсера, Саши Яценко.","I was high on everyone, the operator, the director, the producer, Sasha Yatsenko.","MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The Russian phrase ""Я кайфовала от всех"" does not mean ""I was high on everyone"", but rather ""I was delighted/thrilled by everyone"".
+[Minor]: [mistranslation] - The name ""Саша Яценко"" has been translated as ""Sasha Yatsenko"", which is a slightly different transliteration.
+
+Fluency Errors
+[Minor]: [register] - The English translation uses the informal phrase ""I was high on"" which does not match the more formal tone of the original Russian text."
+393,"Он был готов не спать, не есть - и здесь была ровно такая ситуация.","He was ready to not sleep, not eat - and this was exactly such a situation.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""не спать, не есть"" is more accurately translated as ""not sleep, not eat"" rather than ""not sleep, not eat"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by using the phrase ""and this was exactly the situation"" instead of ""and this was exactly such a situation"".
+
+Overall, the translation conveys the meaning of the original Russian text, with only minor errors that do not significantly impact comprehension."
+394,"Не спать, не есть сутками - и все равно, хоть гром, хоть град.","Don't sleep, don't eat for days - and it doesn't matter, whether it's thunder or hail.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Russian phrase ""Не спать, не есть сутками"" is translated as ""Don't sleep, don't eat for days"", which is a more literal translation. A more natural English translation would be ""Not sleeping, not eating for days"".
+[Minor]: [Omission] - The Russian phrase ""и все равно, хоть гром, хоть град"" is translated as ""and it doesn't matter, whether it's thunder or hail"", which omits the nuance of ""and it's all the same"" or ""it doesn't matter"".
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the imperative form ""Don't sleep, don't eat"" instead of the more natural phrasing ""Not sleeping, not eating"".
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [Awkward] - The translation sounds a bit awkward and could be improved to sound more natural in English.
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally understandable, but could be improved to sound more natural and idiomatic in English."
+396,В этой атмосфере сумасшествия очень легко работается.,"In this atmosphere of madness, it is very easy to work.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Russian phrase ""сумасшествия очень легко работается"" is more accurately translated as ""it is very easy to work in this atmosphere of madness"", rather than ""it is very easy to work"".
+
+Fluency Errors
+[Minor]: [register] - The translation uses a more informal register compared to the source text.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+397,"И мне кажется, что когда люди настолько сдвинуты до болезненного фанатизма на том, что они делают, это не может не получится, потому что слишком много затрачивается энергии.","And it seems to me that when people are so shifted to a painful fanaticism on what they are doing, it cannot but happen, because too much energy is spent.","MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The translation does not accurately convey the meaning of the original text. The phrase ""сдвинуты до болезненного фанатизма"" is not well translated as ""shifted to a painful fanaticism"".
+[Minor]: [Omission] - The translation omits the phrase ""это не может не получится"", which is an important part of the original meaning.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation has some grammatical issues, such as the use of ""it cannot but happen"" instead of a more natural phrasing.
+
+Overall, the translation has some significant accuracy issues and could be improved to better capture the meaning of the original text."
+399,"Каковы критерии отбора материала, с которым вам предстоит работать?",What are the criteria for selecting the material you will be working with?,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""What are the criteria for selecting the material you will be working with?"" is a slightly different phrasing compared to the source text, but the meaning is accurately conveyed.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of high quality and accurately conveys the meaning of the source text with only a minor phrasing difference."
+400,"Я не хочу глупостей, глупых диалогов, фильмов, которые ничего не говорят, ничего не несут.","I don't want nonsense, stupid dialogues, films that say nothing, carry nothing.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation does not fully capture the meaning of the original text. The Russian phrase ""глупостей, глупых диалогов, фильмов, которые ничего не говорят, ничего не несут"" implies a stronger rejection of meaningless or nonsensical content, whereas the English translation is more general.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation could be improved by using more natural English grammar, such as ""I don't want any nonsense, stupid dialogues, or films that say or convey nothing.""
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The term ""carry nothing"" is a bit unusual in this context and could be replaced with a more idiomatic phrase like ""convey nothing"" or ""have no substance.""
+
+Overall, the translation is generally understandable, but could be improved to better capture the nuance and tone of the original Russian text."
+403,Конкретных предложений и планов сейчас нет.,There are no specific proposals and plans at the moment.,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""Конкретных"" (specific) from the source text.
+
+Fluency Errors
+[No errors]
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[No errors]
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is accurate and fluent, with only a minor omission error."
+414,«Неуправляемый»,Uncontrolled.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Russian word ""Неуправляемый"" is more accurately translated as ""Uncontrollable"" rather than ""Uncontrolled"".
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]"
+446,Технический директор онлайн-направления Андрей Зуев,"Andrew Zuev, technical director of the online division.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""Технический"" (Technical) from the source text.
+
+Fluency Errors
+[Minor]: [inconsistency] - The name ""Андрей Зуев"" is translated as ""Andrew Zuev"", which is an inconsistent translation of the name.
+
+Locale Convention Errors
+[No-error]
+
+Style Errors
+[No-error]
+
+Terminology Errors
+[No-error]
+
+Non-translation Errors
+[No-error]
+
+Other Errors
+[No-error]"
+449,Директор по работе с клиентами технического направления Инна Ключарева,Head of Technical Customer Service Inna Klyuchareva.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""Head of Technical Customer Service"" does not fully capture the meaning of the Russian source text, which refers to the ""Director of Customer Service in the Technical Direction"".
+Fluency Errors
+[Minor]: [grammar] - The translation is missing the definite article ""the"" before ""Head"".
+Terminology Errors
+[Minor]: [inconsistent use] - The name ""Inna Klyuchareva"" is not consistently translated, as the first name and last name are not separated by a comma as is typical in English.
+No other errors detected."
+454,Телефон: +7 (495) 229 6200 Факс: +7 (495) 229 62 01,Phone: +7 (495) 229 6200 Fax: +7 (495) 229 62 01,"MQM annotations:
+Accuracy Errors
+[Minor]: [Locale Convention: Telephone Format] - The telephone and fax numbers are correctly translated, but the format does not match the standard English format.
+
+Fluency Errors
+[Minor]: [Punctuation] - The translation uses a space between the number and the unit (e.g. ""229 6200"" instead of ""229-6200"").
+
+Overall, the translation is accurate and fluent, with only minor issues related to locale conventions and punctuation."
+456,"Адрес: 105082, г. Москва, ул. Малая Почтовая, д. 12, стр. 1, офис 309","105082, Moscow, Malaya Pochtovaya Street, 12, building 1, office 309.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""Malaya Pochtovaya Street"" does not accurately convey the meaning of the Russian ""ул. Малая Почтовая"" which should be translated as ""Malaya Pochtovaya Street"".
+Fluency Errors
+[Minor]: [Punctuation] - The translation is missing a comma after ""building 1"".
+Locale Convention Errors
+[No-error]"
+457,Отпечатано в полиграфическом комплексе «Пушкинская площадь».,"Printed in the printing complex ""Pushkinskaya Square"".","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""полиграфическом"" (printing) from the source text.
+
+Fluency Errors
+[Minor]: [spelling] - The translation uses the English spelling ""Pushkinskaya"" instead of the more common English spelling ""Pushkin"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to omission and spelling. The translation conveys the meaning of the source text effectively."
+462,В ПОДАРОК ПЕРВЫМ ТРЕМ ПРАВИЛЬНО ОТВЕТИВШИМ ЧИТАТЕЛЯМ — ГОДОВАЯ ПОДПИСКА И ОУО ИЗ КОЛЛЕКЦИИ,A YEAR'S SUBSCRIPTION AND A COLLECTIBLE OWL AS A GIFT FOR THE FIRST THREE READERS WHO ANSWER CORRECTLY.,"MQM annotations:
+Accuracy Errors
+[Minor]: Mistranslation - The Russian phrase ""В ПОДАРОК ПЕРВЫМ ТРЕМ ПРАВИЛЬНО ОТВЕТИВШИМ ЧИТАТЕЛЯМ"" is translated as ""A YEAR'S SUBSCRIPTION AND A COLLECTIBLE OWL AS A GIFT FOR THE FIRST THREE READERS WHO ANSWER CORRECTLY"", which is not a direct translation.
+Fluency Errors
+[Minor]: Capitalization - The translation is in all capital letters, which is not typical for English text.
+Locale Convention Errors
+[None]
+Terminology Errors
+[None]
+Non-translation Errors
+[None]
+Other Errors
+[None]"
+470,"Картина повествует об изобретении Facebook, одном из инструментов-первопроходцев в сфере интернета, который объединил весь мир, рассорил пятерых друзей и сделал своего создателя - 26-летнего бывшего студента Гарварда Марка Цукерберга — самым молодым миллиардером последних десятилетий.","The painting narrates the invention of Facebook, one of the pioneering tools in the field of the internet, which united the whole world, estranged five friends, and made its creator - 26-year-old former Harvard student Mark Zuckerberg - the youngest billionaire of the last decades.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text refers to a ""picture"" or ""painting"" that narrates the story of Facebook, but the translation refers to a ""painting"" which is not accurate.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""united the whole world"" which is grammatically correct but could be improved to ""united the world"" for better fluency.
+
+Style Errors
+[Minor]: [Awkward] - The phrase ""estranged five friends"" sounds a bit awkward in the translation and could be rephrased more naturally.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+472,"Цукерберг запускает сайт по целому ряду причин: отчасти из-за озлобленности на окружающий мир, отчасти из-за спортивного интереса и отчасти просто потому, что ЭТО «круто».","Zuckerberg is launching the site for a whole range of reasons: partly out of bitterness towards the surrounding world, partly out of sporting interest, and partly just because IT'S ""cool"".","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""Zuckerberg is launching the site"" does not accurately capture the meaning of the source text, which states that Zuckerberg is launching the site for a range of reasons.
+[Minor]: [omission] - The translation omits the phrase ""отчасти из-за озлобленности на окружающий мир"" (partly out of bitterness towards the surrounding world).
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the present continuous tense (""is launching"") instead of the present simple tense, which would be more appropriate for the context.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The use of the term ""sporting interest"" may not be the most appropriate translation for ""спортивного интереса"" in this context.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+475,То же и с режиссурой Финчера: сравнительно сдержанная (за исключением Близнецов Уинклвоссов сыграли непохожие друг на друга актеры.,"The same goes for Fincher's directing: relatively restrained (with the exception of the Winklevoss twins, where the actors played roles that were unlike each other).","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""where the actors played roles that were unlike each other"" does not accurately capture the meaning of the original Russian text, which states that the Winklevoss twins were played by actors who were dissimilar to each other.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""with the exception of the Winklevoss twins, where the actors played roles that were unlike each other"", which has a slightly awkward grammatical structure.
+
+Style Errors
+[Minor]: [awkward] - The translation has a slightly formal and awkward phrasing compared to the more natural-sounding Russian original.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."
+480,"В РОЛЯХ: Джесси Айзенберг, Эндрю Гарфилд, Руни Мара, Джастин Тимберлейк, Эрми Хаммер, Джошуа Пенс","Jesse Eisenberg, Andrew Garfield, Rooney Mara, Justin Timberlake, Armie Hammer, Joshua Pence.","MQM annotations:
+Accuracy Errors
+[Minor]: [Omission] - The translation omits the phrase ""IN ROLES:"" which is present in the source text.
+
+Fluency Errors
+[Minor]: [Punctuation] - The translation does not include any punctuation, while the source text has a colon.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+483,"Цветовая палитра играет свою роль: теплая, местами солнечная, даже в темноте оставаясь уютной, она маневрирует между двумя спутанными цепочками событий и двумя обособленными судебными тяжбами.","The color palette plays its role: warm, in places sunny, even remaining cozy in the dark, it maneuvers between two tangled chains of events and two isolated lawsuits.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The phrase ""спутанными цепочками событий"" is translated as ""tangled chains of events"", which is not a completely accurate translation. A more accurate translation would be ""entangled sequences of events"".
+[Minor]: [mistranslation] - The phrase ""обособленными судебными тяжбами"" is translated as ""isolated lawsuits"", which does not fully capture the meaning of the original phrase. A more accurate translation would be ""separate legal disputes"".
+
+Fluency Errors
+[Minor]: [grammar] - The sentence structure could be improved for better fluency, for example: ""The color palette plays a role: warm, at times sunny, and even remaining cozy in the dark, it navigates between two entangled sequences of events and two separate legal disputes.""
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The use of the word ""maneuvers"" may not be the most appropriate term in this context and could be replaced with a more suitable word like ""navigates"" or ""moves"".
+
+Overall, the translation is generally understandable, with a few minor errors that do not significantly impact the comprehension of the text."
+486,"После просмотра появляется стойкое ощущение, что «Социальная сеть» - это портрет нашего времени, а недосказанность в данном случае - важный художественный прием.","After watching, there is a persistent feeling that ""The Social Network"" is a portrait of our time, and the unsaid in this case is an important artistic device.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not fully capture the meaning of the original text. The phrase ""недосказанность"" (nedoskazannost') in Russian refers to a sense of incompleteness or unfinished quality, which is not fully conveyed by ""the unsaid"" in the translation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by using a more natural English phrasing, such as ""After watching, there is a persistent feeling that 'The Social Network' is a portrait of our time, and the sense of incompleteness in this case is an important artistic device.""
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""The Social Network"" is the title of the film and should be capitalized as such.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the overall meaning or readability of the text."
+488,"Теперь, когда суточная платежеспособность стала еще выше, политика осуществляется уже не на заседаниях правления, ав песочницах.","Now, when the daily solvency has become even higher, the policy is implemented not in board meetings, but in sandboxes.","MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The Russian phrase ""суточная платежеспособность"" refers to the daily liquidity or cash flow of a company, but the translation ""daily solvency"" does not accurately convey this meaning.
+[Minor]: Omission - The translation omits the context that the policy is now being implemented in a different way, i.e., in ""sandboxes"" rather than in board meetings.
+
+Fluency Errors
+[Minor]: Register - The use of the term ""sandboxes"" in this context may be too informal or colloquial.
+
+Terminology Errors
+[Major]: Inappropriate for context - The term ""solvency"" does not accurately reflect the meaning of the original Russian phrase, which is more about liquidity or cash flow."
+491,"Уинклвоссы (Хаммер и Пенс), тем временем, топают ногами: кто это сказал, что богатые, красивые и спортивные не могут быть еще и умными?","The Winklevoss twins (Hammer and Pence), meanwhile, are stomping their feet: who said that the rich, beautiful, and athletic cannot also be intelligent?","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The names ""Hammer and Pence"" are not part of the original Russian text and appear to be an addition in the translation.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the plural ""their feet"" when the original Russian text uses the singular ""ногами"" (foot).
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The use of the term ""Winklevoss twins"" may not be familiar to all readers and could be replaced with a more descriptive phrase.
+
+Overall, the translation conveys the meaning of the original text accurately, with only minor errors that do not significantly impact the comprehension of the text."
+495,И что за социальные последствия повлечет за собой его изобретение?,And what social consequences will his invention entail?,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Russian source text uses the word ""его"" (his) to refer to the invention, while the English translation uses ""his"" to refer to the inventor, which is a minor mistranslation.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality with only a minor mistranslation error that does not significantly impact the meaning or comprehension of the text."

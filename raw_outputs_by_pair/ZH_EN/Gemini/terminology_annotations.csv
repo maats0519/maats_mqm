@@ -1,0 +1,746 @@
+index,original,translated,terminology_annotation
+0,本文件按照 GB/T 1.1 一 202 久标准化工作导则第工部分:标准化文件的结构和起草规则的规定起惠。,This document was drafted in accordance with the rules given in GB/T 1.1-2020 Directives for standardization — Part 1: Structure and drafting rules for standardization documents.,"```
+MQM annotations:
+Terminology errors:
+No terminology errors found.
+```"
+4,"在四字节编码区更改了18 个 GB/T 13000 代码位置(见附录 D,2005 年版的附录D);","18 GB/T 13000 code positions were changed in the four-byte encoding area (see Appendix D, Appendix D of the 2005 edition);","```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - ""Appendix D of the 2005 edition"" is redundant after ""Appendix D"". While the source also repeats the term (""附录 D, 2005 年版的附录D""), a more natural English phrasing would be ""(see Appendix D; specifically, Appendix D of the 2005 edition)"" or possibly just ""(see Appendix D of the 2005 edition)"" if context allows, or ""(see Appendix D, and Appendix D of the 2005 edition)"" if they are distinct. The direct repetition is slightly awkward and could be considered a contextual misfit of the term due to redundancy, though it reflects the source structure.
+```"
+8,请注意本文件的某些内容可能涉及专利。 本文件的发布机构不承担识别专利的责任。,Please note that some content of this document may be the subject of patent rights. The publishing organization of this document assumes no responsibility for identifying any or all such patent rights.,"```
+MQM annotations
+Terminology errors:
+None
+```"
+10,本文件及其所代替文件的历次版本发布情况为 :,The release history of previous versions of this document and the documents it supersedes is as follows:,"```
+MQM annotations:
+Terminology errors:
+critical: None
+major: None
+minor: None
+```"
+13,信息扩术 ”中文编码字符集,Information Technology Chinese Encoding Character Set,"```
+MQM annotations:
+Terminology errors:
+No-error - The translated terms ""Information Technology"" and ""Chinese Encoding Character Set"" are standard English terms and appropriate translations for the concepts (信息技术 - Information Technology; 中文编码字符集 - Chinese Encoding Character Set). Although the source text contains a likely typo (""信息扩术"" instead of ""信息技术""), the translation correctly identifies the intended meaning and uses the standard corresponding English term. There are no terminology errors (e.g., wrong term choice, typos, capitalization, inflection) within the translated terms themselves.
+```"
+16,"本文件适用于为具备中文和其他文字图形字符信息化处理及交换功能的技术类产品,包括但不限于以输入法、光学字符识别 (OCR)、编辑 校对、机融翻诺、语音合成、文字转写、乔能写作等为代表的软件产品 , 以及以计算机、通信终端设备、电子书阅读毅、学习机等为代表的便件产品 。","This document applies to technical products equipped with capabilities for information processing and exchange of Chinese and other text and graphic characters, including but not limited to software products such as input methods, optical character recognition (OCR), editing and proofreading, machine translation, speech synthesis, text transcription, and intelligent writing, as well as hardware products such as computers, communication terminal equipment, e-book readers, and learning machines.","```
+MQM annotations:
+Terminology errors:
+No errors: Terminology - None.
+```"
+20,GB/T 2312 一 1980 ”信息交换用汉字编码字符集 ”基本集,"GB/T 2312-1980 ""Coded Chinese Character Set for Information Interchange"" Basic Set","```
+MQM annotations:
+Terminology errors:
+[no-error]: [no-error] - None
+```"
+21,GB/I 11383 一 1989 信息 处理 ”信息交换用八位代码结构和编码规则,GB/I 11383—1989 Information processing — 8-bit code structure and coding rules for information interchange,"```
+MQM annotations:
+Accuracy Errors
+minor: [terminology/locale_conventions/formatting] - The separator '一' in the Chinese standard number 'GB/I 11383 一 1989' was translated to an em dash '—' in 'GB/I 11383—1989', which is a standard locale convention difference for formatting standard designations but technically a change from the source character.
+minor: [terminology/locale_conventions/punctuation] - The source uses a space and closing quotation mark ' ”' after '信息 处理' to separate the main subject from the specific topic. The target uses an em dash ' — ' for this separation ('Information processing — 8-bit...'), reflecting different punctuation conventions for titles/standards.
+```"
+25,3.1 字符 character,character,"```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+30,使用符合本文件的产品的使用者可以自行规定的区域。,Areas that users of products conforming to this document can specify themselves.,"```
+MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+34,留作未来本文件规定的区 域 。,Reserved for the future area specified in this document.,"```
+MQM annotations:
+Accuracy Errors
+[terminology]: [locale_conventions/error_subcategory] - None
+```"
+36,4 字汇,Vocabulary 4,"```
+MQM annotations:
+Accuracy Errors
+[critical]: [no-error] - None
+[major]: [no-error] - None
+[minor]: [no-error] - None
+```"
+40,4.3 双字节部分,4.3 Double-byte section,"```
+MQM annotations:
+Terminology errors:
+[critical]: [no-error] - None
+[major]: [no-error] - None
+[minor]: [no-error] - None
+```"
+41,双字节部分收录了 GB/T 2312 一 1980 中的全部图形字符 GB/T 13000 中的CJK 统一汉字以及部分图形字符。,"The double-byte section includes all graphic characters from GB/T 2312-1980, as well as the CJK unified ideographs and some graphic characters from GB/T 13000.","```
+MQM annotations:
+Terminology errors:
+no-error: no-error - No terminology errors found. The translation correctly uses the standard English terms for ""double-byte"", ""graphic characters"", ""CJK unified ideographs"", and correctly renders the GB standard numbers according to common English conventions (using a hyphen in GB/T 2312-1980).
+```"
+43,"其中,表意文字描述符的图形、代码位置和功能应符合附录 B 的规定 。","Wherein, the graphics, code positions, and functions of the ideographic character descriptors shall conform to the provisions of Appendix B.","```
+MQM annotations:
+Terminology errors:
+critical: None
+major: None
+minor: None
+```"
+45,"具备独有抽象字形的汉字,赋予单独的代码位置;来源不同而抽象字形相同的汉字, 则赋予共用的代码位置。",Chinese characters with unique abstract glyphs are assigned separate code points; Chinese characters from different sources but with identical abstract glyphs are assigned shared code points.,"```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+47,4.4 四字节部分,4.4 Four-byte section,"```
+MQM annotations:
+Accuracy Errors
+[terminology]: [no_subcategory] - None
+```"
+48,四字节部分收录了上述双字节字符之外的 GB/T 13000 中的 66 个CJK统一汉字(9FA6 一 9FEF，不包括 9FB4~9FBB 的8个字符)、CJK 统一汉字扩充 A、CJK 统一汉字扩充 BCJK 统一汉字扩充 C、 CJK 统一汉字扩充 DCJK 统一汉字扩充下 .CJK 统一汉字扩充 F 和已经 在 GB/ 工 13000 中编码的少数民族文字的字符。,"The four-byte section includes, in addition to the aforementioned double-byte characters, 66 CJK Unified Ideographs from GB/T 13000 (9FA6–9FEF, excluding the 8 characters from 9FB4–9FBB), CJK Unified Ideographs Extension A, CJK Unified Ideographs Extension B, CJK Unified Ideographs Extension C, CJK Unified Ideographs Extension D, CJK Unified Ideographs Extension E, CJK Unified Ideographs Extension F, and characters for minority scripts already encoded in GB/T 13000.","```
+MQM annotations:
+Terminology errors:
+[critical]: None
+[major]: None
+[minor]: None
+```"
+52,"附录中凡编码的表示均采用十六进制,其他数字的表示均采用十进制。","In the appendix, all encoded representations are in hexadecimal, and all other numbers are represented in decimal.","```
+MQM annotations:
+Terminology errors:
+[no-error]: [no-error] - No terminology errors found.
+```"
+58,6 字符的排列顺序,Order of 6 characters,"```
+MQM annotations
+Terminology errors:
+None
+```"
+59,6.1 单字刷部分字符的排列顺序,6.1 Arrangement order of some characters in single-character rendering/display.,"```
+MQM annotations
+Terminology errors:
+None
+```"
+60,单字记部分字符按照 GB/I 11383 一 1989 中相应字符的顺序排列 。,Characters in the single-character section are arranged according to the order of the corresponding characters in GB/I 11383-1989.,"```
+MQM annotations
+Terminology errors:
+None
+```"
+67,7 码位分配,7 Code point allocation,"```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+71,2.双字部分的码位分配,2. Code position assignment for the two-character part.,"```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - ""码位"" is typically translated as ""Codepoint"" in character encoding contexts, not ""Code position"". Assumes ""Codepoint"" is the glossary term.
+```"
+72,"双字节部分的码位安排分为 0x8140~ 一 0xFE7E 和 0x8180 一 0xFEFE 两部分, 共 23940 个码位。","The code points for the double-byte section are divided into two parts: 0x8140-0xFE7E and 0x8180-0xFEFE, for a total of 23,940 code points.","```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+75,双字节 1 区 : 846 码位,Double-byte Section 1: Code point 846,"```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+77,首字节 0xA8~0xA9 双字节 5 区 : 192 码 位,"First byte 0xA8-0xA9, double-byte Zone 5: 192 code points.","```
+MQM annotations:
+Accuracy Errors
+critical: [terminology/error_subcategory] - None
+major: [terminology/error_subcategory] - None
+minor: [terminology/error_subcategory] - None
+```"
+78,3.双字蔬部分编码空间结构图,3. Two-character vegetable part encoding space structure diagram.,"```
+MQM annotations:
+Terminology errors:
+[minor]: [terminology/inappropriate for context] - ""Two-character vegetable"" is a literal translation of '双字蔬' but might not be the standard technical term in this context (e.g., compared to ""Disyllabic vegetable names""). It is understandable but potentially non-standard.
+[minor]: [terminology/inappropriate for context] - ""part encoding"" for '部分编码' is potentially ambiguous. It could mean ""partial encoding"" or ""encoding of parts"". Depending on the precise technical meaning intended, this term might be inappropriate or unclear.
+```"
+84,表 3 中没有指明的四字节人码位分配见 6.3。,The allocation of four-byte code points not specified in Table 3 is given in 6.3.,"```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+85,表 3 四字闻部分的码位安排,Table 3: Code point arrangement for the four-character section.,"```
+MQM annotations:
+Terminology errors:
+No-error: - No terminology errors found.
+```"
+88,码位范围码位数字符数,"Code point range, number of code points, number of characters","```
+MQM annotations:
+Accuracy Errors
+critical: [terminology/locale_conventions] - None
+major: [terminology/locale_conventions] - None
+minor: [terminology/locale_conventions] - None
+```"
+91,8 部分字符和代码的说明,8 Explanation of some characters and code,"```
+MQM annotations
+Terminology errors:
+no-error
+```"
+97,实现级别 1 文持本文件的单字节编码部分、双季节编码部分和四字下编玛部分的 CJK 统一汉字 ( 即 0x82358F33 一 0x82359636) 和 CJK 统一汉字扩A( 即 0x8139EE39 一 0x82358738) 。,"Implement Level 1 support for the CJK Unified Ideographs (i.e., 0x82358F33 - 0x82359636) and CJK Unified Ideographs Extension A (i.e., 0x8139EE39 - 0x82358738) within the single-byte, double-byte, and four-byte encoding parts of this document.","```
+MQM annotations:
+Accuracy Errors
+[Minor]: [terminology/locale_conventions/other] - The hex code ranges in the source (e.g., 0x82358F33 一 0x82359636) appear corrupted or nonsensical for standard CJK character ranges and use the character '一' as a separator. The translation correctly uses a hyphen '-' standard for English ranges but retains the questionable numeric values from the source. While retaining source values can be faithful, these specific values likely represent a source data error rather than a valid range, impacting technical accuracy. The primary issue is likely source error/accuracy, not just locale convention.
+[Minor]: [terminology/no_error] - None. The core technical terms (""Level 1"", ""CJK Unified Ideographs"", ""CJK Unified Ideographs Extension A"", ""single-byte"", ""double-byte"", ""four-byte"") are translated correctly, including accurate interpretation despite several typos in the source text (""文持"", ""双季节"", ""四字下编玛"", ""扩A"").
+```"
+102,"此外 ,实现级别 2 还文持《通用 规范 汉字 表 }中的没有包合在实级别 1 之内的编码汉字。","In addition, Implementation Level 2 also supports the encoded Chinese characters in the ""Table of General Standard Chinese Characters"" that are not included in Implementation Level 1.","```
+MQM annotations:
+Terminology errors:
+critical: [terminology/no-error] - None
+major: [terminology/no-error] - None
+minor: [terminology/no-error] - None
+```"
+104,"系统软件及支撑软件,应满足实现级别 2 的要求 。",System software and supporting software should meet the requirements for achieving Level 2.,"```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+105,"注: 系统软件及文撑软件包括但不限于操作系统,数据库管理系统.中间件( 软件产品分类的信息见 GB/ 工 36475)。","Note: System software and supporting software include but are not limited to operating systems, database management systems, middleware (see GB/T 36475 for information on software product classification).","```
+MQM annotations:
+Terminology errors:
+no-error: no-error - No terminology errors found. The translation correctly uses standard terms for ""System software"", ""supporting software"", ""operating systems"", ""database management systems"", ""middleware"", and the standard designation ""GB/T 36475"".
+```"
+107,实现级别 3 包含实现级别 2。,Implementation Level 3 includes Implementation Level 2.,"```
+MQM annotations:
+Accuracy Errors
+critical:[terminology/locale_conventions] - None
+major:[terminology/locale_conventions] - None
+minor:[terminology/locale_conventions] - None
+```"
+109,用于政务服务和公共服务的产品应满足实现级卉 3 的要求。,Products for government services and public services should meet the requirements of Implementation Level 3.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+111,附录 A (规范性 ),Appendix A (normative),"```
+MQM annotations
+Terminology errors:
+No errors detected.
+```"
+112,双字字符表,Double Character Table,"```
+MQM annotations:
+critical: no-error
+major: Terminology/TERM NOT APPLIED - ""Double Character Table"" is used instead of the standard technical term ""Double-Byte Character Table"".
+minor: no-error
+```"
+115,A.2 表的说明,A.2 Explanation of the table,"```
+MQM annotations
+Terminology errors:
+None
+```"
+117,第一字节第二字节低位,"First byte, low bit of the second byte","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+121,表意文字描述符,Ideographic character descriptor,"```
+MQM annotations:
+Terminology errors:
+minor: [WRONG TERM] - The term ""Ideographic character descriptor"" seems technically plausible but ""Ideographic Description Character"" (IDC) is the standard Unicode term for characters (like U+2FF0 to U+2FFB) used to describe the composition of CJK ideographs. If the source refers to these specific characters, the translation is incorrect terminology. If it refers to a more general concept of a descriptor *for* ideographic characters, it might be acceptable but less standard. Assuming it refers to the Unicode standard concept, this is a terminology error.
+```"
+124,表 B.1 表意文字描述符的图形、代码位置和功能描述,"Table B.1: Graphics, Code Positions, and Functional Descriptions of Ideographic Character Descriptors","```
+MQM annotations
+Terminology errors:
+No terminology errors found.
+```"
+125,"本文件的码位 GB/T 13000 的码位功能描述相似而不等,用于借某字表达外字","The functional description of the code points in this document is similar but not identical to that of the code points in GB/T 13000, used for representing external characters by borrowing certain characters.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+130,全包围结构,Full enclosure structure,"```
+MQM annotations:
+Terminology errors:
+No-error: - The translation ""Full enclosure structure"" is a correct and standard term for the Chinese linguistic concept ""全包围结构"".
+```"
+133,回右包围结构,Top-right enclosing structure,"```
+MQM annotations:
+Terminology errors:
+[no-error]: [terminology/no-error] - None.
+```"
+136,回右上包围结构,Upper right enclosing structure,"```
+MQM annotations:
+Terminology errors:
+No-error
+```"
+140,C.1 表的内容,Contents of Table C.1,"```
+MQM annotations:
+Terminology errors:
+No-error: no-error - No terminology errors were found.
+```"
+145,D.1 调整过的 18 个GB/T 13000 代码位置,D.1 18 adjusted GB/T 13000 code positions,"```
+MQM annotations:
+Terminology errors:
+No-error
+```"
+148,本文件及 GB 18030 一 2005 的GB 18030 一 2005 对应的本文件对应的GB/T 工 13000 码位,"The GB/T 13000 code points corresponding to this document, which correspond to GB 18030-2005 of this document and GB 18030-2005.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+149,D.2 在双字闻区删除的 6 个汉字构件,D.2 6 Chinese character components deleted in the two-character area.,"```
+MQM annotations
+Terminology errors:
+major: TERM NOT APPLIED - Assuming `双字闻区` is a glossary term, the translation ""two-character area"" likely does not match the specified glossary translation. The translation ignores the character `闻` (wén) present in the source term, suggesting a potential mismatch with a more precise glossary entry.
+```"
+151,D.3 在双字下区删除的 9 个 CJK 兼容汉字,D.3 9 CJK Compatibility Ideographs deleted from the lower double-byte area.,"```
+MQM annotations:
+Terminology errors:
+critical: None
+major: None
+minor: None
+```"
+153,表 D.3 删除的 9 个 CJK 兼容汉字和它们的代码位置,Table D.3: The 9 deleted CJK Compatibility Ideographs and their code points,"```
+MQM annotations
+Terminology errors:
+no-error - No terminology errors found. ""CJK Compatibility Ideographs"" is the correct translation for ""CJK 兼容汉字"" and ""code points"" is the correct translation for ""代码位置"" in this context. Both terms are standard and used correctly.
+```"
+154,附录开 (资料性)《通用规范汉字表》 汉字的代码位置,"Appendix K (Informative) Code Positions of the Chinese Characters in the ""Table of General Standard Chinese Characters""","```
+MQM annotations:
+Terminology errors:
+[minor]: [WRONG TERM] - ""Appendix K"" is not a direct translation of ""附录开"". While ""Appendix"" is correct for ""附录"", ""K"" does not correspond to ""开"". It should ideally reflect the actual appendix designator used in the Chinese standard (e.g., Appendix A, B, etc., or perhaps if ""开"" has a specific meaning here, it needs context). Assuming ""K"" is an interpretation or external information, the direct source character ""开"" is not represented. If the appendix is indeed designated ""K"" in the standard's structure, this might be acceptable, but based purely on the source text ""开"", ""K"" is not a translation. However, it's minor as the structure ""Appendix [Letter]"" is standard.
+```"
+155,"本文件收录了 2013 年中华人民共和国国务院批准发布的 4 通用规范汉字表》 中的全部 8105 个规范汉字,它们的代码位置和字形见表1。","This document includes all 8105 standardized Chinese characters from the 'Table of General Standard Chinese Characters', approved and published by the State Council of the People's Republic of China in 2013. Their code points and glyphs are shown in Table 1.","```
+MQM annotations
+Terminology errors:
+[critical]: [no-error] - None
+[major]: [no-error] - None
+[minor]: [no-error] - None
+```"
+159,GB/ 工 36475 软件产品分类,GB/ 工 36475 Software Product Classification,"```
+MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+163,"如果发现手册页和软件之间有所矛盾,请查对Info","If you find a contradiction between the manual pages and the software, please consult Info.","```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+170,源文件后级名指出语言种类以及后期的操作:,The source file extension indicates the language type and subsequent operations:,"```
+MQM annotations:
+Terminology errors:
+major: no-error
+minor: no-error
+critical: no-error
+```"
+171,".c C 源程序; 预处理, 编译,汇编",".c C source code; preprocessing, compilation, assembly,","```
+MQM annotations
+Terminology errors:
+no-error
+```"
+175,".m Objective-C 源程序; 预处理,编译,汇编",".m Objective-C source code; preprocessing, compilation, assembly.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+176,".i 预处理后的 c 文件;编译,汇编",".i preprocessed C file; compilation, assembly","```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+182,.a 归档库文件(Archive file),.a archive library file (Archive file),"```
+MQM annotations:
+Terminology errors:
+[critical]: [no-error] - None
+[major]: [no-error] - None
+[minor]: [no-error] - None
+```"
+183,"除非使用了 -cec，-s, 或 -E 选项(或者编译错误阻止了完整的过程),否则连接总是最后的步骤.","Unless the -cec, -s, or -E options are used (or a compilation error prevents the complete process), linking is always the final step.","```
+MQM annotations:
+Terminology errors:
+minor: no-error - None
+```"
+185,选项必须分立给出 : de ' 完全不同于 `-d -r '.,Options must be specified separately: this is 'completely different from' `-d -r`.,"```
+MQM annotations:
+critical: accuracy/mistranslation - The source compares the option 'de' with '-d -r'. The translation incorrectly renders 'de' as 'this is', changing the meaning significantly. 'de' should likely have been treated as a literal option/code element.
+major: no-error
+minor: no-error
+```"
+187,这里只列举不是默认选项的格式.,Only formats that are not default options are listed here.,"```
+MQM annotations
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+190,总体选项 (Overall Option),Overall Options,"```
+MQM annotations
+Terminology errors:
+Minor: WRONG TERM - The glossary term is specified as ""Overall Option"" (singular), but the translation uses the plural ""Overall Options"". The source term ""选项"" is singular.
+```"
+191,明确指出后面输入文件的语言为 language (而不是从文件名后绥得到的默认选择).,Explicitly specify the language of the following input file as language (rather than the default derived from the filename extension).,"```
+MQM annotations:
+Terminology errors:
+minor: no-error - None
+```"
+193,"关闭任何对语种的明确说明, 因此依据文件名后级处理后面的文件 RE AS E ` -x' 选项).","Disable any explicit specification of language; therefore, subsequent files are processed based on the filename suffix (the RE AS E `-x` option).","```
+MQM annotations:
+Terminology errors:
+No errors detected. - None
+```"
+194,"如果只操作四个阶段( 预处理, 编译, 汇编, 连接)中的一部分, 可以使用 ` -x' 选项 (或文件名后 Ah) 告诉 geo 从哪里开始,用 `~-c' ，`-s' ,或 `-E' 选项告诉 geo 到哪里结束.注意,某些选项组合 (例如 ，`-x cpp-output -E') {i gee MEF =c 编译或汇编源文件, ETER. ERA ATI 缺省情况下， GCC 通过用 ` .o' 蔡换源文件名后级 ` .ec 标文件名. 可以使用-o 选项选择其他名字.GCC忽略 -ec 选项后面任何无法识别的输入文伯 -S F 何事情.","If you only want to perform some of the four stages (preprocessing, compilation, assembly, linking), you can use the `-x` option (or the filename suffix) to tell gcc where to start, and use the `-c`, `-S`, or `-E` options to tell gcc where to stop. Note, some option combinations (for example, `-x cpp-output -E'). By default, GCC forms the output filename by replacing the source filename suffix (like `.c`) with `.o`. You can use the `-o` option to choose another name. GCC ignores any unrecognized input files following the argument to the `-o` option.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+196,"编译后即停止, 不进行汇编件.","Stop after compilation, do not assemble.","```
+MQM annotations:
+Terminology errors:
+No terminlogy errors.
+```"
+197,"在编译过程的不同阶段间使用管道而非临时文件进行工作, 因为那些系统的汇编器不能从管道读取数据，GNU 的汇编器没有这个问题，汇编器能够接受的 C ""方言 "": 支持符合 ANSI 标准的 C 程序.","Use pipes instead of temporary files between different stages of the compilation process, because the assemblers of those systems cannot read data from pipes; GNU's assembler does not have this problem. The C ""dialect"" that the assembler can accept: Supports ANSI-standard C programs.","```
+MQM annotations:
+Terminology errors:
+critical: None
+major: None
+minor: None
+```"
+200,"正常情况下, 这样的函数 foo 在 C++ 中意味着参数为空.","Normally, such a function `foo` in C++ means its parameter list is empty.","```
+MQM annotations:
+Terminology errors:
+[no-error]: [no-error] - None.
+```"
+204,他和`-Ethis-is-variable' 选项的果一样.,He has the same effect as the `-Ethis-is-variable' option.,"```
+MQM annotations
+Terminology errors:
+None
+```"
+205,-traditional-cpp 试图支持传统 Cc 预处理器的某些方面.,-traditional-cpp attempts to support certain aspects of the traditional Cc preprocessor.,"```
+MQM annotations
+Terminology errors:
+Minor: WRONG TERM - ""Cc preprocessor"" is used instead of the standard term ""C preprocessor"". While understandable, ""Cc"" is unconventional in this context.
+```"
+216,"相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.","Correspondingly, if the default option ` -fno-external-templates` is used at compile time, all template instantiations are explicitly treated as internal.","```
+MQM annotations:
+Terminology errors:
+[no-error]: [no-error] - None
+```"
+219,"有些情况下, 编译器能够判断出可以直接调用某个虚函数; 这时就直接调用.","In some cases, the compiler can determine that a virtual function can be called directly; it then calls it directly.","```
+MQM annotations
+Terminology errors:
+None
+```"
+221,这种表达式的值是 Void.-fthis-—is-variable 允许对 this 赋值 (仅对 c++).,The value of this kind of expression is Void. -fthis-is-variable allows assignment to `this` (only for C++).,"```
+MQM annotations:
+Terminology errors:
+critical: None
+major: None
+minor: None
+```"
+229,"这个选项, 和它的反义选项, 使那样的程序工作在对应的默认值上.","This option, and its opposite option, make such programs work with their corresponding default values.","```
+MQM annotations:
+Terminology errors:
+Minor: terminology/inappropriate for context - ""opposite option"" is understandable but potentially non-standard phrasing for the counterpart of an option (反义选项). More standard terms like ""inverse option"" or reference to the alternative state might be preferred in technical contexts.
+```"
+231,"如果没有明确声明 ` signed' 或 ""unsigned'修饰符, 这些选项用来定义有符号位域 (bitfield) 或无符号位域.","If `signed` or `unsigned` modifiers are not explicitly specified, these options are used to define signed or unsigned bitfields.","```
+MQM annotations:
+Terminology errors:
+critical: [terminology/no-error] - None
+major: [terminology/no-error] - None
+minor: [terminology/no-error] - None
+```"
+234,"这是为了兼容一些老程序,他们算改字符串常量是一个非常糟糕的想法、`-traditional' 选项也有相同效果.","This is for compatibility with some old programs; modifying string constants is a very bad idea, and the `-traditional` option also has the same effect.","```
+MQM annotations:
+Terminology errors:
+[critical]: None
+[major]: None
+[minor]: None
+```"
+237,其影响可能类似于2008年的经济危机,Its impact could be similar to the 2008 economic crisis.,"```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+239,在许多国家，这一疾病己使医疗服务机构穷于应付，几近崩溃，各国政府实施的限制措施已在全球经济中造成了严重紊乱。,"In many countries, this disease has overwhelmed healthcare services, bringing them to the brink of collapse, and the restrictive measures implemented by governments have caused severe disruption in the global economy.","```
+MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+241,一些生产者可能会被迫寻找新的方法来制造毒品，因为限制流动的同时也限制了前体和基本化学品的获取。,"Some producers may be forced to find new ways to manufacture drugs, because restrictions on movement also limit access to precursors and essential chemicals.","```
+MQM annotations:
+Terminology errors:
+critical: None
+major: None
+minor: None
+```"
+249,一些国家有大量毒品通过商业航班走私，预计这些国家的贩毒活动受到的直接影响最大。,Countries where large quantities of drugs are smuggled via commercial flights are expected to experience the most direct impact on their drug trafficking activities.,"```
+MQM annotations:
+Accuracy Errors
+[terminology]: [locale_conventions/error_subcategory] - None
+```"
+259,世界各地的吸毒现象一直在增多，无论是从总体数字还是从吸毒者在世界人口中所占比例来看都是如此。,"Drug abuse worldwide has been increasing, both in terms of overall numbers and as a proportion of the global population.","```
+MQM annotations:
+Terminology errors:
+No glossary entries were provided or highlighted in the source or target text. Therefore, no errors specific to glossary entries (Term Not Applied or Wrong Term) can be identified according to the provided guidelines.
+```"
+262,"这在一定程度上反映了这一期间总体人口增长的差异、发达国家为7%,发展中国家为28%但也反映了发展中国家年 轻人口增长较快。","To some extent, this reflects the difference in overall population growth during this period, with developed countries at 7% and developing countries at 28%, but it also reflects the faster growth of the young population in developing countries.","```
+MQM annotations:
+Accuracy Errors
+[terminology]: [locale_conventions/error_subcategory] - None
+```"
+263,青少年和年轻成年人在吸毒者中所占比例最大。,Teenagers and young adults make up the largest proportion of drug users.,"```
+MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+266,无论是发达国家还是发展中国家，城市地区的吸毒情况都多于农村地区。,"Whether in developed or developing countries, the prevalence of drug abuse is higher in urban areas than in rural areas.","```
+MQM annotations:
+Terminology errors:
+No glossary entries were provided for this segment. Based on the definition that Terminology errors apply only to specified glossary entries, no such errors can be annotated. The translation uses appropriate terminology for the source text.
+```"
+267,吸毒情况总体增多的部分原因是人口从农村向城镇的大规模流动一目前全世界人口有一半以上生活在城市地区，而1960年这一比例为34%。,"Part of the reason for the overall increase in drug use is the large-scale migration of the population from rural to urban areas—more than half of the world's population now lives in urban areas, compared to 34% in 1960.","```
+MQM annotations:
+Terminology errors:
+minor: no-error - None
+```"
+268,城市化可能是毒品市场未来动态的一个关键因素，特别是在城市化趋势更为突出的发展中国家。,"Urbanization may be a key factor in the future dynamics of drug markets, especially in developing countries where urbanization trends are more pronounced.","```
+MQM annotations
+Terminology errors:
+No terminology errors detected.
+```"
+273,来自少数几个国家的数据表明，有害的吸毒模式与病症同低收入之间存在联系。,"Data from a few countries indicate a link between harmful drug use patterns and morbidity, and low income.","```
+MQM annotations:
+Terminology errors:
+[minor]: [no-error] - None
+```"
+274,这些模式在较富裕的社会阶层似乎不太常见。,These patterns seem less common among more affluent social classes.,"```
+MQM annotations
+Terminology errors:
+None
+```"
+277,新冠肺炎或将导致毒品市场进一步扩张新冠肺炎的大流行可能会导致更多农民增加或从事非法作物种植，或是因为国家主管机关的控制能力降低，或是因为在经济危机之下可能有更多人不得不铤而走险，从事非法活动。,"COVID-19 could lead to further expansion of the drug market. The pandemic might cause more farmers to increase or start cultivating illicit crops, either because the control capabilities of state authorities are diminished, or because the economic crisis might compel more people to take desperate measures and engage in illegal activities.","```
+MQM annotations:
+Terminology errors:
+No-error - None.
+```"
+283,会员国的国内市场每年约有500种新型活性物质。,Approximately 500 new active substances enter the domestic markets of Member States each year.,"```
+MQM annotations:
+Terminology errors:
+critical: terminology/None - None
+major: terminology/None - None
+minor: terminology/None - None
+```"
+286,"在2014年确定的新型精神活性物质种类总数中，类阿片新型精神活性物质仅占2%,但到2018年，这一数字己上升至9%。","Among the total types of new psychoactive substances identified in 2014, opioid new psychoactive substances accounted for only 2%, but by 2018, this figure had risen to 9%.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+287,类阿片新型精神活性物质中有许多是芬太尼的类似物，其药效和危害已得到证明，在北美导致了过量死亡事件，其他区域也有，但程度较轻。,"Many opioid novel psychoactive substances are fentanyl analogues, whose potency and harm have been proven, having caused overdose deaths in North America, and also in other regions, albeit to a lesser extent.","```
+MQM annotations:
+Terminology errors:
+minor: no-error
+```"
+288,在北美，芬太尼有的用作海洛因和其他毒品（包括可卡因和甲基苯丙胺）的掺杂剂，有的用来制造假冒的药用类阿片。,"In North America, some fentanyl is used as an adulterant in heroin and other drugs (including cocaine and methamphetamine), while some is used to make counterfeit prescription opioids.","```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+290,2新型精神活性物质的使用可能会逐渐牢固存在于弱势群体中,2 The use of new psychoactive substances may gradually become firmly entrenched among vulnerable groups.,"```
+MQM annotations:
+Terminology errors:
+no-error: no-error - None
+```"
+295,贩毒者和制毒者一直在寻找替代品一不仅有管制较松的物质，还有专门为规避管制而设计的化学品，即所谓的“特制前体”。,"Drug traffickers and producers are constantly seeking alternatives—not only less strictly controlled substances, but also chemicals specifically designed to evade controls, the so-called ""designer precursors"".","```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+296,旨在阻止新冠肺炎传播的限制性措施很可能使依赖前体化学品的制毒者受到进一步挤压。,Restrictive measures aimed at stopping the spread of COVID-19 are likely to further squeeze drug producers who rely on precursor chemicals.,"```
+MQM annotations
+Terminology errors:
+[critical]: no-error
+[major]: no-error
+[minor]: no-error
+```"
+297,来自墨西哥的证据表明，这已经成为 现实：据报告，2020年3月，从东亚进口的甲基苯丙胺前体短缺促使墨西哥和美国的甲基苯丙胺价格上涨。,"Evidence from Mexico indicates that this has already become a reality: reportedly, in March 2020, a shortage of methamphetamine precursors imported from East Asia prompted methamphetamine prices in Mexico and the United States to rise.","```
+MQM annotations:
+Terminology errors:
+minor: no-error - None
+```"
+305,阿富汗和伊拉克甲基苯丙胺市场增长,Afghanistan and Iraq methamphetamine market growth,"```
+MQM annotations
+Terminology errors:
+minor: TERM NOT APPLIED - The glossary term ""甲基苯丙胺"" should be ""methylamphetamine"" but ""methamphetamine"" was used.
+```"
+309,最近，伊拉克当局发现了多个甲基苯丙胺加工点，麻管局已对伪麻黄碱制剂的大批进口表示关切一甲基苯丙胺加工点将这些制剂用作前体。,"Recently, Iraqi authorities discovered multiple methamphetamine processing sites. The narcotics control agency has expressed concern about large-scale imports of pseudoephedrine preparations, which these processing sites use as precursors.","```
+MQM annotations:
+Terminology errors:
+minor: no-error
+```"
+311,自那时起，甲基苯丙胺的缉获量一直在稳步上升。,"Since that time, methamphetamine seizures have been steadily increasing.","```
+MQM annotations
+Terminology errors:
+No-error: Terminology - The glossary term ""甲基苯丙胺"" is correctly translated as ""methamphetamine"" and fits the context.
+```"
+312,但2019年上半年的缉获量一^657公斤——与上一年相比大幅骤增。,But the amount seized in the first half of 2019 was 657 kilograms—a sharp increase compared to the previous year.,"```
+MQM annotations:
+Accuracy Errors
+minor: [terminology/locale_conventions/error_subcategory] - None
+major: [terminology/locale_conventions/error_subcategory] - None
+critical: [terminology/locale_conventions/error_subcategory] - None
+```"
+318,在美国最早通过立法的两个州科罗拉多州和华盛顿州，成年人非医疗使用大麻的情况增加，特别是过去一个月以及每天或几乎每天使用的情况增多，自2012年起便已超过了全国平均水平。,"In Colorado and Washington, the first two US states to pass legislation legalizing it, adult non-medical cannabis use has increased, particularly past-month use and daily or near-daily use, exceeding the national average since 2012.","```
+MQM annotations:
+Terminology errors:
+minor: no-error - No terminology errors found.
+```"
+323,全球大麻药草缉获量暴跌的背后原因是大麻合法化？,Is cannabis legalization the reason behind the sharp drop in global cannabis herb seizures?,"```
+MQM annotations:
+Terminology errors:
+[critical]: [None] - None
+[major]: [None] - None
+[minor]: [None] - None
+```"
+326,对新型精神活性物质的监管似乎有遏制作用在国内对新型精神活性物质的监管效果仍然很难评估。,"Regulation of novel psychoactive substances seems to have a deterrent effect, but the effectiveness of this regulation domestically remains difficult to assess.","```
+MQM annotations:
+Terminology errors:
+No-error
+```"
+327,一些对新型精神活性物质采用不同监管制度的国家显示出不同的新型精神活性物质使用流行率。,Countries adopting different regulatory systems for new psychoactive substances show different prevalence rates of NPS use.,"```
+MQM annotations:
+Terminology errors:
+no-error: no-error - No terminology errors found.
+```"
+328,在另一些国家，通过国内立法后，新型精神活性物质使用情况有所减少。,"In other countries, the use of new psychoactive substances has decreased following the enactment of domestic legislation.","```
+MQM annotations:
+Terminology errors:
+no-error: no-error - None
+```"
+333,"据估计，低收入和中等收入国家的人口占全球人口的88%,但消费的药用类阿片却不到10%。","It is estimated that the population of low- and middle-income countries accounts for 88% of the global population, but consumes less than 10% of the world's medicinal opioids.","```
+MQM annotations:
+Terminology errors:
+No-error
+```"
+334,获取药用类阿片的障碍与许多因素有关，包括立法、文化、卫生系统和处方做法。,"Barriers to accessing medicinal opioids are related to many factors, including legislation, culture, health systems, and prescribing practices.","```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+343,全球范围的有限数据表明，迷醉可能是杀人的一个重要因素。,Limited worldwide data indicates that intoxication may be an important factor in homicide.,"```
+MQM annotations
+Terminology errors:
+None: None - No terminology errors were found in the translation based on the provided guidelines. The terms ""worldwide"", ""data"", ""intoxication"", and ""homicide"" accurately translate the corresponding source concepts (""全球范围"", ""数据"", ""迷醉"", ""杀人"") and fit the context appropriately.
+```"
+351,据估计，2018年使用大麻的有 1.92 亿人，使之成为全球使用最多的毒品。,"An estimated 192 million people used cannabis in 2018, making it the world's most widely used drug.","```
+MQM annotations
+Terminology errors:
+no-error
+```"
+354,"在2017年与吸毒病症有关的估计167,000例死亡中，有66%是这类物质造成的，在据信为吸毒导致的残疾或过早死亡而损失的2,100万年寿命中，有50%是这类物质造成的。","Of the estimated 167,000 deaths related to drug use disorders in 2017, 66% were caused by these substances, and of the 21 million years of life lost due to disability or premature death attributed to drug use, 50% were caused by these substances.","```
+MQM annotations
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+368,兴奋剂领域以可卡因和甲基苯丙胺为主，这两种物质在其主要市场的使用量都在上升。,"The stimulant market is dominated by cocaine and methamphetamine, and the use of both substances is increasing in their primary markets.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+372,在一些市场上，可卡因和甲基苯丙胺可以共存，有时是相互替代，这样一种药物的使用量上升时另一种药物的使用量就下降，有时是同时增加和减少以满足同一市场的需求。,"In some markets, cocaine and methamphetamine can coexist, sometimes substituting for each other, such that when the use of one drug rises the use of the other falls, and sometimes increasing and decreasing together to meet the demand of the same market.","```
+MQM annotations:
+Terminology errors:
+No-error - ""cocaine"" is the correct translation for 可卡因.
+No-error - ""methamphetamine"" is the correct translation for 甲基苯丙胺.
+```"
+376,2017年，因吸毒死亡的约有 58.5万人，其中一半死于丙型肝炎引起的肝病，而注射吸毒者的丙型肝炎大多仍未得到治疗。,"In 2017, approximately 585,000 people died due to drug use, half of whom died from liver disease caused by Hepatitis C, and Hepatitis C among injecting drug users remains largely untreated.","```
+MQM annotations:
+Accuracy Errors
+minor: [terminology/locale_conventions] - None.
+minor: [terminology/locale_conventions] - None.
+minor: [terminology/locale_conventions] - None.
+```"
+380,使用说明书,User manual,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+385,将耳帐斜向下轻轻塞入耳道，以轻摆头部耳机不田动为家。,Gently insert the ear tip diagonally downwards into the ear canal; the ideal fit is achieved when the earphone does not move as you gently shake your head.,"```
+MQM annotations:
+Accuracy Errors
+minor: terminology/locale_conventions - None
+major: terminology/locale_conventions - None
+critical: terminology/locale_conventions - None
+```"
+388,充电开机使用前，请先撕掉左右耳机充各点处的网几，将充电盒及耳机充满电。,"Before use, please remove the protective film from the charging contacts on the left and right earbuds, and fully charge the charging case and earbuds.","```
+MQM annotations:
+Terminology errors:
+minor: [terminology/no-error] - None
+```"
+390,充电盒未充满电充电指示灯红灯长亮，充满电后充电:3 指示灯熄灭。,"When the charging case is not fully charged, the charging indicator light stays solid red; when fully charged, the indicator light turns off.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+403,自动连接: 局对移两只耳机从充时盒外十.,Automatic connection: Automatically connect when both earbuds are removed from the charging case.,"```
+MQM annotations:
+Terminology errors:
+No-error: [terminology/none] - None
+```"
+405,随后红和白灯恢六. 左右囊如自过串联 .,"Subsequently, the red and white lights recover/reset. The left and right bags/capsules [lights?] are connected as if passing through series.","```
+MQM annotations:
+Accuracy Errors
+major: terminology/inappropriate for context - ""bags/capsules"" is likely an incorrect term for ""囊"" in the context of lights being connected in series. A term like ""housings"", ""units"", or simply ""lights"" would probably be more appropriate, although the source text itself is unclear.
+minor: accuracy/mistranslation - ""recover/reset"" for ""恢六"" is a reasonable guess, but the source ""恢六"" is likely corrupt (possibly should be 恢复 - recover/restore).
+minor: fluency/grammar - ""connected as if passing through series"" is awkward phrasing, potentially due to interpreting the unclear source segment ""如自过串联"". A more standard phrasing would be ""are connected in series"".
+```"
+406,"待左/右耳机白灯懈 闪时. 打开设备否牙搜索 “RedmIArDots2 ""并点击完连溶。","When the white light on the left/right earbud flashes slowly, open the device's Bluetooth, search for ""RedmIArDots2"", and tap to complete the connection.","```
+MQM annotations:
+Terminology errors:
+[Major]: [WRONG TERM] - The product name ""RedmIArDots2"" appears to be a misspelling or OCR error from the source, likely intended to be ""Redmi AirDots 2"". Assuming ""Redmi AirDots 2"" is the correct glossary term, the translated term contains capitalization and potential character errors.
+```"
+407,首次连接后. 囊志开机可自动回连上一次配对设备(蓝牙需开启)。,"After the first connection, the device will automatically reconnect to the last paired device when powered on (Bluetooth needs to be enabled).","```
+MQM annotations:
+Accuracy Errors
+minor: [terminology/locale_conventions/no-error] - None
+major: [terminology/locale_conventions/no-error] - None
+critical: [terminology/locale_conventions/no-error] - None
+```"
+412,"单耳 / 双耳自由切换; 两只耳机连接成功后即为双丁连接; 将任一耳机放回充电盒关机, 另一只耳机进入单耳模式, 重新取出即可自动恢复双耳模式 。","Seamless switching between single and dual ear modes. Once both earbuds are successfully connected, they enter stereo mode. Place either earbud back into the charging case to turn it off, and the other earbud will switch to mono mode. Taking the earbud out again automatically restores stereo mode.","```
+MQM annotations:
+Terminology errors:
+[minor]: [WRONG TERM] - The translation uses ""dual ear modes"" in the first sentence and ""stereo mode"" in the second and fourth sentences for the same source concept (双耳). While ""stereo"" is contextually correct, using two different terms for the same concept introduces inconsistency. Sticking to one defined term (""dual ear mode"" or ""stereo mode"") would be preferable if a glossary existed.
+[minor]: [WRONG TERM] - The translation uses ""single ear modes"" in the first sentence and ""mono mode"" in the third sentence for the same source concept (单耳). Similar to the point above, while ""mono"" is contextually correct, the inconsistency with ""single ear mode"" should be avoided by choosing one term.
+```"
+415,如果耳机无法正常连接使用，请参照以下方式重置,"If the headphones fail to connect or work properly, please reset them according to the following method.","```
+MQM annotations:
+Terminology errors:
+critical: none
+major: none
+minor: none
+```"
+416,耳机: 将耳机拿出充电盒， 在关机状态下， 分别长按两只耳机多功能键15 秒 ，至红白灯交替闪烁3 次后，松开并放回充电盒即可(清除耳机与手机的连授记录)。,"Earbuds: Take the earbuds out of the charging case. With the earbuds powered off, press and hold the multi-function buttons on both earbuds simultaneously for 15 seconds until the red and white lights flash alternately 3 times. Then, release the buttons and place the earbuds back into the charging case (this clears the pairing record between the earbuds and the phone).","```
+MQM annotations:
+Terminology errors:
+No-error: None - No terminology errors were found in the translation based on the provided guidelines.
+```"

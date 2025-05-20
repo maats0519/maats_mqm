@@ -1,0 +1,505 @@
+index,original,translated,locale_convention_annotation
+1,助成金ツアー・県民割旅行ならクラブツーリズム！,"Club Tourism! Subsidy tour, prefectural discount travel.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Club Tourism!"" may not be a familiar or common concept for the target English-speaking audience, as it is a specific Japanese tourism industry term.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""Subsidy tour, prefectural discount travel"" uses a more formal or technical language style that may not be the most appropriate for a general consumer-facing translation."
+2,各都道府県毎の助成を活用したツアーをご紹介。,"Here is the translation from Japanese to English:
+
+We introduce tour packages that utilize subsidies from each prefecture.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""tour packages"" may not be a common or natural way to refer to this type of offering in the target culture."
+6,【比較表】薬剤師転職サイト - 一覧比較表でおすすめ紹介,[Comparison Table] Pharmacist Job Posting Sites - Recommended Introduction with Comparison Table,"MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""comparison table"" may not be a common or intuitive concept for some target audiences, and a more culturally appropriate term could be used.
+[Minor]: [WRONG LANGUAGE VARIETY] - The phrase ""recommended introduction"" may sound more formal or academic than necessary for a general audience looking for job posting sites."
+7,《2022年最新版》薬剤師転職サイトランキング。,The latest 2022 ranking of pharmacist job search websites.,"MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""ranking"" may not be a common or intuitive concept for some target audiences when referring to job search websites."
+14,初めてのフリーランスで不安な集客や確定申告サポートもご用意しています。,We offer support for anxious freelancers with client acquisition and tax filing for the first time.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""client acquisition"" may not be a common concept for the intended target audience, who may be unfamiliar with the specific challenges faced by freelancers.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""tax filing"" may not be the most natural or idiomatic way to express the concept of ""確定申告"" (tax return filing) in the target language and cultural context."
+16,ルミクス脱毛のサロン紹介サイト - 予約数ランキングTOP5,Lumix Hair Removal Salon Introduction Site - Top 5 Reservation Ranking,"MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Top 5 Reservation Ranking"" may not be a familiar concept for the intended English-speaking audience, as reservation rankings are more commonly associated with hotel or restaurant bookings rather than hair removal services.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""Salon"" in the title may not be the most appropriate term for the target audience, as ""Clinic"" or ""Center"" may be more commonly used for hair removal services in English-speaking countries."
+18,早い 短期間 痛くない 熱くないSHR方式のルミクス脱毛サロン予約サイト,"Quick, short-term, painless, non-heating SHR method Lumix hair removal salon reservation site.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Lumix"" may not be familiar to the target audience, as it is a brand name that originated in Japan and may not be widely recognized in other cultural contexts.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""salon"" is commonly used in English, but it may not be the most natural or appropriate term in some target language contexts, where a more localized equivalent may be preferred."
+19,月々1760円からできる歯科矯正 - 【公式】ウィスマイル矯正,"Orthodontic treatment starting from 1,760 yen per month - [Official] Wismile Orthodontics","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""yen"" may not be familiar or relevant to an English-speaking audience, who are more accustomed to seeing prices in their local currency.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""orthodontic"" instead of the more common ""braces"" or ""orthodontics"" may sound overly formal or technical for the target audience."
+20,【1760円から】低価格ではじめるならウィスマイル矯正。,"Orthodontic treatment with Wismile starts at a low price of 1,760 yen.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""yen"" may not be familiar to some English-speaking audiences who are more accustomed to using dollars or other currencies."
+23,1650円のお試しコース受付中。,$16.50 trial course now available.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The use of ""$16.50"" may not be the most culturally appropriate way to express the price in the Japanese context, where the yen is the standard currency."
+25,WEBから24時間予約受付中・格安マウスピース矯正・調整料0円。,"24-hour online reservation available, affordable mouthpiece orthodontics, adjustment fee free.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The term ""mouthpiece orthodontics"" may not be a common or familiar concept for the target English-speaking audience, and could benefit from a more culturally-appropriate description."
+29,不動産のことなら連合隊 - 北見不動産連合隊,Unified real estate team - Kitami real estate unified team.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""unified team"" may not be a common or intuitive phrase for the target English-speaking audience, as it is a more culture-specific concept in the Japanese context.
+[Minor]: WRONG LANGUAGE VARIETY - The use of ""Kitami"" in the translation may not be familiar to the target English-speaking audience, as it is a proper noun referring to a specific location in Japan."
+31,賃貸アパート、マンション、一戸建て。,"Rental apartment, condominium, detached house.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The terms ""rental apartment"", ""condominium"", and ""detached house"" may not be as familiar or commonly used in some cultural contexts, and could benefit from more culturally-appropriate terminology."
+33,地元に密着・写真は最大30枚・無料の物件査定も実施中。,"Local area-focused, up to 30 photos, and free property appraisals are currently available.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""物件査定"" (property appraisal) may not be a commonly used phrase in English-speaking countries and could be unfamiliar to the target audience."
+36,お急ぎ便が使い放題。,Same-day delivery is available unlimited.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Same-day delivery is available unlimited"" may not be a natural or common expression in the target English-speaking culture, as it does not align with typical phrasing for describing delivery services."
+40,ポイントが貯まる・スマホアプリあり・数億種の品揃え。,"Point accumulation, smartphone app available, over hundreds of millions of product selection.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""point accumulation"" may not be a familiar concept for some target audiences, and the reference to a ""smartphone app"" may not be relevant or accessible to all users.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""over hundreds of millions of product selection"" may sound unnatural or awkward in the target language, as it does not align with the typical phrasing used to describe product selection."
+45,あの人気漫画を今こそ一気読み。,"That popular manga, now is the time to read it all at once.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""one at a time"" may not be a common or natural expression in the target Japanese culture, and could be perceived as slightly awkward or unnatural."
+46,全作品試し読みアリ・買うよりお得。,"All works available for sample reading, more affordable than buying.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""All works available for sample reading, more affordable than buying"" may not be a common or natural way to express this concept in English. The phrasing sounds slightly unusual or formal for the intended audience."
+50,クチコミ情報も満載です。,Word-of-mouth information is also full.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""Word-of-mouth information"" may not be a common or natural way to express the idea of customer reviews in the target English-speaking culture."
+51,タイムセールや限定プランも。,Time sale and limited plans.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""Time sale and limited plans"" may not be a common or natural way to refer to such promotions in the target English-speaking culture."
+52,自宅で簡単予約・ビジネスホテルが充実・プラン充実・会員登録でポイント貯まる。,"Easy reservation at home, well-equipped business hotels, abundant plans, and accumulate points with membership registration.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The phrase ""business hotels"" may not be a common term or concept for some target audiences, and could be better expressed using more general language about hotel accommodations.
+[Minor]: [culture-specific reference] - The mention of ""membership registration"" and ""accumulating points"" may not be a familiar or relevant concept for all target audiences, and could be explained in more general terms."
+54,端子台 貫通をこの価格で買える通販モノタロウ。,Terminal block through-hole can be purchased at the online store Monotaro at this price.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Monotaro"" may not be familiar to the English-speaking audience, as it is a Japanese online store."
+56,端子台 貫通の通販。,Terminal block through-type online shopping.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""terminal block"" may not be familiar or intuitive for the general online shopping audience, who may be more accustomed to simpler product descriptions.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""online shopping"" may not be the most natural or common expression in the target language and cultural context, where alternative terms may be more appropriate."
+59,紀伊御坊駅の格安ホテル - 【じゃらん】公式サイト,Affordable hotels near Kii-Gobo Station - Official site of [Jalan],"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Jalan"" may not be familiar to the English-speaking audience, as it is a Japanese travel website."
+62,【紀伊御坊駅】のホテル・旅館を予約するならじゃらん。,"Here is the translation:
+
+Book hotels and inns near Kii-Gobo Station on Jalan.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The phrase ""on Jalan"" may not be familiar to the target English-speaking audience, as Jalan is a term more commonly used in Southeast Asian countries."
+63,じゃらん限定・格安プランも充実。,Abundant discounted plans exclusive to Jalan.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Jalan"" may not be familiar to the target English-speaking audience, as it is a Japanese travel website brand."
+64,会員登録でポイント貯まる・当日予約OKの宿多数・お得なクーポン配布中。,"Many accommodations where you can accumulate points by registering as a member, accept same-day reservations, and distribute discount coupons.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""accommodations"" may not be a common term for the target audience and could be replaced with a more familiar term like ""hotels"" or ""lodgings"".
+[Minor]: [culture-specific reference] - The concept of ""same-day reservations"" may not be as common or expected in the target culture, and could be rephrased to be more accessible.
+[Minor]: [culture-specific reference] - The mention of ""discount coupons"" may not resonate with the target audience in the same way, and could be reframed as ""special offers"" or ""promotions""."
+65,入力簡単60秒で無料査定依頼 - 路線価・地価の相場を調べるなら,"Easy input, free appraisal request in 60 seconds - If you want to check the market price and land price.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""free appraisal request in 60 seconds"" may not be a common or intuitive way to request a property appraisal in the target culture, and could be seen as overly direct or impersonal.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""If you want to check the market price and land price"" may sound more formal or technical than typical language used for this type of service in the target culture."
+66,マンション・土地・一戸建ての無料売却査定が可能。,"Possible free real estate appraisal for condominiums, land, and detached houses.","MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The term ""condominium"" may not be a common real estate term in some cultures, and ""detached houses"" may be more familiar as ""single-family homes""."
+67,エリアから価格相場の把握ができます。,You can grasp the price range from the area.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""price range"" may not be a common way to express the concept of ""price market"" in the target Japanese culture."
+68,不動産売却のお悩みはプロが解決！,Real estate sale worries are solved by professionals!,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Real estate sale worries are solved by professionals!"" may not resonate well with the target audience, as the concept of ""real estate sale worries"" and the role of ""professionals"" in solving them may not be a common cultural reference.
+[Minor]: WRONG LANGUAGE VARIETY - The translation uses a more formal or business-oriented tone that may not be the most appropriate for the target audience, who may prefer a more conversational or colloquial style."
+71,マンションの売却・査定・最適な売却プランをご提案・売主様へ安心サポート。,"Proposal of the optimal sales plan, assessment, and sale of the condominium. Providing peace of mind support to the seller.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""condominium"" may not be a common or familiar concept in the target audience's cultural context, and a more localized term may be more appropriate.
+[Minor]: [WRONG LANGUAGE VARIETY] - The use of the term ""sale"" instead of a more common term for the transaction in the target audience's language variety may sound slightly out of place."
+75,ダイキン エアコン お客様 センター見つけましょう。,Daikin air conditioning customer center.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""customer center"" may not be a common or natural way to refer to a customer service or support department in the Japanese cultural context."
+78,来場予約キャンペーン実施中 - 都市型狭小3階建てモデルハウス,Come and visit campaign in progress - Urban compact 3-story model home.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""model home"" may not be a familiar concept for the target audience, as the cultural understanding of housing and home-buying may differ.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""come and visit"" may sound more natural in a different English variety, such as British English, compared to the more formal ""come and visit"" in American English."
+83,ITツールを駆使し業務コストを削減し、リーズナブルな価格でのサービス提供を実現,Utilizing IT tools to reduce business costs and realize the provision of services at reasonable prices.,"MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""utilizing IT tools"" may not be a common or easily understandable concept for some target audiences, especially those less familiar with technology.
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""business costs"" may not resonate equally with all target audiences, as the concept of business operations and costs can vary across cultures."
+92,どうしても今すぐお金が必要 - 【厳選3社】即日キャッシング,I need money urgently right now.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""I need money urgently right now"" may come across as too direct or urgent for the target audience, as it does not align with typical Japanese cultural norms of being more indirect or polite when discussing financial needs.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""I need money urgently right now"" may sound more natural in a more casual or colloquial register, whereas the Japanese source text appears to be using a more formal or business-oriented style."
+98,レストラン予約するなら一休.com、お店の口コミも掲載。,"Restaurant reservations can be made on Ikyu.com, which also features reviews of the establishments.","MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The term ""Ikyu.com"" may not be familiar to the English-speaking audience, as it is a Japanese website for restaurant reservations."
+102,幸せウエディングを叶える情報満載／結婚式準備はゼクシィ。,"""Information-packed for realizing a happy wedding / Prepare for your wedding with Zexy.""","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Zexy"" may not be familiar or appropriate for an English-speaking audience, as it is a brand name specific to the Japanese wedding industry."
+107,ゴールドカードはメリットばかり！,Gold card is all benefits!,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Gold card is all benefits!"" may not be culturally appropriate or understandable for some target audiences, as the concept of a ""gold card"" and its associated benefits may not be a common or well-understood concept in all cultures."
+110,自宅用のホームルーターをお探しの方必見！,Home router for home use must-see!,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Home router for home use must-see!"" may not be a natural or common way to advertise home routers in the target English-speaking audience. The use of ""must-see"" has a strong marketing tone that may not resonate well with the intended audience."
+112,置くだけで使えるWiFiも！,Plug-and-play WiFi too!,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""plug-and-play"" may not be a familiar concept for some target audiences and could be replaced with a more culturally appropriate expression."
+115,蒲田イン ソーシャル- トリップアドバイザー,Kamata Inn Social - TripAdvisor,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Social"" in the translation may not be a common or intuitive way to refer to an inn or hotel in the English-speaking context, as it typically has different connotations related to social media or social activities.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""Inn"" in the translation may not be the most natural or common way to refer to this type of accommodation in English, as ""Hotel"" or ""Lodging"" may be more widely recognized."
+119,ショートが似合うか不安な方でもしっかりとカウンセリングして似合わせをいっしょに考えます。,"A person who is unsure if a short hairstyle would suit them can receive thorough counseling, and we will consider together what style would be most suitable.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""a person who is unsure if a short hairstyle would suit them"" may not be a common or natural way to express this sentiment in English. It could be more natural to say ""someone who is unsure if a short hairstyle would look good on them.""
+[Minor]: WRONG LANGUAGE VARIETY - The use of the phrase ""receive thorough counseling"" has a more formal or clinical tone that may not be the most appropriate language register for a hair salon context. A more conversational phrasing like ""we'll discuss it with you"" or ""we'll help you figure it out"" could be more suitable."
+124,ロハコ限定、くらしになじむデザインが多数。,"Rohaco limited, many designs that fit into your lifestyle.","MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""Rohaco"" may not be familiar to the target English-speaking audience, as it is a Japanese-specific brand name."
+125,最短翌日お届け、PayPay決済対応。,"Next-day delivery, PayPay payment accepted.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""PayPay"" may not be familiar to English-speaking audiences outside of Japan."
+127,都心へのマルチアクセスを叶えるタワーレジデンス。,A tower residence that provides multi-access to the city center.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""tower residence"" may not be a common or familiar concept for the target audience, as the cultural understanding of residential living can vary across different regions."
+128,4路線利用できる‘目黒’駅に誕生。,"Meguro Station, where you can use 4 train lines, has been born.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""has been born"" may not be a natural or idiomatic way to describe the opening of a new station in the target English-speaking audience's cultural context."
+129,野村不動産グループ×JR東日本グループ開発エリア【MEGURO MARC】の32階建タワー。,"Meguro Marc, a 32-story tower developed by the Nomura Real Estate Group and the JR East Japan Group.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""MEGURO MARC"" may not be familiar to English-speaking audiences who are not familiar with Japanese real estate developments.
+[Minor]: WRONG LANGUAGE VARIETY - The use of ""JR East Japan Group"" may not be the most natural way to refer to the railway company in English, as ""JR East"" or ""East Japan Railway Company"" would be more common."
+132,続くから変われる、人生を変える英会話の力をあなたへ。,"Your life can change through the power of English conversation, because it continues to evolve.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""your life can change"" may sound overly dramatic or clichéd to some English-speaking audiences, as it could be perceived as an exaggerated or unrealistic promise.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""the power of English conversation"" may sound more formal or academic than the typical language used in conversational English."
+136,クラウド電話を1内線200円から - 【公式】サテライトオフィス,Cloud phone from 200 yen per extension.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""extension"" may not be a common or intuitive concept for the target audience, as cloud phone services and pricing structures can vary significantly across cultures and regions.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""from 200 yen per extension"" may sound overly technical or formal for the intended audience, and a more natural, conversational style may be more appropriate."
+145,glovesdepoを探すなら、日本最大級通販ショップ楽天市場。,"Rakuten Ichiba, Japan's largest online shopping mall, is where you can find glovesdepot.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The term ""Rakuten Ichiba"" may not be familiar to all English-speaking audiences, as it refers to a specific Japanese online shopping platform."
+148,目黒 恵比寿 五反田エリアで顧問弁護士をお探しなら目黒国際法律事務所。,"Meguro, Ebisu, and Gotanda area, if you are looking for a legal counsel, Meguro International Law Office.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""顧問弁護士"" (legal counsel) may not be a common or familiar term for the target English-speaking audience."
+151,若手弁護士がフットワーク軽く迅速に対応します。,The young lawyer will respond quickly and nimbly.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""フットワーク軽く"" (light footwork) may not be a common expression in English and could be perceived as unusual or unfamiliar to the target audience."
+152,20代～シニアまで申込める保険 - 【生命保険】はなさく生命,Life insurance for ages 20s to seniors - Hanasaku Life.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Life insurance"" may not be a common or familiar concept for some target audiences, especially those unfamiliar with the insurance industry.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""Hanasaku Life"" may not be appropriate for all English-speaking audiences, as it retains a Japanese-sounding name that could be unfamiliar or confusing."
+161,素肌が喜ぶ、FOOD(食べもの)から生まれた化粧品。,Skincare products born from FOOD.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""FOOD"" may not be a common or intuitive way to refer to food products in the target English audience. A more natural term like ""food-derived"" or ""food-based"" may be more appropriate."
+162,食べてカラダにいいFOODをお肌にも！,"Eat foods that are good for your body, and also for your skin!","MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The phrase ""FOOD"" in the English translation may not be as natural or common as the Japanese term ""食べもの"" (tabemono) which more directly translates to ""food"" or ""things to eat"". The use of the English word ""FOOD"" in all capital letters may appear unusual or out of place for the target English-speaking audience."
+164,特別セールやキャンペーンをお見逃しなく。,Don't miss out on special sales and campaigns.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""special sales and campaigns"" may not be a common or natural way to express this concept in the target language and culture."
+165,韓国で人気のスキンフード・韓国コスメのスキンフード・SKINFOOD公式通販。,Skinfood - popular Korean skincare brand. Official Skinfood online store.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Skinfood"" may not be familiar to all English-speaking audiences, as it is a Korean skincare brand."
+166,【広島】ホットヨガTOP3 - 人気No1のホットヨガスタジオ,"Here is the translation from Japanese to English:
+
+【Hiroshima】Top 3 Hot Yoga - The most popular No. 1 Hot Yoga studio","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Hot Yoga"" may not be familiar or have the same cultural connotations for an English-speaking audience outside of the yoga/fitness community.
+[Minor]: WRONG LANGUAGE VARIETY - The use of ""No1"" instead of ""No. 1"" or ""Number 1"" is more typical of an informal or colloquial English style, which may not be appropriate for a formal business or informational context."
+169,お得なキャンペーン中,Limited-time special offer.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""Limited-time special offer"" may not be a common way to express a promotional campaign in the target Japanese culture, where more indirect or subtle language is often preferred."
+175,活力サポートサプリ・テストフェン配合・スーパーマカ配合。,Vitality support supplement - containing TestoFen - containing Super Maca.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The term ""TestoFen"" may not be familiar to the target audience and could be perceived as jargon.
+[Minor]: culture-specific reference - The term ""Super Maca"" may not be widely recognized by the target audience and could be seen as an unfamiliar cultural reference."
+177,【東京23区】で一戸建て探しならオープンハウス。,Open House for detached house search in the 23 wards of Tokyo.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Open House"" may not be a common concept or practice in the Japanese cultural context, and could be unfamiliar to the target audience."
+180,厳選した大泉学園の一戸建てを掲載中。,Detached houses in Oizumi Gakuen are now available for viewing.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The term ""Oizumi Gakuen"" may not be familiar to the target English-speaking audience, as it refers to a specific location in Japan."
+186,宿泊&航空券をあんしん予約。,Secure reservation for accommodation and airline tickets.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""secure reservation"" may not be a common or natural way to express the idea of making a reservation for accommodation and airline tickets in the target English-speaking audience."
+196,モテ髪ヘアカタログ・人気サロンをネット予約・ネット予約でポイントGet。,"Hair catalog for attracting attention, popular salon online reservation, get points by online reservation.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""モテ髪"" (motehage) is a Japanese slang term that refers to hairstyles that are attractive or popular for attracting romantic attention. This cultural reference may not be easily understood by an English-speaking audience.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""ネット予約"" (net yoyaku) is a Japanese expression for ""online reservation"". This may not be a natural or common way to express the concept of online reservation in English."
+198,クチコミ比較、最安値予約、現地払い。,"Word-for-word translation:
+Word-of-mouth comparison, lowest price reservation, on-site payment.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The terms ""word-of-mouth comparison"" and ""on-site payment"" may not be familiar or common in the target English-speaking audience, as they are more specific to the Japanese context.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""reservation"" is more commonly used in American English, while ""booking"" may be more appropriate for the target audience."
+204,全国のビューティーサロンの検索、空席確認、ネット予約。,"Beauty salon search, vacancy check, and online booking across Japan.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""beauty salon"" may not be a common or natural way to refer to such establishments in some cultures, and a more localized term may be more appropriate.
+[Minor]: [WRONG LANGUAGE VARIETY] - The phrase ""across Japan"" may not be the most natural way to express the geographical coverage in some target languages, and a more localized expression may be more appropriate."
+206,理想の照明がない… - 取扱いブランド数、日本最大級,"""There is no ideal lighting...""","MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""日本最大級"" (Japan's largest) may not be immediately clear or relevant to a non-Japanese audience."
+209,各種カード、ポイント還元・日本最大級2万点の品ぞろえ。,"A wide variety of cards, point redemption, and Japan's largest selection of over 20,000 items.","MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The term ""point redemption"" may not be familiar or commonly used in the target English-speaking audience.
+[Minor]: culture-specific reference - The reference to ""Japan's largest selection of over 20,000 items"" may not resonate with the target audience, as the scale and significance of this selection may not be immediately clear to non-Japanese readers."
+214,"【公式】ヴァージンクリニック - 全身医療脱毛5回88,000円／京都","Virgin Clinic - Full-body medical hair removal 5 times 88,000 yen / Kyoto","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Virgin Clinic"" may be inappropriate or confusing for the target audience, as it could be interpreted as a reference to a person's sexual history rather than a medical clinic.
+[Minor]: WRONG LANGUAGE VARIETY - The use of ""yen"" as the currency unit may not be the most appropriate choice for an English-speaking audience, as the more common currency unit in English-speaking countries is typically the dollar or pound."
+217,追加料金も0円で安心,"Additional fees are also 0 yen, so you can rest assured.","MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""rest assured"" may not be a common or natural expression in the target Japanese culture, and could be perceived as overly formal or unfamiliar."
+218,幕張本郷 口コミ第1位の整体院 - 多くの専門家が絶賛する技術,"Makuhari Honcho, the No. 1 osteopathic clinic in word-of-mouth - Highly praised techniques by many experts.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""osteopathic clinic"" may not be familiar or appropriate for the target audience, as the concept of osteopathy may not be widely known outside of certain medical contexts.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""word-of-mouth"" in the translation may not be the most natural or idiomatic way to express the concept in the target language, and a more localized expression may be more appropriate."
+232,料金も時間も節約しよう。,Save on both cost and time.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""Save on both cost and time"" may not have the same cultural connotations in the target audience as in the source language. A more culturally appropriate translation may be needed."
+234,お気に入りの宿を特別料金で。,Your favorite accommodation at a special rate.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""your favorite accommodation"" may not be a common or natural way to refer to lodging in the target culture, and could come across as overly formal or impersonal.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""special rate"" could be interpreted differently depending on the regional variety of English used, and may not match the intended tone or expectations of the target audience."
+238,自分で淹れたおいしい一杯を味わいながら、プロの技をマスター。,Savor a delicious cup that you brewed yourself while mastering the techniques of a professional.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""master the techniques of a professional"" may not be easily understood by all target audiences, as the concept of ""mastering professional techniques"" may not be a common goal or aspiration for some cultural contexts."
+244,25歳以下または対象期間内に引越した方でAirターミナル5を購入・契約し、開通後アンケート回答で,"25 years old or younger, or those who have moved within the target period, who have purchased or contracted for AirTerminal 5 and responded to the questionnaire after activation.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""25 years old or younger, or those who have moved within the target period"" may not be a common or intuitive way to describe the target audience in some cultures.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""AirTerminal 5"" may not be a familiar product name in all target language contexts and could benefit from additional context or explanation."
+246,3層タイプのプリーツマスクで、オメガ形状のプリーツが大きく広がり、鼻や口を圧迫しにくく、呼吸しやすくなっています。,"The pleated mask is of a 3-layer type, with large, wide omega-shaped pleats that do not easily press against the nose or mouth, making it easy to breathe.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""omega-shaped pleats"" may not be familiar to all target audiences and could benefit from further explanation or a more common descriptor."
+248,10枚/袋×2袋で包装しており、持ち運び便利な仕様です。,"20 sheets per package, packaged for easy portability.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""per package"" may not be a common way to refer to packaging in the target culture, where ""per bag"" or ""per box"" may be more natural."
+249,ゴム紐は6mmの平ゴム形状なので、耳への当たりが柔らかく、よくある耳の痛みも軽減してくれます。,"The rubber band has a flat rubber shape of 6mm, so it is soft on the ears and can reduce the common ear pain.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""rubber band"" may not be a common or intuitive way to refer to this type of product in some cultures. A more culturally appropriate term may be needed."
+263,※A4 5冊入の商品に掲載の画像は新しいパッケージの商品です。,The image shown is of the new package of the product that comes in a set of 5 A4-sized items.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The use of the term ""A4"" may not be immediately clear to all target audiences, as paper sizes can vary across different regions."
+264,以前のパッケージ商品の用紙と仕様は同一です。,The paper and specifications of the previous packaged product are the same.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""the previous packaged product"" may not be a common or natural way to refer to past products in the target audience's cultural context."
+266,箱に記載されている注文コードと500枚入の包装紙記載の注文コードは異なります。,The order code printed on the box is different from the order code printed on the 500-sheet packaging paper.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The order code is a technical term that may not be familiar to all readers, and the specific details about the packaging may not be relevant or understandable to the general audience."
+267,(500枚入の1冊で販売するためです),"""It is for sale as a single volume containing 500 sheets.""","MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""500 sheets"" may not be a common way to refer to the number of pages in a book for the target audience, as they may be more familiar with terms like ""pages"" or ""leaves""."
+270,ブレーキライニングやブレーキドラムや機械部品等に付着したオイルやグリース等の汚れをきれいに落としブレーキ装置から発生する様々な粉塵を空気中に飛散させることなく、油脂類やカーボン等の汚れを素早くきれいに落とします。,"The dirt such as oil and grease attached to brake linings, brake drums, and mechanical parts is thoroughly removed, and the various dusts generated from the brake system are prevented from scattering into the air, quickly and cleanly removing oil, grease, and carbon deposits.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""brake linings"" and ""brake drums"" may not be familiar to all target audiences and could be replaced with more general terms like ""brake components"" or ""brake parts"".
+[Minor]: [culture-specific reference] - The reference to ""mechanical parts"" may not be immediately clear to all readers and could be rephrased using more common terminology.
+[Minor]: [culture-specific reference] - The mention of ""oil, grease, and carbon deposits"" may require additional context for some readers who are not familiar with automotive terminology."
+271,又、オゾン層の破壊や環境汚染の原因となるフロン及びトリクロロエタンを一切含まない有機溶剤中毒予防規則適用外の洗浄剤です。,"It is a cleaning agent that is not subject to the Organic Solvent Poisoning Prevention Regulation, and does not contain any chlorofluorocarbons or trichloroethane, which are the causes of ozone layer depletion and environmental pollution.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Organic Solvent Poisoning Prevention Regulation"" may not be familiar to the target audience and could benefit from additional context or explanation."
+274,缶の逆さ使用OK。,Upside-down use of the can is okay.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [culture-specific reference] - The phrase ""Upside-down use of the can is okay"" may be unusual or confusing for some target audiences, as the cultural context around can usage may vary."
+276,ニトリルゴム手袋 極薄 粉なし ブルー色 100枚入,"Nitrile rubber gloves, ultra-thin, powder-free, blue color, 100 pieces.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""nitrile rubber gloves"" may not be a commonly used or familiar term for the target audience, and could benefit from a more common or descriptive term.
+[Minor]: [WRONG LANGUAGE VARIETY] - The use of ""color"" instead of the more common ""colour"" spelling may not align with the expected language variety of the target audience."
+277,柔らかく手にピッタリフィットするので、長時間の細かな作業に適しています。,Fits snugly in the hand and is suitable for long periods of detailed work.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""fits snugly in the hand"" may not be a common expression in the target culture and could be perceived as slightly unusual."
+279,便利な左右兼用タイプのためムダなくお使いいただけます。,You can use it without waste as it is a convenient ambidextrous type.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [culture-specific reference] - The term ""without waste"" may not be a common or natural expression in the target English audience, as it is a more literal translation of the Japanese source."
+283,※体質によっては、かゆみ、かぶれ、発疹等をおこすことがあります。,"May cause itching, rash, or other skin irritations, depending on individual constitution.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""May cause itching, rash, or other skin irritations, depending on individual constitution"" may not be a common or natural way to express this concept in English. It could be rephrased in a more audience-appropriate manner."
+286,膨潤、浸透、老化することがあります。,"It may swell, penetrate, and age.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The terms ""swell, penetrate, and age"" may have different connotations or be interpreted differently in the target culture, potentially causing confusion or discomfort for the audience."
+289,※爪先、刃物や尖ったもの等で傷をつけないよう注意してください。,"Be careful not to scratch yourself with your fingertips, sharp objects, or pointed items.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""fingertips, sharp objects, or pointed items"" may not be a common way to refer to potential sources of injury in the target culture, and a more natural phrasing may be more appropriate."
+290,水漏れの原因になります。,The cause of water leakage.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the cause of water leakage"" may not be a natural or common way to express the concept in the target English-speaking culture, where more idiomatic expressions like ""the source of a water leak"" or ""the reason for a water leak"" would be more appropriate."
+295,サイズが一目瞭然のデザイン。,The design is self-evident in size.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""self-evident in size"" may not be a natural or idiomatic way to express the intended meaning in English. It could be more appropriate to use a more common expression that conveys the same idea."
+299,※電池のアルカリ液が目に入ったときは失明などのおそれがあるので、すぐに多量のきれいな水で洗い流し、 医師の治療を受ける。,"If the alkaline battery liquid gets into the eyes, there is a risk of blindness, so immediately rinse with a large amount of clean water and receive medical treatment.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""失明などのおそれがある"" (risk of blindness) may be too technical or medical-sounding for a general audience and could be rephrased in a more accessible way."
+306,※この電池は充電式でないので、充電すると液漏れ、発熱、破裂のおそれがある。,"This battery is not rechargeable, so charging it may cause leakage, overheating, or explosion.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""liquid leakage, overheating, and explosion"" may be too technical or alarming for some general audiences and could be perceived as overly negative or fear-inducing.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""so charging it may cause"" is slightly more formal than typical consumer-facing language, which may not align with the expected tone for a product warning."
+315,着け具合も柔らかくフィット感のある軍手です。,It is a work glove that fits softly and comfortably.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""work glove"" may not be a common or familiar reference for the target audience, and a more culturally appropriate term could be used."
+318,※回転体を伴う機械作業では、使用しないでください。,Do not use for machinery operations involving rotational bodies.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""rotational bodies"" may not be easily understood by the general audience and could benefit from a more common or descriptive term."
+321,マスキングテープ 高品質 和紙基材,"Masking tape, high quality, Japanese paper-based.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""masking tape"" may not be a familiar concept for some English-speaking audiences, who may be more accustomed to the generic term ""tape."""
+323,のり残りが少なくタテ裂けが起こりにくいです。,The nori (seaweed) residue is minimal and vertical tearing is less likely to occur.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The term ""nori"" may not be familiar to all English-speaking audiences, and a more general term like ""seaweed"" could be more appropriate."
+324,※被着体、塗料の種類によっては貼り跡やのり残りが発生する場合がありますので、問題がないことを確かめてからご使用下さい。,"Please check that there are no issues before use, as adhesive residue or staining may occur depending on the surface and type of paint.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""adhesive residue or staining"" may not be a common or easily understandable term for the target audience, as it refers to a technical concept that may not be familiar to general consumers.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the phrase ""please check that there are no issues before use"" may sound more formal or technical than necessary for a consumer-facing instruction."
+329,※ティシューは水に溶けにくいため、水洗トイレには流さないでください。,"Please do not flush tissues down the water-flushing toilet, as they do not dissolve easily in water.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""water-flushing toilet"" may not be a common term in some cultures and could be replaced with a more universal term like ""flush toilet""."
+331,※引火の原因になりますので、火気の近くに置かないでください。,Do not place it near open flames as it may cause ignition.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [culture-specific reference] - The phrase ""fire"" may not be a common or intuitive way to refer to open flames in some cultures, and ""open flames"" may be a more appropriate term."
+334,プロユーザーにも安心してご使用いただける品質の、弱粘着タイプ養生テープです。,It is a low-tack masking tape that can be used with confidence by professional users as well.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""professional users"" may not be a common or familiar phrase for the target audience, and could be replaced with a more widely understood term."
+339,手で簡単にカットできる養生用ポリエチレンクロステープで耐候性・耐水性に優れています。,The polyethylene cross tape for protection is easy to cut by hand and has excellent weather and water resistance.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""polyethylene cross tape"" may not be familiar to all target audience members and could benefit from further explanation or a more common term."
+340,再はくり性が良好です。,Good repeatability.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""Good repeatability"" may not be a common or natural way to express the concept in the target English audience. A more natural phrasing could be ""Repeats well"" or ""High repeatability""."
+341,※貼る対象物や使用環境によっては、粘着力等数値通りの値が出ない場合がございます。,"The adhesive strength and other values may not be as indicated, depending on the object to be attached and the usage environment.","MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The phrase ""粘着力等数値通りの値が出ない"" may not be easily understood by an English-speaking audience, as it refers to a specific technical concept related to adhesive strength that may not be common knowledge outside of the Japanese context."
+349,※養生後、テープを早く剥すと破断する恐れがありますので、ゆっくり剥してください。,Remove the tape slowly as there is a risk of tearing if removed too quickly.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""remove the tape slowly"" may not be a common expression in the target culture, and a more natural phrasing would be preferred."
+350,※粘着剤特有のにおいがありますので、換気の良い所でのご使用をお勧めします。,Please use the product in a well-ventilated area as it has a characteristic adhesive odor.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""characteristic adhesive odor"" may not be a common or natural way to describe the smell of adhesives for the target audience."
+351,※被着体と養生期間によっては、被着体を汚染・損傷する場合がありますので、ご使用前にお確かめください。,"The surface to be applied and the curing period may cause contamination or damage to the surface, so please check before use.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the surface to be applied"" may not be familiar or intuitive for the target audience, as it uses technical language that may not be commonly understood.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""curing period"" is more commonly used in technical or scientific contexts, and may not be the most natural or appropriate language for a general audience."
+356,従来品に比べ耐候性がアップしました。,Weatherability has been improved compared to the conventional product.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""weatherability"" may not be a commonly used or easily understood term for the target audience."
+360,保管する場合は密閉することを推奨します。,It is recommended to store in a sealed container.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""sealed container"" may not be a common or intuitive term for the target audience, and a more culturally appropriate term like ""airtight"" or ""hermetically sealed"" may be more suitable."
+362,※一度ご使用された製品を再度ご使用にされることで、結束力不足により不具合が発生する可能性があります。,The product may malfunction due to insufficient cohesion if used again after initial use.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""insufficient cohesion"" may not be easily understood by the target audience, as it is a technical term that may not be commonly used in everyday language."
+365,※取り付けの際には現車取り付け部に真っ直ぐ取り付け作業を行ってください。,Please install it straight onto the vehicle mounting part.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""straight onto the vehicle mounting part"" may not be a common or natural way to describe the installation process for the target audience. A more audience-appropriate phrasing would be preferred."
+368,現在販売している商品は品質確認済になりますのでご安心してご使用下さい。,"The products currently on sale have undergone quality inspection, so please use them with confidence.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The phrase ""with confidence"" may not be a natural or common way to express the intended meaning in the target English audience."
+369,※当製品は交換作業を整備業者へ依頼して行う事をおすすめします。,We recommend that the replacement work be entrusted to a maintenance service provider.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""maintenance service provider"" may not be a common term in the target Japanese audience and could be more appropriately translated using a more familiar Japanese term for a professional who performs maintenance and repair work."
+370,個人で交換作業を行った場合は補償出来ない場合もございます。,"In the event that the exchange work is carried out individually, there may be cases where compensation cannot be provided.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""補償出来ない"" may not be easily understood by the English-speaking audience, as it refers to a specific cultural context in Japan regarding compensation and liability."
+371,※ネジ寸法が各オイルフィルターで異なっている為、高さや外径などが同じフィルターに見えても取り付け前に再度、車種とネジ寸法をご確認ください。,"The screw dimensions vary for each oil filter, so even if the height and outer diameter appear to be the same as the filter, please reconfirm the vehicle model and screw dimensions before installation.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""screw dimensions"" may not be familiar to all readers and could be rephrased in a more accessible way."
+373,※わずかな違いでも大きなトラブルになる場合がございます。,There may be cases where even a slight difference can lead to a major problem.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""major problem"" may not be a common idiomatic expression in the target culture and could be perceived as slightly unusual."
+378,白メリヤスウエス 中古生地,"White knitted fabric, used.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""used"" may not be the most appropriate way to describe the condition of the fabric for the target audience, as it could imply a negative connotation of the product being worn or damaged.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""knitted fabric"" may not be the most common or natural way to describe this type of material in the target language and cultural context."
+380,ウエス製品の中で優れた製品です。,It is an excellent product among Ues products.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Ues"" may not be familiar to the target audience and could be unclear."
+382,カット済。,Cut.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The translation ""Cut."" may not be as natural or idiomatic as a more contextual English expression for the given Japanese source text."
+390,※用途以外に使用しないでください。,Do not use for purposes other than intended.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""Do not use for purposes other than intended"" may not be a common or natural way of expressing this concept in the target culture, and could be perceived as overly formal or bureaucratic."
+393,ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,Avoid using chemical products as they may cause color fading.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""chemical products"" may not be a common or familiar term for the target audience, and could be better expressed using more everyday language.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""color fading"" may not be the most natural or idiomatic way to express the concept in the target language, and a more common or natural expression may be preferable."
+395,食品に触れる用途には使用しないでください。,Do not use for applications that come into contact with food.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""Do not use for applications that come into contact with food"" may sound overly formal or technical for some target audiences, lacking the natural conversational tone that may be more appropriate."
+398,※ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,Please avoid using chemical products as they may cause color fading.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""chemical products"" may not be familiar or appropriate for the target audience, as it could be interpreted as referring to specific types of chemicals rather than general household or industrial products."
+399,ハンドクリーナー 工業用 オレンジエキス保湿成分配合 スクラブ入り,"Hand cleaner, industrial, with orange extract moisturizing ingredients, with scrub.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""industrial"" may not be appropriate for a general consumer audience and could be perceived as too technical or specialized.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""hand cleaner"" may not be the most natural or common way to refer to this product in English, and a more colloquial term like ""hand soap"" or ""hand wash"" may be more appropriate."
+409,異物感が残る場合は、眼科医にご相談ください。,"If you continue to feel a foreign body sensation, please consult an ophthalmologist.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""foreign body sensation"" may not be a common or intuitive term for the target audience and could be rephrased in a more natural way."
+421,※使用後の本製品の廃棄は、お住まいの各自治体で定められたゴミ廃棄方法に従ってください。,Please dispose of this product after use according to the waste disposal methods specified by your local municipality.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""お住まいの各自治体で定められたゴミ廃棄方法"" may not be easily understood by an English-speaking audience, as the concept of ""local municipality"" and waste disposal methods can vary significantly across cultures."
+422,※袋を閉じる際は結束バンドでしっかり結んでください。,Please securely tie the bag closed with a cable tie.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The use of ""cable tie"" may not be a common term for the target audience and could be replaced with a more familiar term like ""zip tie"" or ""plastic tie""."
+428,※本来の用途以外には使用しないでください。,Do not use for purposes other than the original intended use.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""the original intended use"" may not be a common or natural way to express the intended meaning in the target culture."
+434,※フタが開けにくい際はフタを少し潰す様に押すと開けやすくなります。,The lid can be opened more easily by pressing it down slightly as if flattening it.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""pressing it down slightly as if flattening it"" may not be a common or intuitive way to describe opening a lid in the target English-speaking culture."
+435,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"When disposing of the contents, cleaning waste liquid, or containers, please entrust it to a specialized waste disposal company that has obtained permission from the prefectural government.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""prefectural government"" may not be familiar or relevant to the target audience, who may be more accustomed to referring to local government entities in their own cultural context."
+438,透明度があり加工後も封入物の文字をクッキリ読めます。,"The text translates to:
+
+""It has transparency and the text of the encapsulated material can be clearly read even after processing.""","MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The phrase ""can be clearly read"" may not be a natural or common expression in the target English audience."
+439,※機器には接着加工してあるシール部分から挿入してください。,Please insert from the adhesive-processed seal portion of the device.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Please insert from the adhesive-processed seal portion of the device"" may not be intuitive or natural for the target English audience, as it uses technical jargon that may not be commonly understood outside of the specific context."
+443,※一度加工したシートは再生不能となります。,The sheet once processed becomes irreparable.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""becomes irreparable"" may not be a common or natural way to express the meaning in the target culture, as it sounds more technical or formal than typical language usage."
+450,※工業用の薬品やアルコール、石油製品などには絶対に使用しないで下さい。,"Do not use for industrial chemicals, alcohol, petroleum products, or the like.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""industrial chemicals, alcohol, petroleum products, or the like"" may not be easily understood by all target audiences, as the specific types of products mentioned may vary across cultures."
+451,※熱湯は入れないで下さい。,Do not pour in hot water.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""hot water"" may not be as common or intuitive for the target audience, as cultural preferences and norms around hot water usage may differ."
+455,中身が漏れる恐れがございます。,The contents may leak.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""may leak"" may not be the most culturally appropriate way to express the potential for contents to spill or be released in the Japanese context."
+459,店頭でフックなどに吊り下げることができる便利な穴付きです。,It has a convenient hole that can be hung on hooks or the like at the store counter.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""at the store counter"" may not be a common or intuitive concept for some target audiences, as the layout and organization of retail spaces can vary significantly across cultures."
+460,フック用穴と本体の間はミシン目入りなので、フックに掛けて本体を引っ張れば穴の下から切れて使える構造になっています。,"The space between the hook hole and the main body is perforated, so you can hook it and pull the main body to cut it from the bottom of the hole, making it usable.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""hook it and pull the main body to cut it from the bottom of the hole"" may not be easily understood by the target audience, as it uses a specific technical term (""hook"") that may not be familiar to all readers.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the phrase ""making it usable"" could be perceived as slightly informal or colloquial, which may not align with the expected tone for technical instructions."
+461,表面にエンボス加工入り。,Embossed surface.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""embossed"" may not be a commonly used or understood term in some cultural contexts, and a more plain language description may be more appropriate."
+464,※幼児や子供がかぶって遊ぶと窒息などの危険がありますのでご注意ください。,Please be careful as there is a risk of suffocation if infants or children play by putting it over their heads.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""suffocation"" may be too technical or alarming for the intended audience of parents/caregivers of infants and children."
+465,※高温多湿を避け、火の気のない場所で保管してください。,"Keep in the place away from high temperature and high humidity, and away from fire.","MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""fire"" may not be a common way to refer to open flames in some cultures, and a more culturally appropriate term like ""open flame"" or ""ignition source"" may be preferred."
+481,OPPテープ 透明色,Transparent color OPP tape.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""OPP tape"" may not be familiar to all English-speaking audiences, as it is a specific type of tape used in certain industries or regions."
+482,梱包用テープとして、価格も安く強度も強い為、良く使われています。,Packing tape is widely used because it is inexpensive and has high strength.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""packing tape"" may not be a common term in the target audience's cultural context, and a more familiar term or description may be more appropriate."
+487,※梱包用途以外の使用は避けてください。,Please avoid using for purposes other than packaging.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""Please avoid using for purposes other than packaging"" may sound overly formal or impersonal for some target audiences, and a more natural phrasing may be more appropriate."
+488,貼る面を損傷する場合がございます。,May cause damage to the surface to be applied.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""May cause damage to the surface to be applied"" is a direct translation that may not be culturally appropriate or easily understandable for the target English-speaking audience. A more natural and audience-appropriate phrasing would be needed."
+492,※物性は測定値であり、規格値或いは保証値でありません。,The physical properties are measured values and not specification values or guaranteed values.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""specification values or guaranteed values"" may not be a common or natural way to express this concept in English for the general audience."
+499,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"When disposing of the contents, cleaning waste liquid, or containers, please entrust it to a specialized waste disposal company that has obtained permission from the prefectural government.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""都道府県"" (prefectural government) may not be familiar or easily understood by an English-speaking audience, as it refers to a specific administrative division in Japan.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""entrust"" may not be the most natural or common choice in this context, and a more colloquial term like ""hire"" or ""contract"" may be more appropriate for the target audience."

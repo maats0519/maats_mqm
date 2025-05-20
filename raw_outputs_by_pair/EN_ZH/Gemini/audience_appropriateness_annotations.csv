@@ -1,0 +1,388 @@
+index,original,translated,locale_convention_annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.",对我来说，这是一个相当大的假设，因为它只是用一个Direct3D对象创建视口，而不是Direct3D3对象。,"```
+MQM annotations:
+audience appropriateness error:
+minor: culture-specific reference/technical jargon - The terms ""Direct3D object"" and ""Direct3D3 object"" are technical jargon and while accurately translated, might not be easily understood or relevant for a general audience in all Chinese-speaking contexts. Without further context, it's difficult to determine if they need further explanation or adaptation.
+```"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",某些事实，例如关于亚原子粒子的事实，只能通过在资本主义下才有可能进行的实验才能产生，因为这些实验需要过多的资源、过多的组织和过多的强制力，否则无法完成。,"MQM annotations:
+minor: style/awkward - The phrase ""过多的强制力"" (too much coercion) might be interpreted negatively in Chinese, depending on the context and audience. While a literal translation, it can carry connotations of authoritarianism or oppression, even in the context of scientific research. While not inherently inappropriate, it would benefit from being rephrased for certain audiences."
+14,Picking this up this weekend.,这个周末去取。,"MQM annotations:
+minor: style/general - The translation is a bit too literal. While accurate, it lacks a more natural flow for everyday conversation in Chinese. A more natural translation might include context or clarify the object being picked up."
+15,I was looking for a good first car guy car; and I really love the 80s aesthetic.,我在找一辆不错的入门级“男人味”汽车，而且我真的很喜欢80年代的审美。,"MQM annotations:
+audience appropriateness error:
+minor: culture-specific reference/idiom - The phrase ""男人味"" (manly flavor) to describe a car is not a common or natural expression in Chinese when discussing cars, and may sound awkward or unnatural to some native speakers. While understandable, there might be more idiomatic ways to express the same idea."
+19,I know they're not fast compared,我知道和别人比起来，它们不算快。,"MQM annotations:
+minor: style/awkward - The translation is grammatically correct but sounds a bit unnatural. A more natural translation would be ""我知道它们比不上别人的速度"" or ""我知道它们不算很快""."
+20,#Venting into the Fediverse time.,在联邦宇宙倒苦水时间。,"MQM annotations:
+minor: culture-specific reference/jargon - The term ""联邦宇宙"" (Fediverse) might not be widely understood by the general Chinese audience without prior knowledge of decentralized social networks. While a more literal translation might lose the nuance, it could be more accessible to a broader audience."
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,今晚我和我的同居伴侣去酒铺买了一些啤酒和一瓶香槟。,"MQM annotations:
+minor: culture-specific reference/terminology - While ""香槟"" is a common translation for ""bub"" (referring to champagne), it might sound slightly formal compared to the casual tone of the original English. A more colloquial term might be more appropriate for the target audience in certain contexts, although the current translation is generally acceptable."
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.",当我们去结账时，收银员是一位相当明显的跨性别女性。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - While factually accurate, explicitly stating ""跨性别女性 (transgender woman)"" might be more direct than necessary in some Chinese contexts. A more subtle phrasing might be preferred depending on the target audience and the overall tone of the content. The phrase itself is not offensive, but the directness might be perceived differently."
+25,And then we just... paid for our stuff.,然后我们就...付了钱。,"MQM annotations:
+minor: style/awkward - The translation is too literal and lacks natural flow for conversational Chinese. It could be improved by adding particles or rephrasing for a more natural feel. While not strictly inappropriate, it sounds slightly unnatural."
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,她脸上露出如释重负的笑容让人感觉很好，但她之前感到害怕这件事他妈的太糟糕了，我讨厌它。,"MQM annotations:
+minor: audience_appropriateness/register - While ""他妈的"" is a direct translation of ""fucking,"" it's generally considered quite vulgar in Chinese and might be inappropriate for some audiences depending on the context. A less offensive term could have been used to convey the negative emotion."
+29,This is the stupidest timeline and I hate it dot com.,这是最蠢的时间线，我讨厌它点com。,"MQM annotations:
+minor: culture-specific reference/literal translation - Translating "".com"" as ""点com"" is a literal translation that doesn't resonate well in Chinese. While technically correct, it's not a natural or common way to express this sentiment in Chinese online slang. A more culturally appropriate approach would be to omit it or use a more idiomatic expression to convey the frustration."
+32,But he can't pardon himself out of state prison.,但他无法特赦自己出州立监狱。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - While technically accurate, the phrase ""州立监狱"" (state prison) might be more commonly understood or phrased differently in certain Chinese dialects or regions. A more natural wording could be considered depending on the target audience's linguistic preferences. However, this is a very minor point."
+33,It takes the state's governor.,需要州长。,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",我们认为语境依赖型交流是一种情境化的多层现象，其受到环境属性（如语境分布）的重大影响。,"```
+MQM annotations:
+```"
+47,Communities gain the knowledge to embed and support their own development.,社区获得知识，从而能够扎根并支持自身发展。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+50,Thousands of trees have been established and farmers have seen increased crop yields through a range of interventions from support with equipment purchases to training.,通过一系列干预措施，从支持设备购买到培训，数千棵树木已经种植成活，农民的作物产量也得到了提高。,"MQM annotations:
+audience appropriateness error: None"
+53,The UPS store near me won't allow me to write a label or write on the box.,我家附近的 UPS 商店不允许我写标签或在箱子上写字。,"MQM annotations:
+audience appropriateness error: no-error"
+55,They won't allow me to tell them the address it's going to and who is shipping it.,他们不允许我告诉他们寄往的地址和是谁寄的。,"MQM annotations:
+no-error"
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.",这是一场暴行，就像一场象征性的1月6日反民主谎言和委屈节，由美国媒体自取灭亡地举办。,"MQM annotations:
+minor: CULTURE-SPECIFIC REFERENCE - ""festivus"" is a reference to the TV show Seinfeld, which may not be widely understood in Chinese culture, even if the general idea of a ""festival"" is. The reference adds a specific, potentially confusing layer to the translation."
+61,Licht AGREED to an all Republican audience!,利希特同意面对全体共和党观众！,"MQM annotations:
+minor: culture-specific reference - The original segment refers to a US-centric political scenario. The translation retains this reference, which might not be as relevant or easily understood by audiences unfamiliar with US politics. The impact is minor as the general idea of facing a specific group is still conveyed."
+64,The ratings--seeking delusional irresponsibility of it all.,追逐收视率的妄想般的不负责任。,"MQM annotations:
+audience appropriateness error: None"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.",我家地下室非常漏风，这基本上意味着会有很多啮齿动物进来避难。,"MQM annotations:
+minor: style/awkward - While not strictly an audience appropriateness issue, the translation is somewhat literal and could be phrased more naturally in Chinese. A slightly more elegant translation could be used without significantly altering the meaning."
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨晚我终于受够了这种一成不变的生活，把所有的捕鼠器都清理掉了花生酱，然后用强力胶粘了一颗开心果在上面。,"MQM annotations:
+minor: culture-specific reference/uncommon practice - While the translation is technically accurate, supergluing a pistachio to a mousetrap might be unusual or less common in Chinese culture, although not inherently wrong. It is a niche action, and the cultural prevalence is unknown. It does not impede understanding, but the scenario might be unfamiliar."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",恕我直言，我尝试了市面上几乎所有“人道”的捕鼠器，但效果甚微。,"MQM annotations:
+minor: style/awkward - While the translation is accurate, the phrase ""恕我直言"" (literally, ""forgive me for speaking directly"") might come across as slightly more formal than the original ""fwiw"" (""for what it's worth""). A less formal opening like ""说实话"" (""to be honest"") or simply omitting the introductory phrase altogether would be more natural in contemporary Chinese, depending on the context."
+73,I'm tired of conservative parties and governments wrapping themselves in the brand of pro-business.,我厌倦了保守党派和政府将自己包装成亲商的品牌。,"MQM annotations:
+audience appropriateness error:
+minor: culture-specific reference - The phrase ""wrapping themselves in the brand of pro-business"" while generally understandable, may not fully resonate with all segments of a Chinese audience in the same way it would in a Western context. The concept of political parties using branding in this way could be less familiar or carry different connotations."
+74,"They aren't, at least not in Alberta.",至少在阿尔伯塔省不是。,"MQM annotations:
+audience appropriateness error:
+minor: culture-specific reference/regionalism - While technically accurate, specifying Alberta might be less impactful for a general Chinese audience unfamiliar with Canadian provinces. A more universal phrasing could be considered."
+75,Sure they cut business taxes.,当然，他们削减了商业税。,"MQM annotations:
+audience appropriateness error: None"
+78,"Discovered the hard way that in 2023, local TV station web sites are the absolute worst experience on the internet.",痛苦地发现，在2023年，地方电视台的网站绝对是互联网上最糟糕的体验。,"MQM annotations:
+minor: style/awkward - While accurate, the translation is somewhat literal and could be phrased more naturally for a Chinese audience. For example, ""痛苦地发现"" sounds slightly dramatic, and could be softened to ""令人失望的是"" or similar. This is a minor issue because it doesn't impede understanding but could sound slightly unnatural to a native speaker."
+79,"Popups, auto-play videos, animations, popovers, and ads, ads, ads.",弹出窗口、自动播放视频、动画、弹出框、以及广告，广告，广告。,"MQM annotations:
+minor: style/verbosity - The repetition of ""广告，广告，广告"" (ads, ads, ads) is acceptable in Chinese but might be considered slightly less formal or even somewhat childish in certain contexts. While not inherently wrong, a more nuanced approach might be preferred depending on the target audience and the overall tone desired. However, without further context, it's hard to determine a more appropriate phrasing without changing the meaning."
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.",即使在goatse.cx已经消失的现在，情况仍然如此。不过，如果要在goatse和khou.com（我在那里尝试观看Wendy发给我的视频）之间选一个最烂的网站，那将会是一场势均力敌的比赛。,"MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference/offensive content] - The reference to ""goatse.cx"" is a highly offensive and sexually explicit internet meme. While the translation accurately conveys the literal meaning, it fails to account for the extreme cultural inappropriateness of including this reference in the target text without any contextualization or mitigation. This reference would be deeply offensive and off-putting to many readers, regardless of their cultural background."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",“我只是送他到格拉斯哥，”我试图解释，一边指着我的旅伴。,"MQM annotations:
+minor: no-error
+major: no-error
+critical: no-error"
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,昨晚发生的事情让我确信我们需要做好准备，反击特朗普主义。,"MQM annotations:
+audience appropriateness error: no-error"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,搞一些反特朗普的保险杠贴纸，到处贴。,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+95,Yell back at those who would try to talk over us.,对那些试图盖过我们声音的人，大声回应回去。,"MQM annotations:
+minor: style/awkward - The translation is grammatically correct and conveys the general meaning, but it sounds somewhat forceful and less natural than it could be in Chinese. The phrase ""大声回应回去"" (dàshēng huíyìng huíqu) emphasizes shouting back, which might not always be the most appropriate response in Chinese culture. A more nuanced or diplomatic phrasing might be more culturally appropriate in certain contexts."
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,所以我赶紧冲进公寓想躲开他，但他还是追上来和我聊天了。,"MQM annotations:
+audience appropriateness error: no-error"
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,我再说一遍。到处散播你的新冠病毒飞沫是不被社会接受的！！！,"MQM annotations:
+minor: style/register - The translation uses ""飞沫 (fēimò)"" which is a more technical and clinical term for ""droplets"" compared to what might be used in a casual, scolding context. While accurate, it may sound overly formal or scientific for the intended tone of a public health announcement or scolding."
+104,Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.,安倍把悲伤藏在心底，笑容常挂脸上；而汤姆则不怕流泪，但对粗俗的笑话不感兴趣。,"MQM annotations:
+no-error"
+106,Mio knows that sorrow is life's constant companion.,澪知道悲伤是人生的永恒伴侣。,"MQM annotations:
+minor: style/awkward - While literally correct, the phrase ""永恒伴侣"" (eternal companion) sounds slightly formal and literary in modern spoken Chinese. A more natural phrasing might be ""一直都在"" (always there) or ""如影随形"" (inseparable). The current translation isn't *wrong*, but it could be more idiomatic."
+108,#CNN needs to just close down.,CNN 应该倒闭了。,"MQM annotations:
+minor: style/blunt - While the translation is accurate, the phrasing ""应该倒闭了"" (should close down) is quite direct and blunt, which might be perceived as overly aggressive or impolite depending on the context and audience. A more nuanced or less absolute phrasing might be more appropriate in some situations."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨天的#芒果莫伦 惨败简直是场荒唐的惨败。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [culture-specific reference/unclear reference] - ""#MangoMoron"" is likely a culture-specific reference that may not be understood by all Chinese audiences without further context. Although the translation includes the hashtag, the meaning behind it is lost without explanation."
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.",书呆子学生阿尼·坎宁安爱上了克莉丝汀，一辆锈迹斑斑的1958年款普利茅斯·弗瑞，并痴迷于将这辆经典汽车修复到昔日的辉煌。,"MQM annotations:
+minor: style/awkward - While the translation is accurate, the phrase ""昔日的辉煌"" (xīrì de huīhuáng) could be considered slightly more formal or literary than necessary for a general audience. A simpler phrasing might be more natural in modern conversational Chinese."
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.",随着汽车的改变，阿尼也随之改变，他新获得的自信在驾驶着他的异国情调的美车时变成了傲慢。,"MQM annotations:
+minor: style/awkward - While grammatically correct, the phrase ""异国情调的美车"" (exotic beauty car) sounds slightly awkward in Chinese. A more natural phrasing might be ""充满异国情调的豪车"" (exotic luxury car) or ""他那辆漂亮的异国风情汽车"" (his beautiful exotic car). The current translation is understandable, but lacks the nuance of natural Chinese."
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,我的邻居们与我为敌，其中最令人难以置信的一点是想到要充满敌意得需要付出多大的努力。,"MQM annotations:
+minor: style/awkward - The phrase ""充满敌意得需要付出多大的努力"" is grammatically correct but sounds a bit unnatural and verbose in Chinese. A more natural phrasing would be something like ""要怀有敌意需要花费这么多心思""."
+126,It hurts but you gotta do you.,虽然很伤人，但你还是要做你自己。,"MQM annotations:
+minor: style/awkward - While the translation is accurate, it might be slightly improved for naturalness in Chinese. A more common phrasing could be used."
+127,But at this point the open hostility and violence is getting worse.,但此时公开的敌意和暴力正在加剧。,"MQM annotations:
+minor: style/awkward - While not strictly an audience appropriateness error, the phrase ""但此时"" (but at this point) might sound slightly formal or literary depending on the context. A more colloquial or conversational equivalent might be better depending on the specific audience and the overall tone of the text. However, this is very minor."
+128,That takes effort.,这需要付出努力。,"MQM annotations:
+minor: style/awkward - The translation is technically accurate but sounds a bit formal and stilted in Chinese. While not incorrect, it could be phrased more naturally for a general audience."
+132,They had keys to my apartment for 6+ years.,他们有我家公寓钥匙六年多了。,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error - None
+[Major]: no-error - None
+[Minor]: no-error - None"
+134,I am aware of your hatred of Organa.,我知道你憎恨奥加纳。,"MQM annotations:
+minor: style/awkward - The sentence structure is simple and direct, which is acceptable, but could be slightly more nuanced or formal depending on the desired tone. While not strictly an error, it might be perceived as slightly less sophisticated."
+142,The Last of Us is an easy and canonical example of dad-ification.,《最后生还者》是“爹化”现象的一个简单而典型的例子。,"MQM annotations:
+minor: culture-specific reference - The term ""爹化"" (diē huà), translated as ""dad-ification"", might not be immediately understandable or resonate with all segments of the target audience without additional context or explanation. While it's a direct translation, its cultural relevance and understanding might vary."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父亲化通常假定，解决父辈角色必须照顾或保护儿童或儿童替代品的情况的方法是压倒性的力量，并利用这种力量来强加一种特定形状的权力动态。,"MQM annotations:
+minor: style/awkward - The translation is literal and could be phrased more naturally in Chinese. For example, ""父亲化"" is not a common term. A more natural rendering might involve describing the phenomenon directly rather than using this neologism."
+149,- We provide links to where you can book the fare.,我们提供预订机票的链接。,"MQM annotations:
+no-error"
+151,- More details are in the full blog post.,更多详情请见完整博文。,"MQM annotations:
+audience appropriateness error: None"
+159,Over time dart became my go-to for quick UI.,随着时间的推移，Dart成了我快速构建UI的首选。,"MQM annotations:
+minor: style/readability - While accurate, the translation ""随着时间的推移，Dart成了我快速构建UI的首选"" could be slightly improved for naturalness in Chinese. A more common phrasing might be ""渐渐地，Dart成为了我快速构建UI的首选。"" or ""久而久之，Dart成为了我快速构建UI的首选。"" However, the current translation isn't incorrect, just not the most idiomatic."
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.",使用 Flutter 开发是一种享受，并且他们有 MobX 可以轻松进行状态管理。,"MQM annotations:
+minor: style/register - While accurate, ""状态管理"" (state management) is a more technical term. A slightly less formal option like ""管理状态"" might be marginally more accessible to a broader audience. However, this is a very minor point and the current translation is acceptable."
+164,Echidna with amethyst and magenta spikes.,具有紫水晶色和品红色尖刺的针鼹.,"MQM annotations:
+audience appropriateness error:
+[critical]: no-error
+[major]: no-error
+[minor]: no-error"
+167,"Their hair is raspberry, short and curly.",他们的头发是覆盆子色，又短又卷。,"MQM annotations:
+minor: style/awkward - While accurate, the translation is somewhat literal and could be phrased more naturally in Chinese. For example, instead of ""覆盆子色 (fù pén zi sè)"", which is technically correct, a more common expression might be used to describe raspberry-colored hair, depending on the specific shade and the desired level of colloquialism."
+169,Their most interesting feature is their good deeds.,他们最引人注目的特点是他们的善行。,"MQM annotations:
+audience appropriateness error: None"
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",尽管布莱姆·斯托克、马克斯·施莱克和斯蒂芬妮·梅尔尽了最大努力想让他们看起来很糟糕 - 每个人...,"MQM annotations:
+audience appropriateness error:
+minor: culture-specific reference/names - While Bram Stoker is well-known, Max Schreck may be less familiar to the average Chinese reader. Stephenie Meyer is likely known, but it depends on the reader's familiarity with Western popular culture (specifically, vampire-themed media). This doesn't cause major confusion, but the cultural relevance is reduced."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","Okay, I will provide translations into Mandarin and (a phonetic approximation of) Hokkien based on my best understanding. Please note that without more context, these translations might not be perfect.
+
+**Mandarin:**
+
+需要把它翻译成普通话和/或福建话，但我完全不懂。请直接提供翻译，不要添加任何额外的文字。
+
+**Hokkien (Approximate Phonetic):**
+
+Beh su-iau than i pien-yi chit cho pu-thong-ua kah/iah Hok-kien-ua, wa chiong-kai m chai-xiau. Chiah-ho thui-kien pien-yi, m-thang ka thiam kia-pah e su-ji.","MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+179,Been toying with this thought for a little while:,脑海里盘旋这个想法有一阵子了。,"MQM annotations:
+minor: style/awkward - While not strictly incorrect, ""脑海里盘旋这个想法有一阵子了"" sounds slightly formal and literary compared to the more casual and conversational tone of ""Been toying with this thought for a little while."" A more colloquial translation might be more appropriate depending on the context."
+182,Because it happens in the mind and seems less tangible than physical health.,因为它发生在脑海中，并且似乎不如身体健康那样有形。,"MQM annotations:
+minor: style/awkward - The translation is grammatically correct and conveys the meaning, but it could be phrased more naturally for a Chinese audience. Specifically, ""似乎不如身体健康那样有形"" is a bit verbose. A more concise and natural rendering might be ""不像身体健康那样看得见摸得着"". This is a minor stylistic issue that makes the translation slightly less audience-appropriate."
+189,"My sex is non-binary, my gender is female.",我的生理性别为非二元性别，我的性别认同为女性。,"MQM annotations:
+minor: style/awkward - While technically accurate, the phrasing ""我的生理性别为非二元性别"" (My physical sex is non-binary) is slightly awkward in Chinese. A more natural phrasing might be ""我的生理性别是非二元"" (My physical sex is non-binary). However, it doesn't impede understanding.
+minor: terminology/inappropriate for context - The use of ""生理性别"" (physical sex) and ""性别认同"" (gender identity) is accurate but can be considered overly clinical or technical for general audiences, especially regarding non-binary identities, leading to potential confusion. While not strictly an error, a more sensitive or simplified explanation might be preferable."
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,类似于德国摇滚的情绪，超凡脱俗的流行音乐，无线电音响工作室，以及诸如此类的东西。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+196,Playing around a bit with Flutter.,稍微玩了一下 Flutter。,"MQM annotations:
+minor: style/awkward - The phrase ""稍微玩了一下"" is grammatically correct but might sound a bit too casual in some contexts. A more formal translation could be considered depending on the target audience and the overall tone desired. However, in many informal settings, this translation is perfectly acceptable."
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",说实话，我不想把我的业务建立在谷歌的技术之上。但另一方面，谷歌是少数几个真正有动力创造引人注目的跨平台体验的大公司之一，而且这一点也体现了出来。,"MQM annotations:
+minor: style/awkward - While generally accurate, the phrasing ""而且这一点也体现了出来"" (and this is also reflected) can sound slightly formal or redundant in modern, casual Chinese, depending on the specific context. A more natural phrasing might be implied rather than explicitly stated."
+203,A few very small difficulties have come to light.,出现了一些小问题。,"MQM annotations:
+no-error"
+204,Nothing to set alarm bells ringing but nevertheless they are being addressed.,虽无须过度担忧，但相关问题正在处理中。,"MQM annotations:
+minor: style/awkward - The translation is accurate but slightly formal and stiff. A more natural phrasing in Chinese might be preferable for a general audience. However, it's not strictly inappropriate, just less conversational."
+205,A small update will be produced next week to correct them.,下周将会发布一个小更新来修正它们。,"MQM annotations:
+minor: style/awkward - While grammatically correct, the sentence structure ""下周将会发布一个小更新来修正它们"" can be slightly improved for naturalness in Chinese. More fluent alternatives exist, but the current translation is understandable."
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,我不太清楚为什么我的大脑想不明白；可能是因为工具过于宽泛和模糊，导致我的大脑因为“选项太多”而直接卡死。,"MQM annotations:
+minor: style/awkward - The phrase “直接卡死” (directly freezes) is a bit too literal and informal for some contexts. While understandable, a more polished translation might use a phrase like “完全停滞” (completely stagnates) or “陷入僵局” (reaches a deadlock) for a more professional tone. The given translation is understandable, but slightly less sophisticated in style."
+217,"There's... no way that would work, probably!",不太可能吧！,"MQM annotations:
+minor: style/register - The source text has a tentative and informal tone (""There's... no way that would work, probably!""). The translation ""不太可能吧！"" is a reasonable translation, but it's more neutral and doesn't fully capture the same degree of tentativeness and informality. While not a major error, it's a slight shift in register."
+219,I was a voracious reader in my youth.,我年轻的时候是个贪婪的读者。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - While ""贪婪的读者"" (tānlán de dúzhě) literally translates to ""greedy reader,"" it might sound slightly negative or overly intense in Chinese compared to the more common and positive connotation of ""voracious reader"" in English. A more natural and appropriate phrase in Chinese might be ""酷爱读书的人"" (kù'ài dúshū de rén) - ""a person who deeply loves reading"" or ""非常喜欢读书的人"" (fēicháng xǐhuan dúshū de rén) - ""a person who really likes to read"". The current translation, while technically correct, doesn't fully capture the positive and enthusiastic tone of the original English phrase in a way that resonates naturally with a Chinese audience."
+228,"But if Spotify has a good quarter, they will.",但如果Spotify这季度表现良好，他们会的。,"MQM annotations:
+minor: style/awkward - While grammatically correct, the sentence structure in Chinese feels slightly unnatural. A more natural phrasing might be ""但如果Spotify这季度表现好的话，他们会的."" The original isn't incorrect, just not the most common way a native speaker would phrase it."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,让他们重建全国那些被掏空且日益衰败的城市。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+235,These headlines and articles usually reference one CEO at one large company.,这些标题和文章通常只提及一家大型公司的一位首席执行官。,"MQM annotations:
+minor: style/awkward - The translation is technically correct, but it could be more natural in Chinese. A more idiomatic rendering might be something like ""这些标题和文章通常只提到一家大公司的某一位CEO."" The use of ""提及"" is slightly formal and the structure with ""一位首席执行官"" at the end is a little less common. While not strictly incorrect, it's not the most natural way a native speaker would phrase it."
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,这都是标题党，但它确实让我担心那些阅读这些文章的高管和经理们。,"MQM annotations:
+minor: no-error"
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,它使人们能够避免耗时的通勤，从而节省时间和陪伴家人的时间。,"MQM annotations:
+audience appropriateness error: None"
+247,"""This is a war between the pro-humans and anti-humans,"" he said.",“这是一场亲人类和反人类之间的战争，” 他说。,"MQM annotations:
+audience appropriateness error: None"
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,他还认为，新民主党和进步人士为了环境，想要减少社会人口。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,每当梅伊出现，我就害怕过生日。,"MQM annotations:
+minor: style/awkward - The sentence structure is a bit awkward and could be phrased more naturally for a Chinese audience. The ""我就害怕过生日"" part could be softened to sound less dramatic or intense."
+258,Winter is 30 days away in this little part of the Great Southern World.,在这个南半球的这小片地方，离冬天还有30天。,"MQM annotations:
+minor: style/awkward - The phrase ""这小片地方"" (this little part of) sounds slightly colloquial and could be phrased more elegantly for a broader audience. While not strictly incorrect, it lacks the formality that might be preferred in some contexts."
+261,"The rain is falling and whilst/while it is not frozen, you ain't going dancing in it!",下着雨，虽然没结冰，但你也别想在雨中跳舞了！,"MQM annotations:
+minor: style/register - The use of ""你也别想在雨中跳舞了！"" is slightly more forceful/colloquial than necessary given the relatively mild tone of the original English. A more neutral translation might be preferred for a broader audience."
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,你知道有什么高性能的方法可以让 Web 组件响应被添加到文档或从文档中移除的事件吗？,"MQM annotations:
+minor: style/awkward - The phrasing ""Does you know"" is grammatically incorrect and sounds unnatural in English. While understandable, it's not how a native English speaker would typically phrase the question. A more natural phrasing would be ""Do you know."""
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",我们创建一个分离的临时父对象，将MO安装在那里，并观察它变为分离状态（因此被附加到其他地方）。,"MQM annotations:
+minor: style/awkward - While technically correct, the phrasing ""因此被附加到其他地方"" (therefore attached elsewhere) sounds slightly unnatural and could be simplified for a more fluent and natural reading experience in Chinese."
+276,He's just absolutely ripped from tearing around my office twice a day.,他每天在我办公室里跑两趟，绝对练出来了。,"MQM annotations:
+audience appropriateness error:
+minor: style/idiom - The original phrase ""absolutely ripped"" is an idiom meaning very muscular. The translation ""练出来了"" (liàn chū lái le) means ""worked out"" or ""trained and achieved results"". While not inaccurate, it loses the specific and more colloquial nuance of the original, making it less impactful and perhaps slightly less appropriate for a casual audience."
+277,"I don't have a scale to weigh him, but he feels like he's well over a pound.",我没有秤来称他，但他感觉肯定超过一磅了。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+278,It makes me so happy to see him thriving.,看到他过得这么好，我真替他高兴。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+280,1) Slight modifications to the Hel's Fighters map layout.,对赫尔战士地图布局的轻微修改。,"MQM annotations:
+minor: no-error - No audience appropriateness errors found. The translation is a straightforward and accurate rendering of the source text, without any culture-specific references or language variety issues that would be inappropriate for the target audience."
+286,"All collards, kale, chard is transplanted.",所有羽衣甘蓝、芥蓝、莙荙菜都已移栽。,"MQM annotations:
+major: accuracy/mistranslation - ""芥蓝"" is not a direct translation of ""kale"". While both are brassica vegetables, they are different varieties. Kale is 羽衣甘蓝. 芥蓝 is Chinese broccoli or gai lan. This might confuse a user looking for specific information on kale.
+major: accuracy/mistranslation - ""莙荙菜"" is not a direct translation of ""chard"". Chard is 瑞士甜菜 (rui shi tian cai). ""莙荙菜"" is beet greens or Chinese Spinach. This might confuse a user looking for specific information on chard."
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,吉尔平的春豌豆已经长出来了，需要搭棚架了。,"MQM annotations:
+minor: no-error"
+291,"Apple Maps comes default with iOS, and yet people would go out of their way to download and install Google Maps onto their iPhones.",苹果地图是 iOS 的默认应用，但人们仍然会特意下载并在他们的 iPhone 上安装谷歌地图。,"MQM annotations:
+minor: no-error
+major: no-error
+critical: no-error"
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).",出于好奇，我保持开放心态，对比了 Google 地图和 Apple 地图在我的测试 iPhone 设备上的表现（我的主力机是安卓设备，所以很少使用 iPhone）。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+297,No idea.,不知道。,"MQM annotations:
+no-error"
+300,Could it be that Google Search is integrated with Google Maps?,Google搜索是否可能与Google地图集成？,"MQM annotations:
+minor: style/awkward - The translation is grammatically correct and understandable, but the phrasing ""Google搜索是否可能与Google地图集成？"" sounds slightly formal and less natural than alternatives like ""Google搜索会不会和Google地图整合？"" or ""Google搜索有没有可能跟Google地图结合？"". This is a very subtle issue of style and naturalness for the target audience."
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.",我个人倾向于不向最终用户发布垃圾产品。 苹果2012年发布的苹果地图简直是一场灾难。,"MQM annotations:
+minor: culture-specific reference/use of slang - The phrase ""royally fucked up"" is a strong and potentially offensive term. While its direct translation might be understood, it's not culturally appropriate for all Chinese audiences, especially in more formal contexts. Using less vulgar language would be more suitable."
+306,The house itself declines in value because it loses its condition and needs to be replaced.,房子本身因失去状况和需要更换而贬值。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - The phrase ""失去状况"" (lose condition) is a literal translation that sounds slightly unnatural in Chinese. A more natural phrasing would be something like ""变旧"" (become old) or ""损坏"" (become damaged). While understandable, it's not the most idiomatic way to express the idea."
+310,They're not stupid enough to sell the sell forever.,他们还没蠢到会永远卖下去。,"MQM annotations:
+minor: style/awkward - The sentence structure is a bit awkward. A more natural translation might be ""他们还没那么蠢，不会永远卖下去的."""
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,观看澳大利亚和美国媒体频道时，你似乎无法想象土地有一天会被夺走，但这正是因为富人整天在那里确保你的思想朝着某个方向思考。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - The phrasing ""确保你的思想朝着某个方向思考"" (ensure your thoughts are thinking in a certain direction) is slightly awkward and could be rephrased for better flow in Chinese. A more natural phrasing might be ""引导你的思想朝着某个方向发展"" (guide your thoughts to develop in a certain direction) or similar. While not strictly inappropriate, it could be improved for a more polished feel."
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.",敬各位投资者，我举杯祝愿你们成功，梦想成真。,"MQM annotations:
+minor: style/awkward - While generally acceptable, ""敬各位投资者"" (respectfully, to all investors) is a slightly formal tone. In some contexts, a more casual and celebratory tone might be preferred in Chinese, especially when followed by a toast. This isn't strictly an error, but worth noting for nuances in celebratory language."
+322,Let us continue to work together towards creating a brighter future for all.,让我们继续携手合作，共创美好未来。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - While accurate, the phrase ""携手合作"" (xié shǒu hé zuò) and ""共创美好未来"" (gòng chuàng měi hǎo wèi lái) are very common and slightly cliché in Chinese. Although grammatically correct and understandable, they lack nuance and could be seen as slightly formulaic or uninspired depending on the context. A more sophisticated or creative phrasing might be more impactful, but it's a very minor issue."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,我常常惊叹于人类这种能力，他们明明被如此多的关于真正残忍的证据所包围，却还能如此贬低自己。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - While grammatically correct, the phrase ""他们明明被如此多的关于真正残忍的证据所包围，却还能如此贬低自己"" is a bit verbose and could be phrased more naturally in Chinese for a modern audience. A more concise phrasing could improve readability without changing the meaning."
+327,We're all such messy critters.,我们都是这样邋遢的生物。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [style/awkward] - While not strictly inappropriate, describing humans as ""生物 (shēngwù)"" which directly translates to ""biological organism"" or ""living thing,"" can sound overly clinical or scientific in casual conversation. A more natural phrasing might focus on the messy habits or characteristics of people rather than categorizing them as a type of organism."
+332,"or ""Modal editors are useless today"" :morty:",或者“模态编辑器今天已经没用了” :morty:,"MQM annotations:
+audience appropriateness error:
+minor: culture-specific reference - Using "":morty:"" might not be universally understood or appreciated by all Chinese-speaking audiences, as it's an internet meme/emoji originating from Western internet culture. While some might recognize it, others might find it irrelevant or confusing."
+336,How would you share personal libraries?,你如何分享个人书库？,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",总有一天我要体验在高空达到性高潮的滋味，或许不是跟陌生人。,"MQM annotations:
+minor: audience_appropriateness/taboo or offensive language - While not strictly taboo, the direct translation and implication of sexual activity in a public space (airplane) might be considered slightly inappropriate or jarring for some segments of the Chinese-speaking audience, depending on the context and platform where this translation is used. There might be a more nuanced or indirect way to express the same sentiment that would be better received."
+342,I don't agree that #Mastodon is difficult to setup.,我不认为#Mastodon很难设置。,"MQM annotations:
+minor: no-error"
+345,"I wish there was a ""who to follow"" recommendation somehow.",我希望有个类似“推荐关注”的功能。,"MQM annotations:
+minor: style/awkward - While functionally correct, ""推荐关注"" might sound slightly unnatural or too direct in Chinese compared to more nuanced ways of suggesting accounts to follow. A more natural phrasing might be available."
+347,If you stick to the default web interface it doesn't look and feel good (imho).,如果你坚持使用默认的网页界面，它看起来和用起来都不好 (恕我直言)。,"MQM annotations:
+minor: style/awkward - While ""(恕我直言)"" is a literal translation of ""(imho)"", it sounds a bit more formal and less common in everyday online communication in Chinese compared to simply omitting it or using a more casual equivalent. This isn't a major error, but makes it slightly less appropriate for a casual audience."
+352,Explanation: account for both sides of mutual influence,解释：兼顾相互影响的正反两面。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.",即使他没能在市民大会上说出来，在现在到2024年11月之间，美国的每个人都会听到这些话，而且是反复听到。,"MQM annotations:
+minor: style/awkward - The phrase ""这些话"" (these words) is somewhat vague and could be made more specific depending on the context. While not strictly inappropriate, it lacks a certain directness that might be preferred in some contexts."
+366,Throwing everything you've got over the fence in response to GPT is not it.,把所有东西都一股脑地扔过墙来应对GPT可不是个好办法。,"MQM annotations:
+minor: style/awkward - The phrase ""把所有东西都一股脑地扔过墙来"" (throwing everything you've got over the fence) might be a bit too colloquial or informal for some audiences, though not severely inappropriate. A more formal translation could improve the text's overall tone, depending on the context."
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",如果我试图算出我的单次最大重量，我可能没有足够的重量来达到极限，或者相反，这可能会严重伤害甚至杀死我。,"MQM annotations:
+audience appropriateness error: None"
+375,I swear burrata didn't exist five years ago,我发誓五年前根本没有布拉塔奶酪。,"MQM annotations:
+no-error"
+376,This is my personal Mandela effect thing.,这是我个人的曼德拉效应。,"MQM annotations:
+minor: culture-specific reference/unexplained reference - The term ""Mandela effect"" might not be universally understood without further explanation or context, even though it is becoming more well-known. Providing a brief explanation could improve audience understanding, but its absence does not significantly impede understanding."
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,我从未见过谁的妈妈做过它，也从未在派对上被硬塞过，也从未见过它与任何人的酱料制作冒险或烘焙日同时出现。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - The repetition of ""也从未见过"" feels slightly redundant and could be rephrased for smoother flow in Chinese. While grammatically correct, it sounds a bit unnatural in common spoken or written Chinese."
+380,It just appeared one day and suddenly it was available everywhere.,它不知何时就冒出来了，然后突然间到处都能看到了。,"MQM annotations:
+minor: style/awkward - While technically accurate, the phrase ""不知何时就冒出来了"" (literally: ""it emerged without knowing when"") is slightly less natural and idiomatic than a more direct translation in some contexts."
+385,"This would be mainly for web browsing, occasional email, and some games.",主要用于网页浏览、偶尔收发邮件和玩一些游戏。,"MQM annotations:
+no-error"
+387,"""A good game is only late until it ships.",好游戏不怕晚，就怕做不出来。,"MQM annotations:
+major: culture-specific reference/idiom - The translation uses a different idiom that, while conveying a similar sentiment, changes the nuance and cultural feel of the original saying. The original idiom focuses on the timing of release, while the translation focuses on the possibility of failure to create the game at all."
+392,"""Or, as an industry catch phrase goes: A late game is only late until it ships.",或者，正如行业内的流行语所说：跳票的游戏迟早会发售。,"MQM annotations:
+minor: CULTURE-SPECIFIC REFERENCE - While the translation is accurate, the English idiom ""A late game is only late until it ships"" might not resonate as strongly with a Chinese audience. The translation captures the meaning but loses the cultural nuance of the original saying. It's a known phrase within the Western gaming industry."
+394,Is it so ephemeral then?,难道就这么短暂吗？,"MQM annotations:
+no-error"
+397,"He carries it in his mouth proudly all over the house, and I just have to laugh inwardly.",他得意地叼着它在屋子里到处走，我只能在心里暗自发笑。,"MQM annotations:
+audience appropriateness error: None"
+399,Have now done a full round trip on the new ICNG train.,现在已经完成了新ICNG列车的完整往返行程。,"MQM annotations:
+minor: culture-specific reference/unfamiliar abbreviation - While ""ICNG"" might be understood by some technical audiences, it's an unfamiliar abbreviation for the general public and lacks context in the translation, potentially causing confusion."
+400,I really like it.,我真的很喜欢。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+402,There's areas that could use some polish.,有些地方需要润色。,"MQM annotations:
+minor: style/awkward - While ""润色"" (run se) is a common term for ""polish,"" in this context, it sounds slightly formal. A more colloquial or easier-to-understand translation might be preferred depending on the target audience."
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",主要是垃圾箱数量不足，以及缺乏解释灯光颜色意义的标牌。,"MQM annotations:
+minor: style/awkward - While accurate, the translation is slightly clunky. A more natural rendering might be: ""Specifically, the issue is a lack of sufficient bins and clear signage explaining the meaning of the light colors."" This is not a critical error, but it could be improved for better readability in Chinese."
+404,"Fix those minor issues, and then can we have more of these please?",把那些小问题修好，然后我们可以多来点这样的吗？,"MQM annotations:
+audience appropriateness error:
+[Minor]: [STYLE/Awkwardness] - The phrase ""多来点这样的吗？"" while understandable, sounds slightly informal and could be phrased more professionally depending on the context. A more formal translation would be something like ""我们可以再要一些这样的吗？"" which sounds more appropriate for a business or official setting. This is a minor issue because the current translation isn't wrong, just potentially less appropriate for some audiences."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,每位顾客限购一块，我们尽力确保每位排队者都能买到。,"MQM annotations:
+audience appropriateness error: no-error"
+407,"You can buy ONE of the boards listed above, not one of each.",你可以购买上面列出的板子中的**一个**，不是每一个。,"MQM annotations:
+minor: style/awkward - The repetition of ""**一个**"" (one) can sound slightly redundant in Chinese. While grammatically correct, it's slightly more natural to simply say ""你可以购买上面列出的板子中的一个，不是每一个."""
+409,Yesterday I had the best time with my friend and former rabbi colleague.,昨天我和我的朋友以及以前的拉比同事度过了最美好的时光。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+410,We visited for a couple hours on my porch.,我们在我的门廊上拜访了几个小时。,"MQM annotations:
+minor: style/awkward - The translation ""我们在我的门廊上拜访了几个小时"" sounds a bit formal and unnatural in Chinese. A more natural way to express this would be ""我们在我家门廊上聊了几个小时"" or ""我们在我家阳台上坐了几个小时"". The original translation isn't wrong, but it's not the most common or natural way to say it."
+412,We all have stories to tell.,我们都有故事要讲。,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+415,I quite like akkoma the software and the domain name I got for my instance.,我挺喜欢 Akkoma 这个软件和我为实例注册的域名。,"MQM annotations:
+minor: no-error"
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",我觉得不知怎么的，我一开始就弄错了，或者说，一开始就没走对路。,"MQM annotations:
+audience appropriateness error: no-error"
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,地下已经被雷普尼德虫族挖成了隧道，你掉进了一个洞穴中，那里有数百只雷普尼德虫族挤在一起，形成一片沸腾的肉堆。,"MQM annotations:
+minor: style/awkward - The phrase ""boiling mass of hundreds of Repnid bodies"" might be slightly graphic or intense for some audiences, depending on the context of the text."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",结局迅疾而至，数对毒牙注入致命的毒液，而迪斯克拉的空气也污染了你的肺部。,"MQM annotations:
+minor: style/awkward - The phrase ""迪斯克拉的空气 (Dyskra's air)"" might sound slightly odd or unnatural to some readers, depending on the target audience and their familiarity with fantastical settings. While technically correct, it could be phrased more smoothly."
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八眼雷普尼德人似乎在注视着你，但他们没有向你移动，事实上，当你慢慢走向他们时，他们一动不动。,"MQM annotations:
+minor: style/awkward - The phrase ""八眼雷普尼德人"" (Eight-eyed Repnids) might sound unnatural or unfamiliar to a Chinese audience. While it's a direct translation, it could be rephrased for better flow or clarity, but doesn't necessarily introduce cultural insensitivity or misunderstanding."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.",你决定重新建立联系很危险，便回到你的飞行器。但这次经历让你清醒了过来，自从你跳入未来后，你的思绪就一直很混乱。,"MQM annotations:
+minor: style/awkward - The phrase ""跳入未来后"" (jumped into the future) is slightly awkward in Chinese, although understandable. It could be rephrased for smoother reading, but it is not wrong."
+437,I started a new shawl.,我开始织一条新的披肩。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [style/awkwardness] - While not strictly incorrect, ""织一条新的披肩"" (weave a new shawl) is a very literal translation and might sound slightly unnatural in Chinese. More natural phrasing exists, but this is a minor stylistic issue."
+442,I am using a H hook with a similar double crochet pattern as I have done before.,我正在使用一个H号钩针，用与之前相似的双钩针编织图案。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+448,The literature class hatred is even worse: I love to read.,文学课的仇恨更糟：我爱阅读。,"MQM annotations:
+minor: style/awkward - While technically accurate, the direct translation of ""hatred"" (仇恨) in this context sounds overly strong and dramatic in Chinese, especially when referring to a literature class. It would be more natural to use a word like ""dislike"" (不喜欢) or ""aversion"" (厌恶)."
+454,Humanity is out in 5 days.,人类将于5天后推出。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - While technically accurate, the phrase ""推出"" (tuīchū) translated as ""launch"" or ""release"" is more commonly used for products, software, or initiatives. For a more natural translation about humanity, using a different verb would be more appropriate. A more suitable translation could be something like ""人类将于5天后消失 (rénlèi jiāng yú 5 tiān hòu xiāoshī)"" which means ""Humanity will disappear in 5 days"" or ""人类将于5天后灭绝 (rénlèi jiāng yú 5 tiān hòu mièjué)"" which means ""Humanity will be extinct in 5 days""."
+456,What will people think of it?,人们会怎么想呢？,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+463,Came home on my lunch break to see this sitting outside uwu.,午休回家，就看到这个东西坐在外面，呜呜呜。,"MQM annotations:
+minor: culture-specific reference/slang - The use of ""uwu"" is internet slang that might not be understood or appreciated by all Chinese readers. While some may be familiar with it, it's not a standard part of the language and could be considered out of place in a more formal context. The direct translation ""呜呜呜"" attempts to capture the feeling but can come across as overly dramatic or childish depending on the audience's familiarity with internet culture."
+464,Wish I could take it back to work with me to setup more.,真希望我能把它带回工作场所，以便设置更多。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - While grammatically correct, the phrase ""以便设置更多"" sounds slightly unnatural and formal in modern spoken Chinese. A more colloquial phrasing would be more appropriate for everyday conversation."
+466,So I finally watched #Heartstopper,所以我终于看了#心跳漏一拍了。,"MQM annotations:
+minor: culture-specific reference/typo - ""#心跳漏一拍"" is a common way to refer to the show ""Heartstopper"" in Chinese, but there might be a typo or missing word here, as it literally translates to ""heart skips a beat once."" While understandable, it's slightly awkward and might be improved for better flow and naturalness for the target audience."
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",但重要的是不要为问题找借口，而是直接修复它们，尤其是在生产环境中当你的负责人需要变更的时候。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - While the translation is accurate, the phrase ""当你的负责人需要变更的时候"" (when your lead needs changes) sounds slightly awkward and could be phrased more naturally in Chinese. It might be better to say ""当你的领导需要修改的时候"" (when your leader needs to modify [something])."
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.",好的批评是为了快速纠正问题，而不是针对你的能力。,"MQM annotations:
+audience appropriateness error: None"
+485,These roots are hidden.,这些根是隐藏的。,"MQM annotations:
+minor: style/awkward - The sentence is grammatically correct but lacks a natural flow in Chinese. More natural phrasing would be ""这些根是隐藏起来的"" or ""这些根被隐藏了""."
+486,Work is not visible.,工作不可见。,"MQM annotations:
+minor: style/awkward - The translation is grammatically correct, but sounds unnatural in Chinese. A more natural phrasing would be needed depending on the context."
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,他等到身处昏暗的卧舱后，才拿出那张纸条，借着遮光帘缝隙里透进的光线阅读。,"MQM annotations:
+minor: style/awkward - The phrase ""昏暗的卧舱"" (dimly lit berth) is slightly less natural than alternatives like ""黑暗的房间"" (dark room). While not incorrect, it's a slightly formal choice."
+495,I've met some marvelous new #Mastodon mates lately and want to maintain the trend.,最近认识了一些很棒的 #Mastodon 新朋友，想保持这个趋势。,"MQM annotations:
+minor: culture-specific reference/jargon - The use of ""#Mastodon"" might not be universally understood by all Chinese-speaking audiences, especially those unfamiliar with the specific social media platform. While the translation accurately reflects the term, it assumes a certain level of familiarity with English-based social media jargon, which may not be appropriate for a general audience."

@@ -1,0 +1,1055 @@
+index,original,translated,accuracy_annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.","עבורי, זו הנחה די גדולה כי היא יוצרת את חלון התצוגה רק באמצעות אובייקט Direct3D, ולא אובייקט Direct3D3.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""Direct3D object, not a Direct3D3 object"" to ""אובייקט Direct3D, ולא אובייקט Direct3D3"" is incorrect because ""Direct3D3"" should be translated as ""אובייקט Direct3D3"" to maintain consistency with the source.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+3,"Now, I get that in practice, IDirectXObject2 is typically a proper superset of IDirectXObject, with no changed function signatures, and new methods only added to the end.","עכשיו, אני מבין שבפועל, IDirectXObject2 הוא בדרך כלל על-קבוצה נכונה של IDirectXObject, ללא שינוי חתימות פונקציות, ורק שיטות חדשות נוספות בסוף.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""with no changed function signatures"" is mistranslated as ""ללא שינוי חתימות פונקציות,"" which implies no change at all, whereas the source suggests that the function signatures remain unchanged.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","נניח לצורך הדיון שהמדע לפחות בחלקו מורכב מרשימות של הצהרות עובדתיות אובייקטיביות על העולם, נכונות ללא קשר לכל תיאוריה שהן עשויות לתמוך בה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""true apart from any theory they might support"" is mistranslated. The Hebrew translation ""נכונות ללא קשר לכל תיאוריה שהן עשויות לתמוך בה"" does not accurately convey the meaning of ""true apart from any theory they might support,"" which implies that the statements are true independently of any theory, not just without relation to any theory.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","הניסויים לא יוצרים את העובדות בקריאה זו, אך הבחירה באילו ניסויים לערוך שולטת באילו עובדות מתגלות.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""on this reading"" is not accurately translated. The Hebrew translation ""בקריאה זו"" suggests a specific reading or interpretation, which may not fully capture the intended meaning of the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.","כמה עובדות, למשל על חלקיקים תת-אטומיים, יכולות לנבוע רק מניסויים שאפשריים רק בקפיטליזם, משום שהם דורשים יותר מדי משאבים, יותר מדי ארגון, יותר מדי כפייה, כדי להצליח בדרך אחרת.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The translation omits the phrase ""to pull off otherwise,"" which is crucial to understanding the source text's meaning.
+[Major]: accuracy/mistranslation - The phrase ""can only result from experiments"" is mistranslated as ""יכולות לנבוע רק מניסויים,"" which slightly alters the meaning. The source implies a necessity due to capitalism, while the translation suggests a possibility.
+[Minor]: accuracy/addition - The word ""להצליח"" (to succeed) is added in the translation, which is not present in the source text and slightly shifts the focus.
+```"
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,זהו תיאור קצר מאוד של טיעון סביר לפיו תיאוריות של קפיטליזם המשפיעות על התוכן הממשי של המדע עולות בקנה אחד עם תיאוריות הטוענות לקיומם של עובדות מדעיות אובייקטיביות.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""plausible argument"" as ""טיעון סביר"" is slightly misleading. ""Plausible"" implies a degree of credibility or believability, which might be better captured by ""טיעון מתקבל על הדעת"".
+[Minor]: [accuracy/error_subcategory] - None
+```"
+13,Going to be my first project car.,יהיה רכב הפרויקט הראשון שלי.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""Going to be"" is not accurately translated. The Hebrew translation ""יהיה"" translates to ""will be,"" which implies future tense but lacks the sense of ""going to be"" as an intention or plan.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+14,Picking this up this weekend.,אאסוף את זה בסוף השבוע.,"Source (English):  
+Picking this up this weekend.
+
+Translation (Hebrew):  
+אאסוף את זה בסוף השבוע.
+
+MQM annotations:  
+Accuracy Errors  
+[Critical]: accuracy/omission - None  
+[Major]: accuracy/mistranslation - The translation of ""Picking this up"" as ""אאסוף את זה"" implies a future action (""I will pick this up""), while the source text is more immediate and informal, suggesting an action planned for the weekend without specifying the subject.  
+[Minor]: accuracy/addition - None"
+16,Already on coil overs and lowered ride height.,כבר על קוילאוברים והנמכת גובה נסיעה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The term ""coil overs"" is mistranslated as ""קוילאוברים"" which is not a recognized term in Hebrew and does not convey the intended meaning.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+20,#Venting into the Fediverse time.,#משחרר קיטור לפדיברס זמן.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The phrase ""Venting into the Fediverse time"" is mistranslated. The Hebrew translation ""#משחרר קיטור לפדיברס זמן"" does not accurately convey the intended meaning of the source text. The phrase ""into the Fediverse time"" suggests a specific context or platform (Fediverse), which is not clearly reflected in the translation.
+[Major]: accuracy/omission - The translation omits the concept of ""into the Fediverse,"" which is crucial to understanding the context of the source text.
+[Minor]: accuracy/mistranslation - The word ""time"" is translated as ""זמן,"" which may not fully capture the intended nuance of the source text.
+```"
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,בן הזוג ואני הלכנו לחנות המשקאות הערב לקנות כמה בירות ובקבוק שמפניה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The term ""bub"" in the source text refers to ""bubbly"" or ""champagne,"" which is correctly translated as ""שמפניה"" (champagne) in Hebrew. However, the translation does not reflect the casual tone of ""bub,"" which might be better captured with a more colloquial term.
+[Major]: accuracy/addition - The translation uses ""בן הזוג"" (the partner) which is a formal term and does not capture the casual tone of ""Domestic Partner"" as used in the source text. The addition of formality changes the tone.
+[Minor]: accuracy/omission - None
+```"
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","כשהלכנו לשלם, הקופאית היא אישה טרנסג'נדרית די ברורה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The phrase ""fairly obvious"" is mistranslated as ""די ברורה,"" which means ""quite clear"" or ""pretty clear,"" losing the nuance of ""fairly obvious.""
+[Major]: None
+[Minor]: None
+```"
+27,And I said her nails looked cool.,ואמרתי שהציפורניים שלה נראות מגניבות.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""נראות מגניבות"" (look cool) is not a direct mistranslation but could be considered slightly informal or colloquial compared to the source. However, it does not inhibit comprehension.
+[Major]: [accuracy/addition] - None
+[Minor]: [accuracy/omission] - The word ""And"" at the beginning of the sentence is omitted in the translation. While this does not significantly impact the overall meaning, it does slightly alter the flow of the sentence.
+```"
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,החיוך של ההקלה על פניה היה תחושה נהדרת אבל העובדה שהיא הייתה מפוחדת קודם פשוט חרא ואני שונא את זה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The phrase ""FUCKING SUCKS AND I HATE IT"" is mistranslated. The Hebrew translation ""פשוט חרא ואני שונא את זה"" does not fully capture the intensity and explicitness of the original expression.
+[Major]: accuracy/mistranslation - The word ""scared"" is mistranslated as ""מפוחדת"" (frightened), which is not a direct equivalent and may slightly alter the nuance.
+[Minor]: accuracy/addition - The word ""פשוט"" (simply) is added in the translation, which is not present in the source text.
+```"
+33,It takes the state's governor.,זה לוקח את מושל המדינה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""זה לוקח את מושל המדינה"" means ""It takes the governor of the state,"" which does not accurately convey the intended meaning of the source text. The source implies an action or requirement involving the state's governor, not possession.
+[Major]: [accuracy/omission] - The translation omits the context or action implied by ""takes,"" which is crucial for understanding the source text.
+[Minor]: [accuracy/addition] - None
+```"
+38,"In this work, based on a variant of the classical Lewis (1969) signaling model, we explore the conditions for the emergence of context-dependent communication in a situated scenario.","בעבודה זו, המבוססת על גרסה של מודל האיתות הקלאסי של לואיס (1969), אנו בוחנים את התנאים להופעת תקשורת התלויה בהקשר בתרחיש ממוקם.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""context-dependent communication"" is mistranslated as ""תקשורת התלויה בהקשר"", which is accurate, but the translation could be more precise by using ""תקשורת תלוית הקשר"".
+[Minor]: [accuracy/error_subcategory] - None
+```"
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","במקביל, אנו חוקרים את התנאים הסביבתיים והיכולות הקוגניטיביות המאפשרים הבהרת הקשר של משמעויות סמלים.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""הבהרת הקשר"" (clarification of context) does not accurately convey ""contextual disambiguation"" from the source text.
+[Major]: [accuracy/omission] - The translation omits the word ""meanings"" (משמעויות) in the context of ""symbol meanings.""
+[Minor]: [accuracy/addition] - None
+```"
+41,"We show that environmental constraints on the receiver's referent choice can be unilaterally exploited by the sender, without disambiguation capabilities on the receiver's end.","אנו מראים כי מגבלות סביבתיות על בחירת המושא של המקבל יכולות להיות מנוצלות באופן חד-צדדי על ידי השולח, ללא יכולות הבהרה מצד המקבל.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""without disambiguation capabilities on the receiver's end"" is mistranslated as ""ללא יכולות הבהרה מצד המקבל,"" which does not fully capture the meaning of ""disambiguation capabilities.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+46,"Ashanti Development has been working with an ever-expanding number of communities in the Ashanti region of Ghana for approaching 20 years, engaging with communities and providing support with water and sanitation, education, healthcare, tree planting and farming.","ארגון פיתוח אשנטי עובד עם מספר הולך וגדל של קהילות באזור אשנטי בגאנה במשך קרוב ל-20 שנה, תוך מעורבות עם הקהילות ומתן תמיכה במים ותברואה, חינוך, בריאות, נטיעת עצים וחקלאות.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/mistranslation - The phrase ""approaching 20 years"" is translated as ""במשך קרוב ל-20 שנה"" which is slightly different in nuance. The source suggests they are nearing 20 years, while the translation implies they have been working for nearly 20 years.
+```"
+47,Communities gain the knowledge to embed and support their own development.,קהילות רוכשות את הידע לשלב ולתמוך בפיתוח שלהן.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""embed"" from the source text, which is crucial for understanding the full meaning.
+[Major]: [accuracy/mistranslation] - The translation of ""embed"" as ""לשלב"" (to integrate) could be seen as a mistranslation, as ""embed"" implies a deeper integration or incorporation than just combining or supporting.
+[Minor]: [accuracy/addition] - None
+```"
+52,Photos from my visit to Ghana in 2011.,תמונות מהביקור שלי בגאנה ב-2011.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/mistranslation] - The translation ""תמונות מהביקור שלי בגאנה ב-2011"" is accurate and reflects the meaning of the source text. There are no accuracy errors present.
+```"
+55,They won't allow me to tell them the address it's going to and who is shipping it.,הם לא יאפשרו לי להגיד להם לאן זה נשלח ומי שולח את זה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits the phrase ""the address it's going to,"" which is crucial for understanding the full meaning of the source text.
+[Major]: [accuracy/mistranslation] - The phrase ""who is shipping it"" is mistranslated as ""מי שולח את זה,"" which could imply ""who is sending it"" rather than specifically referring to the shipping context.
+[Minor]: [accuracy/mistranslation] - The translation of ""They won't allow me to tell them"" as ""הם לא יאפשרו לי להגיד להם"" is slightly awkward in Hebrew, as it could imply a more general prohibition rather than a specific inability to convey information.
+```"
+58,The next morning and I can't get past Chris Licht's disgraceful pretense of public service journalism on CNN last night.,למחרת בבוקר ואני לא יכול להתגבר על ההעמדת הפנים המבישה של כריס ליכט בעיתונות שירות ציבורי ב-CNN אמש.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""disgraceful pretense of public service journalism"" is mistranslated as ""העמדת הפנים המבישה של בעיתונות שירות ציבורי"", which does not accurately convey the meaning of the original phrase. The translation suggests a more general disgrace rather than specifically referring to the pretense of public service journalism.
+[Major]: [accuracy/mistranslation] - The translation does not accurately convey the possessive aspect of ""Chris Licht's disgraceful pretense"" as it is rendered in a way that could imply Chris Licht is the subject of the journalism rather than the one exhibiting the pretense.
+[Minor]: [accuracy/omission] - None
+```"
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.","זה היה שערורייה, כמו פסטיבל אנטי-דמוקרטי סמלי של שקרים וטענות מ-6 בינואר, שהתקיים בהרס עצמי על ידי התקשורת האמריקאית.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""symbolic Jan 6 anti-democratic festivus of lies & grievance"" is mistranslated as ""פסטיבל אנטי-דמוקרטי סמלי של שקרים וטענות מ-6 בינואר"", which does not fully capture the connotations of ""festivus"" and the specific reference to January 6 as a symbolic event.
+[Major]: [accuracy/omission] - The phrase ""self-destructively hosted"" is translated as ""שהתקיים בהרס עצמי"", which omits the nuance of ""hosted by American media,"" losing the agency of the media in the context.
+[Minor]: [accuracy/addition] - The word ""טענות"" (claims) is added in the translation, which is not present in the source text and does not enhance the meaning.
+```"
+60,THE SHAMEFUL AUDIENCE.,הקהל המביש.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""הקהל"" (the audience) does not fully capture the meaning of ""THE SHAMEFUL AUDIENCE,"" as it omits the adjective ""shameful.""
+[Major]: [accuracy/omission] - The adjective ""shameful"" is omitted in the translation, which is crucial to convey the full meaning of the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+61,Licht AGREED to an all Republican audience!,ליכט הסכים לקהל שכולו רפובליקנים!,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The word ""all"" is omitted in the translation, which changes the meaning of the source text. The source specifies an ""all Republican audience,"" indicating that the entire audience is Republican, which is not conveyed in the translation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+63,There's a story to be reported there.,יש שם סיפור לדווח עליו.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""יש שם סיפור לדווח עליו"" does not fully capture the meaning of ""There's a story to be reported there."" The phrase ""to be reported"" implies a passive construction that is not accurately reflected in the Hebrew translation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+64,The ratings--seeking delusional irresponsibility of it all.,החוסר אחריות ההזייתי לשם הרייטינג של כל זה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""החוסר אחריות ההזייתי לשם הרייטינג של כל זה"" does not accurately reflect the source text ""The ratings--seeking delusional irresponsibility of it all."" The phrase ""לשם הרייטינג"" (for the sake of ratings) is a mistranslation of ""ratings-seeking,"" which implies actively seeking or pursuing ratings, not just for the sake of it.
+[Major]: [accuracy/omission] - The translation omits the nuance of ""seeking"" in ""ratings-seeking,"" which is crucial to understanding the intent of the source text.
+[Minor]: [accuracy/addition] - None
+```"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","יש לי מרתף עם הרבה טיוטות, מה שבעצם אומר שאני יכול לקבל הרבה מכרסמים שמוצאים בו מקלט.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The Hebrew translation ""טיוטות"" means ""drafts"" in the sense of written drafts, which is incorrect. The source text refers to ""drafty"" as in allowing cold air to enter, which should be translated as ""מרתף עם הרבה רוח פרצים"".
+[Major]: [accuracy/mistranslation] - The phrase ""אני יכול לקבל"" translates to ""I can receive"" or ""I can get,"" which does not fully capture the meaning of ""taking refuge"" in the context of rodents finding shelter. A more accurate translation would be ""מכרסמים שמוצאים בו מקלט"".
+[Minor]: None
+```"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.","לבסוף נמאס לי מהשגרה הזו אתמול בלילה, ניקיתי את כל המלכודות מחמאת בוטנים והדבקתי פיסטוק עליהן עם דבק חזק.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation of ""superglued"" as ""הדבקתי"" does not fully convey the meaning of using ""superglue,"" which implies a strong adhesive. A more accurate translation would be ""הדבקתי עם דבק חזק במיוחד"" or similar.
+[Major]: accuracy/omission - The translation omits the word ""finally"" which emphasizes the speaker's frustration and decision to change the routine.
+[Minor]: None
+```"
+76,But they also cut grants and tax credits that encourage more business activity.,אבל הם גם קיצצו במענקים ובזיכויי מס שמעודדים פעילות עסקית נוספת.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""more"" from ""more business activity,"" which is important to convey the extent of the activity being encouraged.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+77,"I own a business. It's successful in spite of the provincial government, not because of it.","אני בעל עסק. הוא מצליח למרות הממשלה המחוזית, לא בזכותה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""provincial government"" as ""הממשלה המחוזית"" is not entirely accurate. In Hebrew, ""ממשלה"" typically refers to the national government, whereas ""ממשל"" or ""שלטון"" would be more appropriate for ""government"" in the context of a province.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","זה נכון גם עכשיו כש-goatse.cx איננו, אם כי זו הייתה תחרות צמודה לתחתית בין goatse ובין, נאמר, khou.com, שם ניסיתי לצפות בסרטון שוונדי שלחה לי.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: accuracy/mistranslation - The phrase ""a close race to the bottom"" is translated as ""תחרות צמודה לתחתית,"" which may not fully convey the idiomatic meaning of ""race to the bottom"" in the context of comparing two undesirable options.
+```"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,קנה כמה מדבקות פגוש שהן נגד טראמפ והדבק אותן בכל מקום.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: accuracy/addition - The word ""קנה"" (buy) is added in the translation, which is not present in the source text. The source text suggests ""getting"" bumper stickers, not specifically buying them.
+```"
+95,Yell back at those who would try to talk over us.,צעק בחזרה על אלה שינסו לדבר מעלינו.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""צעק"" (shout) does not accurately convey the meaning of ""yell back,"" which implies a response or retaliation, not just shouting.
+[Major]: accuracy/mistranslation - The translation ""על אלה שינסו לדבר מעלינו"" (at those who will try to talk over us) is slightly off as it implies a future action, whereas the source does not specify a time frame.
+[Minor]: accuracy/addition - None
+```"
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,זה לא מקובל חברתית לצאת בציבור או למהר לאנשים כשאתה משתעל ומפיץ ליחה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""coughing up a mucus storm"" is omitted, leading to a loss of important meaning.
+[Major]: [accuracy/mistranslation] - The translation ""ומפיץ ליחה"" (and spreading mucus) does not accurately convey ""coughing up a mucus storm,"" which implies a more intense and active action.
+[Minor]: [accuracy/addition] - None
+```"
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,אני חוזר. זה לא מקובל חברתית להפיץ את סערת הריר של הקורונה שלך בכל מקום!!!,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""covid mucus storm"" is translated as ""סערת הריר של הקורונה"" which could imply a different meaning. The term ""mucus storm"" is a metaphorical expression in English, and the translation might not fully capture its figurative sense.
+[Major]: [accuracy/addition] - None
+[Minor]: [accuracy/omission] - The repetition of ""I repeat"" is translated as ""אני חוזר"" which is accurate, but the emphasis of repetition might not be as strong as in the source.
+```"
+106,Mio knows that sorrow is life's constant companion.,מיו יודעת שהעצב הוא בן לוויה קבוע של החיים.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""מיו יודעת שהעצב הוא בן לוויה קבוע של החיים"" accurately reflects the source text ""Mio knows that sorrow is life's constant companion."" There are no critical errors.
+[Major]: accuracy/mistranslation - None
+[Minor]: accuracy/mistranslation - None
+```"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","לאחר 4,000 של מצוקה, יל מוצאת את עצמה במקום של אהבה ויש לה רגשות עזים שהיא לא יודעת מה לעשות איתם, אז יש הרבה משניהם.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""4,000 of distress"" is mistranslated as ""4,000 של מצוקה"" which implies a quantity or amount, whereas the source implies a duration or period of distress.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,הפיאסקו של אתמול עם #מנגו_אידיוט היה פיאסקו מזעזע.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/mistranslation - The translation of ""#MangoMoron"" as ""#מנגו_אידיוט"" could be considered a mistranslation if the hashtag is intended to be a specific name or brand rather than a literal translation. However, without additional context, this is a minor issue.
+```"
+111,"Which cable news ""executive"" made the call to give the fat, lying criminal this much air-time?","איזה ""מנהל"" חדשות בכבלים קיבל את ההחלטה לתת לפושע השמן והשקרן כל כך הרבה זמן שידור?","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - The translation of ""executive"" as ""מנהל"" does not fully capture the nuance of the term in the context of cable news, where ""executive"" implies a higher-level decision-maker than ""manager"" (מנהל).
+[Minor]: None
+```"
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","כשהמכונית משתנה, כך גם ארני, שהביטחון החדש שלו הופך ליהירות מאחורי ההגה של יופיו האקזוטי.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""behind the wheel"" is mistranslated as ""מאחורי ההגה"", which is correct, but the context of ""arrogance behind the wheel"" is not fully captured in the translation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+118,Codleo is one of the best Salesforce Partner offering best Salesforce services tailored to your company needs.,קודלאו היא אחת השותפות הטובות ביותר של Salesforce המציעה את שירותי Salesforce הטובים ביותר המותאמים לצרכי החברה שלך.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""tailored to your company needs,"" which is important for conveying the customization aspect of the services.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,אחד החלקים המטורפים ביותר בכך שהשכנים שלי הפכו נגדי הוא לחשוב על כמה מאמץ זה דורש להיות עוין.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+124,"Forget me, fine.","שכח אותי, בסדר.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""שכח אותי, בסדר"" does not fully convey the meaning of ""Forget me, fine."" The word ""fine"" in the source text implies a sense of resignation or acceptance, which is not captured in the Hebrew translation.
+[Major]: accuracy/omission - The translation omits the nuance of ""fine"" as a resigned acceptance or agreement, which is present in the source text.
+[Minor]: accuracy/addition - None
+```"
+125,"Ignore me, fine.","התעלם ממני, בסדר.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/mistranslation] - The translation ""התעלם ממני, בסדר"" does not fully capture the tone of ""Ignore me, fine."" The word ""בסדר"" translates to ""okay"" or ""fine"" in a neutral sense, but the original English phrase carries a tone of resignation or sarcasm that is not fully conveyed in the Hebrew translation.
+```"
+129,Slamming a door in my face takes effort.,לטרוק דלת בפרצופי דורש מאמץ.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""Slamming a door in my face"" is mistranslated as ""לטרוק דלת בפרצופי,"" which means ""Slamming a door at my face"" rather than ""in my face.""
+[Major]: [accuracy/omission] - None
+[Minor]: [accuracy/addition] - None
+```"
+133,That vessel is off-limits.,הכלי הזה אסור לגישה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation of ""vessel"" as ""הכלי"" (the tool) is incorrect. The term ""vessel"" typically refers to a ship or large boat, not a tool or instrument.
+[Major]: [accuracy/mistranslation] - The phrase ""אסור לגישה"" (forbidden to access) does not accurately convey the meaning of ""off-limits,"" which implies restricted or prohibited entry or use.
+[Minor]: [accuracy/addition] - The addition of ""הזה"" (this) is unnecessary and not present in the source text.
+```"
+137,But another individual often flies aboard that ship.,אבל אדם נוסף לעיתים קרובות טס על הספינה ההיא.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""often,"" which is crucial to convey the frequency of the action described in the source text.
+[Major]: [accuracy/mistranslation] - The translation uses ""אדם נוסף"" (another person) instead of ""another individual,"" which can slightly alter the nuance of the source text.
+[Minor]: [accuracy/addition] - None
+```"
+138,If he were to die... the consequences would be... significant.,אם הוא היה מת... ההשלכות היו... משמעותיות.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The Hebrew translation ""אם הוא היה מת"" suggests a hypothetical situation in the past, while the English source ""If he were to die"" suggests a hypothetical situation in the future.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"הנה קורס התרסקות (קצת יותר ארוך מאורך ציוץ) למה שאני מתכוון ב""הפיכת אבא"":","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The phrase ""dad-ification"" is mistranslated as ""הפיכת אבא"" which means ""turning into a dad"" rather than conveying the concept of ""dad-ification"" as a cultural or stylistic transformation.
+[Major]: accuracy/addition - None
+[Minor]: accuracy/omission - The phrase ""slightly longer than"" is omitted in the translation, which affects the nuance of the original text.
+```"
+142,The Last of Us is an easy and canonical example of dad-ification.,האחרונים שבינינו הוא דוגמה פשוטה וקנונית להפיכת דמות אב.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation of ""The Last of Us"" as ""האחרונים שבינינו"" is incorrect. It should be translated as ""האחרון מאיתנו"" to accurately reflect the title of the work.
+[Major]: [accuracy/mistranslation] - The phrase ""dad-ification"" is mistranslated as ""הפיכת דמות אב,"" which does not fully capture the nuanced meaning of the term in the context of the source text. ""Dad-ification"" refers to the transformation or representation of a character in a fatherly role, which is not clearly conveyed in the translation.
+[Minor]: [accuracy/addition] - None
+```"
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.",הפיכת האב לשלטון שוחקת את האפשרות לפתרונות קהילתיים ולעיתים קרובות מתעלמת לחלוטין או מחלישה כל סוכנות שיש לילד.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""הפיכת האב לשלטון"" translates to ""turning the father into authority,"" which does not accurately convey ""Dad-ification,"" a term that implies a cultural or societal shift rather than literal authority.
+[Major]: [accuracy/omission] - The translation omits the nuance of ""erodes the possibility"" which implies a gradual weakening, not just a lack of possibility.
+[Minor]: [accuracy/mistranslation] - ""סוכנות"" is a mistranslation of ""agency"" in this context, as it should refer to the child's ability to act independently, not an organization or agency.
+```"
+146,"In this way, Dad-ification is a stand in for a lot of neoliberal ideals; especially ideas like bootstrapping and self-sufficiency as being an ultimate goal/indicator for success.","בדרך זו, הפיכת אבא היא תחליף להרבה אידיאלים ניאו-ליברליים; במיוחד רעיונות כמו הסתמכות עצמית והיכולת להצליח בכוחות עצמך כיעד/מדד להצלחה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""הפיכת אבא"" (Dad-ification) is a mistranslation as it does not convey the concept of ""Dad-ification"" accurately, which refers to adopting or embodying characteristics typically associated with fatherhood.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+148,- We send out notifications when airfare goes on sale.,אנו שולחים התראות כאשר מחירי הטיסות יורדים.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""כאשר מחירי הטיסות יורדים"" means ""when airfare prices drop"" instead of ""when airfare goes on sale,"" which implies a special offer or discount rather than just a price drop.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+150,"- We don't sell tickets, or charge a subscription.",- אנחנו לא מוכרים כרטיסים או גובים מנוי.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The word ""subscription"" is mistranslated as ""מנוי"" (subscriber) instead of ""מנוי"" (subscription fee).
+[Major]: accuracy/mistranslation - None
+[Minor]: accuracy/addition - The word ""או"" (or) is repeated unnecessarily, which slightly alters the original structure.
+```"
+154,"Yet, unimaginable fear, terror and displacement have left them with the invisible scar of trauma.","ובכל זאת, פחד בלתי נתפס, אימה ועקירה הותירו בהם את הצלקת הבלתי נראית של הטראומה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The Hebrew translation ""ובכל זאת"" means ""and yet"" or ""nevertheless,"" which does not fully capture the meaning of ""Yet"" as used in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+159,Over time dart became my go-to for quick UI.,עם הזמן דארט הפך להיות הבחירה שלי ל-UI מהיר.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation of ""dart"" as ""דארט"" is incorrect because ""dart"" in this context refers to the programming language Dart, which should remain untranslated as a proper noun.
+[Major]: accuracy/omission - The word ""quick"" is omitted in the translation, which affects the meaning by not emphasizing the speed aspect of the UI.
+[Minor]: accuracy/addition - The addition of ""להיות"" is unnecessary and does not appear in the source text.
+```"
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter זה תענוג לעבוד איתו, ויש להם #mobx לניהול חנויות בקלות.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The phrase ""easy"" is omitted in the translation, which is crucial to convey the ease of store management with MobX.
+[Major]: accuracy/mistranslation - The phrase ""store management"" is translated as ""ניהול חנויות"" which means ""management of stores"" in the context of physical stores, rather than the intended meaning of ""state management"" in software development.
+[Minor]: accuracy/addition - None
+```"
+161,"The dependency story is less insane than nodejs, too.",סיפור התלות פחות מטורף מאשר ב-nodejs.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""dependency story"" as ""סיפור התלות"" is not entirely accurate. ""Dependency story"" in the context of software often refers to the complexity or structure of dependencies, which might not be fully captured by ""סיפור התלות.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+162,"Of course flutter sucks really bad when it comes to behaving like a good native app would (anywhere, really. Even flutter web target sucks).","כמובן שפלאטר גרוע מאוד בכל הנוגע להתנהגות כמו אפליקציה מקורית טובה (בכל מקום, באמת. אפילו היעד של פלאטר ווב גרוע).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""כמובן שפלאטר גרוע מאוד בכל הנוגע להתנהגות כמו אפליקציה מקורית טובה"" does not accurately convey the negative intensity of ""sucks really bad"" from the source text.
+[Major]: accuracy/omission - The phrase ""when it comes to behaving like a good native app would"" is not fully captured in the translation, leading to a loss of specificity.
+[Minor]: accuracy/mistranslation - The translation ""היעד של פלאטר ווב גרוע"" does not fully convey the meaning of ""flutter web target sucks,"" as it lacks the emphasis on the web target specifically.
+```"
+182,Because it happens in the mind and seems less tangible than physical health.,מכיוון שזה קורה במחשבה ונראה פחות מוחשי מאשר בריאות פיזית.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""happens in the mind"" as ""קורה במחשבה"" is not entirely accurate. A more precise translation would be ""קורה במוח"" to better convey the idea of mental processes rather than just thoughts.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","באותו אופן שבו בריאות הנפש נתפסת כפחות ""אמיתית"" מבריאות הגוף על ידי רבים, אני מרגיש שבמידה מסוימת להיות טרנס זה כמו להיות אינטרסקס של הנפש.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""אני מרגיש"" translates to ""I feel"" instead of ""I kind of feel,"" which implies a degree of uncertainty or tentativeness in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+188,"I feel that to be trans is to be ""biologically non-binary"".","אני מרגיש שלהיות טרנס זה להיות ""ביולוגית לא בינארי"".","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The Hebrew translation ""אני מרגיש"" translates back to ""I feel"" in English, which implies a male speaker. The source text does not specify gender, so a gender-neutral translation would be more accurate.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+198,"(And also: The Web is now largely a Google thing, unfortunately)","(וגם: הרשת היא עכשיו בעיקר דבר של גוגל, למרבה הצער)","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The phrase ""The Web is now largely a Google thing"" is mistranslated as ""הרשת היא עכשיו בעיקר דבר של גוגל"" which means ""the web is now mainly a thing of Google,"" missing the nuance of ""largely"" and ""thing"" as a concept or domain.
+[Major]: accuracy/addition - The phrase ""למרבה הצער"" (unfortunately) is added in the translation, which is not present in the source text.
+[Minor]: accuracy/mistranslation - None
+```"
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,"בנוסף, אנא הימנע מלספר לי שאפליקציות של גוגל/פלאטר גרועות ב-iOS וב-macOS.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/mistranslation - The translation ""גרועות"" (bad) is slightly stronger than ""suck"" in the source text, which is more informal and colloquial.
+```"
+200,Cross platform is hard if you want to do it well.,פלטפורמות חוצות זה קשה אם אתה רוצה לעשות את זה טוב.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""Cross platform"" as ""פלטפורמות חוצות"" is not entirely accurate. A more precise translation would be ""פלטפורמה חוצה"" to reflect the singular form used in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+202,Thank you to those people who have downloaded the latest update to Leasey.,תודה לאנשים שהורידו את העדכון האחרון ל-Leasey.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/addition] - The word ""ל-"" before ""Leasey"" is an addition that is not present in the source text and does not improve the translation.
+```"
+203,A few very small difficulties have come to light.,כמה קשיים קטנים מאוד התגלו.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""very"" from the source text, which modifies the degree of the difficulties mentioned.
+[Major]: [accuracy/mistranslation] - None
+[Minor]: [accuracy/addition] - None
+```"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,אני לא יודע בדיוק למה המוח שלי לא מצליח להבין את זה; יכול להיות שהכלים פשוט כל כך רחבים ומעורפלים שהמוח שלי פשוט נתקע בגלל 'יותר מדי אפשרויות'.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""hardlocks"" is mistranslated as ""נתקע"", which means ""stuck"" in Hebrew. The term ""hardlocks"" implies a more severe or complete inability to process, which is not fully captured by ""נתקע"".
+[Minor]: [accuracy/error_subcategory] - None
+```"
+211,Grafana looks pretty.,גרפנה נראית יפה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""גרפנה נראית יפה"" accurately conveys the meaning of ""Grafana looks pretty."" There are no mistranslation errors.
+[Major]: accuracy/mistranslation - None
+[Minor]: accuracy/mistranslation - None
+```"
+218,...And that's how I found myself having to sort out a raid group roster.,...וכך מצאתי את עצמי צריך לסדר רשימת קבוצה לפשיטה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The Hebrew translation uses ""צריך"" (need) which implies necessity, whereas the English source ""having to"" implies obligation or requirement, not necessarily a need.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+220,"Then, life crushed my soul and I lost all my passion for fiction and great storytelling.","ואז, החיים ריסקו את נשמתי ואיבדתי את כל התשוקה שלי לסיפורת ולסיפור סיפורים גדולים.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""great storytelling"" is mistranslated as ""סיפור סיפורים גדולים,"" which means ""telling big stories"" rather than ""great storytelling.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+222,I'm now on book # 31 and it's only May.,אני עכשיו בספר מספר 31 ורק מאי.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The phrase ""and it's only"" is omitted in the translation, which affects the understanding of the context that the speaker is emphasizing the early completion of 31 books by May.
+[Major]: accuracy/mistranslation - None
+[Minor]: accuracy/addition - None
+```"
+224,I haven't really achieved anything.,לא באמת השגתי שום דבר.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""לא באמת השגתי שום דבר"" does not fully capture the nuance of ""I haven't really achieved anything."" The Hebrew translation suggests a more definitive lack of achievement, while the English source implies uncertainty or modesty about achievements.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,תנו להם לשקם את הערים החלולות והמתפוררות ברחבי המדינה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The word ""again"" is missing, which indicates the action of rehabilitation has been done before and is important for understanding the context.
+[Major]: [accuracy/mistranslation] - ""החלולות"" translates to ""hollow"" rather than ""hollowed out,"" which slightly changes the nuance of the description of the cities.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+233,Deport the white supremacists.,לגרש את העליונות הלבנה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""לגרש את העליונות הלבנה"" translates to ""Deport the white supremacy,"" which is incorrect. The source text refers to ""white supremacists"" (people), not ""white supremacy"" (ideology).
+[Major]: [accuracy/omission] - None
+[Minor]: [accuracy/addition] - None
+```"
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""","נמאס לי מהכותרות שטוענות ש""עבודה מרחוק מתה."" או ש""עבודה מרחוק הייתה ניסוי כושל.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/addition - The Hebrew translation includes the word ""נמאס לי"" (I am tired), which is an addition that does not appear in the source text. However, this addition does not significantly alter the meaning.
+```"
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,"הכל קליקבייט, אבל זה מדאיג אותי לגבי המנהלים והבכירים שקוראים את המאמרים האלה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""executives and managers"" to ""מנהלים והבכירים"" reverses the order, which may imply a different hierarchy or emphasis.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,זה מאפשר לאנשים להימנע מנסיעות ארוכות שגוזלות זמן מהיום שלהם ומהמשפחות שלהם.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits the concept of ""taking time away"" from the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+243,To just ignore these facts is wrong.,להתעלם מהעובדות הללו זה לא נכון.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The source text includes ""To just ignore these facts,"" but the translation omits ""just,"" which emphasizes the action of ignoring and is important for conveying the full meaning.
+[Major]: accuracy/mistranslation - The phrase ""זה לא נכון"" translates to ""it is not correct"" or ""it is not right,"" which is slightly less strong than ""is wrong."" The translation does not fully capture the assertive tone of the source.
+[Minor]: accuracy/addition - None
+```"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",פארקר התייחסה להפלות ולנטייתן של נשים עירוניות מודרניות לדחות את הבאת הילדים לטובת הקריירה שלהן.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""modern"" which is present in the source text.
+[Major]: [accuracy/mistranslation] - The phrase ""urban women's impulse to delay having children for their careers' sake"" is mistranslated. The Hebrew translation ""נטייתן של נשים עירוניות מודרניות לדחות את הבאת הילדים לטובת הקריירה שלהן"" does not accurately convey the nuance of ""impulse"" which implies a spontaneous or instinctive action, rather than a tendency or inclination.
+[Minor]: [accuracy/addition] - None
+```"
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,הוא גם טוען כי המפלגה הדמוקרטית החדשה והפרוגרסיבים רוצים לדלל את האוכלוסייה למען איכות הסביבה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation of ""NDP"" as ""המפלגה הדמוקרטית החדשה"" is incorrect. NDP refers to the New Democratic Party, which should not be translated as it is a proper name.
+[Major]: [accuracy/mistranslation] - None
+[Minor]: [accuracy/mistranslation] - The word ""depopulate"" is translated as ""לדלל את האוכלוסייה"", which implies thinning out the population rather than reducing it. A more accurate translation would be ""להפחית את האוכלוסייה"".
+```"
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,"בכל פעם שמאי היה מגיע, חששתי לנסות לחגוג את יום ההולדת שלי.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - The translation ""שמאי"" (Shamai) is incorrect for ""May"" (the month). It should be ""מאי"".
+[Minor]: None
+```"
+254,I fought over the years to get out of that mindset and to have better bdays.,נאבקתי במשך השנים כדי לצאת מהלך הרוח הזה ולחגוג ימי הולדת טובים יותר.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""to have better bdays"" is mistranslated as ""ולחגוג ימי הולדת טובים יותר"" which means ""to celebrate better birthdays."" The source text implies a broader sense of experiencing or having better birthdays, not just celebrating them.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,האם אתה יודע על דרך יעילה עבור רכיב אינטרנט להגיב להוספה/הסרה ממסמך?,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""performant,"" which refers to the efficiency or performance aspect of the method being asked about.
+[Major]: [accuracy/mistranslation] - ""Does you know"" is mistranslated as ""האם אתה יודע,"" which means ""Do you know"" in Hebrew. The source text contains a grammatical error that should be reflected in the translation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+268,We currently use a MutationObserver hack.,אנו משתמשים כעת בהאק של MutationObserver.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The term ""hack"" in the context of ""MutationObserver hack"" is not accurately conveyed in Hebrew. It should reflect the meaning of a workaround or clever solution, rather than a literal ""hack.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+285,Last week got a ton done and feeling much better about field items.,בשבוע שעבר הספקתי המון ומרגיש הרבה יותר טוב לגבי הפריטים בשטח.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""field items"" as ""הפריטים בשטח"" does not accurately convey the specific context or meaning of ""field items"" in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","בנוסף צריך לזרוע שורת סלט שם כדי לשלב ירקות חתוכים בשני המקומות יש צוות מאומן על השקיה, הכנת ערוגות, והשתלה שזה 90% מהמיומנויות שאינן קציר.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The phrase ""in both"" is omitted, which changes the meaning of the sentence.
+[Major]: accuracy/mistranslation - ""שני המקומות"" is translated as ""both places,"" which is incorrect. The source text refers to integrating cut greens in both contexts, not locations.
+[Minor]: accuracy/mistranslation - ""שזה 90% מהמיומנויות שאינן קציר"" translates to ""which is 90% of the skills that are not harvest,"" which is slightly awkward but understandable. The original text implies that these are 90% of the non-harvest skills.
+```"
+290,It's 2023 and I still see people with iPhones actively avoid using Apple Maps.,זה 2023 ואני עדיין רואה אנשים עם אייפונים נמנעים באופן פעיל משימוש באפל מפות.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""אפל מפות"" (Apple Maps) should be ""מפות של אפל"" to accurately reflect the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","סקרן, שמרתי על ראש פתוח כדי להשוות כיצד גוגל מפות ואפל מפות משווים, על מכשיר האייפון שלי לבדיקה (המכשיר היומי שלי הוא מכשיר אנדרואיד, כך שזה נדיר שאני משתמש באייפון).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - The phrase ""how Google Maps and Apple Maps compare"" is translated as ""כיצד גוגל מפות ואפל מפות משווים,"" which is slightly awkward and doesn't fully capture the comparison aspect implied in the source text.
+[Minor]: None
+```"
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,החוויה של הצורך לעקוב אחר הוראות הייתה הרבה יותר טובה ב-Apple Maps בהשוואה ל-Google Maps.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""החוויה של הצורך לעקוב אחר הוראות"" translates to ""the experience of the need to follow directions,"" which inaccurately conveys the source's meaning of ""the experience having to follow directions.""
+[Major]: [accuracy/mistranslation] - The phrase ""הייתה הרבה יותר טובה"" translates to ""was much better,"" which does not capture the comparative aspect of ""far superior"" in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+298,Could it be that Google Maps got to market first?,האם ייתכן ש-Google Maps הגיע לשוק ראשון?,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""got to market first"" as ""הגיע לשוק ראשון"" does not fully capture the nuance of ""got to market"" which implies being the first to release or launch a product in the market. The translation could be interpreted as simply arriving in the market, missing the competitive aspect of being first.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","אני נוטה לטובת אי שחרור זבל למשתמשי הקצה, ואפל פישלו בגדול עם אפל מפות כשהיא יצאה ב-2012.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""I'm biased in favour of"" is mistranslated as ""אני נוטה לטובת,"" which does not fully capture the original meaning of having a strong preference or inclination.
+[Major]: [accuracy/mistranslation] - The phrase ""royally fucked up"" is translated as ""פישלו בגדול,"" which does not convey the same intensity or severity as the original phrase.
+[Minor]: [accuracy/omission] - The word ""garbage"" is translated as ""זבל,"" which is accurate, but the context of ""not releasing garbage"" could be more explicitly translated to better reflect the intention of avoiding poor quality.
+```"
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,אבל זו האדמה שהופכת אותה לשומרת טובה של עושר כל עוד אתה חושב שהממשלה לא עומדת לשנות את המערכת שבה אנחנו חיים.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The phrase ""the system we live in"" is translated as ""המערכת שבה אנחנו חיים"" which is correct, but the translation of ""isn't going to change"" as ""לא עומדת לשנות"" implies a future intention rather than the more neutral ""isn't going to change"" in the source. This could slightly alter the meaning in certain contexts.
+[Major]: None
+[Minor]: None
+```"
+307,A lot of ppl think that they literally own the earth when they buy a piece.,הרבה אנשים חושבים שהם ממש בעלים של כדור הארץ כשהם קונים חלק ממנו.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation does not capture the informal tone of ""ppl"" from the source text, which implies a casual or colloquial context.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+312,The land is temporary.,הארץ היא זמנית.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation of ""The land"" as ""הארץ"" implies a specific land or country, whereas the source text is more general.
+[Major]: accuracy/addition - The addition of ""היא"" (is) is not necessary in Hebrew for this context and adds an unnecessary emphasis.
+[Minor]: accuracy/mistranslation - None
+```"
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,האדמה נלקחת בקלות ובמהירות על ידי הממשלה ביום אחד אם הם רוצים לעשות זאת.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""one day"" is omitted, which changes the meaning of how quickly the government can take the land.
+[Major]: [accuracy/mistranslation] - The phrase ""if they want to do that"" is translated as ""אם הם רוצים לעשות זאת,"" which is slightly awkward and could be more accurately translated as ""אם הם ירצו בכך"" to better capture the conditional aspect.
+[Minor]: [accuracy/addition] - None
+```"
+317,It has to be taken away one day.,זה צריך להילקח יום אחד.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The translation omits ""away,"" which is crucial to convey the full meaning of ""taken away.""
+[Major]: accuracy/mistranslation - The phrase ""זה צריך להילקח"" translates to ""it needs to be taken,"" which does not fully capture the sense of ""has to be taken away"" as in the source.
+[Minor]: accuracy/addition - None
+```"
+318,That's why the Chinese only allow leases.,לכן הסינים מאפשרים רק חכירות.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""allow"" as ""מאפשרים"" (permit) instead of ""רק"" (only) does not fully convey the exclusivity implied by ""only allow.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+319,They already ran out of land.,הם כבר נגמרו מהקרקע.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""הם כבר נגמרו מהקרקע"" implies that ""they"" are finished with the land, which is incorrect. The source text ""They already ran out of land"" means that the land is depleted or used up, not that ""they"" are finished.
+[Major]: [accuracy/mistranslation] - The phrase ""מהקרקע"" translates to ""from the land,"" which does not accurately convey the intended meaning of ""ran out of land.""
+[Minor]: [accuracy/addition] - The word ""כבר"" (already) is correctly translated, but the context of the sentence is lost due to the mistranslation.
+```"
+320,"To success, the realization of dreams, friendship, to the simple but true!!","להצלחה, להגשמת חלומות, לחברות, לפשוט אך האמיתי!!","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""to the simple but true"" is omitted in the translation, which affects the completeness of the translation.
+[Major]: [accuracy/mistranslation] - The translation of ""To success"" as ""להצלחה"" is correct, but the phrase ""To success"" in English implies a toast or a wish, which might not be fully captured in the Hebrew translation.
+[Minor]: [accuracy/addition] - None
+```"
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.","לכל המשקיעים שם בחוץ, אני מרים כוסית להצלחתכם ולהגשמת חלומותיכם.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""To all the investors out there"" is mistranslated as ""לכל המשקיעים שם בחוץ"", which literally means ""to all the investors out there"" but does not convey the same nuance or formality as the English source. A more accurate translation would be ""לכל המשקיעים שביניכם"" to better reflect the intended meaning.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+323,"And to all my friends, new and old, let us cherish the simple but true things in life that bring us joy and fulfillment.","ולכל חבריי, חדשים וותיקים, נשמור על הדברים הפשוטים אך האמיתיים בחיים שמביאים לנו שמחה וסיפוק.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The phrase ""that bring us joy and fulfillment"" is omitted in the translation, which is crucial to the meaning of the source text.
+[Major]: accuracy/mistranslation - The Hebrew translation ""נשמור על"" translates to ""let us keep"" instead of ""let us cherish,"" which alters the intended meaning of valuing or appreciating the simple things in life.
+[Minor]: accuracy/addition - None
+```"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,אני לעיתים קרובות תוהה על היכולת האנושית להיות *כל כך* קשה עם עצמנו בעודנו מוצפים בכל כך הרבה ראיות למה אכזריות אמיתית נראית.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""down on oneself"" is mistranslated as ""קשה עם עצמנו"" which means ""hard on ourselves"" in Hebrew. This does not fully capture the nuance of being self-critical or having low self-esteem.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,אבל להרגיע את הייאוש מהבלגן שלנו זה קריטי - כי זה נותן לנו יותר מרחב להתמודד עם ההריסות שמסביב.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""gentling"" is mistranslated as ""להרגיע"" (to calm), which does not fully capture the nuance of ""gentling,"" which implies a more nuanced, gentle approach to handling despair.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+331,"Some programmers: ""Typing speed does not matter!""","חלק מהמתכנתים: ""מהירות הקלדה לא משנה!""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""Typing speed does not matter!"" to ""מהירות הקלדה לא משנה!"" is slightly misleading as it implies that typing speed is irrelevant or unimportant, whereas the original statement suggests that it does not affect the outcome or performance.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+339,It is definitely more romance than filth.,זה בהחלט יותר רומנטיקה מאשר זוהמה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The word ""filth"" is mistranslated as ""זוהמה"" which means ""dirt"" or ""filth"" in a physical sense, whereas ""filth"" in the context of romance could imply ""obscenity"" or ""vulgarity.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+342,I don't agree that #Mastodon is difficult to setup.,אני לא מסכים ש-#Mastodon קשה להתקנה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/mistranslation] - The translation ""אני לא מסכים"" is masculine, while the source text is gender-neutral. In Hebrew, gender can affect the accuracy of the translation.
+```"
+343,"Common, it's really not that hard.",זה באמת לא כל כך קשה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The word ""Common"" from the source text is omitted in the translation.
+[Major]: [accuracy/mistranslation] - The phrase ""זה באמת לא כל כך קשה"" translates to ""It's really not that hard,"" which misses the informal or conversational tone implied by ""Common"" in the source.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+347,If you stick to the default web interface it doesn't look and feel good (imho).,אם תדבק בממשק האינטרנט המוגדר כברירת מחדל זה לא נראה ומרגיש טוב (לדעתי).,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The phrase ""doesn't look and feel good"" is translated as ""זה לא נראה ומרגיש טוב"" which is not entirely accurate. The translation implies a more definitive statement rather than the subjective opinion expressed in the source.
+[Major]: accuracy/addition - The addition of ""(לדעתי)"" translates to ""(in my opinion)"" which is not present in the source text. The source uses ""imho"" (in my humble opinion), which is a more informal and less assertive expression.
+[Minor]: None
+```"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.","אז, זה דורש קצת יותר מאמץ להיכנס לזה ואתה כנראה צריך אפליקציה טובה כדי לשפר את #UX.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""to get into it"" is mistranslated as ""להיכנס לזה,"" which can imply a physical entry rather than understanding or engaging with something.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+353,Forecasting: anticipating harms before they happen (even if by minutes),חיזוי: צפי לנזקים לפני שהם מתרחשים (אפילו אם זה בדקות).,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""anticipating harms"" as ""צפי לנזקים"" does not fully capture the proactive aspect of ""anticipating,"" which implies prediction or foreseeing, rather than just expectation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,אני מתאמן לבד בחדר השינה שלי בלי שותף או אפילו מתקן משקולות.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""without a spotter"" which is an important part of the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+370,Just me and a barbell with a bunch of weights.,רק אני ומוט משקולות עם ערימה של משקולות.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""a bunch of weights"" is mistranslated as ""ערימה של משקולות,"" which means ""a pile of weights."" The original phrase implies a collection or set of weights, not necessarily in a pile.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.","אם אנסה לחשב את המשקל המקסימלי שאני יכול להרים בחזרה אחת, ייתכן שלא יהיו לי מספיק משקולות כדי להגיע למקסימום, או לחלופין זה עלול לפצוע אותי קשה/להרוג אותי.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""my one rep max"" is mistranslated as ""המשקל המקסימלי שאני יכול להרים בחזרה אחת,"" which means ""the maximum weight I can lift in one back,"" instead of referring to the concept of ""one repetition maximum"" in weightlifting.
+[Major]: [accuracy/omission] - The phrase ""is I might not own enough weights to max out"" is partially omitted. The translation does not clearly convey the idea that the speaker might not have enough weights to determine their one rep max.
+[Minor]: [accuracy/addition] - The word ""בחזרה"" (back) is added, which is not present in the source text and does not improve the translation.
+```"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,מעולם לא ראיתי אמא של מישהו מכינה את זה או שזה נדחף אליי במסיבה או שראיתי את זה מופיע יחד עם הרפתקאות הכנת רטבים של מישהו או ימי אפייה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""or seen it appear in conjunction with anyone's saucemaking escapades or baking days"" is mistranslated. The translation ""או שראיתי את זה מופיע יחד עם הרפתקאות הכנת רטבים של מישהו או ימי אפייה"" does not fully capture the meaning of ""appear in conjunction with"" which implies being part of or associated with those activities, rather than just appearing alongside them.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","לאחר שעברנו רדיקליזציה כאן, אנחנו מהססים לקנות מכונת FAANG חדשה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The phrase ""Having been radicalized here"" is mistranslated as ""לאחר שעברנו רדיקליזציה כאן"", which implies a completed action rather than an ongoing state or condition.
+[Major]: accuracy/mistranslation - The word ""reluctant"" is mistranslated as ""מהססים"", which means ""hesitant"" rather than ""reluctant"", leading to a slight change in meaning.
+[Minor]: accuracy/addition - None
+```"
+389,So was it Epic that originated this?,אז האם זה היה אפיק שהתחיל את זה?,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""Epic"" as ""אפיק"" is incorrect. ""Epic"" refers to a specific entity, likely a company or product, and should not be translated literally.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+394,Is it so ephemeral then?,האם זה כל כך חולף אז?,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The word ""then"" in the source text is not accurately reflected in the translation. The Hebrew translation ""אז"" is used, but it does not capture the conditional or speculative nuance of ""then"" in this context.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+395,"Merely a ""catchphrase"" with no clear originator?","רק ""סיסמה"" ללא מחבר ברור?","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""Merely,"" which conveys the sense of something being only a catchphrase without additional significance.
+[Major]: [accuracy/mistranslation] - The translation ""סיסמה"" (slogan) may not fully capture the nuance of ""catchphrase,"" which often implies a popular or trendy phrase.
+[Minor]: [accuracy/mistranslation] - None
+```"
+399,Have now done a full round trip on the new ICNG train.,כעת עשיתי נסיעה הלוך ושוב מלאה על רכבת ה-ICNG החדשה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/addition] - The word ""כעת"" (now) is added in the translation, which is not present in the source text.
+```"
+402,There's areas that could use some polish.,ישנם תחומים שיכולים להיעזר בליטוש.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation of ""There's areas"" to ""ישנם תחומים"" is incorrect. The source implies specific areas, while the translation uses ""תחומים"" which means ""fields"" or ""domains,"" not necessarily physical areas.
+[Major]: accuracy/addition - The addition of ""שיכולים"" (can) in the translation is not present in the source and changes the meaning slightly, implying potential rather than need.
+[Minor]: accuracy/omission - None
+```"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.","כלומר, היעדר מספיק פחים והיעדר שלטים שמסבירים את משמעות צבעי התאורה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits the word ""enough"" from ""lack of enough bins,"" which affects the meaning by not conveying the adequacy aspect.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+404,"Fix those minor issues, and then can we have more of these please?","תקן את הבעיות הקטנות האלה, ואז נוכל לקבל עוד כאלה בבקשה?","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The phrase ""can we"" is omitted in the translation, which changes the meaning from a request to a statement.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,כללים של אחד ללקוח נשארים בתוקף כשאנו מנסים להבטיח שכל מי שעומד בתור יוכל להשיג לוח.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""can get their hands on,"" which is important to convey the action of acquiring a board.
+[Minor]: [accuracy/mistranslation] - The phrase ""queues up"" is translated as ""עומד בתור"" (stands in line), which is a slight mistranslation as it doesn't capture the dynamic action of queuing up.
+```"
+407,"You can buy ONE of the boards listed above, not one of each.","אתה יכול לקנות לוח אחד מהרשומים למעלה, לא אחד מכל אחד.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""not one of each"" is mistranslated as ""לא אחד מכל אחד"", which is not a correct or natural way to convey the meaning of ""not one of each"" in Hebrew. A more accurate translation would be ""לא אחד מכל סוג"".
+[Minor]: [accuracy/error_subcategory] - None
+```"
+409,Yesterday I had the best time with my friend and former rabbi colleague.,אתמול היה לי הזמן הכי טוב עם חברי ועמיתי לשעבר הרב.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation of ""former rabbi colleague"" as ""עמיתי לשעבר הרב"" is incorrect. It implies that the person is a former rabbi, rather than a former colleague who was a rabbi.
+[Major]: [accuracy/omission] - None
+[Minor]: [accuracy/addition] - None
+```"
+419,#FalconGameBooks,#פלקוןספרי־משחק,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""#פלקוןספרי־משחק"" does not accurately reflect the source hashtag ""#FalconGameBooks"". The translation should maintain the original English hashtag as it is a proper noun and brand name.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","בעלי שמונה העיניים נראים כצופים בך כשאתה מנחית את המעופף על האדמה האדומה, אך הם אינם נעים לעברך, למעשה הם חסרי תנועה כשאתה יוצא מהמעופף וצועד לאט לעברם.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: accuracy/mistranslation - The term ""Repnids"" is not translated or transliterated, which might be necessary if it is a fictional or specific term that should be adapted for Hebrew readers.
+```"
+422,The rock beneath you gives way suddenly.,הסלע שמתחתיך מתמוטט פתאום.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The Hebrew translation ""מתמוטט"" means ""collapses,"" which implies a more complete failure than ""gives way,"" which suggests a partial or sudden shift.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","הסוף מהיר, כאשר מספר זוגות של ניבים מזריקים את הארס הקטלני שלהם והאוויר של דיסקרה מזהם את ריאותיך.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - ""הסוף מהיר"" (The end is swift) does not fully convey the immediacy of ""The end is swift"" in the source text.
+[Major]: accuracy/mistranslation - ""האוויר של דיסקרה"" (the air of Dyskra) does not accurately reflect ""the air of Dyskra contaminates your lungs,"" as it misses the action of contamination.
+[Minor]: accuracy/omission - The translation does not specify the action of ""inject"" in ""inject their deadly venom,"" which is important for conveying the source meaning.
+```"
+425,Nobody will ever know that you were the first human future traveller.,אף אחד לעולם לא ידע שהיית האדם הראשון שנסע לעתיד.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""future traveller"" as ""שנסע לעתיד"" does not fully capture the concept of ""future traveller"" in the sense of someone who travels through time to the future. It implies traveling to the future but lacks the nuance of being a traveler in time.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.","בעלי שמונה העיניים נראים כמתבוננים, אך הם אינם נעים לעברך, למעשה הם חסרי תנועה כשאתה הולך לאט לעברם.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""בעלי שמונה העיניים"" (the eight-eyed) does not specify ""Repnids,"" which is a specific entity in the source text.
+[Major]: [accuracy/omission] - The translation omits ""Repnids,"" which is a key element in the source text.
+[Minor]: [accuracy/mistranslation] - ""נראים כמתבוננים"" (seem to be watching) is a less precise translation of ""seem to be watching,"" as it implies a more passive observation.
+```"
+428,"You halt while still on the mound of crumbled rock and soil and speak to them, saying, 'I come in peace, as a friend.'","אתה עוצר בעודך על תל האבנים והאדמה המתפוררים ומדבר אליהם, ואומר, 'אני בא בשלום, כחבר.'","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - ""אתה עוצר"" (You stop) is a mistranslation of ""You halt,"" which implies a more deliberate action than just stopping.
+[Major]: accuracy/mistranslation - ""בעודך על תל האבנים והאדמה המתפוררים"" (while you are on the mound of crumbled stones and soil) does not fully convey ""while still on the mound of crumbled rock and soil,"" as ""still"" is omitted, affecting the temporal aspect.
+[Minor]: accuracy/addition - ""כחבר"" (as a friend) is an addition that slightly alters the tone, as the source text does not explicitly state ""as a friend.""
+```"
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.","נראה שהם לא יכולים לשמוע אותך, לא כל שכן להבין, שכן המתרגם האוניברסלי שלך לא קולט תשובה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/addition - The phrase ""שכן"" (for) is added in the translation, which is not present in the source text and does not improve the translation.
+```"
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,אני מתכנן לערבב את זה עם כותנה משובחת בצבע סגול/לילך מגוונת.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""fine purple/lilac variegated cotton"" is mistranslated. The translation ""כותנה משובחת בצבע סגול/לילך מגוונת"" does not accurately convey the ""variegated"" aspect, which refers to a pattern or variation in color, not just a variety of colors.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+441,But am not sure I have enough of the purple.,אבל אני לא בטוח שיש לי מספיק מהסגול.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""אבל אני לא בטוח שיש לי מספיק מהסגול"" uses ""לא בטוח"" which means ""not sure"" in a masculine form, while the source ""But am not sure"" is gender-neutral. The Hebrew translation assumes a masculine speaker, which may not accurately reflect the source's intended neutrality.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+446,I have literally tried and dropped EVERY SINGLE ONE.,ניסיתי והפסקתי עם כל אחד ואחד מהם.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The word ""literally"" is omitted in the translation, which emphasizes the extent of the speaker's efforts and is important for conveying the source's meaning.
+[Major]: accuracy/mistranslation - The phrase ""dropped"" is mistranslated as ""הפסקתי"" which means ""stopped"" in Hebrew. The correct translation should convey the meaning of ""gave up"" or ""abandoned,"" which is closer to the source's intent.
+[Minor]: None
+```"
+447,"And up until like two years ago, I had no idea until I checked my transcripts.","ועד לפני בערך שנתיים, לא היה לי מושג עד שבדקתי את התמלילים שלי.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""like"" which indicates approximation in time.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.","זה מרגש, מלחיץ, מתוח, וכל הדברים הטובים שאני אוהב בעבודה במשחקים.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The word ""stressful"" is omitted in the translation, which is an important part of the source text's meaning.
+[Major]: [accuracy/mistranslation] - The word ""מתוח"" (tense) is used instead of ""nerve-wracking,"" which does not fully capture the intended meaning of the source text.
+[Minor]: [accuracy/addition] - None
+```"
+463,Came home on my lunch break to see this sitting outside uwu.,חזרתי הביתה בהפסקת הצהריים שלי וראיתי את זה יושב בחוץ uwu.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/untranslated] - The term ""uwu"" is left untranslated. While ""uwu"" is an emoticon often used to express a cute or happy emotion, it is not a named entity and should be addressed in the translation to maintain the intended tone or emotion.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+475,Had a recent graduate artist take some critique badly tonight.,היה לי אמן שסיים לאחרונה את לימודיו שלקח ביקורת בצורה קשה הערב.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""היה לי אמן"" suggests ownership (""I had an artist""), which is incorrect. The source text implies an interaction or encounter, not possession.
+[Major]: accuracy/mistranslation - The phrase ""take some critique badly"" is mistranslated as ""לקח ביקורת בצורה קשה,"" which does not fully capture the nuance of ""taking critique badly"" in the sense of reacting negatively or being upset by it.
+[Minor]: accuracy/addition - The addition of ""שלי"" (my) in ""היה לי אמן"" is unnecessary and changes the meaning slightly, but it doesn't significantly hinder comprehension.
+```"
+482,"So while composting and bloom scrolling are a wonderful reminder to look up, and be aware of life beyond the screen.",אז בזמן שקומפוסטינג וגלילת פריחה הם תזכורת נפלאה להרים את המבט ולהיות מודעים לחיים מעבר למסך.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""to look up,"" which is important for conveying the full meaning of the source text.
+[Minor]: [accuracy/mistranslation] - ""גלילת פריחה"" (bloom scrolling) is an unusual translation choice that might not be clear to Hebrew speakers, as ""bloom scrolling"" is a creative term in English.
+```"
+483,It is as important to explore servers and IP addresses.,זה חשוב באותה מידה לחקור שרתים וכתובות IP.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""זה חשוב באותה מידה לחקור"" suggests ""it is equally important to explore,"" which implies a comparison not present in the source text. The source text simply states ""It is as important to explore,"" without implying a comparison.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+491,She did not look back.,היא לא הביטה לאחור.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,הוא חיכה עד שהיה בחושך של חדר המיטות לפני שהוציא את הפתק וקרא אותו באלומת אור שחדרה דרך וילונות ההאפלה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/mistranslation - The translation of ""bunk room"" as ""חדר המיטות"" (bedroom) is slightly inaccurate. ""Bunk room"" typically refers to a room with bunk beds, often used in dormitory settings, which may not be fully captured by ""חדר המיטות.""
+```"
+493,One block-printed word.,מילה,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The translation omits ""block-printed,"" which is a crucial part of the source text.
+[Major]: accuracy/mistranslation - None
+[Minor]: accuracy/addition - None
+```"
+498,I'd particularly like to connect with more.,אני במיוחד רוצה להתחבר עם יותר.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The source text ""more"" is omitted in the translation, leading to a loss of important meaning.
+[Major]: accuracy/mistranslation - The translation ""להתחבר עם יותר"" does not accurately convey the meaning of ""connect with more,"" as it lacks the context of connecting with more people or entities.
+[Minor]: accuracy/addition - None
+```"
+499,Everyone with their hair on fire about CNN can thank Stephen Colbert for the hard right turn.,כולם עם השיער באש בגלל CNN יכולים להודות לסטיבן קולבר על הפנייה החדה ימינה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""hard right turn"" is mistranslated as ""הפנייה החדה ימינה,"" which means ""the sharp turn to the right"" without conveying the political context of a ""hard right turn.""
+[Major]: [accuracy/mistranslation] - The phrase ""Everyone with their hair on fire"" is mistranslated as ""כולם עם השיער באש,"" which literally means ""everyone with their hair on fire,"" missing the idiomatic expression meaning people being very upset or alarmed.
+[Minor]: [accuracy/omission] - The phrase ""can thank"" is translated as ""יכולים להודות,"" which is correct, but the context of sarcasm or irony in the original expression is not fully captured.
+```"

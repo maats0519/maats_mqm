@@ -1,0 +1,559 @@
+index,original,translated,linguistic_convention_annotation
+1,助成金ツアー・県民割旅行ならクラブツーリズム！,Club Tourism for subsidized tours and prefectural resident discount travel!,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Club Tourism"" should be ""Club Tourism"" or ""CLUB TOURISM"" to match the capitalization convention implied by the rest of the target string."
+2,各都道府県毎の助成を活用したツアーをご紹介。,Introducing tours that utilize subsidies from each prefecture.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+6,【比較表】薬剤師転職サイト - 一覧比較表でおすすめ紹介,Pharmacist Job Change Sites Comparison Table - Recommended Introduction with a List Comparison Table,"MQM annotations:
+Accuracy Errors
+minor: capitalization/inconsistent - The word ""Pharmacist"" should not be capitalized as it's not a proper noun in this context.
+minor: punctuation/missing - Missing hyphen in ""Job Change Sites"" to read ""Job-Change Sites."""
+7,《2022年最新版》薬剤師転職サイトランキング。,(2022 Latest Edition) Pharmacist Job Change/転職 Site Ranking.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Pharmacist"" should be ""pharmacist""."
+14,初めてのフリーランスで不安な集客や確定申告サポートもご用意しています。,"We offer support for attracting clients and filing taxes, which can be anxieties for first-time freelancers.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+16,ルミクス脱毛のサロン紹介サイト - 予約数ランキングTOP5,Lumix hair removal salon introduction site - Top 5 in booking ranking,"```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Lumix"" should be ""lumix"" as it's not a proper noun in this context.
+```"
+18,早い 短期間 痛くない 熱くないSHR方式のルミクス脱毛サロン予約サイト,"LUMIX hair removal salon reservation site using the fast, short-term, painless, and not-hot SHR method.","MQM annotations:
+linguistic conventions errors:
+minor: capitalization - ""LUMIX"" should be ""Lumix"" as it is not the start of a sentence."
+19,月々1760円からできる歯科矯正 - 【公式】ウィスマイル矯正,"Orthodontics from ¥1,760 per month - [Official] Wismile Orthodontics","MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - The word ""Orthodontics"" should not be capitalized as it is not the beginning of a sentence."
+20,【1760円から】低価格ではじめるならウィスマイル矯正。,Starting from ¥1760 - Wismile Orthodontics if you're looking to start at a low price.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a period at the end of the sentence.
+```"
+23,1650円のお試しコース受付中。,Trial course available for 1650 yen.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Trial"" should be lowercase since it's not the start of a sentence or a proper noun.
+```"
+25,WEBから24時間予約受付中・格安マウスピース矯正・調整料0円。,24-hour online booking available. Affordable aligner treatment. No adjustment fees.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+29,不動産のことなら連合隊 - 北見不動産連合隊,"For real estate matters, it's Rengoutai - Kitami Real Estate Rengoutai.","MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Rengoutai"" should be ""Rengoutai"" to match the capitalization in the first part of the translated text and for consistency."
+31,賃貸アパート、マンション、一戸建て。,"Rental apartments, condominiums, and detached houses.","```
+MQM annotations:
+linguistic conventions errors:
+minor: no-error - None
+```"
+33,地元に密着・写真は最大30枚・無料の物件査定も実施中。,Locally focused - Up to 30 photos - Free property valuation available.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+36,お急ぎ便が使い放題。,Unlimited access to express delivery.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Unlimited"" should not be capitalized unless it begins a sentence."
+40,ポイントが貯まる・スマホアプリあり・数億種の品揃え。,"Earn points, has a smartphone app, and offers hundreds of millions of products.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""points""."
+45,あの人気漫画を今こそ一気読み。,Now is the perfect time to binge-read that popular manga.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Now"" should be ""now"".
+```"
+46,全作品試し読みアリ・買うよりお得。,Try before you buy with full previews - more value than buying!,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing punctuation at the end of the sentence."
+50,クチコミ情報も満載です。,It's packed with word-of-mouth information.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""It's"" should be ""it's""."
+51,タイムセールや限定プランも。,"Also, time-limited sales and exclusive plans.","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a period at the end of the sentence.
+```"
+52,自宅で簡単予約・ビジネスホテルが充実・プラン充実・会員登録でポイント貯まる。,"Easy booking from home, extensive selection of business hotels, wide variety of plans, earn points with membership registration.","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""home"".
+```"
+54,端子台 貫通をこの価格で買える通販モノタロウ。,Terminal blocks (feed-through) available for purchase at this price on MonotaRO online store.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization - ""Terminal blocks"" should be ""terminal blocks""."
+56,端子台 貫通の通販。,"Terminal block, feed-through type, online shopping.","MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Terminal block"" should be ""terminal block""."
+59,紀伊御坊駅の格安ホテル - 【じゃらん】公式サイト,Budget Hotels near Kii-Gobo Station - [Jalan] Official Website,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Budget"" should be ""budget""."
+62,【紀伊御坊駅】のホテル・旅館を予約するならじゃらん。,"If you're booking a hotel or ryokan near Kii-Gobo Station, use Jalan.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+63,じゃらん限定・格安プランも充実。,Jalan exclusive - Plenty of affordable plans available!,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+64,会員登録でポイント貯まる・当日予約OKの宿多数・お得なクーポン配布中。,"Earn points with membership registration, many hotels offer same-day booking, and special coupons are available.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""registration"".
+minor: punctuation/omission - Missing comma before ""and""."
+65,入力簡単60秒で無料査定依頼 - 路線価・地価の相場を調べるなら,"Easy Input, Free Appraisal Request in 60 Seconds - If you want to check route values and land price market rates.","MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Easy"" should be ""easy"" as it's not a proper noun or the start of a sentence."
+66,マンション・土地・一戸建ての無料売却査定が可能。,"Free appraisal for selling your apartment, land, or detached house is available.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+67,エリアから価格相場の把握ができます。,You can get an idea of price ranges from the area.,"MQM annotations:
+linguistic conventions errors:
+minor: grammar/omission - Missing article ""the"" before ""area"". The sentence would read better as ""You can get an idea of price ranges from the area."" Alternatively, ""an area"" could be used."
+68,不動産売却のお悩みはプロが解決！,Real estate sale troubles? Let a pro solve them!,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing question mark at the end of the sentence."
+71,マンションの売却・査定・最適な売却プランをご提案・売主様へ安心サポート。,"Sale of apartments, appraisal, proposal of optimal sales plan, and reliable support for sellers.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""apartments"".
+minor: punctuation/omission - Missing comma after ""appraisal""."
+75,ダイキン エアコン お客様 センター見つけましょう。,Let's find the Daikin air conditioner customer center.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+78,来場予約キャンペーン実施中 - 都市型狭小3階建てモデルハウス,Visiting Reservation Campaign in Progress - Urban Compact 3-Story Model House,"```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Visiting"" should be ""Visiting"".
+```"
+83,ITツールを駆使し業務コストを削減し、リーズナブルな価格でのサービス提供を実現,"By fully utilizing IT tools, we reduce operational costs and achieve service provision at reasonable prices.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a comma after ""tools"".
+```"
+92,どうしても今すぐお金が必要 - 【厳選3社】即日キャッシング,I desperately need money right now - [Carefully Selected Top 3] Same-day Cash Loans,"```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Same-day"" should be ""Same-Day"".
+```"
+98,レストラン予約するなら一休.com、お店の口コミも掲載。,"If you're booking a restaurant, use Ikkyu.com. They also have restaurant reviews.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+102,幸せウエディングを叶える情報満載／結婚式準備はゼクシィ。,Packed with information to make your dream wedding a reality / Wedding preparations? Zexy.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Wedding"" should be ""wedding"".
+```"
+107,ゴールドカードはメリットばかり！,Gold cards are nothing but benefits!,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing punctuation at the end of the sentence.
+```"
+110,自宅用のホームルーターをお探しの方必見！,A must-read for those looking for a home router for home use!,"MQM annotations:
+minor: capitalization/incorrect - ""A"" should be ""a"" at the beginning of the sentence."
+112,置くだけで使えるWiFiも！,Ready-to-use WiFi that you just set down!,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""WiFi"" should be ""Wi-Fi"" to follow proper English spelling and capitalization conventions for the term."
+115,蒲田イン ソーシャル- トリップアドバイザー,Kamata Inn Social - Tripadvisor,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/whitespace - Missing space after hyphen. ""Social-Tripadvisor"" should be ""Social - Tripadvisor""."
+119,ショートが似合うか不安な方でもしっかりとカウンセリングして似合わせをいっしょに考えます。,"Even if you're worried about whether short hair will suit you, we'll provide thorough counseling and work together to find a style that suits you.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""you"".
+```"
+124,ロハコ限定、くらしになじむデザインが多数。,"LOHACO exclusive, with many designs that blend into your everyday life.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+125,最短翌日お届け、PayPay決済対応。,"Delivered as early as the next day, supports PayPay payment.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+127,都心へのマルチアクセスを叶えるタワーレジデンス。,A tower residence offering multi-access to the city center.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Multi-access"" should be ""multi-access""."
+128,4路線利用できる‘目黒’駅に誕生。,"Born at 'Meguro' Station, accessible by 4 train lines.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+129,野村不動産グループ×JR東日本グループ開発エリア【MEGURO MARC】の32階建タワー。,Nomura Real Estate Group x JR East Group Development Area [MEGURO MARC]'s 32-story tower.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing apostrophe after ""MARC"" to indicate possession.
+```"
+132,続くから変われる、人生を変える英会話の力をあなたへ。,Continuing allows you to change; giving you the power of English conversation to change your life.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Continuing"" should be ""continuing"".
+```"
+136,クラウド電話を1内線200円から - 【公式】サテライトオフィス,Cloud phone from 200 yen per extension - [Official] Satellite Office,"MQM annotations:
+no-error"
+145,glovesdepoを探すなら、日本最大級通販ショップ楽天市場。,"If you're looking for glovesdepo, Rakuten, one of Japan's largest online shopping sites.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a period at the end of the sentence."
+148,目黒 恵比寿 五反田エリアで顧問弁護士をお探しなら目黒国際法律事務所。,"If you are looking for a consulting lawyer in the Meguro, Ebisu, or Gotanda area, Meguro International Law Office is the place to go.","```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Consulting"" should be ""consulting"" as it's not a proper noun in this context.
+```"
+151,若手弁護士がフットワーク軽く迅速に対応します。,Young lawyers provide prompt service with agility.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Young"" should not be capitalized."
+152,20代～シニアまで申込める保険 - 【生命保険】はなさく生命,Insurance for ages 20s to seniors - [Life Insurance] Hanasakuseimei,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Insurance"" should be ""insurance"" as it's not a proper noun in this context."
+161,素肌が喜ぶ、FOOD(食べもの)から生まれた化粧品。,Cosmetics born from FOOD(food) that your bare skin will love.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - The word ""FOOD"" should not be fully capitalized."
+162,食べてカラダにいいFOODをお肌にも！,Good-for-you food to eat is also good for your skin!,"```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - The word ""Good"" should not be capitalized at the beginning of the sentence unless it's the start of a title or heading.
+```"
+164,特別セールやキャンペーンをお見逃しなく。,Don't miss out on special sales and campaigns.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+165,韓国で人気のスキンフード・韓国コスメのスキンフード・SKINFOOD公式通販。,Popular Skinfood and Korean Cosmetics Skinfood in Korea - SKINFOOD Official Online Store.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Skinfood"" should be ""skinfood"" at the beginning of the sentence.
+minor: punctuation/omission - Missing a comma after ""Korea"".
+```"
+166,【広島】ホットヨガTOP3 - 人気No1のホットヨガスタジオ,[Hiroshima] Top 3 Hot Yoga - #1 Most Popular Hot Yoga Studio,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""#1"" should be ""No. 1"" or ""Number 1"" for better readability and adherence to typical English conventions."
+169,お得なキャンペーン中,Special promotion ongoing.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization - ""Special"" should be lowercase since it's not a proper noun or the beginning of a sentence.
+```"
+175,活力サポートサプリ・テストフェン配合・スーパーマカ配合。,Energy support supplement with Testofen and Super Maca.,"MQM annotations:
+minor: capitalization/incorrect - ""Energy"" should be ""energy"".
+```"
+177,【東京23区】で一戸建て探しならオープンハウス。,"If you're looking for a detached house in Tokyo's 23 wards, Open House is the place to go.","MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Open House"" should be ""open house"" as it is not a proper noun in this context."
+180,厳選した大泉学園の一戸建てを掲載中。,Carefully selected detached houses in Oizumi-gakuen are listed.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Carefully"" should be ""carefully"" as it's not a proper noun or the start of a sentence."
+186,宿泊&航空券をあんしん予約。,Book your accommodation & flights with confidence.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+196,モテ髪ヘアカタログ・人気サロンをネット予約・ネット予約でポイントGet。,"Popular Hairstyle Catalog for Attracting Attention, Online Booking for Popular Salons, Get Points with Online Booking.","MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Hairstyle"" should be ""hairstyle""."
+198,クチコミ比較、最安値予約、現地払い。,"Reviews comparison, lowest price booking, pay at location.","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing commas to separate the list of items.
+```"
+204,全国のビューティーサロンの検索、空席確認、ネット予約。,"Search, check availability, and make online reservations for beauty salons nationwide.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+206,理想の照明がない… - 取扱いブランド数、日本最大級,No ideal lighting...,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing punctuation at the end of the sentence."
+209,各種カード、ポイント還元・日本最大級2万点の品ぞろえ。,"Various cards accepted, point rewards, and Japan's largest selection of 20,000 items.","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""cards accepted"".
+```"
+214,"【公式】ヴァージンクリニック - 全身医療脱毛5回88,000円／京都","[Official] Virgin Clinic - Full Body Medical Hair Removal 5 Sessions for 88,000 Yen / Kyoto","```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Full"" should be lowercase ""full"" as it is not a proper noun in this context.
+```"
+217,追加料金も0円で安心,"No additional fees, so you can rest assured.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+218,幕張本郷 口コミ第1位の整体院 - 多くの専門家が絶賛する技術,Makuharihongo's #1 rated chiropractic clinic - Technique highly praised by many experts.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization - ""Chiropractic"" should be lowercase as it is not part of a proper noun phrase."
+232,料金も時間も節約しよう。,Let's save money and time.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+234,お気に入りの宿を特別料金で。,Your favorite hotels at special prices.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Your"" should be ""your"".
+```"
+238,自分で淹れたおいしい一杯を味わいながら、プロの技をマスター。,Master the skills of a pro while savoring a delicious cup you brewed yourself.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization - ""Master"" should not be capitalized as it is not the start of a sentence."
+244,25歳以下または対象期間内に引越した方でAirターミナル5を購入・契約し、開通後アンケート回答で,"Those who are 25 years old or younger, or who moved within the eligible period, purchased and contracted for Air Terminal 5, and completed the post-installation questionnaire.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""younger"".
+```"
+246,3層タイプのプリーツマスクで、オメガ形状のプリーツが大きく広がり、鼻や口を圧迫しにくく、呼吸しやすくなっています。,"A three-layer pleated mask with an omega-shaped pleat design that expands widely, making it less likely to press against the nose and mouth, and easier to breathe.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a period at the end of the sentence."
+248,10枚/袋×2袋で包装しており、持ち運び便利な仕様です。,Packaged as 10 sheets/bag x 2 bags for convenient portability.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+249,ゴム紐は6mmの平ゴム形状なので、耳への当たりが柔らかく、よくある耳の痛みも軽減してくれます。,"The elastic band is a 6mm flat elastic, so it's gentle on the ears and reduces common ear pain.","MQM annotations:
+no-error"
+263,※A4 5冊入の商品に掲載の画像は新しいパッケージの商品です。,The image shown for the A4 5-book set is the new packaging.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+264,以前のパッケージ商品の用紙と仕様は同一です。,The paper and specifications are the same as the previous packaged product.,"MQM annotations:
+linguistic conventions errors:
+minor: no-error"
+266,箱に記載されている注文コードと500枚入の包装紙記載の注文コードは異なります。,The order code on the box and the order code on the package of 500 wrapping papers are different.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+267,(500枚入の1冊で販売するためです),Because they are sold in packs of 500 sheets.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+270,ブレーキライニングやブレーキドラムや機械部品等に付着したオイルやグリース等の汚れをきれいに落としブレーキ装置から発生する様々な粉塵を空気中に飛散させることなく、油脂類やカーボン等の汚れを素早くきれいに落とします。,"Quickly and cleanly removes oil, grease, and other dirt adhering to brake linings, brake drums, and mechanical parts, and quickly and cleanly removes oil stains and carbon deposits without scattering various types of dust generated from brake devices into the air.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""linings"".
+minor: punctuation/omission - Missing comma after ""drums"".
+minor: punctuation/omission - Missing comma after ""without""."
+271,又、オゾン層の破壊や環境汚染の原因となるフロン及びトリクロロエタンを一切含まない有機溶剤中毒予防規則適用外の洗浄剤です。,"Also, this is a cleaning agent that does not contain any ozone-depleting or environmentally polluting chlorofluorocarbons or trichloroethane, and is not subject to the Ordinance on Prevention of Organic Solvent Poisoning.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""Also""."
+274,缶の逆さ使用OK。,Inverted can use OK.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Inverted"" should be ""inverted""."
+276,ニトリルゴム手袋 極薄 粉なし ブルー色 100枚入,"Nitrile rubber gloves, extra thin, powder-free, blue, 100 count","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""blue"".
+```"
+277,柔らかく手にピッタリフィットするので、長時間の細かな作業に適しています。,"Because they are soft and fit perfectly in your hand, they are suitable for detailed work over long periods of time.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""hand"".
+```"
+279,便利な左右兼用タイプのためムダなくお使いいただけます。,"Because it is a convenient ambidextrous type, you can use it without waste.","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""type"".
+```"
+283,※体質によっては、かゆみ、かぶれ、発疹等をおこすことがあります。,"Depending on your constitution, it may cause itching, rash, or other skin irritations.","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+286,膨潤、浸透、老化することがあります。,"May swell, permeate, or age.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a period at the end of the sentence."
+289,※爪先、刃物や尖ったもの等で傷をつけないよう注意してください。,"Please be careful not to scratch the surface with your nails, blades, sharp objects, etc.","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+290,水漏れの原因になります。,Can cause water leaks.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Can"" should be ""can"".
+```"
+295,サイズが一目瞭然のデザイン。,A design where the size is immediately obvious.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: no-error
+```"
+299,※電池のアルカリ液が目に入ったときは失明などのおそれがあるので、すぐに多量のきれいな水で洗い流し、 医師の治療を受ける。,"If alkaline battery fluid gets into your eyes, there is a risk of blindness, so immediately flush them with plenty of clean water and seek medical attention.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""eyes"".
+```"
+306,※この電池は充電式でないので、充電すると液漏れ、発熱、破裂のおそれがある。,"Since this battery is not rechargeable, attempting to charge it may cause leakage, heat generation, or rupture.","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""rechargeable"".
+```"
+315,着け具合も柔らかくフィット感のある軍手です。,These work gloves are soft to wear and have a snug fit.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: grammar/none - No errors found.
+```"
+318,※回転体を伴う機械作業では、使用しないでください。,Do not use when performing machine work involving rotating parts.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+321,マスキングテープ 高品質 和紙基材,"Masking tape, high quality, washi paper base","MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""washi"" should not be capitalized."
+323,のり残りが少なくタテ裂けが起こりにくいです。,Leaves little adhesive residue and is resistant to tearing vertically.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a period at the end of the sentence."
+324,※被着体、塗料の種類によっては貼り跡やのり残りが発生する場合がありますので、問題がないことを確かめてからご使用下さい。,Please test in an inconspicuous area to ensure no adhesive residue or damage occurs as some surfaces and paint types may be affected.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+329,※ティシューは水に溶けにくいため、水洗トイレには流さないでください。,Please do not flush tissues down the toilet as they do not dissolve easily in water.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+331,※引火の原因になりますので、火気の近くに置かないでください。,"To prevent ignition, do not place near open flames or sources of heat.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+334,プロユーザーにも安心してご使用いただける品質の、弱粘着タイプ養生テープです。,This is a low-tack masking tape with a quality that professional users can rely on.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""This"" should be ""this"" as it's not the start of a new sentence after a full stop."
+339,手で簡単にカットできる養生用ポリエチレンクロステープで耐候性・耐水性に優れています。,This is a polyethylene cloth tape for temporary use that can be easily cut by hand and has excellent weather resistance and water resistance.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a period at the end of the sentence."
+340,再はくり性が良好です。,It has good re-releasing properties.,"MQM annotations:
+linguistic conventions errors:
+minor: spelling/spelling - ""re-releasing"" should be ""re-releasability"" or ""release"". While not strictly incorrect, it's uncommon and sounds awkward. A more appropriate term would be re-releasability, or better, using ""release"" as in ""good release properties."""
+341,※貼る対象物や使用環境によっては、粘着力等数値通りの値が出ない場合がございます。,Please note that the adhesive strength and other values may not meet the stated specifications depending on the object to which the product is applied and the usage environment.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+349,※養生後、テープを早く剥すと破断する恐れがありますので、ゆっくり剥してください。,"After curing, peeling the tape off quickly may cause tearing, so please peel it off slowly.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a comma after ""curing"". The sentence should read: ""After curing, peeling the tape off quickly may cause tearing, so please peel it off slowly."""
+350,※粘着剤特有のにおいがありますので、換気の良い所でのご使用をお勧めします。,"※Due to the adhesive's characteristic odor, it is recommended to use it in a well-ventilated area.","```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - The word ""Due"" should not be capitalized because it is not the beginning of a sentence.
+```"
+351,※被着体と養生期間によっては、被着体を汚染・損傷する場合がありますので、ご使用前にお確かめください。,Please test before use as certain substrates and curing periods may result in staining or damage to the substrate.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+356,従来品に比べ耐候性がアップしました。,"Compared to the conventional product, the weather resistance has been improved.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+360,保管する場合は密閉することを推奨します。,Sealing is recommended for storage.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Sealing"" should be ""sealing"" as it is not the beginning of a sentence."
+362,※一度ご使用された製品を再度ご使用にされることで、結束力不足により不具合が発生する可能性があります。,Reusing a product that has already been used may cause defects due to insufficient binding force.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: grammar/incorrect word choice - ""Binding force"" is not the most natural or precise term in English. ""Structural integrity"" or ""adhesive strength"" might be more appropriate depending on the context. However, the meaning is still understandable.
+
+```"
+365,※取り付けの際には現車取り付け部に真っ直ぐ取り付け作業を行ってください。,"When installing, make sure to install it straight onto the mounting area of the actual vehicle.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a period at the end of the sentence."
+368,現在販売している商品は品質確認済になりますのでご安心してご使用下さい。,"The products currently being sold have had their quality checked, so please use them with confidence.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+369,※当製品は交換作業を整備業者へ依頼して行う事をおすすめします。,We recommend that you have a professional mechanic perform the replacement work for this product.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+370,個人で交換作業を行った場合は補償出来ない場合もございます。,We may not be able to provide compensation if you performed the replacement work yourself.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+371,※ネジ寸法が各オイルフィルターで異なっている為、高さや外径などが同じフィルターに見えても取り付け前に再度、車種とネジ寸法をご確認ください。,"※Because screw dimensions differ for each oil filter, even if filters appear to be the same in height or outer diameter, please reconfirm the vehicle model and screw dimensions before installation.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a comma after ""diameter""."
+373,※わずかな違いでも大きなトラブルになる場合がございます。,Even slight differences can lead to major problems.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a period at the end of the sentence.
+```"
+378,白メリヤスウエス 中古生地,"White knitted wiping cloths, used fabric","MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""White"" should be lowercase.
+```"
+380,ウエス製品の中で優れた製品です。,It is an excellent product among WES products.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""WES"" should likely be ""wES"" or ""wes"" depending on the context, as it appears to be a general product category rather than a proper noun.
+
+```"
+382,カット済。,Cut済 = Already cut.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/whitespace - Missing space between ""Cut"" and ""済"".
+minor: grammar/capitalization - ""Already cut"" should not be capitalized if it is not the start of a sentence."
+390,※用途以外に使用しないでください。,Do not use for purposes other than those specified.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+393,ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,Please avoid using chemical products as contact with them may cause discoloration.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Please"" should be ""please"" as it is not the beginning of a sentence."
+395,食品に触れる用途には使用しないでください。,Do not use for food contact applications.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - The word ""Do"" should be ""do"".
+```"
+398,※ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,Please avoid using chemical products as contact with them may cause discoloration.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Please"" should be ""please"" as it is not the start of a sentence."
+399,ハンドクリーナー 工業用 オレンジエキス保湿成分配合 スクラブ入り,Industrial hand cleaner with orange extract moisturizer and scrub.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Hand"" should not be capitalized unless it is the start of the sentence."
+409,異物感が残る場合は、眼科医にご相談ください。,"If a foreign body sensation remains, please consult an ophthalmologist.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+421,※使用後の本製品の廃棄は、お住まいの各自治体で定められたゴミ廃棄方法に従ってください。,Please dispose of this product according to the waste disposal methods defined by your local municipality.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Please"" should not be capitalized at the beginning of the sentence."
+422,※袋を閉じる際は結束バンドでしっかり結んでください。,"When closing the bag, be sure to tie it securely with a cable tie.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+428,※本来の用途以外には使用しないでください。,Do not use for purposes other than its intended use.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - The word ""Do"" should not be capitalized at the beginning of the sentence since it is not a title.
+```"
+434,※フタが開けにくい際はフタを少し潰す様に押すと開けやすくなります。,"If the lid is difficult to open, pressing down on it slightly as if to crush it a little can make it easier to open.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+435,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"When disposing of the contents, cleaning waste fluid, or containers, please entrust disposal to a specialized waste disposal contractor licensed by the prefectural government.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""containers"".
+```"
+438,透明度があり加工後も封入物の文字をクッキリ読めます。,It has transparency and allows you to clearly read the enclosed text even after processing.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""It"" should be ""it"".
+```"
+439,※機器には接着加工してあるシール部分から挿入してください。,Please insert from the seal area that has been bonded to the device.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+443,※一度加工したシートは再生不能となります。,"Once the sheet has been processed, it cannot be restored.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+450,※工業用の薬品やアルコール、石油製品などには絶対に使用しないで下さい。,"Do not use with industrial chemicals, alcohol, petroleum products, etc. under any circumstances.","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+451,※熱湯は入れないで下さい。,Please do not pour boiling water.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+455,中身が漏れる恐れがございます。,The contents may leak.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+459,店頭でフックなどに吊り下げることができる便利な穴付きです。,Convenient hole for hanging on hooks or other fixtures in stores.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing a period at the end of the sentence.
+```"
+460,フック用穴と本体の間はミシン目入りなので、フックに掛けて本体を引っ張れば穴の下から切れて使える構造になっています。,"The area between the hanging hole and the main body is perforated, so you can hang it on a hook and pull the main body to tear it off from below the hole.","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing comma after ""hole"".
+```"
+461,表面にエンボス加工入り。,Embossed surface.,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Embossed surface"" should be ""embossed surface""."
+464,※幼児や子供がかぶって遊ぶと窒息などの危険がありますのでご注意ください。,Please be careful as there is a risk of suffocation if infants or children play with this by putting it on their heads.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+465,※高温多湿を避け、火の気のない場所で保管してください。,"Please store in a cool, dry place away from fire.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+481,OPPテープ 透明色,Clear OPP tape,"MQM annotations:
+linguistic conventions errors:
+minor: capitalization/incorrect - ""Clear"" should be ""clear""."
+482,梱包用テープとして、価格も安く強度も強い為、良く使われています。,Packing tape is often used because it's inexpensive and strong.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+487,※梱包用途以外の使用は避けてください。,Please avoid using for purposes other than packaging.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+488,貼る面を損傷する場合がございます。,The surface may be damaged when applying/attaching it.,"MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."
+492,※物性は測定値であり、規格値或いは保証値でありません。,The physical properties are measured values and are not standard or guaranteed values.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence.
+```"
+499,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"When disposing of contents, cleaning waste liquid, and containers, please entrust the disposal to a specialized waste disposal contractor licensed by the prefecture.","MQM annotations:
+linguistic conventions errors:
+minor: punctuation/omission - Missing period at the end of the sentence."

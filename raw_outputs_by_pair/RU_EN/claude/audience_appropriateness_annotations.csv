@@ -1,0 +1,477 @@
+index,original,translated,locale_convention_annotation
+6,"Соревнования личные с командным зачетом, участвуют спортсмены команд субъектов РФ, в одной возрастной группе — мужчины, женщины.","Individual competitions with team standings, athletes from teams of the constituent entities of the Russian Federation participate, in one age group - men, women.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""команд субъектов РФ"" (teams of the constituent entities of the Russian Federation) may not be familiar or relevant to an English-speaking audience outside of Russia.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""мужчины, женщины"" (men, women) instead of more common English equivalents like ""male, female"" or ""men, women"" may sound slightly unusual to an English-speaking audience."
+9,"Перезачет результатов для спортсменов, которые не принимали участие в данных соревнованиях, не производится, а очки для командного зачета не начисляются.","The results are not transferred for athletes who did not participate in these competitions, and points for the team standings are not awarded.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""points for the team standings are not awarded"" may not be a common or intuitive concept for some target audiences, as the idea of team standings and points may not be universally understood."
+14,"В эстафетном беге спортсмены, могут выступать только за команду одной территории.","In relay racing, athletes can only compete for a team from one territory.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""territory"" may not be the most appropriate or common way to refer to the geographical areas that teams represent in relay racing for the target English-speaking audience. A more natural term like ""region"" or ""country"" may be more suitable."
+23,Официальная тренировка на соревновательной арене 14 февраля с 16:00 до 19:00. В соревновательные дни — вне времени соревнований.,Official training on the competition arena on February 14 from 16:00 to 19:00. On competition days - outside of competition times.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""competition arena"" may not be a common term for the target audience and could be replaced with a more familiar term like ""competition venue"" or ""competition field"".
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""competition days"" may not be the most natural way to express the concept in the target language and could be rephrased as ""days of competition"" or ""during the competition""."
+26,СаЙ Коот будет расположен за вторым виражом рядом с сектором толкания ядра.,The shot put sector will be located behind the second turn next to the shot put sector.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""shot put sector"" may not be familiar or intuitive for the target English-speaking audience, as it refers to a specific sports facility that may not be widely known outside of the context of the sport.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""second turn"" is a direct translation from the source language and may not be the most natural or idiomatic way to express the concept in English. A more common term like ""second curve"" or ""second bend"" would be more appropriate."
+29,Уход участников с места соревнований без разрешения рефери запрещается.,Leaving the competition venue without the referee's permission is prohibited.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""referee"" may not be a commonly used or understood term in the target culture, and a more culturally appropriate term such as ""judge"" or ""official"" may be more suitable."
+35,"В беге на 60 м и беге с барьерами 60 м соревнования проводятся в 3 круга, выход в следующий круг будет определен по окончанию приема заявок.","In the 60m run and the 60m hurdles, the competitions are held in 3 rounds, the advancement to the next round will be determined upon the completion of the registration.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""the next round"" may not be clear to the target audience, as the concept of rounds in competitions may not be a common cultural reference.
+[Minor]: WRONG LANGUAGE VARIETY - The use of ""the registration"" instead of a more natural-sounding term like ""sign-ups"" or ""enrollment"" may not align with the typical language used in the target culture for this context."
+39,"В прыжках и метаниях проводятся квалификационные (в случае более 16 заявленным спортсменов) и финальные соревнования, для участия в которых необходимо пройти квалификацию.","In jumps and throws, qualifying (in case of more than 16 athletes entered) and final competitions are held, for participation in which it is necessary to qualify.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""qualify"" may not be immediately clear to the target audience, as the concept of qualifying for a competition may not be as common in some cultures.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the phrase ""for participation in which it is necessary to qualify"" may sound overly formal or technical for some target audiences, and a more natural phrasing may be more appropriate."
+57,Техническое совещание ГСК с официальными представителями команд состоится 14 февраля в 18:00 в конференц-зале манежа ЛФК ЦСКА.,Technical meeting of the GSK with official representatives of the teams will be held on February 14 at 6:00 PM in the conference hall of the LFK CSKA sports complex.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""LFK CSKA"" may not be familiar to the target audience and could benefit from additional context or explanation."
+59,"Июльский номер традиционно сдается во время Московского кинофестиваля, и это, конечно, очень грустно: вычитывать полосы, когда душа рвется на Шаброля.","The July issue is traditionally handed in during the Moscow Film Festival, and this, of course, is very sad: to proofread the pages when the soul yearns for Chabrol.","MQM annotations:
+audience appropriateness errors:
+
+Major: culture-specific reference - The reference to ""Chabrol"" may not be widely understood by the target audience, as he was a French film director who was not as well-known internationally.
+
+Minor: style/awkward - The phrase ""to proofread the pages when the soul yearns for Chabrol"" sounds unusual and may not resonate well with the target audience."
+62,"А еще мы в этот раз публикуем первую часть довольно подробного гида по творчеству Альфреда Хичкока, и вот тут уж точно не нужно ничего специально рекламировать, и ежу понятно, что автор «Подозрения» и «Веревки» - это наше Татьяна Алешичева, Борис Глейзеров, Анна Головня, Ник Де Семлин, Дэн Джолин, Тамара Дондурей, Николай Караев, Денис Корсаков, Мария Кувшинова, Иван Куликов, Уилл Лоуренс, Сергей Мезенов, Сергей Натапов, Иан Нейтан, Ким Ньюмэн, Заира Озова, Нев Пирс, Алексей Простяков, Серафима Скибюк, Адам Смит, Мур Соболева, Василий Степанов, Александр Стрелков, Олли Ричардс, Олег Тищенков, Алена Логунова, Крис Хьюитт, Ольга Шакина лондинку-цэрэушницу Эвелин Солт, несмотря на блестящий послужной список, заподозрили в шпионаже в пользу русских и решили во что бы то ни стало изловить.","Here is the translation from Russian to English:
+
+And this time we are also publishing the first part of a rather detailed guide to the work of Alfred Hitchcock, and here it is definitely not necessary to advertise anything specially, and it is clear to everyone that the author of ""Suspicion"" and ""Rope"" is our Tatyana Aleshicheva, Boris Gleizerov, Anna Golovnya, Nick De Semlin, Dan Jolin, Tamara Dondureyev, Nikolai Karaev, Denis Korsakov, Maria Kuvshinova, Ivan Kulikov, Will Lawrence, Sergey Mezenov, Sergey Natapov, Ian Nathan, Kim Newman, Zaira Ozova, Nev Pierce, Alexey Prostyakov, Serafima Skibuk, Adam Smith, Moor Soboleva, Vasily Stepanov, Alexander Strelkov, Olly Richards, Oleg Tishchenko, Alena Logunova, Chris Hewitt, Olga Shakina the London-based CIA agent Evelyn Salt, despite her brilliant service record, was suspected of spying for the Russians and decided to catch her at all costs.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""Suspicion"" and ""Rope"" as the author's works may not be immediately recognizable or meaningful to all readers, as these are specific film titles by Alfred Hitchcock.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""цэрэушницу"" (a Russian abbreviation for ""CIA agent"") may not be a common or expected term in the target English audience."
+63,"Загнанная в угол, она перекрасится в привычный нам черный и сама отправится искать правду.","Cornered, she will dye herself in the familiar black and go in search of the truth.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""in the familiar black"" may not be easily understood by the target English audience, as the cultural connotation of wearing black may not be as common or recognizable.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""go in search of the truth"" could be perceived as slightly formal or literary, which may not align with the intended target audience's language expectations."
+66,Примерно так красота и должна спасать мир.,"Beauty should save the world, roughly like that.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""roughly like that"" may not be a natural or idiomatic way to express the sentiment in English and could be perceived as slightly awkward or out of place for the target audience."
+67,"Вот он, родной, взорвавший и починивший мир «Пятым элементом» и сделавший Миллу Йовович самой прекрасной женщиной во вселенной.","Here he is, the native, who blew up and fixed the world with ""The Fifth Element"" and made Milla Jovovich the most beautiful woman in the universe.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the native, who blew up and fixed the world with 'The Fifth Element'"" may not be easily understood by all target audiences, as it references a specific movie that may not be widely known or culturally relevant to them.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the phrase ""the most beautiful woman in the universe"" to describe Milla Jovovich may come across as overly hyperbolic or colloquial, which may not align with the expected tone or register of the target audience."
+70,Что делал Бессон 13 лет между «Элементом...» и «Аделью...» вспоминать не хочется.,"What Besson did for 13 years between ""The Element..."" and ""Adele..."" is not something he wants to remember.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""is not something he wants to remember"" may not be a common or natural way of expressing this sentiment in the target culture, and could be perceived as unusual or awkward."
+71,"Он, мягко говоря, без дела не сидел, но вся эта сценарно-продюсерская суета и редкие, вымученные режиссерские выступления забудутся.","He, to put it mildly, was not idle, but all this scenario-producing hustle and rare, agonized directorial performances will be forgotten.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""to put it mildly"" may not be a common expression in the target culture and could sound slightly unnatural.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""hustle"" may have a slightly different connotation or usage in the target language compared to the source."
+72,А вот «Адель...» — едва ли.,"""Adele...""—hardly.","MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""Adele..."" may not be immediately clear or familiar to the target audience, as it references a specific cultural figure (the singer Adele) that may not be widely known in all contexts."
+73,"Когда смотришь это кино, кажется, что 13 лет перед нами был не наш Бессон, а какой-то двойник.","When you watch this movie, it seems that 13 years ago it was not our Besson, but some kind of double.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""our Besson"" may not be clear or meaningful to an English-speaking audience who may not be familiar with the French filmmaker Luc Besson.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""13 years ago"" does not flow naturally in English and may sound more like a direct translation from the Russian."
+76,"Тут весь невероятный драйв заключается в том, что за каждым поворотом или репликой вас поджидают сюрпризы.","Here, the incredible drive is that surprises await you around every corner or line.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""incredible drive"" may not be a common or natural expression in the target English audience, as it could be interpreted more literally as a sense of excitement or enthusiasm, rather than the intended meaning of ""surprises"" or ""unexpected elements""."
+77,И все как один приятные.,And they are all pleasant.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""as one"" may not be a natural or idiomatic way to express the meaning in the target language and culture."
+78,"То ли девушка, то ли видение","A vision, or a girl.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""то ли девушка, то ли видение"" is a Russian idiom that may not be easily understood by an English-speaking audience. A more direct translation or an explanation of the cultural context may be needed."
+84,"Режиссер не бежит за зрителем с протянутой рукой, умоляя оценить спецэффекты, декорации или трюки, а увлекает за собой, как старомодный романист, восклицающий пред большим путешествием к центру земли или на край света: «Вперед, мой читатель, нас ждут великие дела!»","The director does not run after the viewer with an outstretched hand, begging to appreciate the special effects, sets, or stunts, but rather draws them in, like an old-fashioned novelist, exclaiming before a great journey to the center of the earth or to the edge of the world: ""Forward, my reader, great deeds await us!""","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The use of the phrase ""old-fashioned novelist"" may not resonate well with the target audience, as the cultural context of classic literature may not be as familiar.
+[Minor]: [culture-specific reference] - The references to ""a great journey to the center of the earth or to the edge of the world"" may not be as widely recognized by the target audience, as they are more specific to classic literature and adventure stories."
+85,"При этом Бессон обращается с жанровым кино, про которое знает решительно все, бесцеремонно и весело, как мальчишка, насмотревшийся старых фильмов и начитавшийся Жюля Верна.","At the same time, Besson deals with genre cinema, about which he knows absolutely everything, unceremoniously and cheerfully, like a boy who has watched old movies and read Jules Verne.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""a boy who has watched old movies and read Jules Verne"" may not be as culturally relevant or familiar to some target audiences, potentially causing confusion or a sense of non-belonging."
+86,"Манипулируя банальностями, не отказывая себе в цинизме и не стесняясь риско","Manipulating banalities, not denying oneself cynicism and not being ashamed of risk.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: [culture-specific reference] - The phrase ""not denying oneself cynicism and not being ashamed of risk"" may come across as overly cynical or inappropriate for some target audiences, as it could be seen as promoting unethical or reckless behavior.
+[Minor]: [style/awkward] - The overall phrasing of the translation, such as ""Manipulating banalities, not denying oneself cynicism and not being ashamed of risk,"" may sound slightly unnatural or awkward in the target language."
+90,"Город переполошило древнее чудовище, которое пробудил к жизни старый медиум.","The ancient monster, which an old medium awakened to life, has thrown the city into a state of turmoil.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the term ""medium"" may not be widely understood or appropriate for the target audience, as it is a concept more commonly associated with Western occult practices."
+92,С той же целью девушка тащит из Египта настоящую мумию.,A girl drags a real mummy from Egypt for the same purpose.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to a ""real mummy"" from Egypt may be considered unusual or inappropriate for some target audiences, as it could be perceived as sensationalistic or disrespectful towards cultural artifacts."
+96,"Стиль Бессона в этом фильме складывается из словесного трюкачества, актерской клоунады и сюжетной эквилибристики (цирковые термины вполне уместны - единение двух искусств здесь органично и крепко как никогда).","The style of Besson in this film is made up of verbal trickery, acting clownery, and plot acrobatics (circus terms are quite appropriate - the unity of the two arts here is as organic and strong as ever).","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""circus terms"" and references to ""clownery"" and ""acrobatics"" may not be appropriate or easily understood by all target audiences, as these are very specific to the circus/performance arts context.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""truckery"" (which is not a standard English word) may not be the most appropriate choice for the target audience, as it could be seen as an unusual or non-standard expression."
+98,"В ней воплотился незаслуженно забытый типаж авантюристки, которая берет не столько эксплуатацией сексуальности, сколько чистейшим куражом и отвагой.","In her, the undeservedly forgotten type of the adventuress was embodied, who takes not so much by the exploitation of sexuality, but by the purest daring and courage.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the purest daring and courage"" may not be a common or natural way to describe an adventuress in the target culture, and could come across as overly dramatic or poetic."
+99,"В кино к таким девушкам, как правило, приставляют какого-нибудь дежурного мачо или волоокого романтика",A typical movie scenario involves pairing such girls with a standard macho man or a dreamy romantic.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""macho man"" and ""dreamy romantic"" may not resonate well with the target audience, as these terms have specific cultural connotations that may not translate effectively."
+104,"Натренированный на многочисленных жанровых «кошках» и, казалось, совсем скисший Люк Бессон проявил неожиданную творческую лихость, напомнив, что граница между предпочтениями скучающих посетителей мегамоллов и высоколобых завсегдатаев арт-хаусных залов легко преодолевается фильмами для жизнерадостных безумцев.","Trained on numerous genre ""cats"" and, it seemed, completely soured, Luc Besson showed unexpected creative daring, reminding that the boundary between the preferences of bored visitors of megamalls and high-browed regulars of art-house halls is easily overcome by films for cheerful madmen.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the term ""megamalls"" may not be familiar or relevant to the target audience, as the concept of large shopping malls may not be as prevalent or significant in their cultural context.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The reference to ""art-house halls"" may not resonate with the target audience, as the concept of specialized art-house cinemas may not be as widely recognized or important in their cultural landscape."
+107,"Герметичный хоррор с претензией на психологизм и политический контекст 2002 году дебютный ужастик Джонатана Либесмана был разруган критикой, но понравился публике и хорошо заработал в прокате, а главное - попался на глаза продюсеру Майклу Бэю.","A hermetic horror with a claim to psychologism and political context, Jonathan Liebesman's 2002 debut horror film was panned by critics, but was liked by the public and did well at the box office, and most importantly - caught the eye of producer Michael Bay.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""producer Michael Bay"" may not be familiar to all target audiences, as he is a specific American film producer."
+115,А трое мужчин в запертой комнате пытаются выработать стратегию выживания: объединиться в команду или перестрелять друг друга?,"""And three men in a locked room are trying to develop a survival strategy: to unite as a team or to shoot each other?""","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""shoot each other"" may be considered too violent or inappropriate for some target audiences, especially in a context where the goal is to develop a survival strategy.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""to unite as a team or to shoot each other"" may sound more natural in a different English language variety, such as American English, rather than the more formal or British-leaning style expected in this type of text."
+117,Или пытаться сломать свою клетку любой ценой?,To try to break one's cage at any cost.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""to break one's cage at any cost"" may not be a common or easily understandable expression for the target English-speaking audience. It could be perceived as an unusual or metaphorical reference that may require additional context for the reader to fully comprehend."
+118,"Проверку проходят не только они, но и молодая амбициозная сотрудница спецслужб, которую тестирует на безжалостность поднаторевший в диких экспериментах опытный профессор.","The young ambitious employee of the special services, who is tested for ruthlessness by an experienced professor who has become adept at wild experiments, undergoes the verification, not only them.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""поднаторевший в диких экспериментах опытный профессор"" (an experienced professor who has become adept at wild experiments) may not be easily understood by the target English audience, as it contains a culture-specific reference to ""wild experiments"" that may not be a common concept.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""молодая амбициозная сотрудница спецслужб"" (the young ambitious employee of the special services) could be translated more naturally as ""a young, ambitious employee of the intelligence/security services"" to better match the target English audience's language variety."
+120,Их сажают в изолированную комнату и выдают каждому кипу листов с бессмысленными вопросами.,They are placed in an isolated room and given each a stack of papers with meaningless questions.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""изолированную комнату"" (isolated room) may not be a common or culturally appropriate way to describe the setting in the target culture, as it could imply a more restrictive or punitive environment than intended.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""кипу"" (stack) may not be the most natural or idiomatic way to describe the quantity of papers given to the individuals in the target language and culture."
+122,"Начинается игра на выживание, за которой за стеклом внимательно наблюдают правительственные агенты.","The game of survival begins, which is being closely observed by government agents behind the glass.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""за стеклом"" (behind the glass) may not be easily understood by an English-speaking audience, as it is a culture-specific reference to government surveillance that may not be familiar in the target context."
+126,"Куртуазным образом жизни отца она уязвлена и откровенно подглядывает за тем, как он, словно пародируя знаменитую сцену из «Шоугелз» Пола Верхувена, ныряет в бассейн за очередной романтической жертвой.","She is offended by her father's courtly way of life and openly peeps at how he, as if parodying the famous scene from Paul Verhoeven's ""Showgirls"", dives into the pool after another romantic victim.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to the ""Showgirls"" movie scene may not be widely understood by the target audience, as it is a specific cultural reference that may not be familiar to all readers."
+129,Вялую мелодраматическую Мгер Мкртчан вместе с Павлом Бардиным снял комедию с Иваном Ургантом «Трое и снежинка».,"""Mger Mkrtchyan, along with Pavel Bardin, directed a comedy with Ivan Urgant called 'Three and a Snowflake'.""","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Mger Mkrtchyan"" may not be familiar to the target English-speaking audience, as it is a specific Armenian name.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the name ""Pavel Bardin"" in the translation may not be the most appropriate for an English-speaking audience, as it is a Russian name."
+133,"Особенно жалко линию про бизнес по перекупке футбольных игроков, так и оставшийся за кадром.","Especially regrettable is the line about the business of reselling football players, which remained off-screen.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""business of reselling football players"" may not be a common or well-understood concept for the target audience, as the business of player transfers is a specialized topic in the world of professional sports."
+137,"Зато с потенциальным слоганом для аудитории фильма автор попал «в девятку»: «Не ищи проблему там, где ее нет». Точнее не скажешь.","""But with the potential slogan for the film's audience, the author hit the ""bullseye"": ""Don't look for a problem where there isn't one."" Couldn't have said it better.""","MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""hit the 'bullseye'"" may not be a common idiom or metaphor in the target culture, potentially causing confusion for the audience."
+140,"Герои скачут практически по одним и тем же частям света (оба фильма начинаются в Латинской Америке и заканчиваются в порту Лос-Анджелеса) и эксплуатируют одни и те же эффектные кадры - и там и там взрывается нечто, набитое долларовыми купюрами, и на декорации опускается вихрь из баксов.","The heroes ride almost through the same parts of the world (both films start in Latin America and end in the port of Los Angeles) and exploit the same spectacular shots - in both, something stuffed with dollar bills explodes, and a whirlwind of dollars descends on the sets.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: culture-specific reference - The use of ""dollars"" and ""Los Angeles"" may not be as culturally relevant or familiar to some target audiences outside of the United States."
+146,"Просто удивительно, как они, не сговариваясь, привели разный материал к абсолютно идентичному громыхающему знаменателю, сделав довольно тяжелые, предсказуемые, ненужные боевики, вызывающие в памяти массу картин с Уиллисом и Шварценеггером (сравнения неизменно оказываются в пользу Брюса и Арнольда).","It's simply amazing how, without conspiring, they brought different material to an absolutely identical, thunderous denominator, creating rather heavy, predictable, unnecessary action films that evoke a multitude of images with Willis and Schwarzenegger (the comparisons invariably turn out in favor of Bruce and Arnold).","MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The references to Willis and Schwarzenegger may not be as culturally relevant or recognizable for some target audiences outside of the United States.
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The comparison between ""Брюса и Арнольда"" (Bruce and Arnold) may not be as meaningful for audiences unfamiliar with these American action movie stars."
+151,"Но они живы — и намерены во что бы то ни стало отомстить негодяю с томным голосом, который все это подстроил.",But they are alive - and intend to take revenge at all costs on the scoundrel with the languid voice who orchestrated all this.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the scoundrel with the languid voice"" may not be a common or natural way to refer to a villain in the target English-speaking audience. The language used is more formal and literary than what would typically be expected in this type of narrative."
+153,"Сделанный из вторсырья, условно съедобный боевичок","Made from recycled materials, conditionally edible action movie.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""боевичок"" (action movie) may not be a common or appropriate term for the target audience, as it could have violent or inappropriate connotations.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""условно съедобный"" (conditionally edible) may not be a natural or common expression in the target language and culture."
+154,Простая история о беглом румынском каторжнике,A simple story about a fugitive Romanian convict.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""convict"" may have negative connotations or be inappropriate for the target audience, as it could be seen as stigmatizing or dehumanizing.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""katozhnik"" (convict) may not be the most appropriate or common term in the target language and culture."
+158,"Безусловно, оно будет реалистичным, притом жестко.","It will be realistic, and harsh.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""жестко"" (harsh) may be perceived as too direct or aggressive for some English-speaking audiences, who may prefer a more diplomatic or nuanced tone."
+159,Высока вероятность участия актеров-непрофессионалов.,High probability of participation of non-professional actors.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""non-professional actors"" may not be a common or natural way to refer to amateur or inexperienced actors in the target culture."
+161,"Также, не зная года выпуска, можно запросто принять происходящее на экране за упражнения каких-то подпольных критических реалистов из стран Варшавского договора, которым в начале 80-х прочитали лекцию о Брессоне","Also, without knowing the year of release, one can easily mistake what is happening on the screen for exercises of some underground critical realists from the Warsaw Pact countries, who were given a lecture on Bresson in the early 80s.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""Bresson"" and ""critical realists from the Warsaw Pact countries"" may not be widely understood by the target audience, as it assumes a certain level of familiarity with European art and film history.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the phrase ""on the screen"" may not be the most natural or idiomatic way to express this concept in the target language, and could be perceived as a direct translation from the source."
+168,"конвертировать в эксплотейшн а-ля 70-е, с ковбоем, решившим прогуляться из тюряги, откуда ему скоро выходить, до ближайшего салуна).","Convert to a 70s-style exploitation, with a cowboy who decides to take a stroll from the prison, where he's about to be released, to the nearest saloon.","MQM annotations:
+audience appropriateness errors:
+
+Major: CULTURE-SPECIFIC REFERENCE - The term ""saloon"" is a culture-specific reference to a Western-style bar that may not be widely understood or appropriate for the target audience.
+
+Minor: WRONG LANGUAGE VARIETY - The use of the term ""tюряга"" (tyuryaga) is a colloquial Russian expression for ""prison"" that may not be the most appropriate choice for a more formal or mainstream translation."
+175,"Неплохой дебют, внушающий слабую надежду, что из румынского артхауса когда-нибудь вырастет приличное направление","A decent debut, instilling a weak hope that the Romanian art house will someday grow into a respectable direction.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Romanian art house"" may not be familiar or meaningful to all target readers, as the concept of ""art house"" cinema is more specific to certain cultural contexts.
+[Minor]: STYLE/AWKWARD - The translation ""instilling a weak hope"" may sound slightly unusual or unnatural in the target language, compared to the more idiomatic source text."
+178,"«Гадкий я», наверное, лучшая работа его команды: картина прекрасно нарисована (кстати, имеет смысл смотреть в ЗО), особенно, если вы любите, когда разные объекты то и дело норовят выпрыгнуть с экрана в зал), сносно написана, и, главное, здесь нет ни одной нижепоясной шутки, из-за которых на «Ледниковых периодах» приходилось стыдливо вжиматься в кресло и закрывать детские ушки руками.","""Despicable Me"" is probably the best work of his team: the picture is beautifully drawn (by the way, it's worth watching in 3D), especially if you like when different objects constantly try to jump out of the screen into the hall), decently written, and, most importantly, there is not a single below-the-belt joke here, because of which you had to shyly shrink into the chair and cover the children's ears with your hands on ""Ice Age"".","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The reference to ""Ice Age"" may not be familiar or relevant to all target audiences."
+179,"Понятно, что причиной смены курса стало не чувство меры авторов, а вопиющая асексуальность главного героя, каковая в свою очередь продиктована нежеланием как бы то ни было касаться темы педофилии.","Understood, that the reason for the change of course was not the authors' sense of moderation, but the glaring asexuality of the protagonist, which in turn is dictated by the unwillingness to touch upon the topic of pedophilia in any way.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The mention of ""pedophilia"" in the translation may be inappropriate or uncomfortable for some target audiences, as it is a sensitive and controversial topic."
+182,"Чувствуется кропотливая работа слаженной команды маркетологов, продумавших каждую мелочь, чтобы фильм понравился всем категориям граждан.",The meticulous work of a well-coordinated team of marketers who have thought through every detail to make the film appealing to all categories of citizens can be felt.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""categories of citizens"" may not be a natural or common way to refer to the target audience in the English translation, as it has a more formal or political connotation that may not align well with the intended marketing context."
+189,В финале Грю танцует партию Траволты,"In the finale, Gru dances Travolta's part.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""Travolta's part"" may not be immediately clear or relevant to the target audience, as it assumes familiarity with the cultural context of John Travolta and his dance performances."
+190,"К заброшенному трейлеру где-то посреди условной пустыни подкатывает тачка, из которой выходят три пары добротнейших сисек.","To the abandoned trailer somewhere in the middle of a conditional desert, a car pulls up, from which three pairs of excellent tits emerge.","MQM annotations:
+audience appropriateness errors:
+[Critical]: [CULTURE-SPECIFIC REFERENCE] - The translation contains highly explicit and inappropriate sexual content that is not suitable for a general audience. The reference to ""three pairs of excellent tits"" is a vulgar and objectifying description that would be considered offensive and unacceptable in most cultural contexts.
+[Major]: [WRONG LANGUAGE VARIETY] - The use of the colloquial term ""tachka"" (car) is not appropriate for a formal or professional translation. A more neutral and standard term would be more suitable.
+[Minor]: no-error"
+192,Сами по себе носительницы этого дара не так существенны.,The bearers of this gift are not so significant in themselves.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""bearers of this gift"" may not be a common or natural way to refer to the people in the target culture, and could come across as unusual or overly formal."
+196,А происходит много всего забавного.,A lot of funny things are happening.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""a lot of funny things"" may not convey the same cultural nuance as the original Russian expression, which could be more accurately translated as ""a lot of amusing/entertaining things."""
+198,"Создатели считают, что матерящаяся телка с щедрыми формами, вымазанная в грязи, с разбитым носом и сияющими белизной зубами - это круто.","The creators consider that a foul-mouthed cow with generous curves, smeared in dirt, with a broken nose and gleaming white teeth - this is cool.","MQM annotations:
+audience appropriateness errors:
+
+Major: CULTURE-SPECIFIC REFERENCE - The use of the term ""cow"" to refer to a woman is considered highly offensive and inappropriate in most English-speaking cultures, as it is a derogatory and sexist term. This could be seen as very disrespectful and alienating to the target audience.
+
+Major: CULTURE-SPECIFIC REFERENCE - The description of a woman as ""foul-mouthed"" and ""smeared in dirt"" with a ""broken nose"" is an unusual and potentially disturbing way to depict a person, which may not align with the cultural norms and sensibilities of the target audience.
+
+Minor: CULTURE-SPECIFIC REFERENCE - The phrase ""this is cool"" may not convey the intended meaning or tone in the target culture, as the concept of ""coolness"" can vary significantly across different cultural contexts."
+201,Близкий по духу фильм в московском прокате — «Ствол для Дженнифер».,"""A Barrel for Jennifer""","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The title ""A Barrel for Jennifer"" may not be culturally appropriate or understandable for the target English-speaking audience, as it does not provide enough context about the film's content or theme."
+203,"В общем, для кино-фетишиста здесь обнаруживается настоящий Клондайк удовольствий.",A true Klondike of pleasures for the cinema fetishist.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Klondike"" is a reference to the Klondike Gold Rush in Canada, which may not be widely understood by the target audience."
+205,"Если бы не физические данные актрис, скучно стало бы уже к середине.","If it were not for the physical data of the actresses, it would have become boring already by the middle.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""physical data of the actresses"" may be perceived as objectifying or inappropriate in some cultural contexts."
+207,"В РОЛЯХ: Джулия Вот, Эрин Каммингс, Америка Оливо, Майкл Херст, Рон Мелендес","Julia Voth, Erin Cummings, America Olivo, Michael Hurst, Ron Melendez.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The names of the actors (Julia Voth, Erin Cummings, America Olivo, Michael Hurst, Ron Melendez) may not be familiar or recognizable to the target English-speaking audience, potentially causing confusion or a sense of non-belonging.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the name ""America Olivo"" may be perceived as unusual or out of place for an English-speaking audience, as it reflects a Spanish language variant."
+209,"Ничего не добившись и застрелив несчастного бандита, бабы начинают цапаться, драться друг с другом и периодически прибывающими откуда-то отморозками, а также регулярно целоваться и тискаться.","Nothing achieved and having shot the unfortunate bandit, the women begin to squabble, fight with each other and the periodically arriving thugs from somewhere, as well as regularly kissing and fondling.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the term ""baba"" (a colloquial term for a woman) may not be appropriate or understandable for all target audiences.
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""отморозки"" (thugs) is a culture-specific term that may not translate well or be understood by all target audiences.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The use of the term ""цапаться"" (to squabble) is a colloquial expression that may not be familiar to all target audiences."
+210,"По ходу дела выясняется, что все трое не те, кем представлялись в начале.",It turns out that all three of them are not who they presented themselves to be at the beginning.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""по ходу дела"" is a Russian idiomatic expression that may not be easily understood by an English-speaking audience."
+214,Кровожадный и кусачий пеплум возвращает режиссеру пошатнувшееся доверие.,The bloodthirsty and biting peplum restores the director's shaken trust.,"MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""peplum"" may not be familiar or appropriate for the target English-speaking audience, as it refers to a specific type of historical costume that may not be widely recognized.
+[Minor]: [WRONG LANGUAGE VARIETY] - The use of the word ""bloodthirsty"" in this context may be perceived as overly dramatic or sensationalized, which may not align with the expected tone for the target audience."
+217,"«План Маршалла» по очищению «пеплума» от налипшей пост-гладиаторской киногрязи, в целом, сработал.","""The Marshall Plan"" for cleaning the ""peplum"" from the adhered post-gladiator film dirt, in general, worked.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""peplum"" is a specific reference to a genre of historical/sword-and-sandal films that may not be widely understood by the target English-speaking audience.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""peplum"" in the English translation may sound overly formal or academic, detracting from the overall cultural appropriateness of the text."
+226,"Тонкому артхаусному артисту пока удалось отвоевать в Голливуде лишь острохарактерные роли второго плана, но очень хочется верить, что после «Центуриона» ситуация изменится.","""The thin arthouse artist has so far only managed to win over acute character roles in the second tier in Hollywood, but one really wants to believe that the situation will change after 'The Centurion'.""","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Centurion"" may not be widely understood by the target audience, as it is a specific reference to a Roman military rank that may not be familiar to all readers."
+240,"Лысая, как бильярдный шар, киса замыслила захватить весь мир, и теперь собаки-суперагенты вынуждены объединить усилия со своими мяукующими антагонистами.","A bald, like a billiard ball, kitty has plotted to conquer the whole world, and now the super-agent dogs are forced to join forces with their meowing antagonists.","MQM annotations:
+audience appropriateness errors:
+
+Major: CULTURE-SPECIFIC REFERENCE - The use of the term ""bald, like a billiard ball"" to describe the cat may not be a common or easily understandable metaphor for the target English-speaking audience.
+
+Minor: WRONG LANGUAGE VARIETY - The use of the term ""kitty"" to refer to the cat may not be the most appropriate or common term in formal or technical English writing, and could be perceived as more casual or informal language."
+244,"Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.","Pay attention to George Clooney, who has teamed up with rock photographer-turned-director Anton Corbijn (""Control"") for a rather curious existential study of the psychology of an aging hired assassin, hiding from people in a small Italian town and belatedly coming to understand human nature.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The reference to ""rock photographer-turned-director Anton Corbijn"" may not be widely known or relevant to all target audiences.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The mention of a ""small Italian town"" as the setting may require additional context for some readers who are not familiar with Italian geography and culture."
+247,"Взяв за основу роман Мартина Бута «Очень скрытный джентльмен», Роуэн Джоффе внес в свой сценарий кое-какие коррективы: место рассказчика-англичанина занял вынесенный в заглавие американец, а из оружейника-нелегала главный герой превратился в простого убийцу.","Taking the novel ""The American"" by Martin Booth as a basis, Rowan Joffe made some adjustments to his screenplay: the English narrator was replaced by an American featured in the title, and the main character went from being an illegal arms dealer to a simple assassin.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The replacement of the English narrator with an American protagonist may not be culturally appropriate or understandable for the target audience, as the original novel was set in an English context.
+[Minor]: [WRONG LANGUAGE VARIETY] - The change from an ""illegal arms dealer"" to a ""simple assassin"" in the main character's profession may not be a natural or expected transition for the target audience."
+253,А можно я вас из фоторужья щелкну!?,"""Can I take a photo of you with a camera?""","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""из фоторужья щелкну"" is a colloquial expression that may not be easily understood by an English-speaking audience. A more neutral and common way to express ""taking a photo"" would be more appropriate."
+254,Джонни Деппа в этом сезоне можно было увидеть в двух местах одновременно.,Johnny Depp could be seen in two places at the same time this season.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""could be seen in two places at the same time"" may be interpreted as a supernatural or fantastical event, which could be confusing or inappropriate for the target audience."
+257,"Во-вторых, в Пуэрто Рико на площадке «Ромового дневника», экранизации дебютного романа легендарного Хантера С. Томпсона.","In Puerto Rico, on the set of ""The Rum Diary,"" the film adaptation of the debut novel by the legendary Hunter S. Thompson.","MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""The Rum Diary"" may not be immediately recognizable or culturally relevant to all English-speaking audiences, as it refers to a specific literary work by the American author Hunter S. Thompson."
+261,"Впрочем, хорошо хотя бы то, что героиня российской картины хоть и чужая, но совсем не лысая.","However, it's good at least that the heroine of the Russian film, although a foreigner, is not bald at all.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to the heroine being ""not bald at all"" may be an unusual or inappropriate way to describe the character's appearance for the target audience, as it could be seen as an unusual or insensitive way to discuss physical attributes."
+265,"В график также заложен и седьмой фильм — романтическая комедия «Джек и Джилл», где Сэндлеру предстоит одновременно сыграть Джека и его сестру-близнеца Джилл.","Jack and Jill, a romantic comedy where Sandler is set to play both Jack and his twin sister Jill.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Jack and Jill"" is a well-known English nursery rhyme that may not be familiar to all target audiences, potentially causing confusion or a lack of cultural connection.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the character name ""Jill"" instead of a more culturally appropriate name for the twin sister character may not resonate with all target audiences."
+269,"В то время как съемки новой серии Бондианы откладываются, ее новый режиссер Сэм Мендес скучать не успевает.","While the filming of the new James Bond series is being postponed, its new director, Sam Mendes, doesn't have time to get bored.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Бондиана"" (Bondiana) may not be familiar to all English-speaking audiences and could benefit from additional context or explanation."
+277,"По признанию режиссера, это нелегкая (в романе шесть параллельных сюжетных линий), но крайне интересная работа.","This is a challenging work (the novel has six parallel storylines), but extremely interesting, according to the director's admission.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the term ""director's admission"" may not be a common or natural way to refer to the director's perspective in the target culture."
+279,В Крыму проходят съемки интернационального боевика Максима Коростышевского под рабочим названием «Солдаты удачи».,"The filming of Maxim Korostyshevsky's international action movie with the working title ""Soldiers of Fortune"" is taking place in Crimea.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Soldiers of Fortune"" may not be a familiar or common title for an action movie in the target English-speaking audience, as it could be seen as a more niche or specialized genre."
+280,"Он посвящен миллионерам, отправившимся за свои деньги на настоящую войну в поисках адреналина.",He is dedicated to millionaires who have gone to real war in search of adrenaline with their own money.,"MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""millionaires"" who have gone to ""real war"" in search of ""adrenaline"" may not be culturally appropriate or understandable for all target audiences. This could be seen as an unusual or even unethical pursuit.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""with their own money"" may sound overly formal or out of place in some target language contexts."
+288,Этот факт не должен пугать искушенного зрителя - в истории кинематографа есть масса примеров успешной переквалификации моделей в актрис.,This fact should not scare the experienced viewer - in the history of cinema there are many examples of successful retraining of models into actresses.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""искушенный зрителя"" (experienced viewer) may not be a common or natural expression for the target English audience.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The reference to ""the history of cinema"" may not be as familiar or relevant to the target audience compared to the source culture."
+289,"Шарлиз Терон («Монстро»), Анджелина Джоли («Прерванная жизнь»), Джессика Лэнг («Голубое небо», «Тутси»), Ким Бэсингер («Секреты Лос-Анджелеса»), Дженнифер Коннели («Игры разума»), Джина Дэвис («Случайный турист») и «Первая вице-мисс США-86» Халле Берри («Бал монстров») начинали как манекенщицы или снимались для модных журналов, в итоге получили заслуженный «Оскар».","Charlize Theron (""Monster""), Angelina Jolie (""Girl, Interrupted""), Jessica Lange (""Blue Sky"", ""Tootsie""), Kim Basinger (""L.A. Confidential""), Jennifer Connelly (""A Beautiful Mind""), Geena Davis (""The Accidental Tourist"") and ""Miss USA 1986"" Halle Berry (""Introducing Dorothy Dandridge"") started out as models or appeared in fashion magazines, eventually earning well-deserved Oscars.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The reference to ""Miss USA 1986"" may not be widely known or relevant to the target audience."
+290,"Преуспели в актерском мастерстве (также красавицы Милла Йовович, Кэмерон Диас, Моника Белуччи и, что особенно приятно, наша соотечественница Ольга Куриленко.","They have succeeded in acting (also beauties Milla Jovovich, Cameron Diaz, Monica Bellucci and, especially pleasantly, our compatriot Olga Kurylenko).","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The inclusion of the names of famous actresses (Milla Jovovich, Cameron Diaz, Monica Bellucci) may not be as relevant or meaningful to an English-speaking audience who may not be familiar with these celebrities.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The reference to Olga Kurylenko as a ""compatriot"" may not be as meaningful to an English-speaking audience who may not be familiar with her Russian/Ukrainian background."
+293,"Валерия Гай Германика, заслужившая Особого упоминания каннского жюри в 2008 году за картину «Все умрут, а я останусь» и снявшая скандальный телесериал «Школа», получила должность креативного директора на телеканале МТ.","Valeria Gai Germanika, who received a Special Mention from the Cannes jury in 2008 for the film ""All Will Die, and I'll Stay Alive"" and directed the controversial TV series ""School,"" has been appointed as the creative director at the MT TV channel.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""MT"" (short for ""Moscow Television"") may not be familiar to all English-speaking audiences and could benefit from further explanation or contextualization."
+296,Также Германика начала кастинг новых ведущих.,"Also, Germanika has started casting new hosts.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""Germanika"" may not be familiar to the target English-speaking audience, as it is a proper noun referring to a specific entity in the Russian context."
+297,Комедия «Колотилов» режиссера Лео Габриадзе и продюсера Тимура Бекмамбетова неожиданно превратилась в «Выкрутасы».,"The comedy ""Kolotilov"" directed by Leo Gabriadze and produced by Timur Bekmambetov unexpectedly turned into ""Vykyrutas"".","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The translation ""Vykyrutas"" does not convey the meaning of the original Russian title ""Kolotilov"" and may be confusing or unfamiliar to the target English-speaking audience."
+299,Новое развитие получила вторая сюжетная линия картины.,The second plot line of the film has received new development.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""new development"" may not be a common or natural way to describe the progression of a film's plot in the target culture."
+308,"Очумевшие от жесткого расписания, критики и кинематографисты на сверхскоростях носились меж сочинским Зимним театром, где проходили показы с мастер-классами, и гостиницей «Жемчужина», в которой потоком шли пресс-конференции и круглые столы, едва успевая нырнуть в Черное море.","Overwhelmed by the rigid schedule, critics and filmmakers rushed at breakneck speeds between the Sochi Winter Theater, where screenings with master classes were taking place, and the Zhemchuzhina Hotel, where press conferences and round tables were constantly in progress, barely managing to dive into the Black Sea.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The reference to ""Черное море"" (Black Sea) may not be immediately clear or familiar to all target readers who are not familiar with the geography of the Sochi region."
+313,"На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.","""At the round table dedicated to the fate of Russian art house, the chairman of the fund for the support of domestic cinema, Sergei Tolstikov, arranged a vivid quarrel with the critics: 'Do you even read the articles in the press that I read?' - he asked the assembled people menacingly.""","MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""round table"" may not be a common cultural reference for the target audience and could be misinterpreted.
+[Minor]: [WRONG LANGUAGE VARIETY] - The use of the formal term ""assembled people"" may not align with the intended casual or conversational tone of the target audience."
+318,"Председателю жюри Карену Шахназарову картина Лозницы, напротив, не понравилась вовсе — но под давлением коллег он вынужден был дать ей приз за режиссуру.","The chairman of the jury, Karen Shakhnazarov, on the contrary, did not like Loznitsa's film at all - but under pressure from his colleagues, he was forced to give it the prize for directing.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""under pressure from his colleagues"" may not be culturally appropriate or easily understood by all target audiences, as the dynamics of jury deliberations can vary across different cultural contexts."
+319,Награду за лучший дебют — «Пропавший без вести» — получила дочь,"""The Missing"" won the award for best debut.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""The Missing"" may not be a familiar or culturally relevant title for the target audience, as it does not provide clear context about the nature of the award or the work being recognized."
+320,"Жуткая киноэнциклопедия русской жизни: наивного гуманного и рационального героя бьют, грабят и провоцируют на чудовищные поступки без всякой видимой цели.","The chilling cinematic encyclopedia of Russian life: the naive, humane, and rational hero is beaten, robbed, and provoked into monstrous acts without any apparent purpose.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""naive, humane, and rational hero"" may not resonate well with the target audience, as the concept of a ""hero"" with these specific attributes may not be a common cultural trope in the target context.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""chilling"" may have a slightly different connotation or emotional impact in the target language compared to the source, potentially affecting the overall tone and appropriateness for the target audience."
+323,Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.,"The most complex film of the ""Kinotavr"" has already been selected for the Karlovy Vary competition - a directorial star has been born.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Kinotavr"" is a reference to a Russian film festival that may not be familiar to the target English-speaking audience.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""directorial star"" is more common in American English and may not be the most natural phrasing for a British or other English-speaking audience."
+324,"Безупречно одетый и постриженный программист Леонид реагирует на мир со сдержанной брезгливостью, прячась в норе аккуратного холостяцкого быта.","Impeccably dressed and groomed programmer Leonid reacts to the world with restrained disdain, hiding in the den of a tidy bachelor's life.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""bachelor's life"" may not be a common or well-understood concept in the target culture, potentially causing confusion or a sense of non-belonging for the reader."
+325,"Но на дом опускается чугунная баба, на голову героя — несправедливая рука карательных органов, и он начинает бессмысленный бег по кафкианским пространствам и ситуациям.","But a cast-iron woman descends on the house, an unjust hand of the punitive organs falls on the hero's head, and he begins a senseless run through Kafkaesque spaces and situations.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the term ""Kafkaesque"" may not be widely understood by the target audience and could be seen as an obscure cultural reference.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""punitive organs"" may sound overly formal or bureaucratic in the target language, not aligning with the intended tone."
+328,И это симптоматично - нынче в нашем кино зубры движутся за молодежью.,And this is symptomatic - nowadays in our cinema the old guard is moving behind the youth.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the term ""the old guard"" may not be immediately clear or culturally relevant to the target audience, as it is a more common expression in English-speaking contexts."
+330,"Документальное кино, снятое так, что голову сносит почище, чем от аналогичного художественного.","Documentary film, shot in such a way that it blows your mind more than a similar fictional one.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""blows your mind"" may not be a common or appropriate expression in the target culture, as it could be perceived as too colloquial or informal for a documentary film context."
+331,"Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.","The author is interested in both the screwdriver investigating the electric meter and the piece of unsalted butter drifting across the cast-iron skillet - all of which transforms the story of the unemployed miner, his gaptoothed lover, and her criminal brother into a true oil-painting documentary.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""the unemployed miner, his gaptoothed lover, and her criminal brother"" may not be culturally appropriate or understandable for all target audiences, as it contains specific details that may not be widely recognized.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""doc-polotno"" (documentary painting) may not be a common expression in the target language and could be perceived as unusual or unfamiliar."
+332,Победитель конкурса короткого метра Николай Соколов примеряет черно-белую стилистику французской новой волны на мир спальных районов.,"The winner of the short film competition, Nikolai Sokolov, tries on the black-and-white aesthetics of the French New Wave on the world of residential neighborhoods.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to the ""French New Wave"" may not be widely understood by the target audience, who may not be familiar with this specific cinematic movement.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""short film competition"" may not be the most natural or common way to refer to this type of event in the target cultural context."
+333,"Пусть годаровские монтажные ходы в истории о двух школьниках, один из которых мечтает сделать бомбу, а другой — сыграть Баха задом наперед, выглядят странно, но за редкую попытку поэтизации окружающей реальности — спасибо.","Let the Godard-like editing techniques in the story about two schoolboys, one of whom dreams of making a bomb and the other of playing Bach in reverse, seem strange, but thank you for the rare attempt to poeticize the surrounding reality.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""Godard-like editing techniques"" may not be widely understood by the target audience, as it assumes familiarity with the filmmaking style of the French New Wave director Jean-Luc Godard.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""schoolboys"" instead of a more age-appropriate term like ""students"" or ""teenagers"" may not align with the target audience's cultural context."
+338,"Недавно режиссером был назначен Карл Ринш (у него в графике уже стоит ремейк «Твари из Черной лагуны»), прославившийся своими рекламными роликами.","Recently, Karl Rinsch was appointed as the director (he already has a remake of ""Creature from the Black Lagoon"" on his schedule), who became famous for his commercials.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""Creature from the Black Lagoon"" may not be widely recognized or understood by all target audiences, as it is a specific cultural reference to an American horror film.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""director"" instead of a more common term like ""filmmaker"" or ""movie director"" may sound slightly formal or unfamiliar to some English-speaking audiences."
+341,Роберт Родригес приобрел права на ротоскопический фэнтези-мультфильм 80-х и планирует сделать из него масштабное кино.,Robert Rodriguez acquired the rights to the 1980s rotoscope fantasy animated film and plans to turn it into a large-scale cinematic production.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""rotoscopic fantasy animated film"" may not be familiar or meaningful to the target audience, as it refers to a specific filmmaking technique that may not be widely known outside of the film industry.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""cinematic production"" may not be the most natural or common way to refer to a film in the target language, and a more colloquial or idiomatic expression may be more appropriate."
+343,"Темой мультфильма были мечи, магия и большое количество нарисованных сисек.","Swords, magic, and a large number of drawn boobs.","MQM annotations:
+audience appropriateness errors:
+[Critical]: [CULTURE-SPECIFIC REFERENCE] - The reference to ""drawn boobs"" is highly inappropriate and offensive for most target audiences, as it contains explicit sexual content that is not suitable for general consumption.
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The mention of ""swords, magic"" may be considered too violent or fantastical for some target audiences, depending on their cultural sensibilities.
+[Minor]: no errors"
+347,"На широкие экраны героев вернет не кто иной, как Майкл Бэй - властелин экшена, взрывов и хоррор-ремейков.","Michael Bay - the master of action, explosions, and horror remakes - will bring the heroes back to the big screens.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""the master of action, explosions, and horror remakes"" to describe Michael Bay may not be appropriate or well-understood by all target audiences, as it relies on a specific cultural understanding of his filmography."
+353,— Китайские женщины в наше время управляют крупным бизнесом и выигрывают олимпийское золото.,— Chinese women in our time manage large businesses and win Olympic gold.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""Olympic gold"" may not be as culturally relevant or meaningful for all target audiences, as the significance and popularity of the Olympics can vary across different regions and cultures."
+367,И этот контакт у нас случился буквально через несколько минут после знакомства.,And this contact happened with us literally just a few minutes after meeting.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""this contact happened with us"" may sound unusual or inappropriate for the target English-speaking audience, as it does not align with common English idioms or expressions used to describe interpersonal interactions."
+373,Как прошли съемки в Севастополе?,The filming in Sevastopol went well.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""went well"" may not fully capture the cultural nuance of the original Russian expression."
+375,"У меня никогда не было там гастролей, ни на отдых, ни в детстве я туда не приезжала.","I have never been there on tour, nor have I ever visited there for vacation or in my childhood.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""on tour"" may not be a common expression in the target culture and could be replaced with a more natural equivalent.
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The mention of ""in my childhood"" may not be a typical way of expressing the idea of visiting a place in the past in the target culture, and a more natural phrasing could be used."
+380,"Получается, вам было несложно играть влюбленность в этот город.",It turns out it was not difficult for you to play at being in love with this city.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""play at being in love with this city"" may not be a natural or idiomatic expression in the target culture, as it implies a sense of inauthenticity or pretense that could be seen as inappropriate or offensive."
+381,"Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.","Generally, you are extremely organic on the screen, which many, frankly speaking, did not expect.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""extremely organic on the screen"" may not be a common or natural way of describing an actor's performance in the target culture, and could be seen as an unusual or unfamiliar expression."
+387,"Я прекрасно понимаю, что со стороны видней, и я, опять же, прошу подсказок и разговариваю с режиссером, очень долго, даже не я с ним разговариваю, а он со мной ведет предварительные беседы и предельно четко и точно объясняет, что ему нужно.","I perfectly understand that it is more visible from the outside, and I, again, ask for hints and talk to the director, very long, it's not even me talking to him, but he is having preliminary conversations with me and explains in the most clear and precise way what he needs.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The phrase ""it is more visible from the outside"" may not be a common or intuitive expression for the target English audience.
+[Minor]: [culture-specific reference] - The mention of ""having preliminary conversations"" with the director may not be a familiar concept for the target audience, as the translation process is not explicitly described."
+390,"Я кайфовала от всех, оператора, режиссера, продюсера, Саши Яценко.","I was high on everyone, the operator, the director, the producer, Sasha Yatsenko.","MQM annotations:
+audience appropriateness errors:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""I was high on everyone"" is a colloquial expression that may not be appropriate or understandable for all target audiences. It could be perceived as inappropriate or offensive in certain cultural contexts."
+393,"Он был готов не спать, не есть - и здесь была ровно такая ситуация.","He was ready to not sleep, not eat - and this was exactly such a situation.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""не спать, не есть"" (not sleep, not eat) may be interpreted as an unusual or exaggerated expression in the target English context, potentially coming across as overly dramatic or intense for the intended audience."
+394,"Не спать, не есть сутками - и все равно, хоть гром, хоть град.","Don't sleep, don't eat for days - and it doesn't matter, whether it's thunder or hail.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""хоть гром, хоть град"" (whether it's thunder or hail) may not be easily understood by an English-speaking audience, as it is a Russian idiomatic expression.
+[Minor]: WRONG LANGUAGE VARIETY - The translation ""don't sleep, don't eat for days"" may sound more formal or literary than the colloquial tone of the source text."
+396,В этой атмосфере сумасшествия очень легко работается.,"In this atmosphere of madness, it is very easy to work.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""atmosphere of madness"" may be perceived as an unusual or inappropriate way to describe a work environment in the target culture, as it could be seen as overly dramatic or hyperbolic."
+397,"И мне кажется, что когда люди настолько сдвинуты до болезненного фанатизма на том, что они делают, это не может не получится, потому что слишком много затрачивается энергии.","And it seems to me that when people are so shifted to a painful fanaticism on what they are doing, it cannot but happen, because too much energy is spent.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""до болезненного фанатизма"" (to a painful fanaticism) may be interpreted as an overly dramatic or hyperbolic expression that is not common in English and could be perceived as inappropriate or exaggerated for the target audience.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""it cannot but happen"" is a somewhat formal or literary expression that may not be the most natural or idiomatic way to convey the meaning in English for the target audience."
+399,"Каковы критерии отбора материала, с которым вам предстоит работать?",What are the criteria for selecting the material you will be working with?,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""material"" may not be the most appropriate choice in this context, as it could be interpreted as referring to physical materials or resources rather than the information or content that the person will be working with.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""with which you will be working"" may sound slightly formal or academic for the intended audience, and a more natural, conversational style may be more appropriate."
+400,"Я не хочу глупостей, глупых диалогов, фильмов, которые ничего не говорят, ничего не несут.","I don't want nonsense, stupid dialogues, films that say nothing, carry nothing.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""глупостей, глупых диалогов, фильмов, которые ничего не говорят, ничего не несут"" may be perceived as overly harsh or critical by some English-speaking audiences, who may find the language too blunt or judgmental.
+[Minor]: WRONG LANGUAGE VARIETY - The translation ""nonsense, stupid dialogues, films that say nothing, carry nothing"" may sound slightly more formal or literary than the original Russian, which could be seen as less natural or conversational for some English-speaking audiences."
+403,Конкретных предложений и планов сейчас нет.,There are no specific proposals and plans at the moment.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""at the moment"" may not be a natural or idiomatic way to express the concept of ""сейчас"" (now) in the target English context."
+414,«Неуправляемый»,Uncontrolled.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""uncontrolled"" may not have the same cultural connotations in the target English audience as the Russian source term ""неуправляемый""."
+446,Технический директор онлайн-направления Андрей Зуев,"Andrew Zuev, technical director of the online division.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The name ""Andrew Zuev"" may not be familiar or easily recognizable for some English-speaking audiences, as it is a Russian name."
+449,Директор по работе с клиентами технического направления Инна Ключарева,Head of Technical Customer Service Inna Klyuchareva.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The use of the English title ""Head of Technical Customer Service"" may not be a common or natural way to refer to this position in the target culture."
+454,Телефон: +7 (495) 229 6200 Факс: +7 (495) 229 62 01,Phone: +7 (495) 229 6200 Fax: +7 (495) 229 62 01,"MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phone and fax numbers provided are in a format that may not be familiar to all English-speaking audiences, as the country code (+7) and city code (495) are specific to the Russian context."
+456,"Адрес: 105082, г. Москва, ул. Малая Почтовая, д. 12, стр. 1, офис 309","105082, Moscow, Malaya Pochtovaya Street, 12, building 1, office 309.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The use of ""office"" may not be a common way to refer to a business location in the target culture, and ""building 1"" may be an unfamiliar way to specify a building address."
+457,Отпечатано в полиграфическом комплексе «Пушкинская площадь».,"Printed in the printing complex ""Pushkinskaya Square"".","MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""Pushkinskaya Square"" may not be familiar to the target English-speaking audience, as it refers to a specific location in Russia."
+462,В ПОДАРОК ПЕРВЫМ ТРЕМ ПРАВИЛЬНО ОТВЕТИВШИМ ЧИТАТЕЛЯМ — ГОДОВАЯ ПОДПИСКА И ОУО ИЗ КОЛЛЕКЦИИ,A YEAR'S SUBSCRIPTION AND A COLLECTIBLE OWL AS A GIFT FOR THE FIRST THREE READERS WHO ANSWER CORRECTLY.,"MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""OUO"" (which likely stands for ""Owl of the Collection"") may not be familiar or appropriate for the target English-speaking audience, as it references a specific collectible item that may not have the same cultural significance or recognition outside of the original context.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""A YEAR'S SUBSCRIPTION"" uses a more formal and less common expression compared to the more natural ""One-year subscription"" or ""12-month subscription"" that would be more appropriate for the target audience."
+470,"Картина повествует об изобретении Facebook, одном из инструментов-первопроходцев в сфере интернета, который объединил весь мир, рассорил пятерых друзей и сделал своего создателя - 26-летнего бывшего студента Гарварда Марка Цукерберга — самым молодым миллиардером последних десятилетий.","The painting narrates the invention of Facebook, one of the pioneering tools in the field of the internet, which united the whole world, estranged five friends, and made its creator - 26-year-old former Harvard student Mark Zuckerberg - the youngest billionaire of the last decades.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""Facebook"" as a pioneering tool in the field of the internet may not be immediately clear or relevant to all target audiences, as the cultural significance and widespread adoption of Facebook may vary across different regions.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""Harvard"" to refer to the university may not be the most appropriate choice for some target audiences, as the name may not be as widely recognized or have the same cultural connotations outside of the United States."
+472,"Цукерберг запускает сайт по целому ряду причин: отчасти из-за озлобленности на окружающий мир, отчасти из-за спортивного интереса и отчасти просто потому, что ЭТО «круто».","Zuckerberg is launching the site for a whole range of reasons: partly out of bitterness towards the surrounding world, partly out of sporting interest, and partly just because IT'S ""cool"".","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""out of sporting interest"" may not be easily understood by the target audience, as the concept of ""sporting interest"" may not be a common cultural reference.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""IT'S 'cool'"" may not translate well culturally, as the concept of something being ""cool"" can have different connotations in different cultural contexts."
+475,То же и с режиссурой Финчера: сравнительно сдержанная (за исключением Близнецов Уинклвоссов сыграли непохожие друг на друга актеры.,"The same goes for Fincher's directing: relatively restrained (with the exception of the Winklevoss twins, where the actors played roles that were unlike each other).","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the Winklevoss twins"" may not be familiar to the target audience, as it refers to a specific cultural context (the movie ""The Social Network"") that may not be widely known outside of the English-speaking world."
+480,"В РОЛЯХ: Джесси Айзенберг, Эндрю Гарфилд, Руни Мара, Джастин Тимберлейк, Эрми Хаммер, Джошуа Пенс","Jesse Eisenberg, Andrew Garfield, Rooney Mara, Justin Timberlake, Armie Hammer, Joshua Pence.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The names of the actors (Jesse Eisenberg, Andrew Garfield, Rooney Mara, Justin Timberlake, Armie Hammer, Joshua Pence) may not be familiar or recognizable to all target audiences, potentially causing confusion or a sense of non-belonging."
+483,"Цветовая палитра играет свою роль: теплая, местами солнечная, даже в темноте оставаясь уютной, она маневрирует между двумя спутанными цепочками событий и двумя обособленными судебными тяжбами.","The color palette plays its role: warm, in places sunny, even remaining cozy in the dark, it maneuvers between two tangled chains of events and two isolated lawsuits.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""tangled chains of events"" may not be a common or easily understandable metaphor for the target audience.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The reference to ""isolated lawsuits"" may not be a familiar concept or phrasing for the target audience."
+486,"После просмотра появляется стойкое ощущение, что «Социальная сеть» - это портрет нашего времени, а недосказанность в данном случае - важный художественный прием.","After watching, there is a persistent feeling that ""The Social Network"" is a portrait of our time, and the unsaid in this case is an important artistic device.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""The Social Network"" may not be immediately recognizable or meaningful to all target readers who are not familiar with the film."
+488,"Теперь, когда суточная платежеспособность стала еще выше, политика осуществляется уже не на заседаниях правления, ав песочницах.","Now, when the daily solvency has become even higher, the policy is implemented not in board meetings, but in sandboxes.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""sandboxes"" in the context of policy implementation may not be a familiar or appropriate concept for the target audience."
+491,"Уинклвоссы (Хаммер и Пенс), тем временем, топают ногами: кто это сказал, что богатые, красивые и спортивные не могут быть еще и умными?","The Winklevoss twins (Hammer and Pence), meanwhile, are stomping their feet: who said that the rich, beautiful, and athletic cannot also be intelligent?","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""Hammer and Pence"" to refer to the Winklevoss twins may not be widely understood by the target audience, as it is a culture-specific reference that requires additional context.
+[Minor]: WRONG LANGUAGE VARIETY - The use of ""stomping their feet"" may not be the most natural or idiomatic expression in the target language, and a more culturally appropriate phrase may be preferable."
+495,И что за социальные последствия повлечет за собой его изобретение?,And what social consequences will his invention entail?,"MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""его изобретение"" (his invention) may not be culturally appropriate or easily understandable for the target English-speaking audience, as it lacks context about the specific invention being referred to."

@@ -1,0 +1,1014 @@
+index,original,translated,locale_convention_annotation
+0,本文件按照 GB/T 1.1 一 202 久标准化工作导则第工部分:标准化文件的结构和起草规则的规定起惠。,This document was drafted in accordance with the rules given in GB/T 1.1-2020 Directives for standardization — Part 1: Structure and drafting rules for standardization documents.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+4,"在四字节编码区更改了18 个 GB/T 13000 代码位置(见附录 D,2005 年版的附录D);","18 GB/T 13000 code positions were changed in the four-byte encoding area (see Appendix D, Appendix D of the 2005 edition);","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+8,请注意本文件的某些内容可能涉及专利。 本文件的发布机构不承担识别专利的责任。,Please note that some content of this document may be the subject of patent rights. The publishing organization of this document assumes no responsibility for identifying any or all such patent rights.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+10,本文件及其所代替文件的历次版本发布情况为 :,The release history of previous versions of this document and the documents it supersedes is as follows:,"```
+MQM annotations:
+Critical: None
+Major: None
+Minor: None
+```"
+13,信息扩术 ”中文编码字符集,Information Technology Chinese Encoding Character Set,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+16,"本文件适用于为具备中文和其他文字图形字符信息化处理及交换功能的技术类产品,包括但不限于以输入法、光学字符识别 (OCR)、编辑 校对、机融翻诺、语音合成、文字转写、乔能写作等为代表的软件产品 , 以及以计算机、通信终端设备、电子书阅读毅、学习机等为代表的便件产品 。","This document applies to technical products equipped with capabilities for information processing and exchange of Chinese and other text and graphic characters, including but not limited to software products such as input methods, optical character recognition (OCR), editing and proofreading, machine translation, speech synthesis, text transcription, and intelligent writing, as well as hardware products such as computers, communication terminal equipment, e-book readers, and learning machines.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+20,GB/T 2312 一 1980 ”信息交换用汉字编码字符集 ”基本集,"GB/T 2312-1980 ""Coded Chinese Character Set for Information Interchange"" Basic Set","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+21,GB/I 11383 一 1989 信息 处理 ”信息交换用八位代码结构和编码规则,GB/I 11383—1989 Information processing — 8-bit code structure and coding rules for information interchange,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [locale_conventions/number_format] - The format of the standard identifier ""GB/I 11383—1989"" uses an em dash ""—"" before the year. While the source uses ""一"", the conventional separator for standard numbers and years in English contexts is typically a hyphen ""-"" (e.g., GB 11383-1989) or a colon "":"" (common for ISO standards, e.g., ISO 9001:2015). Using an em dash is less standard for this specific purpose. The ""/I"" part is also unusual for GB standards (usually GB or GB/T) and might be a transcription error from the source, but the translation correctly reflects the source's characters. The primary locale convention error is the dash type.
+```"
+25,3.1 字符 character,character,"```
+MQM annotations:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+30,使用符合本文件的产品的使用者可以自行规定的区域。,Areas that users of products conforming to this document can specify themselves.,"```
+MQM annotations:
+Locale Convention Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+34,留作未来本文件规定的区 域 。,Reserved for the future area specified in this document.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+36,4 字汇,Vocabulary 4,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+40,4.3 双字节部分,4.3 Double-byte section,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+41,双字节部分收录了 GB/T 2312 一 1980 中的全部图形字符 GB/T 13000 中的CJK 统一汉字以及部分图形字符。,"The double-byte section includes all graphic characters from GB/T 2312-1980, as well as the CJK unified ideographs and some graphic characters from GB/T 13000.","```
+MQM annotations:
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+43,"其中,表意文字描述符的图形、代码位置和功能应符合附录 B 的规定 。","Wherein, the graphics, code positions, and functions of the ideographic character descriptors shall conform to the provisions of Appendix B.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+45,"具备独有抽象字形的汉字,赋予单独的代码位置;来源不同而抽象字形相同的汉字, 则赋予共用的代码位置。",Chinese characters with unique abstract glyphs are assigned separate code points; Chinese characters from different sources but with identical abstract glyphs are assigned shared code points.,"```
+MQM annotations:
+Critical: none
+Major: none
+Minor: none
+```"
+47,4.4 四字节部分,4.4 Four-byte section,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+48,四字节部分收录了上述双字节字符之外的 GB/T 13000 中的 66 个CJK统一汉字(9FA6 一 9FEF，不包括 9FB4~9FBB 的8个字符)、CJK 统一汉字扩充 A、CJK 统一汉字扩充 BCJK 统一汉字扩充 C、 CJK 统一汉字扩充 DCJK 统一汉字扩充下 .CJK 统一汉字扩充 F 和已经 在 GB/ 工 13000 中编码的少数民族文字的字符。,"The four-byte section includes, in addition to the aforementioned double-byte characters, 66 CJK Unified Ideographs from GB/T 13000 (9FA6–9FEF, excluding the 8 characters from 9FB4–9FBB), CJK Unified Ideographs Extension A, CJK Unified Ideographs Extension B, CJK Unified Ideographs Extension C, CJK Unified Ideographs Extension D, CJK Unified Ideographs Extension E, CJK Unified Ideographs Extension F, and characters for minority scripts already encoded in GB/T 13000.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+52,"附录中凡编码的表示均采用十六进制,其他数字的表示均采用十进制。","In the appendix, all encoded representations are in hexadecimal, and all other numbers are represented in decimal.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+58,6 字符的排列顺序,Order of 6 characters,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+59,6.1 单字刷部分字符的排列顺序,6.1 Arrangement order of some characters in single-character rendering/display.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+60,单字记部分字符按照 GB/I 11383 一 1989 中相应字符的顺序排列 。,Characters in the single-character section are arranged according to the order of the corresponding characters in GB/I 11383-1989.,"```
+MQM annotations:
+Locale Convention Errors:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+67,7 码位分配,7 Code point allocation,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+71,2.双字部分的码位分配,2. Code position assignment for the two-character part.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+72,"双字节部分的码位安排分为 0x8140~ 一 0xFE7E 和 0x8180 一 0xFEFE 两部分, 共 23940 个码位。","The code points for the double-byte section are divided into two parts: 0x8140-0xFE7E and 0x8180-0xFEFE, for a total of 23,940 code points.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+75,双字节 1 区 : 846 码位,Double-byte Section 1: Code point 846,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+77,首字节 0xA8~0xA9 双字节 5 区 : 192 码 位,"First byte 0xA8-0xA9, double-byte Zone 5: 192 code points.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+78,3.双字蔬部分编码空间结构图,3. Two-character vegetable part encoding space structure diagram.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+84,表 3 中没有指明的四字节人码位分配见 6.3。,The allocation of four-byte code points not specified in Table 3 is given in 6.3.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+85,表 3 四字闻部分的码位安排,Table 3: Code point arrangement for the four-character section.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+88,码位范围码位数字符数,"Code point range, number of code points, number of characters","```
+MQM annotations:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+91,8 部分字符和代码的说明,8 Explanation of some characters and code,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+97,实现级别 1 文持本文件的单字节编码部分、双季节编码部分和四字下编玛部分的 CJK 统一汉字 ( 即 0x82358F33 一 0x82359636) 和 CJK 统一汉字扩A( 即 0x8139EE39 一 0x82358738) 。,"Implement Level 1 support for the CJK Unified Ideographs (i.e., 0x82358F33 - 0x82359636) and CJK Unified Ideographs Extension A (i.e., 0x8139EE39 - 0x82358738) within the single-byte, double-byte, and four-byte encoding parts of this document.","```
+MQM annotations:
+Locale Convention Errors:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+102,"此外 ,实现级别 2 还文持《通用 规范 汉字 表 }中的没有包合在实级别 1 之内的编码汉字。","In addition, Implementation Level 2 also supports the encoded Chinese characters in the ""Table of General Standard Chinese Characters"" that are not included in Implementation Level 1.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+104,"系统软件及支撑软件,应满足实现级别 2 的要求 。",System software and supporting software should meet the requirements for achieving Level 2.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+105,"注: 系统软件及文撑软件包括但不限于操作系统,数据库管理系统.中间件( 软件产品分类的信息见 GB/ 工 36475)。","Note: System software and supporting software include but are not limited to operating systems, database management systems, middleware (see GB/T 36475 for information on software product classification).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+107,实现级别 3 包含实现级别 2。,Implementation Level 3 includes Implementation Level 2.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+109,用于政务服务和公共服务的产品应满足实现级卉 3 的要求。,Products for government services and public services should meet the requirements of Implementation Level 3.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+111,附录 A (规范性 ),Appendix A (normative),"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+112,双字字符表,Double Character Table,"```
+MQM annotations:
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+115,A.2 表的说明,A.2 Explanation of the table,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/number_format] - None
+[Major]: [locale_conventions/number_format] - None
+[Minor]: [locale_conventions/number_format] - None
+```"
+117,第一字节第二字节低位,"First byte, low bit of the second byte","```
+MQM annotations:
+critical: None
+major: None
+minor: None
+```"
+121,表意文字描述符,Ideographic character descriptor,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+124,表 B.1 表意文字描述符的图形、代码位置和功能描述,"Table B.1: Graphics, Code Positions, and Functional Descriptions of Ideographic Character Descriptors","```
+MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+125,"本文件的码位 GB/T 13000 的码位功能描述相似而不等,用于借某字表达外字","The functional description of the code points in this document is similar but not identical to that of the code points in GB/T 13000, used for representing external characters by borrowing certain characters.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+130,全包围结构,Full enclosure structure,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+133,回右包围结构,Top-right enclosing structure,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```"
+136,回右上包围结构,Upper right enclosing structure,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+140,C.1 表的内容,Contents of Table C.1,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+145,D.1 调整过的 18 个GB/T 13000 代码位置,D.1 18 adjusted GB/T 13000 code positions,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+148,本文件及 GB 18030 一 2005 的GB 18030 一 2005 对应的本文件对应的GB/T 工 13000 码位,"The GB/T 13000 code points corresponding to this document, which correspond to GB 18030-2005 of this document and GB 18030-2005.","```
+MQM annotations:
+Critical: None
+Major: None
+Minor: None
+```"
+149,D.2 在双字闻区删除的 6 个汉字构件,D.2 6 Chinese character components deleted in the two-character area.,"```
+MQM annotations:
+Locale Convention Errors:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+151,D.3 在双字下区删除的 9 个 CJK 兼容汉字,D.3 9 CJK Compatibility Ideographs deleted from the lower double-byte area.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+153,表 D.3 删除的 9 个 CJK 兼容汉字和它们的代码位置,Table D.3: The 9 deleted CJK Compatibility Ideographs and their code points,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+154,附录开 (资料性)《通用规范汉字表》 汉字的代码位置,"Appendix K (Informative) Code Positions of the Chinese Characters in the ""Table of General Standard Chinese Characters""","```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+155,"本文件收录了 2013 年中华人民共和国国务院批准发布的 4 通用规范汉字表》 中的全部 8105 个规范汉字,它们的代码位置和字形见表1。","This document includes all 8105 standardized Chinese characters from the 'Table of General Standard Chinese Characters', approved and published by the State Council of the People's Republic of China in 2013. Their code points and glyphs are shown in Table 1.","```
+MQM annotations:
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+159,GB/ 工 36475 软件产品分类,GB/ 工 36475 Software Product Classification,"```
+MQM annotations:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+163,"如果发现手册页和软件之间有所矛盾,请查对Info","If you find a contradiction between the manual pages and the software, please consult Info.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+170,源文件后级名指出语言种类以及后期的操作:,The source file extension indicates the language type and subsequent operations:,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+171,".c C 源程序; 预处理, 编译,汇编",".c C source code; preprocessing, compilation, assembly,","```
+MQM annotations:
+Accuracy Errors
+[Critical]: locale_conventions/None - None
+[Major]: locale_conventions/None - None
+[Minor]: locale_conventions/None - None
+```"
+175,".m Objective-C 源程序; 预处理,编译,汇编",".m Objective-C source code; preprocessing, compilation, assembly.","```
+MQM annotations:
+Critical: none
+Major: none
+Minor: none
+```"
+176,".i 预处理后的 c 文件;编译,汇编",".i preprocessed C file; compilation, assembly","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+182,.a 归档库文件(Archive file),.a archive library file (Archive file),"```
+MQM annotations:
+[Critical]: [locale_conventions/no-error] - None
+[Major]: [locale_conventions/no-error] - None
+[Minor]: [locale_conventions/no-error] - None
+```"
+183,"除非使用了 -cec，-s, 或 -E 选项(或者编译错误阻止了完整的过程),否则连接总是最后的步骤.","Unless the -cec, -s, or -E options are used (or a compilation error prevents the complete process), linking is always the final step.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: locale_conventions/None - None
+[Major]: locale_conventions/None - None
+[Minor]: locale_conventions/None - None
+```"
+185,选项必须分立给出 : de ' 完全不同于 `-d -r '.,Options must be specified separately: this is 'completely different from' `-d -r`.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+187,这里只列举不是默认选项的格式.,Only formats that are not default options are listed here.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+190,总体选项 (Overall Option),Overall Options,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+191,明确指出后面输入文件的语言为 language (而不是从文件名后绥得到的默认选择).,Explicitly specify the language of the following input file as language (rather than the default derived from the filename extension).,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+193,"关闭任何对语种的明确说明, 因此依据文件名后级处理后面的文件 RE AS E ` -x' 选项).","Disable any explicit specification of language; therefore, subsequent files are processed based on the filename suffix (the RE AS E `-x` option).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+194,"如果只操作四个阶段( 预处理, 编译, 汇编, 连接)中的一部分, 可以使用 ` -x' 选项 (或文件名后 Ah) 告诉 geo 从哪里开始,用 `~-c' ，`-s' ,或 `-E' 选项告诉 geo 到哪里结束.注意,某些选项组合 (例如 ，`-x cpp-output -E') {i gee MEF =c 编译或汇编源文件, ETER. ERA ATI 缺省情况下， GCC 通过用 ` .o' 蔡换源文件名后级 ` .ec 标文件名. 可以使用-o 选项选择其他名字.GCC忽略 -ec 选项后面任何无法识别的输入文伯 -S F 何事情.","If you only want to perform some of the four stages (preprocessing, compilation, assembly, linking), you can use the `-x` option (or the filename suffix) to tell gcc where to start, and use the `-c`, `-S`, or `-E` options to tell gcc where to stop. Note, some option combinations (for example, `-x cpp-output -E'). By default, GCC forms the output filename by replacing the source filename suffix (like `.c`) with `.o`. You can use the `-o` option to choose another name. GCC ignores any unrecognized input files following the argument to the `-o` option.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: locale_conventions/None - None
+[Major]: locale_conventions/None - None
+[Minor]: locale_conventions/None - None
+```"
+196,"编译后即停止, 不进行汇编件.","Stop after compilation, do not assemble.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+197,"在编译过程的不同阶段间使用管道而非临时文件进行工作, 因为那些系统的汇编器不能从管道读取数据，GNU 的汇编器没有这个问题，汇编器能够接受的 C ""方言 "": 支持符合 ANSI 标准的 C 程序.","Use pipes instead of temporary files between different stages of the compilation process, because the assemblers of those systems cannot read data from pipes; GNU's assembler does not have this problem. The C ""dialect"" that the assembler can accept: Supports ANSI-standard C programs.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+200,"正常情况下, 这样的函数 foo 在 C++ 中意味着参数为空.","Normally, such a function `foo` in C++ means its parameter list is empty.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+202,"详见NU c 手册,我们已经把细节删除, 这样当内容过时后, 人们也不会 HERI.",Refer to the NU c manual for details. We have removed the details so that people will not be misled when the content becomes outdated.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+204,他和`-Ethis-is-variable' 选项的果一样.,He has the same effect as the `-Ethis-is-variable' option.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+205,-traditional-cpp 试图支持传统 Cc 预处理器的某些方面.,-traditional-cpp attempts to support certain aspects of the traditional Cc preprocessor.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+216,"相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.","Correspondingly, if the default option ` -fno-external-templates` is used at compile time, all template instantiations are explicitly treated as internal.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+219,"有些情况下, 编译器能够判断出可以直接调用某个虚函数; 这时就直接调用.","In some cases, the compiler can determine that a virtual function can be called directly; it then calls it directly.","```
+MQM annotations:
+Locale Conventions Errors:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+221,这种表达式的值是 Void.-fthis-—is-variable 允许对 this 赋值 (仅对 c++).,The value of this kind of expression is Void. -fthis-is-variable allows assignment to `this` (only for C++).,"```
+MQM annotations:
+Critical: None
+Major: None
+Minor: None
+```"
+229,"这个选项, 和它的反义选项, 使那样的程序工作在对应的默认值上.","This option, and its opposite option, make such programs work with their corresponding default values.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+231,"如果没有明确声明 ` signed' 或 ""unsigned'修饰符, 这些选项用来定义有符号位域 (bitfield) 或无符号位域.","If `signed` or `unsigned` modifiers are not explicitly specified, these options are used to define signed or unsigned bitfields.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+234,"这是为了兼容一些老程序,他们算改字符串常量是一个非常糟糕的想法、`-traditional' 选项也有相同效果.","This is for compatibility with some old programs; modifying string constants is a very bad idea, and the `-traditional` option also has the same effect.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+237,其影响可能类似于2008年的经济危机,Its impact could be similar to the 2008 economic crisis.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+239,在许多国家，这一疾病己使医疗服务机构穷于应付，几近崩溃，各国政府实施的限制措施已在全球经济中造成了严重紊乱。,"In many countries, this disease has overwhelmed healthcare services, bringing them to the brink of collapse, and the restrictive measures implemented by governments have caused severe disruption in the global economy.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+241,一些生产者可能会被迫寻找新的方法来制造毒品，因为限制流动的同时也限制了前体和基本化学品的获取。,"Some producers may be forced to find new ways to manufacture drugs, because restrictions on movement also limit access to precursors and essential chemicals.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+249,一些国家有大量毒品通过商业航班走私，预计这些国家的贩毒活动受到的直接影响最大。,Countries where large quantities of drugs are smuggled via commercial flights are expected to experience the most direct impact on their drug trafficking activities.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+259,世界各地的吸毒现象一直在增多，无论是从总体数字还是从吸毒者在世界人口中所占比例来看都是如此。,"Drug abuse worldwide has been increasing, both in terms of overall numbers and as a proportion of the global population.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+262,"这在一定程度上反映了这一期间总体人口增长的差异、发达国家为7%,发展中国家为28%但也反映了发展中国家年 轻人口增长较快。","To some extent, this reflects the difference in overall population growth during this period, with developed countries at 7% and developing countries at 28%, but it also reflects the faster growth of the young population in developing countries.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+263,青少年和年轻成年人在吸毒者中所占比例最大。,Teenagers and young adults make up the largest proportion of drug users.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+266,无论是发达国家还是发展中国家，城市地区的吸毒情况都多于农村地区。,"Whether in developed or developing countries, the prevalence of drug abuse is higher in urban areas than in rural areas.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+267,吸毒情况总体增多的部分原因是人口从农村向城镇的大规模流动一目前全世界人口有一半以上生活在城市地区，而1960年这一比例为34%。,"Part of the reason for the overall increase in drug use is the large-scale migration of the population from rural to urban areas—more than half of the world's population now lives in urban areas, compared to 34% in 1960.","```
+MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+268,城市化可能是毒品市场未来动态的一个关键因素，特别是在城市化趋势更为突出的发展中国家。,"Urbanization may be a key factor in the future dynamics of drug markets, especially in developing countries where urbanization trends are more pronounced.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+273,来自少数几个国家的数据表明，有害的吸毒模式与病症同低收入之间存在联系。,"Data from a few countries indicate a link between harmful drug use patterns and morbidity, and low income.","```
+locale conventions:
+
+MQM annotations:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+274,这些模式在较富裕的社会阶层似乎不太常见。,These patterns seem less common among more affluent social classes.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+277,新冠肺炎或将导致毒品市场进一步扩张新冠肺炎的大流行可能会导致更多农民增加或从事非法作物种植，或是因为国家主管机关的控制能力降低，或是因为在经济危机之下可能有更多人不得不铤而走险，从事非法活动。,"COVID-19 could lead to further expansion of the drug market. The pandemic might cause more farmers to increase or start cultivating illicit crops, either because the control capabilities of state authorities are diminished, or because the economic crisis might compel more people to take desperate measures and engage in illegal activities.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: locale_conventions/None - None
+[Major]: locale_conventions/None - None
+[Minor]: locale_conventions/None - None
+```"
+283,会员国的国内市场每年约有500种新型活性物质。,Approximately 500 new active substances enter the domestic markets of Member States each year.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+286,"在2014年确定的新型精神活性物质种类总数中，类阿片新型精神活性物质仅占2%,但到2018年，这一数字己上升至9%。","Among the total types of new psychoactive substances identified in 2014, opioid new psychoactive substances accounted for only 2%, but by 2018, this figure had risen to 9%.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+287,类阿片新型精神活性物质中有许多是芬太尼的类似物，其药效和危害已得到证明，在北美导致了过量死亡事件，其他区域也有，但程度较轻。,"Many opioid novel psychoactive substances are fentanyl analogues, whose potency and harm have been proven, having caused overdose deaths in North America, and also in other regions, albeit to a lesser extent.","```
+MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+288,在北美，芬太尼有的用作海洛因和其他毒品（包括可卡因和甲基苯丙胺）的掺杂剂，有的用来制造假冒的药用类阿片。,"In North America, some fentanyl is used as an adulterant in heroin and other drugs (including cocaine and methamphetamine), while some is used to make counterfeit prescription opioids.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+290,2新型精神活性物质的使用可能会逐渐牢固存在于弱势群体中,2 The use of new psychoactive substances may gradually become firmly entrenched among vulnerable groups.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+295,贩毒者和制毒者一直在寻找替代品一不仅有管制较松的物质，还有专门为规避管制而设计的化学品，即所谓的“特制前体”。,"Drug traffickers and producers are constantly seeking alternatives—not only less strictly controlled substances, but also chemicals specifically designed to evade controls, the so-called ""designer precursors"".","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+296,旨在阻止新冠肺炎传播的限制性措施很可能使依赖前体化学品的制毒者受到进一步挤压。,Restrictive measures aimed at stopping the spread of COVID-19 are likely to further squeeze drug producers who rely on precursor chemicals.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+297,来自墨西哥的证据表明，这已经成为 现实：据报告，2020年3月，从东亚进口的甲基苯丙胺前体短缺促使墨西哥和美国的甲基苯丙胺价格上涨。,"Evidence from Mexico indicates that this has already become a reality: reportedly, in March 2020, a shortage of methamphetamine precursors imported from East Asia prompted methamphetamine prices in Mexico and the United States to rise.","```
+MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+305,阿富汗和伊拉克甲基苯丙胺市场增长,Afghanistan and Iraq methamphetamine market growth,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+309,最近，伊拉克当局发现了多个甲基苯丙胺加工点，麻管局已对伪麻黄碱制剂的大批进口表示关切一甲基苯丙胺加工点将这些制剂用作前体。,"Recently, Iraqi authorities discovered multiple methamphetamine processing sites. The narcotics control agency has expressed concern about large-scale imports of pseudoephedrine preparations, which these processing sites use as precursors.","```
+MQM annotations:
+Locale Conventions Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+311,自那时起，甲基苯丙胺的缉获量一直在稳步上升。,"Since that time, methamphetamine seizures have been steadily increasing.","```
+MQM annotations:
+critical: none
+major: none
+minor: none
+```"
+312,但2019年上半年的缉获量一^657公斤——与上一年相比大幅骤增。,But the amount seized in the first half of 2019 was 657 kilograms—a sharp increase compared to the previous year.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+318,在美国最早通过立法的两个州科罗拉多州和华盛顿州，成年人非医疗使用大麻的情况增加，特别是过去一个月以及每天或几乎每天使用的情况增多，自2012年起便已超过了全国平均水平。,"In Colorado and Washington, the first two US states to pass legislation legalizing it, adult non-medical cannabis use has increased, particularly past-month use and daily or near-daily use, exceeding the national average since 2012.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+323,全球大麻药草缉获量暴跌的背后原因是大麻合法化？,Is cannabis legalization the reason behind the sharp drop in global cannabis herb seizures?,"```
+MQM annotations:
+Locale Convention Errors:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+326,对新型精神活性物质的监管似乎有遏制作用在国内对新型精神活性物质的监管效果仍然很难评估。,"Regulation of novel psychoactive substances seems to have a deterrent effect, but the effectiveness of this regulation domestically remains difficult to assess.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+327,一些对新型精神活性物质采用不同监管制度的国家显示出不同的新型精神活性物质使用流行率。,Countries adopting different regulatory systems for new psychoactive substances show different prevalence rates of NPS use.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/address_format] - None
+[Critical]: [locale_conventions/currency_format] - None
+[Critical]: [locale_conventions/date_time_format] - None
+[Critical]: [locale_conventions/measurement_format] - None
+[Critical]: [locale_conventions/number_format] - None
+[Critical]: [locale_conventions/telephone_format] - None
+[Major]: [locale_conventions/address_format] - None
+[Major]: [locale_conventions/currency_format] - None
+[Major]: [locale_conventions/date_time_format] - None
+[Major]: [locale_conventions/measurement_format] - None
+[Major]: [locale_conventions/number_format] - None
+[Major]: [locale_conventions/telephone_format] - None
+[Minor]: [locale_conventions/address_format] - None
+[Minor]: [locale_conventions/currency_format] - None
+[Minor]: [locale_conventions/date_time_format] - None
+[Minor]: [locale_conventions/measurement_format] - None
+[Minor]: [locale_conventions/number_format] - None
+[Minor]: [locale_conventions/telephone_format] - None
+```"
+328,在另一些国家，通过国内立法后，新型精神活性物质使用情况有所减少。,"In other countries, the use of new psychoactive substances has decreased following the enactment of domestic legislation.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+333,"据估计，低收入和中等收入国家的人口占全球人口的88%,但消费的药用类阿片却不到10%。","It is estimated that the population of low- and middle-income countries accounts for 88% of the global population, but consumes less than 10% of the world's medicinal opioids.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+334,获取药用类阿片的障碍与许多因素有关，包括立法、文化、卫生系统和处方做法。,"Barriers to accessing medicinal opioids are related to many factors, including legislation, culture, health systems, and prescribing practices.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: locale_conventions/None - None
+[Major]: locale_conventions/None - None
+[Minor]: locale_conventions/None - None
+```"
+343,全球范围的有限数据表明，迷醉可能是杀人的一个重要因素。,Limited worldwide data indicates that intoxication may be an important factor in homicide.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+351,据估计，2018年使用大麻的有 1.92 亿人，使之成为全球使用最多的毒品。,"An estimated 192 million people used cannabis in 2018, making it the world's most widely used drug.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+354,"在2017年与吸毒病症有关的估计167,000例死亡中，有66%是这类物质造成的，在据信为吸毒导致的残疾或过早死亡而损失的2,100万年寿命中，有50%是这类物质造成的。","Of the estimated 167,000 deaths related to drug use disorders in 2017, 66% were caused by these substances, and of the 21 million years of life lost due to disability or premature death attributed to drug use, 50% were caused by these substances.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+368,兴奋剂领域以可卡因和甲基苯丙胺为主，这两种物质在其主要市场的使用量都在上升。,"The stimulant market is dominated by cocaine and methamphetamine, and the use of both substances is increasing in their primary markets.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+372,在一些市场上，可卡因和甲基苯丙胺可以共存，有时是相互替代，这样一种药物的使用量上升时另一种药物的使用量就下降，有时是同时增加和减少以满足同一市场的需求。,"In some markets, cocaine and methamphetamine can coexist, sometimes substituting for each other, such that when the use of one drug rises the use of the other falls, and sometimes increasing and decreasing together to meet the demand of the same market.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+376,2017年，因吸毒死亡的约有 58.5万人，其中一半死于丙型肝炎引起的肝病，而注射吸毒者的丙型肝炎大多仍未得到治疗。,"In 2017, approximately 585,000 people died due to drug use, half of whom died from liver disease caused by Hepatitis C, and Hepatitis C among injecting drug users remains largely untreated.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+380,使用说明书,User manual,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+385,将耳帐斜向下轻轻塞入耳道，以轻摆头部耳机不田动为家。,Gently insert the ear tip diagonally downwards into the ear canal; the ideal fit is achieved when the earphone does not move as you gently shake your head.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+388,充电开机使用前，请先撕掉左右耳机充各点处的网几，将充电盒及耳机充满电。,"Before use, please remove the protective film from the charging contacts on the left and right earbuds, and fully charge the charging case and earbuds.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+390,充电盒未充满电充电指示灯红灯长亮，充满电后充电:3 指示灯熄灭。,"When the charging case is not fully charged, the charging indicator light stays solid red; when fully charged, the indicator light turns off.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: locale_conventions/None - None
+[Major]: locale_conventions/None - None
+[Minor]: locale_conventions/None - None
+```"
+403,自动连接: 局对移两只耳机从充时盒外十.,Automatic connection: Automatically connect when both earbuds are removed from the charging case.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+405,随后红和白灯恢六. 左右囊如自过串联 .,"Subsequently, the red and white lights recover/reset. The left and right bags/capsules [lights?] are connected as if passing through series.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+406,"待左/右耳机白灯懈 闪时. 打开设备否牙搜索 “RedmIArDots2 ""并点击完连溶。","When the white light on the left/right earbud flashes slowly, open the device's Bluetooth, search for ""RedmIArDots2"", and tap to complete the connection.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+407,首次连接后. 囊志开机可自动回连上一次配对设备(蓝牙需开启)。,"After the first connection, the device will automatically reconnect to the last paired device when powered on (Bluetooth needs to be enabled).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+412,"单耳 / 双耳自由切换; 两只耳机连接成功后即为双丁连接; 将任一耳机放回充电盒关机, 另一只耳机进入单耳模式, 重新取出即可自动恢复双耳模式 。","Seamless switching between single and dual ear modes. Once both earbuds are successfully connected, they enter stereo mode. Place either earbud back into the charging case to turn it off, and the other earbud will switch to mono mode. Taking the earbud out again automatically restores stereo mode.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+415,如果耳机无法正常连接使用，请参照以下方式重置,"If the headphones fail to connect or work properly, please reset them according to the following method.","```
+MQM annotations:
+Locale Convention Errors:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+416,耳机: 将耳机拿出充电盒， 在关机状态下， 分别长按两只耳机多功能键15 秒 ，至红白灯交替闪烁3 次后，松开并放回充电盒即可(清除耳机与手机的连授记录)。,"Earbuds: Take the earbuds out of the charging case. With the earbuds powered off, press and hold the multi-function buttons on both earbuds simultaneously for 15 seconds until the red and white lights flash alternately 3 times. Then, release the buttons and place the earbuds back into the charging case (this clears the pairing record between the earbuds and the phone).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+423,本严操的相关信息请查询销售网 : www micom,"For related information about this procedure, please check the sales website: www.micom","```
+MQM annotations:
+Accuracy Errors
+[Critical]: locale_conventions/None - None
+[Major]: locale_conventions/None - None
+[Minor]: locale_conventions/None - None
+```"
+426,"以下功能左右耳机均可操作, 轻按一下来电时，接听电话; 通话或去电中，挂断电话音乐时，播放 /暂停音频 ,长按约1 秒释放","The following functions can be operated on both the left and right earbuds: Tap once when there is an incoming call to answer the call; during an active or outgoing call, hang up the phone; during music playback, play/pause audio. Press and hold for about 1 second then release.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+429,待机时， 开启语音助手(需设备支持语音功能且打开快速唤醒设置),"During standby, activate the voice assistant (requires the device to support voice function and the quick wake-up setting to be enabled).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+435,耳机基本参数,Headphone Basic Specifications,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+438,输入参数:5V 二 100mA,Input parameters: 5V --- 100mA,"```
+MQM annotations:
+[Major]: [locale_conventions/Measurement Format] - The separator ""---"" between ""5V"" and ""100mA"" is not a standard convention in English for listing technical parameters like voltage and current. Standard separators would typically be a comma, slash, or space, or the parameters would be listed explicitly (e.g., Voltage: 5V, Current: 100mA). The triple dash is unconventional formatting for measurements in this context.
+```"
+439,单耳净重: 约 4.1g,Single ear net weight: Approx. 4.1 g,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+448,"1 请勿以任何理由拆开.维修或改装耳机, 否则可能会导致起火甚至彻底损坏本产品;","Do not disassemble, repair, or modify the earphones for any reason, otherwise it may cause a fire or even completely damage this product.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+451,"4 请勿在雷暴天气下使用该设备, 雷暴可导致设备工作异常, 并增加触电的危险;","4 Do not use this device during thunderstorms, as thunderstorms can cause the device to malfunction and increase the risk of electric shock.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+453,6 请勿将本产品与液体接触。,6 Do not bring this product into contact with liquid.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: locale_conventions/None - None
+[Major]: locale_conventions/None - None
+[Minor]: locale_conventions/None - None
+```"
+454,注意,Attention,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+457,"3 长时间连续使用耳机有损听力,请合理控制使用时间及音量 ;",Prolonged continuous use of headphones is harmful to hearing; please control the usage time and volume reasonably.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+471,"2 自您签收次日起 8 日-15日内, 本产品出现《Redmi AirDots 2 ee E 故障表》所列性能故障的情况, 经由小米售后服务中心检测确 定, 可","2. Within 8 to 15 days from the day after you sign for receipt, if this product exhibits a performance fault listed in the《Redmi AirDots 2 ee E Fault Table》, as tested and confirmed by the Xiaomi After-sales Service Center, it is possible to","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/None] - None
+[Major]: [locale_conventions/None] - None
+[Minor]: [locale_conventions/None] - None
+```"
+476,电牙耳机 ”2 通话过程中，对方听不到声音。,"Bluetooth headset ""2"": During a call, the other party cannot hear sound.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+480,2 已超过三包有效期;,2. The warranty period has expired;,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"

@@ -1,0 +1,5036 @@
+index,original,zero_shot_translation,annotation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",判明したのは、IDirect3D::CreateViewport()を呼び出すと、IDirect3DViewport3が返されると仮定していたことです。これは、IDirect3DViewportと比較して、末尾に追加のメソッドが付加されているもので、私が実装したものです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""Turns out is was presuming"" is translated as ""判明したのは...と仮定していたことです,"" which slightly changes the nuance of the original. The translation implies a more definitive conclusion than the original, which suggests an unexpected realization.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは普遍的に当てはまるわけではありません。その場合、問題のオブジェクトを作成するために使用しているインターフェースが重要です。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",議論のために、科学が少なくとも一部は世界についての客観的な事実のリストから成り立っており、それらが支持するかもしれない理論とは無関係に真実であると仮定しましょう。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall: no-error"
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,たとえそのような事実が科学に存在することが真実であっても、科学的事実は理論に依存していると主張することは依然として可能です。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",この解釈では、実験が事実を生み出すのではなく、どの実験を行うかの選択がどの事実が発見されるかを制御します。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",いくつかの事実、例えば素粒子については、資本主義においてのみ可能な実験の結果としてしか得られません。なぜなら、それらの実験は、他の方法では成し遂げることができないほど多くの資源、多くの組織、多くの強制を必要とするからです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [omission] - The translation omits the phrase ""too much"" before ""resources,"" ""organization,"" and ""coercion,"" which slightly changes the emphasis of the original sentence.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+14,Picking this up this weekend.,今週末にこれを受け取ります。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The translation ""これを受け取ります"" implies receiving something, whereas ""picking this up"" suggests collecting or retrieving something, which may not necessarily mean receiving.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+16,Already on coil overs and lowered ride height.,すでに車高調を装着し、車高を下げています。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べましたが、この車について何か情報があれば教えてください。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [omission] - The translation omits the nuance of ""I would love"" from the source text, which adds a level of enthusiasm or eagerness to the request for information.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+18,Personal experiences?,個人的な経験？,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+19,I know they're not fast compared,比べると速くないことは知っています。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation ""比べると速くないことは知っています。"" means ""I know they are not fast when compared,"" which changes the meaning of the original sentence.
+[Major]: [omission] - The translation omits the word ""compared"" from the original sentence.
+[Minor]: [addition] - The translation adds the phrase ""比べると"" (when compared), which is not present in the source text.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",私、ボードショーツとタンクトップを着て、そしてドメスティックパートナーはタトゥーだらけで、自分で「ネオナチみたいに見える」と言った新しい髪型をしている。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The term ""wife beater"" is a colloquial term for a sleeveless undershirt, and it is translated as ""タンクトップ"" which is generally understood as a tank top. While this is a common translation, it may not fully convey the colloquial nuance of the original term.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The sentence structure in Japanese could be improved for better readability, particularly around the description of ""The Domestic Partner.""
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The phrase ""そしてドメスティックパートナーはタトゥーだらけで"" could be rephrased for smoother flow in Japanese.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error
+[Critical]: None
+[Major]: None
+[Minor]: None"
+36,NY is the best hope for accountability,NYは説明責任を果たすための最良の希望です。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The translation of ""accountability"" as ""説明責任を果たすため"" suggests fulfilling accountability rather than being the best hope for it.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つ信号を送ることに還元できないという重要な証拠があります。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",文脈依存のコミュニケーションは、状況に応じた多層的な現象であり、文脈の分布などの環境特性に大きく影響されると提案します。,"MQM annotations:
+
+Accuracy Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: [mistranslation] - The phrase ""We suggest that"" is translated as ""と提案します"" which can imply a more direct suggestion or proposal rather than the intended meaning of ""suggest"" in the context of a hypothesis or theory.  
+
+Fluency Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Locale Convention Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Style Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Terminology Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Non-Translation Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Other Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+No-error"
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒にさまざまなプロジェクトを支援しながら、思い出に残る6か月を過ごすことができて幸運でした。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会ったとき、特に植樹と農場支援の進展について聞いて嬉しかったです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The word ""chuffed"" is translated as ""嬉しかった"" (was happy), which may not fully capture the informal and slightly more enthusiastic tone of ""chuffed.""
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+61,Licht AGREED to an all Republican audience!,リヒトは全員が共和党員の観客に同意しました！,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation of ""agreed"" as ""同意しました"" is incorrect in this context. It implies that Licht agreed with the audience, rather than addressing or speaking to them.
+[Major]: [addition] - None
+[Minor]: [omission] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - The exclamation mark at the end of the sentence may not be appropriate in Japanese, as it can change the tone of the sentence.
+[Minor]: [register] - The use of ""リヒト"" for ""Licht"" is acceptable, but depending on the context, a more formal or different representation of the name might be needed.
+
+Locale Convention Errors
+[Critical]: [name format] - None
+[Major]: [name format] - None
+[Minor]: [name format] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inappropriate for context] - None
+[Minor]: [inappropriate for context] - None
+
+Non-translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error: None"
+65,It can't be repeated.,繰り返すことはできません。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨晩ついにこのルーティンにうんざりして、すべての罠からピーナッツバターを取り除き、ピスタチオをスーパーボンドで貼り付けました。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""superglued a pistachio to them"" is translated as ""ピスタチオをスーパーボンドで貼り付けました"", which could imply attaching pistachios to something unspecified rather than to the traps. The translation should clarify that the pistachio is being attached to the traps.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",参考までに、市場に出回っているほとんどすべての「人道的」な罠を試しましたが、ほとんど成功しませんでした。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""fwiw"" (for what it's worth) is omitted in the translation, which could slightly alter the nuance of the statement.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+74,"They aren't, at least not in Alberta.",彼らはそうではありません、少なくともアルバータでは。,"MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The translation ""彼らはそうではありません"" does not accurately convey the meaning of ""They aren't"" in the context of the sentence.
+[Major]: punctuation - The translation lacks proper punctuation to separate the clauses, which disrupts the flow of the sentence.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: grammar - The sentence structure in Japanese is awkward and does not flow naturally.
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The translation is awkward and does not sound natural in Japanese.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+75,Sure they cut business taxes.,もちろん、彼らは事業税を削減しました。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",「彼をグラスゴーに降ろすだけです」と、私は旅の仲間を指し示しながら説明しようとしました。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately and fluently conveys the meaning of the source text without any errors."
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.",「『彼をグラスゴーに降ろすだけです』なんてあまり聞かないですね」とチケット係が言った。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+90,And they are truly nuts.,そして彼らは本当に狂っています。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+95,Yell back at those who would try to talk over us.,私たちの声をかき消そうとする者たちに向かって叫び返せ。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,隣人と私は同時に帰宅しましたが、通りの向こうから彼がコロナの痰を激しく咳き込んでいるのが聞こえました。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""covid mucus storm"" is translated as ""コロナの痰を激しく咳き込んでいる,"" which may not fully capture the metaphorical intensity of ""mucus storm.""
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,彼を避けるために急いでアパートに入ったが、それでも彼は追いついてきて話しかけてきた。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","4,000年の苦悩の後、Ylは愛の場所に自分を見つけ、どうしていいかわからないほどの大きな感情を抱えているので、両方がたくさんあります。","MQM annotations:
+
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""huge feels"" is mistranslated as ""大きな感情"" (big emotions), which doesn't capture the informal and nuanced meaning of ""feels"" in this context.
+[Minor]: [addition] - The translation adds ""年"" (years) after ""4,000"", which is not explicitly stated in the source text.
+
+Fluency Errors
+[Critical]: None
+[Major]: [awkward] - The phrase ""両方がたくさんあります"" (there's a lot of both) is awkward and unclear in Japanese.
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#マンゴーモロンの大失敗は、非常にひどい失敗でした。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The repetition of ""fiasco"" as ""大失敗"" and ""ひどい失敗"" could be seen as redundant, but it does not hinder comprehension.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The translation could be considered slightly awkward due to the repetition of ""失敗"" (failure) in Japanese, but it does not disrupt the overall understanding.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+113,A cold front should arrive by the middle of next week.,来週の半ばまでに寒冷前線が到達するでしょう。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",今朝早く、IR衛星と地上観測により、低層の層雲とまだらな<URL>が拡大していることが示されました。,"MQM annotations:
+Accuracy Errors
+[Critical]: [untranslated text] - The placeholder ""<URL>"" was not translated or replaced with appropriate content.
+[Major]: [omission] - The translation omits the word ""area"" which is present in the source text.
+[Minor]: [mistranslation] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - None
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [date] - None
+[Major]: [time format] - None
+[Minor]: [name] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error: None"
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけて、その専門知識を活用し、CRM投資の価値を最大化しましょう。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーが導入、カスタマイズ、統合、継続的なサポートでどのように役立ち、Salesforceエコシステムでビジネスが繁栄できるかを発見してください。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+137,But another individual often flies aboard that ship.,しかし、別の人物がしばしばその船に乗って飛ぶ。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""flies aboard"" is mistranslated as ""乗って飛ぶ,"" which can imply physically flying with the ship rather than being aboard it as it flies.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+142,The Last of Us is an easy and canonical example of dad-ification.,『The Last of Us』は、父親化の簡単で典型的な例です。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",ダッドフィケーションは通常、親の立場にある人物が子供やその代わりとなる存在を世話したり守ったりしなければならない状況において、圧倒的な強さが解決策であり、その強さを使って非常に特定の形をした力のダイナミクスを強制することを示唆します。,"MQM annotations:
+
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""Dad-ification"" is a specific cultural term that may not be fully captured in the translation. It could benefit from additional context or explanation to convey the nuance of the original term.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+147,Here's a quick overview of how to make use of our website.,こちらは、当ウェブサイトの利用方法についての簡単な概要です。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The translation lacks a space after the period, which is a minor punctuation issue.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+148,- We send out notifications when airfare goes on sale.,航空運賃がセールになると通知を送信します。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは平和で安全な環境で育つ権利があります。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+159,Over time dart became my go-to for quick UI.,時間が経つにつれて、ダートは私の迅速なUIの頼りになるものになりました。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The term ""dart"" is translated as ""ダート"" which may not be immediately understood as the programming language ""Dart"" in Japanese. It could be clarified for better comprehension.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+164,Echidna with amethyst and magenta spikes.,アメジストとマゼンタのトゲを持つハリモグラ。,"MQM annotations:
+
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+166,Their tail is extremely thick.,彼らの尻尾は非常に太いです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目は洋ナシの形をしていて、スカーレットのキャットアイメガネをかけています。,"MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The translation incorrectly describes ""Their eyes are pear"" as ""彼らの目は洋ナシの形をしていて"" (Their eyes are pear-shaped), which is a mistranslation of the original meaning.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",ブラム・ストーカー、マックス・シュレック、ステファニー・メイヤーの最善の努力にもかかわらず、誰もが...,"MQM annotations:
+Accuracy Errors
+[Critical]: omission - The translation omits the phrase ""in trying to make them look bad,"" which is crucial for understanding the intent of the original sentence.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",実生活では、私の母は数年前に私が作ったパズルゲームを気に入ってくれて、ほとんどの秘密を自力で見つけたので、彼女がそれを気に入ったと言ったとき、ただの母親としての言葉ではありませんでした。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any significant issues in accuracy, fluency, locale conventions, style, or terminology."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.",それを中国語（標準語）および/または福建語に翻訳する必要がありますが、どちらも全く知りません。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""neither of which I know at all"" is translated as ""どちらも全く知りません"" which correctly conveys the meaning, but the structure could be more closely aligned with the original English phrasing for clarity.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+179,Been toying with this thought for a little while:,しばらくこの考えをいじっていました。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The translation ""いじっていました"" suggests a more physical manipulation rather than the intended ""toying"" in a conceptual or mental sense.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The phrase ""しばらくこの考えをいじっていました"" is slightly awkward in Japanese and could be expressed more naturally.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+180,"Mental health is often seen as something separate from ""regular"" health.",メンタルヘルスはしばしば「通常の」健康とは別物と見なされます。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こり、身体の健康よりも目に見えにくいように思えるからです。,"MQM annotations:
+
+Accuracy Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Fluency Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Locale Convention Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Style Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Terminology Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Other Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+No-error"
+194,Very much worth having a go at.,ぜひ挑戦する価値があります。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+196,Playing around a bit with Flutter.,Flutterで少し遊んでいます。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",正直に言うと、自分のビジネスをGoogleの技術に基づかせるのは嫌です。一方で、Googleは説得力のあるクロスプラットフォーム体験を作り出すための本当のインセンティブを持つ数少ない大手企業の一つであり、それが表れています。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,また、Google/FlutterアプリがiOSやmacOSで使いにくいということは言わないでください。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""suck"" is translated as ""使いにくい"" which means ""difficult to use"" rather than conveying the negative connotation of ""suck.""
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームは、うまくやりたいなら難しいです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any significant issues."
+201,I know that.,知っています。,"MQM annotations:
+Accuracy Errors
+[Critical]: [omission] - The translation omits the word ""I"" which is present in the source text.
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [awkward] - The translation could be more natural by including the subject ""私"" (I) to match the source text.
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Non-Translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+No-Error
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None"
+202,Thank you to those people who have downloaded the latest update to Leasey.,最新のLeaseyアップデートをダウンロードしてくださった皆様、ありがとうございます。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any issues."
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,なぜ私の脳がそれを理解できないのか正確にはわからないのですが、ツールがあまりにも広範で曖昧なために、選択肢が多すぎて脳が固まってしまうのかもしれません。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""hardlocks"" is translated as ""固まってしまう"" which means ""freezes"" or ""stops functioning,"" but it does not fully capture the nuance of ""hardlocks,"" which implies a more severe or complete inability to proceed.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+211,Grafana looks pretty.,グラファナはきれいに見えます。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",新しい#FFXIVレイド層が近づいているので、「ちゃんとしたレイドをやってみたいけど、パーティーファインダーは混乱しそうだし、自分を受け入れてくれる固定メンバーは見つからないだろうな」とずっと考えていました。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+214,"So I thought, screw it!",だから、もういいや！,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""screw it!"" is a colloquial expression that conveys a sense of frustration or giving up, which may not be fully captured by ""もういいや！"" in Japanese. The translation captures the general sentiment but lacks the specific nuance of the original expression.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The translation ""もういいや！"" might sound slightly awkward depending on the context, as it is a more casual expression and may not fully match the tone of the original.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",レイドの固定に参加するのを試すのが不安な人々でいっぱいで、全く上手くなる期待はありません！,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""with no expectations of being good at all"" is mistranslated. The translation implies a lack of expectation to improve, rather than a lack of expectation to be good from the start.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The exclamation mark at the end of the sentence may not be appropriate for the tone of the original English sentence, which is more neutral.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The structure of the translated sentence is slightly awkward and could be more naturally expressed in Japanese.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+219,I was a voracious reader in my youth.,若い頃、私は貪欲な読書家でした。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The word ""voracious"" is mistranslated as ""貪欲な"" which typically means ""greedy"" in a negative sense. A more appropriate translation would be ""熱心な"" or ""貪るように"" to convey the positive connotation of being an avid reader.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+227,They're not gonna talk about this on Bloomberg!,彼らはこれについてブルームバーグで話さないだろう！,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""They're not gonna talk about this on Bloomberg!"" implies that the topic will not be discussed on Bloomberg, but the translation ""彼らはこれについてブルームバーグで話さないだろう！"" suggests a more definitive statement that ""they will not talk about this on Bloomberg,"" which may slightly alter the intended meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+228,"But if Spotify has a good quarter, they will.",しかし、もしSpotifyが良い四半期を迎えれば、彼らはそうするでしょう。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""they will"" as ""彼らはそうするでしょう"" is slightly awkward and could be more naturally translated to ""そうなるでしょう"" to better convey the intended meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The phrase ""彼らはそうするでしょう"" is slightly awkward in this context and could be improved for naturalness.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,彼らに全国の空洞化し腐敗した都市を再生させましょう。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""Again."" is omitted in the translation, which could imply repetition or emphasis in the source text.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+231,These people want to improve their lives.,これらの人々は自分たちの生活を改善したいと思っています。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは終わった」や「リモートワークは失敗した実験だった」と主張する見出しには本当にうんざりしています。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation does not include the phrase ""I am so tired of"" in a way that fully captures the intensity of the original English expression.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.",それにより、人々は窮屈で騒がしいオフィスではなく、快適な空間で働くことができます。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""stuffy"" as ""窮屈"" (kyuukutsu) is slightly off as ""窮屈"" typically means ""cramped"" or ""tight,"" which may not fully capture the nuance of ""stuffy"" in this context.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+243,To just ignore these facts is wrong.,これらの事実を無視することは間違っています。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、現代の都市部の女性がキャリアのために子供を持つことを遅らせる衝動について言及した。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+255,It took years of changing my life and working hard but finally...,人生を変え、一生懸命働くのに何年もかかりましたが、ついに...,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,サイクルジャケットの裏地をジップで取り付けます。念のために。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation does not convey the meaning of ""just in case I need it inside,"" which is crucial for understanding the sentence.
+[Major]: [omission] - The phrase ""into my cycle jacket"" is not accurately translated, leading to a loss of meaning.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [awkward] - The sentence structure is awkward and does not flow naturally in Japanese.
+[Minor]: [punctuation] - The use of punctuation is slightly awkward, as ""念のために。"" is a standalone sentence fragment.
+
+Locale Convention Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Style Errors
+[Critical]: [None] - None
+[Major]: [awkward] - The translation is awkward and does not reflect natural Japanese style.
+[Minor]: [None] - None
+
+Terminology Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Other Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+No-error: None"
+266,This is for Wikipedia's component library (OOUI).,これはWikipediaのコンポーネントライブラリ（OOUI）のためのものです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親を作成し、そこにMOをインストールし、それが切り離される（つまり、他の場所に接続される）様子を観察します。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""detached temp parent"" is not accurately translated; it should convey the idea of a temporary parent that is detached.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は1日に2回私のオフィスを駆け回っているので、完全に引き締まっています。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""absolutely ripped"" is mistranslated. In the context, ""ripped"" refers to being very muscular or fit, but the translation implies ""tightened"" or ""toned,"" which may not convey the same meaning.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+278,It makes me so happy to see him thriving.,彼が成功しているのを見るととても嬉しいです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+285,Last week got a ton done and feeling much better about field items.,先週はたくさんのことを終えて、フィールドアイテムについてずっと良い気分です。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The sentence could benefit from a comma after ""終えて"" to improve readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The phrase ""フィールドアイテムについてずっと良い気分です"" could be slightly awkward in Japanese. A more natural phrasing might be considered.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+286,"All collards, kale, chard is transplanted.",すべてのコラード、ケール、チャードは移植されました。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The source text uses ""is transplanted,"" which is present tense, but the translation uses ""移植されました,"" which is past tense. This disrupts the flow as the tense is inconsistent with the source.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The source text uses commas to separate items in a list, but the translation does not use any punctuation to separate ""コラード、ケール、チャード.""
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",また、サラダ用の列をそこに植えて、カットグリーンを統合する必要があります。灌漑、ベッドの準備、移植について訓練を受けたクルーがいるので、非収穫スキル項目の90%をカバーしています。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The phrase ""to integrate cut greens in both"" is mistranslated. The translation does not convey the meaning of integrating cut greens into both salad rows and other areas.
+[Major]: [omission] - The translation omits the concept of ""both"" from the original sentence, which is important for understanding the integration of cut greens.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - The sentence structure in Japanese could be improved for better readability, but it doesn't significantly hinder understanding.
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [date] - None
+[Major]: [currency] - None
+[Minor]: [name] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - The translation is somewhat awkward in its phrasing, particularly the second sentence, which could be more naturally expressed in Japanese.
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Non-translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error"
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,Apple Mapsと比較してGoogle Mapsでの道順をたどる経験ははるかに優れていました。,"MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The translation reverses the comparison, suggesting that the experience was superior on Google Maps compared to Apple Maps, which is the opposite of the source text.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+295,Apple Maps wins.,アップルマップが勝利。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The translation ""アップルマップが勝利。"" translates back to ""Apple Maps wins,"" but the context or nuance might be slightly off depending on the intended meaning. However, without additional context, this is considered a major error.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+302,"That said, I'm biased.",とはいえ、私は偏っています。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,しかし、政府が私たちの生活するシステムを変えないと考える限り、それが富の良い蓄えとなるのは土地です。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The translation changes the emphasis from ""the land"" being a good storer of wealth to ""it"" being a good storer, which could cause confusion.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+309,In China you can only lease land.,中国では土地を借りることしかできません。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [accuracy/addition] - The translation adds ""こと"" (koto), which is not necessary and slightly changes the nuance of the sentence from ""lease land"" to ""the act of leasing land.""
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+311,The government can change these policies whenever it wants.,政府はこれらの政策をいつでも変更することができます。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+312,The land is temporary.,土地は一時的です。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+318,That's why the Chinese only allow leases.,それが中国人が賃貸契約のみを許可する理由です。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""leases"" as ""賃貸契約"" is slightly awkward in this context. A more appropriate translation might be ""リース"" to better capture the intended meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+322,Let us continue to work together towards creating a brighter future for all.,私たち皆のために、より明るい未来を創造するために共に働き続けましょう。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分に対してこれほどまでに厳しくなれる人間の能力に驚くことがよくありますが、実際の残酷さがどのようなものかを示す証拠がこれほど多くある中で。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The translation does not fully capture the nuance of ""to be *so* down on oneself,"" which implies a strong degree of self-criticism or self-deprecation. The translation ""厳しくなれる"" suggests being strict or harsh, which is not quite the same.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The sentence structure in Japanese feels incomplete due to the ending with ""中で,"" which might leave the reader expecting more.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The sentence structure in Japanese is awkward and could be more fluidly expressed.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",個人的な失敗や罪悪感に苦しむことは、「成功」が最も非道な行為を行った人々に与えられることが多い世界において…。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The ellipsis at the end of the translation should be consistent with Japanese punctuation norms, which typically use a two-dot ellipsis (..).
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+332,"or ""Modal editors are useless today"" :morty:",または「モーダルエディターは今日役に立たない」,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall: no-error"
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:",私が#Axumプロジェクトの機能を共有ライブラリに抽出しているとき: 「キーボードを持ってて」 :partyparrot: :helix: :ferrisdance:,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""Hold my keyboard"" is a colloquial expression meaning ""watch this"" or ""let me show you something impressive,"" which is not accurately conveyed in the translation.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The colon (:) after ""とき"" is not typically used in Japanese in this context; a more natural punctuation mark might be a comma or a period.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The translation of the phrase ""キーボードを持ってて"" might sound awkward to native speakers due to the literal translation of an idiomatic expression.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error
+[Critical]: None
+[Major]: None
+[Minor]: None"
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのテーマは「一晩中起きていること」です。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+339,It is definitely more romance than filth.,それは間違いなく汚れよりもロマンスです。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation reverses the meaning of ""more romance than filth"" to ""more filth than romance,"" which significantly alters the intended meaning.
+[Major]: [omission] - None
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - None
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [date] - None
+[Major]: [currency] - None
+[Minor]: [name] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Non-Translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error: None"
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",またいつか、マイルハイオーガズムを絶対にやってみるつもりです。ストレートの人とは限りませんが。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: omission - The phrase ""maybe not with a straight person"" is mistranslated as ""ストレートの人とは限りませんが"" which means ""it is not limited to straight people,"" altering the intended meaning.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+345,"I wish there was a ""who to follow"" recommendation somehow.",「フォローする人」のおすすめがあればいいのに。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",それに取り組むにはもう少し努力が必要で、おそらく#UXを改善するための良いアプリが必要です。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""get into it"" as ""それに取り組む"" could be slightly misleading as it implies more of an active engagement rather than just starting to use or understand something.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The phrase ""おそらく#UXを改善するための良いアプリが必要です"" could be made smoother in Japanese to better fit natural language patterns.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",介入：ある程度の信頼範囲内で変化を生み出すためにできることについての知識。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""within some confidence bounds"" is translated as ""ある程度の信頼範囲内で,"" which is a correct translation, but the nuance of ""some"" implying a range or variability might not be fully captured.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+360,He's here and he's going to say this stuff no matter what.,彼はここにいて、何があってもこのことを言うつもりです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""this stuff"" is translated as ""このこと,"" which can be interpreted as ""this thing"" or ""this matter."" A more accurate translation might capture the informal tone of ""stuff.""
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+362,It's very underwhelming at the moment.,現時点では非常に期待外れです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+363,"The ""MusicLM Demo"" is mildly interesting.",「MusicLMデモ」はやや興味深いです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately and fluently conveys the meaning of the source text without any errors."
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",ウェイトリフティングをしているのに、自分のワンレップマックスが何なのか本当に分からないのは変な感じです。これは進捗を追跡する主要な方法の一つだからです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,私は自分の寝室で一人でトレーニングをしており、スポッターやウェイトラックもありません。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+370,Just me and a barbell with a bunch of weights.,私とバーベルとたくさんの重りだけ。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",自分のワンレップマックスを計算しようとすると、最大限の重さを持っていないかもしれないし、逆にそれが原因で重傷を負ったり命を落としたりする可能性があります。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+375,I swear burrata didn't exist five years ago,5年前にはブラータなんて存在しなかったと誓います。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,誰かのお母さんがそれを作るのを見たことも、パーティーで押し付けられたことも、誰かのソース作りや焼き菓子の日にそれが登場するのを見たこともありませんでした。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""or had it shoved at me at a party"" is translated as ""パーティーで押し付けられたことも,"" which is slightly awkward and could be more naturally translated to better capture the informal tone of the original English phrase.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The overall sentence structure in Japanese is somewhat awkward, particularly in the translation of ""or had it shoved at me at a party,"" which could be more fluid.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+384,Does anyone have a Linux tablet they love?,誰かお気に入りのLinuxタブレットを持っていますか？,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation ""お気に入りのLinuxタブレットを持っていますか？"" implies possession of a ""favorite Linux tablet,"" which slightly changes the nuance from the original question about having a Linux tablet that one loves.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+385,"This would be mainly for web browsing, occasional email, and some games.",これは主にウェブ閲覧、時々のメール、およびいくつかのゲームのためです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+388,"A bad game is bad forever.""",悪いゲームは永遠に悪い。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately reflects the meaning and style of the source text without any errors."
+389,So was it Epic that originated this?,それを始めたのはエピックですか？,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: mistranslation - The translation ""それを始めたのはエピックですか？"" is slightly awkward and could be more accurately translated to ""これを始めたのはエピックですか？"" to better convey the meaning of ""So was it Epic that originated this?"" in a more natural way.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The phrasing could be slightly improved for naturalness.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+390,We can keep going.,続けることができます。,"MQM annotations:
+Accuracy Errors
+[Critical]: [omission] - The source text ""We can keep going."" is not fully translated. The translation ""続けることができます。"" only translates to ""We can continue,"" omitting the aspect of ""going.""
+[Major]: [mistranslation] - None
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [non-translation] - None
+[Major]: [grammar] - None
+[Minor]: [punctuation] - The source text has a missing space after the period, which is a minor punctuation error.
+
+Locale Convention Errors
+[Critical]: [locale convention] - None
+[Major]: [locale convention] - None
+[Minor]: [locale convention] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inappropriate for context] - None
+[Minor]: [inappropriate for context] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error: None"
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",GamePro 1997年11月号の以前の問題には、はるかに曖昧な引用があります。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""An earlier issue of GamePro 1997-11"" is translated as ""GamePro 1997年11月号の以前の問題,"" which could imply ""a problem"" rather than ""an issue"" as in a magazine edition. The translation could be more precise to avoid potential confusion.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+401,Esp the carriages with the bigger windows.,特に大きな窓のある車両。,"MQM annotations:
+Accuracy Errors
+[Critical]: [omission] - The word ""Esp"" (especially) is omitted, which could lead to a misunderstanding of the emphasis in the sentence.
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Fluency Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Locale Convention Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Style Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [awkward] - The translation could be slightly awkward without the context provided by ""especially.""
+
+Terminology Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Non-translation Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Other Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None"
+402,There's areas that could use some polish.,磨きをかけるべき部分があります。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The source text uses ""areas"" which is plural, while the translation uses ""部分"" which can be interpreted as singular. This is a minor mistranslation as the context is still understandable.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",すなわち、十分なゴミ箱の不足と、照明の色の意味を説明する標識の不足です。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""Namely"" is translated as ""すなわち,"" which is correct, but the translation could be more fluid in Japanese by rephrasing the sentence to better fit natural Japanese expression.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The translation is technically correct, but the structure is slightly awkward for natural Japanese. A more natural phrasing could improve readability.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMやDDZ株の終わりを見ても悲しくはありません。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,お客様お一人様につき一つまでのルールは、並んでいる全ての方がボードを手に入れられるようにするために維持されています。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""rules remain"" to ""ルールは維持されています"" could be more accurately translated to convey the ongoing nature of the rule enforcement.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+411,Such friendships transcend differences.,そのような友情は違いを超越します。,"MQM annotations:
+
+Accuracy Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Fluency Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Locale Convention Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Style Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Terminology Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Non-Translation Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Other Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+No-error"
+412,We all have stories to tell.,私たちは皆、語るべき物語を持っています。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",ただ、どういうわけか、この場面をいわば悪いスタートで始めてしまったように感じます。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,ここにもう少し長く留まって、移行すべきかどうか考えます。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,レプニッドが地表の下にトンネルを掘り、あなたはその下の洞窟で数百のレプニッドの体が沸騰する塊に落ち込む。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""boiling mass of hundreds of Repnid bodies"" is translated as ""数百のレプニッドの体が沸騰する塊,"" which may imply that the bodies themselves are boiling, rather than indicating a chaotic or overwhelming mass.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは迅速であり、いくつもの牙が致命的な毒を注入し、ディスクラの空気があなたの肺を汚染します。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any significant issues."
+425,Nobody will ever know that you were the first human future traveller.,誰もあなたが最初の人間の未来旅行者であったことを知ることはありません。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+426,You land the flyer nose upward on the side of the slag heap and climb out.,あなたはフライヤーを鼻先を上に向けてスラグの山の側面に着陸させ、降りる。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つ目のレプニッドは見ているようですが、あなたに向かって動くことはなく、実際にはあなたがゆっくりと彼らに向かって歩いても動かずにいます。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""eight-eyed"" is mistranslated as ""八つ目の"" which means ""eighth"" instead of ""八つの目を持つ"" which means ""eight-eyed.""
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The sentence structure is slightly awkward, particularly the repetition of ""動く"" (move) and ""動かずにいます"" (remain motionless), which could be streamlined for better fluency.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",彼らはあなたの声を聞くことができないようです、ましてや理解することもできません。あなたのユニバーサルトランスレーターは何の応答も拾いません。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+430,You decide to use your Psychic Awareness to contact them mentally.,あなたは精神的な意識を使って彼らと心で連絡を取ることに決める。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+436,"#today I have coffee, sunshine and quiet time!",今日はコーヒーと日差しと静かな時間があります！,"MQM annotations:
+
+Accuracy Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Fluency Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Locale Convention Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Style Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Terminology Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Non-Translation Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Other Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Overall, the translation accurately conveys the meaning of the original English sentence without any noticeable errors."
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,私は、主に細かく紡がれているが、所々に塊がある不均一に紡がれた銀灰色の糸を見つけました。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+441,But am not sure I have enough of the purple.,しかし、紫色が十分あるかどうかはわからない。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation should include ""I"" to accurately convey the subject ""I am not sure"" from the source text.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+446,I have literally tried and dropped EVERY SINGLE ONE.,私は文字通りすべて試してみて、すべてやめました。,"MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The phrase ""EVERY SINGLE ONE"" is not accurately translated. The translation ""すべて"" is used twice, which does not convey the emphasis of ""EVERY SINGLE ONE"" as intended in the source.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The repetition of ""すべて"" makes the sentence sound awkward in Japanese.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして約2年前まで、自分の成績証明書を確認するまで全く知りませんでした。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+448,The literature class hatred is even worse: I love to read.,文学の授業の嫌悪感はさらにひどい：私は読書が大好きです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""The literature class hatred"" is mistranslated. The translation does not accurately convey the meaning of the original sentence, which suggests a dislike for the literature class, not just a general hatred.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The use of the colon in the translation is awkward and disrupts the flow of the sentence.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The sentence structure in the translation is awkward and does not flow naturally in Japanese.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしく、そこで幸せですが、日中に罪悪感なく小説を読むためには、他の場所にいる必要があります。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,まるで休暇中のようで、だから休暇中にすることをしている。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""It's like I'm on holidays"" could be more accurately translated to convey the sense of ""as if"" or ""as though"" to better capture the original meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",それに加えて、ここではこの2晩、家で寝るほどよく眠れていないし、見知らぬ環境にいるだけでペースを保つのが難しく、物の場所を覚えておかなければならないので、少し#MECFSの症状が出てしまう。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""get a little #MECFS ed out"" is not accurately translated. The translation does not convey the sense of becoming fatigued or experiencing symptoms related to MECFS due to the unfamiliar environment.
+[Minor]: [omission] - The translation omits the nuance of ""even though"" at the beginning of the sentence, which affects the contrast intended in the original text.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The use of the hashtag ""#MECFS"" in the translation might be unconventional in Japanese text and could be considered awkward or unclear.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The translation could be smoother in terms of sentence structure to better match natural Japanese phrasing.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",ゲーム業界で働くことの興奮や緊張、ストレス、そして私が大好きなすべての良いことです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""all the good things"" is translated as ""すべての良いこと"" which may not fully capture the nuance of ""all the good things that I love"" in the context of the sentence.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+458,Will a community blossom around the user-generated content piece of the game?,ユーザー生成コンテンツの部分を中心にコミュニティが発展するでしょうか？,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The term ""blossom"" is translated as ""発展する"" (develop), which does not fully capture the metaphorical sense of ""blossom"" implying growth and flourishing in a more vibrant or organic way.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The phrase ""ユーザー生成コンテンツの部分を中心に"" could be more naturally phrased to better fit Japanese sentence structure.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+466,So I finally watched #Heartstopper,ついに「#Heartstopper」を見ました。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation does not convey the nuance of ""finally"" in the original sentence, which could imply a sense of anticipation or delay.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+467,Was it overly cute to the point of being twee?,それは甘すぎて、気取りすぎていましたか？,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The word ""twee"" is not accurately translated. ""気取りすぎて"" translates to ""too pretentious"" or ""too affected,"" which does not capture the specific nuance of ""twee,"" meaning excessively or affectedly quaint or cute.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+471,But did I love it?,でも、それを愛していたのか？,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation ""それを愛していたのか？"" uses the past tense ""愛していた"" which implies a completed action in the past, whereas the source ""did I love it?"" is more about questioning the feeling of love in a more general or present context.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+476,"In part, because they'd be taught badly.",一部には、彼らが下手に教えられるからです。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""because they'd be taught badly"" is translated as ""彼らが下手に教えられるからです,"" which can imply that they are being taught poorly in terms of skill, but it might not fully capture the nuance of ""taught badly"" in terms of method or effectiveness.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題に対して言い訳をせず、ただ修正することが重要です。特に、リードが変更を必要としているときのプロダクションでは。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The term ""lead"" in the context of production may refer to a ""team leader"" or ""project lead,"" which is not clearly conveyed in the translation.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The sentence structure in Japanese could be improved for better flow, as the current punctuation may cause slight disruption in reading.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The translation could be more naturally phrased to better match the style of Japanese writing.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+479,"Every artist has been there, made the same mistakes.",すべてのアーティストがそこにいて、同じ間違いを犯してきました。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+484,Watch seeds being sown & cultivated (and not randomly scattered) by good peeps.,良い人々によって種が蒔かれ、耕されるのを見守る（無作為にばら撒かれるのではなく）。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""good peeps"" is translated as ""良い人々"" which is a literal translation of ""good people."" However, ""peeps"" is a more informal term that could be better captured with a more casual or colloquial expression in Japanese.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The sentence structure in Japanese is slightly awkward and could be more naturally phrased to improve readability.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",ジャミは犬番の直前に道ですれ違ったときに彼にメモを渡した。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""dog watch"" is not translated, which could lead to misunderstanding as it refers to a specific time period in a nautical context.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"

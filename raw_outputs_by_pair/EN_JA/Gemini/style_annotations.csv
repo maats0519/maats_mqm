@@ -1,0 +1,543 @@
+index,original,translated,style_annotation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",実は、IDirect3D::CreateViewport() を呼び出すと IDirect3DViewport ではなく、IDirect3DViewport にメソッドを追加した IDirect3DViewport3 が返ってくると思い込んでいた。私が実装したのは IDirect3DViewport だった。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""IDirect3DViewport にメソッドを追加した IDirect3DViewport3 が返ってくると思い込んでいた"" sounds a bit verbose and could be phrased more naturally. A slightly more concise phrasing might improve the flow.
+minor: inconsistency - The katakana representation of ""IDirect3DViewport"" and ""IDirect3DViewport3"" could benefit from a review to ensure consistent usage of spacing or other stylistic elements. Not a major issue, but could enhance polish."
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは普遍的に正しいわけではなく、該当のオブジェクトを生成する際に使用しているインターフェースによって事情が変わる場合がある。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""事情が変わる場合がある"" (jijou ga kawaru baai ga aru) is grammatically correct, but slightly stiff. A more natural phrasing could be used to improve the overall flow."
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",議論のために仮に、科学が少なくとも部分的には、世界に関する客観的に事実な記述のリストで構成され、それらが支持するかもしれないいかなる理論とも無関係に真であると仮定しよう。,"MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""議論のために仮に"" (giron no tame ni kari ni) while not incorrect, sounds slightly unnatural and overly formal for this context. A more natural phrasing might be ""とりあえず"" (toriaezu) or a simpler ""仮に"" (kari ni) alone depending on the desired nuance.
+minor: unnatural flow - The phrase ""いかなる理論とも無関係に真であると仮定しよう"" (ikaru riron to mo mukankei ni shin de aru to katei shiyou) is grammatically correct but slightly verbose and stiff. A more streamlined phrasing could improve the flow. For example, ""...理論に関係なく真であると仮定しよう"" (...riron ni kankei naku shin de aru to katei shiyou)."
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,科学にそのような事実が存在するというのが真実だとしても、科学的事実が理論負荷的であると主張することは依然として可能だ。,"```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""科学的事実が理論負荷的であると主張することは依然として可能だ"" sounds a bit stiff and overly formal. A more natural phrasing might use a slightly different construction or word choice. While grammatically correct and understandable, it lacks a natural flow.
+```"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",この解釈では、実験が事実を作り出すのではなく、どの実験を行うかの選択が、どの事実が発見されるかを左右する。,"MQM annotations:
+minor: Unnatural Flow - The phrase ""どの事実が発見されるかを左右する"" (which facts are discovered are controlled) sounds a bit stiff and could be more naturally expressed in Japanese. A smoother phrasing might be possible, although the meaning is clear."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",亜原子粒子に関する事実など、資本主義においてのみ可能な実験からしか得られない事実がある。なぜなら、そのような実験はあまりに多くの資源、組織、そして強制力を必要とし、資本主義以外では実現不可能だからだ。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""亜原子粒子に関する事実など、資本主義においてのみ可能な実験からしか得られない事実がある"" sounds somewhat repetitive and could be rephrased for a more natural flow in Japanese.
+minor: unnatural flow - The phrase ""そのような実験はあまりに多くの資源、組織、そして強制力を必要とし、資本主義以外では実現不可能だからだ"" is grammatically correct, but the use of ""あまりに多くの...を必要とし"" sounds a little stiff. A more natural way to express this might exist.
+```"
+14,Picking this up this weekend.,週末に引き取ります。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The translation is grammatically correct but sounds slightly awkward and literal. A more natural phrasing in Japanese might be preferable depending on the context."
+16,Already on coil overs and lowered ride height.,車高調済み、ローダウン済み。,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While accurate, the repetition of ""済み"" (zumi) can sound slightly redundant and less natural in Japanese. A more concise option might be preferred depending on the specific context.
+```"
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べてみたのですが、もしこの車について何か情報をお持ちの方がいらっしゃいましたら教えていただけると嬉しいです。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, the phrase ""もしこの車について何か情報をお持ちの方がいらっしゃいましたら教えていただけると嬉しいです"" is a bit verbose and could be phrased more concisely for a natural feel in Japanese. A simpler phrase could be used."
+18,Personal experiences?,個人的な経験？,"MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, the translation sounds a bit too literal and lacks the natural flow of a question in Japanese. A more natural phrasing might be considered."
+19,I know they're not fast compared,それに比べて速くないのは分かっています。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""それに比べて"" (sore ni kurabete) meaning ""compared to that"" or ""in comparison"" feels a bit too literal in this context. A more natural phrasing might exist depending on the broader context.
+```"
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",俺はボードショーツにランニングシャツ姿、そして連れ合いは全身タトゥーで、自分で「ネオナチみたい」って言ってた新しい髪型。,"```
+MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""そして連れ合いは全身タトゥーで、自分で「ネオナチみたい」って言ってた新しい髪型"" sounds a bit awkward and could be phrased more naturally in Japanese. A more fluent version might restructure the sentence slightly.
+```"
+36,NY is the best hope for accountability,ニューヨークこそが説明責任を果たすための最良の希望だ。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""説明責任を果たすための"" (setsumeisekinin o hatasu tame no) can sound a bit formal/stilted for the general idea. A more natural phrasing might be something like ""説明責任を期待できる"" or ""説明責任が期待される""."
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つ信号の送受信に還元できないという重要な証拠がある。,"```
+MQM annotations:
+Style Errors:
+minor: Unnatural Flow - While grammatically correct, the phrase ""文脈に依存しない意味を持つ信号の送受信に還元できない"" sounds slightly awkward and could be phrased more naturally in Japanese. A more fluid phrasing might be possible.
+```"
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",文脈依存的なコミュニケーションは、文脈の分布といった環境特性に大きく影響される、状況依存的な多層現象であると考えられます。,"MQM annotations:
+minor: unnatural flow - The phrase ""文脈依存的なコミュニケーションは、文脈の分布といった環境特性に大きく影響される、状況依存的な多層現象であると考えられます"" sounds somewhat academic and stiff in Japanese. A more natural phrasing might exist, though the meaning is conveyed accurately."
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒に、様々なプロジェクトを支援する貴重な半年間を過ごすことができました。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, the phrase ""支援する貴重な半年間を過ごすことができました"" (shien suru kichō na hantoshikan o sugosu koto ga dekimashita) is a bit wordy and could be more concise and natural. A more fluent rendering might involve simplifying the expression.
+```"
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会った時、進捗状況、特に植林と農家支援について聞けて嬉しかったよ。,"MQM annotations:
+Minor: Style/Unnatural Flow - While the translation is accurate, it sounds a bit formal and stiff. A more natural phrasing for ""聞けて嬉しかったよ"" might be preferable depending on the target audience and the context of the overall document."
+61,Licht AGREED to an all Republican audience!,リヒトは共和党支持者のみの聴衆に同意しました！,"MQM annotations:
+Minor: Unnatural Flow - The translation is grammatically correct but sounds slightly unnatural. A more natural phrasing might be 「リヒトは共和党支持者限定の聴衆に同意しました。」 which translates to ""Licht agreed to an audience limited to Republican supporters."""
+65,It can't be repeated.,繰り返せません。,"MQM annotations:
+minor: style/unnatural flow - The phrase ""繰り返せません"" is grammatically correct but sounds a bit stiff. A more natural phrasing might be ""繰り返すことはできません"" or ""二度と繰り返せない""."
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨夜、ついにこの繰り返しにうんざりして、ねり消しについてたピーナッツバターを全部取り除いて、罠にピスタチオを瞬間接着剤でくっつけた。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""ねり消しについてたピーナッツバターを全部取り除いて"" (neri-keshi ni tsuiteta piinattsu bataa o zenbu torinozoite) which translates to ""removed all the peanut butter that was on the kneaded eraser"" is awkward and unnatural. Peanut butter on traps isn't literally peanut butter that was on a kneaded eraser. It should simply be written as ""罠についていたピーナッツバターを全部取り除いて (wana ni tsuiteita piinattsu bataa o zenbu torinozoite)"" which translates to ""removed all the peanut butter that was on the traps""."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",ちなみに、市販のほぼ全ての「人道的な」罠を試しましたが、ほとんど効果がありませんでした。,"MQM annotations:
+Style error:
+Minor: Unnatural Flow - The phrase ""ちなみに"" (chiminami ni) at the beginning, while literally correct as ""by the way"" or ""fwiw"", feels slightly awkward in this context. While not incorrect, a more natural phrasing for Japanese might omit it or use a different introductory phrase depending on the overall tone.
+```"
+74,"They aren't, at least not in Alberta.",少なくとも、アルバータ州ではね。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The use of ""ではね"" (dewa ne) at the end of the sentence, while grammatically correct, makes the sentence sound a bit too casual or emphatic. A more neutral phrasing might be preferred depending on the context."
+75,Sure they cut business taxes.,確かに彼らは法人税を減税した。,"MQM annotations:
+minor: unnatural flow - The translation is grammatically correct but sounds a bit stiff. A more natural way to express this in Japanese might be to rearrange the sentence slightly for better flow."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",「グラスゴーまで彼を送っていくだけなんです」と私は説明しようとした、旅の連れを指さしながら。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""と私は説明しようとした"" (to watashi wa setsumei shiyou to shita) which translates to ""I attempted to explain,"" while grammatically correct, sounds slightly unnatural and formal. A more natural phrasing might be ""と私は説明した"" (to watashi wa setsumei shita) - ""I explained.""
+minor: stylistic preference - While not strictly an error, the inclusion of ""んです"" (n desu) adds a sense of explanation or justification, which is subtle but present. It might be removed for a more straightforward tone depending on the context.
+```"
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.",「グラスゴーにちょっと彼を降ろしてくるだけなんです、なんてあんまり聞かないセリフだな」と切符売り場の人は言った。,"MQM annotations:
+minor: Unnatural Flow - The phrase ""なんてあんまり聞かないセリフだな"" (nante anmari kikanai serifu da na) while grammatically correct, sounds a bit unnatural in this context. A more natural phrasing might be ""そんなことを言う人はあまりいないな"" (sonna koto o iu hito wa amari inai na)."
+90,And they are truly nuts.,彼らは本当に頭がおかしい。,"MQM annotations:
+minor: style/unnatural flow - The translation is a bit too direct. A more natural phrasing in Japanese might be ""彼らは本当にどうかしている"" or ""彼らは正気じゃない"". 頭がおかしい is correct but can sound a bit harsh or clinical depending on context."
+95,Yell back at those who would try to talk over us.,私たちを言い負かそうとする人たちには、言い返してやりなさい。,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""言い負かそうとする人たちには、言い返してやりなさい"" is grammatically correct but sounds somewhat forceful and less natural than a more colloquial phrasing.
+```"
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,私の隣人と私が同時に帰宅したんだけど、向かい側から彼の咳と、コロナの痰が嵐のように吹き上がる音が聞こえてきた。,"MQM annotations:
+minor: unnatural flow - ""コロナの痰が嵐のように吹き上がる音が聞こえてきた"" sounds a bit dramatic and unnatural. A more natural phrasing could be ""コロナの痰がひどい咳の音が聞こえてきた"" or similar."
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,彼を避けるために急いでアパートに入ったのに、結局追いつかれて話しかけられちゃった。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""追いつかれて話しかけられちゃった"" sounds a bit too casual and conversational. While grammatically correct and capturing the meaning, it might not be the most natural or elegant way to express this in all contexts. A slightly more formal or less colloquial phrasing might improve the flow."
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.",4000もの苦難の末、Ylは愛に満ちた場所にたどり着き、どうしていいかわからないほどの大きな感情に戸惑っている。だから、その両方がたくさんある。,"MQM annotations:
+minor: style/unnatural flow - ""4000もの苦難の末"" (After 4000 of distress) is grammatically correct, but sounds somewhat unnatural. A more natural phrasing might exist depending on the desired nuance.
+minor: style/unnatural flow - ""どうしていいかわからないほどの大きな感情に戸惑っている"" (is having huge feels she doesn't know what to do with so there's a lot of both) While technically correct, the phrase feels a bit stiff and verbose. A more concise or idiomatic expression would enhance the flow."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#MangoMoronの大失敗は、とんでもない大失敗だった。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The repetition of ""大失敗"" (daishippai - major failure/fiasco) sounds slightly redundant and unnatural in Japanese. While grammatically correct, a more nuanced phrasing might improve the flow."
+113,A cold front should arrive by the middle of next week.,来週の半ばまでに寒冷前線が到来するでしょう。,"```
+MQM annotations:
+Style error:
+minor: Unnatural Flow - The phrase ""到来するでしょう"" (tourai suru deshou) while grammatically correct, sounds slightly formal and stiff. A more natural phrasing might use a more common expression for arrival, depending on the context.
+```"
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",今朝早く、IR衛星と地上観測により、低層の層雲が拡大しており、まだらな<URL>が確認されました。,"```
+MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""まだらな<URL>が確認されました"" sounds a bit awkward. A more natural phrasing might be used depending on the specific context of the URL content (e.g., something like ""まだらな<URL>が見られました"" or ""まだらな<URL>が広がっているのが確認されました"").
+```"
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけて、その専門知識を活用し、CRM投資の価値を最大化しましょう。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""その専門知識を活用し"" (sono senmon chishiki wo katsuyou shi) while technically correct, sounds a bit formal and stiff. A more natural phrasing could be considered depending on the target audience.
+
+```"
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーがどのように実装、カスタマイズ、インテグレーション、継続的なサポートで貴社を支援し、Salesforceエコシステムでビジネスを成功に導くかをご紹介します。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""Salesforceエコシステムでビジネスを成功に導くか"" sounds slightly unnatural. A more natural phrasing might be ""Salesforceエコシステムでのビジネスの成功を支援するか"".
+```"
+137,But another individual often flies aboard that ship.,しかし、その船にはもう一人の人物がよく搭乗している。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""もう一人の人物がよく搭乗している"" (mou hitori no jinbutsu ga yoku toujou shiteiru) is a bit stiff and formal. A more natural phrasing might be ""もう一人がよく乗っている"" (mou hitori ga yoku notteiru), especially if the context isn't highly formal."
+142,The Last of Us is an easy and canonical example of dad-ification.,The Last of Usは、ダッド化の分かりやすく典型的な例だ。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - While accurate, the phrase ""ダッド化の分かりやすく典型的な例だ"" (daddo-ka no wakari yasuku tenkeiteki na rei da) could be phrased more naturally in Japanese. ""～の代表例"" (daihyourei - representative example) might be a more common and less literal way to express the idea."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父性化とは、親のような立場の者が子供や子供の代わりとなる者を世話したり保護したりしなければならない状況に対する解決策が、圧倒的な力であり、その力を使って非常に特異な形の力関係を強制することであると通常仮定する。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""親のような立場の者"" (oya no you na tachiba no mono) for ""parent figure"" is a bit wordy and could be more concise.
+minor: unnatural flow - The phrase ""子供の代わりとなる者"" (kodomo no kawari to naru mono) for ""child stand-in"" is a bit wordy and could be more concise.
+minor: unnatural flow - The phrase ""非常に特異な形の力関係"" (hijou ni tokui na katachi no chikara kankei) for ""very specifically shaped power dynamic"" is grammatically correct but sounds slightly unnatural. A more fluent phrasing might exist.
+
+```"
+147,Here's a quick overview of how to make use of our website.,当ウェブサイトのご利用方法の簡単な概要です。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""当ウェブサイトのご利用方法の簡単な概要です"" is grammatically correct but could be more naturally phrased in Japanese. A more natural rendering might be something like ""当サイトの使い方を簡単に説明します。"" or ""当サイトのご利用方法について簡単に説明します。""
+```"
+148,- We send out notifications when airfare goes on sale.,航空券がセールになった際にお知らせを送信します。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""セールになった際に"" sounds a bit stiff and could be more naturally expressed. A more common phrasing might be ""セールになったら"" or ""セールになったらすぐに."""
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは、平和で安全な環境で成長する権利を有します。,"MQM annotations:
+Minor: Style/Unnatural Flow - While grammatically correct, the phrase ""権利を有します (kenri o yū shimasu)"" is a very formal and stiff way to say ""have the right"" and sounds somewhat unnatural in this context. A more common and natural phrasing would be ""権利がある (kenri ga aru)""."
+159,Over time dart became my go-to for quick UI.,時間の経過とともに、dartは手軽なUIに最適な選択肢になった。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - While the translation is accurate, the phrase ""時間の経過とともに、dartは手軽なUIに最適な選択肢になった"" sounds slightly stiff and unnatural in Japanese. A more natural phrasing might be ""時間の経過とともに、手軽にUIを開発するならDartが一番になった"" or similar."
+164,Echidna with amethyst and magenta spikes.,アメジストとマゼンタのトゲを持つハリモグラ,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While grammatically correct, ""アメジストとマゼンタのトゲを持つハリモグラ"" (A harimogura with amethyst and magenta thorns) is slightly unnatural. A more natural phrasing could be ""アメジストとマゼンタのトゲで飾られたハリモグラ"" (A harimogura decorated with amethyst and magenta thorns) or similar, although the original is perfectly understandable.
+```"
+166,Their tail is extremely thick.,彼らの尻尾は非常に太いです。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The translation is grammatically correct and accurately conveys the meaning, but it sounds slightly unnatural in Japanese. A more natural phrasing might exist.
+```"
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目はナシのようで、真っ赤なキャッツアイの眼鏡をかけている。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, ""ナシのようで"" (nashi no you de) sounds somewhat unnatural. A more natural way to express ""pear-shaped"" for eyes might be more idiomatic."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",ブラム・ストーカー、マックス・シュレック、ステファニー・メイヤーが彼らを悪く見せようと最大限の努力をしたにもかかわらず、皆…,"MQM annotations:
+minor: Unnatural Flow - The phrase ""最大限の努力をしたにもかかわらず、皆…"" (said to the maximum effort, despite, everyone...) feels somewhat abrupt and unfinished in Japanese. A more natural flow might rephrase to indicate what ""everyone"" is doing/experiencing."
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",現実では、母が何年も前に私が作ったパズルゲームを気に入って、ほとんどの隠し要素を自力で見つけたので、褒め言葉がお母さん目線だけのものではなかったんです。,"MQM annotations:
+Minor: Style/Unnatural Flow - ""現実では、母が何年も前に私が作ったパズルゲームを気に入って、ほとんどの隠し要素を自力で見つけたので、褒め言葉がお母さん目線だけのものではなかったんです。"" While grammatically correct, the sentence is a bit long and could be broken down for better flow in Japanese. The ending ""...褒め言葉がお母さん目線だけのものではなかったんです"" is a bit wordy and could be phrased more naturally."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","Here's the Japanese translation:
+
+**北京語（標準中国語）もしくは福建語に翻訳する必要があり、どちらも全く分からないので、翻訳のみを提供してください。**","Okay, I understand. I will provide the MQM annotations based on the provided source and Japanese translation, focusing only on style-related issues. Since I cannot provide the Mandarin/Hokkien translations myself, I will assume I have hypothetical translations to analyze and provide potential style annotations based on common translation pitfalls.
+
+Since I don't have the actual Mandarin or Hokkien translations, I will have to make some assumptions to illustrate potential style errors. I will use example translations based on what I know about these languages.
+
+**Assumed Mandarin Translation Example:**
+
+“需要翻译成北京话或者福建话，我完全不懂这两种语言，所以请只提供翻译。”
+**(Xūyào fānyì chéng Běijīng huà huòzhě Fújiàn huà, wǒ wánquán bù dǒng zhè liǎng zhǒng yǔyán, suǒyǐ qǐng zhǐ tígōng fānyì.)**
+
+**Assumed Hokkien Translation Example:**
+
+“愛翻譯做北京話抑是福建話，我完全毋捌曉這兩款語言，所以請干焦提供翻譯。”
+**(Ài fān-i̍k tsuè Pak-kiann-uē ia̍h-sī Hok-kiàn-uē, guá uân-tsuânn m̄-bat-hiáu tsit-nn̄g khuán gí-gán, só-í tshiánn kan-ta tî-kong fān-i̍k.)**
+
+Now, here are potential MQM annotations based on these hypothetical translations:
+
+MQM annotations:
+
+Assuming the Mandarin translation is targeting a formal audience:
+
+Minor: Register - ""北京话或者福建话"" (Běijīng huà huòzhě Fújiàn huà) - ""北京话"" and ""福建话"" are acceptable, but might sound slightly informal. More formal terms like ""普通话"" (Pǔtōnghuà) or a more technical term for the Hokkien language might be preferred depending on the context.
+
+Minor: Unnatural Flow - “我完全不懂这两种语言，所以请只提供翻译"" - The sentence structure is grammatically correct, but the direct translation of ""completely don't understand"" might sound slightly unnatural. A more idiomatic phrasing could be used.
+
+Assuming the Hokkien Translation is targeting a younger/more informal audience:
+
+Minor: Register - ""毋捌曉"" (m̄-bat-hiáu) - While accurately conveying ""don't know,"" depending on the region, it might be more or less common, thus impacting register and audience.
+Minor: Unnatural Flow - ""愛翻譯做北京話抑是福建話"" - The way ""愛翻譯做"" is phrased sounds slightly clunky and could be more elegantly expressed depending on context.
+
+**MQM annotations for the Japanese translation provided:**
+
+The Japanese translation is: **北京語（標準中国語）もしくは福建語に翻訳する必要があり、どちらも全く分からないので、翻訳のみを提供してください。**
+
+Minor: Unnatural Flow - 「翻訳のみを提供してください」is a very direct request for only providing a translation. Depending on the context, a slightly more polite or nuanced phrasing might be preferable, e.g.,「翻訳のみで結構です」or「翻訳のみをお願いします」. While grammatically correct, the original is a bit blunt.
+
+I am ready for more translation examples for annotation. Remember, since I can't perform the translations myself, I'll be relying on the examples you provide."
+179,Been toying with this thought for a little while:,この考えをしばらくの間、弄んでいる。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - While grammatically correct, ""弄んでいる"" sounds a bit stiff and unnatural for ""toying with"" in this context. A more natural phrasing might be something like 「考えている」 or 「検討している」 depending on the specific nuance intended."
+180,"Mental health is often seen as something separate from ""regular"" health.",メンタルヘルスは、しばしば「普通の」健康とは別のものとして見なされる。,"MQM annotations:
+minor: unnatural flow - The phrase ""別のものとして見なされる"" (betsu no mono to shite minasareru) is grammatically correct but can sound a bit stiff or overly formal in some contexts. A slightly more natural phrasing might be considered depending on the desired tone."
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こり、身体的な健康よりも実体がなさそうに見えるから。,"MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""実体がなさそうに見えるから"" (jittai ga nasa sou ni mieru kara) while grammatically correct, could be more naturally expressed in Japanese. A more common phrasing might be used to improve the flow."
+194,Very much worth having a go at.,ぜひ挑戦する価値あり。,"MQM annotations:
+Minor: Style/Unnatural Flow - The Japanese translation, while accurate, sounds a bit forceful or overly literal. A more natural phrasing might be used depending on the specific context (e.g., if encouraging someone)."
+196,Playing around a bit with Flutter.,Flutterを少し触ってみています。,"MQM annotations:
+Style error:
+minor: unnatural flow - The phrase ""少し触ってみています"" while grammatically correct, is a bit wordy and sounds less natural than other options for expressing casual experimentation. A more concise option like ""少し触ってみています"" or ""少し試しています"" might be preferable."
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",正直に言うと、グーグルの技術に事業の基盤を置きたくはない。一方で、グーグルは魅力的なクロスプラットフォーム体験を生み出す本当のインセンティブを持っている数少ない大企業の一つであり、それは明らかだ。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""それは明らかだ"" (sore wa akiraka da) can sound a bit stiff or overly assertive. A more natural phrasing might be implied depending on the context."
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,また、GoogleやFlutter製のアプリがiOSやmacOSでは使い物にならないといった話はしないで、翻訳だけを提供してください。,"MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""使い物にならないといった話はしないで、翻訳だけを提供してください"" sounds slightly unnatural and could be phrased more smoothly in Japanese. A more natural phrasing might focus directly on requesting the translation without the ""don't talk about"" part."
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームをきちんとやるのは難しい。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, ""クロスプラットフォームをきちんとやるのは難しい"" sounds a bit stiff. A more natural phrasing might be ""クロスプラットフォームをうまくやるのは難しい"" or something similar, depending on the desired nuance. The use of ""きちんと"" is not wrong, but slightly less common in this context compared to alternatives."
+201,I know that.,知ってるよ。,"MQM annotations:
+minor: register/informal - ""知ってるよ"" (shitteru yo) is a fairly informal way to say ""I know that."" Depending on the context, a more polite or neutral form like ""知っています"" (shitteimasu) might be more appropriate."
+202,Thank you to those people who have downloaded the latest update to Leasey.,Leaseyの最新アップデートをダウンロードしてくださった皆様、ありがとうございます。,"MQM annotations:
+Style error:
+minor: Unnatural Flow - The phrase ""ダウンロードしてくださった皆様"" is grammatically correct but sounds a bit formal and unnatural for a simple thank you. A more natural and concise phrasing might be better suited depending on the context."
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,なぜ私の脳が理解できないのか正確にはわからない。ツールが広範かつ曖昧すぎて、「選択肢が多すぎる」せいで脳がフリーズしてしまうのかもしれない。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""選択肢が多すぎるせいで脳がフリーズしてしまうのかもしれない"" sounds a bit literal and verbose. A more natural phrasing might exist in Japanese.
+```"
+211,Grafana looks pretty.,Grafanaは見栄えが良いですね。,"```
+MQM annotations:
+Minor: Style/Register - The use of ""ですね"" (desu ne) adds a level of politeness and formality that might not be necessary or appropriate given the simple, informal nature of the English source ""Grafana looks pretty."" A more casual expression might be more suitable depending on the context.
+```"
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",新しい #FFXIV のレイド tier が近づいてきて、「ちゃんとレイドに挑戦してみたいなあ、でもパーティ募集は荒れてそうだし、固定なんて見つかるわけないよなあ」ってずっと考えてた。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""パーティ募集は荒れてそうだし、固定なんて見つかるわけないよなあ"" sounds a bit conversational/informal and slightly unnatural within the context of describing internal thoughts. While grammatically correct and understandable, a more polished phrasing could be used for expressing the same sentiment."
+214,"So I thought, screw it!",くそくらえ！,"MQM annotations:
+minor: register/inappropriate - ""くそくらえ！"" is a very rude and strong expression, even stronger than ""screw it!"". While it conveys the same general sentiment of frustration and dismissal, it is a much lower register. A more neutral expression might be appropriate depending on context."
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",レイド固定に入るのを試すのをためらうほど不安で、上手くなろうという期待は全くない人たちでいっぱい！,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""上手くなろうという期待は全くない人たちでいっぱい！"" sounds somewhat unnatural. While grammatically correct, a more natural phrasing might exist."
+219,I was a voracious reader in my youth.,若い頃は、本の虫だった。,"MQM annotations:
+Style error:
+Minor: Style/Unnatural Flow - The Japanese translation ""本の虫だった"" (hon no mushi datta) is a common idiom meaning ""bookworm,"" and while it conveys the general meaning of being a voracious reader, it might sound slightly less formal or sophisticated than the source. A more direct translation might be more appropriate depending on the context and desired register."
+227,They're not gonna talk about this on Bloomberg!,ブルームバーグじゃ報道されないだろうな！,"MQM annotations:
+Styles error:
+minor: register/inappropriate formality - The use of 「〜だろうな！」is slightly informal. While not strictly wrong, a more neutral or slightly more formal phrasing might be more appropriate depending on the context where Bloomberg is being discussed."
+228,"But if Spotify has a good quarter, they will.",しかし、もしスポティファイの業績が良ければ、そうなるでしょう。,"```
+MQM annotations:
+Minor: Unnatural Flow - The phrase ""そうなるでしょう"" (""sou naru deshou"") while grammatically correct, sounds a bit stiff and formal. A more natural phrasing could be ""そうなるだろう"" (""sou naru darou"") or simply ""そうなる"" (""sou naru"") depending on the desired nuance.
+```"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,全国の空洞化し荒廃した都市を再建させよう。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""再建させよう"" (saiken saseyou) can sound a bit forced or overly literal in this context. A more natural and nuanced phrasing might be preferable."
+231,These people want to improve their lives.,これらの人々は、生活を向上させたいと思っています。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""生活を向上させたいと思っています"" (seikatsu o kōjō sasetai to omotte imasu) is grammatically correct but sounds slightly formal and less natural than other options in Japanese. While not incorrect, it could be phrased more smoothly. A more common and natural phrasing might be ""生活を良くしたいと思っています"" (seikatsu o yoku shitai to omotte imasu).
+```"
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは終わった」とか「リモートワークは失敗だった」という見出しには、もううんざりだ。,"MQM annotations:
+minor: style/unnatural flow - The phrase ""もううんざりだ"" (mou unzari da) while grammatically correct, can sound a bit strong or overly emphatic in Japanese depending on the context and speaker. While ""tired of"" translates to this, a slightly softer or more nuanced expression might be more natural. Depending on the context, the translator might consider other options."
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.",人々が、息苦しい騒がしいオフィスではなく、快適な空間で働けるようにする。,"```
+MQM annotations:
+minor: style/Unnatural Flow - The phrase ""息苦しい騒がしいオフィスではなく、快適な空間で"" could be more naturally expressed in Japanese. While grammatically correct, it sounds slightly stiff. A more natural phrasing might reorder the elements or use different particles for smoother flow.
+```"
+243,To just ignore these facts is wrong.,これらの事実を無視するのは間違っている。,"```
+MQM annotations:
+minor: style/unnatural flow - While grammatically correct, the phrase ""これらの事実を無視するのは"" sounds somewhat stiff and could be more naturally expressed. A more natural phrasing might use a different verb or a slightly different construction.
+```"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、現代の都市に住む女性がキャリアのために出産を遅らせようとする傾向について言及した。,"MQM annotations:
+minor: Unnatural Flow - The phrase ""現代の都市に住む女性がキャリアのために出産を遅らせようとする傾向"" (gendai no toshi ni sumu josei ga kyaria no tame ni shussan o okuraseru you to suru keikou) is grammatically correct but sounds a bit stiff and verbose in Japanese. A more natural phrasing could be considered."
+255,It took years of changing my life and working hard but finally...,何年も生活を変え、努力した結果、ついに…,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""何年も生活を変え、努力した結果"" feels a bit wordy and could be expressed more naturally in Japanese."
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,念のため、サイクリングジャケットにライナーをファスナーで取り付けます。,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While grammatically correct, the phrase ""ライナーをファスナーで取り付けます"" (rainer wo fasunaa de toritsukemasu) sounds slightly unnatural. A more common phrasing might be ""ライナーをファスナーでジャケットに取り付けます"" (rainer wo fasunaa de jaketto ni toritsukemasu), explicitly mentioning attaching it to the jacket.
+```"
+266,This is for Wikipedia's component library (OOUI).,これは、ウィキペディアのコンポーネントライブラリ（OOUI）のためのものです。,"MQM annotations:
+minor: style/unnatural flow - The phrase ""ためのものです"" is grammatically correct but sounds slightly stiff and overly formal in this context. A more natural phrasing might be considered."
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親オブジェクトを分離して作成し、そこにMOをインストールし、それが分離される（つまり、別の場所にアタッチされる）のを観察します。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - ""一時的な親オブジェクトを分離して作成し、そこにMOをインストールし、それが分離される（つまり、別の場所にアタッチされる）のを観察します"" could be phrased more naturally in Japanese. The repetition of ""分離される"" (separated/detached) is a bit awkward. While grammatically correct, the flow isn't ideal. A more fluent translation might use different phrasing to avoid repeating the same word so closely."
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は毎日私のオフィスを2往復も走り回っているから、完全に筋肉ムキムキになっているんだ。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - While the translation accurately conveys the meaning, ""筋肉ムキムキになっているんだ"" (muscle-muscle-y is becoming) is a bit informal and could be phrased more naturally for a broader audience. A more polished phrasing could be used to improve the flow and register."
+278,It makes me so happy to see him thriving.,彼が活躍しているのを見ると、とても嬉しいです。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""彼が活躍しているのを見ると、とても嬉しいです"" while grammatically correct, sounds slightly stiff. A more natural phrasing could be used to express the same sentiment with better flow."
+285,Last week got a ton done and feeling much better about field items.,先週はたくさん終わらせることができて、現場の件もだいぶ良くなった気がする。,"```
+MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""現場の件もだいぶ良くなった気がする"" (genba no ken mo daibu yoku natta ki ga suru) while understandable, is a bit wordy and could be more concise and natural in Japanese. A native speaker might phrase it slightly differently for smoother flow.
+```"
+286,"All collards, kale, chard is transplanted.",すべてのコラード、ケール、スイスチャードは移植済みです。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The Japanese translation is grammatically correct but sounds slightly unnatural. A more natural rendering might use a different phrasing to indicate that the transplantation is completed.
+```"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",また、サラダ菜をそこに播種して、カット野菜を組み込む必要があります。灌漑、畝作り、移植については訓練されたクルーがおり、これは収穫以外のスキルの90％を占めます。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""サラダ菜をそこに播種して、カット野菜を組み込む必要があります"" sounds slightly awkward and could be phrased more naturally in Japanese. A more common phrasing might be something like ""そこにサラダ菜の種をまき、カット野菜として利用できるようにする必要があります"".
+minor: unnatural flow - The phrase ""収穫以外のスキルの90％を占めます"" is grammatically correct, but ""収穫以外のスキルの90％に相当します"" could be smoother."
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,Apple Maps の方が Google Maps よりも、ナビゲーションの指示に従う体験がはるかに優れていた。,"MQM annotations:
+minor: style/unnatural flow - The phrase ""ナビゲーションの指示に従う体験がはるかに優れていた"" (nabigēshon no shiji ni shitagau taiken ga haruka ni sugureteita) is grammatically correct but sounds somewhat formal and verbose. A more natural phrasing could be used."
+295,Apple Maps wins.,Apple Maps の勝ち。,"MQM annotations:
+minor: style/unnatural flow - ""Apple Maps の勝ち"" is a direct translation of ""Apple Maps wins,"" but it sounds slightly unnatural in Japanese. A more natural expression might be something like ""Apple Maps の勝利"" (Apple Maps' victory) or a more descriptive phrase depending on the context."
+302,"That said, I'm biased.",そうは言っても、私は偏っています。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - While accurate, the phrase ""そうは言っても"" (sou wa itte mo) can sometimes sound a bit formal or stiff in modern Japanese, depending on the context. Other options could be more conversational."
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,しかし、政府が今の制度を変えないと考える限り、富の貯蔵庫として優れているのは土地だからです。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""富の貯蔵庫として優れているのは土地だからです"" (fu no chozōko to shite sugurete iru no wa tochi dakara desu) sounds somewhat stiff and overly literal. A more natural phrasing might be used to improve the flow. While grammatically correct, it's not how a native speaker would typically express this.
+```"
+309,In China you can only lease land.,中国では土地はリースしかできません。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, the phrase ""土地はリースしかできません"" sounds slightly stiff. A more natural phrasing might be ""土地はリースのみです"" or ""土地はリースに限られます.""
+```"
+311,The government can change these policies whenever it wants.,政府は、これらの政策をいつでも変更できます。,"MQM annotations:
+minor: style/unnatural flow - The phrase ""いつでも変更できます"" is grammatically correct but could be slightly more natural in Japanese. A more polished phrasing might exist depending on the context, perhaps implying ease or authority more subtly."
+312,The land is temporary.,土地は一時的なもの。,"MQM annotations:
+minor: style/unnatural flow - The translation is grammatically correct, but could be more naturally expressed in Japanese. A more common phrasing might be ""土地は一時的なものに過ぎない"" or something similar that emphasizes the transient nature more strongly."
+318,That's why the Chinese only allow leases.,だから中国はリースしか認めていない。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The translation is grammatically correct but sounds a bit too direct. A more nuanced or explanatory phrasing might improve the flow in Japanese. A native speaker might prefer a phrasing that includes the reason why leases are the only option, even if the source text is concise."
+322,Let us continue to work together towards creating a brighter future for all.,すべての人々にとって、より明るい未来を創造するために、共に努力し続けましょう。,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""共に努力し続けましょう"" (tomoni doryoku shi tsuzukemashou) while grammatically correct, can sound a bit stiff. A more natural phrasing might be ""力を合わせて、より良い未来を築いていきましょう"" (chikara o awasete, yori yoi mirai o kizuite ikimashou)."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分をひどく卑下する人間の能力を、実際の残酷さを示す証拠がこれほど多くあるにもかかわらず、不思議に思うことがよくある。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""自分をひどく卑下する人間の能力を、不思議に思うことがよくある"" feels slightly awkward and could be phrased more naturally in Japanese. A more natural phrasing might involve restructuring the sentence or using different vocabulary to express the wonder at human self-deprecation."
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",「成功」が最も非難されるべき行為の責任者たちにしばしば与えられる世界で、個人の失敗と罪悪感に苦悩すること…。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""個人の失敗と罪悪感に苦悩すること…"" feels slightly unnatural and could be rephrased for better flow in Japanese. A more natural phrasing might involve a slightly different word choice or sentence structure."
+332,"or ""Modal editors are useless today"" :morty:",もしくは「モーダルエディタは今や無用」:morty:,"```
+MQM annotations:
+Styles error:
+minor: register/inappropriate formality - The use of "":morty:"" is informal and may not be appropriate depending on the context. While the Japanese translation accurately reflects the source, it maintains the informality. Whether this is a style error depends on the target audience and purpose. If a more formal tone is required, this would be inappropriate.
+```"
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:",俺の#Axumプロジェクトの機能を共有ライブラリに抽出する作業: 「ちょっとキーボード貸して」:partyparrot: :helix: :ferrisdance:,"MQM annotations:
+minor: register/informal - Using ""俺の"" (ore no) sounds very informal and masculine. While it fits the tone of the English source, it might be perceived as too casual in some Japanese contexts. A slightly more neutral ""私の"" (watashi no) might be more appropriate depending on the target audience.
+minor: unnatural flow - The phrase ""ちょっとキーボード貸して"" (chotto kiiboodo kashite) is a very literal translation of ""Hold my keyboard"". While understandable, it sounds a bit unnatural and could be rephrased for a more natural flow.
+minor: lacks creativity - The translation, though accurate, could benefit from a more creative and idiomatic rendering of the original English. The use of emojis helps, but the core sentence lacks flair.
+
+```
+MQM annotations:
+Style Errors:
+minor: register/informal - ""俺の"" (ore no) sounds very informal.
+minor: unnatural flow - ""ちょっとキーボード貸して"" (chotto kiiboodo kashite) is a very literal translation of ""Hold my keyboard.""
+minor: lacks creativity - Could be more creatively translated to convey the same meaning.
+```"
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのお題は、徹夜。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - While the translation is accurate, the phrase ""今週のRevelationsのお題は、徹夜"" sounds a bit stiff. A more natural phrasing might be ""今週のRevelationsのテーマは、徹夜"" or ""今週のRevelationsは徹夜がテーマです。"" The provided translation isn't wrong, just a little less natural in flow."
+339,It is definitely more romance than filth.,どちらかと言えば、エロよりロマンスです。,"MQM annotations:
+minor: style/unnatural flow - ""どちらかと言えば"" (dochira ka to ieba) is a bit verbose and sounds slightly unnatural in this context. A simpler phrase like ""むしろ"" (mushiro) might be more appropriate for a natural flow."
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",いつか絶対、飛行機の中でオーガズムを体験してやる。相手は知らない人じゃないかもしれないけど。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""相手は知らない人じゃないかもしれないけど"" (aite wa shiranai hito ja nai kamo shirenai kedo) while grammatically correct, feels slightly unnatural in this context. A more concise or idiomatic expression might improve the flow."
+345,"I wish there was a ""who to follow"" recommendation somehow.",フォローすべき人のレコメンデーション機能みたいなのがあればいいのに。,"```
+MQM annotations:
+Style error:
+Minor: Unnatural Flow - The phrase ""レコメンデーション機能みたいなのがあればいいのに"" sounds a bit awkward and could be phrased more naturally in Japanese. While grammatically correct, it's a very colloquial and verbose way of expressing the idea, which might not be suitable depending on the context.
+```"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",つまり、始めるにはもう少し手間がかかり、#UXを向上させるには優れたアプリが必要になるでしょう。,"MQM annotations:
+Minor: Unnatural Flow - While grammatically correct, the phrase ""始めるにはもう少し手間がかかり"" (hajimeru ni wa mō sukoshi tema ga kakari) is a bit wordy and could be expressed more naturally in Japanese. A more concise phrase like ""導入には少し手間がかかる"" (dōnyū ni wa sukoshi tema ga kakaru) would improve the flow."
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",変化を生み出すためにできることに関する知識（ある程度の信頼区間内で）。,"```
+MQM annotations:
+Minor: Unnatural Flow - The phrase ""ある程度の信頼区間内で"" (aru teido no shinrai kuukan nai de) which translates to ""within some confidence bounds"", feels slightly unnatural and overly literal in Japanese. A more natural phrasing might be achievable depending on the context.
+```"
+360,He's here and he's going to say this stuff no matter what.,彼はここにいるし、何があってもこれを言うつもりだ。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, the phrase ""彼はここにいるし、何があってもこれを言うつもりだ"" sounds slightly unnatural. A more natural phrasing might exist in Japanese. The ""し"" conjunction, while correct, can sometimes sound a bit forced depending on the context. A simpler connective like ""から"" might be smoother."
+362,It's very underwhelming at the moment.,今は期待外れだ。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - ""期待外れだ"" sounds a bit stiff and overly direct. A more natural and nuanced translation might exist, though the current translation is not incorrect."
+363,"The ""MusicLM Demo"" is mildly interesting.",MusicLM Demo は、まあまあ面白いです。,"```
+MQM annotations:
+Style Errors:
+Minor: Unnatural Flow - The phrase ""まあまあ面白いです"" (maa maa omoshiroi desu) while grammatically correct, sounds a bit awkward and less natural than other alternatives for expressing ""mildly interesting"". A more natural phrasing could be considered depending on the context and desired nuance.
+```"
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",筋トレしてるのに、自分の最大挙上重量がどれくらいか全然知らないのって変な感じだよね。だって、それって進捗を把握する上でめっちゃ重要な指標の一つじゃん。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""自分の最大挙上重量がどれくらいか全然知らないのって変な感じだよね"" is grammatically correct but sounds a bit unnatural. A more natural phrasing might be something like ""自分の最大挙上重量を知らずに筋トレするのって、なんだか変な感じだよね"" or ""筋トレしてるのに最大挙上重量を知らないって、変な感じがする"".
+minor: register - The use of ""めっちゃ"" is very informal. While it fits the overall tone, a slightly more formal alternative like ""非常に"" or ""とても"" might be considered, depending on the desired level of formality."
+369,I work out alone in my bedroom without a spotter or even a weight rack.,誰の補助もなしに、ウェイトラックすらない自分の寝室で一人で筋トレをしています。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - While grammatically correct, the phrase ""誰の補助もなしに、ウェイトラックすらない自分の寝室で一人で筋トレをしています"" sounds a bit wordy and could be more concise for a more natural flow. A native speaker might phrase it slightly differently for better readability."
+370,Just me and a barbell with a bunch of weights.,俺とバーベルと大量のウェイトだけ。,"```
+MQM annotations:
+Styles error:
+minor: register/informal - The use of ""俺"" (ore) is very informal and while it fits the tone, a slightly more neutral pronoun like ""私"" (watashi) or ""僕"" (boku) might be more suitable depending on the context. Although ""ore"" is not incorrect, it creates a more distinctly masculine and potentially rough tone.
+minor: unnatural flow/word choice - Using ""大量の"" (tairyou no) for ""a bunch"" is accurate but slightly formal and unnatural in casual speech. A more natural phrasing could be something like ""たくさんの"" (takusan no) or simply implying the quantity through context.
+
+```"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",自分の最大挙上重量を計算しようとすると、最大挙上できるだけの重りがなかったり、逆に重すぎて怪我をしたり、最悪の場合死んでしまうかもしれない。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""自分の最大挙上重量を計算しようとすると、最大挙上できるだけの重りがなかったり、逆に重すぎて怪我をしたり、最悪の場合死んでしまうかもしれない。"" is grammatically correct but a bit wordy and could be phrased more naturally in Japanese. The repetition of ""最大挙上"" feels slightly redundant. A more concise and natural phrasing would improve the flow."
+375,I swear burrata didn't exist five years ago,5年前には、ブラッティーナなんて存在しなかったと誓うよ。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""〜と誓うよ"" (to chikau yo) sounds a bit unnatural in this context. While grammatically correct and accurately conveying the meaning of ""I swear,"" a more natural phrasing might be preferred."
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,誰かの母親が作っているのを見たことも、パーティーで無理やり押し付けられたことも、誰かのソース作りやパン作りの日に出てきたのを見たこともなかった。,"MQM annotations:
+No style errors found."
+384,Does anyone have a Linux tablet they love?,Linuxタブレットで愛用しているものがある人いますか？,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""愛用しているものがある人いますか？"" is grammatically correct but sounds a bit unnatural in Japanese. A more natural phrasing might be ""Linuxタブレットでおすすめはありますか？"" or ""Linuxタブレットを使っている方、いらっしゃいますか？"".
+```"
+385,"This would be mainly for web browsing, occasional email, and some games.",主にウェブ閲覧、たまにメール、それに少しゲームをする程度です。,"```
+MQM annotations:
+minor: style/Unnatural Flow - ""それに少しゲームをする程度です"" feels slightly unnatural. A more natural phrasing might be ""それに、ゲームも少しするくらいです"". The use of ""程度です"" is not incorrect, but it adds a slightly formal or detached tone that might not be ideal for this simple statement.
+
+```"
+388,"A bad game is bad forever.""",駄作は永遠に駄作。,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - ""駄作は永遠に駄作"" sounds slightly repetitive and unnatural in Japanese. A more natural phrasing might exist, although the translation accurately conveys the meaning.
+```"
+389,So was it Epic that originated this?,これってEpicがオリジナル？,"MQM annotations:
+Styles error:
+minor: unnatural flow - The translation sounds a bit unnatural. A more natural way to phrase it would be something like 「これって、エピックが元祖？」 or 「これってエピック発祥？」."
+390,We can keep going.,続けることができます。,"```
+MQM annotations:
+Minor: style/Unnatural Flow - The Japanese translation is grammatically correct, but it could be more natural by using a slightly different phrasing. ""続けることができます"" translates literally to ""can continue"" or ""it is possible to continue,"" which sounds a bit stiff. A more natural phrasing could be something like ""続けられる"" (can continue) or ""続けましょう"" (let's continue) depending on the desired nuance.
+```"
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",GamePro 1997年11月号の過去の記事には、もっと曖昧な引用がある。,"MQM annotations:
+Style Error:
+minor: unnatural flow - While grammatically correct, the phrase ""もっと曖昧な引用がある"" (motto aimai na inyou ga aru) could be phrased more naturally in Japanese. A more common way to express this might be something like ""より曖昧な引用が見られる"" (yori aimai na inyou ga mirareru) or ""曖昧な引用がより多く含まれている"" (aimai na inyou ga yori ooku fukumareteiru), although the provided translation isn't *incorrect*, it lacks a certain naturalness."
+401,Esp the carriages with the bigger windows.,特に窓の大きい車両。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - While grammatically correct, the translation could be more natural. A more idiomatic rendering might be preferred for smoother reading."
+402,There's areas that could use some polish.,磨きをかけるべき箇所がいくつかあります。,"```
+MQM annotations:
+Style error:
+Minor: Unnatural Flow - While accurate, the phrase ""磨きをかけるべき箇所がいくつかあります"" (Migaki o kakerubeki kasho ga ikutsu ka arimasu) sounds slightly formal and stiff. A more natural phrasing in Japanese might exist depending on the specific context. It's not incorrect, but it's not the most fluid or idiomatic way to express the idea.
+```"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",つまり、十分なゴミ箱の不足と、照明の色の重要性を説明する標識の不足です。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""つまり、"" (tsumari) can sometimes sound a bit abrupt or overly explanatory in Japanese. While not strictly incorrect, a more natural phrasing or omission might be smoother.
+```"
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMやDDZ株が終わっても、悲しくはないだろう。,"MQM annotations:
+minor: style/unnatural flow - While grammatically correct, the phrase ""ICMやDDZ株が終わっても、悲しくはないだろう"" sounds slightly unnatural. A more natural phrasing might be ""ICMやDDZ株が終わっても、別に悲しくはない"" or something similar, depending on the desired nuance."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,お一人様一枚までとさせていただきます。お並びいただいた皆様がボードを入手できるよう努めております。,"MQM annotations:
+minor: style/unnatural flow - While accurate, the phrase ""お並びいただいた皆様がボードを入手できるよう努めております"" sounds somewhat formal and stiff. A more natural phrasing might be slightly less verbose.
+```"
+411,Such friendships transcend differences.,そのような友情は、違いを超える。,"MQM annotations:
+minor: Style/Unnatural Flow - While grammatically correct, ""違いを超える"" sounds slightly less natural than other options for expressing ""transcend differences"" in Japanese. A more idiomatic rendering might exist."
+412,We all have stories to tell.,誰にでも語るべき物語がある。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""語るべき物語がある"" (katarubeki monogatari ga aru) sounds slightly stiff. A more natural phrasing might be ""物語を持っている"" (monogatari o motteiru) or ""物語がある"" (monogatari ga aru) alone, depending on context. The ""べき"" (beki) construction makes it a bit overly formal or emphatic in this general statement."
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",なんとなく、この件は最初からつまずいてしまったような気がします。,"MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""最初からつまずいてしまったような気がします"" (saisho kara tsumazuite shimatta you na ki ga shimasu) while grammatically correct, sounds a bit verbose and less natural than other possible alternatives for expressing the initial feeling of a setback or wrong start. A slightly more concise or idiomatic phrasing could improve the flow."
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,もう少しここに残って、そもそも移行すべきかどうかを考えます。,"```
+MQM annotations:
+minor: style/unnatural flow - While grammatically correct, the phrase ""そもそも移行すべきかどうかを考えます"" (somo somo igou subeki ka dou ka o kangaemasu) sounds a little stiff and formal. A more natural phrasing might involve a slightly different grammatical structure or word choice to soften the tone.
+```"
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,レプニドたちは地表の下にトンネルを掘り、あなたは下の洞窟で数百ものレプニドの体が煮えたぎる塊の中に落ちてしまう。,"```
+MQM annotations:
+Minor: Unnatural Flow - The phrase ""レプニドの体が煮えたぎる塊の中に落ちてしまう"" (Repunido no karada ga nietagiru katamari no naka ni ochite shimau) while grammatically correct, is a bit wordy and could be phrased more naturally. A more concise phrasing might improve the flow.
+```"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは唐突に訪れる。幾つもの牙が猛毒を注入し、ディスクラの空気が肺を蝕む。,"MQM annotations:
+Style Errors:
+minor: style/unnatural flow - ""終わりは唐突に訪れる"" could be more naturally expressed. Although grammatically correct, it sounds a bit stiff.
+minor: style/unnatural flow - ""幾つもの牙が猛毒を注入し、ディスクラの空気が肺を蝕む"" sounds a little awkward. A more natural flow might involve rephrasing to connect the venom and air more directly to the effect on the lungs."
+425,Nobody will ever know that you were the first human future traveller.,あなたが人類初の未来旅行者だったことは、誰にも知られることはないだろう。,"MQM annotations:
+minor: unnatural flow - While grammatically correct, the phrase ""あなたが人類初の未来旅行者だったことは、誰にも知られることはないだろう"" sounds slightly formal and stiff. A more natural phrasing might exist depending on the context."
+426,You land the flyer nose upward on the side of the slag heap and climb out.,あなたは鉱滓山の斜面に機首を上にして着陸し、降りる。,"MQM annotations:
+Style Errors:
+minor: UNNATURAL FLOW - While technically correct, the phrase ""機首を上にして着陸し"" (kishu o ue ni shite chakuriku shi) sounds somewhat unnatural and overly literal. A more fluent phrasing might exist."
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つの目を持つレプニドたちは見ているようだが、こちらに向かってくる気配はない。実際、ゆっくりと近づいても、彼らは微動だにしない。,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""こちらに向かってくる気配はない"" (kochira ni mukatte kuru kehai wa nai) while accurate, is a bit verbose and could be more concisely expressed for a more natural flow. The translation sounds a bit overly literal.
+minor: style/Unnatural Flow - The phrase ""ゆっくりと近づいても、彼らは微動だにしない。"" (yukkuri to chikadzuitemo, karera wa bidou da ni shinai.) while accurate, can be expressed more naturally. The use of 微動だにしない is slightly formal and could be simplified in a more casual context."
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",どうやら、ユニバーサル翻訳機は応答を拾っていないため、彼らはあなたの声が聞こえないどころか、理解もできないようです。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""あなたの声が聞こえないどころか、理解もできないようです"" is grammatically correct, but sounds a bit verbose and unnatural in Japanese. A more concise and natural phrasing might be preferred.
+```"
+430,You decide to use your Psychic Awareness to contact them mentally.,念動力を使って、精神的に彼らと交信することにした。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""交信することにした"" (koushin suru koto ni shita) can sound slightly stiff. More natural phrasing might exist depending on context (e.g., simpler language to reflect internal monologue)."
+436,"#today I have coffee, sunshine and quiet time!",今日 は コーヒー と 日光 と 静かな 時間！,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""静かな 時間！"" sounds somewhat unnatural in Japanese. While grammatically correct, it lacks the nuance of a more natural expression. A more natural phrasing might include a particle or verb to indicate the activity being enjoyed."
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,撚りの甘い箇所や塊のある、細撚りの銀灰色の糸を見つけました。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""撚りの甘い箇所や塊のある、細撚りの銀灰色の糸"" sounds slightly unnatural. A more natural phrasing might exist."
+441,But am not sure I have enough of the purple.,紫の色が十分にあるかどうか、自信がありません。,"```
+MQM annotations:
+minor: style/Unnatural Flow - The phrase ""紫の色が十分にあるかどうか"" (whether there is enough purple color) sounds slightly unnatural in Japanese. A more natural phrasing could be considered, although the current translation is understandable.
+```"
+446,I have literally tried and dropped EVERY SINGLE ONE.,すべて、文字通り試してはやめた。,"MQM annotations:
+Style error:
+Minor: Unnatural Flow - While the translation is accurate, the phrase ""文字通り試してはやめた"" (literally tried and quit) sounds a bit unnatural in Japanese. A more natural way to express this would be something like 「全部試して、全部ダメだった」 or 「手当たり次第試してみたけど、全部だめだった」, conveying the sense of having tried everything and given up."
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして、2年くらい前までは、成績証明書を確認するまで全く知りませんでした。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""成績証明書を確認するまで"" (seisekishoumeisho wo kakunin suru made) while grammatically correct, sounds a bit stiff and literal. A more natural phrasing in Japanese might be something like ""成績証明書を見て初めて"" (seisekishoumeisho wo mite hajimete) or ""成績証明書で確認するまでは"" (seisekishoumeisho de kakunin suru made wa)."
+448,The literature class hatred is even worse: I love to read.,文学の授業嫌いはもっとひどい。読むのは大好きなのに。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - While the translation accurately conveys the meaning, it could be phrased more naturally in Japanese. ""文学の授業嫌いはもっとひどい。読むのは大好きなのに。"" is grammatically correct, but sounds a bit forced as a response. A more natural phrasing might use a different structure or vocabulary."
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしいし、そこで幸せに過ごしているけれど、罪悪感を感じずに日中に小説を読むほどリラックスするには、どこか別の場所にいなければならない。,"MQM annotations:
+minor: unnatural flow - The phrase ""どこか別の場所にいなければならない"" (dokoka betsu no basho ni inakereba naranai), while grammatically correct, sounds a bit stiff. A more natural phrasing might use something like ""別の場所に行く必要がある"" (betsu no basho ni iku hitsuyou ga aru) or ""他の場所で過ごす必要がある"" (hoka no basho de sugosu hitsuyou ga aru). It is not a major issue, but the given translation has a slight unnatural flow."
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,まるで休暇中で、だから休暇中にするようなことをしている、という感じです。,"MQM annotations:
+Minor: Unnatural Flow - The phrase 「という感じです」 (to iu kanji desu) is a very common, and often overused, expression in Japanese that can sound repetitive and clunky, especially in less formal contexts. While grammatically correct, it's less natural than alternative phrasing.
+```"
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",ここ2晩は家ほどよく眠れていないし、慣れない環境にいるだけで自分のペース配分が難しくなり、物の場所も覚えなければならないので、少し#MECFS（筋痛性脳脊髄炎/慢性疲労症候群）の症状が出てしまっているにも関わらず、そうなっているんだ。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""そうなっているんだ"" at the end feels a bit redundant and could be more naturally integrated or omitted for better flow.
+minor: register - The use of ""〜んだ"" at the end of the sentence can be seen as slightly informal. While not strictly incorrect, a more formal or neutral ending might be more suitable depending on the context."
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",ゲーム業界で働くことの、ワクワク感、緊張感、ストレス、そして私が愛するすべての良いものが詰まっている。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""そして私が愛するすべての良いものが詰まっている"" (soshite watashi ga aisuru subete no yoi mono ga tsumatteiru) is a bit too literal and could be phrased more naturally. A more natural phrasing might be something like 「ゲーム業界で働くことの、ワクワク感や緊張感、ストレス、そして何より私が好きなところばかりだ。」."
+458,Will a community blossom around the user-generated content piece of the game?,ゲームのユーザー生成コンテンツ作品を中心にコミュニティは形成されるだろうか？,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""ゲームのユーザー生成コンテンツ作品を中心にコミュニティは形成されるだろうか？"" while grammatically correct, sounds a bit stiff and could be more naturally phrased in Japanese. The use of ""～だろうか？"" is correct but could be softened depending on the context.
+```"
+466,So I finally watched #Heartstopper,ついに#Heartstopper 見た。,"```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The Japanese translation is grammatically correct and understandable, but it could be more natural. Adding a particle like ""を"" after ""#Heartstopper"" might improve the flow, depending on the intended nuance (e.g., ""#Heartstopperを見た"" - ""#Heartstopper wo mita""). Without additional context about preferred Japanese style for social media, this is a minor concern.
+```"
+467,Was it overly cute to the point of being twee?,甘すぎて、トゥイーって感じだった？,"MQM annotations:
+minor: unnatural flow - While understandable, ""甘すぎて、トゥイーって感じだった？"" could be phrased more naturally. The use of katakana ""トゥイー"" feels a bit forced and could perhaps be rephrased depending on the specific context and desired nuance. It's not grammatically incorrect, but stylistically slightly unnatural."
+471,But did I love it?,私はそれを愛したか？,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The Japanese translation is grammatically correct but sounds somewhat stiff and unnatural. A more natural phrasing might exist depending on the context."
+476,"In part, because they'd be taught badly.",教え方が悪かったから。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The translation is grammatically correct, but a more natural phrasing might exist in Japanese. The original implies a reason or explanation, which could be conveyed more subtly in Japanese."
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題について言い訳をせずに、ただ解決することが重要です。特に、リードから変更の要求があった場合のプロダクション環境では。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""リードから変更の要求があった場合のプロダクション環境では"" sounds slightly awkward and could be phrased more naturally. A more common way to phrase this might be something like ""リードが変更を求めているプロダクション環境では"""
+479,"Every artist has been there, made the same mistakes.",どのアーティストも経験したことがある、同じ過ちを犯したことがある。,"MQM annotations:
+minor: style/unnatural flow - The phrase ""どのアーティストも経験したことがある、同じ過ちを犯したことがある"" sounds slightly redundant and could be phrased more naturally in Japanese. A more concise or idiomatic expression might improve the flow."
+484,Watch seeds being sown & cultivated (and not randomly scattered) by good peeps.,良い人たちによって種が蒔かれ、育てられるのを見る（ただランダムにばらまかれるのではなく）。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""良い人たちによって種が蒔かれ、育てられるのを見る"" sounds a bit literal. A more natural phrasing might be something like ""良い人たちが種を蒔き、育てる様子を見る"". While understandable, the passive voice construction and the general flow are slightly unnatural for Japanese."
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",ジャミは犬の番の直前、小道ですれ違う時に彼にそっとメモを渡した。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - While grammatically correct, the phrase ""犬の番の直前"" (chasing the dog's turn directly before) sounds slightly unnatural. A more natural phrasing might exist."

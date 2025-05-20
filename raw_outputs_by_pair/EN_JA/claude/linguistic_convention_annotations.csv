@@ -1,0 +1,503 @@
+index,original,translated,linguistic_convention_annotation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",それが IDirect3DViewport3 を返すと推定していたことが判明しましたが、実際に実装しているのは IDirect3DViewport で、その末尾にはさらにメソッドが追加されています。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The order of the words ""IDirect3DViewport3"" and ""IDirect3DViewport"" is incorrect compared to the source text."
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは必ずしも当てはまるわけではない。問題のオブジェクトを作成するために使用するインターフェイスによって、状況が異なる。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural in Japanese. The original English sentence uses a conditional clause (""for those cases""), but the Japanese translation does not reflect this structure clearly."
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",仮に議論のために、科学は少なくとも部分的に、理論を支持するかどうかに関わらず真実である、客観的な事実に関する一覧表で構成されているとする。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of the first word in the translation should be capitalized."
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,科学的事実は理論に依存していると主張することは可能である。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The translation uses ""は"" (wa) instead of ""が"" (ga) in the sentence structure, which is not the most natural way to express the idea in Japanese."
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",実験は、この読み取りの事実を作り出すのではなく、どの実験を行うかを選択することで、発見される事実を制御する。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation is slightly different from the source text, affecting the natural flow of the language."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",一部の事実(例えば、サブアトミック粒子に関するものなど)は、資源、組織、強制力が十分でなければ実現できない実験からしか得られません。そのような実験は資本主義体制でなければ不可能です。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of the first word in the second sentence should be capitalized.
+[Minor]: [Punctuation] - The comma after ""organization"" should be a period to end the sentence.
+[Minor]: [Whitespace] - There should be a space between ""too"" and ""much"" in the phrase ""toomuch""."
+14,Picking this up this weekend.,この週末に取り上げる。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation ""この週末に取り上げる"" does not match the natural word order of the English source ""Picking this up this weekend."""
+16,Already on coil overs and lowered ride height.,エアサスペンションに変更し、車高を下げています。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation ""エアサスペンションに変更し、車高を下げています"" uses the wrong grammar structure. The correct grammar should be ""エアサスペンションに変更して、車高を下げています""."
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べましたが、この車に関する情報があれば教えていただきたいです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of the first word in the translation should be capitalized."
+18,Personal experiences?,個人的な経験,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The Japanese translation ""個人的な経験"" should have the first letter capitalized as ""個人的な経験""."
+19,I know they're not fast compared,遅いと比べると、分かっています。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The translation ""遅いと比べると、分かっています。"" does not match the grammatical structure of the source text ""I know they're not fast compared"". The Japanese translation is missing a subject and the verb form is not appropriate."
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",私はボードショーツとワイフビーターを着て、彼はタトゥーだらけで、自分で「ネオナチみたいに見える」と表現した新しい髪型をしている。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""The"" in ""The Domestic Partner"" should not be capitalized.
+[Minor]: [word order] - The order of ""Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi""."" should be ""Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi""."""
+36,NY is the best hope for accountability,ニューヨークが説明責任の最良の希望です。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""ニューヨークが説明責任の最良の希望です。"" should have ""New York"" capitalized as ""ニューヨークが説明責任の最良の希望です。""."
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つシグナルを送ることに還元できないという重要な証拠がある。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural and fluent in Japanese. The translation sounds awkward and does not flow well."
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",コンテキスト依存的なコミュニケーションは、環境特性(コンテキストの分布など)に大きく影響される、多層的な状況的現象であると提案する。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The sentence structure could be more natural, e.g., ""コンテキスト依存的なコミュニケーションは、環境特性(コンテキストの分布など)に大きく影響される状況的な多層的現象であると提案する。"""
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒に様々なプロジェクトをサポートする6か月間を過ごせたことは幸運でした。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""ニコラス"" should be capitalized."
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会ったときは、特に植林や農場支援の進捗を聞いて嬉しかったです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The translation is missing a period at the end of the sentence."
+61,Licht AGREED to an all Republican audience!,賛成しました。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [capitalization] - The word ""AGREED"" should not be in all uppercase.
+[Minor]: [punctuation] - The exclamation mark at the end of the sentence is unnecessary."
+65,It can't be repeated.,それを繰り返すことはできません。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The Japanese translation uses a period (""."") at the end of the sentence, while the English source does not have any punctuation."
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨晩、このルーティンに嫌気がさしたので、全てのトラップからピーナッツバターを取り除き、ピスタチオをスーパーグルーで固定しました。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""Superglued"" should be capitalized as ""superglued"" according to English capitalization conventions.
+[Minor]: [punctuation] - The period at the end of the sentence is missing."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",私はこれまでほとんどすべての「人道的」な罠を試してきましたが、あまり成功していません。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Comma usage after ""fwiw"" is not necessary in English."
+74,"They aren't, at least not in Alberta.",それらはそうではありません、少なくともアルバータでは。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The Japanese translation is missing a period at the end of the sentence."
+75,Sure they cut business taxes.,はい、彼らは企業税を削減しました。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""はい、彼らは企業税を削減しました。"" should capitalize the first word ""はい"" according to Japanese writing conventions."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",グラスゴーに彼を降ろすだけです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The translation is missing a period at the end of the sentence."
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.","""グラスゴーに彼を降ろすだけです""と、チケット販売員は言った。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing quotation marks around the quoted speech."
+90,And they are truly nuts.,そして、彼らは本当にナッツです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""そして、彼らは本当にナッツです。"" should have the first letter capitalized as ""そして、彼らは本当にナッツです。""."
+95,Yell back at those who would try to talk over us.,怒鳴り返せ、私たちを押し黙らせようとする者たちに。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [punctuation] - Missing punctuation at the end of the sentence.
+[Minor]: [capitalization] - The first word ""怒鳴り"" should not be capitalized."
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,私の隣人と私は同時に家に着き、私は通りを隔てた向こうから彼がCOVID-19の痰を激しく咳き上げているのが聞こえました。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is unnatural and does not follow the typical Japanese sentence structure. The translation could be improved to sound more natural in Japanese.
+[Minor]: [punctuation] - The comma after ""私の隣人と私は同時に家に着き"" is not necessary in Japanese."
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,そのため私は彼を避けるために急いでアパートに入ろうとしましたが、彼はまだ私と話をするために追いついてきました。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is different from the source text, affecting the natural flow of the language.
+
+The source text says ""So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat."" The translation ""そのため私は彼を避けるために急いでアパートに入ろうとしましたが、彼はまだ私と話をするために追いついてきました。"" has a different word order that disrupts the flow of the sentence."
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","4,000の苦しみの後、Ylは愛の場所に自分を見出し、どうしていいかわからない大きな感情に満ちています。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The translation is missing a period at the end of the sentence."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#マンゴーモロンとの騒動は、はなはだしい大失態でした。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [capitalization] - The term ""#MangoMoron"" should not be capitalized in the translation.
+[Minor]: [punctuation] - The translation uses a period (""."") at the end of the sentence, while the source text uses an exclamation mark (""!"")."
+113,A cold front should arrive by the middle of next week.,来週の中旬までに寒冷前線が到着するはずです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first word ""来週"" should be capitalized according to Japanese writing conventions."
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",早朝、赤外線衛星と地上観測により、低層ストラタスと散在する<URL>の範囲が拡大していることが示されました。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is unnatural and does not follow the typical Japanese sentence structure. The translation sounds awkward."
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけ、その専門知識を活用してCRMへの投資の価値を最大化する。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""Salesforce"" should be capitalized in the translation.
+[Minor]: [punctuation] - The period at the end of the sentence is missing in the translation."
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーが実装、カスタマイズ、統合、継続的なサポートを通じてあなたの事業がSalesforceのエコシステムで繁栄できるよう支援することを発見してください。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [capitalization] - The first word ""Salesforce"" in the translation should be capitalized.
+[Minor]: [punctuation] - The period at the end of the translation is missing."
+137,But another individual often flies aboard that ship.,その船に別の個人がしばしば乗っている。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the Japanese translation does not match the natural flow of the language compared to the English source. The phrase ""その船に別の個人がしばしば乗っている"" would be more natural as ""別の個人がその船にしばしば乗っている""."
+142,The Last of Us is an easy and canonical example of dad-ification.,最後のわれわれは、父親化の簡単で典型的な例です。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is incorrect compared to the source text. The correct order should be ""最後のわれわれは、父親化の典型的で簡単な例です。""."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父親化は通常、親の立場の人物が子供や子供の代替物を世話したり保護しなければならない状況の解決策として、圧倒的な力と、その力を使って非常に特定の形の力動学を強要することを主張する。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is awkward and does not flow naturally. The translation could be improved to better match the natural language conventions.
+[Minor]: [word order] - The order of the words ""圧倒的な力と、その力を使って非常に特定の形の力動学を強要することを"" could be rearranged to better match the natural word order in Japanese."
+147,Here's a quick overview of how to make use of our website.,ウェブサイトの使い方の概要はこちらです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of ""ウェブサイト"" should be capitalized.
+[Minor]: punctuation - The period at the end of the sentence is missing."
+148,- We send out notifications when airfare goes on sale.,航空券が値下がりした際に通知を送信します。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - Missing comma after ""sale"".
+
+The translation is generally accurate and well-formed, with only a minor punctuation error. The sentence could be improved by adding a comma after ""sale"" to match the conventions of the target language."
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは平和で安全な環境で育つ権利がある。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""ウクライナ"" should be capitalized to follow the convention for proper nouns."
+159,Over time dart became my go-to for quick UI.,ダートは時間とともに私のクイックUIの定番になりました。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation uses ""ダートは"" instead of ""ダートは"" to start the sentence, which is inconsistent with the capitalization conventions in Japanese."
+164,Echidna with amethyst and magenta spikes.,エキドナ、アメジストとマゼンタのトゲ,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""Echidna"" should be capitalized as it is a proper noun.
+[Minor]: punctuation - The comma after ""amethyst"" is missing."
+166,Their tail is extremely thick.,しっぽはとてもふさふさです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Spelling] - The Japanese translation ""しっぽはとてもふさふさです。"" contains a minor spelling error. The correct spelling should be ""しっぽはとてもふさふさです。""."
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目は梨色で、緋色のキャットアイグラスを着用しています。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural. The original order ""Their eyes are pear and they wear scarlet cateye glasses"" has been changed to ""彼らの目は梨色で、緋色のキャットアイグラスを着用しています"".
+[Minor]: [spelling] - The translation uses ""梨色"" (nashi-iro, pear color) instead of ""梨形"" (nashi-gata, pear-shaped) to describe the eyes, which is a minor spelling error."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",愛吸血鬼,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The translation ""愛吸血鬼"" should be capitalized as ""愛吸血鬼"" to follow Japanese capitalization conventions."
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",現実生活では、私が何年も前に作った謎解きゲームを、私の母は好きだと言っていました。そして、ほとんどの秘密を自分で見つけ出したので、単に母親としての立場から言っているのではありませんでした。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The Japanese translation uses a period at the end of the sentence, while the English source does not have any punctuation at the end."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.",我需要把这个从英语翻译成中文和福建话。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation is not grammatically correct. The sentence structure is not natural in Mandarin or Hokkien.
+[Major]: [word order] - The word order in the translation is not consistent with the typical sentence structure in Mandarin or Hokkien.
+[Minor]: [punctuation] - The translation lacks proper punctuation, such as periods or commas, which are important for the flow and readability of the text in Mandarin or Hokkien."
+179,Been toying with this thought for a little while:,少し前からこの考えを遊んでいます。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Whitespace] - The translation ""少し前からこの考えを遊んでいます。"" has an extra space before the period, which is not consistent with Japanese punctuation conventions."
+180,"Mental health is often seen as something separate from ""regular"" health.",精神的健康は、「通常の」健康とは別のものと見なされることが多い。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The translation uses ""「通常の」"" instead of ""「通常の」"" which is the correct capitalization in Japanese."
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こるため、身体的な健康よりも目に見えにくいです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: grammar - The sentence structure ""心の中で起こるため、身体的な健康よりも目に見えにくいです"" is slightly awkward compared to the source text. A more natural translation would be ""心の中で起こるため、身体的な健康よりも目に見えにくいのです""."
+194,Very much worth having a go at.,とても挑戦する価値があります。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""とても挑戦する価値があります。"" should have the first letter capitalized as ""とても挑戦する価値があります。""."
+196,Playing around a bit with Flutter.,フラッターで少し遊んでいます。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of the first word in the translation should be capitalized."
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",私は正直に言って、Googleのテクノロジーをベースにしてビジネスを行うのは嫌です。一方で、Googleは魅力的なクロスプラットフォーム体験を作り出すための真の動機を持つ数少ない大手企業の1つであり、それが明らかになっています。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""Google"" should be capitalized in the translation.
+[Minor]: [punctuation] - The comma after ""一方で"" should be a period to end the sentence."
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,私はそのようなコメントを控えさせていただきます。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The translation lacks a period at the end of the sentence."
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームは、うまくやりたい場合は難しい。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation ""クロスプラットフォームは、うまくやりたい場合は難しい。"" is grammatically incorrect. The correct grammar should be ""クロスプラットフォームを上手く行うのは難しい。"" or ""クロスプラットフォームを上手くやるのは難しい。""."
+201,I know that.,私はそれを知っています。,"MQM annotations:
+linguistic conventions errors:
+[minor]: capitalization - The translation should capitalize the first letter of the sentence, as in ""私はそれを知っています。""."
+202,Thank you to those people who have downloaded the latest update to Leasey.,ありがとうございます。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The translation is missing a period at the end of the sentence."
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,私の脳がそれを解き明かすことができないのはなぜかよくわかりません。ツールが非常に広範囲で曖昧であるため、選択肢が多すぎて脳がハードロックしてしまうのかもしれません。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of the first word in the translation should be capitalized.
+[Minor]: [punctuation] - The period at the end of the sentence is missing."
+211,Grafana looks pretty.,グラファナはきれいです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of the Japanese translation ""グラファナ"" should be capitalized to match the capitalization in the English source text."
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",そして新しい#FFXIV レイド層が近づいてきたので、「本格的なレイドに挑戦したいけど、パーティファインダーは大混乱そうだし、自分を受け入れてくれるスタティックは見つからないだろう」と長い間考えていました。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The Japanese translation does not capitalize the hashtag ""#FFXIV"" consistently with the English source.
+[Minor]: [punctuation] - The Japanese translation uses a period (""."") at the end of the sentence, while the English source does not have any punctuation at the end."
+214,"So I thought, screw it!",そうだな、構わないよ!,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""そうだな、構わないよ!"" should have the first word capitalized as ""そうだな、構わないよ!"" to follow Japanese capitalization conventions."
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",人々で溢れており、レイド固定に参加することに不安を感じているが、全く上手くできるとは期待していない。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The translation is missing a period at the end of the sentence."
+219,I was a voracious reader in my youth.,私は若い頃、貪欲な読書家でした。,"MQM annotations:
+linguistic conventions errors:
+[minor]: grammar - The translation uses the passive voice ""was a voracious reader"" instead of the active voice ""read voraciously"" in the source text."
+227,They're not gonna talk about this on Bloomberg!,彼らはこれについてBloombergで話すつもりはありません。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The translation should capitalize ""Bloomberg"" as it is a proper noun."
+228,"But if Spotify has a good quarter, they will.",しかし、Spotifyが良い四半期を過ごせば、彼らは。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence is incomplete and lacks a verb after ""彼らは""."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,彼らにその国中の空洞化し、朽ち果てた都市を再生させるよう任せなさい。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""Again"" should not be capitalized in the translation.
+[Minor]: [Punctuation] - The period at the end of the sentence is missing in the translation."
+231,These people want to improve their lives.,これらの人々は自分の生活を改善したいと考えています。,"MQM annotations:
+linguistic conventions errors:
+[minor]: grammar - The translation uses the phrase ""これらの人々は"" (these people) which is grammatically correct, but the source text uses the more general ""These people"" without specifying ""these"". The translation is a slightly more specific phrasing than the source."
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは死んだ」や「リモートワークは失敗した実験だった」と主張するヘッドラインに疲れてしまいました。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of ""リモートワークは"" should be capitalized."
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.",快適な空間で仕事ができ、窒息するような騒々しい事務所ではなくて済むようにしてくれる。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""Comfortable"" should be capitalized.
+[Minor]: [Punctuation] - The period at the end of the sentence is missing."
+243,To just ignore these facts is wrong.,事実を無視するのは間違っています。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""事実を無視するのは間違っています。"" should have the first letter capitalized as ""事実を無視するのは間違っています。""."
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、キャリアのために子供を遅らせる現代の都市女性の衝動について言及した。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""Parker"" should be capitalized.
+[Minor]: [punctuation] - The comma after ""abortion"" should be removed."
+255,It took years of changing my life and working hard but finally...,人生を変え、懸命に働いた年月の末に、ついに...,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first word ""人生"" should be capitalized in Japanese.
+[Minor]: punctuation - The translation is missing a period at the end of the sentence."
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,私のサイクルジャケットの裏地にファスナーをつけます - 必要になった場合に備えて。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The Japanese translation does not follow the capitalization conventions of the target language. The first word ""私の"" should not be capitalized.
+[Major]: [punctuation] - The Japanese translation is missing a period at the end of the sentence."
+266,This is for Wikipedia's component library (OOUI).,これはウィキペディアのコンポーネントライブラリ(OOUI)のためのものです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first word ""これ"" should be capitalized as ""これは"" to follow Japanese capitalization conventions."
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親要素を作成し、そこにMOをインストールし、それが分離されていくのを観察する。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first word ""一時的"" should be capitalized as ""一時的"" to follow the capitalization conventions in Japanese.
+[Minor]: [Punctuation] - The period at the end of the sentence is missing."
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は1日2回私の事務所を走り回ることで完全に引き締まっている。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural and does not match the flow of the source text. The translation should be rearranged to better reflect the structure of the original sentence."
+278,It makes me so happy to see him thriving.,それを見て私はとても幸せです。,"MQM annotations:
+linguistic conventions errors:
+[minor]: punctuation - The Japanese translation is missing a period at the end of the sentence."
+285,Last week got a ton done and feeling much better about field items.,先週は大量の仕事を完了し、フィールド項目についてもずっと良い気分になっています。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The translation lacks a period at the end of the sentence."
+286,"All collards, kale, chard is transplanted.",全てのコラード、ケール、チャードは移植されます。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation uses ""コラード"" and ""チャード"" with initial capitalization, which is not the standard capitalization convention for these words in Japanese."
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",そこにサラダの列を播種する必要もあり、両方に切り込んだグリーンを統合する。灌漑、ベッド準備、移植の訓練を受けた乗組員がいる。収穫以外のスキル項目の90%がこれらです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing comma after ""there"".
+[Minor]: [Whitespace] - Lack of space between ""both have"" and ""trained""."
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,アップルマップスではグーグルマップスに比べて、指示に従う必要があった経験がはるかに優れていた。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural compared to the source text. The phrase ""指示に従う必要があった経験"" should be rearranged to match the more natural English word order.
+[Minor]: [capitalization] - The translation uses ""マップス"" instead of the more common Japanese capitalization convention of ""マップス""."
+295,Apple Maps wins.,アップルマップスが勝った。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""アップルマップス"" should be capitalized as ""アップルマップス"" to follow Japanese capitalization conventions."
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,それは、政府が私たちが生活しているシステムを変更しないと考えている限り、富を長期的に保管する良い場所であるということです。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural and does not match the flow of the source text.
+
+The source text states: ""But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.""
+
+The translation reads: ""それは、政府が私たちが生活しているシステムを変更しないと考えている限り、富を長期的に保管する良い場所であるということです。""
+
+The word order in the translation is not as natural as the source text. A more natural word order in Japanese would be:
+""しかし、政府が私たちが生活しているシステムを変更しないと考えている限り、それは富を長期的に保管する良い場所となるのです。"""
+309,In China you can only lease land.,中国では土地を借りることしかできません。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Whitespace] - The translation has an extra space between ""土地"" and ""を""."
+311,The government can change these policies whenever it wants.,政府はいつでもこれらの政策を変更することができます。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first word ""政府"" should be capitalized in Japanese."
+312,The land is temporary.,土地は一時的です。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of the Japanese translation ""土地"" should be capitalized to match the capitalization of the English source ""The""."
+318,That's why the Chinese only allow leases.,それが中国人が賃貸のみを許可する理由です。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence ""それが中国人が賃貸のみを許可する理由です。"" is grammatically incorrect. The correct grammar should be ""それが中国人が賃貸のみを認める理由です。"" or ""それが中国人が賃貸のみを許可するのは理由があるためです。""."
+322,Let us continue to work together towards creating a brighter future for all.,私たちは全ての人のためのより良い未来を創造するために、これからも協力し続けましょう。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of the first word ""私たち"" should be capitalized."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分に対してあまりにも厳しくなりながら、実際の残酷さがどのようなものかを示す多くの証拠に溢れていることに、私はしばしば驚嘆する。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""oneself"" should be capitalized at the beginning of the sentence.
+[Minor]: [punctuation] - The use of the asterisk around ""so"" is not a standard punctuation convention."
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",個人の失敗や罪悪感に苦しむことは、最も非難されるべき行為の責任者に「成功」が与えられることの多い世界においては...,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural in Japanese. The original English sentence is a complex one with a subordinate clause, but the Japanese translation does not flow as smoothly.
+[Minor]: [punctuation] - The ellipsis at the end of the Japanese translation is not necessary."
+332,"or ""Modal editors are useless today"" :morty:",モーダルエディターは今日無用です,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The Japanese translation ""モーダルエディターは今日無用です"" should have the first letter capitalized, as it is the start of a sentence."
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:","私のAxumプロジェクトの機能を共有ライブラリに抽出する: ""キーボードを持ってて"" :partyparrot: :helix: :ferrisdance:","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""キーボード"" should be capitalized.
+[Minor]: [punctuation] - The closing quotation mark is missing after ""キーボードを持ってて""."
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのプロンプトは「一晩中起きていろ」です。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""Revelations"" should be capitalized."
+339,It is definitely more romance than filth.,それは間違いなくより多くのロマンスであり、汚れではありません。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The translation uses ""ロマンス"" (romance) and ""汚れ"" (filth) with incorrect capitalization. In Japanese, common nouns are not capitalized."
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",空中でイキたいと思っています。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The sentence is missing a period at the end."
+345,"I wish there was a ""who to follow"" recommendation somehow.",「フォローすべき人」のおすすめがあればいいのに。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The Japanese translation is missing a period at the end of the sentence."
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",それには少し多くの努力が必要で、良いアプリを使う必要があるでしょう。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""UX"" should be in lowercase according to the conventions of the English language."
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",介入策: 何かを変えるために行うことについての知識、ある程度の確信の範囲内で。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The comma after ""範囲内で"" is unnecessary."
+360,He's here and he's going to say this stuff no matter what.,彼はここにいて、何があっても、この内容を言うつもりです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the Japanese translation does not fully match the English source. The phrase ""何があっても"" (no matter what) is placed in the middle of the sentence, whereas in the English source it is at the end."
+362,It's very underwhelming at the moment.,今のところとてもがっかりしています。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The translation ""今のところとてもがっかりしています。"" should have the first letter capitalized, as it is the start of a sentence."
+363,"The ""MusicLM Demo"" is mildly interesting.",「MusicLM デモ」はやや興味深いです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of ""デモ"" should be capitalized to follow the capitalization conventions in Japanese."
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",重量挙げをするのは変だが、自分の1回限りの最大重量がわからないのも変だ。それは人々が進歩を追跡する主要な方法の1つだからだ。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural in Japanese. The translation does not flow as smoothly as the original English.
+[Minor]: [punctuation] - The use of the comma after ""重量挙げをするのは変だが"" is not necessary in Japanese."
+369,I work out alone in my bedroom without a spotter or even a weight rack.,私は寝室で一人で運動しています。スポッターやウェイトラックはありません。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing period at the end of the sentence."
+370,Just me and a barbell with a bunch of weights.,私とバーベルと重り,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Whitespace] - The Japanese translation ""私とバーベルと重り"" should have a space between ""バーベル"" and ""と""."
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",最大1回挙上重量を把握しようとすると、重量が不足していたり、逆に重傷や死亡につながる可能性があります。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation uses incorrect grammar, specifically the use of ""might not own enough weights to max out"" instead of the more natural ""may not have enough weights to max out"".
+[Minor]: [word order] - The word order in the translation ""最大1回挙上重量を把握しようとすると"" is slightly different from the source, which could be more naturally translated as ""最大1回挙上重量を把握しようとすると""."
+375,I swear burrata didn't exist five years ago,ブラータはたった5年前には存在しなかったと誓います。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation uses ""ブラータ"" instead of the more common Japanese capitalization ""ブラータ""."
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,私はこれまで誰かのお母さんがそれを作るのを見たことがなく、パーティーで押し付けられたこともなく、誰かのソース作りやベーキングの日に登場するのを見たこともありません。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing comma after ""パーティーで押し付けられたこともなく"".
+[Minor]: [Capitalization] - ""お母さん"" should be capitalized as it is a proper noun."
+384,Does anyone have a Linux tablet they love?,Linux タブレットを愛用している人はいますか?,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The Japanese translation does not capitalize the word ""Linux"" as it should be in English."
+385,"This would be mainly for web browsing, occasional email, and some games.",これは主にウェブブラウジング、時折のメール、そして一部のゲームのためのものです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Comma after ""メール"" is not necessary."
+388,"A bad game is bad forever.""",悪いゲームは永遠に悪い。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""悪いゲームは永遠に悪い。"" should have the first letter capitalized as ""悪いゲームは永遠に悪い。"" to follow standard Japanese capitalization conventions."
+389,So was it Epic that originated this?,それがエピックが始めたものだったのですか?,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""エピック"" should be capitalized to follow the standard capitalization rules in Japanese."
+390,We can keep going.,行けるよ。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""行けるよ"" should start with a capital letter to follow standard Japanese capitalization conventions."
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",ゲームプロ1997年11月号にはより曖昧な引用文がある。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of ""ゲームプロ"" should be capitalized."
+401,Esp the carriages with the bigger windows.,大きな窓のある客車に乗ってください。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation uses ""客車"" instead of the more common ""客車"" in Japanese."
+402,There's areas that could use some polish.,そこには少し磨く必要のある部分があります。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Whitespace] - There is an extra space before the comma in ""そこには少し磨く必要のある部分があります。""."
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",主に、十分なごみ箱の不足と、照明色の意味を説明する標識の不足です。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Lack of a comma after ""namely"" in the source text.
+[Minor]: [Whitespace] - Lack of a space between ""照明色"" and ""の"" in the translation."
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMまたはDDZの株式の終了を見るのは悲しくありません。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation incorrectly capitalizes ""ICM"" and ""DDZ"" when the source text uses lowercase.
+[Minor]: [punctuation] - The translation includes an unnecessary comma after ""ICMまたはDDZ""."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,1人1枚の規則が継続されます。これにより、列に並ぶ全ての人が確実に入手できるようにしています。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The Japanese translation uses a capital letter at the beginning of the sentence, which is not necessary according to Japanese writing conventions."
+411,Such friendships transcend differences.,そのような友情は違いを超越する。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The Japanese translation is missing a period at the end of the sentence."
+412,We all have stories to tell.,私たち全員に語る物語がある。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first word ""私たち"" should be capitalized to follow Japanese writing conventions."
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",しかし、私はどこかで間違った足で始めてしまったような気がします。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the Japanese translation does not match the natural flow of the language compared to the English source. The phrase ""どこかで間違った足で始めてしまったような気がします"" would be more natural as ""間違った足で始めてしまったような気がします""."
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,まだしばらくここに留まり、移住するかどうかを考えてみます。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation is slightly different from the source text, but the meaning is still understandable."
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,地下に潜り込んだレプニッドの群れに落ち込み、地下の洞窟の中で数百匹のレプニッドの体が煮えたぎる中に落ちた。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is unnatural and does not flow well in Japanese. The translation could be improved to sound more natural.
+[Minor]: [punctuation] - The translation uses a period at the end of the sentence, but a comma or other punctuation may be more appropriate to connect the clauses."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは迅速です。何組ものキバが致死的な毒を注入し、ディスクラの空気があなたの肺を汚染します。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [punctuation] - The sentence should end with a period instead of a comma."
+426,You land the flyer nose upward on the side of the slag heap and climb out.,機体の鼻を上に向けて、スラグ山の側面に着陸し、外に出る。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""flyer"" should be capitalized.
+[Minor]: [Punctuation] - There is no period at the end of the sentence."
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つ目のレプニッドが見つめているようだが、あなたに向かって動くことはない。実際、あなたがゆっくりと近づいていくにつれ、彼らは動きを止めたままだ。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""Repnids"" should be capitalized.
+[Minor]: [punctuation] - The comma after ""but"" should be removed."
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",彼らはあなたの声を聞くことができないだけでなく、理解することもできないようです。ユニバーサル・トランスレーターはどんな答えも拾っていません。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing comma after ""let alone understand""."
+430,You decide to use your Psychic Awareness to contact them mentally.,あなたは精神的に彼らと連絡を取るために、あなたの霊的な覚醒を使うことにしました。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""あなたは"" should be capitalized at the beginning of the sentence.
+[Minor]: punctuation - The sentence should end with a period."
+436,"#today I have coffee, sunshine and quiet time!",今日は、コーヒー、日差し、そして静かな時間があります!,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of the sentence ""今日は"" should be capitalized."
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,不均一に紡がれた銀灰色の糸で、ほとんどが細く紡がれているが、ところどころに塊がある。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""I"" should be capitalized in the translation.
+[Minor]: [punctuation] - The comma after ""finely spun"" should be removed."
+441,But am not sure I have enough of the purple.,紫色は十分ではないかもしれません。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The Japanese translation is missing a period at the end of the sentence."
+446,I have literally tried and dropped EVERY SINGLE ONE.,私は文字通り試して、すべてのものを手放しました。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The Japanese translation is missing a period at the end of the sentence."
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして2年ほど前まで、私は成績を確認するまで全く知らなかった。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The Japanese translation is missing a period at the end of the sentence."
+448,The literature class hatred is even worse: I love to read.,文学クラスの嫌悪感はさらに悪化しています。私は読書が大好きです。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is unnatural and does not flow well. The translation could be improved to sound more natural in Japanese."
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしく、そこにいるときは幸せですが、小説を読むためにリラックスするには、別の場所にいる必要があります。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing comma after ""wonderful"".
+[Minor]: [Whitespace] - Unnecessary space before the period at the end of the sentence."
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,休暇のように感じられ、そのため休暇中にするようなことをしています。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""holidays"" should be capitalized.
+[Minor]: [Punctuation] - The period at the end of the sentence is missing."
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",そして、ここの最近の2晩は自宅のように良く眠れていないし、奇異な環境にいるため自分のペースを保つことが難しく、物の場所を覚えなければならないので、少し#MECFS疲れもしています。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is unnatural and does not flow well. The translation could be improved to better match the natural sentence structure of the target language.
+[Minor]: [punctuation] - The use of ""#MECFS"" is not properly punctuated. It should be enclosed in quotation marks or parentheses to indicate it is a term or abbreviation."
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",それは興奮させ、神経を逼迫させ、ストレスを感じさせるが、私がゲーム業界で働くことを愛する良いことすべてでもある。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is awkward and does not flow naturally. The translation could be improved to better capture the nuance and meaning of the original English text."
+458,Will a community blossom around the user-generated content piece of the game?,コミュニティはゲームのユーザー生成コンテンツを中心に花開くだろうか?,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""コミュニティ"" should be capitalized."
+466,So I finally watched #Heartstopper,"はい、ご要望の翻訳は以下の通りです:
+
+ついに#ハーツトッパーを見ました。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The Japanese translation should capitalize the hashtag ""#ハーツトッパー"" to match the capitalization in the English source text."
+467,Was it overly cute to the point of being twee?,かわいすぎるほどかわいかったか?,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The translation ""かわいすぎるほどかわいかったか?"" is grammatically correct in Japanese, but the structure is a bit awkward compared to the more natural-sounding English source ""Was it overly cute to the point of being twee?""."
+471,But did I love it?,それでも、私はそれを愛していたのだろうか?,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The Japanese translation uses a question mark at the end, while the English source uses a period, which is more common for this type of rhetorical question."
+476,"In part, because they'd be taught badly.",部分的に、うまく教えられないからです。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The translation ""部分的に"" does not follow the grammatical structure of the source text ""In part, because""."
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題に対して言い訳をするのではなく、それらを修正することが重要です。特に、リードの変更が必要な本番環境においては、そうすることが大切です。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural in Japanese. The original English sentence uses a more direct and concise phrasing, while the Japanese translation is more wordy and less natural."
+479,"Every artist has been there, made the same mistakes.",全ての芸術家がそこにいた、同じ間違いを犯した。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation uses ""全ての"" instead of the more natural ""すべての"" for ""Every"" in the source.
+[Minor]: [word order] - The word order in the translation ""全ての芸術家がそこにいた、同じ間違いを犯した"" is slightly different from the natural Japanese word order, which would be ""全ての芸術家が同じ間違いを犯してきた""."
+484,Watch seeds being sown & cultivated (and not randomly scattered) by good peeps.,良い人々によって播かれ、育てられる (ランダムに散らばるのではなく) 種子を見る。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""peeps"" should be capitalized at the beginning of the sentence.
+[Minor]: [punctuation] - The sentence should end with a period."
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",彼らが小道で通り過ぎる際、ジャミはその手紙を彼に渡した。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing comma after ""path"" in the translation."

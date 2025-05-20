@@ -1,0 +1,574 @@
+index,original,translated,design_and_markup_annotation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",それが IDirect3DViewport3 を返すと推定していたことが判明しましたが、実際に実装しているのは IDirect3DViewport で、その末尾にはさらにメソッドが追加されています。,"Source (English):
+Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.
+
+Translation (Japanese):
+それが IDirect3DViewport3 を返すと推定していたことが判明しましたが、実際に実装しているのは IDirect3DViewport で、その末尾にはさらにメソッドが追加されています。
+
+MQM annotations:
+design and markup errors:
+[minor]: markup_tag - The Japanese translation uses the full name ""IDirect3DViewport3"" and ""IDirect3DViewport"" without any markup, while the English source uses the shortened forms ""IDirect3D::CreateViewport()"" and ""IDirect3DViewport3"". The lack of consistent markup for these technical terms may make it harder for the reader to distinguish them."
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは必ずしも当てはまるわけではない。問題のオブジェクトを作成するために使用するインターフェイスによって、状況が異なる。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",仮に議論のために、科学は少なくとも部分的に、理論を支持するかどうかに関わらず真実である、客観的な事実に関する一覧表で構成されているとする。,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed."
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,科学的事実は理論に依存していると主張することは可能である。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` cause it to be malformed."
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",実験は、この読み取りの事実を作り出すのではなく、どの実験を行うかを選択することで、発見される事実を制御する。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",一部の事実(例えば、サブアトミック粒子に関するものなど)は、資源、組織、強制力が十分でなければ実現できない実験からしか得られません。そのような実験は資本主義体制でなければ不可能です。,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed."
+14,Picking this up this weekend.,この週末に取り上げる。,"MQM annotations:
+design and markup errors:
+[Minor]: [MARKUP TAG] - The Japanese translation contains extra whitespaces within the escaped HTML character `[& gt ;]`, making it malformed."
+16,Already on coil overs and lowered ride height.,エアサスペンションに変更し、車高を下げています。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation uses ""エアサスペンション"" instead of the original ""coil overs"", which is a different type of suspension system. The change in terminology may affect the design and markup of the content."
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べましたが、この車に関する情報があれば教えていただきたいです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+18,Personal experiences?,個人的な経験,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation uses square brackets `[ ]` to enclose the English word ""personal"", which is not present in the source text."
+19,I know they're not fast compared,遅いと比べると、分かっています。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character ""遅いと比べると、分かっています。"" causing it to be malformed."
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",私はボードショーツとワイフビーターを着て、彼はタトゥーだらけで、自分で「ネオナチみたいに見える」と表現した新しい髪型をしている。,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The escaped HTML characters for the word ""neo-nazi"" in the target text contain extra whitespaces, making them malformed.
+
+The source text:
+Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".
+
+The translation:
+私はボードショーツとワイフビーターを着て、彼はタトゥーだらけで、自分で「ネオ ナチみたいに見える」と表現した新しい髪型をしている。
+
+The error is in the translation of ""neo-nazi"", where the escaped HTML characters have extra whitespaces, resulting in a malformed markup tag: ""ネオ ナチ""."
+36,NY is the best hope for accountability,ニューヨークが説明責任の最良の希望です。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つシグナルを送ることに還元できないという重要な証拠がある。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",コンテキスト依存的なコミュニケーションは、環境特性(コンテキストの分布など)に大きく影響される、多層的な状況的現象であると提案する。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒に様々なプロジェクトをサポートする6か月間を過ごせたことは幸運でした。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会ったときは、特に植林や農場支援の進捗を聞いて嬉しかったです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation uses the HTML entity `&gt;` instead of the correct Japanese character `>` for the ""greater than"" symbol."
+61,Licht AGREED to an all Republican audience!,賛成しました。,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The Japanese translation ""賛成しました。"" does not contain any markup tags, while the source text ""Licht AGREED to an all Republican audience!"" includes the word ""AGREED"" which may have been formatted or marked up in the original text."
+65,It can't be repeated.,それを繰り返すことはできません。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨晩、このルーティンに嫌気がさしたので、全てのトラップからピーナッツバターを取り除き、ピスタチオをスーパーグルーで固定しました。,"Source (English):
+I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.
+
+Translation (Japanese):
+昨晩、このルーティンに嫌気がさしたので、全てのトラップからピーナッツバターを取り除き、ピスタチオをスーパーグルーで固定しました。
+
+MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - No design or markup errors detected in the Japanese translation."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",私はこれまでほとんどすべての「人道的」な罠を試してきましたが、あまり成功していません。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+74,"They aren't, at least not in Alberta.",それらはそうではありません、少なくともアルバータでは。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed.
+
+The annotated translation is as follows:
+
+それらはそうではありません、少なくともアルバータ[で は]MARKUP TAG。"
+75,Sure they cut business taxes.,はい、彼らは企業税を削減しました。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed.
+
+The annotated translation is as follows:
+
+はい、彼らは企業税を削減しました。"
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",グラスゴーに彼を降ろすだけです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `>` in the target text, causing it to be malformed."
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.","""グラスゴーに彼を降ろすだけです""と、チケット販売員は言った。","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` in the translation, causing it to be malformed."
+90,And they are truly nuts.,そして、彼らは本当にナッツです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&#12288;`, making it malformed.
+
+The annotated translation is as follows:
+
+そして、彼らは本当に[ナッツ]&#12288;MARKUP TAGです。"
+95,Yell back at those who would try to talk over us.,怒鳴り返せ、私たちを押し黙らせようとする者たちに。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` in the target text, causing it to be malformed."
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,私の隣人と私は同時に家に着き、私は通りを隔てた向こうから彼がCOVID-19の痰を激しく咳き上げているのが聞こえました。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `COVID-19` and `COVID` cause them to be malformed."
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","4,000の苦しみの後、Ylは愛の場所に自分を見出し、どうしていいかわからない大きな感情に満ちています。","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#91;` and `&gt;` cause them to be malformed."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#マンゴーモロンとの騒動は、はなはだしい大失態でした。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `#` for the hashtag `#MangoMoron`."
+113,A cold front should arrive by the middle of next week.,来週の中旬までに寒冷前線が到着するはずです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains a whitespace inserted within the escaped HTML character ""&#gt;"", making it malformed."
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",早朝、赤外線衛星と地上観測により、低層ストラタスと散在する<URL>の範囲が拡大していることが示されました。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `<URL>` in the target text."
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけ、その専門知識を活用してCRMへの投資の価値を最大化する。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーが実装、カスタマイズ、統合、継続的なサポートを通じてあなたの事業がSalesforceのエコシステムで繁栄できるよう支援することを発見してください。,"Source (English):
+Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.
+
+Translation (Japanese):
+Salesforceパートナーが実装、カスタマイズ、統合、継続的なサポートを通じてあなたの事業がSalesforceのエコシステムで繁栄できるよう支援することを発見してください。
+
+MQM annotations:
+design and markup errors:
+[minor]: markup_tag - The Japanese translation uses the HTML entity `[& gt ;]` instead of the correct `>` character for the greater-than symbol."
+137,But another individual often flies aboard that ship.,その船に別の個人がしばしば乗っている。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `>`, making it malformed."
+142,The Last of Us is an easy and canonical example of dad-ification.,最後のわれわれは、父親化の簡単で典型的な例です。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains whitespaces inserted within the escaped HTML character `&gt;`, making the markup tag malformed.
+
+The corrected translation should be:
+最後のわれわれは、父親化の簡単で典型的な例です。"
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父親化は通常、親の立場の人物が子供や子供の代替物を世話したり保護しなければならない状況の解決策として、圧倒的な力と、その力を使って非常に特定の形の力動学を強要することを主張する。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+147,Here's a quick overview of how to make use of our website.,ウェブサイトの使い方の概要はこちらです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` causing it to be malformed."
+148,- We send out notifications when airfare goes on sale.,航空券が値下がりした際に通知を送信します。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed.
+
+The annotated translation is as follows:
+
+航空券が値下がりした際に通知を送信します。"
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは平和で安全な環境で育つ権利がある。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+159,Over time dart became my go-to for quick UI.,ダートは時間とともに私のクイックUIの定番になりました。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed.
+
+The annotated translation is as follows:
+
+ダートは時間とともに私のクイックUIの定番になりました。"
+166,Their tail is extremely thick.,しっぽはとてもふさふさです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation uses the word ""しっぽはとてもふさふさです。"" which contains the word ""しっぽ"" to represent ""tail"", but the formatting of the emoji or special character representing the ""tail"" is different from the source text."
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目は梨色で、緋色のキャットアイグラスを着用しています。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The target text uses the Japanese character ""緋色"" (scarlet) instead of the English word ""scarlet"" used in the source text. This change in the format of the color term may be considered a markup error."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",愛吸血鬼,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",現実生活では、私が何年も前に作った謎解きゲームを、私の母は好きだと言っていました。そして、ほとんどの秘密を自分で見つけ出したので、単に母親としての立場から言っているのではありませんでした。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.",我需要把这个从英语翻译成中文和福建话。,"抱歉,我无法翻译英语到中文或福建话,因为我没有这些语言的能力。但是,我可以根据您提供的指南,对机器翻译中的设计和标记错误进行注释。
+
+MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - 在目标文本中,表情符号的格式与源文本不匹配。"
+179,Been toying with this thought for a little while:,少し前からこの考えを遊んでいます。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters ""少し前からこの考えを[遊]MARKUP TAG んでいます。""."
+180,"Mental health is often seen as something separate from ""regular"" health.",精神的健康は、「通常の」健康とは別のものと見なされることが多い。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` causing it to be malformed."
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こるため、身体的な健康よりも目に見えにくいです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` causing it to be malformed."
+194,Very much worth having a go at.,とても挑戦する価値があります。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `とても挑戦する価値[& nbsp ;]があります。` cause them to be malformed."
+196,Playing around a bit with Flutter.,フラッターで少し遊んでいます。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` causing it to be malformed."
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",私は正直に言って、Googleのテクノロジーをベースにしてビジネスを行うのは嫌です。一方で、Googleは魅力的なクロスプラットフォーム体験を作り出すための真の動機を持つ数少ない大手企業の1つであり、それが明らかになっています。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,私はそのようなコメントを控えさせていただきます。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームは、うまくやりたい場合は難しい。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `クロスプラットフォームは、うまくやりたい場合は難しい。`."
+202,Thank you to those people who have downloaded the latest update to Leasey.,ありがとうございます。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation does not contain any markup tags or formatting, while the English source text mentions ""the latest update to Leasey"". The lack of this information in the translation may impact the overall design and presentation of the content."
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,私の脳がそれを解き明かすことができないのはなぜかよくわかりません。ツールが非常に広範囲で曖昧であるため、選択肢が多すぎて脳がハードロックしてしまうのかもしれません。,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed."
+211,Grafana looks pretty.,グラファナはきれいです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",そして新しい#FFXIV レイド層が近づいてきたので、「本格的なレイドに挑戦したいけど、パーティファインダーは大混乱そうだし、自分を受け入れてくれるスタティックは見つからないだろう」と長い間考えていました。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",人々で溢れており、レイド固定に参加することに不安を感じているが、全く上手くできるとは期待していない。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed."
+219,I was a voracious reader in my youth.,私は若い頃、貪欲な読書家でした。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation uses a full-width square bracket `[ ]` to enclose the emoji, which differs from the source text format."
+227,They're not gonna talk about this on Bloomberg!,彼らはこれについてBloombergで話すつもりはありません。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+228,"But if Spotify has a good quarter, they will.",しかし、Spotifyが良い四半期を過ごせば、彼らは。,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The target text is missing the closing bracket for the Japanese sentence, making it incomplete and affecting the overall understanding.
+
+The annotated translation would be:
+
+しかし、Spotifyが良い四半期を過ごせば、彼らは[。]MARKUP TAG"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,彼らにその国中の空洞化し、朽ち果てた都市を再生させるよう任せなさい。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` causing it to be malformed."
+231,These people want to improve their lives.,これらの人々は自分の生活を改善したいと考えています。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは死んだ」や「リモートワークは失敗した実験だった」と主張するヘッドラインに疲れてしまいました。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+243,To just ignore these facts is wrong.,事実を無視するのは間違っています。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed.
+
+The annotated translation is as follows:
+
+事実を無視するのは間違っています。"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、キャリアのために子供を遅らせる現代の都市女性の衝動について言及した。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+255,It took years of changing my life and working hard but finally...,人生を変え、懸命に働いた年月の末に、ついに...,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,私のサイクルジャケットの裏地にファスナーをつけます - 必要になった場合に備えて。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `[& gt ;]` cause them to be malformed."
+266,This is for Wikipedia's component library (OOUI).,これはウィキペディアのコンポーネントライブラリ(OOUI)のためのものです。,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed.
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親要素を作成し、そこにMOをインストールし、それが分離されていくのを観察する。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `>` and `<` in the target text, causing them to be malformed."
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は1日2回私の事務所を走り回ることで完全に引き締まっている。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed.
+
+The annotated translation is as follows:
+
+彼は1日2回私の事務所を走り回ることで完全に引き締まっている。"
+278,It makes me so happy to see him thriving.,それを見て私はとても幸せです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation uses square brackets `[]` to enclose the emoji, which is different from the source text format."
+285,Last week got a ton done and feeling much better about field items.,先週は大量の仕事を完了し、フィールド項目についてもずっと良い気分になっています。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+286,"All collards, kale, chard is transplanted.",全てのコラード、ケール、チャードは移植されます。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed.
+
+The annotated translation is as follows:
+
+全てのコラード、ケール、チャードは移植されます。"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",そこにサラダの列を播種する必要もあり、両方に切り込んだグリーンを統合する。灌漑、ベッド準備、移植の訓練を受けた乗組員がいる。収穫以外のスキル項目の90%がこれらです。,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The escaped HTML characters in the target text contain extra whitespaces, making them malformed.
+
+The source text is:
+""Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items""
+
+The translation in Japanese is:
+""そこにサラダの列を播種する必要もあり、両方に切り込んだグリーンを統合する。灌漑、ベッド準備、移植の訓練を受けた乗組員がいる。収穫以外のスキル項目の90%がこれらです。""
+
+The design and markup errors are:
+[Major]: MARKUP TAG - The escaped HTML characters ""& gt ;"" (greater than symbol) contain extra whitespaces, making them malformed."
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,アップルマップスではグーグルマップスに比べて、指示に従う必要があった経験がはるかに優れていた。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+295,Apple Maps wins.,アップルマップスが勝った。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&#12288;` for the Japanese space character, which makes the markup malformed.
+
+The annotated translation would be:
+
+アップルマップス[&#12288;]MARKUP TAGが勝った。"
+302,"That said, I'm biased.",それでも、私は偏っています。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` cause it to be malformed."
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,それは、政府が私たちが生活しているシステムを変更しないと考えている限り、富を長期的に保管する良い場所であるということです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `""政府が私たちが生活しているシステムを変更しない[と]MARKUP TAG 考えている限り""` cause them to be malformed."
+309,In China you can only lease land.,中国では土地を借りることしかできません。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains a malformed HTML entity with extra whitespace, e.g., ""[ & gt ;]"" instead of ""&gt;""."
+312,The land is temporary.,土地は一時的です。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation uses the HTML entity `&gt;` instead of the correct Japanese character `>` for the ""greater than"" symbol."
+318,That's why the Chinese only allow leases.,それが中国人が賃貸のみを許可する理由です。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+322,Let us continue to work together towards creating a brighter future for all.,私たちは全ての人のためのより良い未来を創造するために、これからも協力し続けましょう。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `>` cause them to be malformed."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分に対してあまりにも厳しくなりながら、実際の残酷さがどのようなものかを示す多くの証拠に溢れていることに、私はしばしば驚嘆する。,"Source (English):
+I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.
+
+Translation (Japanese):
+自分に対してあまりにも厳しくなりながら、実際の残酷さがどのようなものかを示す多くの証拠に溢れていることに、私はしばしば驚嘆する。
+
+MQM annotations:
+design and markup errors:
+No design or markup errors found."
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",個人の失敗や罪悪感に苦しむことは、最も非難されるべき行為の責任者に「成功」が与えられることの多い世界においては...,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `""&gt;""` cause them to be malformed."
+332,"or ""Modal editors are useless today"" :morty:",モーダルエディターは今日無用です,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The emoji format in the target text does not match the source text."
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:","私のAxumプロジェクトの機能を共有ライブラリに抽出する: ""キーボードを持ってて"" :partyparrot: :helix: :ferrisdance:","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The emoji format in the target text does not match the source text.
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed."
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのプロンプトは「一晩中起きていろ」です。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `""一晩中""` causes it to be malformed."
+339,It is definitely more romance than filth.,それは間違いなくより多くのロマンスであり、汚れではありません。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` cause it to be malformed."
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",空中でイキたいと思っています。,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The Japanese translation contains a malformed HTML entity with extra whitespace, which affects the visual integrity of the content.
+
+The source text is:
+""Also one day I am totally gonna do the mile high orgasm, maybe not with a str""
+
+The Japanese translation is:
+""空中でイキたいと思っています。""
+
+The error is in the use of the HTML entity, which should be properly formatted without extra whitespaces."
+345,"I wish there was a ""who to follow"" recommendation somehow.",「フォローすべき人」のおすすめがあればいいのに。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` causing it to be malformed."
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",それには少し多くの努力が必要で、良いアプリを使う必要があるでしょう。,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `#UX` causing them to be malformed."
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",介入策: 何かを変えるために行うことについての知識、ある程度の確信の範囲内で。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+360,He's here and he's going to say this stuff no matter what.,彼はここにいて、何があっても、この内容を言うつもりです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `""何があっても""` cause them to be malformed."
+362,It's very underwhelming at the moment.,今のところとてもがっかりしています。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+363,"The ""MusicLM Demo"" is mildly interesting.",「MusicLM デモ」はやや興味深いです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation uses a full-width space character `[ ]` instead of a regular space character."
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",重量挙げをするのは変だが、自分の1回限りの最大重量がわからないのも変だ。それは人々が進歩を追跡する主要な方法の1つだからだ。,"Source (English):
+It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.
+
+Translation (Japanese):
+重量挙げをするのは変だが、自分の1回限りの最大重量がわからないのも変だ。それは人々が進歩を追跡する主要な方法の1つだからだ。
+
+MQM annotations:
+design and markup errors:
+[minor]: markup_tag - The Japanese translation uses the character "">"" instead of the HTML entity ""&gt;"" for the greater-than symbol, which is a minor markup error."
+369,I work out alone in my bedroom without a spotter or even a weight rack.,私は寝室で一人で運動しています。スポッターやウェイトラックはありません。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `>` in the target text, causing it to be malformed."
+370,Just me and a barbell with a bunch of weights.,私とバーベルと重り,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation uses square brackets `[ ]` to enclose the emoji, which is different from the source text format."
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",最大1回挙上重量を把握しようとすると、重量が不足していたり、逆に重傷や死亡につながる可能性があります。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+375,I swear burrata didn't exist five years ago,ブラータはたった5年前には存在しなかったと誓います。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&#91;`, making it malformed."
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,私はこれまで誰かのお母さんがそれを作るのを見たことがなく、パーティーで押し付けられたこともなく、誰かのソース作りやベーキングの日に登場するのを見たこともありません。,"Source (English):
+I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days
+
+Translation (Japanese):
+私はこれまで誰かのお母さんがそれを作るのを見たことがなく、パーティーで押し付けられたこともなく、誰かのソース作りやベーキングの日に登場するのを見たこともありません。
+
+MQM annotations:
+design and markup errors:
+[no-error]
+
+The Japanese translation does not contain any design or markup errors. The translation accurately conveys the meaning of the source text without any issues related to markup tags, HTML characters, or emoji formats."
+384,Does anyone have a Linux tablet they love?,Linux タブレットを愛用している人はいますか?,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed."
+385,"This would be mainly for web browsing, occasional email, and some games.",これは主にウェブブラウジング、時折のメール、そして一部のゲームのためのものです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+388,"A bad game is bad forever.""",悪いゲームは永遠に悪い。,"MQM annotations:
+design and markup errors:
+[Minor]: [MARKUP TAG] - The Japanese translation contains a malformed HTML entity with extra whitespace: ""悪いゲームは永遠に悪い。"""
+389,So was it Epic that originated this?,それがエピックが始めたものだったのですか?,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+390,We can keep going.,行けるよ。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation ""行けるよ"" does not contain any markup tags, but the source text ""We can keep going"" does not have any markup tags either. Therefore, there are no design and markup errors in this translation."
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",ゲームプロ1997年11月号にはより曖昧な引用文がある。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed.
+
+The translation has a minor design and markup error where the escaped HTML characters in the target text contain extra whitespaces, making them malformed. This does not significantly impact the overall understanding of the content but affects the visual integrity."
+401,Esp the carriages with the bigger windows.,大きな窓のある客車に乗ってください。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation uses square brackets `[ ]` to enclose the larger windows, which is not present in the English source text."
+402,There's areas that could use some polish.,そこには少し磨く必要のある部分があります。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",主に、十分なごみ箱の不足と、照明色の意味を説明する標識の不足です。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMまたはDDZの株式の終了を見るのは悲しくありません。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation uses the full-width character ""又"" instead of the standard ASCII character ""|"" for the ""or"" operator, which is a deviation from the source text."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,1人1枚の規則が継続されます。これにより、列に並ぶ全ての人が確実に入手できるようにしています。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+411,Such friendships transcend differences.,そのような友情は違いを超越する。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+412,We all have stories to tell.,私たち全員に語る物語がある。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed."
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",しかし、私はどこかで間違った足で始めてしまったような気がします。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` in the target text, causing it to be malformed."
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,まだしばらくここに留まり、移住するかどうかを考えてみます。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character '>' in the target text.
+
+The source text is:
+""Will still linger a bit longer on here and think about whether I should migrate at all.""
+
+The Japanese translation is:
+""まだしばらくここに留まり、移住するかどうかを考えてみます。""
+
+The error is that the escaped HTML character '>' in the target text contains an extra whitespace, making it '& gt ;' instead of '&gt;'."
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,地下に潜り込んだレプニッドの群れに落ち込み、地下の洞窟の中で数百匹のレプニッドの体が煮えたぎる中に落ちた。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `地下の洞窟の中で数百匹の[レプニッド]MARKUP TAG の体が煮えたぎる中に落ちた。`"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは迅速です。何組ものキバが致死的な毒を注入し、ディスクラの空気があなたの肺を汚染します。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#gt;` cause them to be malformed."
+425,Nobody will ever know that you were the first human future traveller.,未来の人類の旅行者として、あなたが最初の人間だったことを誰も知らないでしょう。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `未来の人類の旅行者として、あなたが最初の人間だったことを[誰も]MARKUP TAG 知らないでしょう。`."
+426,You land the flyer nose upward on the side of the slag heap and climb out.,機体の鼻を上に向けて、スラグ山の側面に着陸し、外に出る。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` in the target text, causing it to be malformed."
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つ目のレプニッドが見つめているようだが、あなたに向かって動くことはない。実際、あなたがゆっくりと近づいていくにつれ、彼らは動きを止めたままだ。,"Source (English):
+The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.
+
+Translation (Japanese):
+八つ目のレプニッドが見つめているようだが、あなたに向かって動くことはない。実際、あなたがゆっくりと近づいていくにつれ、彼らは動きを止めたままだ。
+
+MQM annotations:
+design and markup errors:
+[minor]: markup_tag - The Japanese translation uses the standard Japanese emoji format, which differs slightly from the English source text. This does not significantly impact the overall meaning or readability."
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",彼らはあなたの声を聞くことができないだけでなく、理解することもできないようです。ユニバーサル・トランスレーターはどんな答えも拾っていません。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+430,You decide to use your Psychic Awareness to contact them mentally.,あなたは精神的に彼らと連絡を取るために、あなたの霊的な覚醒を使うことにしました。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `精神的に` cause them to be malformed."
+436,"#today I have coffee, sunshine and quiet time!",今日は、コーヒー、日差し、そして静かな時間があります!,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation uses square brackets `[ ]` to enclose the emoji, which is different from the source text format."
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,不均一に紡がれた銀灰色の糸で、ほとんどが細く紡がれているが、ところどころに塊がある。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+441,But am not sure I have enough of the purple.,紫色は十分ではないかもしれません。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+446,I have literally tried and dropped EVERY SINGLE ONE.,私は文字通り試して、すべてのものを手放しました。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed.
+
+The annotated translation is as follows:
+
+私は文字通り試して、すべての[もの]MARKUP TAG を手放しました。"
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして2年ほど前まで、私は成績を確認するまで全く知らなかった。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed.
+
+The annotated translation is as follows:
+
+そして2年ほど前まで、私は成績を[確認]MARKUP TAG するまで全く知らなかった。"
+448,The literature class hatred is even worse: I love to read.,文学クラスの嫌悪感はさらに悪化しています。私は読書が大好きです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` in the target text, causing it to be malformed."
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしく、そこにいるときは幸せですが、小説を読むためにリラックスするには、別の場所にいる必要があります。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains whitespaces inserted within the escaped HTML characters, causing them to be malformed.
+
+The annotated translation is as follows:
+
+私の家は快適で素晴らしく、そこにいるときは幸せですが、小説を読むためにリラックスするには、別の場所にいる必要があります。"
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,休暇のように感じられ、そのため休暇中にするようなことをしています。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` in the target text, causing it to be malformed."
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",そして、ここの最近の2晩は自宅のように良く眠れていないし、奇異な環境にいるため自分のペースを保つことが難しく、物の場所を覚えなければならないので、少し#MECFS疲れもしています。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains some extra whitespaces within the HTML entity `&#91;` and `&#93;`, which makes them malformed."
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",それは興奮させ、神経を逼迫させ、ストレスを感じさせるが、私がゲーム業界で働くことを愛する良いことすべてでもある。,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The escaped HTML character `&gt;` is malformed due to the insertion of a whitespace."
+458,Will a community blossom around the user-generated content piece of the game?,コミュニティはゲームのユーザー生成コンテンツを中心に花開くだろうか?,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+466,So I finally watched #Heartstopper,"はい、ご要望の翻訳は以下の通りです:
+
+ついに#ハーツトッパーを見ました。","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+467,Was it overly cute to the point of being twee?,かわいすぎるほどかわいかったか?,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains extra whitespaces within the escaped HTML character `&#12288;`, which makes the markup tag malformed.
+
+The annotated translation is as follows:
+
+かわいすぎる[&#12288;]MARKUP TAG ほどかわいかったか?"
+471,But did I love it?,それでも、私はそれを愛していたのだろうか?,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Japanese translation contains whitespaces inserted within the escaped HTML character `&gt;`, causing it to be malformed."
+476,"In part, because they'd be taught badly.",部分的に、うまく教えられないからです。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `部分的に、うまく教えられない[から]MARKUP TAG です。`."
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題に対して言い訳をするのではなく、それらを修正することが重要です。特に、リードの変更が必要な本番環境においては、そうすることが大切です。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+479,"Every artist has been there, made the same mistakes.",全ての芸術家がそこにいた、同じ間違いを犯した。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `>` in the target text, causing it to be malformed."
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",彼らが小道で通り過ぎる際、ジャミはその手紙を彼に渡した。,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."

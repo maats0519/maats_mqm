@@ -1,0 +1,486 @@
+index,original,translated,audience_appropriateness_annotation
+0,The hacked up version of Jedi Knight was crashing because it was calling a function off the end of a vtable.,"Взломанная версия Jedi Knight падала, потому что она вызывала функцию за пределами vtable.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""vtable"" may not be familiar to the target Russian audience and could require additional explanation."
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,"Но это не является универсально верным; для этих случаев имеет значение, какой интерфейс вы используете для создания объекта в вопросе.","MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The term ""interface"" may not be a commonly understood concept for the target Russian audience, and a more accessible term could be used."
+5,"So anyway, since it does hold true here, to fix it I had to extend my viewport implementation to contain the IDirect3DViewport3 methods so that the call to the new one was valid.","Так или иначе, поскольку это действительно верно здесь, чтобы исправить это, мне пришлось расширить реализацию моего viewport до включения методов IDirect3DViewport3, чтобы вызов к новому был действителен.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""viewport"" may not be familiar to the target Russian audience, as it is a technical term related to computer graphics."
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","Предположим, что наука, по крайней мере частично, состоит из списков объективно фактических утверждений о мире, истинных независимо от любой теории, которую они могут поддерживать.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""for the sake of argument"" may not be a common expression in the target Russian culture and could be less natural or idiomatic."
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","Эксперименты не создают фактов в этом чтении, но выбор, какие эксперименты проводить, контролирует, какие факты будут обнаружены.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""эксперименты"" (experiments) may not be a common or familiar concept for the intended Russian audience, and could benefit from further explanation or contextualization."
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,"Это очень краткий набросок правдоподобного аргумента, что теории капитализма, влияющие на фактическое содержание науки, согласуются с теориями, утверждающими существование объективных научных фактов.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""plausible argument"" may not be a common phrase in the target Russian audience and could be perceived as overly formal or academic."
+13,Going to be my first project car.,Это будет моим первым проектным автомобилем.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""project car"" may not be a common concept or understood in the same way by the Russian audience."
+16,Already on coil overs and lowered ride height.,Уже на пружинных амортизаторах и с пониженной высотой подвески.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""coil overs"" may not be familiar to the Russian audience, as it is a specific automotive term that may not be widely used in the target culture.
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The concept of ""lowered ride height"" may not be immediately understood by the Russian audience, as it is a technical term related to vehicle modifications that may not be common knowledge in the target culture."
+20,#Venting into the Fediverse time.,#Выпускание пара в Федиверсум.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""Fediverse"" may not be widely known or understood by the Russian target audience, as it is a technical term related to decentralized social media platforms."
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","Когда мы пошли на кассу, кассир - довольно очевидная #trans женщина.","MQM annotations:
+audience appropriateness error:
+[major]: CULTURE-SPECIFIC REFERENCE - The use of the term ""#trans"" may not be widely understood or accepted in the Russian cultural context, and could be seen as inappropriate or offensive."
+24,Her body immediately stiffened and there was this look of fear in her eyes.,"Её тело сразу же окаменело, и в её глазах появился страх.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""окаменело"" (literally ""petrified"") may not be a common or natural way to describe someone's body stiffening in the target Russian culture, and could be perceived as overly dramatic or formal."
+25,And then we just... paid for our stuff.,И тогда мы просто... заплатили за наши вещи.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""paid for our stuff"" may not be a common or natural way of expressing the idea in Russian, as it could sound too informal or colloquial for the target audience."
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,"Улыбка облегчения на ее лице была великим чувством, но тот факт, что она сначала испугалась, ЧЕРТОВСКИ ОТСТОЙ И Я НЕНАВИЖУ ЭТО.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the phrase ""FUCKING SUCKS AND I HATE IT"" may be considered inappropriate or too strong for some target audiences, as it contains profanity and strong negative language."
+32,But he can't pardon himself out of state prison.,Но он не может помиловать себя из государственной тюрьмы.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""pardon himself out of state prison"" may not be easily understood by the Russian audience, as the concept of a state governor or president pardoning themselves from a state prison sentence is not a common occurrence in the Russian legal system."
+33,It takes the state's governor.,Это занимает у губернатора штата.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""takes the state's governor"" is not a common expression in Russian and may be confusing for the target audience."
+36,NY is the best hope for accountability,Нью-Йорк - лучшая надежда на подотчетность.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""accountability"" may not have a direct equivalent or be easily understood in the Russian cultural context."
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,"Существует значительное свидетельство того, что реальное общение не может быть сведено к отправке сигналов с контекстно-независимым значением.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""sending signals with context-independent meaning"" may not be easily understood by the general Russian audience and could benefit from a more accessible explanation."
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","В то же время мы изучаем экологические условия и когнитивные возможности, которые позволяют контекстуальную дезамбигуацию значений символов.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""дезамбигуацию"" (disambiguation) may not be familiar to the general Russian audience and could be perceived as overly technical or academic language.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""экологические условия"" (environmental conditions) could be more natural in Russian as ""природные условия""."
+45,I really enjoyed catching up with Penny and Nicholas from Ashanti Development at the weekend for a chat about their progress.,"Я действительно наслаждался встречей с Пенни и Николасом из Ashanti Development на выходных, чтобы поговорить об их прогрессе.","MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""catching up with"" may not be a common expression in the Russian context and could be perceived as unusual."
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,"Я был достаточно удачлив, чтобы провести незабываемые шесть месяцев рядом с Николасом в 2011 году, поддерживая ряд проектов.","MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""рядом с Николасом"" may not be as culturally appropriate or common in the Russian context compared to the English original ""alongside Nicholas""."
+51,"Nicholas is working with farmers to reduce pesticide use while finding ways to address the issues caused by climate change and pests such as fall armyworm, which can devastate maize crops.","Николай работает с фермерами, чтобы сократить использование пестицидов, одновременно находя способы решения проблем, вызванных изменением климата и вредителями, такими как осенний армейский червь, который может опустошить посевы кукурузы.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""fall armyworm"" may not be familiar to the Russian audience, and a more common or descriptive term could be used."
+53,The UPS store near me won't allow me to write a label or write on the box.,Магазин UPS рядом со мной не позволяет мне написать этикетку или написать на коробке.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""UPS store"" may not be familiar or have the same cultural connotations for a Russian audience, as UPS is an American shipping company.
+[Minor]: WRONG LANGUAGE VARIETY - The translation ""Магазин UPS"" uses a more formal term for ""store"" that may not align with the casual tone of the source text."
+55,They won't allow me to tell them the address it's going to and who is shipping it.,"Они не позволят мне сообщить им адрес, куда это отправляется, и кто это отправляет.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""won't allow me to tell them"" may be interpreted as overly formal or bureaucratic language, which may not be appropriate for the target audience.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""куда это отправляется, и кто это отправляет"" uses a more formal and impersonal language variety that may not align with the intended target audience's expectations."
+57,"And they always to charge me $2.25 for that ""convenience"".","И они всегда взимают с меня $2,25 за это ""удобство"".","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""convenience"" may not have the same cultural connotation in the Russian context as it does in English, potentially causing a slight disconnect for the target audience."
+64,The ratings--seeking delusional irresponsibility of it all.,"Рейтинг-ищущая, бредовая безответственность всего этого.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""рейтинг-ищущая"" (ratings-seeking) may not be a common or easily understandable phrase for the target Russian audience.
+[Minor]: WRONG LANGUAGE VARIETY - The word ""бредовая"" (delusional) is a more colloquial or informal term that may not align with the expected language register for the target audience."
+65,It can't be repeated.,Это не может быть повторено.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""это не может быть повторено"" may sound slightly unnatural or formal in the target Russian culture, as the more common way to express this idea would be ""это невозможно повторить""."
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","У меня очень сквозной подвал, что, по сути, означает, что я могу получить много грызунов, ищущих убежища.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""ищущих убежища"" (seeking refuge) may not be the most appropriate way to describe rodents in the basement, as it could be seen as anthropomorphizing the animals and may not resonate well with the target audience."
+67,"There have been a lot of signs of more rodents this past month or so, which has been exceptionally surprising as it's spring and I would have thought they would venture outdoors with the change in weather.","Было много признаков большего количества грызунов в течение последнего месяца или около того, что было исключительно удивительно, так как это весна, и я думал, что они будут выходить на улицу с изменением погоды.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""venture outdoors"" may not be a common expression in the target Russian culture, and could be less natural or understandable for the intended audience."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.","(для информации, я пробовал почти все ""гуманные"" ловушки на рынке с очень небольшим успехом.)","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""for information"" (fwiw) may not be a common expression in the Russian cultural context."
+72,"I'm not especially happy with killing them, but I won't be taking comments on the ethics of killing mice.)","Я не особенно счастлив убивать их, но я не буду принимать комментарии об этике убийства мышей.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""I won't be taking comments on the ethics of killing mice"" may be perceived as insensitive or inappropriate for some audiences, as the ethics of animal treatment can be a sensitive topic."
+76,But they also cut grants and tax credits that encourage more business activity.,"Но они также сократили гранты и налоговые льготы, которые поощряют более активную деловую активность.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""more business activity"" may not be a common or easily understandable concept for the Russian audience, as the translation ""более активную деловую активность"" may sound overly formal or technical."
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","Это верно даже сейчас, когда goatse.cx исчез, хотя это была бы близкая гонка на дно между goatse и, скажем, khou.com, где я пытался посмотреть видео, которое мне прислала Венди.","MQM annotations:
+audience appropriateness errors:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The reference to ""goatse.cx"" and ""khou.com"" may not be widely understood or appropriate for the target audience, as they are likely obscure or potentially inappropriate websites."
+82,"On the first train today, the ticket checker looked at our tickets and said ""long journey!""","На первом поезде сегодня контролер посмотрел на наши билеты и сказал ""долгое путешествие!"".","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""long journey!"" may not be a common or natural expression in the Russian cultural context, and could be perceived as slightly unusual or unfamiliar."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.","""Я просто отвожу его в Глазго,"" - попытался я объяснить, указывая на своего спутника.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""in Glasgow"" may not be immediately clear to all Russian readers, as it refers to a specific city in the UK."
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,"Вещь, которая убедила меня прошлой ночью, заключается в том, что мы должны быть готовы дать отпор трампизму.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""трампизм"" (Trumpism) may not be widely understood or have the same cultural connotations in the Russian context as it does in the English-speaking world."
+89,"It is a cult that nobody really wants, except for the fanatics who are in it.","Это культ, которого никто на самом деле не хочет, кроме фанатиков, которые в нем состоят.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""кроме фанатиков, которые в нем состоят"" may not be as culturally appropriate for the target audience, as the concept of ""cult"" and ""fanatics"" may have different connotations in the Russian context."
+90,And they are truly nuts.,И они действительно орехи.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The translation ""И они действительно орехи"" does not convey the intended meaning of the English idiom ""they are truly nuts"", which refers to someone being crazy or eccentric. The literal translation of ""nuts"" as ""орехи"" does not carry the same cultural connotation in Russian and may confuse the target audience."
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,"Получите наклейки на бампер, которые являются анти-Трамп, и расклейте их повсюду.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""anti-Trump"" bumper stickers may not be appropriate or understandable for a Russian audience, as the political and cultural context is different.
+[Minor]: WRONG LANGUAGE VARIETY - The translation uses the Russian word ""наклейки"" (stickers) which is a more formal term, whereas a more colloquial expression may be more appropriate in this context."
+95,Yell back at those who would try to talk over us.,"Кричите в ответ тем, кто пытается перекричать нас.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Кричите в ответ"" may be perceived as overly aggressive or confrontational in the target culture, which may not align with the intended tone of the message."
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,"Не является социально приемлемым выходить в общественные места или подбегать к людям, когда у вас сильный кашель с мокротой.","MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The term ""mucus storm"" may not be a common or culturally appropriate expression in the Russian context."
+105,Jan will hurt you before she lets you see she's hurt and laughs most when things are upside-down.,"Ян причинит тебе боль, прежде чем позволит тебе увидеть, что она ранена, и больше всего смеется, когда все вверх дном.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""things are upside-down"" may not be a common or easily understandable idiom in the target Russian culture, potentially causing confusion for the reader."
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","После 4000 страданий Yl оказывается в месте любви и испытывает огромные чувства, с которыми она не знает, что делать, поэтому здесь много и того, и другого.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""huge feels"" may not be culturally appropriate or understandable for the Russian target audience.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""4000 страданий"" (4000 sufferings) may not be the most natural way to express the concept of ""4,000 of distress"" in the Russian language."
+108,#CNN needs to just close down.,#CNN нужно просто закрыться.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""#CNN needs to just close down"" may be interpreted as a strong political statement that could be seen as inappropriate or controversial in the Russian cultural context."
+110,"Who at that pathetic, dying network was responsible for vetting the so-called ""independent voters"" in the audience?","Кто в этой жалкой, умирающей сети отвечал за проверку так называемых ""независимых избирателей"" в аудитории?","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""independent voters"" may not be a familiar concept or have the same connotations in the Russian cultural context."
+113,A cold front should arrive by the middle of next week.,Холодный фронт должен прибыть к середине следующей недели.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""cold front"" may not be a familiar concept for some Russian audiences, who may not have the same level of familiarity with weather terminology."
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",Сегодня рано утром спутниковые и наземные наблюдения IR показали расширяющуюся область низкой слоистой облачности и пятнистого тумана.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""IR satellite"" may not be familiar to the Russian audience and could be replaced with a more general term like ""satellite"" or ""remote sensing""."
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.","Застенчивый студент-ботаник Арни Каннингем влюбляется в Кристину, ржавую Plymouth Fury 1958 года, и становится одержим восстановлением этого классического автомобиля до его прежнего великолепия.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""ботаник"" (botanic) may not be a common or appropriate way to describe a ""geeky"" student in the Russian cultural context.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""ржавую"" (rusty) to describe the car may not be the most natural or common way to express this in the Russian translation, as it could be seen as a more colloquial or informal expression."
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","Поскольку машина меняется, так же меняется и Арни, чья обретенная уверенность превращается в высокомерие за рулем его экзотической красавицы.","MQM annotations:
+audience appropriateness error:
+[major]: CULTURE-SPECIFIC REFERENCE - The term ""экзотическая красавица"" (exotic beauty) may not be a common or appropriate way to refer to a car in the Russian cultural context."
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,"Одна из самых безумных частей в том, что мои соседи обратились против меня, - это думать о том, сколько усилий требуется, чтобы быть враждебным.","MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""обратились против меня"" (turned against me) may have a stronger connotation in Russian than the English equivalent, potentially sounding more dramatic or hostile to the target audience."
+126,It hurts but you gotta do you.,"Больно, но ты должен быть собой.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""you gotta do you"" may not be a common or natural expression in the Russian language and cultural context."
+127,But at this point the open hostility and violence is getting worse.,Но в этот момент открытая враждебность и насилие становятся хуже.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""open hostility and violence"" may be perceived as too strong or confrontational for some target audiences, and a more neutral or diplomatic phrasing may be more appropriate."
+131,And I still have NO IDEA what I could have possibly done to deserve this.,"И у меня до сих пор НЕТ ПОНЯТИЯ, что я мог сделать, чтобы заслужить это.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""NO IDEA"" may not have the same cultural connotation in Russian as it does in English, potentially sounding more abrupt or harsh."
+133,That vessel is off-limits.,Это судно запрещено.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""off-limits"" may not be readily understood by the Russian audience, as it is a more common expression in English."
+135,She is irrelevant to me.,Она для меня неважна.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""для меня неважна"" may not convey the same level of dismissiveness or irrelevance as the English phrase ""irrelevant to me"". The Russian translation is more polite and less direct."
+139,I gripe about dad-ification a lot.,Я часто жалуюсь на отцовство.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""dad-ification"" may not be easily understood by the Russian audience, as it refers to a cultural concept that may not be familiar in the target context."
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"Вот краткий курс по тому, что я имею в виду под ""отцификацией"":","MQM annotations:
+audience appropriateness error:
+[major]: CULTURE-SPECIFIC REFERENCE - The term ""dad-ification"" may not be easily understood by the Russian audience, as it refers to a cultural concept specific to English-speaking contexts."
+141,"It isn't my term, it is a term used to describe when a narrative or gameplay mechanic is built around a central protagonist (usually older, usually male) stewarding or guarding another person (often younger).","Это не мой термин, это термин, используемый для описания ситуации, когда повествование или игровая механика построены вокруг центрального протагониста (обычно более старшего, обычно мужского пола), который опекает или охраняет другого человека (часто более молодого).","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""stewarding or guarding"" may not be a common or natural way to describe the relationship between the central protagonist and the other person in the Russian cultural context."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.","Отцовское воспитание обычно предполагает, что решением ситуации, когда родительская фигура должна заботиться о ребенке или его заменителе, является подавляющая сила, и использование этой силы для навязывания очень конкретно сформированной динамики власти.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Dad-ification"" may not be easily understood by the Russian audience, as it is a culture-specific term that refers to a parenting style more common in Western cultures.
+[Minor]: WRONG LANGUAGE VARIETY - The translation uses the term ""отцовское воспитание"" which may sound more formal or academic than the more colloquial ""Dad-ification"" in the source text."
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.",Отцовское влияние подрывает возможность для общинных решений и часто полностью игнорирует или подрывает любую деятельность ребенка.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Dad-ification"" may not be a familiar concept for the Russian audience, and the meaning may be lost in translation.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""деятельность"" (activity) may not be the most natural choice in this context, and a more common Russian expression could be more appropriate."
+151,- More details are in the full blog post.,Более подробная информация содержится в полном блог-посте.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""blog post"" may not be a common or familiar concept for some Russian readers, who may be more accustomed to traditional media formats."
+159,Over time dart became my go-to for quick UI.,За время дарт стал моим основным средством для быстрого пользовательского интерфейса.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""дарт"" (Dart) may not be familiar or commonly used by the target Russian audience, as it is a programming language and technology term that may not have a direct cultural equivalent."
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter - это удовольствие работать, и у них есть #mobx для простого управления хранилищем.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""#mobx"" may not be familiar to the Russian audience, as it is a specific programming term."
+161,"The dependency story is less insane than nodejs, too.","Зависимость от истории менее безумна, чем nodejs.","MQM annotations:
+audience appropriateness errors:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""nodejs"" may not be familiar or meaningful to the Russian audience, as it is a specific reference to a JavaScript runtime environment that may not be widely known in the target culture."
+163,But it allows to move fast and that's why it's ideal for small hacks.,"Но это позволяет быстро перемещаться, и поэтому оно идеально подходит для небольших взломов.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""взлом"" (hacking) may have negative connotations and be inappropriate for the general audience, as it is often associated with illegal or unethical activities. A more neutral term like ""small modifications"" or ""customizations"" would be more appropriate."
+166,Their tail is extremely thick.,Их хвост чрезвычайно толстый.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""extremely thick"" may not be a common or natural way to describe a tail in the target Russian culture."
+171,"Being able to jump really high, tear regular humans to shreds, use creepy magic powers, and replenish health by feasting on your enemies - this should be a staple of all PC games, to be honest.","Способность прыгать очень высоко, разрывать обычных людей на части, использовать жуткие магические силы и восполнять здоровье, пируя над врагами - это должно быть неотъемлемой частью всех игр для ПК, честно говоря.","MQM annotations:
+audience appropriateness errors:
+
+[Major]: CULTURE-SPECIFIC REFERENCE - The description of abilities like ""tear regular humans to shreds"" and ""feast on your enemies"" may be considered too graphic or violent for some audiences, especially in the context of a PC game.
+
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""to be honest"" at the end of the sentence is a culture-specific expression that may not translate well or have the same nuance in the target Russian culture."
+176,It maybe has too many language subtleties.,"Возможно, это слишком много языковых тонкостей.","MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""too many language subtleties"" may not be easily understood by the Russian audience, as it refers to a more nuanced, culture-specific concept that may not have a direct equivalent in the target language."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","需要翻譯成中文和/或福建話,我都不會。","MQM annotations:
+audience appropriateness errors:
+
+[Major]: WRONG LANGUAGE VARIETY - The translation is in Russian, which is not one of the target languages specified (Mandarin Chinese and/or Hokkien). The intended audience is likely not familiar with the Russian language.
+
+[Critical]: CULTURE-SPECIFIC REFERENCE - The Russian translation contains culture-specific references that may not be understood by the intended audience who is expecting a translation to Mandarin Chinese and/or Hokkien."
+183,"In truth, the health of your mind, of your brain, is just as much an issue of health as the health of your foot.","В действительности здоровье вашего разума, вашего мозга, является таким же вопросом здоровья, как и здоровье вашей ноги.","MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""your foot"" may not be a common cultural reference in the Russian context and could be perceived as unusual."
+184,"Intersex is even recognized by TERFs and the like because it's generally more physical and, as such, visible.","Интерсекс признается даже TERF и им подобными, потому что он, как правило, более физический и, следовательно, видимый.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""TERF"" (Trans-Exclusionary Radical Feminist) may not be widely understood by the Russian audience, as it is a specific term used in the context of LGBTQ+ discussions."
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","В той же мере, в которой психическое здоровье воспринимается многими как менее ""реальное"", чем физическое здоровье, я как бы чувствую, что быть трансгендером - это всего лишь интерсекс разума.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""intersex of the mind"" may not be widely understood or appropriate for the target Russian audience, as the concept of intersexuality may not be as familiar or accepted in the cultural context.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The comparison of mental health being ""less 'real' than physical health"" may not resonate equally with the Russian audience, as perceptions of mental health can vary across cultures."
+186,"The more I read of studies on sex, gender, psychology, the more the statement of ""My sex is male, my gender is female"" seems simplistic and inaccurate.","Чем больше я читаю исследований о поле, гендере, психологии, тем более упрощенным и неточным кажется утверждение ""Мой пол - мужской, мой гендер - женский"".","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The statement ""My sex is male, my gender is female"" may not be a commonly used or understood expression in the Russian cultural context, as the concepts of sex and gender identity can be more nuanced and complex."
+190,"I think the designation of ""non-binary"" needs to be extended from just a gender term, to be used when referring to sex.","Я считаю, что обозначение ""небинарный"" должно быть расширено с просто гендерного термина, чтобы использоваться при упоминании пола.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""non-binary"" may not be widely understood or accepted in the Russian cultural context, as the concept of gender identity outside the male-female binary is still relatively new and not yet fully integrated."
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,"Как кислые настроения и другая мирская поп-музыка, и радиофонические мастерские, и всякое такое.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""krauty moods"" may not be easily understood by the Russian audience, as it refers to a specific cultural context that may not be familiar to them.
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The reference to ""radiophonic workshop"" may not be widely known in the Russian cultural context, requiring additional explanation or context."
+210,I want to make dashboards.,Я хочу создавать дашборды.,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The term ""дашборды"" (dashboards) may not be a commonly used or familiar term for the target Russian audience, and a more colloquial or descriptive term may be more appropriate."
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""","Итак, с приближением нового рейдового уровня #FFXIV я давно думал: ""Эх, хотелось бы попробовать настоящий рейд, но поиск группы кажется беспорядочным, и я никогда не найду статичную группу, которая меня возьмет"".","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Party Finder"" may not be familiar to the Russian audience and could benefit from further explanation or a more culturally-relevant term.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""static"" (referring to a fixed group of players) may not be a common concept in the Russian gaming community and could be rephrased in a more understandable way."
+215,I'll make my own static!,Я сделаю свой собственный статический!,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""make my own static"" is a colloquial English expression that may not be easily understood by a Russian audience. A more direct translation would be more appropriate."
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!","Полный людей, слишком тревожных, чтобы попробовать присоединиться к статическому рейду, без каких-либо ожиданий быть хорошим во всем!","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""статический рейд"" (static raid) is a term from the gaming/online community that may not be widely understood by the general Russian audience.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""быть хорошим во всем"" (being good at everything) may be interpreted as an unrealistic or unattainable expectation, which could be perceived as inappropriate or insensitive for the target audience."
+219,I was a voracious reader in my youth.,Я был ненасытным читателем в молодости.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""ненасытным читателем"" (voracious reader) may have a slightly stronger or more intense connotation in Russian compared to the English source, which could be perceived as unusual or inappropriate for some target audiences."
+221,"But, after ~decades~ of reading next to nothing (with the exception of functional work-related non-fiction stuff and an occasional self-help book) I set a goal to read 23 books in 2023.","Но после ~десятилетий~ чтения практически ничего (за исключением функциональной нефикционной литературы, связанной с работой, и редких книг по саморазвитию) я поставил себе цель прочитать 23 книги в 2023 году.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""~decades~"" may not be a common way to express the passage of time in the Russian cultural context, and could be perceived as unusual or awkward."
+226,I wanna see these companies that intermediate transactions explain to their customers how they set their percentages.,"Я хочу, чтобы эти компании, которые посредничают в транзакциях, объяснили своим клиентам, как они устанавливают свои проценты.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""transactions"" may not be commonly understood by all Russian-speaking customers, who may be more familiar with the term ""payments"" or ""financial operations"" in this context.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""устанавливают свои проценты"" may sound more formal or bureaucratic than the intended casual/conversational tone of the source text. A more colloquial phrasing like ""как они рассчитывают свои комиссии"" could be more appropriate."
+228,"But if Spotify has a good quarter, they will.","Но если у Spotify будет хороший квартал, они.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The translation is missing the end of the sentence, which likely contains important information for the target audience. This leaves the meaning incomplete and potentially confusing."
+229,Is it a danger to let migrants in at the southern border? I dunno.,Является ли опасностью впускать мигрантов на южную границу? Не знаю.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""southern border"" may not be a familiar or relevant concept for the Russian audience, as the geographical context is specific to the United States."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,Пусть они восстановят опустошенные и разрушающиеся города по всей стране.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""again"" may not be as culturally appropriate in the Russian translation, as it could imply a repeated or cyclical process of rehabilitation that may not resonate well with the target audience."
+238,There are still going to be jobs that can be accomplished remotely for the foreseeable future.,"Будут по-прежнему существовать рабочие места, которые можно выполнять удаленно в обозримом будущем.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""обозримом будущем"" (foreseeable future) may not be a common or natural expression in the Russian language and could be less familiar to the target audience."
+239,Remote work is enabling.,Удаленная работа позволяет.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The translation ""Удаленная работа позволяет"" does not convey the same meaning as the English source ""Remote work is enabling."" The Russian translation lacks the nuance of ""enabling"" and may not resonate as well with the target audience."
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.","Это позволяет людям работать в комфортных пространствах, а не в душных, шумных офисах.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""душных, шумных офисах"" (stuffy, noisy offices) may not resonate as strongly with the Russian audience as it does with the English-speaking audience, as the cultural connotations of ""stuffy, noisy offices"" may differ."
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,"Это позволяет людям избегать длительных поездок, которые отнимают время у них и их семей.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""lengthy commutes"" may not be as culturally relevant or understandable for the Russian audience, as the concept of long commutes may not be as prevalent in some regions of Russia."
+250,"""You are the carbon they are trying to reduce.""","Вы - углерод, который они пытаются сократить.","MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""углерод, который они пытаются сократить"" may not be immediately clear to the target Russian audience, as it refers to a specific environmental context that may not be widely understood."
+251,"So like from the beginning for all my birthdays in the past, I always had rough ones.",С самого начала на все мои дни рождения в прошлом у меня всегда были трудные.,"MQM annotations:
+audience appropriateness errors:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""трудные"" (difficult/rough) may not accurately convey the intended meaning of ""having a hard time"" or ""facing challenges"" on one's birthdays in the past, which is a more common cultural expression in English."
+257,And today is already becoming a great day!,И сегодня уже становится прекрасным днём!,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""прекрасным днём"" may be perceived as overly formal or poetic in the target Russian culture, and a more colloquial expression would be more appropriate."
+258,Winter is 30 days away in this little part of the Great Southern World.,Зима наступит через 30 дней в этой маленькой части Великого Южного Мира.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""Great Southern World"" may not be a familiar or common reference for the Russian target audience, as it is a more specific geographic/cultural term."
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,"Я застегну подкладку в мою велосипедную куртку - на всякий случай, если мне понадобится внутри.","MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""on a case-by-case basis"" may not be a common expression in the Russian cultural context and could be less familiar to the target audience."
+273,I finally got a good dangle photo so I can be sure he's not fat.,"Я наконец-то получил хорошее фото его гениталий, чтобы быть уверенным, что он не толстый.","MQM annotations:
+audience appropriateness errors:
+[Critical]: [CULTURE-SPECIFIC REFERENCE] - The term ""geniталии"" (genitals) is highly inappropriate and explicit for the intended audience and cultural context. This could cause significant discomfort and confusion.
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The request to ""be sure he's not fat"" based on a genital photo is an unusual and potentially offensive way to assess someone's physical appearance, which may not be well-received by the target audience.
+[Minor]: no errors"
+275,He's not.,Он не.,"MQM annotations:
+audience appropriateness error:
+[Major]: WRONG LANGUAGE VARIETY - The translation ""Он не"" is grammatically incorrect in Russian. The correct Russian translation should be ""Он не такой"" or ""Он не является""."
+282,2) The currency reward system has been connected.,Валютная система вознаграждения была подключена.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""currency reward system"" may not be a common or familiar concept for the Russian audience, and a more culturally appropriate term may be needed."
+286,"All collards, kale, chard is transplanted.","Все листовые овощи, такие как кале, мангольд, пересаживаются.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""kale"" may not be familiar to the Russian audience, as it is a vegetable more commonly associated with Western cuisine.
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""chard"" may not be widely recognized by the Russian audience, as it is a less common leafy green vegetable in Russian cuisine."
+287,Plans to set in salad at Penn on 6row pattern and see how that compares to broadcast seeded beds.,"Планы установить в салате в Пенне на 6-рядном узоре и посмотреть, как это сравнивается с засеянными кроватями.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Penn"" may not be familiar to the Russian audience, as it refers to a specific university in the United States.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""на 6-рядном узоре"" may sound overly technical or formal for the context, and a more natural phrasing may be more appropriate for the target audience."
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,"Весенний горошек в Гилпине появляется, поэтому необходимо установить шпалеру.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""trellise"" may not be familiar to the Russian audience and could be replaced with a more common term for a support structure for growing plants."
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","Также необходимо посеять ряд салата там, чтобы интегрировать нарезанную зелень, в обоих есть обученный персонал по ирригации, подготовке грядок и пересадке, что составляет 90% навыков, не связанных с уборкой урожая.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""irrigation"" may not be a common term in the target Russian audience and could be replaced with a more familiar term.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""bed prep"" may not be a common term in the target Russian audience and could be replaced with a more familiar term.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""transplanting"" may not be a common term in the target Russian audience and could be replaced with a more familiar term."
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","Любопытный, я сохранял открытый ум, чтобы сравнить, как Google Maps и Apple Maps сравниваются на моем тестовом iPhone-устройстве (мой ежедневный водитель - это устройство Android, поэтому я редко использую iPhone).","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""my daily driver"" may not be a common expression in the Russian language and culture, and could be confusing for the target audience.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""устройство Android"" could be more natural in Russian as ""Android-устройство""."
+299,Was it the 2012 Apple Maps disaster?,Это была катастрофа Apple Maps 2012 года?,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""Apple Maps"" may not be widely known or understood by the Russian audience, as it refers to a specific Apple product."
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","Я предвзято отношусь к тому, чтобы не выпускать мусор для конечных пользователей, и Apple королевски облажалась со своими картами Apple, когда они вышли в 2012 году.","MQM annotations:
+audience appropriateness errors:
+
+Major: CULTURE-SPECIFIC REFERENCE - The phrase ""royally fucked up"" is a very informal and colloquial expression that may not be appropriate for a general audience in the target culture.
+
+Minor: CULTURE-SPECIFIC REFERENCE - The term ""garbage"" used to describe the Apple Maps product may be perceived as too harsh or disrespectful in the target culture, even though the source text uses it."
+308,Not the case.,Не так.,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""Not the case"" may not be a common or natural way of expressing disagreement in the Russian language and culture."
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,"Кажется невообразимым, что землю могут отнять у вас однажды, когда вы смотрите австралийские и американские СМИ, но это потому, что богатые люди весь день обеспечивают, чтобы ваш разум думал определенным образом.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the rich are on there all day ensuring your mind thinks a certain way"" may not be easily understood by the Russian audience, as it refers to a specific cultural context of media influence that may not be as familiar in the Russian context."
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,"Земля очень легко и быстро может быть отобрана правительством в любой день, если они этого захотят.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""taken away by the government"" may have different cultural connotations in the Russian context and could be perceived as politically charged or sensitive.
+[Minor]: [WRONG LANGUAGE VARIETY] - The translation uses the more formal and impersonal ""может быть отобрана"" instead of a more colloquial or conversational phrasing that might be more appropriate for the target audience."
+316,It never made sense how ppl can keep land at the expense of others.,"Это никогда не имело смысла, как люди могут удерживать землю за счет других.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""at the expense of others"" may not be easily understood by the Russian audience, as it refers to a cultural concept that may not be as prevalent in the target culture."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,"Я часто удивляюсь человеческой способности быть *так* недовольным собой, в то время как вокруг так много свидетельств того, что на самом деле представляет собой жестокость.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""so down on oneself"" may not be a common expression in the Russian language and culture, potentially causing confusion for the target audience."
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,Но смягчение отчаяния из-за нашей неряшливости имеет решающее значение - потому что это дает нам больше пространства для борьбы с руинами вокруг.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""смягчение отчаяния"" may not be a common or natural way to express the idea of ""gentling despair"" in the Russian cultural context."
+331,"Some programmers: ""Typing speed does not matter!""","""Скорость печати не имеет значения!""","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""Скорость печати не имеет значения!"" may not resonate well with the target Russian audience, as the concept of ""typing speed"" may not be as culturally relevant or widely understood compared to the English-speaking context."
+334,"Not sure if this is the best approach for sharing, but I like it for now: <URL>","Не уверен, что это лучший подход для распространения, но мне это нравится пока: <URL>","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""for now"" may not be a common or natural way to express the intended meaning in the Russian context."
+338,I have been toying with this little piece on my head for a few days now.,Я уже несколько дней играюсь с этим маленьким предметом на своей голове.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""on my head"" may be interpreted as a culture-specific reference that may not be immediately clear to the Russian audience."
+339,It is definitely more romance than filth.,"Это определенно больше романтики, чем грязи.","MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""грязи"" (filth) may have a stronger negative connotation in the Russian context compared to the more neutral ""filth"" in the English source."
+343,"Common, it's really not that hard.","Да, это не так уж и сложно.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""it's really not that hard"" may not translate well culturally and could be perceived as overly casual or dismissive in the Russian context."
+345,"I wish there was a ""who to follow"" recommendation somehow.","Я бы хотел, чтобы была рекомендация ""кого следовать"".","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""who to follow"" may not be a common or natural expression in the Russian language and cultural context."
+347,If you stick to the default web interface it doesn't look and feel good (imho).,"Если вы придерживаетесь стандартного веб-интерфейса, это не выглядит и не ощущается хорошо (по моему мнению).","MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""по моему мнению"" (in my opinion) may not be a natural or common way to express personal opinion in the target Russian culture, where more indirect or impersonal phrasing is often preferred."
+349,"I don't know if prevention is possible, but it's worth trying.","Я не знаю, возможно ли предотвращение, но стоит попытаться.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""стоит попытаться"" may not be as commonly used in Russian as the more direct ""стоит попробовать"" which would be more natural for the target audience."
+350,"The four steps I outline are up for debate, with some progress in each:","Четыре шага, которые я обрисовываю, подлежат обсуждению, с некоторым прогрессом в каждом:","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""with some progress in each"" may not be easily understood by the Russian audience, as it is a more common English idiom."
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.","Даже если он не смог сказать их во время собрания в городе, все в Америке все равно услышат их многократно между сейчас и ноябрем 2024 года.","MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""town hall"" may not be a familiar concept for the Russian audience, and a more culturally appropriate term could be used."
+363,"The ""MusicLM Demo"" is mildly interesting.",Музыкальная демонстрация LM умеренно интересна.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""MusicLM Demo"" may not be familiar or meaningful to a Russian audience, as it refers to a specific technology or product that may not be widely known in the target culture."
+369,I work out alone in my bedroom without a spotter or even a weight rack.,Я занимаюсь один в своей спальне без страхующего или даже стойки для штанги.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""weight rack"" may not be familiar or appropriate for the Russian audience, as the equipment and workout routines may differ from the cultural context."
+371,I bench press on my bed.,Я жму штангу на кровати.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""bench press on my bed"" is an unusual and potentially inappropriate activity for the target Russian audience, as it may be seen as an unusual or even unsafe way to exercise."
+378,I'd never seen it at the fancy grocer or any of the Italian delis.,Я никогда не видел этого в дорогом продуктовом магазине или в любой из итальянских деликатесных лавок.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""fancy grocer"" may not be a familiar concept for the Russian audience, as the cultural context of high-end grocery stores may differ.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The reference to ""Italian delis"" may not be immediately clear to the Russian audience, as the cultural context of Italian specialty food stores may not be as prevalent."
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","Будучи радикализованными здесь, мы неохотно покупаем новую машину FAANG.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""FAANG machine"" may not be widely understood by the Russian audience, as it refers to a specific type of technology product associated with large tech companies in the United States."
+386,"In 1998-06 Gamefan, in relation to the long development of the first Unreal game, Jason Schrieber commented,","В 1998-06 Gamefan, в связи с длительной разработкой первой игры Unreal, Джейсон Шрайбер прокомментировал:","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Gamefan"" may not be familiar to the Russian audience, as it refers to a specific English-language video game magazine."
+387,"""A good game is only late until it ships.","Хорошая игра только поздно, пока она не выйдет.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""only late until it ships"" is a culture-specific reference to the game development industry that may not be easily understood by the Russian audience."
+388,"A bad game is bad forever.""","""Плохая игра плоха навсегда.""","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""плоха навсегда"" (literally ""bad forever"") may not be a common or natural-sounding expression in Russian, and could be perceived as an unusual or non-idiomatic way of expressing the idea that a bad game is permanently bad."
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,","""Более ранний выпуск GamePro 1997-11 содержит цитату с гораздо большей неоднозначностью.""","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""GamePro 1997-11"" may not be familiar to the Russian audience, as it refers to a specific magazine issue that may not be widely known in the target culture."
+402,There's areas that could use some polish.,"Есть области, которые могли бы использовать немного полировки.","MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""use some polish"" is a culture-specific idiom that may not be easily understood by a Russian audience. A more direct translation or a culturally appropriate alternative would be more suitable."
+404,"Fix those minor issues, and then can we have more of these please?","Исправьте эти незначительные проблемы, а затем можно ли получить еще больше таких?","MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""can we have more of these please?"" may not be a natural or common way of requesting more in the Russian cultural context."
+410,We visited for a couple hours on my porch.,Мы посетили на пару часов на моем крыльце.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""on my porch"" is a culture-specific reference that may not be easily understood by a Russian audience, as the concept of a porch may not be as common in Russian architecture and culture."
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","Восьмиглазые репниды, кажется, наблюдают, как вы опускаете флаер на красную почву, но они не предпринимают никаких действий в вашу сторону, на самом деле они неподвижны, когда вы выбираетесь из флаера и медленно идете к ним.","MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The term ""flyer"" may not be a common or familiar concept for the Russian audience, and a more culturally appropriate term could be used."
+421,"The ground beneath your feet begins to tremble and then shake, as if in an earthquake and you lose your footing, though the Repnids seem unaffected.","Земля под вашими ногами начинает дрожать, а затем трястись, как при землетрясении, и вы теряете равновесие, хотя Репниды, кажется, не затронуты.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Repnids"" may not be familiar to the Russian audience and could be confusing."
+422,The rock beneath you gives way suddenly.,Под вами внезапно уступает скала.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""gives way suddenly"" may not be a common expression in the target Russian culture, and could be perceived as slightly unusual or unfamiliar."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","Конец быстр, так как несколько пар клыков вводят свой смертельный яд, и воздух Дыскры загрязняет ваши легкие.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Dyskra"" may not be familiar or understandable to the target Russian audience, as it appears to be a made-up or fictional location."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.","Вы решаете, что повторное установление контакта было бы опасным, и возвращаетесь к своему летательному аппарату, но этот опыт прояснил ваш ум, который был запутан с тех пор, как вы прыгнули в будущее.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""flyer"" may not be a common or easily understandable term for the Russian audience, as it is more commonly used in English-speaking contexts to refer to a small printed advertisement or notice."
+434,Note that you have used up another polybdenum rod as you jump.,"Примечание, что вы использовали еще один стержень полибдена, когда прыгали.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""polybdenum rod"" may not be familiar or understandable to the Russian audience, as it is a technical term that is specific to certain contexts."
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,"Я нашел неравномерно спряденную серебристо-серую пряжу, которая в основном тонко спряденная с комками.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""lumps"" may not be a common or natural way to describe the texture of yarn in the Russian context."
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,Я планирую смешать его с тонким пурпурно-сиреневым вариегатным хлопком.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""variegated cotton"" may not be familiar to the Russian audience and could be better explained or replaced with a more common term."
+449,"I hit most of the classics before eighteen--though that's more a reflection of living in bumfuck nowhere, I also read the 1979 Encyclopedia Brittanica in desperation.","Я освоил большинство классических произведений до восемнадцати лет, хотя это больше отражает тот факт, что я жил в глуши. Я также в отчаянии прочитал Британскую энциклопедию 1979 года.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""bumfuck nowhere"" is a colloquial American expression that may not be well understood or appropriate for a Russian audience.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The reference to reading the ""1979 Encyclopedia Brittanica"" may seem outdated or unusual for a modern Russian reader."
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.","И это даже несмотря на то, что я не так хорошо спал здесь последние две ночи, как дома, и немного устаю от #MECFS, просто находясь в незнакомой обстановке, где я менее способен контролировать свой темп и должен помнить, где находятся вещи.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""#MECFS"" may not be widely understood by the Russian audience, as it refers to a specific medical condition (Myalgic Encephalomyelitis/Chronic Fatigue Syndrome) that may not be as familiar in the target culture."
+454,Humanity is out in 5 days.,Человечество выходит через 5 дней.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Humanity is out in 5 days"" is a culture-specific reference that may not be easily understood by the Russian audience. It could be interpreted as a metaphorical statement about the end of humanity, which may be confusing or inappropriate without additional context."
+457,I like it but will it be able to attract an audience of the right players?,"Мне это нравится, но сможет ли оно привлечь аудиторию правильных игроков?","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""правильных игроков"" (right players) may not be clear or appropriate for the target audience, as it could be interpreted as referring to a specific group of players in a game or sport, which may not be the intended meaning."
+463,Came home on my lunch break to see this sitting outside uwu.,Пришёл домой на обеденный перерыв и увидел это снаружи uwu.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""uwu"" in the target text may not be familiar or appropriate for the Russian audience, as it is a Japanese emoticon that is more commonly used in certain online communities."
+467,Was it overly cute to the point of being twee?,"Это было чрезмерно милым до такой степени, что стало приторным?","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""to the point of being twee"" may not be easily understood by the Russian audience, as it refers to a specific cultural concept of cuteness that may not have a direct equivalent in the target culture."
+474,Did she owe someone money?,Она кому-то должна была деньги?,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""owe someone money"" may not be a common or natural way of expressing the concept in Russian culture, where other idioms or expressions might be more appropriate."
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.","Хороший критический анализ направлен на быстрое исправление проблемы, а не на вашу способность.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""быстрое исправление проблемы"" may not be a common or natural way to express the idea of ""correcting the problem quickly"" in the Russian cultural context."
+487,But for strong and firm future growth.,Но для сильного и твердого будущего роста.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""strong and firm future growth"" may not be a common or natural expression in the Russian language and cultural context. A more idiomatic translation would be preferred."
+489,"She was on her way to the wall, he was coming off duty.","Она направлялась к стене, он заканчивал службу.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""on her way to the wall"" may not be immediately clear to a Russian audience, as it could refer to a physical wall or a metaphorical barrier.
+[Minor]: [WRONG LANGUAGE VARIETY] - The phrase ""coming off duty"" may not be a common expression in Russian and could be translated in a more natural way for the target audience."
+493,One block-printed word.,одно блокированное слово,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""блокированное"" (blocked) may not be the most appropriate translation for the English ""block-printed"" in the context of describing a printed word, as it could be interpreted as having a different meaning."

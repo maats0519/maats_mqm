@@ -1,0 +1,5180 @@
+index,original,zero_shot_translation,annotation
+0,The hacked up version of Jedi Knight was crashing because it was calling a function off the end of a vtable.,"Взломанная версия Jedi Knight вылетала, потому что вызывала функцию за пределами vtable.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,"Но это не всегда верно; в таких случаях имеет значение, какой интерфейс вы используете для создания данного объекта.","MQM annotations:
+Accuracy Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Non-Translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+No-error"
+5,"So anyway, since it does hold true here, to fix it I had to extend my viewport implementation to contain the IDirect3DViewport3 methods so that the call to the new one was valid.","Итак, поскольку это действительно так, чтобы исправить это, мне пришлось расширить реализацию моего окна просмотра, чтобы она содержала методы IDirect3DViewport3, чтобы вызов нового метода был допустим.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - ""So anyway"" is omitted in the translation, which slightly changes the tone and flow of the sentence.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The translation could benefit from a comma after ""Итак"" to improve readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The phrase ""вызов нового метода был допустим"" could be rephrased for smoother readability in Russian.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error
+[Critical]: None
+[Major]: None
+[Minor]: None"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","Предположим, ради аргумента, что наука, по крайней мере частично, состоит из списков объективно фактических утверждений о мире, истинных независимо от любой теории, которую они могут поддерживать.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","Эксперименты не создают факты в этом прочтении, но выбор, какие эксперименты проводить, определяет, какие факты будут обнаружены.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall: no-error"
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,"Это очень краткий набросок правдоподобного аргумента о том, что теории капитализма, влияющие на фактическое содержание науки, согласуются с теориями, утверждающими существование объективных научных фактов.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+13,Going to be my first project car.,Станет моим первым проектным автомобилем.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation is accurate and maintains the intended meaning of the source text."
+16,Already on coil overs and lowered ride height.,Уже на койловерах и с заниженной высотой дорожного просвета.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+20,#Venting into the Fediverse time.,#Выпуск пара в Федивёрс время.,"MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The phrase ""Venting into the Fediverse time"" is mistranslated as ""Выпуск пара в Федивёрс время,"" which does not convey the intended meaning of expressing or releasing emotions or thoughts into the Fediverse. The translation is confusing and does not accurately reflect the source text.
+[Major]: omission - The translation omits the concept of ""into"" which is crucial for understanding the direction or action of venting.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: grammar - The word order in ""Федивёрс время"" is awkward and disrupts the flow of the sentence.
+[Minor]: punctuation - The lack of punctuation between ""Федивёрс"" and ""время"" makes the sentence difficult to read.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The translation is awkward and does not flow naturally in Russian.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: inappropriate for context - The term ""Выпуск пара"" is not an appropriate translation for ""Venting"" in this context.
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","Когда мы пошли на кассу, кассиром оказалась довольно очевидная транс-женщина.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The original sentence contains a period at the end, which is missing in the translation.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+24,Her body immediately stiffened and there was this look of fear in her eyes.,"Её тело мгновенно напряглось, и в глазах появился страх.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+25,And then we just... paid for our stuff.,А потом мы просто... заплатили за наши вещи.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately and fluently conveys the meaning of the source text without any errors."
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,"Улыбка облегчения на её лице была замечательным чувством, но тот факт, что сначала она была напугана, ПРОСТО ОТВРАТИТЕЛЕН, И Я НЕНАВИЖУ ЭТО.","MQM annotations:
+
+Accuracy Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Fluency Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: punctuation - The use of uppercase letters for emphasis in ""ПРОСТО ОТВРАТИТЕЛЕН, И Я НЕНАВИЖУ ЭТО"" may be considered a stylistic choice, but it could be seen as a minor punctuation issue in formal contexts.  
+
+Locale Convention Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Style Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Terminology Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Non-translation Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Other Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+No-error"
+32,But he can't pardon himself out of state prison.,Но он не может помиловать себя из тюрьмы штата.,"MQM annotations:
+
+Accuracy Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Fluency Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Locale Convention Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Style Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Terminology Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Other Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+No-error"
+33,It takes the state's governor.,Это зависит от губернатора штата.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation ""Это зависит от губернатора штата"" means ""It depends on the state's governor,"" which is a mistranslation of the source text ""It takes the state's governor.""
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Non-Translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None"
+36,NY is the best hope for accountability,Нью-Йорк — лучшая надежда на привлечение к ответственности.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,"Существует значительное количество доказательств того, что реальная коммуникация не может быть сведена к передаче сигналов с независимым от контекста значением.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","В то же время мы изучаем условия окружающей среды и когнитивные способности, которые позволяют контекстуально разрешать неоднозначность значений символов.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+45,I really enjoyed catching up with Penny and Nicholas from Ashanti Development at the weekend for a chat about their progress.,Мне очень понравилось пообщаться с Пенни и Николасом из Ashanti Development на выходных и обсудить их успехи.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,"Мне посчастливилось провести незабываемые шесть месяцев вместе с Николасом в 2011 году, поддерживая ряд проектов.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+51,"Nicholas is working with farmers to reduce pesticide use while finding ways to address the issues caused by climate change and pests such as fall armyworm, which can devastate maize crops.","Николас работает с фермерами над сокращением использования пестицидов, одновременно находя способы решения проблем, вызванных изменением климата и вредителями, такими как гусеница совки, которая может уничтожать посевы кукурузы.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The term ""fall armyworm"" is translated as ""гусеница совки,"" which is a general term for caterpillars and may not specifically refer to the fall armyworm. A more precise term could be used.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+53,The UPS store near me won't allow me to write a label or write on the box.,Магазин UPS рядом со мной не позволяет мне писать этикетку или писать на коробке.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+55,They won't allow me to tell them the address it's going to and who is shipping it.,"Они не позволят мне сообщить им адрес, куда это отправляется, и кто отправляет.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""who is shipping it"" is translated as ""кто отправляет,"" which is slightly ambiguous in Russian. A more precise translation would be ""кто отправляет это,"" to maintain the clarity of the original sentence.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+57,"And they always to charge me $2.25 for that ""convenience"".","И они всегда берут с меня $2.25 за это ""удобство"".","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+64,The ratings--seeking delusional irresponsibility of it all.,Рейтинго-ищущая бредовая безответственность всего этого.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""ratings--seeking"" is translated as ""рейтинго-ищущая,"" which is slightly awkward and may not fully capture the nuance of the original phrase. However, it does not significantly disrupt comprehension.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The use of a dash in ""рейтинго-ищущая"" is slightly unconventional in Russian and could be considered awkward.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The translation is slightly awkward due to the literal translation of ""ratings--seeking,"" which might not be a natural expression in Russian.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+65,It can't be repeated.,Это нельзя повторить.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","У меня очень сквозистый подвал, что, по сути, означает, что там может укрываться много грызунов.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The phrase ""очень сквозистый подвал"" is slightly awkward in Russian. A more natural phrasing could be used.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+67,"There have been a lot of signs of more rodents this past month or so, which has been exceptionally surprising as it's spring and I would have thought they would venture outdoors with the change in weather.","За последний месяц или около того появилось много признаков увеличения числа грызунов, что было особенно удивительно, так как сейчас весна, и я бы подумал, что с изменением погоды они отправятся на улицу.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""this past month or so"" is translated as ""за последний месяц или около того,"" which is a correct translation. However, the nuance of ""this past month or so"" indicating a slightly vague timeframe is not fully captured, but this does not significantly impact comprehension.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.","Кстати, я пробовал почти все ""гуманные"" ловушки на рынке, но с очень небольшим успехом.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+72,"I'm not especially happy with killing them, but I won't be taking comments on the ethics of killing mice.)","Я не особенно рад их убивать, но не собираюсь обсуждать этику убийства мышей.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+76,But they also cut grants and tax credits that encourage more business activity.,"Но они также сократили гранты и налоговые льготы, которые стимулируют более активную предпринимательскую деятельность.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","Это верно даже сейчас, когда goatse.cx больше не существует, хотя это была бы гонка на дно между goatse и, скажем, khou.com, где я пытался посмотреть видео, которое мне прислала Венди.","MQM annotations:
+
+Accuracy Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: [accuracy/omission] - The translation omits the word ""though"" after ""gone,"" which slightly alters the nuance of the sentence.
+
+Fluency Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Locale Convention Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Style Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Terminology Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Other Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+No-error: None"
+82,"On the first train today, the ticket checker looked at our tickets and said ""long journey!""","Сегодня в первом поезде контролер посмотрел на наши билеты и сказал: ""долгое путешествие!"".","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""on the first train today"" is translated as ""сегодня в первом поезде,"" which could imply the first train of the day rather than the first train the speaker took today.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.","""Я просто высаживаю его в Глазго,"" попытался объяснить я, указывая на моего попутчика.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,"То, в чем я убедился прошлой ночью, это то, что мы должны быть готовы бороться против трампизма.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error"
+89,"It is a cult that nobody really wants, except for the fanatics who are in it.","Это культ, который на самом деле никто не хочет, кроме фанатиков, которые в нем состоят.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+90,And they are truly nuts.,И они действительно сумасшедшие.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,Купите наклейки на бампер с антиреспубликанскими лозунгами и наклейте их повсюду.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation changes ""anti-Trump"" to ""антиреспубликанскими лозунгами"" (anti-Republican slogans), which alters the intended meaning significantly.
+[Major]: [omission] - None
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Locale Convention Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Style Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [awkward] - The phrase ""наклейте их повсюду"" (stick them everywhere) is slightly awkward but does not hinder comprehension.
+
+Terminology Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Non-Translation Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Other Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+No-Error
+[None]: [None] - None"
+95,Yell back at those who would try to talk over us.,"Кричите в ответ на тех, кто пытается нас перебить.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,"Недопустимо выходить на улицу или подбегать к людям, когда у вас сильный кашель с мокротой.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""socially acceptable"" is not explicitly translated, which could slightly alter the nuance of the sentence.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+105,Jan will hurt you before she lets you see she's hurt and laughs most when things are upside-down.,"Ян причинит тебе боль, прежде чем позволит увидеть, что она сама ранена, и больше всего смеется, когда все вверх дном.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The name ""Jan"" is mistranslated as ""Ян,"" which is typically a male name in Russian, while ""Jan"" in the source context refers to a female.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","После 4000 лет страданий Йл оказывается в месте, полном любви, и испытывает сильные чувства, с которыми не знает, что делать, поэтому их много с обеих сторон.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""so there's a lot of both"" is mistranslated as ""поэтому их много с обеих сторон,"" which implies ""there are many from both sides,"" altering the original meaning.
+[Minor]: [addition] - The addition of ""лет"" (years) in ""После 4000 лет страданий"" changes the original meaning, as the source text does not specify a time period.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+108,#CNN needs to just close down.,CNN нужно просто закрыться.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation ""CNN нужно просто закрыться"" implies that CNN should shut itself down, which is not the intended meaning of ""close down"" in this context. The original text suggests that CNN should cease operations, not that it should voluntarily shut itself down.
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [awkward] - The phrase ""нужно просто закрыться"" is slightly awkward in Russian and could be phrased more naturally.
+[Minor]: [error/error_subcategory] - None
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Non-Translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None"
+110,"Who at that pathetic, dying network was responsible for vetting the so-called ""independent voters"" in the audience?","Кто на этой жалкой, умирающей сети был ответственен за проверку так называемых ""независимых избирателей"" в аудитории?","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+113,A cold front should arrive by the middle of next week.,Холодный фронт должен прийти к середине следующей недели.,"MQM annotations:
+Accuracy Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Non-Translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+No-error"
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",Сегодня рано утром спутниковые ИК-наблюдения и наблюдения с поверхности указали на расширяющуюся область низкой слоистой облачности и местами <URL>.,"MQM annotations:
+Accuracy Errors
+[Critical]: [omission] - The translation omits the continuation of the sentence after ""местами,"" which is crucial for understanding the full context.
+[Major]: [untranslated text] - The placeholder ""<URL>"" is untranslated and should be addressed if it represents meaningful content.
+[Minor]: [mistranslation] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - The period at the end of the sentence is placed outside the placeholder ""<URL>"", which may disrupt the flow.
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [date] - None
+[Major]: [time format] - The phrase ""ранo утром"" could be more specific in terms of time to match locale conventions.
+[Minor]: [name] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Non-Translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error: None"
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.","Задрот Арни Каннингем влюбляется в Кристину, ржавый Plymouth Fury 1958 года, и становится одержим восстановлением классического автомобиля до его прежнего величия.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The term ""Geeky student"" is translated as ""Задрот,"" which can have a negative connotation in Russian. A more neutral translation could be used to better capture the original meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The translation of ""восстановлением классического автомобиля до его прежнего величия"" is slightly awkward. A more fluent phrasing could enhance readability.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","По мере того как меняется автомобиль, меняется и Арни, чья новая уверенность за рулем его экзотической красавицы превращается в высокомерие.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any significant issues."
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,"Одна из самых безумных вещей в том, что мои соседи настроились против меня, это осознание того, сколько усилий требуется, чтобы быть враждебным.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+126,It hurts but you gotta do you.,"Больно, но ты должен быть собой.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""you gotta do you"" is mistranslated. The translation ""ты должен быть собой"" means ""you must be yourself,"" which does not fully capture the original meaning of ""you gotta do you,"" implying doing what is best for oneself or following one's own path.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+127,But at this point the open hostility and violence is getting worse.,Но на данный момент открытая враждебность и насилие становятся хуже.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any issues."
+131,And I still have NO IDEA what I could have possibly done to deserve this.,"И я до сих пор НЕ ИМЕЮ ПОНЯТИЯ, что я мог сделать, чтобы заслужить это.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+133,That vessel is off-limits.,Это судно запрещено.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation ""Это судно запрещено"" means ""This vessel is prohibited,"" which does not convey the same meaning as ""That vessel is off-limits."" The correct translation should indicate that access to the vessel is restricted, not that the vessel itself is prohibited.
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Non-translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None"
+135,She is irrelevant to me.,Она не имеет для меня значения.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+139,I gripe about dad-ification a lot.,Я много жалуюсь на превращение в отца.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The term ""dad-ification"" is mistranslated as ""превращение в отца,"" which implies a literal transformation into a father, rather than the intended meaning of adopting stereotypical father-like behaviors or attitudes.
+[Major]: [omission] - None
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - There should be a space after the period in the source text, but this is not a translation error.
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [currency/date/name/telephone/time format] - None
+[Major]: [currency/date/name/telephone/time format] - None
+[Minor]: [currency/date/name/telephone/time format] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - The phrase ""превращение в отца"" is slightly awkward and does not capture the colloquial nuance of ""dad-ification.""
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inappropriate for context] - None
+[Minor]: [inconsistent use] - None
+
+Non-Translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error: None"
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"Вот краткий курс о том, что я имею в виду под ""отцовщиной"":","MQM annotations:
+Accuracy Errors
+[Critical]: omission - The phrase ""(slightly longer than) toot-length"" is omitted in the translation.
+[Major]: mistranslation - ""dad-ification"" is mistranslated as ""отцовщина,"" which may not convey the intended meaning accurately.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The colon at the end of the sentence may not be necessary in the translation.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The translation of ""dad-ification"" as ""отцовщина"" may sound awkward and not capture the original playful tone.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: inappropriate for context - The term ""отцовщина"" may not be the best choice for ""dad-ification"" in this context.
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+141,"It isn't my term, it is a term used to describe when a narrative or gameplay mechanic is built around a central protagonist (usually older, usually male) stewarding or guarding another person (often younger).","Это не мой термин, это термин, используемый для описания ситуации, когда повествование или игровой механизм строится вокруг центрального протагониста (обычно старшего, обычно мужского пола), опекающего или охраняющего другого человека (часто младшего).","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.","Отец-фикация обычно предполагает, что решение ситуации, в которой родительская фигура должна заботиться о ребенке или его замене, заключается в подавляющей силе и использовании этой силы для создания очень специфической формы динамики власти.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""child or child stand-in"" is translated as ""ребенке или его замене,"" which implies a substitution rather than a stand-in or surrogate, potentially altering the meaning.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.","Отец-фикация размывает возможность для коллективных решений и часто полностью игнорирует или подрывает любую самостоятельность, которую имеет ребенок.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The term ""Dad-ification"" is translated as ""Отец-фикация,"" which may not convey the same nuanced meaning in Russian as it does in English. The concept might be unfamiliar or unclear to Russian speakers.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+151,- More details are in the full blog post.,- Более подробная информация в полном блоге.,"MQM annotations:
+Accuracy Errors
+[Critical]: omission - The translation omits the word ""post"" from ""full blog post,"" which could lead to misunderstanding the source text.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The translation lacks a space after the period, which is a minor punctuation error.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+159,Over time dart became my go-to for quick UI.,Со временем Dart стал моим выбором для быстрого создания пользовательского интерфейса.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter - это удовольствие работать с ним, и у них есть #mobx для легкого управления хранилищем.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""a pleasure to work with"" is translated as ""удовольствие работать с ним,"" which is slightly awkward in Russian. A more natural translation might be ""удобно работать.""
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The use of commas in the sentence could be improved for better readability in Russian.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The sentence structure is slightly awkward and could be improved for better flow in Russian.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+161,"The dependency story is less insane than nodejs, too.","История зависимостей менее безумна, чем у nodejs.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [accuracy/addition] - The word ""too"" at the end of the source sentence is omitted in the translation.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+163,But it allows to move fast and that's why it's ideal for small hacks.,"Но это позволяет двигаться быстро, и поэтому идеально подходит для небольших взломов.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The term ""hacks"" in the source text is mistranslated as ""взломов"" in Russian, which typically means ""hacks"" in the context of hacking or breaking into systems. The intended meaning in the source text is likely ""small, quick solutions or improvements,"" which is not accurately conveyed.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: [inappropriate for context] - The term ""взломов"" is inappropriate for the context as it suggests illegal activity rather than quick solutions or improvements.
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+166,Their tail is extremely thick.,Их хвост чрезвычайно толстый.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+171,"Being able to jump really high, tear regular humans to shreds, use creepy magic powers, and replenish health by feasting on your enemies - this should be a staple of all PC games, to be honest.","Умение прыгать очень высоко, разрывать обычных людей на куски, использовать жуткие магические силы и восстанавливать здоровье, пируя на своих врагах - честно говоря, это должно быть основой всех игр для ПК.","MQM annotations:
+
+Accuracy Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Fluency Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Locale Convention Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Style Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Terminology Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Other Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+No-error"
+176,It maybe has too many language subtleties.,"Возможно, в нём слишком много языковых тонкостей.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","Нужно перевести это на мандарин и/или хоккиен, ни один из которых я совсем не знаю.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The original sentence mentions ""Mandarin and/or Hokkien,"" but the translation uses ""мандарин и/или хоккиен,"" which is a correct translation. However, the context of ""neither of which I know at all"" is accurately translated as ""ни один из которых я совсем не знаю.""
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+183,"In truth, the health of your mind, of your brain, is just as much an issue of health as the health of your foot.","На самом деле, здоровье вашего разума, вашего мозга, является такой же проблемой здоровья, как и здоровье вашей ноги.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+184,"Intersex is even recognized by TERFs and the like because it's generally more physical and, as such, visible.","Интерсекс признается даже ТЕРФами и подобными, потому что это, как правило, более физическое и, следовательно, заметное.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","Точно так же, как психическое здоровье многими воспринимается как менее ""реальное"", чем физическое здоровье, я как бы чувствую, что быть трансгендером — это просто интерсекс мозга.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""intersex of the mind"" is translated as ""интерсекс мозга,"" which may not fully convey the intended metaphorical meaning in Russian.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall, the translation is mostly accurate and fluent, with only a minor issue in conveying the metaphorical meaning of ""intersex of the mind."""
+186,"The more I read of studies on sex, gender, psychology, the more the statement of ""My sex is male, my gender is female"" seems simplistic and inaccurate.","Чем больше я читаю исследований о сексе, гендере, психологии, тем больше утверждение ""Мой пол мужской, мой гендер женский"" кажется мне упрощённым и неточным.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation is accurate and fluent with no detectable errors."
+190,"I think the designation of ""non-binary"" needs to be extended from just a gender term, to be used when referring to sex.","Я думаю, что обозначение ""небинарный"" нужно расширить от гендерного термина, чтобы использовать его при упоминании пола.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,"Как краутовые настроения и другая мировая поп-музыка, радиофоническая мастерская и всякое такое.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""other worldly pop music"" is mistranslated as ""другая мировая поп-музыка,"" which means ""other world pop music"" instead of ""otherworldly pop music,"" implying a different meaning.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+210,I want to make dashboards.,Я хочу создавать панели управления.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No error detected."
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""","Итак, с приближением нового уровня рейда в #FFXIV, я долго думал: ""Черт, я бы хотел попробовать настоящий рейд, но Party Finder звучит как беспорядок, и я никогда не найду статик, который меня возьмет.""","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any noticeable errors."
+215,I'll make my own static!,Я сделаю свой собственный статик!,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The word ""static"" in the source text is mistranslated. It is ambiguous in English and could refer to either ""static electricity"" or ""static content/code,"" among other meanings. The Russian translation ""статик"" does not clarify the intended meaning and may not be a correct or common translation depending on the context.
+[Major]: [omission] - None
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - The exclamation mark is used correctly, but without context, it's unclear if the tone matches the intended emphasis.
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [name] - None
+[Major]: [date] - None
+[Minor]: [currency] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - The phrase ""свой собственный"" can be considered redundant in Russian, as ""свой"" already implies possession.
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Non-Translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error
+[Critical]: None
+[Major]: None
+[Minor]: None"
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!","Полно людей, слишком обеспокоенных, чтобы попробовать присоединиться к рейдовому статик-группе, без каких-либо ожиданий быть хорошими в этом!","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""raid static"" is a specific term in gaming that may not be accurately conveyed by ""рейдовому статик-группе."" The term ""static"" refers to a consistent group of players, which might be better translated with more context-specific terminology.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: [grammar] - The phrase ""рейдовому статик-группе"" has a grammatical issue with the agreement of the words. It should be ""рейдовой статик-группе"" to match the gender and case.
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The translation is slightly awkward in Russian, particularly the phrase ""без каких-либо ожиданий быть хорошими в этом,"" which could be more naturally phrased.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+219,I was a voracious reader in my youth.,В юности я был ненасытным читателем.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall: no-error"
+221,"But, after ~decades~ of reading next to nothing (with the exception of functional work-related non-fiction stuff and an occasional self-help book) I set a goal to read 23 books in 2023.",Но после ~десятилетий~ почти полного отсутствия чтения (за исключением функциональной рабочей научно-популярной литературы и случайной книги по саморазвитию) я поставил цель прочитать 23 книги в 2023 году.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""functional work-related non-fiction stuff"" is translated as ""функциональной рабочей научно-популярной литературы,"" which may not fully capture the informal and broad nature of ""stuff"" in the original context.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: [Minor]: None"
+226,I wanna see these companies that intermediate transactions explain to their customers how they set their percentages.,"Я хочу, чтобы эти компании, которые выступают посредниками в транзакциях, объяснили своим клиентам, как они устанавливают свои проценты.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The word ""wanna"" is informally translated as ""хочу,"" which is acceptable, but the informal tone is not fully captured.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The translation could be slightly more natural by using a more conversational tone to match the informal ""wanna"" from the source.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+228,"But if Spotify has a good quarter, they will.","Но если у Spotify будет хороший квартал, они это сделают.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The translation of ""they will"" as ""они это сделают"" is inaccurate. The phrase should imply continuation or success, not a specific action.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+229,Is it a danger to let migrants in at the southern border? I dunno.,Представляет ли опасность впускать мигрантов на южной границе? Не знаю.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,Пусть они восстановят опустошённые и разрушающиеся города по всей стране.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: omission - The word ""Again"" is omitted in the translation, which slightly affects the emphasis of the statement.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+238,There are still going to be jobs that can be accomplished remotely for the foreseeable future.,"В обозримом будущем всё ещё будут существовать работы, которые можно выполнять удалённо.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+239,Remote work is enabling.,Удалённая работа является возможностью.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation ""является возможностью"" means ""is an opportunity,"" which does not accurately convey the meaning of ""is enabling."" The original sentence suggests that remote work is facilitating or making something possible, not that it is an opportunity.
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [awkward] - The phrase ""является возможностью"" is slightly awkward in this context, as it does not match the intended meaning of ""enabling.""
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [inappropriate for context] - The term ""возможностью"" is not appropriate for the context of ""enabling.""
+
+Non-translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+No-error: None"
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.","Это позволяет людям работать в комфортных помещениях, а не в душных, шумных офисах.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,"Это позволяет людям избежать длительных поездок на работу, которые отнимают время у их дня и семьи.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+250,"""You are the carbon they are trying to reduce.""","""Вы — углерод, который они пытаются уменьшить.""","MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The phrase ""You are the carbon they are trying to reduce"" is metaphorical, implying that the person is being targeted for reduction, similar to carbon emissions. The translation does not convey this metaphorical meaning and instead translates it literally, which could lead to misunderstanding.
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Fluency Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Locale Convention Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Style Errors
+[Critical]: [None] - None
+[Major]: [awkward] - The literal translation results in an awkward sentence that does not capture the intended metaphorical meaning.
+[Minor]: [None] - None
+
+Terminology Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Non-Translation Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Other Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+No-Error
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None"
+251,"So like from the beginning for all my birthdays in the past, I always had rough ones.","Так что, начиная с самого начала, на все мои дни рождения в прошлом у меня всегда были тяжелые.","MQM annotations:
+Accuracy Errors
+[Critical]: omission - The word ""ones"" referring to ""birthdays"" is omitted, which can lead to confusion.
+[Major]: mistranslation - The phrase ""rough ones"" is translated as ""тяжелые,"" which can imply ""heavy"" rather than ""difficult"" or ""challenging,"" potentially altering the intended meaning.
+[Minor]: addition - The phrase ""начиная с самого начала"" adds unnecessary emphasis not present in the original text.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The comma after ""Так что"" is unnecessary and affects the flow of the sentence.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The structure of the sentence is awkward and could be more fluidly expressed in Russian.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+257,And today is already becoming a great day!,А сегодня уже становится отличным днем!,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+258,Winter is 30 days away in this little part of the Great Southern World.,Зима наступит через 30 дней в этой маленькой части Великого Южного мира.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,"Я застегну подкладку в свою велосипедную куртку на случай, если она мне понадобится.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""zip the lining"" is mistranslated as ""застегну подкладку,"" which implies fastening rather than zipping. This disrupts the flow but the intended meaning is still understandable.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+273,I finally got a good dangle photo so I can be sure he's not fat.,"Наконец-то у меня получилось сделать хорошее фото под углом, чтобы убедиться, что он не толстый.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+275,He's not.,Он нет.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation ""Он нет"" is incorrect and does not convey the meaning of ""He's not."" It should be translated as ""Он не"" or ""Он не является"" depending on the context.
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [grammar] - The structure ""Он нет"" is grammatically incorrect in Russian.
+[Minor]: [error/error_subcategory] - None
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [awkward] - The phrase ""Он нет"" is awkward and unnatural in Russian.
+[Minor]: [error/error_subcategory] - None
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Non-Translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+No-Error
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None"
+282,2) The currency reward system has been connected.,2) Система вознаграждений валютой была подключена.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""currency reward system"" is mistranslated as ""система вознаграждений валютой,"" which implies a system of rewards using currency, rather than a system that rewards currency.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+286,"All collards, kale, chard is transplanted.","Все капустные, капуста кале, мангольд пересажены.","MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation of ""All collards"" as ""Все капустные"" is incorrect, as ""collards"" refers specifically to a type of leafy green vegetable, not all cabbage-like vegetables.
+[Major]: [omission] - The word ""is"" in the source sentence is omitted in the translation, which affects the grammatical structure.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - The sentence lacks proper punctuation, such as a period at the end.
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [name format] - None
+[Major]: [date format] - None
+[Minor]: [currency] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - The translation ""Все капустные, капуста кале, мангольд"" is awkward and does not flow well.
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Non-Translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-Error
+[Critical]: None
+[Major]: None
+[Minor]: None"
+287,Plans to set in salad at Penn on 6row pattern and see how that compares to broadcast seeded beds.,Планы по посадке салата в Пенне по схеме в 6 рядов и сравнение с посевом на грядках.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The phrase ""set in salad at Penn"" is mistranslated. The location ""Penn"" is not clear in the translation, and ""set in salad"" is not accurately conveyed.
+[Major]: [omission] - The translation omits ""how that compares"" which is important for understanding the comparison aspect.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: None
+[Major]: [grammar] - The translation lacks clarity in structure, making it slightly difficult to follow the intended meaning.
+[Minor]: [punctuation] - The punctuation could be improved for better readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: [awkward] - The translation is awkward and does not flow naturally in Russian.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: [inappropriate for context] - The term ""посадка"" might not be the best choice for ""set in"" in this context.
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,"Весенний горох в Гилпине начинает появляться, поэтому нужно установить шпалеры.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","Также нужно посеять ряд салата, чтобы интегрировать нарезанную зелень, обученная команда уже подготовлена по орошению, подготовке грядок и пересадке, что составляет 90% навыков, не связанных со сбором урожая.","MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The phrase ""to integrate cut greens in both"" is mistranslated, leading to confusion about the intended meaning.
+[Major]: [omission] - The translation omits the idea of ""have trained crew"" being a separate clause, which affects the clarity of who is trained and what they are trained on.
+[Minor]: [addition] - The translation adds ""уже"" (already), which is not present in the source text and slightly alters the meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: [grammar] - The sentence structure in the translation is awkward and affects readability.
+[Minor]: [punctuation] - The use of commas in the translation could be improved for better readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: [awkward] - The translation is awkwardly phrased, making it difficult to follow.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: [inappropriate for context] - The term ""пересадке"" (transplanting) might not fully convey the agricultural context intended.
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","Из любопытства я оставил открытым сознание, чтобы сравнить, как Google Maps и Apple Maps сопоставляются на моем тестовом устройстве iPhone (мой основной телефон - Android, поэтому я редко использую iPhone).","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""kept an open mind"" is mistranslated as ""оставил открытым сознание,"" which is awkward and does not convey the intended meaning of being open-minded.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The use of a dash in ""мой основной телефон - Android"" is correct, but it could be improved for fluency by using commas or parentheses for better readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The translation of ""оставил открытым сознание"" is awkward and does not sound natural in Russian.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+299,Was it the 2012 Apple Maps disaster?,Это была катастрофа с Apple Maps в 2012 году?,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","Я предвзят в пользу того, чтобы не выпускать мусор для конечных пользователей, и Apple капитально облажалась с их Apple Maps, когда они вышли в 2012 году.","MQM annotations:
+
+Accuracy Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Fluency Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Locale Convention Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Style Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Terminology Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Other Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+No-error"
+308,Not the case.,Не в этом дело.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - There should be a space after the period in the source text.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,"Кажется немыслимым, что землю могут отнять однажды, когда вы смотрите австралийские и американские медиа-каналы, но это потому, что богатые находятся там весь день, обеспечивая, чтобы ваш разум думал определенным образом.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,"Земля очень легко и быстро изымается правительством в один день, если они захотят это сделать.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+316,It never made sense how ppl can keep land at the expense of others.,"Никогда не было понятно, как люди могут удерживать землю за счет других.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The abbreviation ""ppl"" in the source text is translated as ""люди"" (people), which is correct, but it might be considered a minor issue if the abbreviation was intended to convey a more informal tone. However, the translation maintains the intended meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,"Я часто удивляюсь способности человека быть *настолько* самокритичным, будучи окружённым таким количеством доказательств того, как выглядит настоящая жестокость.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,"Но смягчение отчаяния по поводу нашего беспорядка имеет решающее значение - потому что оно дает нам больше пространства для того, чтобы справиться с разрухой вокруг.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+331,"Some programmers: ""Typing speed does not matter!""","Некоторые программисты: ""Скорость набора текста не имеет значения!""","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+334,"Not sure if this is the best approach for sharing, but I like it for now: <URL>","Не уверен, что это лучший подход для обмена, но мне он нравится на данный момент: <URL>","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+338,I have been toying with this little piece on my head for a few days now.,Я размышляю над этой небольшой идеей в своей голове уже несколько дней.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""toying with"" is mistranslated as ""размышляю над,"" which means ""pondering over."" The original implies a more playful or experimental approach rather than serious contemplation.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+339,It is definitely more romance than filth.,"Это определённо больше романтика, чем грязь.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+343,"Common, it's really not that hard.","Общепринято, это действительно не так уж и сложно.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The word ""Common"" is mistranslated as ""Общепринято,"" which means ""commonly accepted"" or ""generally accepted,"" rather than the intended meaning of ""Come on"" or ""It's not difficult.""
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: [awkward] - The translation is awkward due to the mistranslation of ""Common,"" which affects the natural flow of the sentence.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error
+[Critical]: None
+[Major]: None
+[Minor]: None"
+345,"I wish there was a ""who to follow"" recommendation somehow.","Хотелось бы, чтобы была рекомендация ""кого следовать"".","MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The phrase ""кого следовать"" is a mistranslation of ""who to follow."" The correct translation should be ""кого следовать"" or ""кого подписаться"" to convey the idea of following someone on a platform.
+[Major]: [omission] - The translation omits the nuance of ""recommendation somehow,"" which could be better captured with a phrase like ""рекомендация о том, кого следовать.""
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [awkward] - The structure ""кого следовать"" is awkward in Russian and does not clearly convey the intended meaning.
+[Minor]: [punctuation] - The use of quotation marks around ""кого следовать"" is correct, but the sentence could be smoother with additional context.
+
+Locale Convention Errors
+[Critical]: [currency/date/name/telephone/time format] - None
+[Major]: [currency/date/name/telephone/time format] - None
+[Minor]: [currency/date/name/telephone/time format] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - The translation could be more naturally phrased to fit the context.
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Other Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+No-error: None"
+347,If you stick to the default web interface it doesn't look and feel good (imho).,"Если вы придерживаетесь интерфейса веб по умолчанию, он не выглядит и не ощущается хорошо (имхо).","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""web interface"" is translated as ""интерфейса веб,"" which is an awkward and incorrect word order in Russian. It should be ""веб-интерфейса.""
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The abbreviation ""imho"" should be in uppercase as ""ИМХО"" in Russian to maintain consistency with the source.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: [awkward] - The phrase ""интерфейса веб по умолчанию"" is awkward in Russian and could be more naturally phrased as ""веб-интерфейса по умолчанию.""
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+349,"I don't know if prevention is possible, but it's worth trying.","Я не знаю, возможно ли предотвратить это, но стоит попробовать.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+350,"The four steps I outline are up for debate, with some progress in each:","Четыре шага, которые я изложил, подлежат обсуждению, с некоторым прогрессом в каждом из них.","MQM annotations:
+Accuracy Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [mistranslation] - The phrase ""are up for debate"" is mistranslated as ""подлежат обсуждению,"" which implies that the steps are subject to discussion, but the original implies they are open to debate or questioning.
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [punctuation] - The comma before ""с некоторым прогрессом"" could be considered unnecessary in Russian, although it doesn't significantly disrupt the flow.
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [awkward] - The phrase ""с некоторым прогрессом в каждом из них"" is slightly awkward in Russian and could be rephrased for better flow.
+[Minor]: [error/error_subcategory] - None
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [inappropriate for context] - The term ""подлежат обсуждению"" may not fully capture the nuance of ""up for debate.""
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+No-error: None"
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.","Даже если он не смог сказать их во время встречи с избирателями, все в Америке все равно услышат их, неоднократно, между настоящим моментом и ноябрем 2024 года.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+363,"The ""MusicLM Demo"" is mildly interesting.",«Демонстрация MusicLM» умеренно интересна.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,Я тренируюсь в одиночку в своей спальне без страховщика и даже без стойки для штанги.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+371,I bench press on my bed.,Я жму штангу лёжа на кровати.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+378,I'd never seen it at the fancy grocer or any of the Italian delis.,Я никогда не видел этого в дорогом магазине или в каком-либо из итальянских деликатесов.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The word ""fancy"" is translated as ""дорогом"" (expensive), which may not fully capture the nuance of ""fancy"" as it can imply more than just expensive, such as upscale or high-end.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","Будучи радикализированными здесь, мы неохотно покупаем новую машину FAANG.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""reluctant to buy"" is translated as ""неохотно покупаем,"" which implies they are buying but reluctantly, rather than being hesitant or unwilling to buy.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The asterisk (*) indicating a footnote or additional information about ""FAANG machine"" is missing in the translation.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The phrase ""Будучи радикализированными здесь"" is somewhat awkward in Russian and could be phrased more naturally.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+386,"In 1998-06 Gamefan, in relation to the long development of the first Unreal game, Jason Schrieber commented,",В выпуске Gamefan за июнь 1998 года Джейсон Шрайбер прокомментировал длительную разработку первой игры Unreal.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The source text specifies ""1998-06"" as the date format, which is mistranslated as ""июнь 1998 года"" (June 1998) in the translation. This could lead to confusion about the exact date.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: [date] - The date format in the source is ""1998-06"" which is not accurately reflected in the translation. It should be consistent with the source format.
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+387,"""A good game is only late until it ships.","""Хорошая игра задерживается только до её выхода.""","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [accuracy/mistranslation] - The translation is generally correct, but the phrase ""only late until it ships"" could be more accurately translated to capture the nuance of the original English expression. The current translation slightly alters the meaning, but it does not disrupt comprehension.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+388,"A bad game is bad forever.""",«Плохая игра плоха навсегда.»,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",Более ранний выпуск GamePro 1997-11 содержит цитату с гораздо большей неоднозначностью.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+402,There's areas that could use some polish.,"Есть области, которые можно было бы улучшить.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""could use some polish"" is translated as ""можно было бы улучшить,"" which means ""could be improved."" While the general idea is conveyed, the nuance of ""polish"" as a more subtle enhancement is lost.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - There should be a space after the period in the source sentence, but this is a minor issue as it does not affect the translation.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+404,"Fix those minor issues, and then can we have more of these please?","Исправьте эти мелкие проблемы, а затем можем ли мы получить больше таких, пожалуйста?","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The placement of the comma before ""пожалуйста"" is slightly awkward in Russian. It would be more natural to place it after ""таких"".
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+410,We visited for a couple hours on my porch.,Мы провели пару часов на моем крыльце.,"MQM annotations:
+Accuracy Errors
+[Critical]: [omission] - The phrase ""We visited"" implies a social interaction or conversation, which is not captured in the translation.
+[Major]: [mistranslation] - The translation ""Мы провели пару часов на моем крыльце"" translates to ""We spent a couple of hours on my porch,"" which misses the nuance of ""visited"" indicating a social visit.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [punctuation] - The source text contains a period at the end, which is missing in the translation.
+
+Locale Convention Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Style Errors
+[Critical]: [None] - None
+[Major]: [awkward] - The translation could be more naturally expressed to better capture the social aspect of ""visited.""
+[Minor]: [None] - None
+
+Terminology Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Other Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+No-error: None"
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","Восьмиглазые Репниды, кажется, наблюдают за вами, когда вы приземляете летательный аппарат на красную почву, но они не двигаются к вам, на самом деле они неподвижны, когда вы выходите из аппарата и медленно идете к ним.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall, the translation is accurate and fluent, with no errors detected."
+421,"The ground beneath your feet begins to tremble and then shake, as if in an earthquake and you lose your footing, though the Repnids seem unaffected.","Земля под вашими ногами начинает дрожать, а затем трястись, как при землетрясении, и вы теряете равновесие, хотя Репниды остаются невозмутимыми.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The word ""Repnids"" is transliterated as ""Репниды,"" which may not be the correct or intended translation if ""Repnids"" is a specific term or name that should remain unchanged.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+422,The rock beneath you gives way suddenly.,Скала под вами внезапно обрушивается.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","Конец наступает быстро, когда несколько пар клыков впрыскивают свою смертельную отраву, а воздух Дискры заражает ваши легкие.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any noticeable errors."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.","Вы решаете, что восстанавливать контакт будет опасно, и возвращаетесь к своему летательному аппарату, но этот опыт прояснил ваш разум, который был затуманен с тех пор, как вы прыгнули в будущее.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+434,Note that you have used up another polybdenum rod as you jump.,"Обратите внимание, что вы израсходовали еще один полибденовый стержень, когда прыгали.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The term ""polybdenum"" is mistranslated as ""полибденовый"" instead of the correct term ""молибденовый"" (molybdenum).
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,"Я нашел неравномерно пряденую серебристо-серую пряжу, которая в основном тонко прядена с комками.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [accuracy/mistranslation] - The phrase ""unevenly spun"" is translated as ""неравномерно пряденую,"" which is accurate. However, the translation ""mostly finely spun"" as ""в основном тонко прядена"" is correct, but the word ""с комками"" (with lumps) could be considered slightly awkward in the context. The translation is generally accurate, but there is a minor awkwardness in phrasing.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [style/awkward] - The phrase ""с комками"" (with lumps) is slightly awkward in the context, though it does not significantly hinder comprehension.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,Я планирую смешать это с тонким пурпурно-сиреневым меланжевым хлопком.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+449,"I hit most of the classics before eighteen--though that's more a reflection of living in bumfuck nowhere, I also read the 1979 Encyclopedia Brittanica in desperation.","Я прочитал большинство классиков до восемнадцати лет — хотя это скорее отражение жизни в глуши, я также в отчаянии прочитал Энциклопедию Британнику 1979 года.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""bumfuck nowhere"" is translated as ""глуши,"" which captures the idea of a remote place but loses the informal and somewhat vulgar tone of the original expression.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The translation of ""though that's more a reflection of living in bumfuck nowhere"" as ""хотя это скорее отражение жизни в глуши"" could be considered slightly awkward due to the lack of the informal tone present in the original.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.","И это даже несмотря на то, что я не спал здесь так же хорошо последние две ночи, как дома, и немного устал от #MECFS просто из-за нахождения в незнакомой обстановке, где я меньше могу распределять свои силы и должен помнить, где что находится.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: omission - The translation omits the phrase ""as well"" in ""I haven't slept as well here.""
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The translation could benefit from a comma after ""дома"" to improve readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The phrase ""где я меньше могу распределять свои силы"" could be phrased more naturally in Russian.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error
+[Critical]: None
+[Major]: None
+[Minor]: None"
+454,Humanity is out in 5 days.,Человечеству осталось 5 дней.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation ""Человечеству осталось 5 дней"" implies that humanity has only 5 days left, which is a mistranslation of the original phrase ""Humanity is out in 5 days,"" potentially meaning humanity will be out of something or finished in 5 days.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+457,I like it but will it be able to attract an audience of the right players?,"Мне это нравится, но сможет ли это привлечь аудиторию нужных игроков?","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+463,Came home on my lunch break to see this sitting outside uwu.,Пришел домой на обеденный перерыв и увидел это снаружи uwu.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The term ""uwu"" is an emoticon and might not be understood in Russian without context. It could be considered a minor mistranslation if the emoticon is not commonly recognized in the target language.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+467,Was it overly cute to the point of being twee?,"Было ли это чрезмерно мило до такой степени, что стало приторным?","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+474,Did she owe someone money?,Она кому-то была должна деньги?,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.",Хорошая критика предназначена для быстрого исправления проблемы и не направлена на вашу способность.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""isn't directed at your ability"" is mistranslated. The translation ""не направлена на вашу способность"" does not convey the intended meaning, which should indicate that the critique is not a reflection or judgment of the person's ability.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+487,But for strong and firm future growth.,Но для сильного и устойчивого будущего роста.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+489,"She was on her way to the wall, he was coming off duty.","Она шла к стене, он как раз закончил дежурство.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - ""he was coming off duty"" is mistranslated as ""он как раз закончил дежурство,"" which means ""he had just finished his duty."" The original implies he was in the process of finishing, not that he had already finished.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+493,One block-printed word.,Одно блокированное слово.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The word ""block-printed"" is mistranslated as ""блокированное,"" which means ""blocked"" instead of referring to a printing technique.
+[Major]: [omission] - None
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: [inappropriate for context] - The term ""блокированное"" is inappropriate for the context of printing.
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"

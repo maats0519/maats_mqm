@@ -1,0 +1,527 @@
+index,original,translated,style_annotation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",それが IDirect3DViewport3 を返すと推定していたことが判明しましたが、実際に実装しているのは IDirect3DViewport で、その末尾にはさらにメソッドが追加されています。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the target language. The phrase ""実際に実装しているのは IDirect3DViewport で、その末尾にはさらにメソッドが追加されています"" sounds awkward and could be expressed more naturally.
+[minor]: [REGISTER] - The use of the formal pronoun ""それが"" may not be appropriate in this context and a more casual register could be more suitable."
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは必ずしも当てはまるわけではない。問題のオブジェクトを作成するために使用するインターフェイスによって、状況が異なる。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""しかし、これは必ずしも当てはまるわけではない。問題のオブジェクトを作成するために使用するインターフェイスによって、状況が異なる。"" reads too literally and lacks the natural flow expected in Japanese."
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",仮に議論のために、科学は少なくとも部分的に、理論を支持するかどうかに関わらず真実である、客観的な事実に関する一覧表で構成されているとする。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language. A more natural phrasing would be more appropriate."
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,科学的事実は理論に依存していると主張することは可能である。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""科学的事実は理論に依存していると主張することは可能である"" reads too literally and lacks the natural flow expected in Japanese."
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",実験は、この読み取りの事実を作り出すのではなく、どの実験を行うかを選択することで、発見される事実を制御する。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language. A more natural and idiomatic expression could be used."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",一部の事実(例えば、サブアトミック粒子に関するものなど)は、資源、組織、強制力が十分でなければ実現できない実験からしか得られません。そのような実験は資本主義体制でなければ不可能です。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language. The sentence structure could be improved to sound more natural.
+
+[minor]: [REGISTER] - The use of the phrase ""強制力が十分でなければ"" is slightly more formal than the original English text, which could be rephrased in a more natural, conversational style."
+14,Picking this up this weekend.,この週末に取り上げる。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""この週末に取り上げる"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be something like ""この週末に手に入れる"" or ""この週末に手に入れようと思います""."
+16,Already on coil overs and lowered ride height.,エアサスペンションに変更し、車高を下げています。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""エアサスペンションに変更し、車高を下げています"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be ""エアサスペンションに変更し、車高を下げた""."
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べましたが、この車に関する情報があれば教えていただきたいです。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""少し調べましたが、この車に関する情報があれば教えていただきたいです。"" reads a bit awkwardly and lacks the natural flow expected in Japanese. A more natural phrasing would be ""少し調べましたが、この車についてもっと情報がありましたら教えていただけますか。"""
+18,Personal experiences?,個人的な経験,"MQM annotations:
+Style Errors:
+[minor]: [REGISTER] - The translation uses a more formal register (""個人的な経験"") compared to the casual tone of the source text (""Personal experiences?"")."
+19,I know they're not fast compared,遅いと比べると、分かっています。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""遅いと比べると、分かっています。"" reads too literally and lacks the natural flow expected in the target language. A more natural translation would be something like ""速くはないことは分かっています。"""
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",私はボードショーツとワイフビーターを着て、彼はタトゥーだらけで、自分で「ネオナチみたいに見える」と表現した新しい髪型をしている。,"MQM annotations:
+Style Errors:
+[major]: [register] - The translation uses a formal register (""彼"" instead of ""あなた"") which does not match the casual tone of the source text.
+[minor]: [unnatural flow] - The translation ""自分で「ネオナチみたいに見える」と表現した新しい髪型をしている"" sounds a bit awkward and overly literal compared to the more natural flow of the source text."
+36,NY is the best hope for accountability,ニューヨークが説明責任の最良の希望です。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""ニューヨークが説明責任の最良の希望です。"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression would be required."
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つシグナルを送ることに還元できないという重要な証拠がある。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""現実世界のコミュニケーションは、文脈に依存しない意味を持つシグナルを送ることに還元できないという重要な証拠がある"" reads too literally and lacks the natural flow expected in the Japanese language."
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",コンテキスト依存的なコミュニケーションは、環境特性(コンテキストの分布など)に大きく影響される、多層的な状況的現象であると提案する。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""コンテキスト依存的なコミュニケーションは、環境特性(コンテキストの分布など)に大きく影響される、多層的な状況的現象であると提案する"" reads too literally and lacks the natural flow expected in the Japanese language."
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒に様々なプロジェクトをサポートする6か月間を過ごせたことは幸運でした。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""2011年にニコラスと一緒に様々なプロジェクトをサポートする6か月間を過ごせたことは幸運でした。"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression could be used."
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会ったときは、特に植林や農場支援の進捗を聞いて嬉しかったです。,"MQM annotations:
+Style Errors:
+[minor]: [register] - The translation uses a more formal register (""週末に会ったときは"") compared to the casual tone of the source text (""When we caught up at the weekend"").
+[minor]: [unnatural flow] - The translation ""特に植林や農場支援の進捗を聞いて嬉しかったです"" sounds a bit awkward and overly literal compared to the more natural flow of the source text."
+61,Licht AGREED to an all Republican audience!,賛成しました。,"MQM annotations:
+Style Errors:
+[Major]: [REGISTER] - The translation ""賛成しました"" uses a formal register, while the source text ""Licht AGREED to an all Republican audience!"" suggests a more informal or conversational tone."
+65,It can't be repeated.,それを繰り返すことはできません。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""それを繰り返すことはできません。"" reads too literally and lacks the natural flow expected in Japanese."
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨晩、このルーティンに嫌気がさしたので、全てのトラップからピーナッツバターを取り除き、ピスタチオをスーパーグルーで固定しました。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""昨晩、このルーティンに嫌気がさしたので、全てのトラップからピーナッツバターを取り除き、ピスタチオをスーパーグルーで固定しました。"" reads too literally and lacks the natural flow expected in the target language. A more natural expression could be used."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",私はこれまでほとんどすべての「人道的」な罠を試してきましたが、あまり成功していません。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""私はこれまでほとんどすべての「人道的」な罠を試してきましたが、あまり成功していません。"" reads too literally and lacks the natural flow expected in Japanese."
+74,"They aren't, at least not in Alberta.",それらはそうではありません、少なくともアルバータでは。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""それらはそうではありません、少なくともアルバータでは。"" reads too literally and lacks the natural flow expected in Japanese."
+75,Sure they cut business taxes.,はい、彼らは企業税を削減しました。,"MQM annotations:
+Style Errors:
+[Major]: [COMPANY STYLE] - The translation does not match the company's style guidelines for translating business-related terms."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",グラスゴーに彼を降ろすだけです。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""グラスゴーに彼を降ろすだけです。"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression would be something like ""彼をグラスゴーに降ろすだけです。"""
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.","""グラスゴーに彼を降ろすだけです""と、チケット販売員は言った。","MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""グラスゴーに彼を降ろすだけです"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be something like ""グラスゴーに彼を送り届けるだけです""."
+90,And they are truly nuts.,そして、彼らは本当にナッツです。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""そして、彼らは本当にナッツです。"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural way to express this would be ""彼らは本当にナットのようだ。"" or ""彼らは本当にナットみたいだ。""."
+95,Yell back at those who would try to talk over us.,怒鳴り返せ、私たちを押し黙らせようとする者たちに。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""怒鳴り返せ、私たちを押し黙らせようとする者たちに。"" reads too literally and lacks the natural flow expected in Japanese.
+[Minor]: [REGISTER] - The use of the formal pronoun ""私たち"" may not be appropriate in this context, a more casual register could be more suitable."
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,私の隣人と私は同時に家に着き、私は通りを隔てた向こうから彼がCOVID-19の痰を激しく咳き上げているのが聞こえました。,"MQM annotations:
+Style Errors:
+[major]: [register] - The translation uses a more formal register (""私の隣人と私は同時に家に着き"") compared to the casual tone of the source text (""My neighbor & I arrived home at the same time"").
+[minor]: [unnatural flow] - The phrase ""COVID-19の痰を激しく咳き上げている"" sounds slightly unnatural and overly literal compared to the more natural-sounding source text (""coughing up a covid mucus storm"")."
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,そのため私は彼を避けるために急いでアパートに入ろうとしましたが、彼はまだ私と話をするために追いついてきました。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""そのため私は彼を避けるために急いでアパートに入ろうとしましたが、彼はまだ私と話をするために追いついてきました。"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural translation would be smoother and less word-for-word."
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","4,000の苦しみの後、Ylは愛の場所に自分を見出し、どうしていいかわからない大きな感情に満ちています。","MQM annotations:
+Style Errors
+[major]: [unnatural flow] - The translation ""4,000の苦しみの後、Ylは愛の場所に自分を見出し、どうしていいかわからない大きな感情に満ちています"" reads too literally and lacks the natural flow expected in the target language. A more natural expression would be needed."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#マンゴーモロンとの騒動は、はなはだしい大失態でした。,"MQM annotations:
+Style Errors:
+[major]: [REGISTER] - The translation uses a formal register (""昨日の"") which does not match the informal tone of the source text (""Yesterday's"").
+[minor]: [UNNATURAL FLOW] - The phrase ""はなはだしい大失態でした"" reads a bit awkwardly and could be expressed in a more natural way in Japanese."
+113,A cold front should arrive by the middle of next week.,来週の中旬までに寒冷前線が到着するはずです。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""来週の中旬までに寒冷前線が到着するはずです"" reads a bit too literally and lacks the natural flow expected in Japanese."
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",早朝、赤外線衛星と地上観測により、低層ストラタスと散在する<URL>の範囲が拡大していることが示されました。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""低層ストラタスと散在する"" reads too literally and lacks the natural flow expected in Japanese.
+[Minor]: [REGISTER] - The use of the formal language ""示されました"" may not be appropriate for the context."
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけ、その専門知識を活用してCRMへの投資の価値を最大化する。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the target language. A more natural expression could be used."
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーが実装、カスタマイズ、統合、継続的なサポートを通じてあなたの事業がSalesforceのエコシステムで繁栄できるよう支援することを発見してください。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language. A more natural and idiomatic expression would be more appropriate.
+
+The translation is as follows:
+Salesforceパートナーが実装、カスタマイズ、統合、継続的なサポートを通じてあなたの事業がSalesforceのエコシステムで繁栄できるよう支援することを発見してください。
+
+Compared to the source text:
+Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.
+
+The Japanese translation follows the structure of the English source too closely, resulting in an unnatural flow. A more natural Japanese expression would be preferable."
+137,But another individual often flies aboard that ship.,その船に別の個人がしばしば乗っている。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""その船に別の個人がしばしば乗っている"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be ""その船には別の人物もしばしば乗っている"" or similar."
+142,The Last of Us is an easy and canonical example of dad-ification.,最後のわれわれは、父親化の簡単で典型的な例です。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""最後のわれわれは、父親化の簡単で典型的な例です"" reads too literally and lacks the natural flow expected in Japanese. A more natural translation would be required."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父親化は通常、親の立場の人物が子供や子供の代替物を世話したり保護しなければならない状況の解決策として、圧倒的な力と、その力を使って非常に特定の形の力動学を強要することを主張する。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the target language. For example, the phrase ""using that strength to force a very specifically shaped power dynamic"" could be expressed more naturally in Japanese.
+[minor]: [REGISTER] - The overall tone of the translation is slightly more formal than the source text. A more natural, conversational register may be more appropriate."
+147,Here's a quick overview of how to make use of our website.,ウェブサイトの使い方の概要はこちらです。,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation reads a bit too literally, lacking the natural flow expected in the target language. A more natural phrasing could be used."
+148,- We send out notifications when airfare goes on sale.,航空券が値下がりした際に通知を送信します。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""航空券が値下がりした際に通知を送信します"" reads a bit too literally and lacks the natural flow expected in Japanese. A more natural expression could be ""航空券の値下がりがあった際に通知を送ります""."
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは平和で安全な環境で育つ権利がある。,"MQM annotations:
+Style Errors:
+[minor]: [register] - The translation uses a more formal tone compared to the source text, which has a more neutral register."
+159,Over time dart became my go-to for quick UI.,ダートは時間とともに私のクイックUIの定番になりました。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""ダートは時間とともに私のクイックUIの定番になりました"" sounds too literal and lacks the natural flow expected in Japanese. A more natural expression would be ""ダートはクイックUIの定番になっていきました""."
+164,Echidna with amethyst and magenta spikes.,エキドナ、アメジストとマゼンタのトゲ,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation ""エキドナ、アメジストとマゼンタのトゲ"" reads a bit awkwardly and lacks the natural flow expected in Japanese. A more natural phrasing could be ""アメジストとマゼンタのトゲを持つエキドナ""."
+166,Their tail is extremely thick.,しっぽはとてもふさふさです。,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation ""しっぽはとてもふさふさです"" reads a bit awkwardly and lacks the natural flow expected in Japanese. A more natural way to express this would be ""しっぽがとてもふさふさしています""."
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目は梨色で、緋色のキャットアイグラスを着用しています。,"MQM annotations:
+Style Errors:
+[Major]: [REGISTER] - The translation uses a formal register (""着用しています"") which does not match the more casual tone of the source text (""wear"").
+[Minor]: [UNNATURAL FLOW] - The phrase ""緋色のキャットアイグラス"" sounds a bit unnatural and could be phrased more naturally in Japanese."
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",現実生活では、私が何年も前に作った謎解きゲームを、私の母は好きだと言っていました。そして、ほとんどの秘密を自分で見つけ出したので、単に母親としての立場から言っているのではありませんでした。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the target language. For example, ""私が何年も前に作った謎解きゲームを、私の母は好きだと言っていました。"" could be more naturally expressed.
+[minor]: [REGISTER] - The use of ""言っていました"" is a bit formal, and a more casual expression like ""言ってた"" would be more appropriate in this context."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.",我需要把这个从英语翻译成中文和福建话。,"MQM annotations:
+Style Errors:
+[major]: [REGISTER] - The translation uses a formal register (e.g., ""我需要"") when a more casual register would be more appropriate.
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the target language."
+179,Been toying with this thought for a little while:,少し前からこの考えを遊んでいます。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""少し前からこの考えを遊んでいます"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression would be ""しばらくこの考えを練っています""."
+180,"Mental health is often seen as something separate from ""regular"" health.",精神的健康は、「通常の」健康とは別のものと見なされることが多い。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""精神的健康は、「通常の」健康とは別のものと見なされることが多い"" reads too literally and lacks the natural flow expected in Japanese."
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こるため、身体的な健康よりも目に見えにくいです。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""心の中で起こるため、身体的な健康よりも目に見えにくいです"" reads too literally and lacks the natural flow expected in Japanese."
+194,Very much worth having a go at.,とても挑戦する価値があります。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""とても挑戦する価値があります"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression would be ""とてもやってみる価値があります"" or ""とても挑戦する価値がある""."
+196,Playing around a bit with Flutter.,フラッターで少し遊んでいます。,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation ""フラッターで少し遊んでいます"" reads a bit too literally compared to the more natural English expression ""Playing around a bit with Flutter."""
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",私は正直に言って、Googleのテクノロジーをベースにしてビジネスを行うのは嫌です。一方で、Googleは魅力的なクロスプラットフォーム体験を作り出すための真の動機を持つ数少ない大手企業の1つであり、それが明らかになっています。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language. For example, the phrase ""魅力的なクロスプラットフォーム体験を作り出すための真の動機を持つ"" sounds overly formal and could be expressed in a more natural way.
+[minor]: [REGISTER] - The overall tone of the translation is slightly more formal than the original English text. For example, the use of ""正直に言って"" is a bit more formal than the casual tone of ""to be honest"" in the source."
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,私はそのようなコメントを控えさせていただきます。,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation ""私はそのようなコメントを控えさせていただきます"" reads a bit awkwardly and lacks the natural flow expected in Japanese. A more natural phrasing could be ""そのようなコメントは控えさせていただきます""."
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームは、うまくやりたい場合は難しい。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""クロスプラットフォームは、うまくやりたい場合は難しい。"" reads too literally and lacks the natural flow expected in Japanese."
+201,I know that.,私はそれを知っています。,"MQM annotations:
+Style Errors:
+[minor]: [REGISTER] - The translation uses a formal pronoun ""私は"" which does not match the informal tone of the source text ""I know that."""
+202,Thank you to those people who have downloaded the latest update to Leasey.,ありがとうございます。,"MQM annotations:
+Style Errors:
+[Minor]: [UNNATURAL FLOW] - The translation ""ありがとうございます"" reads a bit too literal and lacks the natural flow expected in the Japanese language compared to the more natural-sounding English source ""Thank you to those people who have downloaded the latest update to Leasey."""
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,私の脳がそれを解き明かすことができないのはなぜかよくわかりません。ツールが非常に広範囲で曖昧であるため、選択肢が多すぎて脳がハードロックしてしまうのかもしれません。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language. For example, the phrase ""選択肢が多すぎて脳がハードロックしてしまうのかもしれません"" sounds overly formal and could be expressed in a more natural way.
+[minor]: [REGISTER] - The overall tone of the translation is slightly more formal than the source text. For example, the use of ""ツールが非常に広範囲で曖昧であるため"" instead of a more conversational phrasing."
+211,Grafana looks pretty.,グラファナはきれいです。,"MQM annotations:
+Style Errors:
+[minor]: [company_style] - The translation ""グラファナはきれいです。"" does not match the company's style guide, which may prefer a more technical or descriptive term instead of ""きれいです""."
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",そして新しい#FFXIV レイド層が近づいてきたので、「本格的なレイドに挑戦したいけど、パーティファインダーは大混乱そうだし、自分を受け入れてくれるスタティックは見つからないだろう」と長い間考えていました。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language. The sentence structure and phrasing could be improved to sound more natural.
+
+[Minor]: [REGISTER] - The use of the formal phrase ""自分を受け入れてくれる"" may not be the most appropriate register for the context, which seems to be a more casual discussion about raiding in a video game."
+214,"So I thought, screw it!",そうだな、構わないよ!,"MQM annotations:
+Style Errors:
+[Major]: [REGISTER] - The translation uses a more formal register (""そうだな、構わないよ!"") compared to the casual tone of the source text (""So I thought, screw it!"")."
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",人々で溢れており、レイド固定に参加することに不安を感じているが、全く上手くできるとは期待していない。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""人々で溢れており、レイド固定に参加することに不安を感じているが、全く上手くできるとは期待していない"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be smoother and less repetitive.
+[minor]: [REGISTER] - The use of ""人々"" is a bit formal, while the overall tone of the source text seems more casual. A more informal register would be more appropriate."
+219,I was a voracious reader in my youth.,私は若い頃、貪欲な読書家でした。,"MQM annotations:
+Style Errors:
+[major]: [REGISTER] - The translation uses a formal register (""私は"") when a more informal register (""わたしは"") would be more natural for the context of being a ""voracious reader in my youth"".
+[minor]: [UNNATURAL FLOW] - The translation ""貪欲な読書家でした"" sounds a bit awkward and overly literal compared to the more natural-sounding English source ""I was a voracious reader in my youth""."
+227,They're not gonna talk about this on Bloomberg!,彼らはこれについてBloombergで話すつもりはありません。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""彼らはこれについてBloombergで話すつもりはありません"" reads too literally and lacks the natural flow expected in Japanese."
+228,"But if Spotify has a good quarter, they will.",しかし、Spotifyが良い四半期を過ごせば、彼らは。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""しかし、Spotifyが良い四半期を過ごせば、彼らは"" reads awkwardly and lacks the natural flow expected in Japanese. A more natural translation would be something like ""しかし、Spotifyが良い四半期を過ごせば、そうなるだろう。"" or ""しかし、Spotifyが良い四半期を過ごせば、そうなることになるだろう。""."
+231,These people want to improve their lives.,これらの人々は自分の生活を改善したいと考えています。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""これらの人々は自分の生活を改善したいと考えています"" reads a bit too literally compared to the more natural English expression ""These people want to improve their lives""."
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは死んだ」や「リモートワークは失敗した実験だった」と主張するヘッドラインに疲れてしまいました。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""「リモートワークは死んだ」や「リモートワークは失敗した実験だった」と主張するヘッドラインに疲れてしまいました。"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural translation would be smoother and more idiomatic."
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.",快適な空間で仕事ができ、窒息するような騒々しい事務所ではなくて済むようにしてくれる。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""快適な空間で仕事ができ、窒息するような騒々しい事務所ではなくて済むようにしてくれる"" reads a bit awkwardly and lacks the natural flow expected in Japanese. A more natural phrasing would be smoother."
+243,To just ignore these facts is wrong.,事実を無視するのは間違っています。,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation ""事実を無視するのは間違っています"" reads a bit too literally compared to the more natural English expression ""To just ignore these facts is wrong."""
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、キャリアのために子供を遅らせる現代の都市女性の衝動について言及した。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""パーカーは中絶と、キャリアのために子供を遅らせる現代の都市女性の衝動について言及した"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be to rephrase the sentence structure."
+255,It took years of changing my life and working hard but finally...,人生を変え、懸命に働いた年月の末に、ついに...,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""人生を変え、懸命に働いた年月の末に、ついに..."" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression would be smoother and more idiomatic."
+266,This is for Wikipedia's component library (OOUI).,これはウィキペディアのコンポーネントライブラリ(OOUI)のためのものです。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the target language. A more natural expression could be used."
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親要素を作成し、そこにMOをインストールし、それが分離されていくのを観察する。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""一時的な親要素を作成し、そこにMOをインストールし、それが分離されていくのを観察する"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be needed."
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は1日2回私の事務所を走り回ることで完全に引き締まっている。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""彼は1日2回私の事務所を走り回ることで完全に引き締まっている"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression would be to use a different verb or phrase to convey the meaning."
+278,It makes me so happy to see him thriving.,それを見て私はとても幸せです。,"MQM annotations:
+Style Errors:
+[major]: [register] - The translation uses a more formal tone (""それを見て私はとても幸せです"") compared to the more casual tone of the source text (""It makes me so happy to see him thriving"")."
+285,Last week got a ton done and feeling much better about field items.,先週は大量の仕事を完了し、フィールド項目についてもずっと良い気分になっています。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""先週は大量の仕事を完了し、フィールド項目についてもずっと良い気分になっています"" reads a bit awkwardly and lacks the natural flow expected in Japanese. A more natural phrasing could be used.
+[Minor]: [REGISTER] - The use of the formal expression ""ずっと良い気分になっています"" may not be entirely appropriate for the casual tone of the source text."
+286,"All collards, kale, chard is transplanted.",全てのコラード、ケール、チャードは移植されます。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""全てのコラード、ケール、チャードは移植されます。"" reads too literally and lacks the natural flow expected in Japanese."
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",そこにサラダの列を播種する必要もあり、両方に切り込んだグリーンを統合する。灌漑、ベッド準備、移植の訓練を受けた乗組員がいる。収穫以外のスキル項目の90%がこれらです。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the target language. For example, ""乗組員がいる"" could be rephrased in a more natural way.
+[minor]: [REGISTER] - The use of ""乗組員"" may be too formal for the context. A more casual term like ""スタッフ"" could be more appropriate.
+[minor]: [INCONSISTENCY] - The translation uses both ""サラダの列"" and ""切り込んだグリーン"" to refer to the same concept, which should be consistent."
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,アップルマップスではグーグルマップスに比べて、指示に従う必要があった経験がはるかに優れていた。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""アップルマップスではグーグルマップスに比べて、指示に従う必要があった経験がはるかに優れていた"" reads awkwardly and lacks the natural flow expected in Japanese. A more natural expression would be something like ""アップルマップスはグーグルマップスに比べて、指示に従う体験がはるかに優れていた""."
+295,Apple Maps wins.,アップルマップスが勝った。,"MQM annotations:
+Style Errors:
+[Major]: [COMPANY STYLE] - The translation ""アップルマップスが勝った"" does not match the company style or branding guidelines for Apple, which typically avoids using the full product name ""Apple Maps"" and instead uses ""Maps"" or a similar shortened version."
+302,"That said, I'm biased.",それでも、私は偏っています。,"MQM annotations:
+Style Errors:
+[Major]: [REGISTER] - The translation uses a more formal register (""それでも、私は偏っています"") compared to the more casual tone of the source text (""That said, I'm biased."")."
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,それは、政府が私たちが生活しているシステムを変更しないと考えている限り、富を長期的に保管する良い場所であるということです。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the target language. A more natural expression could be used.
+
+The translation is:
+それは、政府が私たちが生活しているシステムを変更しないと考えている限り、富を長期的に保管する良い場所であるということです。
+
+This is a direct translation of the English source, which results in an unnatural flow in Japanese. A more natural way to express this could be:
+
+政府がこれまでの仕組みを変更しない限り、この土地は長期的に富を蓄えるのに適しています。"
+309,In China you can only lease land.,中国では土地を借りることしかできません。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""中国では土地を借りることしかできません。"" reads too literally and lacks the natural flow expected in Japanese."
+311,The government can change these policies whenever it wants.,政府はいつでもこれらの政策を変更することができます。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""政府はいつでもこれらの政策を変更することができます"" reads too literally and lacks the natural flow expected in Japanese."
+312,The land is temporary.,土地は一時的です。,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation ""土地は一時的です"" reads a bit too literally compared to the more natural English expression ""The land is temporary."""
+318,That's why the Chinese only allow leases.,それが中国人が賃貸のみを許可する理由です。,"MQM annotations:
+Style Errors:
+[Major]: [REGISTER] - The translation uses a formal tone (""それが中国人が賃貸のみを許可する理由です"") when a more casual or conversational tone would be more appropriate for the context.
+[Minor]: [UNNATURAL FLOW] - The phrasing ""中国人が賃貸のみを許可する"" sounds a bit unnatural and could be expressed in a more natural way in Japanese."
+322,Let us continue to work together towards creating a brighter future for all.,私たちは全ての人のためのより良い未来を創造するために、これからも協力し続けましょう。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language.
+
+The source text: ""Let us continue to work together towards creating a brighter future for all.""
+
+The Japanese translation: ""私たちは全ての人のためのより良い未来を創造するために、これからも協力し続けましょう。""
+
+The translation conveys the meaning accurately, but the phrasing sounds a bit unnatural and formal compared to the more conversational tone of the English source. A more natural Japanese expression could be used to improve the flow and readability of the translation."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分に対してあまりにも厳しくなりながら、実際の残酷さがどのようなものかを示す多くの証拠に溢れていることに、私はしばしば驚嘆する。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language.
+
+The source text:
+""I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.""
+
+The Japanese translation:
+""自分に対してあまりにも厳しくなりながら、実際の残酷さがどのようなものかを示す多くの証拠に溢れていることに、私はしばしば驚嘆する。""
+
+The translation conveys the meaning accurately, but the phrasing and sentence structure sound unnatural in Japanese. A more natural-sounding translation would be preferable."
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",個人の失敗や罪悪感に苦しむことは、最も非難されるべき行為の責任者に「成功」が与えられることの多い世界においては...,"MQM annotations:
+Style Errors:
+[major]: [register] - The translation uses a more formal tone (""苦しむことは"") compared to the more casual tone of the source text (""agonize over"").
+[minor]: [unnatural flow] - The translation reads a bit awkwardly, with the clause starting with ""個人の失敗や罪悪感に苦しむことは"" sounding overly literal compared to the source."
+332,"or ""Modal editors are useless today"" :morty:",モーダルエディターは今日無用です,"MQM annotations:
+Style Errors:
+[Major]: [REGISTER] - The translation uses a formal tone (""モーダルエディターは今日無用です"") which does not match the informal tone of the source text (""Modal editors are useless today"" :morty:)."
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:","私のAxumプロジェクトの機能を共有ライブラリに抽出する: ""キーボードを持ってて"" :partyparrot: :helix: :ferrisdance:","MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""キーボードを持ってて"" sounds unnatural and lacks the natural flow expected in Japanese. A more natural expression would be ""キーボードを手放せない"" or similar.
+[minor]: [REGISTER] - The use of the casual phrase ""キーボードを持ってて"" may not be appropriate for the context, which seems to be a technical or professional discussion. A more formal register would be more suitable."
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのプロンプトは「一晩中起きていろ」です。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""一晩中起きていろ"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression would be needed."
+339,It is definitely more romance than filth.,それは間違いなくより多くのロマンスであり、汚れではありません。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""それは間違いなくより多くのロマンスであり、汚れではありません。"" reads too literally and lacks the natural flow expected in the Japanese language."
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",空中でイキたいと思っています。,"MQM annotations:
+Style Errors:
+[major]: [REGISTER] - The translation uses a more formal register than the source text, which has a more casual tone."
+345,"I wish there was a ""who to follow"" recommendation somehow.",「フォローすべき人」のおすすめがあればいいのに。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""「フォローすべき人」のおすすめがあればいいのに。"" reads a bit awkwardly and lacks the natural flow expected in Japanese. A more natural phrasing could be ""「フォローすべき人」のおすすめがあると便利ですね。"" or similar."
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",それには少し多くの努力が必要で、良いアプリを使う必要があるでしょう。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""それには少し多くの努力が必要で、良いアプリを使う必要があるでしょう"" reads a bit awkwardly and lacks the natural flow expected in Japanese. A more natural expression could be used."
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",介入策: 何かを変えるために行うことについての知識、ある程度の確信の範囲内で。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""介入策: 何かを変えるために行うことについての知識、ある程度の確信の範囲内で。"" reads too literally and lacks the natural flow expected in Japanese."
+360,He's here and he's going to say this stuff no matter what.,彼はここにいて、何があっても、この内容を言うつもりです。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""彼はここにいて、何があっても、この内容を言うつもりです"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be ""彼はここにいて、何があっても、必ずこのことを言うつもりです""."
+362,It's very underwhelming at the moment.,今のところとてもがっかりしています。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""今のところとてもがっかりしています"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression would be ""今のところ、とてもがっかりしています。"""
+363,"The ""MusicLM Demo"" is mildly interesting.",「MusicLM デモ」はやや興味深いです。,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation reads a bit too literally, lacking the natural flow expected in the Japanese language."
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",重量挙げをするのは変だが、自分の1回限りの最大重量がわからないのも変だ。それは人々が進歩を追跡する主要な方法の1つだからだ。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language. The phrasing ""重量挙げをするのは変だが、自分の1回限りの最大重量がわからないのも変だ"" sounds awkward and forced.
+[minor]: [REGISTER] - The use of the formal expression ""変だ"" may not be appropriate for the casual context of discussing one's weightlifting progress. A more informal register would be more natural."
+369,I work out alone in my bedroom without a spotter or even a weight rack.,私は寝室で一人で運動しています。スポッターやウェイトラックはありません。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""私は寝室で一人で運動しています。スポッターやウェイトラックはありません。"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be ""一人で寝室で運動しています。スポッターやウェイトラックは使っていません。"""
+370,Just me and a barbell with a bunch of weights.,私とバーベルと重り,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation ""私とバーベルと重り"" reads a bit too literal and lacks the natural flow expected in Japanese."
+375,I swear burrata didn't exist five years ago,ブラータはたった5年前には存在しなかったと誓います。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""ブラータはたった5年前には存在しなかったと誓います。"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be ""ブラータはたった5年前まで存在しなかったと言っても過言ではありません。"""
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,私はこれまで誰かのお母さんがそれを作るのを見たことがなく、パーティーで押し付けられたこともなく、誰かのソース作りやベーキングの日に登場するのを見たこともありません。,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language.
+
+The source text:
+""I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days""
+
+The Japanese translation:
+""私はこれまで誰かのお母さんがそれを作るのを見たことがなく、パーティーで押し付けられたこともなく、誰かのソース作りやベーキングの日に登場するのを見たこともありません。""
+
+The translation is grammatically correct, but the phrasing and sentence structure sound overly literal and unnatural compared to how a native Japanese speaker would express the same idea."
+384,Does anyone have a Linux tablet they love?,Linux タブレットを愛用している人はいますか?,"MQM annotations:
+Style Errors:
+[Major]: [REGISTER] - The translation uses a more formal tone (""タブレットを愛用している"") compared to the more casual tone of the English source (""they love"")."
+385,"This would be mainly for web browsing, occasional email, and some games.",これは主にウェブブラウジング、時折のメール、そして一部のゲームのためのものです。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language.
+
+The source text: ""This would be mainly for web browsing, occasional email, and some games.""
+
+The Japanese translation: ""これは主にウェブブラウジング、時折のメール、そして一部のゲームのためのものです。""
+
+A more natural Japanese translation would be:
+""主な用途はウェブブラウジング、時々のメール、そしてゲームなどです。"""
+388,"A bad game is bad forever.""",悪いゲームは永遠に悪い。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""悪いゲームは永遠に悪い"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression would be required."
+389,So was it Epic that originated this?,それがエピックが始めたものだったのですか?,"MQM annotations:
+Style Errors:
+[minor]: [REGISTER] - The translation uses a more formal tone (""それがエピックが始めたものだったのですか?"") compared to the casual tone of the source text (""So was it Epic that originated this?"")."
+390,We can keep going.,行けるよ。,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation ""行けるよ."" reads a bit unnatural and lacks the natural flow expected in the target language. A more natural translation could be ""続けられるよ."" or ""行こう."""
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",ゲームプロ1997年11月号にはより曖昧な引用文がある。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""ゲームプロ1997年11月号にはより曖昧な引用文がある"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression could be used."
+401,Esp the carriages with the bigger windows.,大きな窓のある客車に乗ってください。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""大きな窓のある客車に乗ってください"" reads a bit too literally and lacks the natural flow expected in Japanese. A more natural expression could be ""大きな窓の客車をお選びください""."
+402,There's areas that could use some polish.,そこには少し磨く必要のある部分があります。,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation ""そこには少し磨く必要のある部分があります"" reads a bit awkwardly and lacks the natural flow expected in Japanese. A more natural expression could be ""少し磨く必要のある部分がありますね""."
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",主に、十分なごみ箱の不足と、照明色の意味を説明する標識の不足です。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""主に、十分なごみ箱の不足と、照明色の意味を説明する標識の不足です。"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression could be used."
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMまたはDDZの株式の終了を見るのは悲しくありません。,"MQM annotations:
+Style Errors:
+[major]: [REGISTER] - The translation uses a more formal register (""ICMまたはDDZの株式の終了を見るのは"") compared to the casual tone of the source text (""I won't be sad to see the end of the ICM or DDZ stock."")."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,1人1枚の規則が継続されます。これにより、列に並ぶ全ての人が確実に入手できるようにしています。,"MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation ""1人1枚の規則が継続されます。これにより、列に並ぶ全ての人が確実に入手できるようにしています。"" reads a bit too literally and lacks the natural flow expected in Japanese."
+411,Such friendships transcend differences.,そのような友情は違いを超越する。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""そのような友情は違いを超越する"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression would be needed."
+412,We all have stories to tell.,私たち全員に語る物語がある。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""私たち全員に語る物語がある"" reads too literally and lacks the natural flow expected in Japanese."
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",しかし、私はどこかで間違った足で始めてしまったような気がします。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""しかし、私はどこかで間違った足で始めてしまったような気がします"" reads too literally and lacks the natural flow expected in the target language. A more natural expression in Japanese would be something like ""しかし、どこかで上手くいかないスタートを切ってしまったような気がします""."
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,まだしばらくここに留まり、移住するかどうかを考えてみます。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""まだしばらくここに留まり、移住するかどうかを考えてみます"" reads a bit too literally compared to the more natural-sounding English source ""Will still linger a bit longer on here and think about whether I should migrate at all."""
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,地下に潜り込んだレプニッドの群れに落ち込み、地下の洞窟の中で数百匹のレプニッドの体が煮えたぎる中に落ちた。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""地下に潜り込んだレプニッドの群れに落ち込み、地下の洞窟の中で数百匹のレプニッドの体が煮えたぎる中に落ちた"" reads too literally and lacks the natural flow expected in the target language.
+[Minor]: [REGISTER] - The use of the formal term ""匹"" to refer to the Repnid bodies is not consistent with the overall informal tone of the source text."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは迅速です。何組ものキバが致死的な毒を注入し、ディスクラの空気があなたの肺を汚染します。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""終わりは迅速です。何組ものキバが致死的な毒を注入し、ディスクラの空気があなたの肺を汚染します。"" reads too literally and lacks the natural flow expected in the target language.
+[minor]: [REGISTER] - The use of the formal pronoun ""あなた"" may not be appropriate for the context, a more natural choice could be a less formal pronoun."
+425,Nobody will ever know that you were the first human future traveller.,未来の人類の旅行者として、あなたが最初の人間だったことを誰も知らないでしょう。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""未来の人類の旅行者として、あなたが最初の人間だったことを誰も知らないでしょう"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression could be ""誰もあなたが最初の未来人類の旅行者だったことを知らないでしょう""."
+426,You land the flyer nose upward on the side of the slag heap and climb out.,機体の鼻を上に向けて、スラグ山の側面に着陸し、外に出る。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""機体の鼻を上に向けて、スラグ山の側面に着陸し、外に出る。"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression could be used."
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つ目のレプニッドが見つめているようだが、あなたに向かって動くことはない。実際、あなたがゆっくりと近づいていくにつれ、彼らは動きを止めたままだ。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language. For example, the phrase ""あなたがゆっくりと近づいていくにつれ、彼らは動きを止めたままだ"" sounds overly formal and lacks the fluency of a natural Japanese expression."
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",彼らはあなたの声を聞くことができないだけでなく、理解することもできないようです。ユニバーサル・トランスレーターはどんな答えも拾っていません。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""彼らはあなたの声を聞くことができないだけでなく、理解することもできないようです。ユニバーサル・トランスレーターはどんな答えも拾っていません。"" reads too literally and lacks the natural flow expected in the Japanese language.
+[minor]: [REGISTER] - The use of the formal pronoun ""あなた"" may not be appropriate in this context, a more natural choice would be to use a less formal pronoun."
+430,You decide to use your Psychic Awareness to contact them mentally.,あなたは精神的に彼らと連絡を取るために、あなたの霊的な覚醒を使うことにしました。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""あなたは精神的に彼らと連絡を取るために、あなたの霊的な覚醒を使うことにしました"" reads too literally and lacks the natural flow expected in Japanese."
+436,"#today I have coffee, sunshine and quiet time!",今日は、コーヒー、日差し、そして静かな時間があります!,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""今日は、コーヒー、日差し、そして静かな時間があります!"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be ""今日はコーヒーを飲み、日差しを浴び、静かな時間を過ごしています。"""
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,不均一に紡がれた銀灰色の糸で、ほとんどが細く紡がれているが、ところどころに塊がある。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the Japanese language. The sentence structure and phrasing sound awkward."
+441,But am not sure I have enough of the purple.,紫色は十分ではないかもしれません。,"MQM annotations:
+Style Errors:
+[minor]: [register] - The translation uses a more formal tone (""紫色は十分ではないかもしれません"") compared to the more casual tone of the source text (""But am not sure I have enough of the purple."")."
+446,I have literally tried and dropped EVERY SINGLE ONE.,私は文字通り試して、すべてのものを手放しました。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""私は文字通り試して、すべてのものを手放しました。"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be ""私は本当にすべてのものを試してきましたが、結局手放すことにしました。"""
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして2年ほど前まで、私は成績を確認するまで全く知らなかった。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""そして2年ほど前まで、私は成績を確認するまで全く知らなかった。"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be ""私は2年ほど前まで、自分の成績を確認するまで全く知らなかった。"""
+448,The literature class hatred is even worse: I love to read.,文学クラスの嫌悪感はさらに悪化しています。私は読書が大好きです。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""文学クラスの嫌悪感はさらに悪化しています。私は読書が大好きです。"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be something like ""文学の授業がますます嫌いになっています。でも、私は読書が大好きです。"""
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしく、そこにいるときは幸せですが、小説を読むためにリラックスするには、別の場所にいる必要があります。,"MQM annotations:
+Style Errors:
+[major]: [register] - The translation uses a more formal register (""私の家は快適で素晴らしく、そこにいるときは幸せですが"") compared to the more casual tone of the source text (""My home is comfortable and wonderful and I am happy there"").
+[minor]: [unnatural flow] - The translation ""別の場所にいる必要があります"" reads a bit awkwardly and could be expressed in a more natural way in Japanese."
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,休暇のように感じられ、そのため休暇中にするようなことをしています。,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""休暇のように感じられ、そのため休暇中にするようなことをしています"" reads too literally and lacks the natural flow expected in Japanese."
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",そして、ここの最近の2晩は自宅のように良く眠れていないし、奇異な環境にいるため自分のペースを保つことが難しく、物の場所を覚えなければならないので、少し#MECFS疲れもしています。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the target language. For example, ""物の場所を覚えなければならない"" could be rephrased in a more natural way.
+[minor]: [REGISTER] - The use of ""少し#MECFS疲れもしています"" is slightly more informal than the source text, which could be more appropriate for the context."
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",それは興奮させ、神経を逼迫させ、ストレスを感じさせるが、私がゲーム業界で働くことを愛する良いことすべてでもある。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation reads too literally and lacks the natural flow expected in the target language. A more natural expression could be used.
+
+The translation is:
+それは興奮させ、神経を逼迫させ、ストレスを感じさせるが、私がゲーム業界で働くことを愛する良いことすべてでもある。
+
+Compared to the source:
+It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.
+
+The translation sounds a bit forced and overly literal, lacking the fluent and natural phrasing that would be expected in Japanese. A more natural way to express this could be:
+
+ゲーム業界で働くことは、私にとって興奮と緊張感、ストレスを感じさせるものの、同時に大好きなことでもあります。"
+458,Will a community blossom around the user-generated content piece of the game?,コミュニティはゲームのユーザー生成コンテンツを中心に花開くだろうか?,"MQM annotations:
+Style Errors:
+[Major]: [UNNATURAL FLOW] - The translation ""コミュニティはゲームのユーザー生成コンテンツを中心に花開くだろうか?"" reads a bit awkwardly and lacks the natural flow expected in Japanese. A more natural phrasing could be ""ユーザー生成コンテンツを中心にコミュニティが育っていくだろうか?"""
+466,So I finally watched #Heartstopper,"はい、ご要望の翻訳は以下の通りです:
+
+ついに#ハーツトッパーを見ました。","MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The translation ""ついに#ハーツトッパーを見ました。"" reads a bit awkwardly and lacks the natural flow expected in Japanese. A more natural way to express this would be ""ついに#ハーツトッパーを視聴しました。"" or ""ついに#ハーツトッパーを観ました。""."
+467,Was it overly cute to the point of being twee?,かわいすぎるほどかわいかったか?,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""かわいすぎるほどかわいかったか?"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be something like ""あまりにもかわいすぎたのではないか?"""
+471,But did I love it?,それでも、私はそれを愛していたのだろうか?,"MQM annotations:
+Style Errors:
+[major]: [REGISTER] - The translation uses a more formal tone (""それでも、私はそれを愛していたのだろうか?"") compared to the casual tone of the source text (""But did I love it?"")."
+476,"In part, because they'd be taught badly.",部分的に、うまく教えられないからです。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""部分的に、うまく教えられないからです。"" reads too literally and lacks the natural flow expected in Japanese."
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題に対して言い訳をするのではなく、それらを修正することが重要です。特に、リードの変更が必要な本番環境においては、そうすることが大切です。,"MQM annotations:
+Style Errors:
+[major]: [unnatural flow] - The translation ""しかし、問題に対して言い訳をするのではなく、それらを修正することが重要です。特に、リードの変更が必要な本番環境においては、そうすることが大切です。"" reads too literally and lacks the natural flow expected in the target language. A more natural expression could be used."
+479,"Every artist has been there, made the same mistakes.",全ての芸術家がそこにいた、同じ間違いを犯した。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""全ての芸術家がそこにいた、同じ間違いを犯した"" reads too literally and lacks the natural flow expected in Japanese. A more natural translation would be ""全ての芸術家は同じ間違いを犯してきた""."
+484,Watch seeds being sown & cultivated (and not randomly scattered) by good peeps.,良い人々によって播かれ、育てられる (ランダムに散らばるのではなく) 種子を見る。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""良い人々によって播かれ、育てられる (ランダムに散らばるのではなく) 種子を見る"" reads too literally and lacks the natural flow expected in Japanese. A more natural expression would be required.
+[minor]: [REGISTER] - The use of the formal expression ""良い人々"" may not be appropriate for the context and a more casual register could be more suitable."
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",彼らが小道で通り過ぎる際、ジャミはその手紙を彼に渡した。,"MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The translation ""彼らが小道で通り過ぎる際、ジャミはその手紙を彼に渡した"" reads too literally and lacks the natural flow expected in the Japanese language. A more natural expression would be ""ジャミは、彼らが小道で通り過ぎる際、その手紙を彼に渡した""."

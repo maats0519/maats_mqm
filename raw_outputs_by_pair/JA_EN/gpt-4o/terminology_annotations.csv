@@ -1,0 +1,842 @@
+index,original,translated,locale_convention_annotation
+1,助成金ツアー・県民割旅行ならクラブツーリズム！,Subsidy tours and prefectural discount trips with Club Tourism!,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""県民割旅行"" should be translated as ""prefectural discount travel"" instead of ""prefectural discount trips"" to align with the glossary specification.
+```"
+2,各都道府県毎の助成を活用したツアーをご紹介。,We introduce tours that utilize subsidies from each prefecture.,"```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this translation, there are no terminology errors related to glossary entries. The translation correctly uses the term ""prefecture"" for ""都道府県"" and ""subsidies"" for ""助成,"" which are consistent with the context and do not exhibit any issues such as typos, capitalization errors, or incorrect inflections."
+6,【比較表】薬剤師転職サイト - 一覧比較表でおすすめ紹介,[Comparison Table] Pharmacist Job Transfer Sites - Recommended Introductions in a List Comparison Table,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""Job Transfer"" should be translated as ""転職"" in Japanese, which means ""career change"" or ""job change,"" rather than ""Job Transfer.""
+```"
+7,《2022年最新版》薬剤師転職サイトランキング。,"""2022 Latest Edition: Pharmacist Job Change Site Rankings.""","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""Job Change"" should be translated as ""転職"" according to the glossary, but it is not highlighted or applied correctly in the translation.
+```"
+14,初めてのフリーランスで不安な集客や確定申告サポートもご用意しています。,"We offer support for attracting clients and filing tax returns, addressing any concerns you may have as a first-time freelancer.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+16,ルミクス脱毛のサロン紹介サイト - 予約数ランキングTOP5,Lumix Hair Removal Salon Introduction Site - Top 5 in Reservation Rankings,"```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - The term ""Lumix"" should be capitalized as ""LUMIX"" to match the brand's official styling.
+```"
+18,早い 短期間 痛くない 熱くないSHR方式のルミクス脱毛サロン予約サイト,"""Fast, short-term, painless, non-heating SHR method Lumix hair removal salon reservation site""","```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - ""Lumix"" should be ""LUMIX"" as per the glossary specification.
+```"
+19,月々1760円からできる歯科矯正 - 【公式】ウィスマイル矯正,"Orthodontics starting at 1,760 yen per month - [Official] WeSmile Orthodontics","```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - The capitalization of ""WeSmile"" should be consistent with the brand's official styling, which may not necessarily be ""WeSmile"" if the official brand name uses a different capitalization.
+```"
+20,【1760円から】低価格ではじめるならウィスマイル矯正。,"""Starting from 1,760 yen: If you're looking for an affordable option, choose WisSmile orthodontics.""","```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - ""WisSmile"" should be ""Wissmile"" as per the glossary specification.
+```"
+23,1650円のお試しコース受付中。,"Now accepting applications for the 1,650 yen trial course.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+25,WEBから24時間予約受付中・格安マウスピース矯正・調整料0円。,Accepting reservations 24 hours a day online. Affordable mouthpiece orthodontics with a 0 yen adjustment fee.,"```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors in the translation. The terms used in the translation are appropriate and fit the context provided by the source text."
+29,不動産のことなら連合隊 - 北見不動産連合隊,"""If it's about real estate, then the Allied Force - Kitami Real Estate Allied Force""","```
+MQM annotations:
+Terminology errors:
+Major: WRONG TERM - The term ""Allied Force"" is not appropriate for ""連合隊"" in this context, as it refers to a group or association related to real estate, not a military alliance.
+```"
+31,賃貸アパート、マンション、一戸建て。,"Rental apartment, condominium, detached house.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""condominium"" should be translated as ""apartment"" to match the glossary specification.
+```"
+33,地元に密着・写真は最大30枚・無料の物件査定も実施中。,"""Closely connected to the local area; up to 30 photos; free property assessments also available.""","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+36,お急ぎ便が使い放題。,Unlimited use of express delivery.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+40,ポイントが貯まる・スマホアプリあり・数億種の品揃え。,"Points can be accumulated, a smartphone app is available, and there is a selection of hundreds of millions of products.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+45,あの人気漫画を今こそ一気読み。,Now is the time to binge-read that popular manga.,"```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors related to the translation of the provided Japanese text into English. The translation accurately conveys the meaning of the original text without any glossary-specific issues."
+46,全作品試し読みアリ・買うよりお得。,"""All works available for trial reading - more economical than buying.""","```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - The term ""trial reading"" should be translated as ""試し読み"" according to the glossary, but it is not highlighted in the target text.
+```"
+50,クチコミ情報も満載です。,"The translation of the Japanese sentence ""クチコミ情報も満載です。"" to English is: ""It is also full of reviews.""","```
+MQM annotations:
+Terminology errors:
+None
+```"
+51,タイムセールや限定プランも。,"""Time sales and exclusive plans, too.""","```
+MQM annotations:
+Terminology errors:
+none
+```
+
+In this case, there are no terminology errors in the translation of ""タイムセールや限定プランも。"" to ""Time sales and exclusive plans, too."" The translation accurately reflects the source text, and there are no glossary-specific issues to annotate."
+52,自宅で簡単予約・ビジネスホテルが充実・プラン充実・会員登録でポイント貯まる。,Easily book from home - Business hotels are well-equipped - Comprehensive plans - Earn points by registering as a member.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+54,端子台 貫通をこの価格で買える通販モノタロウ。,"""MonotaRO, an online store where you can buy terminal blocks with through-holes at this price.""","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""terminal blocks"" should be translated as ""端子台"" in Japanese, but it was not applied correctly in the translation.
+```"
+56,端子台 貫通の通販。,Terminal block through-hole online shopping.,"```
+MQM annotations:
+Terminology errors:
+Major: WRONG TERM - The term ""through-hole"" is not the correct translation for ""貫通"" in this context. ""貫通"" refers to the concept of ""through"" or ""penetration,"" but it does not specifically refer to a ""through-hole"" in the context of terminal blocks. The translation should reflect the intended meaning more accurately.
+```"
+59,紀伊御坊駅の格安ホテル - 【じゃらん】公式サイト,Budget Hotels Near Kii-Gobo Station - [Jalan] Official Website,"```
+MQM annotations:
+Terminology errors:
+Major: TERM NOT APPLIED - The term ""Kii-Gobo Station"" should have been translated as ""Kii-Gobō Station"" to match the glossary specification.
+```"
+62,【紀伊御坊駅】のホテル・旅館を予約するならじゃらん。,"If you're looking to book hotels or inns near Kii-Gobo Station, try Jalan.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""Jalan"" should be translated as ""じゃらん"" in Japanese, as per the glossary specification.
+```"
+63,じゃらん限定・格安プランも充実。,Exclusive to Jalan: Affordable plans are also available.,"```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - The term ""Jalan"" should be translated as ""じゃらん"" in the target text, as it is a proper noun and should remain in its original form.
+```"
+64,会員登録でポイント貯まる・当日予約OKの宿多数・お得なクーポン配布中。,"Earn points with membership registration, many accommodations available for same-day booking, and great coupons currently being distributed.","```
+MQM annotations:
+Terminology errors:
+None
+``` 
+
+In this case, there are no terminology errors in the translation provided. The terms used in the translation align with the source text and do not violate any glossary specifications."
+65,入力簡単60秒で無料査定依頼 - 路線価・地価の相場を調べるなら,"""Request a free appraisal in just 60 seconds - If you're looking to check the standard land prices and market values.""","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""standard land prices"" should be translated as ""路線価"" as per the glossary.
+Critical: TERM NOT APPLIED - The term ""market values"" should be translated as ""地価"" as per the glossary.
+```"
+66,マンション・土地・一戸建ての無料売却査定が可能。,"Free sale assessments are available for apartments, land, and single-family homes.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""apartments"" should be translated as ""condominiums"" to match the glossary specification for ""マンション.""
+```"
+67,エリアから価格相場の把握ができます。,"""You can grasp the price range from the area.""","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this translation, there are no terminology errors related to glossary entries. The translation accurately reflects the source text, and there are no issues with the application or context of any specific terminology."
+68,不動産売却のお悩みはプロが解決！,"""Real estate sale concerns? Let the professionals solve them!""","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+71,マンションの売却・査定・最適な売却プランをご提案・売主様へ安心サポート。,"Sale and appraisal of apartments, proposal of the optimal sale plan, and reliable support for sellers.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""マンション"" should be translated as ""condominium"" instead of ""apartments"" to comply with the glossary specification.
+```"
+75,ダイキン エアコン お客様 センター見つけましょう。,Let's find the Daikin Air Conditioner Customer Center.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""Customer Center"" should be translated as ""お客様センター"" in Japanese, but it was not applied correctly in the translation.
+```"
+78,来場予約キャンペーン実施中 - 都市型狭小3階建てモデルハウス,Ongoing Visit Reservation Campaign - Urban Narrow Three-Story Model House,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""Visit Reservation Campaign"" should be translated as ""来場予約キャンペーン"" in Japanese, but it is not highlighted as a glossary entry in the English translation.
+Major: TERM NOT APPLIED - The term ""Urban Narrow Three-Story Model House"" should be translated as ""都市型狭小3階建てモデルハウス"" in Japanese, but it is not highlighted as a glossary entry in the English translation.
+```"
+83,ITツールを駆使し業務コストを削減し、リーズナブルな価格でのサービス提供を実現,Utilize IT tools to reduce operational costs and achieve the provision of services at a reasonable price.,"```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors related to the glossary entries in the provided translation. The translation accurately uses the terms from the source text without any issues related to terminology."
+92,どうしても今すぐお金が必要 - 【厳選3社】即日キャッシング,"""I really need money right now - [Carefully Selected 3 Companies] Same-Day Cash Advance""","```
+MQM annotations:
+Terminology errors:
+None
+```"
+98,レストラン予約するなら一休.com、お店の口コミも掲載。,"If you're making a restaurant reservation, try Ikkyu.com, which also features customer reviews.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""Ikkyu.com"" should be translated as ""一休.com"" to match the source text.
+```"
+102,幸せウエディングを叶える情報満載／結婚式準備はゼクシィ。,Information packed with everything you need for a happy wedding / Wedding preparations with Zexy.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""Zexy"" should be capitalized as ""ZEXY"" according to the glossary specification.
+```"
+107,ゴールドカードはメリットばかり！,"""The gold card has nothing but benefits!""","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+110,自宅用のホームルーターをお探しの方必見！,A must-see for those looking for a home router!,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+112,置くだけで使えるWiFiも！,"""WiFi that you can use just by placing it!""","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this translation, there are no terminology errors related to glossary entries. The translation ""WiFi that you can use just by placing it!"" correctly conveys the meaning of the source text ""置くだけで使えるWiFiも！"" without any issues related to terminology."
+115,蒲田イン ソーシャル- トリップアドバイザー,Kamata Inn Social - TripAdvisor,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""Kamata Inn Social"" should be capitalized as ""Kamata Inn Social"" to match the English capitalization conventions for proper nouns and brand names.
+```"
+119,ショートが似合うか不安な方でもしっかりとカウンセリングして似合わせをいっしょに考えます。,"Even if you're worried about whether a short hairstyle will suit you, we will provide thorough consultation and work together to find a style that suits you.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+124,ロハコ限定、くらしになじむデザインが多数。,"LOHACO exclusive, numerous designs that blend into everyday life.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""LOHACO"" should be in lowercase as ""Lohaco"" to match the standard capitalization in English.
+```"
+125,最短翌日お届け、PayPay決済対応。,"""Delivery as soon as the next day, PayPay payment supported.""","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""PayPay"" should be translated as ""PayPay"" in English as per the glossary, but it is correctly applied here.
+```"
+127,都心へのマルチアクセスを叶えるタワーレジデンス。,A tower residence that provides multi-access to the city center.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+128,4路線利用できる‘目黒’駅に誕生。,"Born at ""Meguro"" Station, where four lines are available.","```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - The term ""Born"" is not the most appropriate translation for ""誕生"" in this context. A more suitable translation would be ""Opened"" or ""Established,"" as it refers to the opening of a station where four lines are available.
+```"
+129,野村不動産グループ×JR東日本グループ開発エリア【MEGURO MARC】の32階建タワー。,"The 32-story tower in the development area of [MEGURO MARC], a collaboration between the Nomura Real Estate Group and the JR East Group.","```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - The term ""Nomura Real Estate Group"" should be capitalized correctly as ""Nomura Real Estate Group"" in the translation.
+Minor: WRONG TERM - The term ""JR East Group"" should be capitalized correctly as ""JR East Group"" in the translation.
+```"
+132,続くから変われる、人生を変える英会話の力をあなたへ。,"""Because it continues, you can change; the power of English conversation that can change your life, to you.""","```
+MQM annotations:
+Terminology errors:
+none
+```
+
+In this case, there are no terminology errors related to glossary entries in the provided translation. The translation accurately reflects the source text, and there are no issues with glossary terms not being applied or being used incorrectly."
+136,クラウド電話を1内線200円から - 【公式】サテライトオフィス,Cloud phone from 200 yen per extension - [Official] Satellite Office,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+145,glovesdepoを探すなら、日本最大級通販ショップ楽天市場。,"If you're looking for glovesdepo, check out Rakuten Ichiba, Japan's largest online shopping site.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+148,目黒 恵比寿 五反田エリアで顧問弁護士をお探しなら目黒国際法律事務所。,"If you are looking for a legal advisor in the Meguro, Ebisu, or Gotanda area, Meguro International Law Office.","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""legal advisor"" should be translated as ""顧問弁護士"" in the context of the source text.
+```"
+151,若手弁護士がフットワーク軽く迅速に対応します。,A young lawyer will respond promptly and with agility.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+152,20代～シニアまで申込める保険 - 【生命保険】はなさく生命,Insurance available for people in their 20s to seniors - [Life Insurance] Hanasaku Life,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Hanasaku Life"" should be ""Hanasaku Seimei"" to match the original Japanese term ""はなさく生命.""
+```"
+161,素肌が喜ぶ、FOOD(食べもの)から生まれた化粧品。,"Skincare that delights your bare skin, cosmetics derived from food.","```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - The term ""Skincare"" should be ""cosmetics"" to match the source term ""化粧品"" (cosmetics).
+```"
+162,食べてカラダにいいFOODをお肌にも！,"""Eat food that's good for your body and also for your skin!""","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+164,特別セールやキャンペーンをお見逃しなく。,Don't miss out on special sales and campaigns.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+165,韓国で人気のスキンフード・韓国コスメのスキンフード・SKINFOOD公式通販。,"SKINFOOD, a popular skincare and cosmetics brand in South Korea, official online store.","```
+MQM annotations:
+Terminology errors:
+Major: TERM NOT APPLIED - The term ""SKINFOOD"" should have been translated as ""スキンフード"" in the English translation to match the source text.
+```"
+166,【広島】ホットヨガTOP3 - 人気No1のホットヨガスタジオ,[Hiroshima] Top 3 Hot Yoga - The Most Popular Hot Yoga Studio No. 1,"```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this translation segment, there are no terminology errors related to glossary entries. The translation accurately reflects the source text, and there are no issues with glossary terms being applied incorrectly or containing errors."
+169,お得なキャンペーン中,"""Special promotion ongoing""","```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - The term ""お得なキャンペーン"" should be translated as ""special offer"" according to the glossary, but ""special promotion"" was used instead.
+```"
+175,活力サポートサプリ・テストフェン配合・スーパーマカ配合。,Vitality Support Supplement - Contains Testofen - Contains Super Maca.,"```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - ""Super Maca"" should be ""Super MACA"" as per the glossary specification, ensuring correct capitalization.
+```"
+177,【東京23区】で一戸建て探しならオープンハウス。,"If you're looking for a house in the 23 wards of Tokyo, Open House is the place to go.","```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - The term ""Open House"" should be checked against the glossary to ensure it is applied correctly in the context.
+```"
+180,厳選した大泉学園の一戸建てを掲載中。,We are featuring a carefully selected collection of single-family homes in Ōizumigakuen.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""single-family homes"" should be translated as ""detached houses"" according to the glossary specification.
+```"
+186,宿泊&航空券をあんしん予約。,"""Book accommodations and flights with peace of mind.""","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""accommodations"" should be translated as ""宿泊"" according to the glossary.
+Minor: TERM NOT APPLIED - The term ""flights"" should be translated as ""航空券"" according to the glossary.
+```"
+196,モテ髪ヘアカタログ・人気サロンをネット予約・ネット予約でポイントGet。,Popular salon hairstyles catalog - Make online reservations and earn points with online booking.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""モテ髪"" (mote-gami) is not directly translated or applied in the target text. It refers to a specific type of hairstyle that is considered attractive or popular, which is not explicitly conveyed in the translation.
+```"
+198,クチコミ比較、最安値予約、現地払い。,"Review comparison, lowest price booking, pay on site.","```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - The term ""クチコミ"" should be translated as ""customer reviews"" or ""user reviews"" instead of just ""review"" to match the glossary specification.
+```"
+204,全国のビューティーサロンの検索、空席確認、ネット予約。,"Search for beauty salons nationwide, check availability, and make online reservations.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+206,理想の照明がない… - 取扱いブランド数、日本最大級,"""The ideal lighting is not available... - Number of brands handled, one of the largest in Japan.""","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""照明"" should be translated as ""lighting"" according to the glossary, but it is not highlighted in the translation.
+```"
+209,各種カード、ポイント還元・日本最大級2万点の品ぞろえ。,"Various cards, point rewards - Japan's largest selection with 20,000 items.","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""品ぞろえ"" should be translated as ""assortment"" instead of ""selection"" to comply with the glossary specification.
+```"
+214,"【公式】ヴァージンクリニック - 全身医療脱毛5回88,000円／京都","[Official] Virgin Clinic - Full Body Medical Hair Removal 5 Sessions for 88,000 Yen / Kyoto","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this translation, there are no terminology errors related to the glossary entries. The translation accurately uses the term ""Virgin Clinic"" as it appears in the source text, and there are no issues with capitalization, typos, or incorrect inflections."
+217,追加料金も0円で安心,"""No additional charges, so you can feel at ease.""","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors in the translation provided. The translation ""No additional charges, so you can feel at ease."" correctly conveys the meaning of the Japanese source text ""追加料金も0円で安心"" without any glossary terms being misapplied or incorrectly used."
+218,幕張本郷 口コミ第1位の整体院 - 多くの専門家が絶賛する技術,Makuhari Hongō's No. 1 Rated Chiropractic Clinic - Techniques Highly Praised by Many Experts,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""整体院"" should be translated as ""Chiropractic Clinic"" as per the glossary, but it was not applied correctly in the translation.
+```"
+232,料金も時間も節約しよう。,"""Let's save both money and time.""","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors in the translation. The translation ""Let's save both money and time."" accurately reflects the source text ""料金も時間も節約しよう。"" and does not contain any glossary-related issues."
+234,お気に入りの宿を特別料金で。,"""Your favorite accommodation at a special rate.""","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+238,自分で淹れたおいしい一杯を味わいながら、プロの技をマスター。,"""Master professional techniques while enjoying a delicious cup you brewed yourself.""","```
+MQM annotations:
+Terminology errors:
+None
+```"
+244,25歳以下または対象期間内に引越した方でAirターミナル5を購入・契約し、開通後アンケート回答で,"""Those who are 25 years old or younger, or who have moved during the specified period, and have purchased or contracted Air Terminal 5, will receive a survey after activation.""","```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - ""Air Terminal 5"" should be ""Airターミナル5"" to match the source text and maintain consistency with the product name in Japanese.
+```"
+246,3層タイプのプリーツマスクで、オメガ形状のプリーツが大きく広がり、鼻や口を圧迫しにくく、呼吸しやすくなっています。,"With its three-layer pleated design, the omega-shaped pleats of the mask expand widely, making it less likely to press against the nose and mouth, thus allowing for easier breathing.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+248,10枚/袋×2袋で包装しており、持ち運び便利な仕様です。,"It is packaged as 10 pieces per bag × 2 bags, making it convenient to carry.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+249,ゴム紐は6mmの平ゴム形状なので、耳への当たりが柔らかく、よくある耳の痛みも軽減してくれます。,"The elastic cord has a 6mm flat shape, making it soft on the ears and helping to reduce the common pain associated with wearing it.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+263,※A4 5冊入の商品に掲載の画像は新しいパッケージの商品です。,The image shown for the product containing 5 A4 notebooks is of the new packaging.,"```
+MQM annotations:
+Terminology errors:
+None
+``` 
+
+In this case, there are no terminology errors related to glossary entries in the provided translation. The translation correctly uses the term ""A4 notebooks"" and ""new packaging,"" which align with the source text."
+264,以前のパッケージ商品の用紙と仕様は同一です。,"""The paper and specifications of the previous packaged product are the same.""","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""packaged product"" should have been translated as ""パッケージ商品"" to match the glossary specification.
+```"
+266,箱に記載されている注文コードと500枚入の包装紙記載の注文コードは異なります。,The order code listed on the box is different from the order code listed on the packaging of 500 sheets.,"```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors in the provided translation. The translation accurately reflects the source text, and there are no issues with glossary terms not being applied or used incorrectly."
+267,(500枚入の1冊で販売するためです),"""(This is because it is sold as a book containing 500 sheets)""","```
+MQM annotations:
+Terminology errors:
+None
+```"
+270,ブレーキライニングやブレーキドラムや機械部品等に付着したオイルやグリース等の汚れをきれいに落としブレーキ装置から発生する様々な粉塵を空気中に飛散させることなく、油脂類やカーボン等の汚れを素早くきれいに落とします。,"It effectively cleans oil, grease, and other dirt adhered to brake linings, brake drums, and mechanical parts, and quickly removes grease, carbon, and other contaminants without dispersing various dust particles generated from the brake system into the air.","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors in the translation provided. The glossary terms appear to be correctly applied and fit the context without any issues."
+271,又、オゾン層の破壊や環境汚染の原因となるフロン及びトリクロロエタンを一切含まない有機溶剤中毒予防規則適用外の洗浄剤です。,"Additionally, this cleaning agent does not contain any chlorofluorocarbons (CFCs) or 1,1,1-trichloroethane, which cause ozone layer depletion and environmental pollution, and is exempt from the Organic Solvent Poisoning Prevention Regulations.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""1,1,1-trichloroethane"" should be translated as ""トリクロロエタン"" to match the source text.
+```"
+274,缶の逆さ使用OK。,"""It is okay to use the can upside down.""","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors to annotate. The translation ""It is okay to use the can upside down."" accurately reflects the source text ""缶の逆さ使用OK。"" and there are no glossary terms highlighted for this segment."
+276,ニトリルゴム手袋 極薄 粉なし ブルー色 100枚入,"Nitrile rubber gloves, ultra-thin, powder-free, blue color, pack of 100.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+277,柔らかく手にピッタリフィットするので、長時間の細かな作業に適しています。,"It fits softly and perfectly in your hand, making it suitable for detailed work over long periods.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+279,便利な左右兼用タイプのためムダなくお使いいただけます。,You can use it efficiently without waste because it is a convenient type that is suitable for both left and right-handed use.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+283,※体質によっては、かゆみ、かぶれ、発疹等をおこすことがあります。,"※ Depending on your constitution, it may cause itching, rashes, or other skin reactions.","```
+MQM annotations:
+Terminology errors:
+no-error
+``` 
+
+In this case, there are no terminology errors in the translation provided. The translation correctly uses the terms ""itching,"" ""rashes,"" and ""skin reactions"" in a manner that fits the context of the source text."
+286,膨潤、浸透、老化することがあります。,"The translation from Japanese to English is: ""It may swell, permeate, and age.""","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+289,※爪先、刃物や尖ったもの等で傷をつけないよう注意してください。,"Please be careful not to scratch or damage it with your fingertips, blades, or other sharp objects.","```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - The term ""fingertips"" should be translated as ""toes"" to align with the glossary specification.
+```"
+290,水漏れの原因になります。,"""It can cause a water leak.""","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors in the translation provided. The translation ""It can cause a water leak."" accurately reflects the source text ""水漏れの原因になります。"" without any issues related to glossary terms."
+295,サイズが一目瞭然のデザイン。,A design where the size is immediately apparent.,"```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this translation, there are no terminology errors related to glossary entries. The translation accurately conveys the meaning of the source text, and there are no issues with glossary terms not being applied or used incorrectly."
+299,※電池のアルカリ液が目に入ったときは失明などのおそれがあるので、すぐに多量のきれいな水で洗い流し、 医師の治療を受ける。,"If alkaline battery fluid gets into your eyes, there is a risk of blindness, so immediately rinse with plenty of clean water and seek medical attention.","```
+MQM annotations:
+Terminology errors:
+Critical: Wrong Term - The term ""alkaline battery fluid"" should be checked for compliance with the glossary. If ""alkaline battery fluid"" is a glossary term, it should be translated consistently according to the glossary specification. If it is not a glossary term, no terminology error applies.
+```"
+306,※この電池は充電式でないので、充電すると液漏れ、発熱、破裂のおそれがある。,"※This battery is not rechargeable, so attempting to recharge it may result in leakage, overheating, or rupture.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+315,着け具合も柔らかくフィット感のある軍手です。,These are work gloves that are soft and have a comfortable fit.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+318,※回転体を伴う機械作業では、使用しないでください。,"""Please do not use during machine operations involving rotating bodies.""","```
+MQM annotations:
+Terminology errors:
+none
+```
+
+In this case, there are no terminology errors related to glossary entries in the provided translation. The translation accurately reflects the source text, and the terminology used is appropriate for the context."
+321,マスキングテープ 高品質 和紙基材,"Masking tape, high quality, Japanese paper base","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Japanese paper base"" should be ""washi base"" to maintain the specific terminology for 和紙 (washi) in English.
+```"
+323,のり残りが少なくタテ裂けが起こりにくいです。,"""The remaining glue is minimal, making it less prone to vertical tearing.""","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors in the translation provided. The translation accurately reflects the source text, and there are no glossary terms that are incorrectly applied or used inappropriately."
+324,※被着体、塗料の種類によっては貼り跡やのり残りが発生する場合がありますので、問題がないことを確かめてからご使用下さい。,"Please ensure there are no issues before use, as adhesive marks or residue may occur depending on the type of substrate and paint.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+329,※ティシューは水に溶けにくいため、水洗トイレには流さないでください。,"※Tissues do not dissolve easily in water, so please do not flush them down the toilet.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+331,※引火の原因になりますので、火気の近くに置かないでください。,"Please do not place it near open flames, as it may cause ignition.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+334,プロユーザーにも安心してご使用いただける品質の、弱粘着タイプ養生テープです。,This is a low-adhesion masking tape with quality that ensures peace of mind for professional users.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+339,手で簡単にカットできる養生用ポリエチレンクロステープで耐候性・耐水性に優れています。,This polyethylene cloth tape for protection can be easily cut by hand and offers excellent weather resistance and water resistance.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+340,再はくり性が良好です。,"The translation of ""再はくり性が良好です。"" is ""The re-peelability is good.""","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""re-peelability"" should be ""re-peelability"" without the hyphen according to the glossary specification.
+```"
+341,※貼る対象物や使用環境によっては、粘着力等数値通りの値が出ない場合がございます。,"Depending on the object to which it is applied or the usage environment, the adhesive strength and other values may not match the specified numbers.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+349,※養生後、テープを早く剥すと破断する恐れがありますので、ゆっくり剥してください。,"※ After curing, there is a risk of breakage if the tape is removed quickly, so please peel it off slowly.","The provided translation does not contain any highlighted glossary entries, so there are no terminology errors to annotate. Therefore, the output will indicate that there are no terminology errors present.
+
+```
+MQM annotations:
+Terminology errors:
+None
+```"
+350,※粘着剤特有のにおいがありますので、換気の良い所でのご使用をお勧めします。,"※ There is a distinctive odor from the adhesive, so it is recommended to use it in a well-ventilated area.","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this translation, there are no terminology errors related to the glossary entries. The translation accurately conveys the meaning of the source text without any issues related to terminology."
+351,※被着体と養生期間によっては、被着体を汚染・損傷する場合がありますので、ご使用前にお確かめください。,"Please note that depending on the adherend and the curing period, there may be cases where the adherend could be contaminated or damaged, so please verify before use.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""adherend"" was used, but it does not match the glossary specification for ""被着体,"" which should be translated as ""substrate.""
+Minor: TERM NOT APPLIED - The term ""curing period"" was used, but it does not match the glossary specification for ""養生期間,"" which should be translated as ""curing time.""
+```"
+356,従来品に比べ耐候性がアップしました。,"""Compared to conventional products, weather resistance has been improved.""","```
+MQM annotations:
+Terminology errors:
+None
+```"
+360,保管する場合は密閉することを推奨します。,It is recommended to seal tightly when storing.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+362,※一度ご使用された製品を再度ご使用にされることで、結束力不足により不具合が発生する可能性があります。,※There is a possibility of malfunction due to insufficient cohesion if a product that has been used once is used again.,"```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors in the translation provided. The translation accurately reflects the source text, and there are no glossary terms that are incorrectly applied or used inappropriately."
+365,※取り付けの際には現車取り付け部に真っ直ぐ取り付け作業を行ってください。,"When installing, please ensure that the installation is carried out straight onto the mounting section of the actual vehicle.","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors in the translation provided. The terms used in the translation are consistent with the source text, and there are no glossary-specific issues such as incorrect application or inappropriate usage in context."
+368,現在販売している商品は品質確認済になりますのでご安心してご使用下さい。,"The products currently on sale have been quality-checked, so please feel confident in using them.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+369,※当製品は交換作業を整備業者へ依頼して行う事をおすすめします。,※We recommend that you request a maintenance professional to perform the replacement work for this product.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+370,個人で交換作業を行った場合は補償出来ない場合もございます。,"If the replacement work is carried out individually, there may be cases where compensation cannot be provided.","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors related to glossary entries in the provided translation. The translation accurately reflects the meaning of the source text without any issues related to terminology usage."
+371,※ネジ寸法が各オイルフィルターで異なっている為、高さや外径などが同じフィルターに見えても取り付け前に再度、車種とネジ寸法をご確認ください。,"Please double-check the vehicle model and screw dimensions before installation, as the screw dimensions vary for each oil filter, and filters that appear to have the same height and outer diameter may differ.","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this translation, there are no terminology errors related to the glossary entries. The translation correctly uses terms like ""vehicle model,"" ""screw dimensions,"" and ""oil filter"" in a manner consistent with the source text."
+373,※わずかな違いでも大きなトラブルになる場合がございます。,"""Even a slight difference can lead to significant trouble.""","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors to annotate, as the translation ""Even a slight difference can lead to significant trouble."" accurately reflects the meaning of the source text ""※わずかな違いでも大きなトラブルになる場合がございます。"" and there are no glossary-specific terms highlighted for evaluation."
+378,白メリヤスウエス 中古生地,"""White jersey rags made from used fabric""","```
+MQM annotations:
+Terminology errors:
+major: wrong_term - The term ""White jersey rags"" should be ""White knit rags"" as ""メリヤス"" refers to knit fabric, not specifically jersey.
+```"
+380,ウエス製品の中で優れた製品です。,"""It is an excellent product among the wiper products.""","```
+MQM annotations:
+Terminology errors:
+major: TERM NOT APPLIED - The term ""wiper"" should be translated as ""ウエス"" in Japanese according to the glossary.
+```"
+382,カット済。,"""Cut"" or ""Already cut.""","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+Explanation: The translation ""Cut"" or ""Already cut"" correctly conveys the meaning of the Japanese term ""カット済"" and there are no terminology errors related to glossary entries in this translation."
+390,※用途以外に使用しないでください。,"""Please do not use for purposes other than intended.""","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors in the translation provided. The English translation ""Please do not use for purposes other than intended."" accurately reflects the Japanese source text ""※用途以外に使用しないでください。"" without any glossary-related issues."
+393,ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,"There is a possibility of discoloration occurring due to contact with chemical products, so please avoid using chemical products.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+395,食品に触れる用途には使用しないでください。,"""Do not use for applications that involve contact with food.""","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+398,※ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,"※ There is a possibility of color fading due to contact with chemical products, so please avoid using chemical items.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+399,ハンドクリーナー 工業用 オレンジエキス保湿成分配合 スクラブ入り,Industrial Hand Cleaner with Orange Extract Moisturizing Ingredients and Scrubbing Particles,"```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - ""Industrial"" should not be capitalized as it is not a proper noun or part of a title.
+Minor: WRONG TERM - ""Moisturizing"" should not be capitalized as it is not a proper noun or part of a title.
+Minor: WRONG TERM - ""Ingredients"" should not be capitalized as it is not a proper noun or part of a title.
+Minor: WRONG TERM - ""Scrubbing"" should not be capitalized as it is not a proper noun or part of a title.
+Minor: WRONG TERM - ""Particles"" should not be capitalized as it is not a proper noun or part of a title.
+```"
+409,異物感が残る場合は、眼科医にご相談ください。,"If you continue to feel a foreign body sensation, please consult an ophthalmologist.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""foreign body sensation"" should be translated according to the glossary specification if applicable.
+```"
+421,※使用後の本製品の廃棄は、お住まいの各自治体で定められたゴミ廃棄方法に従ってください。,Please dispose of this product after use in accordance with the waste disposal methods specified by the local government in your area.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+422,※袋を閉じる際は結束バンドでしっかり結んでください。,"When closing the bag, please make sure to securely fasten it with a tie band.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""tie band"" should be translated as ""cable tie"" according to the glossary.
+```"
+428,※本来の用途以外には使用しないでください。,"""Please do not use for purposes other than the intended use.""","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+434,※フタが開けにくい際はフタを少し潰す様に押すと開けやすくなります。,"*If the lid is difficult to open, it will be easier to open if you press it slightly to crush it.*","```
+MQM annotations:
+Terminology errors:
+no-error
+``` 
+
+In this case, there are no terminology errors to annotate as the translation does not involve any specific glossary terms that have been misapplied or incorrectly translated. The translation provided is consistent with the source text, and there are no glossary entries to evaluate for terminology errors."
+435,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"※ When disposing of the contents, cleaning waste liquid, or containers, please entrust the task to a specialized waste disposal contractor authorized by the prefecture.","```
+MQM annotations
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""都道府県"" should be translated as ""prefectural"" instead of ""prefecture"" to match the glossary specification.
+```"
+438,透明度があり加工後も封入物の文字をクッキリ読めます。,"""The transparency allows you to clearly read the text of the enclosed items even after processing.""","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this case, there are no terminology errors in the translation provided. The translation accurately reflects the source text, and there are no issues with glossary terms that need annotation."
+439,※機器には接着加工してあるシール部分から挿入してください。,Please insert through the sealed part that has been adhered to the device.,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""sealed part"" should be translated according to the glossary specification.
+```"
+443,※一度加工したシートは再生不能となります。,"""※ Once the sheet has been processed, it cannot be restored.""","```
+MQM annotations:
+Terminology errors:
+critical: no-error
+major: no-error
+minor: no-error
+```
+
+In this case, there are no terminology errors in the translation provided. The translation correctly conveys the meaning of the original Japanese text, and there are no issues related to glossary terms."
+450,※工業用の薬品やアルコール、石油製品などには絶対に使用しないで下さい。,"Please do not use this with industrial chemicals, alcohol, petroleum products, etc.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+451,※熱湯は入れないで下さい。,*Please do not pour boiling water.*,"```
+MQM annotations:
+Terminology errors:
+none
+```
+
+In this case, there are no terminology errors in the translation provided. The phrase ""boiling water"" is correctly translated and does not involve any glossary terms that would require annotation."
+455,中身が漏れる恐れがございます。,There is a risk of contents leaking.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+459,店頭でフックなどに吊り下げることができる便利な穴付きです。,"""It has a convenient hole that allows it to be hung on hooks at the store.""","```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this translation, there are no terminology errors related to glossary entries. The translation correctly uses the term ""hole"" to refer to the ""穴"" in the source text, and there are no issues with capitalization, inflection, or context."
+460,フック用穴と本体の間はミシン目入りなので、フックに掛けて本体を引っ張れば穴の下から切れて使える構造になっています。,"The area between the hole for the hook and the main body has perforations, so when you hang it on a hook and pull the main body, it tears off below the hole, making it usable.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+461,表面にエンボス加工入り。,"""Embossed on the surface.""","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""embossed"" should be used according to the glossary specification.
+```"
+464,※幼児や子供がかぶって遊ぶと窒息などの危険がありますのでご注意ください。,Please be aware that there is a risk of suffocation if infants or children wear this as a plaything.,"```
+MQM annotations:
+Terminology errors:
+no-error
+``` 
+
+In this case, there are no terminology errors related to glossary entries in the provided translation. The translation accurately reflects the source text's meaning, and there are no issues with glossary terms not being applied or being used incorrectly."
+465,※高温多湿を避け、火の気のない場所で保管してください。,"Please store in a cool, dry place away from high temperatures, humidity, and fire.","```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - The translation does not apply the term ""high temperatures"" as specified in the glossary.
+minor: TERM NOT APPLIED - The translation does not apply the term ""humidity"" as specified in the glossary.
+minor: TERM NOT APPLIED - The translation does not apply the term ""fire"" as specified in the glossary.
+```"
+481,OPPテープ 透明色,"OPP tape, transparent color","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+482,梱包用テープとして、価格も安く強度も強い為、良く使われています。,"As a packaging tape, it is often used because it is inexpensive and strong.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+487,※梱包用途以外の使用は避けてください。,※ Please avoid using for purposes other than packaging.,"```
+MQM annotations:
+Terminology errors:
+none
+```
+
+In this case, there are no terminology errors to annotate. The translation accurately reflects the source text, and there are no issues with glossary terms."
+488,貼る面を損傷する場合がございます。,"""The surface to which it is applied may be damaged.""","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+492,※物性は測定値であり、規格値或いは保証値でありません。,※The physical properties are measured values and are not standard or guaranteed values.,"```
+MQM annotations:
+Terminology errors:
+none
+```
+
+In this case, there are no terminology errors in the translation provided. The glossary terms are appropriately used, and there are no issues with typos, capitalization, or incorrect application of terms."
+499,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"※ When disposing of the contents, cleaning waste liquid, or containers, please entrust the task to a professional waste disposal contractor authorized by the prefecture.","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""professional waste disposal contractor"" should be translated as ""専門の廃棄物処理業者"" according to the glossary.
+```"

@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Translation Ranking</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    :root {
+      --main-color: #339;
+      --hover-color: #66c;
+      --bg-color: #fafafa;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0 auto;
+      padding: 20px;
+      background: var(--bg-color);
+      max-width: 95%;
+      box-sizing: border-box;
+    }
+
+    @media (min-width: 768px) {
+      body {
+        max-width: 850px;
+      }
+    }
+
+    h2 {
+      text-align: center;
+      color: #333;
+      margin-bottom: 10px;
+    }
+
+    #instructions {
+      background: #eef;
+      padding: 15px 20px;
+      border-left: 5px solid var(--hover-color);
+      border-radius: 6px;
+      margin-bottom: 25px;
+      font-size: 16px;
+    }
+
+    #instructions ul {
+      margin-top: 8px;
+    }
+
+    .translation {
+      position: relative;
+      border: 2px solid #ccc;
+      border-radius: 6px;
+      padding: 12px 16px;
+      margin: 12px 0;
+      background: #fff;
+      transition: all 0.2s ease;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    .translation:hover {
+      border-color: var(--hover-color);
+      background: #f0f8ff;
+    }
+
+    .translation.selected {
+      border-color: var(--main-color);
+      background: #e6f0ff;
+    }
+
+    .rank-badge {
+      position: absolute;
+      top: 6px;
+      right: 10px;
+      background: var(--main-color);
+      color: white;
+      font-weight: bold;
+      border-radius: 50%;
+      width: 24px;
+      height: 24px;
+      text-align: center;
+      line-height: 24px;
+      font-size: 14px;
+    }
+
+    #translations {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .button-group {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    #submit-btn {
+      background: var(--main-color);
+      color: white;
+    }
+
+    #submit-btn:disabled {
+      background: #ccc;
+      cursor: not-allowed;
+    }
+
+    #submit-btn:hover:not(:disabled) {
+      background: #227;
+    }
+
+    #skip-btn {
+      background: #888;
+      color: white;
+    }
+
+    #skip-btn:hover {
+      background: #555;
+    }
+
+    #user-login {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    input[type="text"] {
+      padding: 8px 10px;
+      font-size: 16px;
+      width: 60%;
+      max-width: 250px;
+    }
+
+    #startBtn {
+      padding: 9px 16px;
+      font-size: 16px;
+      background-color: var(--main-color);
+      color: white;
+      border-radius: 5px;
+      margin-left: 10px;
+      border: none;
+    }
+
+    #startBtn:hover {
+      background-color: #227;
+    }
+
+    #timer {
+      text-align: center;
+      font-size: 16px;
+      color: #c33;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Translation Quality Ranking Task<br>翻译质量排名任务</h2>
+
+<div id="instructions">
+  <p>
+    Please read the source sentence and evaluate the 3 translations.<br>
+    请阅读原文并评估三个翻译版本。
+  </p>
+  <ul>
+    <li><strong>Click each translation</strong> in the order from best (1) to worst (3).<br>按从最好到最差点击翻译（顺序为1→2→3）。</li>
+    <li><strong>Click again</strong> to deselect and reselect.<br>再次点击可以取消选择并重新选择。</li>
+    <li>Click <strong>"Submit Ranking"</strong> to save and move to the next.<br>点击“提交排名”保存并进入下一条。</li>
+  </ul>
+  <p>
+    When ranking, please evaluate translations using the following MQM categories:<br>
+    在评分时，请参考以下MQM标准进行评估：<br>
+    <em>Accuracy, Fluency, Locale Convention, Audience Appropriateness, Style, Terminology, Design & Markup</em><br>
+    <em>准确性、流畅性、本地习惯、目标受众适配、文体、术语一致性、格式与标记</em>
+  </p>
+</div>
+
+
+<div id="user-login">
+  <label><strong>User ID 用户名:</strong></label>
+  <input type="text" id="userIdInput" placeholder="Enter your user ID">
+  <button id="startBtn">Start 开始</button>
+</div>
+
+<div id="ranking-app" style="display:none;">
+  <p><strong>Source 原文:</strong> <span id="sourceText"></span></p>
+  <ul id="translations"></ul>
+  <div id="timer">⏳ Please wait 10 seconds before submitting. / 请等待10秒后再提交。</div>
+  <div class="button-group">
+    <button id="submit-btn" disabled>Submit Ranking 提交排名</button>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<script>
+let data = [], userId = "", file = "", currentIndex = 0, orderMap = {}, selectedOrder = [];
+let countdownTimer, timeLeft = 10;
+
+document.getElementById("startBtn").addEventListener("click", () => {
+  userId = document.getElementById("userIdInput").value.trim();
+  if (!userId) return alert("Enter a user ID / 请输入用户名");
+
+  fetch("localhost/get_user_data", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ user_id: userId })
+  })
+  .then(res => {
+    if (!res.ok) throw new Error("User not found / 用户未注册");
+    return res.json();
+  })
+  .then(json => {
+    file = json.file;
+    currentIndex = json.index;
+    loadCSV(file, () => {
+      document.getElementById("user-login").style.display = "none";
+      document.getElementById("ranking-app").style.display = "block";
+      showEntry(currentIndex);
+    });
+  })
+  .catch(err => alert("Login failed 登录失败: " + err.message));
+});
+
+function loadCSV(filename, callback) {
+  fetch("localhost/get_csv/" + filename)
+    .then(res => res.text())
+    .then(text => {
+      const parsed = Papa.parse(text, { header: true });
+      data = parsed.data.filter(row =>
+        row && row.source && (row.zero_shot || row.maats || row.single_agent)
+      );
+      callback();
+    });
+}
+
+async function showEntry(i) {
+  while (i < data.length) {
+    const row = data[i];
+    if (row.source && (row.zero_shot || row['maats'] || row.single_agent)) break;
+
+    await fetch("localhost/save", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ user_id: userId, index: i, ranking: ["SKIPPED"] })
+    });
+    i++;
+  }
+
+  if (i >= data.length) {
+    alert("All tasks completed. Thank you! / 所有任务已完成，感谢参与！");
+    return;
+  }
+
+  currentIndex = i;
+  const entry = data[i];
+  selectedOrder = [];
+  orderMap = {};
+  document.getElementById("sourceText").textContent = entry.source;
+  const ul = document.getElementById("translations");
+  ul.innerHTML = "";
+
+  const opts = [
+    { id: "zero_shot", text: entry.zero_shot },
+    { id: "maats", text: entry['maats'] },
+    { id: "single_agent", text: entry.single_agent }
+  ].sort(() => Math.random() - 0.5);
+
+  opts.forEach((itm, idx) => {
+    const li = document.createElement("li");
+    li.className = "translation";
+    li.id = "item" + idx;
+    li.textContent = itm.text;
+    li.addEventListener("click", () => handleSelect(li, itm.id));
+    ul.appendChild(li);
+    orderMap[li.id] = itm.id;
+  });
+
+  startCountdown();
+}
+
+function handleSelect(element, sysId) {
+  const idx = selectedOrder.indexOf(sysId);
+  if (idx !== -1) {
+    selectedOrder.splice(idx, 1);
+  } else {
+    if (selectedOrder.length >= 3) {
+      alert("You’ve already selected all 3 translations. / 您已选择了3个翻译。");
+      return;
+    }
+    selectedOrder.push(sysId);
+  }
+
+  document.querySelectorAll(".translation").forEach(el => {
+    el.classList.remove("selected");
+    const badge = el.querySelector(".rank-badge");
+    if (badge) badge.remove();
+  });
+
+  selectedOrder.forEach((sysId, rank) => {
+    const liId = Object.keys(orderMap).find(k => orderMap[k] === sysId);
+    const li = document.getElementById(liId);
+    li.classList.add("selected");
+    const badge = document.createElement("span");
+    badge.className = "rank-badge";
+    badge.textContent = rank + 1;
+    li.appendChild(badge);
+  });
+}
+
+function startCountdown() {
+  clearInterval(countdownTimer);
+  timeLeft = 10;
+  document.getElementById("submit-btn").disabled = true;
+  const timerDisplay = document.getElementById("timer");
+
+  timerDisplay.textContent = `⏳ Please wait ${timeLeft} seconds before submitting. / 请等待 ${timeLeft} 秒后再提交。`;
+  countdownTimer = setInterval(() => {
+    timeLeft--;
+    if (timeLeft > 0) {
+      timerDisplay.textContent = `⏳ Please wait ${timeLeft} seconds before submitting. / 请等待 ${timeLeft} 秒后再提交。`;
+    } else {
+      clearInterval(countdownTimer);
+      timerDisplay.textContent = `✅ You may now submit. / 现在可以提交了。`;
+      document.getElementById("submit-btn").disabled = false;
+    }
+  }, 1000);
+}
+
+document.getElementById("submit-btn").addEventListener("click", () => {
+  if (selectedOrder.length !== 3) {
+    alert("Please select all 3 translations before submitting. / 请先选择三个翻译的顺序。");
+    return;
+  }
+
+  const entry = data[currentIndex];
+const translations = {
+  zero_shot: entry.zero_shot,
+  maats: entry.maats,
+  single_agent: entry.single_agent
+};
+
+fetch("localhost/save", {
+  method: "POST",
+  headers: { "Content-Type": "application/json" },
+  body: JSON.stringify({
+    user_id: userId,
+    index: currentIndex,
+    ranking: selectedOrder,
+    file: file,
+    translations: translations
+  })
+}).then(() => {
+  currentIndex++;
+  showEntry(currentIndex);
+});
+
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,497 @@
+index,original,translated,linguistic_convention_annotation
+0,The hacked up version of Jedi Knight was crashing because it was calling a function off the end of a vtable.,"Взломанная версия Jedi Knight падала, потому что она вызывала функцию за пределами vtable.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The comma after ""vtable"" is missing."
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,"Но это не является универсально верным; для этих случаев имеет значение, какой интерфейс вы используете для создания объекта в вопросе.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural in Russian. The phrase ""для этих случаев"" should be placed at the beginning of the sentence for better flow."
+5,"So anyway, since it does hold true here, to fix it I had to extend my viewport implementation to contain the IDirect3DViewport3 methods so that the call to the new one was valid.","Так или иначе, поскольку это действительно верно здесь, чтобы исправить это, мне пришлось расширить реализацию моего viewport до включения методов IDirect3DViewport3, чтобы вызов к новому был действителен.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural and grammatically correct. The phrase ""to fix it I had to extend my viewport implementation to contain the IDirect3DViewport3 methods so that the call to the new one was valid"" is awkward and could be rephrased in a more natural way.
+[Minor]: [punctuation] - The comma after ""So anyway"" is not necessary."
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","Предположим, что наука, по крайней мере частично, состоит из списков объективно фактических утверждений о мире, истинных независимо от любой теории, которую они могут поддерживать.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of the word ""Предположим"" should be capitalized."
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","Эксперименты не создают фактов в этом чтении, но выбор, какие эксперименты проводить, контролирует, какие факты будут обнаружены.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of the first word in the translation should be capitalized."
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,"Это очень краткий набросок правдоподобного аргумента, что теории капитализма, влияющие на фактическое содержание науки, согласуются с теориями, утверждающими существование объективных научных фактов.","MQM annotations:
+linguistic conventions errors:
+[minor]: capitalization - The first word in the translation ""Это"" should be capitalized as ""Это"".
+[minor]: punctuation - The period at the end of the translation is missing."
+13,Going to be my first project car.,Это будет моим первым проектным автомобилем.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""Это будет моим первым проектным автомобилем."" should have the first letter capitalized as ""Это будет моим первым Проектным автомобилем."""
+16,Already on coil overs and lowered ride height.,Уже на пружинных амортизаторах и с пониженной высотой подвески.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""Уже"" should be capitalized at the beginning of the sentence.
+[Minor]: [Punctuation] - The sentence should end with a period."
+20,#Venting into the Fediverse time.,#Выпускание пара в Федиверсум.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""Выпускание пара в Федиверсум"" should have the first letter of ""Федиверсум"" capitalized according to Russian language conventions."
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","Когда мы пошли на кассу, кассир - довольно очевидная #trans женщина.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""#trans"" should be capitalized as ""#Trans"" according to the conventions of the target language."
+24,Her body immediately stiffened and there was this look of fear in her eyes.,"Её тело сразу же окаменело, и в её глазах появился страх.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of the first word in the translation should be capitalized."
+25,And then we just... paid for our stuff.,И тогда мы просто... заплатили за наши вещи.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing punctuation at the end of the sentence.
+
+The Russian translation is a linguistically correct rendering of the English source text, with the only minor issue being the lack of a period at the end of the sentence."
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,"Улыбка облегчения на ее лице была великим чувством, но тот факт, что она сначала испугалась, ЧЕРТОВСКИ ОТСТОЙ И Я НЕНАВИЖУ ЭТО.","MQM annotations:
+linguistic conventions errors:
+[Major]: [punctuation] - The use of the word ""FUCKING"" in the translation is not in line with standard language conventions and may be considered inappropriate or offensive in some contexts.
+[Minor]: [capitalization] - The capitalization of ""ЧЕРТОВСКИ"" is inconsistent with the rest of the translation."
+32,But he can't pardon himself out of state prison.,Но он не может помиловать себя из государственной тюрьмы.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The translation is missing a period at the end of the sentence."
+33,It takes the state's governor.,Это занимает у губернатора штата.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is incorrect. The original English sentence ""It takes the state's governor"" should be translated as ""Это занимает губернатора штата"" in Russian, not ""Это занимает у губернатора штата""."
+36,NY is the best hope for accountability,Нью-Йорк - лучшая надежда на подотчетность.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The translation ""Нью-Йорк"" should be capitalized as ""Нью-Йорк"" according to Russian capitalization conventions."
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,"Существует значительное свидетельство того, что реальное общение не может быть сведено к отправке сигналов с контекстно-независимым значением.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure ""Существует значительное свидетельство того, что реальное общение не может быть сведено к отправке сигналов с контекстно-независимым значением"" is grammatically correct, but it could be more natural and idiomatic in Russian."
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","В то же время мы изучаем экологические условия и когнитивные возможности, которые позволяют контекстуальную дезамбигуацию значений символов.","MQM annotations:
+linguistic conventions errors:
+[Minor]: grammar - The phrase ""контекстуальную дезамбигуацию"" is grammatically correct, but it may be more natural to use ""контекстуальное разрешение неоднозначности"" instead."
+45,I really enjoyed catching up with Penny and Nicholas from Ashanti Development at the weekend for a chat about their progress.,"Я действительно наслаждался встречей с Пенни и Николасом из Ashanti Development на выходных, чтобы поговорить об их прогрессе.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""Ashanti"" should be capitalized as it is a proper noun."
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,"Я был достаточно удачлив, чтобы провести незабываемые шесть месяцев рядом с Николасом в 2011 году, поддерживая ряд проектов.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""Николасом"" should be capitalized as ""Николасом"" to follow the capitalization conventions in Russian."
+51,"Nicholas is working with farmers to reduce pesticide use while finding ways to address the issues caused by climate change and pests such as fall armyworm, which can devastate maize crops.","Николай работает с фермерами, чтобы сократить использование пестицидов, одновременно находя способы решения проблем, вызванных изменением климата и вредителями, такими как осенний армейский червь, который может опустошить посевы кукурузы.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The name ""Nicholas"" should be capitalized as ""Николай"" in the Russian translation.
+[Minor]: [punctuation] - The comma after ""одновременно"" should be removed to improve the flow of the sentence."
+53,The UPS store near me won't allow me to write a label or write on the box.,Магазин UPS рядом со мной не позволяет мне написать этикетку или написать на коробке.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence ""Магазин UPS рядом со мной не позволяет мне написать этикетку или написать на коробке."" is grammatically incorrect. The verb ""позволяет"" should be in the negative form ""не позволяет"".
+[Minor]: [punctuation] - The sentence should end with a period (""."") instead of a comma."
+57,"And they always to charge me $2.25 for that ""convenience"".","И они всегда взимают с меня $2,25 за это ""удобство"".","MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The translation is missing a period at the end of the sentence."
+64,The ratings--seeking delusional irresponsibility of it all.,"Рейтинг-ищущая, бредовая безответственность всего этого.","MQM annotations:
+linguistic conventions errors:
+[Major]: [Spelling] - The word ""рейтинг-ищущая"" should be ""рейтингоискательская"".
+[Minor]: [Punctuation] - The hyphen in ""рейтинг-ищущая"" should be a dash."
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","У меня очень сквозной подвал, что, по сути, означает, что я могу получить много грызунов, ищущих убежища.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The phrase ""ищущих убежища"" is grammatically incorrect. It should be ""ищущих убежище"" to match the singular noun ""подвал"".
+[Minor]: [punctuation] - The comma after ""по сути"" is unnecessary."
+67,"There have been a lot of signs of more rodents this past month or so, which has been exceptionally surprising as it's spring and I would have thought they would venture outdoors with the change in weather.","Было много признаков большего количества грызунов в течение последнего месяца или около того, что было исключительно удивительно, так как это весна, и я думал, что они будут выходить на улицу с изменением погоды.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is awkward and does not flow naturally. The translation does not read as smoothly as the original English.
+[Minor]: [punctuation] - The comma after ""or so"" is unnecessary."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.","(для информации, я пробовал почти все ""гуманные"" ловушки на рынке с очень небольшим успехом.)","MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - Missing period at the end of the sentence."
+72,"I'm not especially happy with killing them, but I won't be taking comments on the ethics of killing mice.)","Я не особенно счастлив убивать их, но я не буду принимать комментарии об этике убийства мышей.","MQM annotations:
+linguistic conventions errors:
+[minor]: punctuation - The translation lacks a period at the end of the sentence."
+76,But they also cut grants and tax credits that encourage more business activity.,"Но они также сократили гранты и налоговые льготы, которые поощряют более активную деловую активность.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing comma after ""grants and tax credits""."
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","Это верно даже сейчас, когда goatse.cx исчез, хотя это была бы близкая гонка на дно между goatse и, скажем, khou.com, где я пытался посмотреть видео, которое мне прислала Венди.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""Wendy"" should be capitalized.
+[Minor]: [Punctuation] - The comma after ""say"" is unnecessary."
+82,"On the first train today, the ticket checker looked at our tickets and said ""long journey!""","На первом поезде сегодня контролер посмотрел на наши билеты и сказал ""долгое путешествие!"".","MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The Russian translation is missing a period at the end of the sentence."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.","""Я просто отвожу его в Глазго,"" - попытался я объяснить, указывая на своего спутника.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing comma after ""Glasgow""."
+89,"It is a cult that nobody really wants, except for the fanatics who are in it.","Это культ, которого никто на самом деле не хочет, кроме фанатиков, которые в нем состоят.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""это"" should be capitalized at the beginning of the sentence.
+[Minor]: [Punctuation] - The comma after ""кроме"" should be removed."
+90,And they are truly nuts.,И они действительно орехи.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The translation ""И они действительно орехи."" does not follow the natural word order of the source text ""And they are truly nuts."""
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,"Получите наклейки на бампер, которые являются анти-Трамп, и расклейте их повсюду.","MQM annotations:
+linguistic conventions errors:
+[Major]: [Capitalization] - The first letter of the word ""Трамп"" should be capitalized.
+[Minor]: [Punctuation] - The period at the end of the sentence is missing."
+95,Yell back at those who would try to talk over us.,"Кричите в ответ тем, кто пытается перекричать нас.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The translation ""Кричите в ответ тем, кто пытается перекричать нас."" should have the first letter capitalized, as it is the start of a sentence."
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,"Не является социально приемлемым выходить в общественные места или подбегать к людям, когда у вас сильный кашель с мокротой.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""Не"" should be capitalized at the beginning of the sentence."
+105,Jan will hurt you before she lets you see she's hurt and laughs most when things are upside-down.,"Ян причинит тебе боль, прежде чем позволит тебе увидеть, что она ранена, и больше всего смеется, когда все вверх дном.","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural and does not match the source text. The sentence structure should be rearranged to better reflect the original meaning.
+
+[Minor]: [capitalization] - The name ""Ян"" should be capitalized as ""Ян"" to follow the conventions of the Russian language.
+
+[Minor]: [punctuation] - The comma after ""ранена"" should be removed, as it is not necessary in this context."
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","После 4000 страданий Yl оказывается в месте любви и испытывает огромные чувства, с которыми она не знает, что делать, поэтому здесь много и того, и другого.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural, with the phrase ""of love"" appearing out of place.
+[Minor]: [punctuation] - The comma after ""страданий"" (distress) is not necessary."
+108,#CNN needs to just close down.,#CNN нужно просто закрыться.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""CNN"" should be capitalized in the translation."
+110,"Who at that pathetic, dying network was responsible for vetting the so-called ""independent voters"" in the audience?","Кто в этой жалкой, умирающей сети отвечал за проверку так называемых ""независимых избирателей"" в аудитории?","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure in the translation is not natural or idiomatic Russian. The word order and phrasing do not match the conventions of the target language.
+[Minor]: [punctuation] - The use of the comma after ""жалкой, умирающей сети"" is unnecessary and does not follow standard Russian punctuation rules."
+113,A cold front should arrive by the middle of next week.,Холодный фронт должен прибыть к середине следующей недели.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""Холодный фронт"" should have the first letter of ""фронт"" capitalized according to Russian capitalization conventions."
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",Сегодня рано утром спутниковые и наземные наблюдения IR показали расширяющуюся область низкой слоистой облачности и пятнистого тумана.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [spelling] - The word ""IR"" should be written in lowercase as ""ir"" to follow the standard capitalization conventions."
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.","Застенчивый студент-ботаник Арни Каннингем влюбляется в Кристину, ржавую Plymouth Fury 1958 года, и становится одержим восстановлением этого классического автомобиля до его прежнего великолепия.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""Ботаник"" should not be capitalized.
+[Minor]: [punctuation] - The comma after ""Кристину"" should be a period."
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","Поскольку машина меняется, так же меняется и Арни, чья обретенная уверенность превращается в высокомерие за рулем его экзотической красавицы.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""Арни"" should be capitalized as ""Арни"" to follow the standard capitalization rules in Russian."
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,"Одна из самых безумных частей в том, что мои соседи обратились против меня, - это думать о том, сколько усилий требуется, чтобы быть враждебным.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation is slightly different from the source text, but the intended meaning is still understandable."
+126,It hurts but you gotta do you.,"Больно, но ты должен быть собой.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The translation is missing a period at the end of the sentence."
+127,But at this point the open hostility and violence is getting worse.,Но в этот момент открытая враждебность и насилие становятся хуже.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation ""становятся хуже"" (become worse) does not match the grammatical structure of the source text ""is getting worse""."
+131,And I still have NO IDEA what I could have possibly done to deserve this.,"И у меня до сих пор НЕТ ПОНЯТИЯ, что я мог сделать, чтобы заслужить это.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The Russian translation is missing a period at the end of the sentence."
+133,That vessel is off-limits.,Это судно запрещено.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation ""Это судно запрещено"" is grammatically incorrect in Russian. The correct translation should be ""Это судно запрещено к посещению"" or ""Доступ к этому судну запрещен""."
+135,She is irrelevant to me.,Она для меня неважна.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""Она для меня неважна."" should have the first word capitalized as ""Она"" to follow the standard capitalization rules in Russian."
+139,I gripe about dad-ification a lot.,Я часто жалуюсь на отцовство.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The translation ""Я часто жалуюсь на отцовство"" does not accurately convey the meaning of the source text ""I gripe about dad-ification a lot."" The Russian translation uses a more general term ""отцовство"" (fatherhood) instead of the more specific ""dad-ification"" from the source."
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"Вот краткий курс по тому, что я имею в виду под ""отцификацией"":","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first word ""Вот"" should be capitalized to follow the capitalization conventions in Russian.
+[Minor]: punctuation - The colon "":"" after ""Вот"" is not necessary and should be removed to follow the punctuation conventions in Russian."
+141,"It isn't my term, it is a term used to describe when a narrative or gameplay mechanic is built around a central protagonist (usually older, usually male) stewarding or guarding another person (often younger).","Это не мой термин, это термин, используемый для описания ситуации, когда повествование или игровая механика построены вокруг центрального протагониста (обычно более старшего, обычно мужского пола), который опекает или охраняет другого человека (часто более молодого).","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""It"" should be capitalized at the beginning of the sentence.
+[Minor]: [Punctuation] - The period at the end of the sentence is missing."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.","Отцовское воспитание обычно предполагает, что решением ситуации, когда родительская фигура должна заботиться о ребенке или его заменителе, является подавляющая сила, и использование этой силы для навязывания очень конкретно сформированной динамики власти.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural and does not follow the typical Russian sentence structure. The translation sounds overly literal and does not flow well in the target language.
+[Minor]: [punctuation] - The translation lacks punctuation at the end of the sentence."
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.",Отцовское влияние подрывает возможность для общинных решений и часто полностью игнорирует или подрывает любую деятельность ребенка.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural and disrupts the flow of the text. The original meaning is still understandable."
+151,- More details are in the full blog post.,Более подробная информация содержится в полном блог-посте.,"MQM annotations:
+linguistic conventions errors:
+[minor]: punctuation - The translated text is missing a period at the end of the sentence."
+159,Over time dart became my go-to for quick UI.,За время дарт стал моим основным средством для быстрого пользовательского интерфейса.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The phrase ""За время дарт стал моим основным средством для быстрого пользовательского интерфейса"" is grammatically incorrect. The subject ""дарт"" (dart) should be in the nominative case, not the instrumental case.
+[Minor]: [capitalization] - The word ""дарт"" (dart) should be capitalized at the beginning of the sentence."
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter - это удовольствие работать, и у них есть #mobx для простого управления хранилищем.","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""#mobx"" should be capitalized as ""#MobX"" to follow the standard capitalization convention for the MobX library."
+161,"The dependency story is less insane than nodejs, too.","Зависимость от истории менее безумна, чем nodejs.","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is incorrect compared to the source text. The translation ""Зависимость от истории менее безумна, чем nodejs"" should be ""Зависимость от nodejs менее безумна, чем история."""
+163,But it allows to move fast and that's why it's ideal for small hacks.,"Но это позволяет быстро перемещаться, и поэтому оно идеально подходит для небольших взломов.","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural and does not match the flow of the source text. The phrase ""и поэтому оно идеально подходит для небольших взломов"" should be rearranged to better reflect the original meaning."
+166,Their tail is extremely thick.,Их хвост чрезвычайно толстый.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""их"" should be capitalized to follow the convention of capitalizing the first letter of a sentence in Russian."
+171,"Being able to jump really high, tear regular humans to shreds, use creepy magic powers, and replenish health by feasting on your enemies - this should be a staple of all PC games, to be honest.","Способность прыгать очень высоко, разрывать обычных людей на части, использовать жуткие магические силы и восполнять здоровье, пируя над врагами - это должно быть неотъемлемой частью всех игр для ПК, честно говоря.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""Being"" should be capitalized to follow the conventions of English.
+[Minor]: [capitalization] - The first letter of ""Tear"" should be capitalized to follow the conventions of English.
+[Minor]: [capitalization] - The first letter of ""Use"" should be capitalized to follow the conventions of English.
+[Minor]: [capitalization] - The first letter of ""Replenish"" should be capitalized to follow the conventions of English.
+[Minor]: [capitalization] - The first letter of ""Feasting"" should be capitalized to follow the conventions of English.
+[Minor]: [punctuation] - The period at the end of the sentence is missing."
+176,It maybe has too many language subtleties.,"Возможно, это слишком много языковых тонкостей.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The translation ""Возможно, это слишком много языковых тонкостей."" has a slightly awkward grammatical structure compared to the source ""It maybe has too many language subtleties."""
+183,"In truth, the health of your mind, of your brain, is just as much an issue of health as the health of your foot.","В действительности здоровье вашего разума, вашего мозга, является таким же вопросом здоровья, как и здоровье вашей ноги.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""вашего"" should be capitalized at the beginning of the sentence."
+184,"Intersex is even recognized by TERFs and the like because it's generally more physical and, as such, visible.","Интерсекс признается даже TERF и им подобными, потому что он, как правило, более физический и, следовательно, видимый.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural in Russian. The phrase ""признается даже TERF и им подобными"" would sound more natural as ""даже TERF и им подобные признают интерсекс"".
+[Minor]: [punctuation] - The comma after ""потому что"" is not necessary."
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","В той же мере, в которой психическое здоровье воспринимается многими как менее ""реальное"", чем физическое здоровье, я как бы чувствую, что быть трансгендером - это всего лишь интерсекс разума.","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural and does not follow the typical structure of the Russian language. The phrase ""это всего лишь интерсекс разума"" should be rearranged to a more natural order, such as ""это всего лишь разума интерсекс""."
+186,"The more I read of studies on sex, gender, psychology, the more the statement of ""My sex is male, my gender is female"" seems simplistic and inaccurate.","Чем больше я читаю исследований о поле, гендере, психологии, тем более упрощенным и неточным кажется утверждение ""Мой пол - мужской, мой гендер - женский"".","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""Мой"" should be capitalized at the beginning of the sentence.
+[Minor]: [punctuation] - The comma after ""женский"" should be replaced with a period to end the sentence properly."
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,"Как кислые настроения и другая мирская поп-музыка, и радиофонические мастерские, и всякое такое.","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""Как"" should be capitalized at the beginning of the sentence.
+[Minor]: punctuation - The comma after ""и другая мирская поп-музыка"" should be removed."
+210,I want to make dashboards.,Я хочу создавать дашборды.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Spelling] - The Russian translation ""дашборды"" is a transliteration of the English word ""dashboards"" and does not follow the standard Russian spelling conventions."
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""","Итак, с приближением нового рейдового уровня #FFXIV я давно думал: ""Эх, хотелось бы попробовать настоящий рейд, но поиск группы кажется беспорядочным, и я никогда не найду статичную группу, которая меня возьмет"".","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""#FFXIV"" should be capitalized consistently with the source text.
+[Minor]: [punctuation] - The comma after ""Итак"" should be removed to match the punctuation in the source text."
+215,I'll make my own static!,Я сделаю свой собственный статический!,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation ""Я сделаю свой собственный статический!"" is grammatically incorrect in Russian. The correct translation should be ""Я сделаю свою собственную статику!"" or ""Я создам свою собственную статику!""."
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!","Полный людей, слишком тревожных, чтобы попробовать присоединиться к статическому рейду, без каких-либо ожиданий быть хорошим во всем!","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural and grammatically correct. The phrase ""without any expectations of being good at all!"" should be rephrased to improve the flow and grammar of the translation.
+[Minor]: [punctuation] - The punctuation at the end of the sentence is not consistent with the source text. The source text ends with an exclamation mark, but the translation uses an exclamation mark and an additional period."
+219,I was a voracious reader in my youth.,Я был ненасытным читателем в молодости.,"MQM annotations:
+linguistic conventions errors:
+[minor]: [spelling] - The word ""ненасытным"" should be spelled as ""ненасытным"" (with a single ""т"")."
+221,"But, after ~decades~ of reading next to nothing (with the exception of functional work-related non-fiction stuff and an occasional self-help book) I set a goal to read 23 books in 2023.","Но после ~десятилетий~ чтения практически ничего (за исключением функциональной нефикционной литературы, связанной с работой, и редких книг по саморазвитию) я поставил себе цель прочитать 23 книги в 2023 году.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""~decades~"" should not be capitalized.
+[Minor]: [Punctuation] - The use of the tilde (~) around ""decades"" is not a standard punctuation convention."
+226,I wanna see these companies that intermediate transactions explain to their customers how they set their percentages.,"Я хочу, чтобы эти компании, которые посредничают в транзакциях, объяснили своим клиентам, как они устанавливают свои проценты.","Source (English):
+I wanna see these companies that intermediate transactions explain to their customers how they set their percentages.
+
+Translation (Russian):
+Я хочу, чтобы эти компании, которые посредничают в транзакциях, объяснили своим клиентам, как они устанавливают свои проценты.
+
+MQM annotations:
+linguistic conventions errors:
+No errors found."
+228,"But if Spotify has a good quarter, they will.","Но если у Spotify будет хороший квартал, они.","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The translated sentence is incomplete. The phrase ""they will"" is missing from the end of the sentence."
+229,Is it a danger to let migrants in at the southern border? I dunno.,Является ли опасностью впускать мигрантов на южную границу? Не знаю.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of the word ""Является"" should be capitalized.
+[Minor]: [punctuation] - The sentence should end with a period."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,Пусть они восстановят опустошенные и разрушающиеся города по всей стране.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""Again"" should not be capitalized in the translation."
+238,There are still going to be jobs that can be accomplished remotely for the foreseeable future.,"Будут по-прежнему существовать рабочие места, которые можно выполнять удаленно в обозримом будущем.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure ""Будут по-прежнему существовать рабочие места, которые можно выполнять удаленно в обозримом будущем"" is not as natural as the source text. The translation could be improved to sound more fluent."
+239,Remote work is enabling.,Удаленная работа позволяет.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The translation ""Удаленная работа позволяет."" should have the first letter capitalized as ""Удаленная работа позволяет."""
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.","Это позволяет людям работать в комфортных пространствах, а не в душных, шумных офисах.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""это"" should be capitalized to follow the convention of capitalizing the first word in a sentence."
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,"Это позволяет людям избегать длительных поездок, которые отнимают время у них и их семей.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing comma after ""их"".
+
+The translation is generally accurate and well-formed, with only a minor punctuation error. The sentence structure and word choice accurately convey the meaning of the source text."
+250,"""You are the carbon they are trying to reduce.""","Вы - углерод, который они пытаются сократить.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""углерод"" should be capitalized."
+251,"So like from the beginning for all my birthdays in the past, I always had rough ones.",С самого начала на все мои дни рождения в прошлом у меня всегда были трудные.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure ""С самого начала на все мои дни рождения в прошлом у меня всегда были трудные"" is grammatically incorrect. The correct structure should be ""С самого начала все мои дни рождения в прошлом были для меня трудными""."
+257,And today is already becoming a great day!,И сегодня уже становится прекрасным днём!,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""И"" in the translation should be lowercase to match the capitalization convention in Russian."
+258,Winter is 30 days away in this little part of the Great Southern World.,Зима наступит через 30 дней в этой маленькой части Великого Южного Мира.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of ""Зима"" should be capitalized as it is the start of a sentence.
+[Minor]: punctuation - The period at the end of the sentence is missing."
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,"Я застегну подкладку в мою велосипедную куртку - на всякий случай, если мне понадобится внутри.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The comma after ""на всякий случай"" should be removed."
+273,I finally got a good dangle photo so I can be sure he's not fat.,"Я наконец-то получил хорошее фото его гениталий, чтобы быть уверенным, что он не толстый.","MQM annotations:
+linguistic conventions errors:
+[Major]: [punctuation] - The translation uses a period instead of a comma after ""чтобы быть уверенным"".
+[Major]: [word order] - The word order in the translation is different from the source text, making the sentence sound unnatural in Russian."
+275,He's not.,Он не.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation is missing the verb ""is"" after the pronoun ""He's""."
+282,2) The currency reward system has been connected.,Валютная система вознаграждения была подключена.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""Валютная"" should be capitalized."
+286,"All collards, kale, chard is transplanted.","Все листовые овощи, такие как кале, мангольд, пересаживаются.","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""mангольд"" should be capitalized as ""Мангольд"" to follow the capitalization conventions in Russian."
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,"Весенний горошек в Гилпине появляется, поэтому необходимо установить шпалеру.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""Gilpin"" should be capitalized as it is a proper noun.
+[Minor]: [punctuation] - The sentence should end with a period."
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","Также необходимо посеять ряд салата там, чтобы интегрировать нарезанную зелень, в обоих есть обученный персонал по ирригации, подготовке грядок и пересадке, что составляет 90% навыков, не связанных с уборкой урожая.","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural and does not match the flow of the source text. The phrase ""in both have trained crew on irrigation, bed prep, and transplanting"" should be restructured to better reflect the original meaning.
+[Minor]: [punctuation] - The comma after ""there"" is unnecessary."
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","Любопытный, я сохранял открытый ум, чтобы сравнить, как Google Maps и Apple Maps сравниваются на моем тестовом iPhone-устройстве (мой ежедневный водитель - это устройство Android, поэтому я редко использую iPhone).","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""Curious"" should be lowercase at the beginning of the sentence.
+[Minor]: [punctuation] - The comma after ""Curious"" should be removed.
+[Minor]: [word order] - The phrase ""my test iPhone device"" should be placed after ""compare how Google Maps and Apple Maps compare"" for better flow."
+299,Was it the 2012 Apple Maps disaster?,Это была катастрофа Apple Maps 2012 года?,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""это"" should be capitalized to follow the conventions of the Russian language."
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","Я предвзято отношусь к тому, чтобы не выпускать мусор для конечных пользователей, и Apple королевски облажалась со своими картами Apple, когда они вышли в 2012 году.","MQM annotations:
+linguistic conventions errors:
+[Major]: [capitalization] - The word ""Apple"" should be capitalized in the translation.
+[Minor]: [punctuation] - The comma after ""мусор"" should be removed."
+308,Not the case.,Не так.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The translation ""Не так."" should have the first letter capitalized as ""Не так."""
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,"Земля очень легко и быстро может быть отобрана правительством в любой день, если они этого захотят.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation uses the phrase ""может быть отобрана"" (can be taken away) instead of the more natural ""может отобрать"" (can take away) to convey the meaning of the source text.
+[Minor]: [punctuation] - The translation uses a comma after ""в любой день"" (any day) instead of a period to end the sentence."
+316,It never made sense how ppl can keep land at the expense of others.,"Это никогда не имело смысла, как люди могут удерживать землю за счет других.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is unnatural and does not flow well in Russian. The translation could be improved to sound more natural."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,"Я часто удивляюсь человеческой способности быть *так* недовольным собой, в то время как вокруг так много свидетельств того, что на самом деле представляет собой жестокость.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""so"" should not be capitalized."
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,Но смягчение отчаяния из-за нашей неряшливости имеет решающее значение - потому что это дает нам больше пространства для борьбы с руинами вокруг.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation uses the phrase ""смягчение отчаяния из-за нашей неряшливости"" (softening of despair due to our messiness), which does not fully capture the meaning of the source text. The source text suggests that ""gentling despair at our messiness"" is crucial, which implies a more active and compassionate approach, rather than just a passive ""softening of despair"".
+[Minor]: [word order] - The word order in the translation ""больше пространства для борьбы с руинами вокруг"" (more space for fighting the ruins around) is slightly different from the source text, which says ""more space to tackle the ruins all around"". The translation could be improved by using a word order that more closely matches the source."
+331,"Some programmers: ""Typing speed does not matter!""","""Скорость печати не имеет значения!""","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first word ""Скорость"" should be capitalized according to Russian language conventions."
+334,"Not sure if this is the best approach for sharing, but I like it for now: <URL>","Не уверен, что это лучший подход для распространения, но мне это нравится пока: <URL>","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of the word ""Not"" should be capitalized to follow standard capitalization rules.
+[Minor]: punctuation - The colon "":"" after ""but I like it for now"" should be replaced with a period ""."" to properly end the sentence."
+338,I have been toying with this little piece on my head for a few days now.,Я уже несколько дней играюсь с этим маленьким предметом на своей голове.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [spelling] - The word ""предметом"" should be spelled as ""предметом""."
+339,It is definitely more romance than filth.,"Это определенно больше романтики, чем грязи.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The translation ""Это определенно больше романтики, чем грязи."" should have the first letter of the sentence capitalized."
+343,"Common, it's really not that hard.","Да, это не так уж и сложно.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""Да"" should be capitalized as ""Да"" to follow Russian capitalization conventions."
+347,If you stick to the default web interface it doesn't look and feel good (imho).,"Если вы придерживаетесь стандартного веб-интерфейса, это не выглядит и не ощущается хорошо (по моему мнению).","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure ""Если вы придерживаетесь стандартного веб-интерфейса, это не выглядит и не ощущается хорошо (по моему мнению)"" is grammatically incorrect. The sentence should be restructured to improve the flow and readability.
+[Minor]: [punctuation] - The parentheses around ""по моему мнению"" should be replaced with commas to follow the standard punctuation conventions in Russian."
+349,"I don't know if prevention is possible, but it's worth trying.","Я не знаю, возможно ли предотвращение, но стоит попытаться.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first word ""Я"" should be capitalized."
+350,"The four steps I outline are up for debate, with some progress in each:","Четыре шага, которые я обрисовываю, подлежат обсуждению, с некоторым прогрессом в каждом:","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first word ""четыре"" should be capitalized to follow the conventions of the Russian language.
+[Minor]: [punctuation] - The comma after ""обсуждению"" should be a period to properly end the sentence."
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.","Даже если он не смог сказать их во время собрания в городе, все в Америке все равно услышат их многократно между сейчас и ноябрем 2024 года.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""America"" should be capitalized.
+[Minor]: [Punctuation] - The comma after ""now"" should be removed."
+363,"The ""MusicLM Demo"" is mildly interesting.",Музыкальная демонстрация LM умеренно интересна.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of ""Музыкальная"" should be capitalized."
+369,I work out alone in my bedroom without a spotter or even a weight rack.,Я занимаюсь один в своей спальне без страхующего или даже стойки для штанги.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing comma after ""спальне"".
+[Minor]: [Whitespace] - Incorrect whitespace between ""штанги."" and the period."
+371,I bench press on my bed.,Я жму штангу на кровати.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is incorrect compared to the source text. The correct order should be ""Я штангу жму на кровати."""
+378,I'd never seen it at the fancy grocer or any of the Italian delis.,Я никогда не видел этого в дорогом продуктовом магазине или в любой из итальянских деликатесных лавок.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""Italian"" should be capitalized."
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","Будучи радикализованными здесь, мы неохотно покупаем новую машину FAANG.","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is incorrect compared to the source text. The phrase ""a new FAANG machine"" should be translated as ""новую машину FAANG"" instead of ""новую машину FAANG""."
+386,"In 1998-06 Gamefan, in relation to the long development of the first Unreal game, Jason Schrieber commented,","В 1998-06 Gamefan, в связи с длительной разработкой первой игры Unreal, Джейсон Шрайбер прокомментировал:","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""Gamefan"" should be capitalized.
+[Major]: [punctuation] - The colon after ""commented"" is missing."
+387,"""A good game is only late until it ships.","Хорошая игра только поздно, пока она не выйдет.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation ""Хорошая игра только поздно, пока она не выйдет"" is grammatically incorrect. The correct translation should be ""Хорошая игра становится поздней только до тех пор, пока она не выйдет"" or a similar grammatically correct structure."
+388,"A bad game is bad forever.""","""Плохая игра плоха навсегда.""","MQM annotations:
+linguistic conventions errors:
+[Minor]: [spelling] - The translation ""Плохая игра плоха навсегда"" contains a spelling error. The correct spelling should be ""Плохая игра плоха навсегда."""
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,","""Более ранний выпуск GamePro 1997-11 содержит цитату с гораздо большей неоднозначностью.""","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""GamePro"" should be capitalized in the translation.
+[Minor]: [punctuation] - The comma after ""1997-11"" should be removed in the translation."
+402,There's areas that could use some polish.,"Есть области, которые могли бы использовать немного полировки.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Spelling] - The Russian translation ""полировки"" should be ""полировку"" to match the singular noun ""область"" in the sentence."
+404,"Fix those minor issues, and then can we have more of these please?","Исправьте эти незначительные проблемы, а затем можно ли получить еще больше таких?","MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The comma after ""then"" is unnecessary."
+410,We visited for a couple hours on my porch.,Мы посетили на пару часов на моем крыльце.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is incorrect. The correct order should be ""Мы провели пару часов на моем крыльце."""
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","Восьмиглазые репниды, кажется, наблюдают, как вы опускаете флаер на красную почву, но они не предпринимают никаких действий в вашу сторону, на самом деле они неподвижны, когда вы выбираетесь из флаера и медленно идете к ним.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""Repnids"" should be capitalized as ""repnids"" to follow the capitalization conventions of the target language.
+[Minor]: [Punctuation] - The comma after ""but they make no move towards you"" should be removed, as it is not necessary in the target language."
+421,"The ground beneath your feet begins to tremble and then shake, as if in an earthquake and you lose your footing, though the Repnids seem unaffected.","Земля под вашими ногами начинает дрожать, а затем трястись, как при землетрясении, и вы теряете равновесие, хотя Репниды, кажется, не затронуты.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""Repnids"" should be capitalized as ""Repnids"" to follow the capitalization conventions of the target language."
+422,The rock beneath you gives way suddenly.,Под вами внезапно уступает скала.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""Под"" should be capitalized at the beginning of the sentence."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","Конец быстр, так как несколько пар клыков вводят свой смертельный яд, и воздух Дыскры загрязняет ваши легкие.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""Dyskry"" should be capitalized as it is a proper noun.
+[Minor]: [Punctuation] - The comma after ""так как"" is unnecessary."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.","Вы решаете, что повторное установление контакта было бы опасным, и возвращаетесь к своему летательному аппарату, но этот опыт прояснил ваш ум, который был запутан с тех пор, как вы прыгнули в будущее.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of the word ""flyer"" should be capitalized."
+434,Note that you have used up another polybdenum rod as you jump.,"Примечание, что вы использовали еще один стержень полибдена, когда прыгали.","MQM annotations:
+linguistic conventions errors:
+[Major]: [punctuation] - The sentence is missing a comma after ""Note that"".
+[Minor]: [capitalization] - The word ""polybdenum"" should be capitalized as ""Polybdenum""."
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,"Я нашел неравномерно спряденную серебристо-серую пряжу, которая в основном тонко спряденная с комками.","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The phrase ""которая в основном тонко спряденная с комками"" is grammatically incorrect. It should be ""которая в основном тонко спряжена с комками"" to correctly match the subject ""пряжа"".
+[Minor]: [punctuation] - The comma after ""серебристо-серую пряжу"" is unnecessary."
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,Я планирую смешать его с тонким пурпурно-сиреневым вариегатным хлопком.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""Я"" should be capitalized at the beginning of the sentence.
+[Minor]: [Punctuation] - The sentence should end with a period."
+449,"I hit most of the classics before eighteen--though that's more a reflection of living in bumfuck nowhere, I also read the 1979 Encyclopedia Brittanica in desperation.","Я освоил большинство классических произведений до восемнадцати лет, хотя это больше отражает тот факт, что я жил в глуши. Я также в отчаянии прочитал Британскую энциклопедию 1979 года.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""Brittanica"" should be capitalized as ""Britannica"".
+[Minor]: [punctuation] - The comma after ""eighteen"" should be a period or semicolon to end the sentence."
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.","И это даже несмотря на то, что я не так хорошо спал здесь последние две ночи, как дома, и немного устаю от #MECFS, просто находясь в незнакомой обстановке, где я менее способен контролировать свой темп и должен помнить, где находятся вещи.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing comma after ""and"" in the phrase ""and get a little #MECFS ed out"".
+[Minor]: [spelling] - The word ""#MECFS"" should be written as ""#ME/CFS"" to correctly represent the abbreviation for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome."
+454,Humanity is out in 5 days.,Человечество выходит через 5 дней.,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation ""Человечество выходит через 5 дней."" does not match the source text ""Humanity is out in 5 days."" The correct word order should be ""Человечество выйдет через 5 дней."""
+457,I like it but will it be able to attract an audience of the right players?,"Мне это нравится, но сможет ли оно привлечь аудиторию правильных игроков?","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""Мне"" should be capitalized at the beginning of the sentence.
+[Minor]: [Punctuation] - The sentence should end with a question mark ""?"" instead of a period."
+463,Came home on my lunch break to see this sitting outside uwu.,Пришёл домой на обеденный перерыв и увидел это снаружи uwu.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The use of ""uwu"" at the end of the sentence is an unconventional punctuation mark that is not part of standard Russian punctuation rules."
+467,Was it overly cute to the point of being twee?,"Это было чрезмерно милым до такой степени, что стало приторным?","MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation ""Это было чрезмерно милым до такой степени, что стало приторным?"" does not match the natural flow of the source text ""Was it overly cute to the point of being twee?""."
+474,Did she owe someone money?,Она кому-то должна была деньги?,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The Russian translation is missing a question mark at the end of the sentence."
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.","Хороший критический анализ направлен на быстрое исправление проблемы, а не на вашу способность.","MQM annotations:
+linguistic conventions errors:
+[minor]: grammar - The sentence ""Хороший критический анализ направлен на быстрое исправление проблемы, а не на вашу способность."" has an awkward grammatical structure compared to the source text.
+[minor]: word order - The word order in the translated sentence ""Хороший критический анализ направлен на быстрое исправление проблемы, а не на вашу способность."" does not fully match the natural flow of the source text."
+487,But for strong and firm future growth.,Но для сильного и твердого будущего роста.,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the Russian translation ""Но для сильного и твердого будущего роста"" is slightly different from the English source ""But for strong and firm future growth"". The Russian translation follows a more natural word order for the target language."
+489,"She was on her way to the wall, he was coming off duty.","Она направлялась к стене, он заканчивал службу.","MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation does not match the source text. The original order is ""She was on her way to the wall, he was coming off duty."" while the translation is ""Она направлялась к стене, он заканчивал службу."""
+493,One block-printed word.,одно блокированное слово,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [spelling] - The Russian translation ""одно блокированное слово"" contains a spelling error. The correct spelling should be ""одно блокпечатное слово""."

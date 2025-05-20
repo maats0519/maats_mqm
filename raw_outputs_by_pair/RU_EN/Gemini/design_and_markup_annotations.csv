@@ -1,0 +1,569 @@
+index,original,translated,locale_convention_annotation
+6,"Соревнования личные с командным зачетом, участвуют спортсмены команд субъектов РФ, в одной возрастной группе — мужчины, женщины.","The competition is individual with a team classification, and features athletes from teams of the constituent entities of the Russian Federation, in one age group – men, women.","MQM annotations:
+design and markup errors:
+None"
+9,"Перезачет результатов для спортсменов, которые не принимали участие в данных соревнованиях, не производится, а очки для командного зачета не начисляются.","Rescoring of results for athletes who did not participate in the competition is not carried out, and points are not awarded to the team standings.","```
+MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+14,"В эстафетном беге спортсмены, могут выступать только за команду одной территории.","In relay races, athletes can only compete for a team representing one territory.","```
+MQM annotations:
+design and markup errors:
+None
+```"
+23,Официальная тренировка на соревновательной арене 14 февраля с 16:00 до 19:00. В соревновательные дни — вне времени соревнований.,Official training on the competition arena on February 14th from 4:00 PM to 7:00 PM. On competition days — outside of competition times.,"```
+MQM annotations:
+design and markup errors:
+None
+```"
+26,СаЙ Коот будет расположен за вторым виражом рядом с сектором толкания ядра.,"Sai Coote will be located after the second turn, next to the shot put sector.","MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error"
+29,Уход участников с места соревнований без разрешения рефери запрещается.,Participants are prohibited from leaving the competition venue without the referee's permission.,"```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found.
+```"
+35,"В беге на 60 м и беге с барьерами 60 м соревнования проводятся в 3 круга, выход в следующий круг будет определен по окончанию приема заявок.","In the 60m sprint and 60m hurdles, competitions are held in 3 rounds, and advancement to the next round will be determined after the entry deadline.","```
+MQM annotations:
+design and markup errors:
+```"
+39,"В прыжках и метаниях проводятся квалификационные (в случае более 16 заявленным спортсменов) и финальные соревнования, для участия в которых необходимо пройти квалификацию.","In jumping and throwing events, there are qualifying rounds (if there are more than 16 athletes entered) and final competitions, for participation in which it is necessary to qualify.","```
+MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+57,Техническое совещание ГСК с официальными представителями команд состоится 14 февраля в 18:00 в конференц-зале манежа ЛФК ЦСКА.,The GSC technical meeting with official team representatives will be held on February 14th at 18:00 in the conference hall of the CSKA LFK arena.,"MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found."
+59,"Июльский номер традиционно сдается во время Московского кинофестиваля, и это, конечно, очень грустно: вычитывать полосы, когда душа рвется на Шаброля.","The July issue is traditionally submitted during the Moscow Film Festival, and it's, of course, very sad: to proofread pages when your soul is yearning for Chabrol.","```
+MQM annotations:
+design and markup errors:
+None
+```"
+62,"А еще мы в этот раз публикуем первую часть довольно подробного гида по творчеству Альфреда Хичкока, и вот тут уж точно не нужно ничего специально рекламировать, и ежу понятно, что автор «Подозрения» и «Веревки» - это наше Татьяна Алешичева, Борис Глейзеров, Анна Головня, Ник Де Семлин, Дэн Джолин, Тамара Дондурей, Николай Караев, Денис Корсаков, Мария Кувшинова, Иван Куликов, Уилл Лоуренс, Сергей Мезенов, Сергей Натапов, Иан Нейтан, Ким Ньюмэн, Заира Озова, Нев Пирс, Алексей Простяков, Серафима Скибюк, Адам Смит, Мур Соболева, Василий Степанов, Александр Стрелков, Олли Ричардс, Олег Тищенков, Алена Логунова, Крис Хьюитт, Ольга Шакина лондинку-цэрэушницу Эвелин Солт, несмотря на блестящий послужной список, заподозрили в шпионаже в пользу русских и решили во что бы то ни стало изловить.","And this time, we're also publishing the first part of a rather detailed guide to the work of Alfred Hitchcock, and there's definitely no need to advertise anything specifically here. It's crystal clear that the authors of this guide on the creator of ""Suspicion"" and ""Rope"" are Tatiana Aleshicheva, Boris Gleizerov, Anna Golovnya, Nick De Semlyen, Dan Jolin, Tamara Dondurey, Nikolai Karaev, Denis Korsakov, Maria Kuvshinova, Ivan Kulikov, Will Lawrence, Sergei Mezenov, Sergei Natapov, Ian Nathan, Kim Newman, Zaira Ozova, Nev Pierce, Alexei Prostyakov, Serafima Skibyuk, Adam Smith, Moor Soboleva, Vasily Stepanov, Alexander Strelkov, Ollie Richards, Oleg Tishchenkov, Alena Logunova, Chris Hewitt, and Olga Shakina. They suspected Evelyn Salt, the blonde CIA agent, despite her brilliant track record, of spying for the Russians and decided to catch her at all costs.","MQM annotations:
+design and markup errors:
+minor: markup tag/emoji - The emoji is missing in the translation"
+63,"Загнанная в угол, она перекрасится в привычный нам черный и сама отправится искать правду.","Cornered, she'll revert to our familiar black and go in search of the truth herself.","MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found."
+66,Примерно так красота и должна спасать мир.,That's roughly how beauty should save the world.,"```
+MQM annotations:
+design and markup errors:
+minor: no-error
+```"
+67,"Вот он, родной, взорвавший и починивший мир «Пятым элементом» и сделавший Миллу Йовович самой прекрасной женщиной во вселенной.","Here he is, the man who blew up and fixed the world with ""The Fifth Element"" and made Milla Jovovich the most beautiful woman in the universe.","```
+MQM annotations:
+design and markup errors:
+minor: markup tag/emoji format - The source text does not contain an emoji, but the instructions suggest I should check if the target emoji format matches the source. This is not applicable here.
+```"
+70,Что делал Бессон 13 лет между «Элементом...» и «Аделью...» вспоминать не хочется.,"It's best not to remember what Besson did for 13 years between ""The Fifth Element..."" and ""Adele...""","MQM annotations:
+design and markup errors:
+None"
+71,"Он, мягко говоря, без дела не сидел, но вся эта сценарно-продюсерская суета и редкие, вымученные режиссерские выступления забудутся.","To put it mildly, he wasn't idle, but all this screenwriting and producing bustle and rare, labored directorial appearances will be forgotten.","```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found.
+```"
+72,А вот «Адель...» — едва ли.,"But ""Adele..."" - hardly.","MQM annotations:
+design and markup errors:
+minor: markup tag/ellipsis - The ellipsis ""..."" might be interpreted as a different character or encoding."
+73,"Когда смотришь это кино, кажется, что 13 лет перед нами был не наш Бессон, а какой-то двойник.","Watching this movie, it seems that the Besson of 13 years ago wasn't our Besson at all, but some kind of double.","MQM annotations:
+design and markup errors:
+None"
+76,"Тут весь невероятный драйв заключается в том, что за каждым поворотом или репликой вас поджидают сюрпризы.",The incredible thrill here lies in the fact that surprises await you around every corner or with every line.,"MQM annotations:
+design and markup errors:
+minor: no-error - No design or markup errors found."
+77,И все как один приятные.,"And all are pleasant, to a man.","```
+MQM annotations:
+design and markup errors:
+minor: no-error - None
+```"
+78,"То ли девушка, то ли видение","Either a girl, or a vision","MQM annotations:
+design and markup errors:
+minor: markup tag/emoji formats - The target text does not contain the original emoticons."
+84,"Режиссер не бежит за зрителем с протянутой рукой, умоляя оценить спецэффекты, декорации или трюки, а увлекает за собой, как старомодный романист, восклицающий пред большим путешествием к центру земли или на край света: «Вперед, мой читатель, нас ждут великие дела!»","The director doesn't chase after the viewer with an outstretched hand, begging them to appreciate the special effects, sets, or stunts, but sweeps them along, like an old-fashioned novelist exclaiming before a great journey to the center of the earth or the edge of the world: ""Forward, my reader, great things await us!""","```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found.
+```"
+85,"При этом Бессон обращается с жанровым кино, про которое знает решительно все, бесцеремонно и весело, как мальчишка, насмотревшийся старых фильмов и начитавшийся Жюля Верна.","At the same time, Besson treats genre cinema, about which he knows absolutely everything, irreverently and playfully, like a boy who has watched a lot of old movies and read Jules Verne.","MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found."
+86,"Манипулируя банальностями, не отказывая себе в цинизме и не стесняясь риско","Manipulating platitudes, indulging in cynicism, and not being shy about risk.","MQM annotations:
+design and markup errors:
+None"
+90,"Город переполошило древнее чудовище, которое пробудил к жизни старый медиум.",An ancient monster stirred to life by an old medium threw the city into turmoil.,"```
+MQM annotations:
+design and markup errors:
+minor: no error
+```"
+92,С той же целью девушка тащит из Египта настоящую мумию.,"With the same goal, the girl drags a real mummy from Egypt.","MQM annotations:
+design and markup errors:
+None"
+96,"Стиль Бессона в этом фильме складывается из словесного трюкачества, актерской клоунады и сюжетной эквилибристики (цирковые термины вполне уместны - единение двух искусств здесь органично и крепко как никогда).","Besson's style in this film is composed of verbal trickery, actorly clowning, and narrative acrobatics (circus terms are quite fitting - the unity of the two arts here is as organic and strong as ever).","MQM annotations:
+design and markup errors:
+minor: no-error - None"
+98,"В ней воплотился незаслуженно забытый типаж авантюристки, которая берет не столько эксплуатацией сексуальности, сколько чистейшим куражом и отвагой.","She embodied a type of adventuress, undeservedly forgotten, who gets her way not so much through the exploitation of sexuality, but through sheer audacity and courage.","MQM annotations:
+design and markup errors:
+None"
+99,"В кино к таким девушкам, как правило, приставляют какого-нибудь дежурного мачо или волоокого романтика","In movies, these kinds of girls are usually paired with some kind of stock macho man or wide-eyed romantic.","MQM annotations:
+design and markup errors:
+None"
+104,"Натренированный на многочисленных жанровых «кошках» и, казалось, совсем скисший Люк Бессон проявил неожиданную творческую лихость, напомнив, что граница между предпочтениями скучающих посетителей мегамоллов и высоколобых завсегдатаев арт-хаусных залов легко преодолевается фильмами для жизнерадостных безумцев.","Trained on numerous genre ""cats"" and seemingly completely soured, Luc Besson showed unexpected creative agility, reminding us that the boundary between the preferences of bored megamall visitors and highbrow regulars of art-house halls is easily overcome by films for cheerful madmen.","MQM annotations:
+design and markup errors:
+minor: markup tag/emoji - The translation doesn't include the emoji."
+107,"Герметичный хоррор с претензией на психологизм и политический контекст 2002 году дебютный ужастик Джонатана Либесмана был разруган критикой, но понравился публике и хорошо заработал в прокате, а главное - попался на глаза продюсеру Майклу Бэю.","A claustrophobic horror film with pretensions to psychological depth and a political context, Jonathan Liebesman's 2002 debut horror film was panned by critics but liked by audiences and did well at the box office, and most importantly, caught the eye of producer Michael Bay.","MQM annotations:
+design and markup errors:
+None"
+115,А трое мужчин в запертой комнате пытаются выработать стратегию выживания: объединиться в команду или перестрелять друг друга?,And three men in a locked room are trying to develop a survival strategy: to unite as a team or to shoot each other?,"MQM annotations:
+design and markup errors:
+minor: markup tag/emoji - The source does not contain any emojis, but the target example does.
+```"
+117,Или пытаться сломать свою клетку любой ценой?,Or try to break your cage at any cost?,"```
+MQM annotations:
+design and markup errors:
+None
+```"
+118,"Проверку проходят не только они, но и молодая амбициозная сотрудница спецслужб, которую тестирует на безжалостность поднаторевший в диких экспериментах опытный профессор.","Not only they are being tested, but also a young, ambitious intelligence officer, whom an experienced professor, skilled in brutal experiments, is testing for ruthlessness.","MQM annotations:
+design and markup errors:
+None"
+120,Их сажают в изолированную комнату и выдают каждому кипу листов с бессмысленными вопросами.,They are put in an isolated room and given a stack of papers with nonsensical questions each.,"```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design or markup errors found.
+```"
+122,"Начинается игра на выживание, за которой за стеклом внимательно наблюдают правительственные агенты.","The survival game begins, watched closely through the glass by government agents.","MQM annotations:
+design and markup errors:
+minor: no-error - No design or markup errors found."
+126,"Куртуазным образом жизни отца она уязвлена и откровенно подглядывает за тем, как он, словно пародируя знаменитую сцену из «Шоугелз» Пола Верхувена, ныряет в бассейн за очередной романтической жертвой.","She's hurt by her father's courtly lifestyle and openly spies on him as he dives into the pool after another romantic victim, as if parodying the famous scene from Paul Verhoeven's ""Showgirls.""","MQM annotations:
+design and markup errors:
+minor: no-error
+major: no-error
+critical: no-error"
+129,Вялую мелодраматическую Мгер Мкртчан вместе с Павлом Бардиным снял комедию с Иваном Ургантом «Трое и снежинка».,"Mher Mkrtchyan, who is known for his languid melodramas, co-directed the comedy ""Three and a Snowflake"" with Pavel Bardin, starring Ivan Urgant.","```
+MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+133,"Особенно жалко линию про бизнес по перекупке футбольных игроков, так и оставшийся за кадром.",It's especially a pity that the plotline about the business of buying and selling football players was left out of the frame.,"```
+MQM annotations:
+design and markup errors:
+None
+```"
+137,"Зато с потенциальным слоганом для аудитории фильма автор попал «в девятку»: «Не ищи проблему там, где ее нет». Точнее не скажешь.","But when it came to a potential slogan for the film's audience, the author hit the bullseye: ""Don't look for problems where there aren't any."" Couldn't have said it better.","```
+MQM annotations:
+design and markup errors:
+None
+```"
+140,"Герои скачут практически по одним и тем же частям света (оба фильма начинаются в Латинской Америке и заканчиваются в порту Лос-Анджелеса) и эксплуатируют одни и те же эффектные кадры - и там и там взрывается нечто, набитое долларовыми купюрами, и на декорации опускается вихрь из баксов.","The protagonists gallop through virtually the same parts of the world (both films begin in Latin America and end in the port of Los Angeles) and exploit the same spectacular shots - in both, something stuffed with dollar bills explodes, and a vortex of bucks descends on the scenery.","```
+MQM annotations:
+design and markup errors:
+None
+```"
+146,"Просто удивительно, как они, не сговариваясь, привели разный материал к абсолютно идентичному громыхающему знаменателю, сделав довольно тяжелые, предсказуемые, ненужные боевики, вызывающие в памяти массу картин с Уиллисом и Шварценеггером (сравнения неизменно оказываются в пользу Брюса и Арнольда).","It's simply amazing how they, without conspiring, brought different material to an absolutely identical, clanging denominator, making rather heavy, predictable, unnecessary action films that evoke a mass of pictures with Willis and Schwarzenegger (the comparisons invariably favor Bruce and Arnold).","MQM annotations:
+design and markup errors:
+None"
+151,"Но они живы — и намерены во что бы то ни стало отомстить негодяю с томным голосом, который все это подстроил.",But they are alive – and intend to take revenge at any cost on the scoundrel with the languid voice who orchestrated all of this.,"```
+MQM annotations:
+design and markup errors:
+None
+```"
+153,"Сделанный из вторсырья, условно съедобный боевичок","Made from recycled materials, a conditionally edible action movie.","```
+MQM annotations:
+design and markup errors:
+```"
+154,Простая история о беглом румынском каторжнике,A simple story about a runaway Romanian convict.,"```
+MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+158,"Безусловно, оно будет реалистичным, притом жестко.","Undoubtedly, it will be realistic, and harshly so.","```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design or markup errors found.
+```"
+159,Высока вероятность участия актеров-непрофессионалов.,There is a high probability of non-professional actors participating.,"```
+MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+161,"Также, не зная года выпуска, можно запросто принять происходящее на экране за упражнения каких-то подпольных критических реалистов из стран Варшавского договора, которым в начале 80-х прочитали лекцию о Брессоне","Also, without knowing the release year, it's easy to mistake what's happening on screen for the exercises of some underground critical realists from the Warsaw Pact countries, who were given a lecture on Bresson in the early 80s.","MQM annotations:
+design and markup errors:
+None"
+168,"конвертировать в эксплотейшн а-ля 70-е, с ковбоем, решившим прогуляться из тюряги, откуда ему скоро выходить, до ближайшего салуна).","Convert it into 70s-style exploitation, with a cowboy deciding to take a stroll from the slammer (where he's about to be released anyway) to the nearest saloon.","MQM annotations:
+design and markup errors:
+minor: no-error - No design or markup errors found."
+175,"Неплохой дебют, внушающий слабую надежду, что из румынского артхауса когда-нибудь вырастет приличное направление","A decent debut, inspiring a faint hope that a respectable movement will one day grow out of Romanian arthouse cinema.","```
+MQM annotations:
+design and markup errors:
+None
+```"
+178,"«Гадкий я», наверное, лучшая работа его команды: картина прекрасно нарисована (кстати, имеет смысл смотреть в ЗО), особенно, если вы любите, когда разные объекты то и дело норовят выпрыгнуть с экрана в зал), сносно написана, и, главное, здесь нет ни одной нижепоясной шутки, из-за которых на «Ледниковых периодах» приходилось стыдливо вжиматься в кресло и закрывать детские ушки руками.","""Despicable Me"" is probably the best work of his team: the picture is beautifully drawn (by the way, it makes sense to watch it in 3D, especially if you like it when various objects constantly try to jump off the screen into the theater), decently written, and, most importantly, there isn't a single below-the-belt joke, which made you have to shrink into your seat and cover your children's ears during ""Ice Age.""","MQM annotations:
+design and markup errors:
+minor: no-error - No design or markup errors found."
+179,"Понятно, что причиной смены курса стало не чувство меры авторов, а вопиющая асексуальность главного героя, каковая в свою очередь продиктована нежеланием как бы то ни было касаться темы педофилии.","It is clear that the reason for the change in course was not the authors' sense of proportion, but the blatant asexuality of the main character, which in turn was dictated by a reluctance to touch on the topic of pedophilia in any way.","```
+MQM annotations:
+design and markup errors:
+None
+```"
+182,"Чувствуется кропотливая работа слаженной команды маркетологов, продумавших каждую мелочь, чтобы фильм понравился всем категориям граждан.","You can feel the meticulous work of a well-coordinated marketing team, who thought through every detail to ensure the film appeals to all demographics.","```
+MQM annotations:
+design and markup errors:
+None
+```"
+189,В финале Грю танцует партию Траволты,"In the finale, Gru dances Travolta's part.","```
+MQM annotations:
+design and markup errors:
+minor: markup tag/emoji - The source text does not contain any emojis, while the translation could be interpreted as implying Gru is dancing an emoji or similar.
+```"
+190,"К заброшенному трейлеру где-то посреди условной пустыни подкатывает тачка, из которой выходят три пары добротнейших сисек.","A car pulls up to an abandoned trailer somewhere in the middle of a generic desert, and three pairs of very nice boobs get out.","```
+MQM annotations:
+design and markup errors:
+minor: markup tag/emoji formats - The source doesn't have any emojis, and the target doesn't have any emojis.
+```"
+192,Сами по себе носительницы этого дара не так существенны.,The bearers of this gift are not that significant in themselves.,"```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found.
+```"
+196,А происходит много всего забавного.,And a lot of funny stuff is happening.,"```
+MQM annotations:
+design and markup errors:
+None
+```"
+198,"Создатели считают, что матерящаяся телка с щедрыми формами, вымазанная в грязи, с разбитым носом и сияющими белизной зубами - это круто.","The creators think that a foul-mouthed broad with generous curves, smeared in dirt, with a broken nose and gleaming white teeth is cool.","MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error"
+201,Близкий по духу фильм в московском прокате — «Ствол для Дженнифер».,"A film in Moscow cinemas with a similar vibe is ""Jennifer's Body.""","MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error"
+203,"В общем, для кино-фетишиста здесь обнаруживается настоящий Клондайк удовольствий.","In general, for a film fetishist, this is a real Klondike of pleasures.","```
+MQM annotations:
+design and markup errors:
+minor: markup tag/emoji formats - The source does not contain any emojis but the annotation template mentions emojis.
+```"
+205,"Если бы не физические данные актрис, скучно стало бы уже к середине.","If it weren't for the actresses' physical attributes, it would have become boring by the middle.","```
+MQM annotations:
+design and markup errors:
+minor: no-error
+```"
+207,"В РОЛЯХ: Джулия Вот, Эрин Каммингс, Америка Оливо, Майкл Херст, Рон Мелендес","CAST: Julia Voth, Erin Cummings, America Olivo, Michael Hurst, Ron Melendez","MQM annotations:
+design and markup errors:
+None"
+209,"Ничего не добившись и застрелив несчастного бандита, бабы начинают цапаться, драться друг с другом и периодически прибывающими откуда-то отморозками, а также регулярно целоваться и тискаться.","Having achieved nothing and shot an unfortunate bandit, the women start bickering, fighting with each other and with the periodically arriving thugs from who-knows-where, and also regularly kiss and fondle each other.","```
+MQM annotations:
+design and markup errors:
+minor: markup tag/emoji - The source text does not contain any emojis, while the target text might display characters in an emoji format depending on the platform. This is a potential format change.
+```"
+210,"По ходу дела выясняется, что все трое не те, кем представлялись в начале.","As things turn out, all three are not who they seemed to be at the beginning.","```
+MQM annotations:
+design and markup errors:
+minor: no error
+```"
+214,Кровожадный и кусачий пеплум возвращает режиссеру пошатнувшееся доверие.,A bloodthirsty and biting peplum restores the director's shaken confidence.,"MQM annotations:
+design and markup errors:
+minor: no-error - No design or markup errors found."
+217,"«План Маршалла» по очищению «пеплума» от налипшей пост-гладиаторской киногрязи, в целом, сработал.","The ""Marshall Plan"" to cleanse the ""peplum"" genre of the post-gladiator film grime that had stuck to it, generally worked.","```
+MQM annotations:
+design and markup errors:
+minor: markup tag/None - No design and markup errors found.
+```"
+226,"Тонкому артхаусному артисту пока удалось отвоевать в Голливуде лишь острохарактерные роли второго плана, но очень хочется верить, что после «Центуриона» ситуация изменится.","So far, the subtle arthouse actor has only managed to carve out quirky supporting roles in Hollywood, but one really hopes that the situation will change after ""Centurion.""","```
+MQM annotations:
+design and markup errors:
+None
+```"
+240,"Лысая, как бильярдный шар, киса замыслила захватить весь мир, и теперь собаки-суперагенты вынуждены объединить усилия со своими мяукующими антагонистами.","A bald cat, like a billiard ball, is plotting to take over the world, and now super-agent dogs are forced to join forces with their meowing antagonists.","```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design or markup errors found.
+```"
+244,"Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.","Note George Clooney, who has teamed up with rock photographer-turned-director Anton Corbijn (""Control"") for a rather curious existential study of the psychology of an aging hitman hiding from people in a small Italian town and belatedly grasping human nature.","MQM annotations:
+design and markup errors:
+minor: no-error - No design or markup errors found."
+247,"Взяв за основу роман Мартина Бута «Очень скрытный джентльмен», Роуэн Джоффе внес в свой сценарий кое-какие коррективы: место рассказчика-англичанина занял вынесенный в заглавие американец, а из оружейника-нелегала главный герой превратился в простого убийцу.","Taking Martin Booth's novel ""A Very Private Gentleman"" as a basis, Rowan Joffé made some adjustments to his screenplay: the English narrator was replaced by the American mentioned in the title, and the protagonist was transformed from an illegal gunsmith into a simple killer.","MQM annotations:
+design and markup errors:
+None"
+253,А можно я вас из фоторужья щелкну!?,Can I snap a picture of you with my sniper camera?,"MQM annotations:
+design and markup errors:
+minor: markup tag/emoji formats - The source uses a specific term related to photography (""фоторужья""), which implies a camera that resembles a rifle, possibly influencing the expected style of emoji. The translation doesn't carry this nuance."
+254,Джонни Деппа в этом сезоне можно было увидеть в двух местах одновременно.,Johnny Depp could be seen in two places at once this season.,"MQM annotations:
+design and markup errors:
+None"
+257,"Во-вторых, в Пуэрто Рико на площадке «Ромового дневника», экранизации дебютного романа легендарного Хантера С. Томпсона.","Secondly, in Puerto Rico on the set of ""The Rum Diary,"" the film adaptation of the legendary Hunter S. Thompson's debut novel.","MQM annotations:
+design and markup errors:
+minor: markup tag/none - no errors."
+261,"Впрочем, хорошо хотя бы то, что героиня российской картины хоть и чужая, но совсем не лысая.","However, it's good that at least the heroine of the Russian film, although foreign, is not bald.","MQM annotations:
+design and markup errors:
+None"
+265,"В график также заложен и седьмой фильм — романтическая комедия «Джек и Джилл», где Сэндлеру предстоит одновременно сыграть Джека и его сестру-близнеца Джилл.","The schedule also includes a seventh film – the romantic comedy ""Jack and Jill,"" in which Sandler will simultaneously play Jack and his twin sister Jill.","```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design or markup errors found.
+```"
+269,"В то время как съемки новой серии Бондианы откладываются, ее новый режиссер Сэм Мендес скучать не успевает.","While filming of the new Bond movie is delayed, its new director Sam Mendes doesn't have time to be bored.","```
+MQM annotations:
+design and markup errors:
+None
+```"
+277,"По признанию режиссера, это нелегкая (в романе шесть параллельных сюжетных линий), но крайне интересная работа.","According to the director, it's a difficult (the novel has six parallel plot lines), but extremely interesting piece of work.","```
+MQM annotations:
+design and markup errors:
+minor: no-error - None
+```"
+279,В Крыму проходят съемки интернационального боевика Максима Коростышевского под рабочим названием «Солдаты удачи».,"Filming of Maxim Korostyshevsky's international action film, tentatively titled ""Soldiers of Fortune,"" is taking place in Crimea.","MQM annotations:
+design and markup errors:
+minor: no-error
+major: no-error
+critical: no-error"
+280,"Он посвящен миллионерам, отправившимся за свои деньги на настоящую войну в поисках адреналина.",It is dedicated to millionaires who went to a real war for their money in search of adrenaline.,"MQM annotations:
+design and markup errors:
+None"
+288,Этот факт не должен пугать искушенного зрителя - в истории кинематографа есть масса примеров успешной переквалификации моделей в актрис.,This fact shouldn't frighten a sophisticated viewer - there are plenty of examples in the history of cinema of models successfully retraining as actresses.,"```
+MQM annotations:
+design and markup errors:
+None
+```"
+289,"Шарлиз Терон («Монстро»), Анджелина Джоли («Прерванная жизнь»), Джессика Лэнг («Голубое небо», «Тутси»), Ким Бэсингер («Секреты Лос-Анджелеса»), Дженнифер Коннели («Игры разума»), Джина Дэвис («Случайный турист») и «Первая вице-мисс США-86» Халле Берри («Бал монстров») начинали как манекенщицы или снимались для модных журналов, в итоге получили заслуженный «Оскар».","Charlize Theron (""Monster""), Angelina Jolie (""Girl, Interrupted""), Jessica Lange (""Blue Sky,"" ""Tootsie""), Kim Basinger (""L.A. Confidential""), Jennifer Connelly (""A Beautiful Mind""), Geena Davis (""The Accidental Tourist""), and ""First Runner-Up Miss USA 1986"" Halle Berry (""Monster's Ball"") all started as models or posed for fashion magazines, and eventually received a well-deserved Oscar.","MQM annotations:
+design and markup errors:
+minor: markup tag/unicode - The quotation marks around movie titles changed from Russian to English format. This is a minor stylistic change, but technically a markup difference."
+290,"Преуспели в актерском мастерстве (также красавицы Милла Йовович, Кэмерон Диас, Моника Белуччи и, что особенно приятно, наша соотечественница Ольга Куриленко.","Excelled in acting (as did beauties Milla Jovovich, Cameron Diaz, Monica Bellucci, and, what is especially pleasing, our compatriot Olga Kurylenko).","```
+MQM annotations:
+design and markup errors:
+None
+```"
+293,"Валерия Гай Германика, заслужившая Особого упоминания каннского жюри в 2008 году за картину «Все умрут, а я останусь» и снявшая скандальный телесериал «Школа», получила должность креативного директора на телеканале МТ.","Valeria Gai Germanika, who received a Special Mention from the Cannes Film Festival jury in 2008 for the film ""Everybody Dies But Me"" and who directed the scandalous TV series ""School"", has been appointed creative director at the MT TV channel.","```
+MQM annotations:
+design and markup errors:
+minor: no error
+```"
+296,Также Германика начала кастинг новых ведущих.,Germanika also started casting new hosts.,"```
+MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+297,Комедия «Колотилов» режиссера Лео Габриадзе и продюсера Тимура Бекмамбетова неожиданно превратилась в «Выкрутасы».,"The comedy ""Kolotilov"" by director Leo Gabriadze and producer Timur Bekmambetov unexpectedly turned into ""Vykrutasy"" (or ""Lucky Trouble"").","```
+MQM annotations:
+design and markup errors:
+minor: markup tag/title - The movie title ""Vykrutasy"" is provided in parentheses with an alternative English title ""Lucky Trouble"", which might be considered as extra information compared to the original title and could potentially mislead the user.
+```"
+299,Новое развитие получила вторая сюжетная линия картины.,The second plot line of the film has gained new development.,"MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error"
+308,"Очумевшие от жесткого расписания, критики и кинематографисты на сверхскоростях носились меж сочинским Зимним театром, где проходили показы с мастер-классами, и гостиницей «Жемчужина», в которой потоком шли пресс-конференции и круглые столы, едва успевая нырнуть в Черное море.","Dizzy from the tight schedule, critics and filmmakers raced at breakneck speed between Sochi's Winter Theater, where screenings and master classes were held, and the Zhemchuzhina Hotel, where press conferences and round tables flowed non-stop, barely managing to dip into the Black Sea.","MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error"
+313,"На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.","At a round table dedicated to the fate of Russian arthouse cinema, Sergei Tolstikov, chairman of the fund for supporting domestic cinema, launched into a colorful quarrel with critics: ""Do you even read the articles in the press that I read?"" he asked those gathered menacingly.","MQM annotations:
+design and markup errors:
+None"
+318,"Председателю жюри Карену Шахназарову картина Лозницы, напротив, не понравилась вовсе — но под давлением коллег он вынужден был дать ей приз за режиссуру.","Jury chairman Karen Shakhnazarov, on the contrary, did not like Loznitsa's film at all — but under pressure from his colleagues, he was forced to give it the award for directing.","```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found.
+```"
+319,Награду за лучший дебют — «Пропавший без вести» — получила дочь,"The award for best debut – ""Missing"" – went to the daughter.","MQM annotations:
+design and markup errors:
+minor: markup tag/emoji - The source text does not contain any emojis, while the target text might display it differently depending on the platform. However, since there's no explicit emoji present, this is a very minor potential difference."
+320,"Жуткая киноэнциклопедия русской жизни: наивного гуманного и рационального героя бьют, грабят и провоцируют на чудовищные поступки без всякой видимой цели.","A terrifying film encyclopedia of Russian life: a naive, humane, and rational hero is beaten, robbed, and provoked into monstrous acts for no apparent reason.","MQM annotations:
+design and markup errors:
+None"
+323,Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.,"The most challenging film of ""Kinotavr"" has already been selected for the Karlovy Vary competition - a directorial star is born.","MQM annotations:
+design and markup errors:
+None"
+324,"Безупречно одетый и постриженный программист Леонид реагирует на мир со сдержанной брезгливостью, прячась в норе аккуратного холостяцкого быта.","Impeccably dressed and groomed programmer Leonid reacts to the world with restrained disdain, hiding in the burrow of a neat bachelor existence.","MQM annotations:
+design and markup errors:"
+325,"Но на дом опускается чугунная баба, на голову героя — несправедливая рука карательных органов, и он начинает бессмысленный бег по кафкианским пространствам и ситуациям.","But a cast-iron woman descends upon the house, an unjust hand of punitive organs falls on the hero's head, and he begins a senseless run through Kafkaesque spaces and situations.","MQM annotations:
+design and markup errors:
+None"
+328,И это симптоматично - нынче в нашем кино зубры движутся за молодежью.,"And it's telling - nowadays in our cinema, the old guard is following the youth.","MQM annotations:
+design and markup errors:
+None"
+330,"Документальное кино, снятое так, что голову сносит почище, чем от аналогичного художественного.",A documentary filmed in such a way that it's more mind-blowing than a similar fictional film.,"```
+MQM annotations:
+design and markup errors:
+None
+```"
+331,"Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.","The author is interested in both a screwdriver investigating an electric meter and a piece of unsalted butter drifting across a cast-iron skillet – all of which transforms a story about an unemployed miner, his gap-toothed sweetheart, and her criminal brother into a veritable documentary canvas in oil.","MQM annotations:
+design and markup errors:
+minor: markup tag/emoticon - The em dash (—) has been converted to a hyphen (-) which is not correct."
+332,Победитель конкурса короткого метра Николай Соколов примеряет черно-белую стилистику французской новой волны на мир спальных районов.,Short film contest winner Nikolai Sokolov applies the black-and-white stylistics of the French New Wave to the world of residential areas.,"```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found.
+```"
+333,"Пусть годаровские монтажные ходы в истории о двух школьниках, один из которых мечтает сделать бомбу, а другой — сыграть Баха задом наперед, выглядят странно, но за редкую попытку поэтизации окружающей реальности — спасибо.","Even though the Godard-esque montage techniques in the story about two schoolboys, one of whom dreams of building a bomb, and the other of playing Bach backwards, seem strange, thank you for the rare attempt to poeticize the surrounding reality.","```
+MQM annotations:
+design and markup errors:
+None
+```"
+338,"Недавно режиссером был назначен Карл Ринш (у него в графике уже стоит ремейк «Твари из Черной лагуны»), прославившийся своими рекламными роликами.","Recently, Carl Rinsch (who already has a remake of ""Creature from the Black Lagoon"" scheduled) was appointed as director, having become famous for his commercials.","MQM annotations:
+design and markup errors:
+None"
+341,Роберт Родригес приобрел права на ротоскопический фэнтези-мультфильм 80-х и планирует сделать из него масштабное кино.,Robert Rodriguez has acquired the rights to an 80s rotoscope fantasy cartoon and plans to make a large-scale film out of it.,"MQM annotations:
+design and markup errors:
+minor: no-error"
+343,"Темой мультфильма были мечи, магия и большое количество нарисованных сисек.","The cartoon's themes were swords, magic, and a large quantity of drawn breasts.","MQM annotations:
+design and markup errors:
+minor: markup tag/emoji format - No emojis in the source text, so there shouldn't be one in the target either."
+347,"На широкие экраны героев вернет не кто иной, как Майкл Бэй - властелин экшена, взрывов и хоррор-ремейков.","Michael Bay himself, the master of action, explosions, and horror remakes, will bring the heroes back to the big screen.","MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found."
+353,— Китайские женщины в наше время управляют крупным бизнесом и выигрывают олимпийское золото.,"These days, Chinese women run major businesses and win Olympic gold.","MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error"
+367,И этот контакт у нас случился буквально через несколько минут после знакомства.,And this contact happened literally within minutes of meeting.,"```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found.
+```"
+373,Как прошли съемки в Севастополе?,How did the filming go in Sevastopol?,"MQM annotations:
+design and markup errors:
+None"
+375,"У меня никогда не было там гастролей, ни на отдых, ни в детстве я туда не приезжала.","I've never toured there, nor have I vacationed there, nor did I visit there as a child.","```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found.
+```"
+380,"Получается, вам было несложно играть влюбленность в этот город.","So, it wasn't difficult for you to feign affection for this city.","```
+MQM annotations:
+design and markup errors:
+None
+```"
+381,"Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.","Honestly, you come across as extremely natural on screen, which many didn't expect.","```
+MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+387,"Я прекрасно понимаю, что со стороны видней, и я, опять же, прошу подсказок и разговариваю с режиссером, очень долго, даже не я с ним разговариваю, а он со мной ведет предварительные беседы и предельно четко и точно объясняет, что ему нужно.","I perfectly understand that it's easier to see from the outside, and I, again, am asking for hints and talking to the director, for a very long time, it's not even me talking to him, but he's having preliminary conversations with me and explaining to me very clearly and precisely what he needs.","MQM annotations:
+design and markup errors:
+None"
+390,"Я кайфовала от всех, оператора, режиссера, продюсера, Саши Яценко.","I was getting high off of everyone – the cameraman, the director, the producer, Sasha Yatsenko.","MQM annotations:
+design and markup errors:
+None"
+393,"Он был готов не спать, не есть - и здесь была ровно такая ситуация.","He was ready to not sleep, not eat - and this was exactly that kind of situation.","MQM annotations:
+design and markup errors:
+None"
+394,"Не спать, не есть сутками - и все равно, хоть гром, хоть град.","To not sleep, to not eat for days - and still, come hell or high water.","MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found."
+396,В этой атмосфере сумасшествия очень легко работается.,It's very easy to work in this atmosphere of madness.,"```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design or markup errors found.
+```"
+397,"И мне кажется, что когда люди настолько сдвинуты до болезненного фанатизма на том, что они делают, это не может не получится, потому что слишком много затрачивается энергии.","And it seems to me that when people are so consumed to the point of painful fanaticism with what they do, it can't help but work out, because too much energy is being invested.","```
+MQM annotations:
+design and markup errors:
+None
+```"
+399,"Каковы критерии отбора материала, с которым вам предстоит работать?",What are the selection criteria for the material you will be working with?,"```
+MQM annotations:
+design and markup errors:
+None
+```"
+400,"Я не хочу глупостей, глупых диалогов, фильмов, которые ничего не говорят, ничего не несут.","I don't want nonsense, stupid dialogues, movies that say nothing, carry nothing.","```
+MQM annotations:
+design and markup errors:
+critical: no-error
+major: no-error
+minor: no-error
+```"
+403,Конкретных предложений и планов сейчас нет.,There are no concrete proposals or plans at the moment.,"```
+MQM annotations:
+design and markup errors:
+None
+```"
+414,«Неуправляемый»,Uncontrolled,"MQM annotations:
+design and markup errors:
+None"
+446,Технический директор онлайн-направления Андрей Зуев,"Technical Director of Online Operations, Andrey Zuev","MQM annotations:
+design and markup errors:
+None"
+449,Директор по работе с клиентами технического направления Инна Ключарева,Client Director for Technical Matters Inna Klyuchareva,"```
+MQM annotations:
+design and markup errors:
+None
+```"
+454,Телефон: +7 (495) 229 6200 Факс: +7 (495) 229 62 01,Phone: +7 (495) 229 6200 Fax: +7 (495) 229 62 01,"```
+MQM annotations:
+design and markup errors:
+None
+```"
+456,"Адрес: 105082, г. Москва, ул. Малая Почтовая, д. 12, стр. 1, офис 309","Address: 12 Malaya Pochtovaya Street, bldg. 1, office 309, Moscow, 105082","```
+MQM annotations:
+design and markup errors:
+```"
+457,Отпечатано в полиграфическом комплексе «Пушкинская площадь».,"Printed at the ""Pushkinskaya Ploshchad"" printing complex.","MQM annotations:
+design and markup errors:
+minor: markup tag/name - ""Pushkinskaya Ploshchad"" is not correctly converted into italics or bold format."
+462,В ПОДАРОК ПЕРВЫМ ТРЕМ ПРАВИЛЬНО ОТВЕТИВШИМ ЧИТАТЕЛЯМ — ГОДОВАЯ ПОДПИСКА И ОУО ИЗ КОЛЛЕКЦИИ,AS A GIFT TO THE FIRST THREE READERS WHO ANSWER CORRECTLY — A YEAR'S SUBSCRIPTION AND AN AUDIOBOOK FROM THE COLLECTION.,"MQM annotations:
+design and markup errors:
+minor: markup tag/emoji format - The phrase ""AND AN AUDIOBOOK FROM THE COLLECTION"" has been converted to all caps, which could potentially represent a shift in style/emphasis, but is not markup-related. There are no markup or design errors in the translation."
+470,"Картина повествует об изобретении Facebook, одном из инструментов-первопроходцев в сфере интернета, который объединил весь мир, рассорил пятерых друзей и сделал своего создателя - 26-летнего бывшего студента Гарварда Марка Цукерберга — самым молодым миллиардером последних десятилетий.","The film tells the story of the invention of Facebook, one of the pioneering tools in the internet sphere that united the world, alienated five friends, and made its creator, 26-year-old Harvard dropout Mark Zuckerberg, the youngest billionaire of recent decades.","MQM annotations:
+design and markup errors:
+None"
+472,"Цукерберг запускает сайт по целому ряду причин: отчасти из-за озлобленности на окружающий мир, отчасти из-за спортивного интереса и отчасти просто потому, что ЭТО «круто».","Zuckerberg is launching the site for a number of reasons: partly out of spite for the world around him, partly out of a competitive spirit, and partly simply because it's ""cool.""","```
+MQM annotations:
+design and markup errors:
+minor: markup tag/emoji format - The source text does not contain any emojis, but the translated text includes quotation marks around the word ""cool,"" which may be perceived as a stylistic choice but could also be considered a minor markup difference.
+```"
+475,То же и с режиссурой Финчера: сравнительно сдержанная (за исключением Близнецов Уинклвоссов сыграли непохожие друг на друга актеры.,The same goes for Fincher's directing: comparatively restrained (except for the Winklevoss twins being played by actors who don't look alike).,"```
+MQM annotations:
+design and markup errors:
+minor: no error
+```"
+480,"В РОЛЯХ: Джесси Айзенберг, Эндрю Гарфилд, Руни Мара, Джастин Тимберлейк, Эрми Хаммер, Джошуа Пенс","CAST: Jesse Eisenberg, Andrew Garfield, Rooney Mara, Justin Timberlake, Armie Hammer, Joshua Pence","```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design and markup errors found.
+```"
+483,"Цветовая палитра играет свою роль: теплая, местами солнечная, даже в темноте оставаясь уютной, она маневрирует между двумя спутанными цепочками событий и двумя обособленными судебными тяжбами.","The color palette plays its role: warm, in places sunny, remaining cozy even in the darkness, it maneuvers between two tangled chains of events and two separate legal battles.","```
+MQM annotations:
+design and markup errors:
+minor: no-error - None
+```"
+486,"После просмотра появляется стойкое ощущение, что «Социальная сеть» - это портрет нашего времени, а недосказанность в данном случае - важный художественный прием.","After watching it, you are left with a persistent feeling that ""The Social Network"" is a portrait of our time, and the ambiguity is an important artistic device in this case.","```
+MQM annotations:
+design and markup errors:
+minor: no-error - No design or markup errors found.
+```"
+488,"Теперь, когда суточная платежеспособность стала еще выше, политика осуществляется уже не на заседаниях правления, ав песочницах.","Now that daily solvency is even higher, policy is no longer made at board meetings, but in sandboxes.","```
+MQM annotations:
+design and markup errors:
+minor: markup tag/emoji formats - There are no emojis, but ""песочницах"" might figuratively imply a sandbox emoji context, though not explicitly requiring one.
+```"
+491,"Уинклвоссы (Хаммер и Пенс), тем временем, топают ногами: кто это сказал, что богатые, красивые и спортивные не могут быть еще и умными?","The Winklevosses (Hammer and Pence), meanwhile, are stomping their feet: who said that rich, beautiful, and athletic people can't also be smart?","MQM annotations:
+design and markup errors:
+minor: accuracy/mistranslation - ""Hammer and Pence"" are mistranslations of the Russian names, which are not present in the source. This is a translation error, not a markup error.
+```"
+495,И что за социальные последствия повлечет за собой его изобретение?,And what social consequences will its invention entail?,"MQM annotations:
+design and markup errors:
+None"

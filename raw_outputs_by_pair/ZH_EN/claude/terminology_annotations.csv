@@ -1,0 +1,541 @@
+index,original,translated,terminology_annotation
+0,本文件按照 GB/T 1.1 一 202 久标准化工作导则第工部分:标准化文件的结构和起草规则的规定起惠。,This document is prepared in accordance with the provisions of Part 1: Structure and drafting rules of standardization documents in the Standardization Guide GB/T 1.1-2020.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""GB/T 1.1-2020"" should have been translated as the corresponding standard name in English, rather than leaving it in the original Chinese format.
+[minor]: [WRONG TERM] - The term ""Standardization Guide"" should be capitalized as ""Standardization Guide"" to match standard terminology conventions."
+4,"在四字节编码区更改了18 个 GB/T 13000 代码位置(见附录 D,2005 年版的附录D);","Changed 18 GB/T 13000 code positions in the four-byte encoding area (see Appendix D, 2005 edition of Appendix D).","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""GB/T 13000"" should have been translated as a glossary entry instead of using the full name ""GB/T 13000"".
+[minor]: [WRONG TERM] - The term ""four-byte encoding area"" should be more accurately translated as a glossary entry."
+8,请注意本文件的某些内容可能涉及专利。 本文件的发布机构不承担识别专利的责任。,Please note that some content of this document may involve patents. The issuing organization does not assume responsibility for identifying patents.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""patents"" should have been translated as ""brevets"" in French."
+10,本文件及其所代替文件的历次版本发布情况为 :,The release history of this document and its previous versions is:,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""release history"" should have been translated as ""发布情况"" instead of ""历次版本发布情况""."
+13,信息扩术 ”中文编码字符集,Character encoding.,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""character encoding"" should have been translated as ""编码字符集"" instead of ""中文编码字符集"" to match the source text."
+16,"本文件适用于为具备中文和其他文字图形字符信息化处理及交换功能的技术类产品,包括但不限于以输入法、光学字符识别 (OCR)、编辑 校对、机融翻诺、语音合成、文字转写、乔能写作等为代表的软件产品 , 以及以计算机、通信终端设备、电子书阅读毅、学习机等为代表的便件产品 。","This document applies to technical products with the function of information processing and exchange of Chinese and other language graphic characters, including but not limited to software products represented by input methods, optical character recognition (OCR), editing and proofreading, machine translation, text-to-speech, text transcription, and intelligent writing, as well as hardware products represented by computers, communication terminal devices, e-book readers, and learning machines.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""光融翻诺"" (machine translation) should be translated as ""machine translation"" instead.
+major: term not applied - The term ""乔能写作"" (intelligent writing) should be translated more accurately.
+minor: wrong term - The term ""便件产品"" (hardware products) should be translated as ""hardware products"" instead of ""hardware""."
+20,GB/T 2312 一 1980 ”信息交换用汉字编码字符集 ”基本集,"""Character set of the basic Chinese character set for information interchange"".","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Character set of the basic Chinese character set for information interchange"" should have been translated as ""集合基本汉字字符集用于信息交换""."
+21,GB/I 11383 一 1989 信息 处理 ”信息交换用八位代码结构和编码规则,Information processing - Information interchange code structure and coding rules for 8-bit codes.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Information interchange code structure and coding rules for 8-bit codes"" should have been translated as ""信息交换用八位代码结构和编码规则"" instead of ""Information processing - Information interchange code structure and coding rules for 8-bit codes""."
+25,3.1 字符 character,character,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""character"" should have been translated as ""字符"" in Chinese."
+30,使用符合本文件的产品的使用者可以自行规定的区域。,The user can self-determine the area of use for products that comply with this document.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""area"" should be translated as ""区域"" instead of ""区域的使用者可以自行规定"" to match the glossary."
+34,留作未来本文件规定的区 域 。,The reserved area for the future as specified in this document.,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""区 域"" (region/area) in the source text is not accurately translated as ""the reserved area"" in the target text."
+36,4 字汇,Vocabulary.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""Vocabulary"" should have been translated as ""词汇"" in Chinese."
+40,4.3 双字节部分,Double-byte portion.,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""Double-byte portion"" should have been translated as ""双字节部分"" instead of the literal translation ""Double-byte portion""."
+41,双字节部分收录了 GB/T 2312 一 1980 中的全部图形字符 GB/T 13000 中的CJK 统一汉字以及部分图形字符。,"The double-byte part includes all the graphic characters in GB/T 2312-1980 and the CJK Unified Ideographs in GB/T 13000, as well as some additional graphic characters.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""GB/T 2312-1980"" should have been translated as ""GB/T 2312-1980"" instead of ""GB/T 2312 一 1980"".
+[major]: [TERM NOT APPLIED] - The term ""GB/T 13000"" should have been translated as ""GB/T 13000"" instead of ""GB/T 13000"".
+[minor]: [WRONG TERM] - The term ""CJK Unified Ideographs"" should have been translated more accurately, as the Chinese term ""CJK 统一汉字"" does not directly translate to ""CJK Unified Ideographs""."
+43,"其中,表意文字描述符的图形、代码位置和功能应符合附录 B 的规定 。","The graphic, code position, and function of the ideographic character descriptor should comply with the provisions of Appendix B.","MQM annotations:
+Terminology Errors:
+major: term not applied - The glossary term ""ideographic character descriptor"" should have been translated more accurately as ""表意文字描述符"" instead of the general term ""graphic"".
+minor: wrong term - The term ""code position"" should be translated as ""代码位置"" instead of the more general ""code position"".
+minor: wrong term - The term ""function"" should be translated as ""功能"" instead of the general ""function""."
+45,"具备独有抽象字形的汉字,赋予单独的代码位置;来源不同而抽象字形相同的汉字, 则赋予共用的代码位置。",The Chinese characters with unique abstract character forms are assigned individual code positions. Chinese characters with the same abstract character forms but different origins are assigned shared code positions.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The Chinese characters with unique abstract character forms are assigned individual code positions should be translated as ""Les caractères chinois ayant des formes de caractères abstraites uniques se voient attribuer des positions de code individuelles"".
+[major]: [TERM NOT APPLIED] - Chinese characters with the same abstract character forms but different origins are assigned shared code positions should be translated as ""Les caractères chinois ayant les mêmes formes de caractères abstraites mais des origines différentes se voient attribuer des positions de code partagées""."
+47,4.4 四字节部分,16-bit integer,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""16-bit integer"" does not accurately translate the source term ""四字节部分"" (four-byte part)."
+48,四字节部分收录了上述双字节字符之外的 GB/T 13000 中的 66 个CJK统一汉字(9FA6 一 9FEF，不包括 9FB4~9FBB 的8个字符)、CJK 统一汉字扩充 A、CJK 统一汉字扩充 BCJK 统一汉字扩充 C、 CJK 统一汉字扩充 DCJK 统一汉字扩充下 .CJK 统一汉字扩充 F 和已经 在 GB/ 工 13000 中编码的少数民族文字的字符。,"The four-byte section includes 66 CJK unified Han characters (9FA6 - 9FEF, excluding 8 characters from 9FB4 to 9FBB) outside the above two-byte characters in GB/T 13000, CJK Unified Han Extensions A, CJK Unified Han Extensions B, CJK Unified Han Extensions C, CJK Unified Han Extensions D, CJK Unified Han Extensions E, CJK Unified Han Extensions F, and a few minority language characters that have already been encoded in GB/T 13000.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""CJK unified Han characters"" should have been translated as ""caractères Han unifiés CJK"" instead of ""CJK 统一汉字"".
+[major]: [TERM NOT APPLIED] - The term ""CJK Unified Han Extensions"" should have been translated as ""Extensions des caractères Han unifiés CJK"" instead of ""CJK 统一汉字扩充"".
+[minor]: [WRONG TERM] - The term ""GB/T 13000"" should have been capitalized as ""GB/T 13000"" instead of ""GB/T 13000""."
+52,"附录中凡编码的表示均采用十六进制,其他数字的表示均采用十进制。","The codes in the appendix are represented in hexadecimal, and other numbers are represented in decimal.","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The codes in the appendix are represented in hexadecimal, and other numbers are represented in decimal. The term ""十六进制"" (hexadecimal) is not applied in the translation.
+[minor]: [TERM NOT APPLIED] - The term ""十进制"" (decimal) is not applied in the translation."
+58,6 字符的排列顺序,The order of arrangement of 6 characters.,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""order of arrangement"" is not correctly translated as a single term in the target language. The translation ""The order of arrangement of 6 characters"" does not convey the intended meaning of the source."
+59,6.1 单字刷部分字符的排列顺序,character order,"MQM annotations:
+Terminology Errors:
+major: term not applied - The glossary term ""character order"" does not accurately reflect the meaning of the source text ""单字刷部分字符的排列顺序"", which refers to the order of character strokes."
+60,单字记部分字符按照 GB/I 11383 一 1989 中相应字符的顺序排列 。,Single character memorization of partial characters is arranged according to the corresponding character order in GB/T 11383-1989.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""GB/T 11383-1989"" should have been translated as the corresponding standard in the target language, rather than using the source language term."
+67,7 码位分配,7 digit allocation,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""digit allocation"" does not accurately convey the meaning of the Chinese term ""码位分配""."
+71,2.双字部分的码位分配,Code point allocation for two-character components.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""code point allocation"" is not accurately translated as ""码位分配"" in the target text. A more appropriate translation would be ""编码点分配""."
+72,"双字节部分的码位安排分为 0x8140~ 一 0xFE7E 和 0x8180 一 0xFEFE 两部分, 共 23940 个码位。","The arrangement of code positions for the double-byte part is divided into two parts, 0x8140 to 0xFE7E and 0x8180 to 0xFEFE, with a total of 23,940 code positions.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""code positions"" should be translated as ""位置编码"" instead of ""码位"".
+[minor]: [WRONG TERM] - The term ""double-byte part"" should be translated as ""双字节部分"" instead of ""双字节部分的码位""."
+75,双字节 1 区 : 846 码位,"4,370 code points.","MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""双字节 1 区"" should have been translated as ""4,370 code points"" instead of ""4,370 code points""."
+77,首字节 0xA8~0xA9 双字节 5 区 : 192 码 位,192 character positions,"MQM annotations:
+Terminology Errors:
+major: term not applied - The glossary term ""192 character positions"" should have been translated as ""192 码位"" in Chinese."
+78,3.双字蔬部分编码空间结构图,Dual-character vegetable part encoding space structure diagram.,"MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""Dual-character vegetable part"" does not accurately convey the meaning of the source term ""双字蔬部分"".
+minor: wrong term - The term ""encoding space structure diagram"" is not the most appropriate translation for ""编码空间结构图""."
+84,表 3 中没有指明的四字节人码位分配见 6.3。,The four-byte character code assignments not specified in Table 3 are given in 6.3.,"MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""four-byte character code assignments"" should have been translated as ""四字节人码位分配"" instead of the more general ""四字节人码位分配见""."
+85,表 3 四字闻部分的码位安排,Table 3 Arrangement of code positions for four-character radical components.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""four-character radical components"" should be translated as ""四字闻部分"" instead of ""four-character radical components""."
+88,码位范围码位数字符数,"Code point range, code point count, character count.","MQM annotations:
+Terminology Errors:
+major: term not applied - The glossary term ""code point range"" is not correctly translated as ""码位范围"" in the target text.
+major: term not applied - The glossary term ""code point count"" is not correctly translated as ""码位数"" in the target text.
+major: term not applied - The glossary term ""character count"" is not correctly translated as ""字符数"" in the target text."
+91,8 部分字符和代码的说明,8 parts of character and code description.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""character and code description"" should have been translated as ""字符和代码的说明"" instead of ""字符和代码的说明""."
+97,实现级别 1 文持本文件的单字节编码部分、双季节编码部分和四字下编玛部分的 CJK 统一汉字 ( 即 0x82358F33 一 0x82359636) 和 CJK 统一汉字扩A( 即 0x8139EE39 一 0x82358738) 。,"Level 1 implementation supports the single-byte encoding part, the double-season encoding part, and the four-character encoding part of the CJK Unified Ideographs (i.e., 0x82358F33 - 0x82359636) and CJK Unified Ideographs Extension A (i.e., 0x8139EE39 - 0x82358738).","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""双季节编码"" should have been translated as ""double-byte encoding"" instead of ""double-season encoding"".
+[major]: [TERM NOT APPLIED] - The term ""四字下编玛"" should have been translated as ""four-character encoding"" instead of ""four-character encoding part"".
+[minor]: [WRONG TERM] - The term ""CJK 统一汉字扩A"" should have been translated as ""CJK Unified Ideographs Extension A"" instead of ""CJK Unified Ideographs Extension A""."
+102,"此外 ,实现级别 2 还文持《通用 规范 汉字 表 }中的没有包合在实级别 1 之内的编码汉字。","In addition, the implementation of Level 2 includes the encoding of Chinese characters that are not included in Level 1 of the ""General Standard Chinese Character Set"".","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""通用规范汉字表"" should have been translated as ""General Standard Chinese Character Set"" instead of ""General Standard Chinese Character Set""."
+104,"系统软件及支撑软件,应满足实现级别 2 的要求 。",System software and supporting software shall meet the requirements of implementation level 2.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""implementation level 2"" should be translated as a specific technical term, rather than a general phrase."
+105,"注: 系统软件及文撑软件包括但不限于操作系统,数据库管理系统.中间件( 软件产品分类的信息见 GB/ 工 36475)。","System software and document software include but are not limited to operating systems, database management systems, and middleware (see GB/T 36475 for information on software product classification).","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""database management systems"" should have been translated as ""系统管理数据库"" instead of ""数据库管理系统"".
+[minor]: [WRONG TERM] - The term ""middleware"" should have been translated as ""中间件"" instead of ""软件产品分类的信息""."
+107,实现级别 3 包含实现级别 2。,Maturity level 3 includes maturity level 2.,"MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""Maturity level 3"" should have been translated as ""实现级别 3"" instead of ""级别 3""."
+109,用于政务服务和公共服务的产品应满足实现级卉 3 的要求。,The products used for government services and public services should meet the requirements of achieving Level 3 accessibility.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Level 3 accessibility"" should be translated as ""三级无障碍"" instead of ""实现级卉 3""."
+111,附录 A (规范性 ),Appendix A (Normative).,"MQM annotations:
+Terminology Errors:
+major: TERM NOT APPLIED - The glossary term ""Appendix A"" should have been translated as ""附录 A"" in Chinese."
+112,双字字符表,Character set.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Character set"" should have been translated as ""字符集"" instead of ""字符表"" in the given context."
+115,A.2 表的说明,Table description,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""表的说明"" should have been translated as ""Table description"" instead of the literal translation ""Table's description""."
+117,第一字节第二字节低位,the first byte the second byte low bit,"MQM annotations:
+Terminology Errors:
+major: term not applied - The phrase ""the first byte the second byte low bit"" is not a standard terminology used to describe the structure of a byte. A more appropriate term would be ""the least significant bit of the second byte""."
+121,表意文字描述符,Ideographic description characters.,"MQM annotations:
+Terminology Errors:
+major: term not applied - The glossary term ""Ideographic description characters"" should have been translated as ""caractères de description idéographique"" in French."
+124,表 B.1 表意文字描述符的图形、代码位置和功能描述,"Graphic, Code Position, and Functional Description of Ideographic Description Characters","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Ideographic Description Characters"" should have been translated as ""表意文字描述符"" instead of the literal translation ""表意文字描述符的图形、代码位置和功能描述"".
+[minor]: [WRONG TERM] - The term ""Graphic, Code Position, and Functional Description"" does not accurately capture the meaning of the source text ""图形、代码位置和功能描述""."
+125,"本文件的码位 GB/T 13000 的码位功能描述相似而不等,用于借某字表达外字","The code positions of this document are similar but not equal to the code positions of GB/T 13000, used to express external characters by borrowing certain characters.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""GB/T 13000"" should have been translated as a specific standard or specification, rather than using the general term ""GB/T 13000"".
+[major]: [WRONG TERM] - The term ""external characters"" is not the most appropriate translation for ""外字"" in this context. A more suitable term would be ""non-standard characters"" or ""non-CJK characters""."
+130,全包围结构,Unibody structure.,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""Unibody structure"" is not the appropriate translation for the Chinese term ""全包围结构"". The correct translation should be something like ""Monocoque structure"" or ""Unitary body structure""."
+133,回右包围结构,Encircle and surround.,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The glossary term ""encircle and surround"" should have been translated more accurately to convey the intended meaning."
+136,回右上包围结构,Surround the upper right structure.,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""上包围结构"" should have been translated as ""surround the structure"" instead of ""Surround the upper right structure""."
+140,C.1 表的内容,The content of the table.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""table"" should have been translated as ""表"" in Chinese."
+145,D.1 调整过的 18 个GB/T 13000 代码位置,Adjusted 18 GB/T 13000 code positions.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""GB/T 13000"" should have been translated using the appropriate terminology in English."
+148,本文件及 GB 18030 一 2005 的GB 18030 一 2005 对应的本文件对应的GB/T 工 13000 码位,The corresponding GB/T 13000 code positions of this document and GB 18030-2005.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""GB/T 13000"" should have been translated as a glossary entry instead of using the full name ""GB/T 13000 code positions"".
+[major]: [WRONG TERM] - The term ""GB 18030-2005"" should have been translated as a glossary entry instead of using the full name ""GB 18030-2005""."
+149,D.2 在双字闻区删除的 6 个汉字构件,六个汉字构件,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The translation ""六个汉字构件"" does not match the glossary term ""在双字闻区删除的 6 个汉字构件"" provided in the source text."
+151,D.3 在双字下区删除的 9 个 CJK 兼容汉字,九个 CJK 兼容汉字,"MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""CJK 兼容汉字"" should have been translated as ""CJK Compatibility Ideographs"" instead of ""CJK 兼容汉字""."
+153,表 D.3 删除的 9 个 CJK 兼容汉字和它们的代码位置,Table D.3 Nine CJK Compatibility Ideographs Removed and Their Code Positions,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""CJK Compatibility Ideographs"" should have been translated as ""CJK 兼容汉字"" instead of ""CJK 兼容汉字"".
+[minor]: [WRONG TERM] - The term ""Code Positions"" should have been translated as ""代码位置"" instead of ""代码位置""."
+154,附录开 (资料性)《通用规范汉字表》 汉字的代码位置,"The code positions of the characters in the ""General Standard Chinese Character Set"" (informative).","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""General Standard Chinese Character Set"" should be translated as ""通用规范汉字表"" instead of ""《通用规范汉字表》"".
+[minor]: [WRONG TERM] - The term ""code positions"" should be translated as ""编码位置"" instead of ""代码位置""."
+155,"本文件收录了 2013 年中华人民共和国国务院批准发布的 4 通用规范汉字表》 中的全部 8105 个规范汉字,它们的代码位置和字形见表1。","This document contains the full 8,105 standard Chinese characters approved and published by the State Council of the People's Republic of China in 2013. Their code positions and character forms are shown in Table 1.","MQM annotations:
+Terminology Errors:
+major: term not applied - The glossary term ""规范汉字"" (standard Chinese characters) is not applied in the translation, which uses the more general term ""standard Chinese characters"".
+minor: wrong term - The term ""code positions"" is used in the translation, but a more appropriate term would be ""code points"" to refer to the character encoding."
+159,GB/ 工 36475 软件产品分类,Software Product Classification GB/T 36475.,"MQM annotations:
+Terminology Errors:
+[Major]: [TERM NOT APPLIED] - The term ""Software Product Classification GB/T 36475"" should have been translated as the corresponding Chinese term ""GB/T 36475 软件产品分类"" instead of a literal translation."
+163,"如果发现手册页和软件之间有所矛盾,请查对Info","If there is a conflict between the manual page and the software, please refer to the Info.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""Info"" should have been translated as ""Information"" instead of ""Info""."
+170,源文件后级名指出语言种类以及后期的操作:,source file suffix indicates the language type and subsequent operations,"MQM annotations:
+Terminology Errors:
+major: term not applied - The glossary term ""source file suffix"" is not correctly translated as ""后缀"" in the target text.
+minor: wrong term - The term ""language type"" should be translated as ""语言种类"" instead of ""语言种类以及后期的操作"" in the target text."
+171,".c C 源程序; 预处理, 编译,汇编",".c C source program; preprocessing, compiling, assembling","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""C source program"" should have been translated as ""程序源代码"" instead of "".c C 源程序"".
+major: term not applied - The term ""preprocessing"" should have been translated as ""预处理"" instead of ""预处理, 编译,汇编"".
+major: term not applied - The term ""compiling"" should have been translated as ""编译"" instead of ""预处理, 编译,汇编"".
+major: term not applied - The term ""assembling"" should have been translated as ""汇编"" instead of ""预处理, 编译,汇编""."
+175,".m Objective-C 源程序; 预处理,编译,汇编",".m Objective-C source code; preprocessing, compiling, assembling","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Objective-C"" should have been translated as ""Objective-C"" instead of "".m Objective-C"" in the target text.
+[major]: [TERM NOT APPLIED] - The term ""preprocessing"" should have been translated as ""prétraitement"" instead of ""préprocessing"" in the target text.
+[minor]: [WRONG TERM] - The term ""assembling"" should have been translated as ""assemblage"" instead of ""assembling"" in the target text."
+176,".i 预处理后的 c 文件;编译,汇编","Preprocessed C file; compile, assemble.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""c 文件"" (C file) should have been translated as ""preprocessed C file"" to match the glossary entry.
+[major]: [TERM NOT APPLIED] - The term ""编译"" (compile) should have been translated as ""compile"" to match the glossary entry.
+[major]: [TERM NOT APPLIED] - The term ""汇编"" (assemble) should have been translated as ""assemble"" to match the glossary entry."
+182,.a 归档库文件(Archive file),Archive file,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The glossary term ""Archive file"" should have been translated as ""归档库文件"" in Chinese."
+183,"除非使用了 -cec，-s, 或 -E 选项(或者编译错误阻止了完整的过程),否则连接总是最后的步骤.","Unless the -cec, -s, or -E options are used (or a compilation error prevents the full process), linking is always the final step.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""连接"" should have been translated as ""linking"" instead of ""connecting"" in the context."
+185,选项必须分立给出 : de ' 完全不同于 `-d -r '.,separate options,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""de"" should be translated as ""of"" instead of being left untranslated.
+Major: WRONG TERM - The term ""`-d -r'"" is not a valid glossary term and should be translated appropriately."
+187,这里只列举不是默认选项的格式.,Here are the listed formats that are not the default options.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""格式"" should have been translated as ""format"" instead of ""options"" in the context."
+190,总体选项 (Overall Option),Overall Option,"MQM annotations:
+Terminology Errors:
+major: term not applied - The glossary term ""Overall Option"" should have been translated as ""总体选项"" in Chinese."
+191,明确指出后面输入文件的语言为 language (而不是从文件名后绥得到的默认选择).,Clearly specify that the language of the input file is language (rather than the default selection obtained from the file name).,"MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""language"" should have been translated as ""语言"" instead of the default selection."
+193,"关闭任何对语种的明确说明, 因此依据文件名后级处理后面的文件 RE AS E ` -x' 选项).","Close any explicit language specification, so process the file based on the file name (use the `-x' option).","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""RE AS E"" in the target text does not match the correct term ""RELEASE"" as specified in the glossary.
+[minor]: [WRONG TERM] - The term ""文件 RE AS E"" in the target text contains a typo and should be ""文件 RELEASE""."
+194,"如果只操作四个阶段( 预处理, 编译, 汇编, 连接)中的一部分, 可以使用 ` -x' 选项 (或文件名后 Ah) 告诉 geo 从哪里开始,用 `~-c' ，`-s' ,或 `-E' 选项告诉 geo 到哪里结束.注意,某些选项组合 (例如 ，`-x cpp-output -E') {i gee MEF =c 编译或汇编源文件, ETER. ERA ATI 缺省情况下， GCC 通过用 ` .o' 蔡换源文件名后级 ` .ec 标文件名. 可以使用-o 选项选择其他名字.GCC忽略 -ec 选项后面任何无法识别的输入文伯 -S F 何事情.","If you only operate on a part of the four stages (preprocessing, compilation, assembly, and linking), you can use the `-x` option (or `Ah` after the file name) to tell GCC where to start, and use the `-c`, `-S`, or `-E` options to tell GCC where to end. Note that some option combinations (such as `-x cpp-output -E`) do not make sense and will result in an error. By default, GCC uses the `.o` extension to replace the source file name with the object file name. You can use the `-o` option to specify a different name. GCC ignores any unrecognized input files after the `-x` option.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""geo"" should be translated as ""GCC"" (the GNU Compiler Collection) to match the context.
+minor: wrong term - The term ""蔡"" should be ""替换"" (replace) to correctly describe the file name extension change.
+minor: wrong term - The term ""gee"" should be ""gcc"" to match the correct abbreviation for the GNU Compiler Collection.
+minor: wrong term - The term ""MEF"" should be ""ETER"" to correctly represent the abbreviation for ""cannot compile or assemble source files""."
+196,"编译后即停止, 不进行汇编件.","Compilation stops immediately, no assembly is performed.","MQM annotations:
+Terminology Errors:
+major: TERM NOT APPLIED - The term ""汇编件"" should have been translated as ""assembly"" instead of stopping the compilation process."
+197,"在编译过程的不同阶段间使用管道而非临时文件进行工作, 因为那些系统的汇编器不能从管道读取数据，GNU 的汇编器没有这个问题，汇编器能够接受的 C ""方言 "": 支持符合 ANSI 标准的 C 程序.","During the different stages of the compilation process, use pipes instead of temporary files to work, because those system assemblers cannot read data from pipes, but the GNU assembler does not have this problem. The C ""dialect"" that the assembler can accept: supports C programs that conform to the ANSI standard.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""汇编器"" (assembler) was not translated correctly. The English translation ""assembler"" should have been used instead of ""system assemblers"".
+minor: wrong term - The term ""C 方言"" (C dialect) was translated as ""C ""dialect"""" which is not a standard term. It should have been translated as ""C dialect""."
+200,"正常情况下, 这样的函数 foo 在 C++ 中意味着参数为空.","Normally, a function like foo in C++ means the parameters are empty.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""foo"" in the source text refers to a function in C++, but the translation ""这样的函数 foo"" does not accurately convey the technical meaning of ""foo"" as a placeholder name for a function."
+202,"详见NU c 手册,我们已经把细节删除, 这样当内容过时后, 人们也不会 HERI.","See the NU c manual for details, we have removed the specifics so that when the content becomes outdated, people will not HERI.","MQM annotations:
+Terminology Errors:
+[major]: TERM NOT APPLIED - The glossary term ""NU c"" should have been translated as a more common term in English, such as ""NU c manual"" or ""NU c handbook"".
+[minor]: WRONG TERM - The term ""HERI"" is not a common English word and its meaning is unclear in this context. A more appropriate term should have been used."
+204,他和`-Ethis-is-variable' 选项的果一样.,He and the `-Ethis-is-variable' option are the same.,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The glossary term ""-Ethis-is-variable"" does not fit the context. The correct term should be ""this is variable"" or a similar phrase."
+205,-traditional-cpp 试图支持传统 Cc 预处理器的某些方面.,The traditional-cpp attempts to support certain aspects of the traditional Cc preprocessor.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Cc"" in the source text should have been translated as ""C"" in the target text."
+216,"相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.","The corresponding, if the default option `-fno-external-templates` is used during compilation, all template instances are explicitly set to be inline.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""internal"" does not accurately convey the meaning of ""inline"" in the context of template instances."
+219,"有些情况下, 编译器能够判断出可以直接调用某个虚函数; 这时就直接调用.","In some cases, the compiler can determine that a virtual function can be called directly; in such cases, it will call the function directly.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""虚函数"" should have been translated as ""virtual function"" instead of ""virtual function""."
+221,这种表达式的值是 Void.-fthis-—is-variable 允许对 this 赋值 (仅对 c++).,The value of this expression is Void.-fthis-—is-variable allows assignment to this (C++ only).,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""this"" should be translated as ""此"" in the given context.
+[major]: [WRONG TERM] - The term ""variable"" should be translated as ""变量"" in the given context."
+229,"这个选项, 和它的反义选项, 使那样的程序工作在对应的默认值上.","This option, and its opposite option, make the program work with the corresponding default values.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""default values"" in the target text does not match the glossary specification. The correct translation should be ""值""."
+231,"如果没有明确声明 ` signed' 或 ""unsigned'修饰符, 这些选项用来定义有符号位域 (bitfield) 或无符号位域.","If no explicit `signed' or `unsigned' modifier is stated, these options are used to define signed bitfields or unsigned bitfields.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""bitfield"" should have been translated as ""champ de bits"" instead of ""position de bits"".
+[major]: [TERM NOT APPLIED] - The term ""signed"" should have been translated as ""signé"" instead of ""avec signe"".
+[minor]: [WRONG TERM] - The term ""unsigned"" should have been translated as ""non signé"" instead of ""sans signe""."
+234,"这是为了兼容一些老程序,他们算改字符串常量是一个非常糟糕的想法、`-traditional' 选项也有相同效果.","This is to be compatible with some old programs, they think that changing string constants is a very bad idea, the `-traditional' option also has the same effect.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""traditional"" should have been translated as ""传统的"" instead of ""改字符串常量"".
+[minor]: [WRONG TERM] - The term ""选项"" should have been translated as ""option"" instead of ""'-traditional' 选项""."
+237,其影响可能类似于2008年的经济危机,The impact may be similar to the economic crisis of 2008.,"MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""economic crisis"" in the source text is not accurately translated as ""经济危机"" in the target text."
+239,在许多国家，这一疾病己使医疗服务机构穷于应付，几近崩溃，各国政府实施的限制措施已在全球经济中造成了严重紊乱。,"In many countries, this disease has overwhelmed medical service institutions, bringing them close to collapse, and the restrictive measures implemented by governments have caused serious disruption in the global economy.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""医疗服务机构"" (medical service institutions) is not accurately translated as ""medical service institutions"" in the English translation.
+[major]: [TERM NOT APPLIED] - The term ""限制措施"" (restrictive measures) is not accurately translated as ""restrictive measures"" in the English translation."
+241,一些生产者可能会被迫寻找新的方法来制造毒品，因为限制流动的同时也限制了前体和基本化学品的获取。,"Some producers may be forced to seek new methods to manufacture drugs, as restrictions on mobility also limit access to precursors and basic chemicals.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""precursors"" should have been translated as ""前体"" instead of ""前体和基本化学品"".
+[major]: [WRONG TERM] - The term ""basic chemicals"" should have been translated as ""基本化学品"" instead of ""前体和基本化学品""."
+249,一些国家有大量毒品通过商业航班走私，预计这些国家的贩毒活动受到的直接影响最大。,"Some countries have a large amount of drugs smuggled through commercial flights, and it is expected that the drug trafficking activities in these countries will be most directly affected.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""贩毒活动"" should have been translated as ""drug trafficking activities"" instead of ""drug trafficking""."
+259,世界各地的吸毒现象一直在增多，无论是从总体数字还是从吸毒者在世界人口中所占比例来看都是如此。,"The phenomenon of drug abuse is constantly increasing worldwide, whether in terms of the overall numbers or the proportion of drug users in the world population.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""吸毒"" should be translated as ""drug abuse"" instead of ""drug users""."
+262,"这在一定程度上反映了这一期间总体人口增长的差异、发达国家为7%,发展中国家为28%但也反映了发展中国家年 轻人口增长较快。","This to a certain extent reflects the difference in overall population growth during this period, with developed countries at 7% and developing countries at 28%, but it also reflects the faster growth of the young population in developing countries.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""发达国家"" (developed countries) should have been translated as ""developed countries"" instead of ""developed countries for 7%"".
+[major]: [TERM NOT APPLIED] - The term ""发展中国家"" (developing countries) should have been translated as ""developing countries"" instead of ""developing countries for 28%"".
+[minor]: [WRONG TERM] - The term ""年轻人口"" (young population) should have been translated as ""young population"" instead of ""the young population""."
+263,青少年和年轻成年人在吸毒者中所占比例最大。,The proportion of adolescents and young adults is the highest among drug users.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""adolescents and young adults"" should be translated as a single glossary term, such as ""青少年和年轻成年人""."
+266,无论是发达国家还是发展中国家，城市地区的吸毒情况都多于农村地区。,"Regardless of whether it is a developed country or a developing country, the drug abuse situation in urban areas is more serious than in rural areas.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""发达国家"" (developed country) is not translated accurately as ""developed country"" in the target text.
+[major]: [TERM NOT APPLIED] - The term ""发展中国家"" (developing country) is not translated accurately as ""developing country"" in the target text."
+267,吸毒情况总体增多的部分原因是人口从农村向城镇的大规模流动一目前全世界人口有一半以上生活在城市地区，而1960年这一比例为34%。,"The overall increase in drug abuse is partly due to the large-scale migration of the population from rural to urban areas - currently, more than half of the world's population lives in urban areas, compared to 34% in 1960.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""城镇"" (city/town) should be translated as ""urban areas"" instead of ""urban""."
+268,城市化可能是毒品市场未来动态的一个关键因素，特别是在城市化趋势更为突出的发展中国家。,"City-ization may be a key factor in the future dynamics of the drug market, especially in developing countries where urbanization trends are more pronounced.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""city-ization"" is not a standard English term and should be translated as ""urbanization"" instead."
+273,来自少数几个国家的数据表明，有害的吸毒模式与病症同低收入之间存在联系。,The data from a few countries indicates that harmful drug use patterns are associated with low-income conditions.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""harmful drug use patterns"" should be translated as a more appropriate term in the context, such as ""problematic drug use patterns"" or ""substance abuse patterns"".
+[minor]: [WRONG TERM] - The term ""low-income conditions"" could be more accurately translated as ""low socioeconomic status"" or ""poverty""."
+274,这些模式在较富裕的社会阶层似乎不太常见。,These patterns seem to be less common among the more affluent social strata.,"MQM annotations:
+Terminology Errors:
+[minor]: [term not applied] - The term ""affluent social strata"" does not seem to have a direct equivalent in the Chinese source text, which uses the phrase ""较富裕的社会阶层"" (more affluent social classes/strata). A more literal translation would be preferable."
+277,新冠肺炎或将导致毒品市场进一步扩张新冠肺炎的大流行可能会导致更多农民增加或从事非法作物种植，或是因为国家主管机关的控制能力降低，或是因为在经济危机之下可能有更多人不得不铤而走险，从事非法活动。,"The COVID-19 pandemic may lead to further expansion of the drug market. The COVID-19 pandemic may cause more farmers to increase or engage in the cultivation of illegal crops, either due to a decrease in the control capabilities of the competent national authorities, or because more people may be forced to take risks and engage in illegal activities under the economic crisis.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""毒品市场"" (drug market) is not accurately translated as ""the drug market"" in the target text.
+[major]: [TERM NOT APPLIED] - The term ""非法作物种植"" (cultivation of illegal crops) is not accurately translated as ""the cultivation of illegal crops"" in the target text.
+[major]: [TERM NOT APPLIED] - The term ""国家主管机关"" (competent national authorities) is not accurately translated as ""the competent national authorities"" in the target text.
+[major]: [TERM NOT APPLIED] - The term ""铤而走险"" (take risks) is not accurately translated as ""forced to take risks"" in the target text."
+283,会员国的国内市场每年约有500种新型活性物质。,The domestic market of member countries has about 500 new active substances every year.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""活性物质"" (active substance) in the source text is not correctly translated as ""new active substances"" in the target text."
+286,"在2014年确定的新型精神活性物质种类总数中，类阿片新型精神活性物质仅占2%,但到2018年，这一数字己上升至9%。","In the total number of new psychoactive substances identified in 2014, opioid-type new psychoactive substances accounted for only 2%, but by 2018 this figure had risen to 9%.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""类阿片新型精神活性物质"" should be translated as ""opioid-type new psychoactive substances"" instead of ""opioid-type new psychoactive substances""."
+287,类阿片新型精神活性物质中有许多是芬太尼的类似物，其药效和危害已得到证明，在北美导致了过量死亡事件，其他区域也有，但程度较轻。,"Many of the novel psychoactive substances in the opioid-like class are fentanyl analogues, whose pharmacological effects and harms have been demonstrated. They have led to overdose deaths in North America, and have also occurred in other regions, though to a lesser extent.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""类阿片新型精神活性物质"" should have been translated as ""novel psychoactive substances in the opioid-like class"" instead of ""opioid-like class"".
+minor: wrong term - The term ""过量死亡事件"" should have been translated as ""overdose deaths"" instead of ""overdose deaths event""."
+288,在北美，芬太尼有的用作海洛因和其他毒品（包括可卡因和甲基苯丙胺）的掺杂剂，有的用来制造假冒的药用类阿片。,"In North America, fentanyl is used as an adulterant in heroin and other drugs (including cocaine and methamphetamine), and is also used to manufacture counterfeit pharmaceutical opioids.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""海洛因"" (heroin) is not translated correctly in the context.
+[major]: [TERM NOT APPLIED] - The term ""可卡因"" (cocaine) is not translated correctly in the context.
+[major]: [TERM NOT APPLIED] - The term ""甲基苯丙胺"" (methamphetamine) is not translated correctly in the context.
+[major]: [TERM NOT APPLIED] - The term ""药用类阿片"" (pharmaceutical opioids) is not translated correctly in the context."
+290,2新型精神活性物质的使用可能会逐渐牢固存在于弱势群体中,The use of new psychoactive substances may gradually become entrenched among vulnerable populations.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""new psychoactive substances"" should have been translated as a more specific term in the target language, rather than using a more general phrase."
+295,贩毒者和制毒者一直在寻找替代品一不仅有管制较松的物质，还有专门为规避管制而设计的化学品，即所谓的“特制前体”。,"Drug traffickers and drug manufacturers have been looking for substitutes, not only substances with less stringent controls, but also chemicals specifically designed to circumvent controls, the so-called ""specially designed precursors"".","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""前体"" (precursor) should have been translated as ""precursor"" instead of ""specially designed precursor"".
+[minor]: [WRONG TERM] - The term ""替代品"" (substitute) should have been translated as ""substitute"" instead of ""substitutes""."
+296,旨在阻止新冠肺炎传播的限制性措施很可能使依赖前体化学品的制毒者受到进一步挤压。,The restrictive measures aimed at preventing the spread of COVID-19 are likely to further squeeze drug manufacturers who rely on precursor chemicals.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""制毒者"" (drug manufacturers) is not accurately translated as ""drug manufacturers who rely on precursor chemicals""."
+297,来自墨西哥的证据表明，这已经成为 现实：据报告，2020年3月，从东亚进口的甲基苯丙胺前体短缺促使墨西哥和美国的甲基苯丙胺价格上涨。,"The evidence from Mexico indicates that this has become a reality: According to reports, in March 2020, a shortage of methamphetamine precursors imported from East Asia led to a rise in the price of methamphetamine in Mexico and the United States.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""甲基苯丙胺"" should be translated as ""methamphetamine"" instead of ""methamphetamine precursors"".
+[major]: [WRONG TERM] - The term ""前体"" should be translated as ""precursor"" instead of ""precursors""."
+305,阿富汗和伊拉克甲基苯丙胺市场增长,The Afghan and Iraqi methamphetamine markets are growing.,"MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""methamphetamine"" should be used instead of ""甲基苯丙胺"" (a literal translation that does not convey the intended meaning)."
+309,最近，伊拉克当局发现了多个甲基苯丙胺加工点，麻管局已对伪麻黄碱制剂的大批进口表示关切一甲基苯丙胺加工点将这些制剂用作前体。,"Recently, the Iraqi authorities have discovered multiple methamphetamine production sites, and the drug control agency has expressed concern over the large-scale importation of pseudoephedrine preparations, as these sites are using these preparations as precursors for the production of methamphetamine.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""甲基苯丙胺"" should be translated as ""methamphetamine"" instead of ""methamphetamine production sites"".
+major: term not applied - The term ""麻管局"" should be translated as ""drug control agency"" instead of ""the drug control agency"".
+minor: wrong term - The term ""伪麻黄碱制剂"" should be translated as ""pseudoephedrine preparations"" instead of ""pseudoephedrine preparations"".
+minor: wrong term - The term ""一甲基苯丙胺"" should be translated as ""methamphetamine"" instead of ""methamphetamine""."
+311,自那时起，甲基苯丙胺的缉获量一直在稳步上升。,"Since then, the seizure of methamphetamine has been steadily increasing.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""methamphetamine"" should be translated as ""甲基苯丙胺"" instead of the direct English translation."
+312,但2019年上半年的缉获量一^657公斤——与上一年相比大幅骤增。,But the amount seized in the first half of 2019 was 657 kilograms - a sharp increase compared to the previous year.,"MQM annotations:
+Terminology Errors:
+major: WRONG TERM - The glossary term ""缉获量"" should have been translated as ""amount seized"" instead of ""the amount seized""."
+318,在美国最早通过立法的两个州科罗拉多州和华盛顿州，成年人非医疗使用大麻的情况增加，特别是过去一个月以及每天或几乎每天使用的情况增多，自2012年起便已超过了全国平均水平。,"Colorado and Washington were the first two states in the United States to pass legislation allowing for the non-medical use of cannabis by adults. The prevalence of past-month and daily or near-daily cannabis use has increased in these states, exceeding the national average since 2012.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""大麻"" (cannabis) is not correctly translated as ""cannabis"" in the target text.
+minor: wrong term - The term ""成年人"" (adults) is translated as ""adults"" which is correct, but the capitalization is inconsistent with the rest of the text.
+minor: wrong term - The term ""非医疗使用"" (non-medical use) is translated as ""non-medical use"" which is correct, but the capitalization is inconsistent with the rest of the text."
+323,全球大麻药草缉获量暴跌的背后原因是大麻合法化？,The reason behind the drastic drop in the global seizure of cannabis herbs is the legalization of cannabis?,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""大麻"" (cannabis) is not accurately translated as ""cannabis"" in the target text.
+[major]: [WRONG TERM] - The term ""药草"" (medicinal herbs) is not accurately translated as ""herbs"" in the target text."
+326,对新型精神活性物质的监管似乎有遏制作用在国内对新型精神活性物质的监管效果仍然很难评估。,"The regulation of new psychoactive substances seems to have a suppressive effect, but the effectiveness of domestic regulation of new psychoactive substances is still difficult to assess.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""new psychoactive substances"" is not translated accurately in the target text. The target text uses ""new type of psychoactive substances"" instead.
+[minor]: [WRONG TERM] - The term ""regulation"" is not translated accurately in the target text. The target text uses ""monitoring"" instead."
+327,一些对新型精神活性物质采用不同监管制度的国家显示出不同的新型精神活性物质使用流行率。,Some countries with different regulatory systems for new psychoactive substances show different prevalence rates of new psychoactive substance use.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""new psychoactive substances"" should be translated as ""新型精神活性物质"" instead of ""新型精神活性物质使用""."
+328,在另一些国家，通过国内立法后，新型精神活性物质使用情况有所减少。,"In some other countries, the use of new psychoactive substances has decreased after domestic legislation.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""new psychoactive substances"" should be translated as ""新型精神活性物质"" instead of ""new type of psychoactive substances""."
+333,"据估计，低收入和中等收入国家的人口占全球人口的88%,但消费的药用类阿片却不到10%。","According to estimates, the population of low-income and middle-income countries accounts for 88% of the global population, but they consume less than 10% of the medical opioids.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""medical opioids"" should be translated as ""药用类阿片"" instead of ""药用类阿片却""."
+334,获取药用类阿片的障碍与许多因素有关，包括立法、文化、卫生系统和处方做法。,"The barriers to accessing medicinal opioids are related to many factors, including legislation, culture, healthcare systems, and prescription practices.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""medicinal opioids"" should be translated as ""阿片类药物"" instead of ""药用类阿片""."
+343,全球范围的有限数据表明，迷醉可能是杀人的一个重要因素。,The limited data available globally suggests that intoxication may be an important factor in homicide.,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""intoxication"" does not accurately convey the meaning of ""迷醉"" in the source text, which refers to a state of being under the influence of alcohol or drugs. A more appropriate term would be ""drunkenness"" or ""substance intoxication""."
+351,据估计，2018年使用大麻的有 1.92 亿人，使之成为全球使用最多的毒品。,"According to estimates, in 2018 there were 192 million people using cannabis, making it the most widely used illicit drug globally.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""大麻"" (cannabis) should have been used instead of ""毒品"" (illicit drug) in the translation."
+354,"在2017年与吸毒病症有关的估计167,000例死亡中，有66%是这类物质造成的，在据信为吸毒导致的残疾或过早死亡而损失的2,100万年寿命中，有50%是这类物质造成的。","In 2017, an estimated 167,000 deaths were related to drug use disorders, of which 66% were caused by these substances. Of the estimated 21 million years of life lost due to disability or premature mortality attributed to drug use, 50% were caused by these substances.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""吸毒病症"" should have been translated as ""drug use disorders"" instead of ""drug use"".
+major: term not applied - The term ""残疾或过早死亡"" should have been translated as ""disability or premature mortality"" instead of ""disability or over early death""."
+368,兴奋剂领域以可卡因和甲基苯丙胺为主，这两种物质在其主要市场的使用量都在上升。,"Stimulants are mainly represented by cocaine and methamphetamine, and the usage of these two substances is increasing in their major markets.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""可卡因"" should be translated as ""cocaine"" instead of ""stimulants"".
+[major]: [TERM NOT APPLIED] - The term ""甲基苯丙胺"" should be translated as ""methamphetamine"" instead of ""stimulants""."
+372,在一些市场上，可卡因和甲基苯丙胺可以共存，有时是相互替代，这样一种药物的使用量上升时另一种药物的使用量就下降，有时是同时增加和减少以满足同一市场的需求。,"In some markets, cocaine and methamphetamine can coexist, sometimes as substitutes, where an increase in the use of one drug is accompanied by a decrease in the use of the other, and at times they increase and decrease simultaneously to meet the demand of the same market.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""cocaine"" and ""methamphetamine"" should be translated using their respective glossary entries in the target language.
+minor: wrong term - The term ""use"" should be translated using the appropriate glossary entry in the target language to maintain consistency with the source text."
+376,2017年，因吸毒死亡的约有 58.5万人，其中一半死于丙型肝炎引起的肝病，而注射吸毒者的丙型肝炎大多仍未得到治疗。,"In 2017, approximately 585,000 people died from drug abuse, with half of them dying from liver disease caused by hepatitis C, and most injection drug users with hepatitis C still have not received treatment.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""丙型肝炎"" should have been translated as ""hepatitis C"" instead of ""hepatitis C virus"".
+[major]: [WRONG TERM] - The term ""注射吸毒者"" should have been translated as ""injection drug users"" instead of ""injection drug users with hepatitis C""."
+380,使用说明书,Instructions for use.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""使用说明书"" should have been translated as ""Instructions for use"" instead of ""Instructions for use."""
+385,将耳帐斜向下轻轻塞入耳道，以轻摆头部耳机不田动为家。,"Gently insert the earphone into the ear canal at a slight downward angle, and adjust the head slightly to ensure the earphone does not move.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""耳帐"" should have been translated as ""earphone"" instead of ""earphone"".
+[minor]: [WRONG TERM] - The term ""轻摆头部"" should have been translated as ""adjust the head slightly"" instead of ""adjust the head""."
+388,充电开机使用前，请先撕掉左右耳机充各点处的网几，将充电盒及耳机充满电。,"Before using, please remove the mesh at the charging points of the left and right earphones, and charge the charging case and earphones until they are fully charged.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""mesh"" should have been translated as ""网格"" instead of ""网几"".
+[minor]: [WRONG TERM] - The term ""charging points"" should have been translated as ""充电点"" instead of ""充各点处""."
+390,充电盒未充满电充电指示灯红灯长亮，充满电后充电:3 指示灯熄灭。,"The charging box is not fully charged. The red charging indicator light is on. When fully charged, the charging indicator light will turn off.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""充电指示灯"" should have been translated as ""charging indicator light"" instead of ""charging indicator"".
+[minor]: [WRONG TERM] - The term ""充满电后充电:3 指示灯"" should have been translated as ""when fully charged, the charging indicator light will turn off"" instead of ""when fully charged, the charging indicator light:3 will turn off""."
+403,自动连接: 局对移两只耳机从充时盒外十.,Automatic connection: Remove two earphones from the charging case.,"MQM annotations:
+Terminology Errors:
+[Major]: [TERM NOT APPLIED] - The term ""charging case"" should have been translated as ""étui de chargement"" instead of ""boîte de chargement"".
+[Minor]: [WRONG TERM] - The term ""earphones"" should have been translated as ""écouteurs"" instead of ""oreillettes""."
+405,随后红和白灯恢六. 左右囊如自过串联 .,The random text you provided does not appear to be a valid Chinese sentence. I am unable to provide a meaningful translation for it.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The random text provided does not appear to be a valid Chinese sentence, so I am unable to provide a meaningful translation or identify any terminology errors."
+406,"待左/右耳机白灯懈 闪时. 打开设备否牙搜索 “RedmIArDots2 ""并点击完连溶。","Connect the left/right earbuds when the white light flashes. Open the device settings and search for ""RedmIArDots2"" and click to connect.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""RedmIArDots2"" should have been translated instead of being left in the source language.
+[minor]: [WRONG TERM] - The term ""耳机"" should be translated as ""earbud"" instead of ""earbuds"" to match the singular form in the source text."
+407,首次连接后. 囊志开机可自动回连上一次配对设备(蓝牙需开启)。,First connection after. The device can automatically reconnect to the last paired device (Bluetooth needs to be turned on).,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""device"" should be translated as ""囊志"" (the device name) instead of the generic ""device"".
+[major]: [TERM NOT APPLIED] - The term ""Bluetooth"" should be translated as ""蓝牙"" instead of the English term."
+412,"单耳 / 双耳自由切换; 两只耳机连接成功后即为双丁连接; 将任一耳机放回充电盒关机, 另一只耳机进入单耳模式, 重新取出即可自动恢复双耳模式 。","Single-ear / dual-ear free switching; after the two earphones are successfully connected, it becomes a dual-ear connection; when either earphone is placed back in the charging case and turned off, the other earphone enters the single-ear mode, and when taken out again, it automatically restores the dual-ear mode.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""单耳"" should be translated as ""single-ear"" instead of ""single-ear / dual-ear"".
+minor: term not applied - The term ""双耳"" should be translated as ""dual-ear"" instead of ""single-ear / dual-ear"".
+minor: wrong term - The term ""双丁"" should be translated as ""dual-ear"" instead of ""dual-ear connection""."
+415,如果耳机无法正常连接使用，请参照以下方式重置,"If the headphones cannot be connected and used normally, please refer to the following method to reset.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""headphones"" should have been translated as ""écouteurs"" in French."
+416,耳机: 将耳机拿出充电盒， 在关机状态下， 分别长按两只耳机多功能键15 秒 ，至红白灯交替闪烁3 次后，松开并放回充电盒即可(清除耳机与手机的连授记录)。,"Earphones: Take the earphones out of the charging case, in the power-off state, long press the multi-function button of both earphones for 15 seconds respectively, until the red and white lights flash 3 times alternately, then release and put them back in the charging case (to clear the pairing record between the earphones and the phone).","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""耳机"" should have been translated as ""earphones"" instead of ""earphones"".
+[minor]: [WRONG TERM] - The term ""充电盒"" should have been translated as ""charging case"" instead of ""charging box"".
+[minor]: [WRONG TERM] - The term ""多功能键"" should have been translated as ""multi-function button"" instead of ""multi-function key""."
+423,本严操的相关信息请查询销售网 : www micom,www.micom,"MQM annotations:
+Terminology Errors:
+major: TERM NOT APPLIED - The glossary term ""www.micom"" should have been translated instead of being left in the source language."
+426,"以下功能左右耳机均可操作, 轻按一下来电时，接听电话; 通话或去电中，挂断电话音乐时，播放 /暂停音频 ,长按约1 秒释放","The following functions can be operated on both the left and right earphones: Tap once to answer a call when receiving a call; during a call or outgoing call, tap to hang up the phone; during music playback, tap to play/pause audio, long press for about 1 second to release.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""耳机"" (earphone) is not correctly translated as ""headphone"" in the context.
+minor: wrong term - The term ""释放"" (release) is not the most appropriate translation for ""to release"" in this context."
+429,待机时， 开启语音助手(需设备支持语音功能且打开快速唤醒设置),"""While in standby mode, activate the voice assistant (requires device support for voice function and quick wake-up setting enabled).""","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""voice assistant"" should have been translated as ""助手"" instead of ""语音助手"" to match the glossary entry.
+[minor]: [WRONG TERM] - The term ""quick wake-up setting"" should be capitalized as ""快速唤醒设置"" to match the glossary entry."
+435,耳机基本参数,Headphone basic parameters,"MQM annotations:
+Terminology Errors:
+major: TERM NOT APPLIED - The term ""headphone"" should have been translated as ""耳机"" instead of the literal translation ""基本参数""."
+438,输入参数:5V 二 100mA,"5V, 100mA","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""二"" (two) is not translated in the English output.
+minor: wrong term - The term ""100mA"" should be translated as ""100 milliamperes"" or ""100 mA"" instead of just ""100mA""."
+439,单耳净重: 约 4.1g,Approximately 4.1g.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""单耳净重"" should have been translated as ""Net weight of single ear"" instead of ""Approximately 4.1g""."
+448,"1 请勿以任何理由拆开.维修或改装耳机, 否则可能会导致起火甚至彻底损坏本产品;","Please do not disassemble, repair or modify the headphones for any reason, as this may result in fire or complete damage to the product.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""headphones"" should have been translated as ""耳机"" instead of the literal translation ""耳机""."
+451,"4 请勿在雷暴天气下使用该设备, 雷暴可导致设备工作异常, 并增加触电的危险;","Please do not use this device during thunderstorms, as thunderstorms can cause the device to malfunction and increase the risk of electric shock.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""雷暴"" should have been translated as ""thunderstorm"" instead of ""thunderstorms"".
+[minor]: [WRONG TERM] - The term ""该设备"" should have been translated as ""this device"" instead of ""the device""."
+453,6 请勿将本产品与液体接触。,Please do not expose this product to liquids.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""本产品"" (this product) in the source text is not accurately translated as ""this product"" in the target text."
+454,注意,"注意
+
+Attention.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""注意"" should have been translated as ""Attention"" instead of the literal translation ""Attention."""
+457,"3 长时间连续使用耳机有损听力,请合理控制使用时间及音量 ;","3 Prolonged continuous use of headphones can damage hearing, please reasonably control usage time and volume.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""headphones"" should be translated as ""耳机"" in the given context."
+471,"2 自您签收次日起 8 日-15日内, 本产品出现《Redmi AirDots 2 ee E 故障表》所列性能故障的情况, 经由小米售后服务中心检测确 定, 可","2 Within 8-15 days from the date of your receipt, if this product exhibits the performance faults listed in the ""Redmi AirDots 2 ee E Fault List"", and it is confirmed by the Xiaomi after-sales service center, you can.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""Redmi AirDots 2 ee E"" should have been translated instead of using the source term.
+minor: wrong term - ""performance faults"" is a literal translation of ""性能故障"", a more appropriate term would be ""product defects"" or ""product malfunctions"".
+minor: wrong term - ""Xiaomi after-sales service center"" is a literal translation of ""小米售后服务中心"", a more natural term in English would be ""Xiaomi customer service center"" or ""Xiaomi repair center""."
+476,电牙耳机 ”2 通话过程中，对方听不到声音。,wireless earbuds,"MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""wireless earbuds"" does not accurately reflect the source text ""电牙耳机"" which refers to ""wireless earphones"" or ""Bluetooth earphones""."
+480,2 已超过三包有效期;,2 has exceeded the three-warranty period.,"MQM annotations:
+Terminology Errors:
+Major: WRONG TERM - ""three-warranty period"" is not an accurate translation of the Chinese term ""三包有效期"". The correct term should be ""warranty period""."
+487,欧盟峰会为难民政策争论，欧盟官员：接收过程步步瓶颈-中新网,"The EU summit is debating refugee policies, EU officials: the reception process is facing bottlenecks.","MQM annotations:
+Terminology Errors:
+major: TERM NOT APPLIED - The term ""refugee"" should have been used instead of ""难民"" (which translates to ""displaced person"").
+minor: WRONG TERM - The term ""reception process"" does not accurately convey the meaning of ""接收过程"" (which refers to the process of admitting or accepting refugees)."
+488,欧盟峰会为难民政策争吵不休，欧盟官员：接收过程每一步都存在瓶颈,"The EU summit is embroiled in heated debates over refugee policies, EU officials: there are bottlenecks at every step of the reception process.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""refugee"" should have been used instead of ""难民"" (refugee) in the translation.
+[minor]: [WRONG TERM] - The term ""接收"" (reception) does not accurately convey the meaning of ""reception process"" in the context."
+490,据报道，欧盟此举是对欧洲日益增长的非法移民问题关注的回应，如今，欧盟的核心问题在于，最终能被遣返的非法移民人数很少。,"According to reports, this move by the EU is a response to the growing problem of illegal immigration in Europe, as the core issue for the EU is that the number of illegal immigrants who can ultimately be deported is very small.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""非法移民"" (illegal immigrant) should have been translated as ""undocumented immigrant"" or ""unauthorized immigrant"" instead of ""illegal immigrant""."
+493,冯德莱恩一再表示，欧盟资金不会支付相关费用。,"The European Union's funds will not pay the relevant fees, as Ursula von der Leyen has repeatedly stated.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""欧盟资金"" (European Union's funds) is not accurately translated as ""the European Union's funds"" in the target text."
+496,据欧盟委员会估计，欧盟的申根国家去年收到超92万份庇护申请，比前一年增加近半。,"According to the European Commission, the Schengen countries of the European Union received over 920,000 asylum applications last year, an increase of nearly 50% compared to the previous year.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Schengen countries"" should have been translated as ""países del espacio Schengen"" instead of just ""Schengen countries""."

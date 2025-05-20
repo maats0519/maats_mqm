@@ -1,0 +1,579 @@
+index,original,translated,locale_convention_annotation
+8,עוד צוין כי תועדו בתקופה האחרונה פחות מ-20 ברדלסים בשבעה מחוזות שונים במדינה.,"According to the report, fewer than 20 cheetahs were documented in the last period in seven different districts in the country.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""ברדלסים"" (cheetahs) in the source text is not correctly translated as ""cheetahs"" in the target text. The target text uses the term ""ברדלסים"" instead."
+21,"לפני כמה שבועות, קיבלתי הזדמנות ראשונית לנסות את המוצר החדש, שזמין כרגע רק לנסיינים בודדים בארה""ב, כאן בישראל.","A few weeks ago, I had an initial opportunity to try the new product, which is currently available only to a few testers in the US, here in Israel.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""נסיינים"" (testers) in the source text is not accurately translated as ""testers"" in the target text.
+major: wrong term - The term ""המוצר החדש"" (the new product) is translated as ""the new product"" instead of using a more natural English equivalent term."
+23,"אחרי שבועיים של השתעשעות, הבנתי כיצד ה-Car Thing יכול להפוך בקלות לחלק בלתי נפרד מהמערכת של אנשים רבים.","After two weeks of playing around, I understood how the Car Thing can easily become an integral part of many people's system.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""Car Thing"" should be translated into the target language instead of using the English term."
+26,"אי שם בשנת 2018, משתמשי ספוטיפיי החלו לקבל הצעה מעניינת בתיבת האימייל שלהם - אפשרות לרכוש מכשיר חדש עם שליטה קולית וחיבוריות דור רביעי, שיהפוך כל מערכת ישנה לרכב לחכמה.","Somewhere in 2018, Spotify users began receiving an interesting offer in their email inbox - an option to purchase a new device with voice control and 4G connectivity, which will turn any old system into a smart car.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""ספוטיפיי"" (Spotify) should have been translated as ""Spotify"" instead of ""ספוטיפיי"".
+[major]: [TERM NOT APPLIED] - The term ""דור רביעי"" (4G) should have been translated as ""4G"" instead of ""דור רביעי"".
+[minor]: [WRONG TERM] - The term ""רכב"" (vehicle) should have been translated as ""car"" instead of ""system""."
+56,"מסך הבית מוכר לכל המשתמשים באפליקציה, שכן כמו היישום בסמארטפון, הוא שם דגש על תמונות האלבומים ורשימות ההשמעה.","The home screen is available to all users of the app, as like the mobile app, it emphasizes album photos and playlists.","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""מסך הבית"" (home screen) is not translated accurately as ""the home screen"" in the target text.
+[minor]: [TERM NOT APPLIED] - The term ""אפליקציה"" (app) is not translated accurately as ""the app"" in the target text."
+60,"באמצעותה, תוכלו להפעיל שירים, פלייליסטים, אלבומים ואפילו לחפש פודקאסטים.","You can use it to play songs, playlists, albums, and even search for podcasts.","MQM annotations:
+Terminology Errors:
+[minor]: [term not applied] - The term ""songs"" should be translated as ""שירים"" in the source language.
+[minor]: [term not applied] - The term ""playlists"" should be translated as ""פלייליסטים"" in the source language.
+[minor]: [term not applied] - The term ""albums"" should be translated as ""אלבומים"" in the source language.
+[minor]: [term not applied] - The term ""podcasts"" should be translated as ""פודקאסטים"" in the source language."
+72,"השאלה הזו מתחזקת בעת התחשבות בכך שמכשירי אייפון ואנדרואיד חזקים בהרבה מזה של ספוטיפיי, וברוב הפעמים יקנו למשתמש הרבה יותר פונקציונליות.","The question is strengthened by the fact that iPhone and Android devices are much stronger than Spotify, and in most cases will provide the user with much more functionality.","MQM annotations:
+Terminology Errors:
+major: WRONG TERM - The glossary term ""iPhone and Android devices"" does not fit the context, as it should be translated as ""מכשירי אייפון ואנדרואיד"" (iPhone and Android devices) in Hebrew.
+major: WRONG TERM - The glossary term ""Spotify"" does not fit the context, as it should be translated as ""ספוטיפיי"" (Spotify) in Hebrew."
+96,זה לא סוד - שיתוף ומוכנות הארגון |,This is no secret - the organization's sharing and readiness.,"MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The glossary term ""organization's"" is not applied in the translation. The translation should use a term that better reflects the meaning of the source text."
+105,הסקרנות מקדמת |,Curiosity promotes.,"MQM annotations:
+Terminology Errors:
+major: term not applied - The glossary term ""promotes"" is not correctly applied in the translation. The translation ""Curiosity promotes"" does not accurately convey the meaning of the source text ""הסקרנות מקדמת""."
+114,"העלות הכלכלית בגין אי־סגירת התחנות הפחמיות במועד שנקבע ביוני 2022 מוערכת בכמיליארד שקלים עבור שנת 2022, כך חושף דו""ח של מרכז המחקר והמידע של הכנסת.","The economic cost of not closing the coal-fired power stations by the date set in June 2022 is estimated at around one billion shekels for the year 2022, as revealed in a report by the Knesset Research and Information Center.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""coal-fired power stations"" should have been translated as ""תחנות הכוח הפחמיות"" instead of ""התחנות הפחמיות"".
+minor: wrong term - The term ""שקלים"" should have been translated as ""shekels"" instead of ""shekels""."
+126,בכמה יתייקר התשלום על המשכנתא?,The payment on the mortgage will increase by how much?,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""משכנתא"" (mortgage) is not translated correctly in the target text. The translation ""המשכנתא"" (the mortgage) does not match the glossary specification."
+132,"זאת, לאחר שבמשך שנים הריבית במשק היתה קרובה לאפס.","This, after for years the interest rate in the economy was close to zero.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""interest rate"" should be translated as ""ריבית"" in Hebrew, not ""הריבית""."
+137,בכמה התייקרה המשכנתא הממוצעת מתחילת השנה?,The average mortgage has increased by how much since the beginning of the year?,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""משכנתא"" (mortgage) in the source text is not accurately translated in the target text."
+142,מסלול הריבית המשתנה צמודת מדד (26.7% במסלול הזה) ישלים התייקרות של כ־120 שקלים.,The variable interest rate track linked to the index (26.7% in this track) will complete an increase of approximately 120 shekels.,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""variable interest rate track linked to the index"" should be translated more accurately as ""מסלול ריבית משתנה צמוד מדד"" in the target language.
+[minor]: [WRONG TERM] - The term ""approximately 120 shekels"" should be translated more precisely as ""כ־120 שקלים"" in the target language."
+150,לגבי רוכשי דירות מקבלן - צרור ממליץ להקדים תשלומים לקבלן ולקחת משכנתא כעת.,Regarding apartment buyers from a contractor - it is recommended to make advance payments to the contractor and take a mortgage now.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""רוכשי דירות מקבלן"" (apartment buyers from a contractor) is not translated accurately. The translation ""apartment buyers from a contractor"" does not convey the same meaning as the source text.
+[major]: [TERM NOT APPLIED] - The term ""משכנתא"" (mortgage) is not translated accurately. The translation ""take a mortgage"" does not convey the same meaning as the source text."
+163,"כמו כן, החל מ-10 באוגוסט, תיקבע הפחתה נוספת של עוד חצי שקל, כך שרק ממועד זה מחירו של ליטר בנזין יפחת בשקל אחד וזאת עד ל-15 בנובמבר 2022.","Also, starting from August 10, an additional reduction of half a shekel will be set, so that only from that date the price of a liter of gasoline will decrease by one shekel, and this until November 15, 2022.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""ליטר"" (liter) should have been translated as ""liter"" instead of ""a liter of"".
+minor: wrong term - The term ""בנזין"" (gasoline) should have been translated as ""gasoline"" instead of ""of gasoline""."
+172,"למחיר הדלק יש השפעה דרמטית על יוקר המחיה במשק - משום שהוא משפיע גם על הוצאות משקי הבית וגם על הוצאות העסקים, על מחירי התחבורה הציבורית והטיסות, על עלויות ההובלה ועוד.","The price of fuel has a dramatic impact on the cost of living in the economy - as it affects both household expenses and business expenses, the prices of public transportation and flights, transportation costs, and more.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""דלק"" (fuel) in the source text is not accurately translated as ""fuel"" in the target text. The target text uses the more general term ""the price of fuel"" instead.
+minor: wrong term - The term ""משק"" (economy) in the source text is translated as ""the economy"" in the target text, which is technically correct but could be more precisely translated as ""the household"" to better match the context."
+178,אשדוד היא העיר הידידותית ביותר לעסקים קטנים ובינוניים.,Ashdod is the most business-friendly city for small and medium-sized enterprises.,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""business-friendly"" does not accurately convey the meaning of the source term ""ידידותית"" (friendly/welcoming)."
+181,"אחריהן ממוקמות לפי הסדר: אשקלון, ראשון לציון, תל אביב־יפו, חיפה, רמת גן, חולון, באר שבע, ירושלים, בת ים, נתניה ובני ברק.","Ashkelon, Rishon LeZion, Tel Aviv-Jaffa, Haifa, Ramat Gan, Holon, Beersheba, Jerusalem, Bat Yam, Netanya, and Bnei Brak.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""Ashkelon"" is not applied correctly in the translation, it should be ""Ashdod"".
+minor: term not applied - The glossary term ""Rishon LeZion"" is not applied correctly in the translation, it should be ""Rishon Lezion"".
+minor: term not applied - The glossary term ""Tel Aviv-Jaffa"" is not applied correctly in the translation, it should be ""Tel Aviv"".
+minor: term not applied - The glossary term ""Ramat Gan"" is not applied correctly in the translation, it should be ""Ramat Gan"".
+minor: term not applied - The glossary term ""Beersheba"" is not applied correctly in the translation, it should be ""Be'er Sheva"".
+minor: term not applied - The glossary term ""Bat Yam"" is not applied correctly in the translation, it should be ""Bat Yam"".
+minor: term not applied - The glossary term ""Bnei Brak"" is not applied correctly in the translation, it should be ""Bnei Brak""."
+182,הסוכנות עורכת את מדד הרשויות המקומיות.,The agency conducts the index of local authorities.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""local authorities"" should have been used instead of ""local authorities""."
+198,"פיתוח העסקים הקטנים הוא אינטרס ציבורי של כולנו, אולם לרשות המקומית יש השפעה ישירה על העסקים שנמצאים בה.","The development of small businesses is a public interest of all of us, but the local authority has a direct influence on the businesses located within it.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""העסקים הקטנים"" (small businesses) is not translated accurately in the target text.
+[minor]: [WRONG TERM] - The term ""רשות מקומית"" (local authority) is not capitalized correctly in the target text."
+199,"הקורונה הדגישה את חשיבותו של השלטון המקומי וראינו כי רשויות שפעלו ועודדו את קידום העסקים הקטנים ומצאו פתרונות יצירתיים עבורם, הפכו לממשק השלטוני הראשון עבורם"".","The coronavirus has highlighted the importance of local government, and we have seen that authorities that have acted and encouraged the promotion of small businesses and found creative solutions for them have become the primary governmental interface for them.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""local government"" is not applied correctly in the translation. The translation uses ""local authorities"" instead.
+minor: term not applied - The glossary term ""small businesses"" is not applied correctly in the translation. The translation uses ""small businesses"" instead."
+200,"רן קויתי, מנהל הסוכנות לעסקים קטנים ובינוניים במשרד הכלכלה והתעשייה, מוסיף: ""לרשויות המקומיות חלק מרכזי ומהותי ביכולתם של עסקים בתחומן לשגשג ולפרוח.","Ran Kfir, the director of the Small and Medium Business Agency at the Ministry of Economy and Industry, adds: ""Local authorities have a central and essential role in the ability of businesses within their jurisdiction to thrive and flourish.""","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""Small and Medium Business Agency"" is not applied correctly in the translation. The translation uses ""the Small and Medium Business Agency"" instead of the more appropriate ""the Agency for Small and Medium Businesses"".
+minor: wrong term - The translation uses ""Ministry of Economy and Industry"" instead of the more common ""Ministry of Economy and Trade"" which is the standard term for this government entity."
+201,"בשנתיים האחרונות, שבהן אנו מתמודדים עם משבר הקורונה, לרשויות משקל גדול יותר בסיוע לעסקים לשרוד בתחומן ולשרוד בכלל"".","In the last two years, during which we have been dealing with the coronavirus crisis, the authorities have had a greater weight in assisting businesses to survive within their field and to survive in general.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""רשויות"" (authorities) in the source text is not accurately translated as ""the authorities"" in the target text. A more appropriate translation would be ""the government"" or ""the local authorities""."
+217,"יותר חבילות הגיעו בדצמבר מבכל חודש אחר, ככל הנראה בעקבות חגי הקניות של נובמבר, דוגמת יום הרווקים הסיני, בלאק פריידי וסייבר מאנדיי.","More packages arrived in December than in any other month, likely due to the November shopping holidays, such as Singles' Day in China, Black Friday, and Cyber Monday.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""Singles' Day"" was not applied in the translation. The term should have been translated as ""יום הרווקים הסיני"" instead of being left in English.
+minor: term not applied - The glossary terms ""Black Friday"" and ""Cyber Monday"" were not applied in the translation. They should have been translated as ""בלאק פריידי"" and ""סייבר מאנדיי"" respectively."
+220,"לשכירים רבים מגיע כסף מהמדינה, שיכול להגיע לעשרות אלפי שקלים •","For many employees, money from the state is due, which can amount to tens of thousands of shekels.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""לשכירים"" (employees) is not accurately translated as ""for many employees"". The translation should use a more direct term like ""for many workers"" or ""for many salaried employees"".
+[minor]: [WRONG TERM] - The term ""מהמדינה"" (from the state) is translated as ""from the state"", but a more natural translation would be ""from the government""."
+221,שיניתם מקום עבודה?,You changed your job?,"MQM annotations:
+Terminology Errors:
+major: TERM NOT APPLIED - The Hebrew term ""מקום עבודה"" (workplace) was not properly translated into English as ""job""."
+223,עברתם מהעיר ליישוב?,You moved from the city to the settlement?,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""settlement"" in the English translation does not accurately convey the meaning of the Hebrew term ""יישוב"" (yishuv), which refers to a type of Israeli civilian community, often a rural or semi-rural community. A more appropriate translation would be ""village"" or ""town""."
+249,100% מהעוברים לישוב מזכה קיבלו החזר מס על שנת המעבר היות ואישור על תושבות בישוב מזכה ניתנת רק לאחר 12 חודשים מיום הפיכת התושב לתושב מזכה ובכך למעשה השנה הראשונה משולם מס מלא.,"100% of the residents who moved to the eligible settlement received a tax refund for the year of the move, since approval for residency in the eligible settlement is only granted after 12 months from the date the resident became an eligible resident, and thus, the first year is paid in full tax.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""eligible settlement"" should be translated as ""מושב מזכה"" in Hebrew.
+[major]: [TERM NOT APPLIED] - The term ""eligible resident"" should be translated as ""תושב מזכה"" in Hebrew."
+253,שיעור ההחזר יכול להגיע לעשרות אלפי שקלים לאורך 6 שנים.,The return rate can reach tens of thousands of shekels over 6 years.,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""return rate"" does not accurately convey the meaning of the source term ""שיעור ההחזר"", which refers to the amount of money that can be recovered over time, rather than a rate of return.
+[minor]: [WRONG TERM] - The term ""tens of thousands of shekels"" may not accurately reflect the intended meaning of the source text, as the source does not specify the exact amount, only that it can reach ""tens of thousands""."
+255,"מנכ״ל tax:on, טל כרמון: ""משבר הקורונה גרם לכך שציבור השכירים בישראל הפך להרבה יותר אקטיבי.","""The COVID-19 crisis has led to the salaried public in Israel becoming much more active.""","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""tax:on"" in the source text is not translated correctly in the target text. The correct translation should be provided.
+[minor]: [WRONG TERM] - The term ""מנכ״ל"" in the source text is not properly capitalized in the target text. The capitalization should be corrected."
+256,"הוא מתעניין, בודק ודורש את מה שמגיע לו בהחזרים ממס הכנסה.","He is interested, checking and demanding what is due to him in tax refunds.","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""tax refunds"" should be translated as ""החזרי מס"" instead of ""מס הכנסה""."
+264,"לפי הדו""ח, מחפשי העבודה התעניינו בעיקר בתחומים רוויי משרות כמו אדמיניסטרציה ומכירות, שלגביהן נשלחו 1,738,485 קורות חיים.","According to the report, job seekers were primarily interested in fields with abundant job openings, such as administration and sales, for which 1,738,485 resumes were submitted.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""administration"" in the target text does not match the glossary specification, which would be a more appropriate translation.
+minor: term not applied - The term ""sales"" in the target text does not match the glossary specification, which would be a more appropriate translation."
+268,"השכר החודשי בתחום התוכנה היה 17,915 שקלים בממוצע, ובניתוח מערכות מידע הוא עמד על 17,140 שקלים.","The average monthly salary in the software field was 17,915 shekels, and in the field of information systems analysis it stood at 17,140 shekels.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""software"" should be translated as ""תוכנה"" in Hebrew.
+[major]: [WRONG TERM] - The term ""information systems analysis"" should be translated as ""ניתוח מערכות מידע"" in Hebrew."
+276,ההיצע הגדול ביותר היה למשרות ללא ניסיון - וכאלה היו יותר מ-58 אלף באתר.,"The largest supply was for positions without experience - and there were more than 58,000 of those on the site.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""positions without experience"" should have been translated as ""משרות ללא ניסיון"" instead of ""למשרות ללא ניסיון"".
+minor: wrong term - The term ""more than 58,000"" should have been translated as ""יותר מ-58 אלף"" instead of ""וכאלה היו יותר מ-58 אלף""."
+286,"במילים אחרות, מדובר ב- 193 אלף לא מועסקים לעומת 180.3 אלף.","193,000 unemployed compared to 180.3 thousand.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""not employed"" does not accurately convey the meaning of ""unemployed"" in the source text."
+289,"מאלה שבכוח העבודה 95.5% המהווים 4,059,700 הם מועסקים והשאר בלתי מועסקים.","95.5% of the labor force, constituting 4,059,700 people, are employed, and the rest are unemployed.","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""labor force"" should be translated as ""כוח העבודה"" in Hebrew.
+[minor]: [TERM NOT APPLIED] - The term ""employed"" should be translated as ""מועסקים"" in Hebrew.
+[minor]: [TERM NOT APPLIED] - The term ""unemployed"" should be translated as ""בלתי מועסקים"" in Hebrew."
+295,"הסקר מאפשר מעקב אחר ההתפתחות בכוח העבודה, גודלו ותכונותיו, היקף האבטלה ועוד.","The survey allows for monitoring the development of the labor force, its size and characteristics, the extent of unemployment, and more.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""labor force"" is not accurately translated as ""כוח העבודה"" in the target text.
+minor: wrong term - The glossary term ""unemployment"" is translated as ""אבטלה"", which is correct, but the capitalization is inconsistent with the source text."
+301,הקידוש והמסורת הם שורש מאוד עמוק בנשמה שלי.,The sanctity and tradition are a very deep root in my soul.,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""sanctity"" does not accurately convey the meaning of the Hebrew term ""הקידוש"" which refers more to the concept of holiness or sacredness.
+[minor]: [WRONG TERM] - The term ""tradition"" may not fully capture the nuance of the Hebrew term ""המסורת"" which has a more specific connotation of cultural or religious tradition."
+302,"ימי שישי אצלי מוקדשים לילדים, אור (10) ויונתן (8).","Fridays are dedicated to my children, Or (10) and Yonatan (8).","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The name ""Or"" should be translated as ""אור"" to match the source text.
+[minor]: [TERM NOT APPLIED] - The name ""Yonatan"" should be translated as ""יונתן"" to match the source text."
+310,"כשאנחנו מגיעים לחמותי, כבר מלובי הבניין עולים ריחות מדהימים מהדירה שלה.",The smells from her apartment are amazing even from the building lobby.,"MQM annotations:
+Terminology Errors:
+[minor]: [WRONG TERM] - The glossary term ""דירה"" (apartment) should be used instead of ""הדירה"" (the apartment) to match the context."
+316,כל פינה נידחת בארץ עשתה לו גאווה בלב.,Every remote corner of the land has made for itself a pride in the heart.,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""pride"" does not accurately convey the meaning of the Hebrew word ""גאווה"" in this context. A more appropriate translation would be ""sense of importance"" or ""significance""."
+323,שבוע־שבועיים לפני יום העצמאות כבר הייתי מטפס על עצים וקושר לבית חוטים עם דגלי ישראל.,"Two weeks before Independence Day, I was already climbing trees and tying strings with Israeli flags to the house.","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""Independence Day"" should have been translated as ""יום העצמאות"" in the target text.
+[minor]: [WRONG TERM] - The term ""strings"" should have been translated as ""חוטים"" in the target text.
+[minor]: [WRONG TERM] - The term ""Israeli flags"" should have been translated as ""דגלי ישראל"" in the target text."
+348,"""הייתי פותחת שולחן גדול ומזמינה את 'המתים שלי'.","""I would set a large table and invite my 'dead ones'.""","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""המתים שלי"" (my dead ones) is not translated correctly. The translation ""my 'dead ones'"" does not convey the intended meaning."
+349,"לפעמים אני מדמיינת מה היה אילו אחי דניאל ז""ל היה בחיים, או אם אבא שלי, שניאור ז""ל, היה רואה את הילדים שלי: אוריאל (23) והתאומות תמרה ונעמה (16 וחצי).","Sometimes I imagine what it would have been like if my brother Daniel, may his memory be a blessing, were still alive, or if my father, Shneur, may his memory be a blessing, had seen my children: Uriel (23) and the twins Tamar and Naama (16 and a half).","MQM annotations:
+Terminology Errors:
+[minor]: [WRONG TERM] - The term ""Daniel, may his memory be a blessing"" should be translated as ""דניאל ז""ל"" to match the source terminology.
+[minor]: [WRONG TERM] - The term ""Shneur, may his memory be a blessing"" should be translated as ""שניאור ז""ל"" to match the source terminology."
+364,"ביבי תשחק בתפקיד נועה, שאותו גילמה דפנה ארמוני.","Bibi will play the role of Noam, which was portrayed by Dafna Armoni.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The name ""Noam"" should be ""Noea"" to match the source text."
+371,את הידיעה המשמחת חלקה אתמול בערב (שישי) לופז עם מעריציה באתר הרשמי שלה onthejlo.com,The joyful news was shared yesterday evening (Friday) by Lopez with her fans on her official website onthejlo.com.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""onthejlo.com"" should have been translated to its equivalent in English instead of being left in the original form."
+390,"עכשיו אנחנו יותר חשופות, פונות ישירות למצלמה באופן טבעי, לא רק ריאליטי אלא סדרה דוקומנטרית אותנטית"".","""Now we are more exposed, turning directly to the camera in a natural way, not just reality but an authentic documentary series.""","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""exposed"" should be translated as ""מחשופות"" instead of ""חשופות"".
+[major]: [TERM NOT APPLIED] - The term ""turning directly to the camera"" should be translated as ""פונות ישירות למצלמה"" instead of ""פונות ישירות למצלמה באופן טבעי"".
+[minor]: [WRONG TERM] - The term ""authentic documentary series"" should be translated as ""סדרה דוקומנטרית אותנטית"" instead of ""סדרה דוקומנטרית אותנטית""."
+402,אינדינגב בניחוח בינלאומי: אפגן וויגז מצטרפים אל אביתר בנאי ונגה ארז,In an international scent: Afghan Wigs join Avner Benayoun and Noga Erez.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Afghan Wigs"" in the target text does not match the correct term in the source text, which is ""אפגן וויגז"".
+[major]: [TERM NOT APPLIED] - The term ""Avner Benayoun"" in the target text does not match the correct term in the source text, which is ""אביתר בנאי"".
+[major]: [TERM NOT APPLIED] - The term ""Noga Erez"" in the target text does not match the correct term in the source text, which is ""נגה ארז""."
+407,"אינדינגב החל את דרכו בשנת 2007 כאירוע נישתי קטן, שאיגד את השמות החמים בסצנת האינדי הישראלית.","Indignation began its journey in 2007 as a small niche event, which brought together the hot names in the Israeli indie scene.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""אינדינגב"" should have been translated as ""Indignation"" instead of the transliteration ""Indignation"".
+[minor]: [WRONG TERM] - The term ""החל את דרכו"" should have been translated as ""began its journey"" instead of ""began its way"".
+[minor]: [WRONG TERM] - The term ""שאיגד את השמות החמים"" should have been translated as ""which brought together the hot names"" instead of ""which united the hot names"".
+[minor]: [WRONG TERM] - The term ""בסצנת האינדי הישראלית"" should have been translated as ""in the Israeli indie scene"" instead of ""in the Israeli indie scene""."
+409,אביב גפן ושרית חדד: פסטיבל חוצות היוצר בירושלים בהפתעות חדשות,Aviv Geffen and Sarit Hadad: The Creator's Corners Festival in Jerusalem with new surprises.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""Creator's Corners Festival"" should have been translated as ""פסטיבל חוצות היוצר"" instead of ""The Creator's Corners Festival"".
+[major]: [TERM NOT APPLIED] - The glossary term ""Aviv Geffen"" should have been translated as ""אביב גפן"" instead of ""Aviv Geffen"".
+[major]: [TERM NOT APPLIED] - The glossary term ""Sarit Hadad"" should have been translated as ""שרית חדד"" instead of ""Sarit Hadad""."
+410,"הפסטיבל הבינלאומי בבירה, שהפך למסורת ויתקיים במספר מוקדים יציג מופעים מוזיקליים של אמנים מקומיים מובילים, וישלב מופעי קרקס ומיצגים אמנותיים חדשניים ומפתיעים","The international festival in the capital, which has become a tradition and will take place in several focal points, will feature musical performances by leading local artists, and will combine circus acts and innovative and surprising artistic exhibits.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""בירה"" (capital) should have been translated as ""capital"" instead of ""the capital"".
+major: wrong term - The term ""מוקדים"" (focal points) should have been translated more accurately, such as ""venues"" or ""locations""."
+417,"SPARKS הוא מופע קרקס, תנועה וריחוף אווירי של קרקס Y, תערוכת צילום אינסטגרמית בהשראת יצירות אמנות מפורסמות.","SPARKS is a circus performance, a circus Y aerial movement and levitation, an Instagram photo exhibition inspired by famous works of art.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""SPARKS"" is not translated into the target language.
+[major]: [WRONG TERM] - The term ""circus Y"" is not a standard term and does not fit the context.
+[minor]: [WRONG TERM] - The term ""Instagram photo exhibition"" should be more accurately translated as ""Instagram-inspired photo exhibition""."
+418,"The Black Box Gallery – היא גלריית ההצצה של היוצר והמבצע ליאור כלפון, שתוצב ברחבת היריד עם חורי הצצה שיחשפו את הקהל לתערוכת יצירותיו הזרחניות של ליאור כלפון, יצירות אמנות של פסלים מוארים של האמן הרב תחומי אלון בירגר (תיאטרון האור) ועוד.","The Black Box Gallery - it is the peephole gallery of the creator and performer Lior Kalfon, which will be placed in the fairground with peepholes that will expose the audience to the fluorescent works of Lior Kalfon, artworks of illuminated sculptures by the multidisciplinary artist Alon Birger (Light Theater) and more.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""היוצר והמבצע"" (the creator and performer) should have been translated as ""the artist and performer"".
+[minor]: [WRONG TERM] - The term ""פסלים מוארים"" (illuminated sculptures) should have been translated as ""lit sculptures"" or ""luminous sculptures"" to better match the context."
+444,.,"Here is the translation from Hebrew to English:
+
+The quick brown fox jumps over the lazy dog.","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""fox"" in the English translation does not match the source Hebrew text.
+[minor]: [TERM NOT APPLIED] - The term ""dog"" in the English translation does not match the source Hebrew text."
+446,"היא מרוויחה על קמפיינים יותר מוונדר וומן, היא יפה מדי, היא יודעת להעמיד במקום את דנה ויס, וכשצריך - גם לסנגר על השותף העסקי שלה.","She earns more from campaigns than Wonder Woman, she is too beautiful, she knows how to put Dana Weiss in her place, and when needed - she also defends her business partner.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""Wonder Woman"" should be translated as a proper noun, not a common noun.
+[minor]: [WRONG TERM] - The term ""Dana Weiss"" should be capitalized as a proper noun.
+[minor]: [WRONG TERM] - The term ""partner"" should be translated more specifically as ""business partner""."
+457,כאן מחפשים גיבורי־על.,Here we search for superheroes.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""superheroes"" should have been translated as ""גיבורי־על"" in Hebrew."
+465,"תגידו: ספונג'ה וניקיונות, סירים על הגז וריחות בחדר המדרגות, ירון אילן או אבי כאכון בטלוויזיה, אבל הכי מוזר יהיה אם מישהו יגיד פתאום ""גיל ססובר"".","Sponge and cleaning, pots on the stove and smells in the stairwell, Yaron Eilan or Avi Kochavi on television, but the strangest thing would be if someone suddenly said ""Gil Sossover"".","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""Gil Sossover"" is not a common or recognizable term in the given context, and it is unclear what it refers to."
+468,לאורך מחצית ממנה - ססובר עומד.,Along half of it - Susover stands.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Susover"" in the target text does not match the correct term as specified in the glossary."
+477,"רותי רוסו בתגובה: ""שמחה שיש מקומות שמשקיעים יותר בקולינריה של אוכלוסייה זו"".","""I'm glad there are places that invest more in the cuisine of this population.""","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The glossary term ""cuisine"" should have been translated as ""מטבח"" (kitchen/cooking) instead of ""קולינריה"" (culinary) to better fit the context."
+481,בישראל בשנים האחרונות יותר ויותר משפחות ואנשים מבוגרים מבינים כי בדידות זו המחלה הקשה ביותר בגיל מבוגר ורואים במקומות הקהילתיים כפתרון מוכח למחלה.,"In recent years in Israel, more and more families and older people understand that loneliness is the most severe illness in old age, and they see community places as a proven solution to this illness.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""community places"" in the translation does not match the source term ""מקומות הקהילתיים"" (community places)."
+483,מרבית בתי הדיור המוגן נעזרים בשפים מקצועיים על מנת לבנות תפריט.,Most assisted living facilities rely on professional chefs to build their menu.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""assisted living facilities"" should have been translated as ""בתי הדיור המוגן"" instead of ""בתי הדיור המוגן"".
+[minor]: [WRONG TERM] - The term ""professional chefs"" should have been translated as ""שפים מקצועיים"" instead of ""שפים מקצועיים""."
+487,"אני מכבדת את עבודתם הקשה של טבחים, טבחיות, שפיות ושפים בכל מקום, גם בדיור המוגן"".","""I respect the hard work of cooks, chefs, and food preparers everywhere, even in assisted living facilities.""","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The glossary term ""טבחים"" (cooks) should have been translated as ""chefs"" instead of ""cooks"" to better match the context.
+[minor]: [TERM NOT APPLIED] - The glossary term ""טבחיות"" (female cooks) should have been translated as ""female chefs"" instead of ""cooks"" to better match the context.
+[minor]: [TERM NOT APPLIED] - The glossary term ""שפיות"" (food preparers) should have been translated as ""food preparers"" instead of ""chefs"" to better match the context.
+[minor]: [TERM NOT APPLIED] - The glossary term ""שפים"" (chefs) should have been translated as ""chefs"" instead of ""food preparers"" to better match the context."
+491,"הזמר בתגובה: ""הפלישה לאוקראינה שונה מאוד מהקונפליקט הישראלי-פלשתיני","The singer in response: ""The invasion of Ukraine is very different from the Israeli-Palestinian conflict.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""Plitvice Lakes National Park"" should have been used instead of ""Prielbratislava National Park"".
+[major]: [WRONG TERM] - The term ""oak"" does not accurately translate the source term ""山毛榉"" (beech).
+[minor]: [WRONG TERM] - The term ""high mountain"" is not the most appropriate translation for the source term ""高山"" (Alpine)."
+518,"לבקשת שר הבריאות ניצן הורוביץ, ימשיך במקביל בתפקידו כפרויקטור.","At the request of Health Minister Nitzan Horowitz, he will continue in parallel in his role as a project manager.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""פרויקטור"" (project manager) in the source text is not translated correctly in the target text. The translation ""project manager"" does not match the glossary specification."
+527,"דו""ח מבקר המדינה: התקציב בפועל ברוב שנות פעילות ועדת סל התרופות – קטן מהתקציב המומלץ",The State Comptroller's report: The actual budget in most years of the activity of the Drug Basket Committee - is smaller than the recommended budget.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Drug Basket Committee"" should have been translated as ""ועדת סל התרופות"" instead of ""ועדת סל התרופות"".
+[major]: [WRONG TERM] - The term ""State Comptroller's report"" should have been translated as ""דו""ח מבקר המדינה"" instead of ""התקציב בפועל""."
+528,"על פי הדו""ח של מתניהו אנגלמן, במשך יותר מ-20 שנות פעילות הסל – משרד הבריאות לא פיקח על פעילות הוועדה •","According to the report of Matanyahu Englman, for more than 20 years of activity of the Sal - the Ministry of Health did not supervise the activity of the committee.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""הסל"" (the Sal) should have been translated as a proper noun instead of using the generic term ""the committee""."
+532,ועדת סל התרופות היא אחת הוועדות הציבוריות המשפיעות ביותר על חיי היומיום שלנו ועל בריאותנו.,The Drugs Basket Committee is one of the most influential public committees on our daily lives and our health.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""Drugs Basket Committee"" should have been translated as ""ועדת סל התרופות"" instead of ""The Drugs Basket Committee"".
+minor: wrong term - The term ""public committees"" should have been translated as ""ועדות ציבוריות"" instead of ""public committees""."
+535,"על פי הדו""ח של מתניהו אנגלמן, הוא ממליץ ""לבצע בתהליך הרחבת הסל תיקונים ושיפורים, שיביאו למיצוי איכותי יותר של תקציב סל שירותי הבריאות שהציבור זכאי לו"".","According to the report by Matanyahu Engelmann, he recommends ""to carry out corrections and improvements in the process of expanding the basket, which will lead to a more qualitative realization of the budget for the health services basket to which the public is entitled.""","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""Matanyahu Engelmann"" should have been translated as ""Matanyahu Engelmann"" instead of ""Matanyahu Engelmann"".
+minor: wrong term - The term ""basket"" should have been translated as ""סל"" (sal) instead of ""סל שירותי הבריאות"" (sal shirutei ha-briut)."
+539,"ברוב שנות פעולת הוועדה (90% מהזמן), גובה התוספת התקציבית היה קטן מ-1.5% של סל הבריאות, שיעור שהומלץ על ידי ועדות שונות כשיעור התוספת הרצוי.","The budgetary supplement was less than 1.5% of the health basket, a rate recommended by various committees as the desired supplement rate.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""health basket"" should have been translated as ""סל הבריאות"" instead of ""סל הבריאות"".
+minor: wrong term - The term ""committees"" should have been translated as ""ועדות"" instead of ""ועדות שונות""."
+559,אנגלמן ממליץ למשרד הבריאות לעדכן את נהלי עבודת הסל וגם לקבוע האם יש צורך בתוספת כספית נפרדת עבור שירותים אלו.,Angelman recommends to the Ministry of Health to update the basket work procedures and also to determine whether there is a need for a separate financial supplement for these services.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Angelman"" should be translated as a proper name rather than leaving it in the source language.
+[minor]: [WRONG TERM] - The term ""basket work procedures"" should be translated more idiomatically, such as ""procedures for the basket of services"" or ""procedures for the benefits basket""."
+581,"ד""ר נעמה נוס אחראית אפדימיולוגיה לשכת הבריאות בת""א ציינה כי ""אנחנו לא יכולים לקבוע חד משמעית ממה שלושת הידיירים נפטרו.","Dr. Naama Nus, the epidemiologist at the Tel Aviv Health Office, stated that ""we cannot definitively determine what the three deceased died from.""","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""ידיירים"" (deceased) is not translated correctly in the target text. The translation ""the three deceased"" does not accurately convey the meaning of the source term."
+593,"יגאל נחתומי, מנכ""ל בית אקשטיין שמנהל את המעון ואף ניהל את המעון בעצמו אמר ""מאות ואלפי אנשים בכל המערך קמים רק במטרה אחת: לעשות טוב לאנשים.","Yigal Nachshoni, CEO of Beit Ekshtein, who manages the shelter and even managed the shelter himself, said ""Hundreds and thousands of people throughout the system are getting up for only one purpose: to do good for people.""","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""Beit Ekshtein"" is not applied correctly in the translation. The translation uses ""Beit Ekshtein"" instead of the more common English term ""Beit Ekshtein"".
+minor: wrong term - The translation uses ""shelter"" to refer to the ""מעון"" (institution/facility) mentioned in the source text, which may not be the most accurate term."
+595,את אחת הדיירות הרדמתי על הידיים.,I carried one of the tenants on my hands.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""tenant"" in the target text does not match the correct term ""דיירת"" (female tenant) specified in the source text."
+604,"זהו ההליך הראשון שביצע ד""ר פראס אבו עכר כמנהל היחידה לניתוחי חזה בבית החולים •",This is the first procedure performed by Dr. Firas Abu Akr as the head of the Chest Surgery Unit at the hospital.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""היחידה לניתוחי חזה"" (the Chest Surgery Unit) is not accurately translated as ""Chest Surgery Unit""."
+619,"לדבריו, הלב היה מרוקן מדם, לחצי הדם היו אפסיים, והגישה הניתוחית היתה שגויה.","According to his words, the heart was drained of blood, half the blood was futile, and the surgical approach was flawed.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""דם"" (blood) should have been translated as ""blood"" instead of ""drained of blood"".
+[major]: [WRONG TERM] - The term ""אפסיים"" (futile) does not fit the context and should have been translated more accurately.
+[minor]: [WRONG TERM] - The term ""ניתוחית"" (surgical) should have been translated as ""approach"" instead of ""surgical approach""."
+622,"עוד ציין: ""מדובר בהליך לא מסובך, שנמשך כמה דקות"", והוסיף: ""לא ניתן שלא להתייחס לתהליך הלקוי של קבלת ד""ר אבו עכר לתפקיד.","""It was also noted: 'This is a simple process that takes a few minutes,' and he added: 'One cannot ignore the flawed process of appointing Dr. Abu Akar to the position.'""","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Dr. Abu Akar"" should have been translated as ""د. أبو عكر"" to maintain consistency with the source text.
+[minor]: [WRONG TERM] - The term ""תפקיד"" (position) should have been translated as ""role"" instead of ""position"" to better fit the context."
+647,"ד""ר שלומי קודש לא שוכח, גם ממרום תפקידו, את הדחיפה מפרופ' שאול סוקניק ז""ל •","Dr. Shlomi Kodesh does not forget, even from the height of his position, the push from the late Prof. Saul Sokonik.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Dr. Shlomi Kodesh"" should have been translated as ""ד""ר שלומי קודש"" instead of the English name.
+[major]: [WRONG TERM] - The term ""the late Prof. Saul Sokonik"" should have been translated as ""פרופ' שאול סוקניק ז""ל"" instead of the English name."
+674,"על פרופ' שאול סוקניק ז""ל","On Professor Shaul Sokonik, may his memory be a blessing.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""Professor Shaul Sokonik"" should have been translated as ""פרופ' שאול סוקניק"" instead of ""Shaul Sokonik"".
+minor: wrong term - The term ""may his memory be a blessing"" should have been translated as ""ז""ל"" instead of ""may his memory be a blessing""."
+676,.,"Here is the translation from Hebrew to English:
+
+The quick brown fox jumps over the lazy dog.","MQM annotations:
+Terminology Errors:
+minor: [term not applied] - The English translation ""The quick brown fox jumps over the lazy dog"" does not contain any glossary terms, so there are no terminology errors."
+684,"כאשר סיימתי את ההתמחות והתלבטתי אם לנסוע לתקופת השתלמות בחו""ל, שאול דחף וכיוון אותי, וסייע לי במכתבי המלצה ובעצות כיצד להתנהל.","When I finished my internship and was undecided whether to go abroad for a training period, Saul pushed and guided me, and helped me with letters of recommendation and advice on how to proceed.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""התמחות"" (internship) is not translated correctly in the target text.
+major: wrong term - The term ""השתלמות"" (training period) is not translated accurately in the target text."
+692,הביא לאור: איליה יגורוב,Brought to light: Ilya Igorov,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The source name ""Ilya Igorov"" is not translated correctly in the target text. The target text uses the name ""Ilya Igorov"" instead of providing a translation."
+701,אבל למדתי ממנו דברים משמעותיים ועמוקים אף יותר.,But I learned from him more meaningful and deeper things.,"MQM annotations:
+Terminology Errors:
+[minor]: [WRONG TERM] - The glossary term ""meaningful"" does not fit the context well. A more appropriate term could be ""significant"" or ""profound""."
+709,זו הסיבה שד״ר טומי שינפלד מהווה עבורי הרבה יותר מדמות מעוררת השראה.,This is why Dr. Tommy Sheinfeld is much more than an inspiring figure for me.,"MQM annotations:
+Terminology Errors:
+[minor]: [WRONG TERM] - The term ""Dr. Tommy Sheinfeld"" should be translated as ""ד״ר טומי שינפלד"" to maintain the original Hebrew name and title."
+717,"מגפת האומיקרון משתוללת והעומס כבר מורגש בבתי החולים: 37,847 אלף נדבקים אובחנו אתמול (שני) עם קורונה.","The Omicron epidemic is raging and the burden is already felt in hospitals: 37,847 thousand infected were diagnosed yesterday (Monday) with coronavirus.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""אלף"" (thousand) is not applied correctly in the translation. The English translation should use ""thousand"" instead of ""thousand thousand""."
+731,"אנשי צוות רפואי מבודדים, מתוכם 542 רופאים.","Medical staff in isolation, of which 542 are doctors.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""רופאים"" (doctors) should have been translated as ""physicians"" instead of ""doctors"" to match the glossary."
+737,"ואולם, למרבה הצער, לעתים מסתיימות לידות בנזקים חמורים הנגרמים ליולדת או ליילוד כתוצאה מהתרשלות הצוות הרפואי.","However, unfortunately, sometimes births end in serious damage caused to the parturient or the newborn as a result of medical staff negligence.","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""parturient"" is not a common term in English and may not be well understood by the target audience. A more common term such as ""mother"" or ""birthing person"" would be more appropriate.
+[minor]: [WRONG TERM] - The term ""newborn"" should be capitalized as it is a proper noun."
+738,"במקרים שבהם הסתיימה הלידה בפגיעה גופנית, ליילוד או לאם, יש מקום לבחון את השתלשלות האירועים אשר הובילו לפגיעה ואף לשקול פנייה לקבלת ייעוץ משפטי.","In cases where the birth ended in physical injury, to the newborn or the mother, it is appropriate to examine the sequence of events that led to the injury and even consider seeking legal advice.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""ליילוד"" (newborn) is not accurately translated as ""the newborn"" in the English translation.
+minor: term not applied - The term ""לאם"" (the mother) is not accurately translated as ""the mother"" in the English translation."
+745,שלב הצירים נמשך בממוצע בין 8 ל-14 שעות.,The active phase of labor lasts an average of 8 to 14 hours.,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The glossary term ""active phase of labor"" should be translated as ""שלב הצירים"" in Hebrew, not ""the active phase of labor""."
+766,"במקרים מסוימים, מתפתחת לידה דיספונקציונלית, קרי, חוסר התקדמות של תהליך הלידה האקטיבית.","In certain cases, dysfunctional labor develops, that is, lack of progress in the active labor process.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""dysfunctional labor"" should be translated as ""לידה דיספונקציונלית"" instead of the literal translation ""חוסר התקדמות של תהליך הלידה האקטיבית"".
+[minor]: [WRONG TERM] - The term ""active labor process"" should be translated as ""תהליך הלידה האקטיבית"" instead of the literal translation ""תהליך הלידה האקטיבית""."
+778,שיתוק על שם ERB,Paralysis.,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""Paralysis"" does not accurately convey the meaning of the source Hebrew term ""שיתוק"", which refers to a specific medical condition."
+781,שיתוק זה נגרם לא פעם בשל קושי בהוצאתו של היילוד בשל התרחשות 'פרע כתפיים' - מצב חירום מיילדותי המרחש כאשר כתפיו של העובר נכלאות בפנים תעלת הלידה לאחר שראשו יצא.,Paralysis is often caused by difficulty in delivering the newborn due to the occurrence of 'shoulder dystocia' - an obstetric emergency that occurs when the baby's shoulders become stuck in the birth canal after the head has been delivered.,"MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""shoulder dystocia"" is not translated correctly. The target text uses a descriptive phrase ""when the baby's shoulders become stuck in the birth canal after the head has been delivered"" instead of the established medical term.
+minor: wrong term - The term ""paralysis"" is translated as ""שיתוק"" which is the correct Hebrew term, but the capitalization is incorrect."
+795,פטירת יולדת במהלך הלידה הינו אירו נדיר למדי.,The death of a woman in childbirth is a relatively rare event.,"MQM annotations:
+Terminology Errors:
+[minor]: [WRONG TERM] - The term ""יולדת"" (woman in childbirth) is not accurately translated as ""a woman"" in the English translation."
+797,במקרים מסוימים לא מאתר הצוות הרפואי דימום אצל היולדת במועד או מגיב באיחור לדימום כאמור.,"In certain cases, the medical team does not detect bleeding in the parturient in a timely manner or responds with a delay to such bleeding.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""parturient"" in the target text does not match the correct term ""יולדת"" (woman in labor) specified in the glossary.
+[minor]: [WRONG TERM] - The term ""דימום"" (bleeding) should be capitalized as it is a key term in the medical context."
+800,"באותו מקרה היולדת התלוננה על כאבים קשים וחולשה לאחר הניתוח אולם הצוות הרפואי לא התייחס כיאות לתלונותיה ומצבה הקליני, הגיב באיחור רק לאחר שמערכות גופה החלו לקרוס, דבר שהביא לפטירתה"".","In that case, the parturient complained of severe pain and weakness after the surgery, but the medical staff did not properly address her complaints and clinical condition, only reacting with delay after her body systems began to collapse, which led to her death.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""parturient"" in the target text does not match the correct term ""יולדת"" (woman in childbirth) used in the source text.
+[major]: [WRONG TERM] - The term ""body systems"" in the target text does not accurately convey the meaning of ""מערכות גופה"" (her body systems) used in the source text."
+805,"פיצוי יילוד בגין פגיעה עקב רשלנות רפואית בלידה כולל רכיבי נזק רבים, כאשר הסכומים המשמעותיים ביותר ניתנים עבור כאב וסבל, סיעוד וטיפול בשכר, הפסדי שכר ופנסיה לנפגע ואף להוריו ורכיבי נזק נוספים.","Compensation for a newborn due to injury caused by medical negligence during childbirth includes many damage components, with the most significant amounts awarded for pain and suffering, nursing and paid care, lost wages and pension for the injured party and even their parents, and additional damage components.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""רשלנות רפואית"" (medical negligence) is not correctly translated as ""medical negligence"" in the target text.
+[major]: [TERM NOT APPLIED] - The term ""פיצוי יילוד"" (compensation for a newborn) is not correctly translated as ""compensation for a newborn"" in the target text.
+[minor]: [WRONG TERM] - The term ""נזק"" (damage) is translated as ""component"" instead of the more accurate ""damage"" or ""loss""."
+813,מחקר העלה כי קיים קשר בין התפתחות המחלה לנישואי קרובים •,Research has shown that there is a connection between the development of the disease and consanguineous marriage.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""התפתחות המחלה"" (the development of the disease) is not translated accurately. The translation ""the development of the disease"" does not convey the same meaning as the source.
+[minor]: [WRONG TERM] - The term ""נישואי קרובים"" (consanguineous marriage) is translated as ""consanguineous marriage"", which is a correct term, but the capitalization is not consistent with the source."
+830,"הדבר נובע בעיקר משכיחות גבוהה של נישואים בתוך המשפחה (בעיקר במגזר הבדואי) ומאלרגיות שונות, וחוסר מודעות לטיפול נכון בבעיה"".","The matter stems primarily from a high incidence of consanguineous marriages (especially in the Bedouin sector) and various allergies, and a lack of awareness of proper treatment of the problem.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""consanguineous marriages"" is not translated correctly. The target text uses the general term ""nishualim"" (marriages) instead of the more specific term for ""consanguineous marriages"".
+minor: wrong term - The term ""Bedouin sector"" is translated as ""מגזר הבדואי"" which is a literal translation. A more appropriate term in the target language would be ""קהילה הבדואית"" (the Bedouin community)."
+855,"עד כיתה ט' למד בבית הספר בכפר חורפיש, ולאחר מכן עבר לפנימייה הצבאית שבבית הספר הריאלי בחיפה.","From 9th grade, he studied at the school in the village of Kfar Kharfesh, and afterwards he transferred to the military boarding school at the Reali School in Haifa.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Kfar Kharfesh"" should have been translated using the glossary term for the village name.
+[minor]: [WRONG TERM] - The term ""military boarding school"" does not accurately convey the meaning of the source text, which refers to a ""military high school""."
+861,"בשנת 2010 חבר לעמותת ""אחריי"" והתחיל להדריך קבוצה בכפר חורפיש, לאחר שדאג שהעמותה תחל לפעול בכפרים הדרוזיים כדי לעודד את בני הנוער להתגייס.","In 2010, he joined the ""Acharai"" organization and began to lead a group in the village of Hurfeish, after ensuring that the organization would begin operating in the Druze villages in order to encourage youth to enlist.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""Acharai"" should have been translated to its English equivalent ""Acharai"" instead of being left in the original Hebrew.
+minor: wrong term - The term ""Hurfeish"" should have been translated to its English equivalent ""Hurfeish"" instead of being left in the original Hebrew."
+869,"ראוי שהוא יקבל את המקום המתאים לו"".","""He deserves the appropriate position for him.""","MQM annotations:
+Terminology Errors:
+minor: [WRONG TERM] - The term ""המקום"" (the position) should be translated as ""the appropriate position"" to better fit the context."
+876,אך בתקשורת הערבית הוצג בדיעבד ציוד קשר שלדברי הפלשתינים הושאר על ידי הכוחות מאחור.,"But in the Arab media, communication equipment was presented retrospectively, which according to the Palestinians was left behind by the forces.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Pלשתינים"" (Palestinians) should have been translated as ""Palestinians"" instead of ""Pלשתינים""."
+877,"לטענת חמאס, המבצע נועד להטמנת מכשירי האזנה.","According to Hamas, the operation was intended to plant listening devices.","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""האזנה"" (listening device) in the source text is not accurately translated as ""listening devices"" in the target text."
+885,"מפקד כוח הלוחמים ולוחם נוסף בצוות קיבלו אף הם צל""ש.",The commander of the combat force and an additional fighter in the team also received a citation.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""לוחמים"" (combatants) should have been translated as ""fighters"" instead of ""combat force"".
+[minor]: [WRONG TERM] - The term ""צל""ש"" (citation) should have been capitalized as ""Citation""."
+889,"ישראל צריכה לשאול את עצמה, שוב, אם לא נכון לשנות מדיניות מול גזרת ג'נין •","Israel needs to ask itself, again, whether it is not right to change its policy towards the Jenin district.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""גזרת ג'נין"" (Jenin district) is not translated correctly. The translation ""the Jenin district"" does not match the glossary specification."
+895,"עדות לכך ניתנה במהלך מבצע המעצרים שבו נהרג שלשום לוחם הימ""מ, רס""ב נעם רז ז""ל.","The testimony to this was given during the arrest operation in which the Yamam fighter, Master Sergeant Noam Raz, of blessed memory, was killed yesterday.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Yamam"" is not translated correctly. It should be translated as ""Yamam"" or a similar term that refers to the specific military unit.
+[minor]: [WRONG TERM] - The term ""Master Sergeant"" should be capitalized as ""Master Sergeant"" to match the standard terminology."
+896,"לוחמים שהשתתפו בקרב בג'נין העידו כי הם אינם זוכרים היקף כזה של ירי ואלימות - עדות לא רק לכמות האדירה של אמל""ח שיש בשטח, אלא גם לנכונות להשתמש בו.","Fighters who participated in the battle in Jenin testified that they do not remember such a scale of fire and violence - evidence not only of the enormous amount of ammunition in the area, but also of the willingness to use it.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""לוחמים"" (fighters) in the source text is not accurately translated as ""Fighters"" in the target text. A more appropriate translation would be ""Combatants"" or ""Warriors"".
+minor: term not applied - The term ""אמל""ח"" (ammunition) in the source text is not accurately translated as ""ammunition"" in the target text. A more appropriate translation would be ""ordnance"" or ""munitions""."
+901,"פעילות מבצעית היא עניין מסוכן למי שמשתתף בה, ולמי שנוכח בזירה.","Operational activity is a dangerous matter for those who participate in it, and for those who are present at the scene.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""operational activity"" should have been translated as ""פעילות מבצעית"" instead of ""עניין מסוכן"".
+[major]: [TERM NOT APPLIED] - The glossary term ""those who participate in it"" should have been translated as ""למי שמשתתף בה"" instead of ""למי שנוכח בזירה""."
+906,"ממילא נראה ששום דבר לא ישכנע את המשוכנעים: העולם כבר הזדרז לגנות את ישראל מבלי שטרח לאזן זאת במילת אמפתיה לקורבנות הטרור הפלשתיני - העילה המקורית שבשמה צה""ל פועל ללא הרף בג'נין.","Here is the translation from Hebrew to English:
+
+Inevitably, it seems that nothing will convince the convinced: the world has already rushed to condemn Israel without bothering to balance this with a word of empathy for the victims of Palestinian terror - the original pretext in whose name the IDF operates relentlessly in Jenin.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""צה""ל"" (IDF) is not translated correctly. The translation ""the IDF"" does not match the glossary specification.
+[minor]: [WRONG TERM] - The term ""Jenin"" is not capitalized correctly. It should be ""Jenin"" instead of ""g'enin""."
+907,"כתמיד, טבעם של סיפורים כאלה לגווע.","As always, the nature of such stories is to fade away.","MQM annotations:
+Terminology Errors:
+[minor]: [WRONG TERM] - The glossary term ""fade away"" does not fit the context well. A more appropriate term would be ""disappear"" or ""vanish""."
+911,האחריות מחייבת: לפעול להרגעת המצב.,The responsibility requires: to act to calm the situation.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Hebrew term ""לפעול להרגעת המצב"" should be translated as ""to act to calm the situation"" rather than ""to act to calm the situation."""
+919,"ח""כ עופר כסיף הוא הדוגמה האחרונה לכך; אם לא יינקטו כלפיו צעדים - לרבות העמדה לדין על תקיפת שוטר - תעודד המדינה במשתמע את נבחר הציבור הבא להקצין עוד יותר את פעולותיו.",MK Ofer Cassif is the latest example of this; if steps are not taken against him - including prosecution for assaulting a police officer - the state will implicitly encourage the next elected public representative to further escalate their actions.,"MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""MK"" (Member of Knesset) is not translated correctly in the target text.
+minor: wrong term - The term ""elected public representative"" does not accurately convey the meaning of ""נבחר הציבור"" (elected public official) in the source text."
+921,"מכל מי ששכל ישר בראשו מצופה להתעלות מעל לכל אלה, ולפעול להרגעת המצב; אחרת, עלולה ישראל לגלוש במהירות להסלמה מול אויבים מבחוץ, וגרוע מכך - מול יריבים מבית.","From all those who have common sense, it is expected to rise above all these, and to work to calm the situation; otherwise, Israel may quickly slide into escalation against external enemies, and worse - against internal rivals.","MQM annotations:
+Terminology Errors:
+major: TERM NOT APPLIED - The term ""מצופה"" (expected) is not translated correctly in the target text. The translation ""it is expected"" does not fully capture the meaning of the source term.
+minor: WRONG TERM - The term ""יריבים"" (rivals) is translated as ""internal rivals"", which is a more specific term than the source. The broader term ""rivals"" would be more appropriate."
+928,"נוסף על כך, בין 100 ל-110 אלף פלשתינים עם היתרי עבודה נכנסים מדי יום לעבודה בישראל דרך 34 מעברים מפוקחים.","In addition, between 100,000 to 110,000 Palestinians with work permits enter Israel for work through 34 supervised crossings every day.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""Palestinians"" should be translated as ""פלסטינים"" in Hebrew.
+minor: wrong term - The term ""work permits"" should be translated as ""היתרי עבודה"" in Hebrew.
+minor: wrong term - The term ""supervised crossings"" should be translated as ""מעברים מפוקחים"" in Hebrew."
+940,"לעיתים הדבר חוזר על עצמו גם בפעם השנייה, אך רק בפעם השלישית הוא נעצר, נכלא ומוגש נגדו כתב אישום בגין שהייה בלתי חוקית.","Sometimes the matter repeats itself even the second time, but only the third time it is stopped, imprisoned, and an indictment is filed against him for illegal presence.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""בלתי חוקית"" (illegal) is not applied correctly in the translation. The translation uses ""illegal presence"" instead of a more natural English equivalent like ""unlawful stay"" or ""unauthorized presence""."
+954,הוא יכול להיות אב למשפחה שנכנס לארץ לעבוד כדי להרוויח כמה שקלים ולחזור.,He can be a father to a family that enters the country to work in order to earn a few shekels and return.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""family"" should have been translated as ""משפחה"" in Hebrew.
+[major]: [TERM NOT APPLIED] - The glossary term ""country"" should have been translated as ""ארץ"" in Hebrew.
+[minor]: [WRONG TERM] - The glossary term ""shekels"" should be capitalized as ""שקלים"" in Hebrew."
+968,"חברות רשומות לא עוסקות בזה, מכיוון שאם החברה תיתפס, דינה להיסגר"".","""Registered companies do not engage in this, because if the company is caught, its fate is to be closed.""","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""registered companies"" should have been translated as ""חברות רשומות"" instead of ""Registered companies"".
+[major]: [WRONG TERM] - The term ""its fate is to be closed"" should have been translated as ""דינה להיסגר"" instead of ""its fate is to be closed""."
+971,"לרוב החבר'ה האלה מסיעים עם רכב מצ'וקמק כי הם יודעים שנחרים להם את הרכב אז הם מעדיפים לנסוע ברכב ישן"".","Most of these guys travel with a crappy vehicle because they know we'll confiscate their vehicle, so they prefer to drive an old car.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""מצ'וקמק"" (crappy) is not translated correctly. The English equivalent ""crappy"" is not a standard glossary term.
+[minor]: [WRONG TERM] - The term ""רכב"" (vehicle) is translated as ""car"", which is a more specific term than the source."
+972,תיעוד: הצתת שדות במושב ציפורי,Documentation: Arson of fields in the Tzipori moshav.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""moshav"" in the source text should have been translated as a specific type of Israeli agricultural community, rather than using the generic term ""fields""."
+979,"נציין כי במוקד זה הוקם ה""שומר החדש"" בניסיון למגר את התופעה הקשה.","This center was established as the ""New Guard"" in an attempt to eradicate the severe phenomenon.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""New Guard"" in the target text does not match the correct translation of the source term ""השומר החדש""."
+981,"במסגרת התרגיל המטכ""לי ""מרכבות אש"", התרעת צופרים תשמע ביום ראשון, שני ורביעי בכמה מוקדים בישראל •","In the framework of the General Staff exercise ""Chariots of Fire"", the sounding of sirens will be heard on Sunday, Monday, and Wednesday in several locations in Israel.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Chariots of Fire"" should be translated as a proper noun, not a literal translation.
+[minor]: [WRONG TERM] - The term ""sirens"" should be translated as ""warning sirens"" or ""air raid sirens"" to better convey the meaning in the context."
+999,"בפעילות הלוחמים בעיר ג'נין שבמרחב החטיבה המרחבית מנשה, נעצרו שני מבוקשים החשודים בפעילות טרור.","In the activity of the fighters in the city of Jenin in the area of the Manasseh regional brigade, two wanted suspects suspected of terrorist activity were arrested.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""fighters"" should be translated as ""combatants"" or ""militants"" to better fit the context.
+[minor]: [WRONG TERM] - The term ""brigade"" should be capitalized as ""Brigade"" to match the glossary entry."
+1029,משרד רואה חשבון יהודה ברלב לא מעוניין להגיב.,Yehuda Berlev accounting firm is not interested in responding.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Yehuda Berlev accounting firm"" should have been translated as ""משרד רואה חשבון יהודה ברלב"" instead of ""Yehuda Berlev accounting firm""."
+1032,"גנץ התייחס בין היתר לתיעוד של אל-סייד בשבי החמאס: ""סרטון שמטרתו סחטנות – על גבה של סוגייה הומניטארית"" •","Gantz referred, among other things, to the documentation of Al-Sayyid in Hamas captivity: ""A video whose purpose is extortion - on the back of a humanitarian issue"".","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Al-Sayyid"" should have been translated as a proper noun instead of leaving it in the source language.
+[minor]: [WRONG TERM] - The term ""סחטנות"" should have been translated as ""extortion"" instead of ""on the back of a humanitarian issue""."
+1036,"חמאס מחזיק בשבי את ארבעת הבנים בניגוד לחוק הבינלאומי, בניגוד למוסר.","Hamas is holding the four sons captive in violation of international law, in violation of morality.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""sons"" should be translated as ""בנים"" instead of ""הבנים"" to match the source text.
+[minor]: [WRONG TERM] - The term ""captive"" should be translated as ""בשבי"" instead of ""את ארבעת הבנים בשבי"" to match the source text."
+1046,"""'השלוחים החדשים', הם טרוריסטים עם מקלדת שדינם כמו לוחמי ארגוני טרור אחרים.","""The new emissaries"" are keyboard terrorists whose fate is like that of other terrorist organization fighters.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""emissaries"" does not accurately convey the meaning of the source term ""שלוחים"" (shlichim), which refers to a specific type of representative or envoy.
+[major]: [WRONG TERM] - The term ""keyboard terrorists"" is not an accurate translation of the source term ""טרוריסטים עם מקלדת"" (terrorists with keyboards), which has a more specific meaning.
+[minor]: [WRONG TERM] - The term ""fighters"" is not the most appropriate translation for ""לוחמי"" (combatants) in this context, as it does not fully capture the meaning of the source term."
+1047,"אנחנו יודעים מי הם, אנחנו פוגעים בהם ובשולחיהם, וגם היום הם על הכוונת שלנו – ולא רק במימד הקיברנטי.","We know who they are, we are hitting them and their senders, and even today they are in our sights - and not just in the cyber dimension.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""שולחיהם"" (their senders) is not translated correctly. The translation ""their senders"" does not accurately convey the meaning of the source term.
+[minor]: [WRONG TERM] - The term ""הכוונת"" (our sights) is translated as ""in our sights"", which is a correct translation but does not fully capture the nuance of the source term."
+1073,"מדריך לחימה בטרור של מג""ב עוטף ירושלים: ""הפיתוח, נותן מענה רלוונטי לאיומי הייחוס ומדמה את המציאות בשטח"" •","""Border Police Counter-Terrorism Combat Guide for the Jerusalem Envelope: 'The development provides a relevant response to the reference threats and simulates the reality on the ground.'""","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""מג""ב"" (Border Police) is not translated correctly in the English target text.
+[major]: [WRONG TERM] - The term ""עוטף ירושלים"" (Jerusalem Envelope) is not accurately translated in the English target text."
+1081,"במסגרת התחרות, וכמענה לצורך בתרגול לוחמי מג""ב ללחימה באימון ירי בתנועה ובמתארים מסוג זה, אסף בן דויד, מדריך לחימה בטרור של מג""ב עוטף ירושלים פיתח את ""מתקן אסף"", המורכב ממטרה דינאמית, שמחוברת למוט טלסקופי עליו מורכב מנשא שניתן לרתום למדריך.","Within the framework of the competition, and in response to the need for Border Police fighters to practice combat training in motion and in such scenarios, Assaf Ben David, a combat instructor in terrorism for the Border Police in the Jerusalem envelope, developed the ""Assaf Device"", which consists of a dynamic target connected to a telescopic pole on which a harness can be mounted that can be harnessed to the instructor.","MQM annotations:
+Terminology Errors:
+major: TERM NOT APPLIED - The term ""Border Police"" in the source text is not correctly translated as ""מג""ב"" (Magav) in the target text.
+minor: WRONG TERM - The term ""מדריך לחימה בטרור של מג""ב עוטף ירושלים"" (combat instructor in terrorism for the Border Police in the Jerusalem envelope) is not accurately translated as ""a combat instructor in terrorism for the Border Police"".
+minor: WRONG TERM - The term ""מתקן אסף"" (Assaf Device) is not accurately translated as ""the 'Assaf Device'""."
+1082,"משרתם המדריך את המנשא למותנו, הוא יכול לתרגל את הלוחם שעומד לפניו על ידי שליטה והזזת המטרה לצדדים וטווחים שונים.","The guide leads the bearer to our demise, he can practice the warrior standing before him by controlling and moving the target to different sides and ranges.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""המנשא"" (the bearer) is not translated correctly. The English translation ""the bearer"" does not accurately convey the meaning in the context.
+[major]: [WRONG TERM] - The term ""המדריך"" (the guide) is translated as ""the guide"", but in this context, it may be more appropriate to use a term like ""the instructor"" or ""the trainer"".
+[minor]: [WRONG TERM] - The term ""הלוחם"" (the warrior) is translated as ""the warrior"", but a more appropriate term in this context could be ""the trainee"" or ""the student""."
+1091,מתניהו אנגלמן התריע בשבוע הסייבר הבינלאומי מפני חוסר המוכנות של ישראל לתקיפות פצחנים •,Matthew Engelmann warned during the International Cyber Week of Israel's lack of preparedness for hacker attacks.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""פצחנים"" (hackers) in the source text is not accurately translated as ""hacker attacks"" in the target text."
+1109,"במקביל לאימונים האינטנסיביים עם הנבחרת, בלייזר עסק בשבוע האחרון גם בעתידו, עד שחתם לשנתיים בהפועל ירושלים.","In parallel to the intensive training with the national team, Blayzer also dealt with his future last week, until he signed a two-year contract with Hapoel Jerusalem.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Blayzer"" should have been translated as the player's name instead of using the original name.
+[minor]: [WRONG TERM] - The term ""Hapoel Jerusalem"" should have been capitalized as ""Hapoel Jerusalem"" to match the standard convention for proper nouns."
+1112,"לא היית בנבחרת ארבע שנים, עד כמה אתה שמח לחזור, ועד כמה אתה רוצה לשחק בשני המשחקים הקרובים?","I was not in the national team for four years, how happy are you to return, and how much do you want to play in the next two games?","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""בנבחרת"" (national team) is not translated correctly in the English translation.
+[major]: [TERM NOT APPLIED] - The term ""המשחקים הקרובים"" (the next two games) is not translated correctly in the English translation."
+1113,"""קודם כל, אני רוצה ליהנות בנבחרת ואני בא בגישה של לתרום בכל מה שאני יכול, אם זה מהניסיון שלי ואם זה על המגרש.","""First of all, I want to enjoy the national team and I come with the approach of contributing in every way I can, whether it's from my experience or on the field.""","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""national team"" should have been used instead of ""the national team"".
+minor: wrong term - The term ""contribute"" does not accurately convey the meaning of ""תרום"" (to contribute/give) in this context."
+1123,ברגע שהרגשתי חיבור עם ההנהלה ועם המאמן הבנתי שזה המקום הנכון בשבילי.,"The moment I felt a connection with the management and the coach, I understood that this is the right place for me.","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""management"" in the source text should be translated as ""הנהלה"" in the target text.
+[minor]: [TERM NOT APPLIED] - The term ""coach"" in the source text should be translated as ""המאמן"" in the target text."
+1128,"אני בטוח שתהיה קבוצה מחויבת ומהנה ורציתי להיות חלק מזה"".","""I'm sure it will be a committed and enjoyable group, and I wanted to be a part of it.""","MQM annotations:
+Terminology Errors:
+[minor]: [WRONG TERM] - The glossary entry ""קבוצה"" (group) should be translated as ""group"" instead of ""קבוצה"" in the English translation."
+1160,רז אדם עשוי להיות מושאל לעירוני נס ציונה •,The secret of man may be borrowed for the urban Nes Ziona.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""urban"" in the translation does not accurately convey the meaning of the source term ""עירוני"" (which refers to the city of Nes Ziona).
+[major]: [WRONG TERM] - The term ""secret of man"" in the translation does not accurately convey the meaning of the source term ""רז אדם"" (which refers to the ""secret/mystery of man"")."
+1167,"במכבי ת""א הודיעו: נובאטוס מירושי נמכר לזולטה הבלגית",Maccabi Tel Aviv announced: Novakovic from Jerusalem was sold to Zulte Waregem (Belgian club).,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Novakovic"" in the target text should have been translated as the correct glossary term for the player's name.
+[major]: [WRONG TERM] - The term ""Zulte Waregem"" in the target text should have been translated as the correct glossary term for the Belgian club."
+1197,"הקבוצה של אריאל בית הלחמי חיברה ניצחון שלישי ברצף, הפעם מרשים במיוחד •","The group of Ariel Beit Halechemi achieved a third consecutive victory, this time particularly impressive.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""Ariel Beit Halechemi"" should have been translated as a proper name instead of being kept in the source language.
+[minor]: [WRONG TERM] - The term ""group"" does not accurately convey the meaning of the source term ""הקבוצה"" (the team)."
+1221,אלה שהפכו לשואבי מים ומנופפי מגבות במשחקים באירופה.,These who became water carriers and towel wavers in games in Europe.,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""water carriers"" does not accurately convey the meaning of ""שהפכו לשואבי מים"" (who became water drawers/fetchers) in the source text.
+[major]: [WRONG TERM] - The term ""towel wavers"" does not accurately convey the meaning of ""ומנופפי מגבות"" (and towel wavers) in the source text."
+1276,לפני המשחק מנהל הקבוצה עמי ביטון נכנס לחדר ההלבשה ונשא דברים מרגשים בפני השחקנים.,"Before the game, team manager Ami Biton entered the locker room and delivered an emotional speech to the players.","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""Ami Biton"" is not applied in the translation, it should be translated as ""Ami Biton""."
+1317,אין פגיעה בחשיבה הביקורתית.,There is no harm in critical thinking.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""critical thinking"" should have been translated as ""ביקורתית חשיבה"" instead of ""חשיבה הביקורתית""."
+1339,"על פי שכלול נתוני המחקר, 84% מהקרקעות המיועדות לחקלאות בעולם יחוו מחסור כבד במי גשמים.","According to the aggregated research data, 84% of the land designated for agriculture worldwide will experience severe rainfall deficits.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""rainfall deficits"" should have been translated as ""מחסור במי גשמים"" instead of ""מחסור כבד במי גשמים"" to better match the source text."
+1364,עמלנו חודשים רבים להבאת בסיס להתקנת הסיבים וכעת החזון הופך למציאות.,"Our labor for many months has brought a basis for the installation of the fibers, and now the vision is becoming a reality.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""fibers"" should have been translated as ""סיבים"" in Hebrew.
+[minor]: [WRONG TERM] - The glossary term ""vision"" should have been translated as ""חזון"" in Hebrew."
+1376,יש קשר בין רמות הנוגדנים שמפתחים לתופעות הלוואי?,There is a connection between the levels of antibodies developed and side effects.,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""antibodies"" should be translated as ""נוגדנים"" in Hebrew.
+[major]: [TERM NOT APPLIED] - The term ""side effects"" should be translated as ""תופעות לוואי"" in Hebrew."
+1388,יש בכלל אפשרות להעריך חוזק של מערכת חיסון?,Is it even possible to assess the strength of an immune system?,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""immune system"" should have been translated as ""מערכת חיסון"" instead of the more general ""מערכת""."
+1429,"ובכן, מה דעתכם לצאת לסיורים חינמיים בעקבות גיבורי הסדרות האהובות של נטפליקס?","And so, what do you think about going on free tours following the beloved heroes of Netflix series?","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""סיורים חינמיים"" (free tours) is not translated correctly. The translation ""free tours"" does not convey the intended meaning.
+[major]: [WRONG TERM] - The term ""גיבורי הסדרות האהובות"" (beloved heroes of the series) is not translated accurately. The translation ""beloved heroes of Netflix series"" does not fully capture the meaning."
+1452,"המחירים השתנו, תנאי הכבודה כבר לא אותו הדבר וישראלים רבים מופתעים כשהם מגיעים לנמל התעופה ומגלים שהם צריכים להוסיף סכומים גבוהים עבור מזוודות שחשבו שכלולות במחיר.","The prices have changed, the conditions of hospitality are no longer the same, and many Israelis are surprised when they arrive at the airport and discover that they need to add large sums for suitcases that they thought were included in the price.","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""hospitality"" does not accurately convey the meaning of ""conditions"" in the source text.
+minor: wrong term - The term ""suitcases"" should be ""luggage"" to better match the context."
+1471,בישראייר המחיר לא כולל כבודה.,The price does not include baggage.,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Hebrew term ""בישראייר"" (Israir) is not translated correctly in the English translation."
+1484,"הזמנה של מזוודה נוספת יכולה לעלות בין 90-150 דולרים לכיוון אם תעשו זאת בנמל התעופה, בהזמנה מראש המחיר מעט זול יותר.","An additional suitcase reservation can cost between $90-$150 per direction if done at the airport, with advance booking the price is slightly cheaper.","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""מזוודה"" (suitcase) should have been translated as ""luggage"" or ""bag"" instead of ""suitcase"".
+[minor]: [WRONG TERM] - The term ""נמל התעופה"" (airport) should have been translated as ""airport terminal"" or ""airport facility"" instead of just ""airport""."

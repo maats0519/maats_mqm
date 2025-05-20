@@ -1,0 +1,5038 @@
+index,original,zero_shot_translation,annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.","עבורי, זו הנחה די גדולה כי היא יוצרת את חלון התצוגה רק באמצעות אובייקט Direct3D, ולא אובייקט Direct3D3.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the original text without any issues."
+3,"Now, I get that in practice, IDirectXObject2 is typically a proper superset of IDirectXObject, with no changed function signatures, and new methods only added to the end.","עכשיו, אני מבין שבפועל, IDirectXObject2 הוא בדרך כלל על-קבוצה נכונה של IDirectXObject, ללא שינוי חתימות פונקציות, ורק שיטות חדשות נוספות בסוף.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","נניח לצורך הדיון שהמדע לפחות בחלקו מורכב מרשימות של הצהרות עובדתיות אובייקטיביות על העולם, נכונות ללא קשר לכל תיאוריה שהן עשויות לתמוך בה.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","הניסויים לא יוצרים את העובדות בקריאה זו, אך הבחירה באילו ניסויים לערוך שולטת באילו עובדות מתגלות.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation is accurate and maintains the meaning of the source text without any errors."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.","כמה עובדות, למשל על חלקיקים תת-אטומיים, יכולות לנבוע רק מניסויים שאפשריים רק בקפיטליזם, משום שהם דורשים יותר מדי משאבים, יותר מדי ארגון, יותר מדי כפייה, כדי להצליח בדרך אחרת.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any noticeable errors."
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,זהו תיאור קצר מאוד של טיעון סביר לפיו תיאוריות של קפיטליזם המשפיעות על התוכן הממשי של המדע עולות בקנה אחד עם תיאוריות הטוענות לקיומם של עובדות מדעיות אובייקטיביות.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+13,Going to be my first project car.,יהיה רכב הפרויקט הראשון שלי.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation ""יהיה רכב הפרויקט הראשון שלי"" translates back to ""will be my first project car,"" which is accurate. However, the original English phrase ""Going to be my first project car"" implies a future intention or plan, which is not fully captured in the Hebrew translation. The Hebrew translation lacks the nuance of the future intention conveyed by ""Going to be.""
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+14,Picking this up this weekend.,אאסוף את זה בסוף השבוע.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The source text ""Picking this up this weekend"" implies a future action, whereas the translation ""אאסוף את זה בסוף השבוע"" translates to ""I will collect it this weekend,"" which may not fully capture the nuance of ""picking up"" as it could imply a different context or action.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+16,Already on coil overs and lowered ride height.,כבר על קוילאוברים והנמכת גובה נסיעה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The term ""coil overs"" is a specific automotive term that might not be accurately conveyed in Hebrew without additional context or a more precise translation.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: [inappropriate for context] - The term ""קוילאוברים"" might not be the best choice for ""coil overs"" in Hebrew if a more precise automotive term exists.
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+20,#Venting into the Fediverse time.,#משחרר קיטור לפדיברס זמן.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The phrase ""Venting into the Fediverse time"" is mistranslated. The Hebrew translation does not convey the intended meaning of the original English text, which likely refers to expressing thoughts or feelings on the Fediverse platform.
+[Major]: [omission] - The translation omits the context or nuance of ""time"" in the original phrase, which could imply a specific moment or period for venting.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [awkward] - The translation is awkward and does not flow naturally in Hebrew.
+[Minor]: [punctuation] - The use of the period at the end of the Hebrew sentence may not be necessary, depending on the intended style.
+
+Locale Convention Errors
+[Critical]: [name] - None
+[Major]: [name] - None
+[Minor]: [name] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - The translation is awkward and does not capture the informal or colloquial style that might be present in the original English phrase.
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inappropriate for context] - The term ""Fediverse"" might require a more contextually appropriate translation or explanation in Hebrew, as it is a specific term related to decentralized social networks.
+[Minor]: [inconsistent use] - None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,בן הזוג ואני הלכנו לחנות המשקאות הערב לקנות כמה בירות ובקבוק שמפניה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The term ""bub"" was mistranslated as ""שמפניה"" (champagne) instead of being left as ""בוב"" or interpreted correctly based on context.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","כשהלכנו לשלם, הקופאית היא אישה טרנסג'נדרית די ברורה.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""is a fairly obvious"" in the source suggests a current observation, but the translation ""היא אישה טרנסג'נדרית די ברורה"" does not fully capture the nuance of ""fairly obvious"" as an observation made at the time of checking out.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+27,And I said her nails looked cool.,ואמרתי שהציפורניים שלה נראות מגניבות.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,החיוך של ההקלה על פניה היה תחושה נהדרת אבל העובדה שהיא הייתה מפוחדת קודם פשוט חרא ואני שונא את זה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [register] - The use of ""חרא"" (crude term for ""sucks"") may be considered inappropriate or too informal depending on the context and audience.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+33,It takes the state's governor.,זה לוקח את מושל המדינה.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation ""זה לוקח את מושל המדינה"" means ""It takes the governor of the state,"" which is a mistranslation of the original sentence. The intended meaning is unclear in Hebrew.
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [grammar] - The sentence structure in Hebrew is awkward and does not convey a clear meaning.
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [awkward] - The translation is awkward and does not flow naturally in Hebrew.
+[Minor]: [error/error_subcategory] - None
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Non-Translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+No-Error
+[Critical]: None
+[Major]: None
+[Minor]: None"
+38,"In this work, based on a variant of the classical Lewis (1969) signaling model, we explore the conditions for the emergence of context-dependent communication in a situated scenario.","בעבודה זו, המבוססת על גרסה של מודל האיתות הקלאסי של לואיס (1969), אנו בוחנים את התנאים להופעת תקשורת התלויה בהקשר בתרחיש ממוקם.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","במקביל, אנו חוקרים את התנאים הסביבתיים והיכולות הקוגניטיביות המאפשרים הבהרת הקשר של משמעויות סמלים.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""contextual disambiguation of symbol meanings"" is mistranslated as ""הבהרת הקשר של משמעויות סמלים,"" which does not accurately convey the intended meaning of resolving ambiguities in the context of symbol meanings.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+41,"We show that environmental constraints on the receiver's referent choice can be unilaterally exploited by the sender, without disambiguation capabilities on the receiver's end.","אנו מראים כי מגבלות סביבתיות על בחירת המושא של המקבל יכולות להיות מנוצלות באופן חד-צדדי על ידי השולח, ללא יכולות הבהרה מצד המקבל.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+46,"Ashanti Development has been working with an ever-expanding number of communities in the Ashanti region of Ghana for approaching 20 years, engaging with communities and providing support with water and sanitation, education, healthcare, tree planting and farming.","ארגון פיתוח אשנטי עובד עם מספר הולך וגדל של קהילות באזור אשנטי בגאנה במשך קרוב ל-20 שנה, תוך מעורבות עם הקהילות ומתן תמיכה במים ותברואה, חינוך, בריאות, נטיעת עצים וחקלאות.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+47,Communities gain the knowledge to embed and support their own development.,קהילות רוכשות את הידע לשלב ולתמוך בפיתוח שלהן.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+52,Photos from my visit to Ghana in 2011.,תמונות מהביקור שלי בגאנה ב-2011.,"MQM annotations:
+
+Accuracy Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Fluency Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Locale Convention Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Style Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Terminology Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Non-Translation Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Other Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+55,They won't allow me to tell them the address it's going to and who is shipping it.,הם לא יאפשרו לי להגיד להם לאן זה נשלח ומי שולח את זה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+58,The next morning and I can't get past Chris Licht's disgraceful pretense of public service journalism on CNN last night.,למחרת בבוקר ואני לא יכול להתגבר על ההעמדת הפנים המבישה של כריס ליכט בעיתונות שירות ציבורי ב-CNN אמש.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: mistranslation - The phrase ""get past"" is translated as ""להתגבר על,"" which can imply overcoming something, but in this context, it should convey the idea of not being able to ignore or move beyond something rather than overcoming it.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.","זה היה שערורייה, כמו פסטיבל אנטי-דמוקרטי סמלי של שקרים וטענות מ-6 בינואר, שהתקיים בהרס עצמי על ידי התקשורת האמריקאית.","MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The phrase ""Jan 6"" is mistranslated as ""מ-6 בינואר,"" which implies a date rather than the specific event of January 6th in the context of American politics.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: grammar - The phrase ""זה היה שערורייה"" should be ""זו הייתה שערורייה"" to match the gender of ""שערורייה"" (feminine).
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The translation of ""self-destructively hosted"" as ""שהתקיים בהרס עצמי"" is awkward and could be more naturally expressed in Hebrew.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+60,THE SHAMEFUL AUDIENCE.,הקהל המביש.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The translation ""הקהל המביש"" translates back to ""the embarrassing audience,"" which does not capture the full nuance of ""THE SHAMEFUL AUDIENCE.""
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+61,Licht AGREED to an all Republican audience!,ליכט הסכים לקהל שכולו רפובליקנים!,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The word ""AGREED"" is translated as ""הסכים"", which implies consent or agreement in a different context. The original context seems to imply that Licht was addressing or speaking to an all-Republican audience, not necessarily agreeing with them.
+[Major]: [omission] - None
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [non-translation] - None
+[Major]: [grammar] - None
+[Minor]: [punctuation] - None
+
+Locale Convention Errors
+[Critical]: [name] - None
+[Major]: [date] - None
+[Minor]: [currency] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error"
+63,There's a story to be reported there.,יש שם סיפור לדווח עליו.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+64,The ratings--seeking delusional irresponsibility of it all.,החוסר אחריות ההזייתי לשם הרייטינג של כל זה.,"MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The translation does not accurately convey the meaning of ""delusional irresponsibility"" as it is in the source text.
+[Major]: addition - The phrase ""של כל זה"" (of all this) is an addition not present in the source text.
+[Minor]: omission - The word ""seeking"" is omitted in the translation.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The phrase ""החוסר אחריות ההזייתי לשם הרייטינג"" is awkward and does not flow naturally in Hebrew.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","יש לי מרתף עם הרבה טיוטות, מה שבעצם אומר שאני יכול לקבל הרבה מכרסמים שמוצאים בו מקלט.","MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The phrase ""very drafty basement"" is mistranslated as ""מרתף עם הרבה טיוטות"" which means ""basement with a lot of drafts"" instead of conveying the idea of a basement that is very drafty or has a lot of drafts.
+[Major]: [mistranslation] - The translation of ""taking refuge"" as ""מוצאים בו מקלט"" is slightly awkward and could be more accurately translated to better fit the context.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [awkward] - The sentence structure in Hebrew is slightly awkward and could be improved for better readability.
+[Minor]: [punctuation] - None
+
+Locale Convention Errors
+[Critical]: [name] - None
+[Major]: [date] - None
+[Minor]: [currency] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - The translation could be smoother to better match the style of the source text.
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Non-translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error: None"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.","לבסוף נמאס לי מהשגרה הזו אתמול בלילה, ניקיתי את כל המלכודות מחמאת בוטנים והדבקתי פיסטוק עליהן עם דבק חזק.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""superglued a pistachio to them"" is translated as ""הדבקתי פיסטוק עליהן עם דבק חזק,"" which is slightly awkward as ""superglued"" implies a specific type of strong adhesive, and the translation could be more precise.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+76,But they also cut grants and tax credits that encourage more business activity.,אבל הם גם קיצצו במענקים ובזיכויי מס שמעודדים פעילות עסקית נוספת.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The translation does not convey the full meaning of ""that encourage more business activity."" The Hebrew translation implies that the grants and tax credits themselves encourage additional business activity, but it does not clearly convey that the cutting of these grants and tax credits is what is being discussed.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+77,"I own a business. It's successful in spite of the provincial government, not because of it.","אני בעל עסק. הוא מצליח למרות הממשלה המחוזית, לא בזכותה.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","זה נכון גם עכשיו כש-goatse.cx איננו, אם כי זו הייתה תחרות צמודה לתחתית בין goatse ובין, נאמר, khou.com, שם ניסיתי לצפות בסרטון שוונדי שלחה לי.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""the Wendy"" is mistranslated as ""שוונדי"" which should be ""ששלחה לי וונדי"" to maintain the correct meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,קנה כמה מדבקות פגוש שהן נגד טראמפ והדבק אותן בכל מקום.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""Get"" as ""קנה"" (buy) instead of ""קבל"" (get) could imply purchasing rather than simply obtaining, which is a slight shift in meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+95,Yell back at those who would try to talk over us.,צעק בחזרה על אלה שינסו לדבר מעלינו.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""talk over us"" is mistranslated as ""לדבר מעלינו,"" which implies a physical position rather than the intended meaning of interrupting or dominating a conversation.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,זה לא מקובל חברתית לצאת בציבור או למהר לאנשים כשאתה משתעל ומפיץ ליחה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""coughing up a mucus storm"" is translated as ""משתעל ומפיץ ליחה,"" which captures the general idea but lacks the vividness and intensity of the original expression.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,אני חוזר. זה לא מקובל חברתית להפיץ את סערת הריר של הקורונה שלך בכל מקום!!!,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any significant issues."
+106,Mio knows that sorrow is life's constant companion.,מיו יודעת שהעצב הוא בן לוויה קבוע של החיים.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","לאחר 4,000 של מצוקה, יל מוצאת את עצמה במקום של אהבה ויש לה רגשות עזים שהיא לא יודעת מה לעשות איתם, אז יש הרבה משניהם.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""4,000 of distress"" is mistranslated. It should convey ""4,000 years of distress"" or similar, as the original lacks a unit of time, but implies a period.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The Hebrew translation could benefit from a comma after ""אהבה"" to improve readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The phrase ""אז יש הרבה משניהם"" is slightly awkward in Hebrew and could be rephrased for smoother flow.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,הפיאסקו של אתמול עם #מנגו_אידיוט היה פיאסקו מזעזע.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+111,"Which cable news ""executive"" made the call to give the fat, lying criminal this much air-time?","איזה ""מנהל"" חדשות בכבלים קיבל את ההחלטה לתת לפושע השמן והשקרן כל כך הרבה זמן שידור?","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The use of quotation marks around ""מנהל"" is inconsistent with the source text, which uses them around ""executive"". However, this does not disrupt comprehension.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: no-error"
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","כשהמכונית משתנה, כך גם ארני, שהביטחון החדש שלו הופך ליהירות מאחורי ההגה של יופיו האקזוטי.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""his exotic beauty"" is mistranslated to ""יופיו האקזוטי"" which implies ""his exotic beauty"" as if referring to Arnie's own beauty, rather than the car's beauty.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+118,Codleo is one of the best Salesforce Partner offering best Salesforce services tailored to your company needs.,קודלאו היא אחת השותפות הטובות ביותר של Salesforce המציעה את שירותי Salesforce הטובים ביותר המותאמים לצרכי החברה שלך.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,אחד החלקים המטורפים ביותר בכך שהשכנים שלי הפכו נגדי הוא לחשוב על כמה מאמץ זה דורש להיות עוין.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+124,"Forget me, fine.","שכח אותי, בסדר.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""fine"" in the source can imply ""it's okay"" or ""no problem,"" but the translation ""בסדר"" might not fully capture the intended nuance of reassurance or acceptance in this context.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+125,"Ignore me, fine.","התעלם ממני, בסדר.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The translation could benefit from a space after the comma for better readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+129,Slamming a door in my face takes effort.,לטרוק דלת בפרצופי דורש מאמץ.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+133,That vessel is off-limits.,הכלי הזה אסור לגישה.,"MQM annotations:
+
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The term ""vessel"" in the context of ""off-limits"" could imply a ship or a container, but the translation uses ""הכלי"" which generally means ""tool"" or ""instrument,"" potentially leading to a slight misunderstanding of the intended meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+137,But another individual often flies aboard that ship.,אבל אדם נוסף לעיתים קרובות טס על הספינה ההיא.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""aboard"" is missing, which could be translated as ""על סיפון"" to convey the correct meaning of being on board the ship.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+138,If he were to die... the consequences would be... significant.,אם הוא היה מת... ההשלכות היו... משמעותיות.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"הנה קורס התרסקות (קצת יותר ארוך מאורך ציוץ) למה שאני מתכוון ב""הפיכת אבא"":","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+142,The Last of Us is an easy and canonical example of dad-ification.,האחרונים שבינינו הוא דוגמה פשוטה וקנונית להפיכת דמות אב.,"MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The term ""The Last of Us"" is mistranslated as ""האחרונים שבינינו"" which is not the correct title of the game/show in Hebrew.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The phrase ""הפיכת דמות אב"" is awkward and does not convey the intended meaning of ""dad-ification"" smoothly.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error
+[Critical]: None
+[Major]: None
+[Minor]: None"
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.",הפיכת האב לשלטון שוחקת את האפשרות לפתרונות קהילתיים ולעיתים קרובות מתעלמת לחלוטין או מחלישה כל סוכנות שיש לילד.,"MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The phrase ""Dad-ification"" is mistranslated as ""הפיכת האב לשלטון"" which means ""turning the father into a government/rule,"" losing the original meaning related to the cultural or social concept of ""Dad-ification.""
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: grammar - The phrase ""כל סוכנות שיש לילד"" could be more fluently translated to ""כל יכולת פעולה שיש לילד"" to better convey the idea of ""agency"" in Hebrew.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The translation of ""Dad-ification"" as ""הפיכת האב לשלטון"" is awkward and does not capture the nuanced cultural meaning.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+146,"In this way, Dad-ification is a stand in for a lot of neoliberal ideals; especially ideas like bootstrapping and self-sufficiency as being an ultimate goal/indicator for success.","בדרך זו, הפיכת אבא היא תחליף להרבה אידיאלים ניאו-ליברליים; במיוחד רעיונות כמו הסתמכות עצמית והיכולת להצליח בכוחות עצמך כיעד/מדד להצלחה.","MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The term ""Dad-ification"" is mistranslated as ""הפיכת אבא,"" which does not convey the original meaning related to cultural or social phenomena. It is crucial for understanding the text.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The use of the semicolon (;) in Hebrew is less common and might be replaced with a comma or a different punctuation mark for better fluency.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The phrase ""היכולת להצליח בכוחות עצמך"" is slightly awkward and could be rephrased for smoother reading.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: inappropriate for context - The translation of ""bootstrapping"" is omitted, which is a key term in the context of neoliberal ideals.
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error
+[Critical]: None
+[Major]: None
+[Minor]: None"
+148,- We send out notifications when airfare goes on sale.,אנו שולחים התראות כאשר מחירי הטיסות יורדים.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""goes on sale"" is mistranslated as ""יורדים"" which means ""go down"" instead of indicating a sale or discount.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+150,"- We don't sell tickets, or charge a subscription.",- אנחנו לא מוכרים כרטיסים או גובים מנוי.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [accuracy/mistranslation] - The Hebrew translation of ""charge a subscription"" as ""גובים מנוי"" is incorrect. The correct translation should convey the idea of charging a fee for a subscription, which is not accurately captured here.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+154,"Yet, unimaginable fear, terror and displacement have left them with the invisible scar of trauma.","ובכל זאת, פחד בלתי נתפס, אימה ועקירה הותירו בהם את הצלקת הבלתי נראית של הטראומה.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+159,Over time dart became my go-to for quick UI.,עם הזמן דארט הפך להיות הבחירה שלי ל-UI מהיר.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""go-to"" as ""הבחירה שלי"" is slightly inaccurate. A more precise translation could capture the nuance of ""go-to"" as a preferred or default choice for quick UI development.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter זה תענוג לעבוד איתו, ויש להם #mobx לניהול חנויות בקלות.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+161,"The dependency story is less insane than nodejs, too.",סיפור התלות פחות מטורף מאשר ב-nodejs.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The translation of ""nodejs"" should have been kept in its original form as it is a proper noun and a specific technology name.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The translation uses a hyphen before ""nodejs,"" which is unnecessary in this context.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+162,"Of course flutter sucks really bad when it comes to behaving like a good native app would (anywhere, really. Even flutter web target sucks).","כמובן שפלאטר גרוע מאוד בכל הנוגע להתנהגות כמו אפליקציה מקורית טובה (בכל מקום, באמת. אפילו היעד של פלאטר ווב גרוע).","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""flutter sucks really bad"" is translated as ""פלאטר גרוע מאוד"", which is a slightly softened version. A more direct translation would be ""פלאטר ממש גרוע"".
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The use of parentheses in the translation is slightly awkward and could be improved for better readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The structure of the sentence in Hebrew could be smoother for better readability.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+182,Because it happens in the mind and seems less tangible than physical health.,מכיוון שזה קורה במחשבה ונראה פחות מוחשי מאשר בריאות פיזית.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","באותו אופן שבו בריאות הנפש נתפסת כפחות ""אמיתית"" מבריאות הגוף על ידי רבים, אני מרגיש שבמידה מסוימת להיות טרנס זה כמו להיות אינטרסקס של הנפש.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""I kind of feel"" is translated as ""אני מרגיש שבמידה מסוימת"" which is more definitive than the original, potentially altering the nuance of the statement.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The translation uses a comma instead of a period, which slightly affects the flow of the sentence.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The phrase ""כמו להיות אינטרסקס של הנפש"" might sound awkward in Hebrew due to the direct translation of ""intersex of the mind,"" which is not a common expression.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+188,"I feel that to be trans is to be ""biologically non-binary"".","אני מרגיש שלהיות טרנס זה להיות ""ביולוגית לא בינארי"".","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The Hebrew translation uses ""מרגיש"" (feel) which is masculine, while the source does not specify gender. A more neutral term like ""מרגיש/ה"" could be used to match the non-binary context.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+198,"(And also: The Web is now largely a Google thing, unfortunately)","(וגם: הרשת היא עכשיו בעיקר דבר של גוגל, למרבה הצער)","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,"בנוסף, אנא הימנע מלספר לי שאפליקציות של גוגל/פלאטר גרועות ב-iOS וב-macOS.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error"
+200,Cross platform is hard if you want to do it well.,פלטפורמות חוצות זה קשה אם אתה רוצה לעשות את זה טוב.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+202,Thank you to those people who have downloaded the latest update to Leasey.,תודה לאנשים שהורידו את העדכון האחרון ל-Leasey.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: omission - The translation omits the word ""people,"" which is present in the source text.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The period at the end of the sentence is missing in the translation.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+203,A few very small difficulties have come to light.,כמה קשיים קטנים מאוד התגלו.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The word ""very"" is omitted in the translation, changing the emphasis of the original sentence.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,אני לא יודע בדיוק למה המוח שלי לא מצליח להבין את זה; יכול להיות שהכלים פשוט כל כך רחבים ומעורפלים שהמוח שלי פשוט נתקע בגלל 'יותר מדי אפשרויות'.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""hardlocks"" is translated as ""נתקע,"" which may not fully capture the nuance of ""hardlock,"" suggesting a more severe or technical failure than just getting stuck.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+211,Grafana looks pretty.,גרפנה נראית יפה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+218,...And that's how I found myself having to sort out a raid group roster.,...וכך מצאתי את עצמי צריך לסדר רשימת קבוצה לפשיטה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+220,"Then, life crushed my soul and I lost all my passion for fiction and great storytelling.","ואז, החיים ריסקו את נשמתי ואיבדתי את כל התשוקה שלי לסיפורת ולסיפור סיפורים גדולים.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The comma after ""ואז"" is unnecessary in Hebrew.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+222,I'm now on book # 31 and it's only May.,אני עכשיו בספר מספר 31 ורק מאי.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""and it's only May"" is mistranslated. The translation ""ורק מאי"" does not convey the intended meaning that the speaker has already read 31 books by May.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - There should be a space after the period in the translation.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+224,I haven't really achieved anything.,לא באמת השגתי שום דבר.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,תנו להם לשקם את הערים החלולות והמתפוררות ברחבי המדינה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The word ""hollowed out"" is not accurately translated into Hebrew. The translation uses ""חלולות,"" which means ""hollow"" or ""empty,"" but does not convey the full meaning of ""hollowed out"" in the context of cities being depleted or stripped of resources.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+233,Deport the white supremacists.,לגרש את העליונות הלבנה.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation incorrectly translates ""white supremacists"" as ""העליונות הלבנה"" which means ""the white supremacy"" instead of referring to the individuals, ""white supremacists.""
+[Major]: [omission] - None
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [non-translation] - None
+[Major]: [grammar] - None
+[Minor]: [punctuation] - None
+
+Locale Convention Errors
+[Critical]: [name] - None
+[Major]: [date] - None
+[Minor]: [currency] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error: None"
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""","נמאס לי מהכותרות שטוענות ש""עבודה מרחוק מתה."" או ש""עבודה מרחוק הייתה ניסוי כושל.""","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The period should be outside the quotation marks in Hebrew, similar to English.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,"הכל קליקבייט, אבל זה מדאיג אותי לגבי המנהלים והבכירים שקוראים את המאמרים האלה.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,זה מאפשר לאנשים להימנע מנסיעות ארוכות שגוזלות זמן מהיום שלהם ומהמשפחות שלהם.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+243,To just ignore these facts is wrong.,להתעלם מהעובדות הללו זה לא נכון.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [accuracy/addition] - The translation includes an implicit subject ""to"" which is not explicitly present in the source. However, this is a common and acceptable translation practice in Hebrew, so it does not disrupt comprehension.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",פארקר התייחסה להפלות ולנטייתן של נשים עירוניות מודרניות לדחות את הבאת הילדים לטובת הקריירה שלהן.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The source text mentions ""abortion"" in singular form, but the translation uses ""הפלות"" which is plural. This is a minor mistranslation as it does not significantly alter the meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,הוא גם טוען כי המפלגה הדמוקרטית החדשה והפרוגרסיבים רוצים לדלל את האוכלוסייה למען איכות הסביבה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The translation of ""NDP"" as ""המפלגה הדמוקרטית החדשה"" is incorrect. ""NDP"" refers to the ""New Democratic Party,"" which may not be directly translatable and should be kept as ""NDP"" or appropriately localized if there is a recognized equivalent in Hebrew.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,"בכל פעם שמאי היה מגיע, חששתי לנסות לחגוג את יום ההולדת שלי.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""May"" as ""מאי"" could be ambiguous, as it might be interpreted as a person's name rather than the month of May.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+254,I fought over the years to get out of that mindset and to have better bdays.,נאבקתי במשך השנים כדי לצאת מהלך הרוח הזה ולחגוג ימי הולדת טובים יותר.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""bdays"" is translated to ""ימי הולדת"" which means ""birthdays"" in Hebrew. While this is a correct translation, ""bdays"" is an informal abbreviation, and the translation does not capture this informality.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,האם אתה יודע על דרך יעילה עבור רכיב אינטרנט להגיב להוספה/הסרה ממסמך?,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The term ""performant"" is not accurately translated. The translation uses ""יעילה"" which means ""efficient,"" but ""performant"" implies both efficiency and high performance.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: [grammar] - The translation uses ""האם אתה יודע"" which is a grammatically correct form, but it is more formal and less common in conversational Hebrew. A more natural phrasing could be used.
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: [awkward] - The phrase ""עבור רכיב אינטרנט"" is somewhat awkward and could be more naturally phrased as ""לרכיב אינטרנט"".
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+268,We currently use a MutationObserver hack.,אנו משתמשים כעת בהאק של MutationObserver.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+285,Last week got a ton done and feeling much better about field items.,בשבוע שעבר הספקתי המון ומרגיש הרבה יותר טוב לגבי הפריטים בשטח.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","בנוסף צריך לזרוע שורת סלט שם כדי לשלב ירקות חתוכים בשני המקומות יש צוות מאומן על השקיה, הכנת ערוגות, והשתלה שזה 90% מהמיומנויות שאינן קציר.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""to integrate cut greens in both"" is mistranslated, leading to confusion about what ""both"" refers to.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - There is a missing comma after ""שני המקומות"" which could improve readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The translation of ""שזה 90% מהמיומנויות שאינן קציר"" could be phrased more naturally in Hebrew.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+290,It's 2023 and I still see people with iPhones actively avoid using Apple Maps.,זה 2023 ואני עדיין רואה אנשים עם אייפונים נמנעים באופן פעיל משימוש באפל מפות.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""Apple Maps"" should be translated to ""מפות של אפל"" to maintain consistency with the brand name usage in Hebrew.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","סקרן, שמרתי על ראש פתוח כדי להשוות כיצד גוגל מפות ואפל מפות משווים, על מכשיר האייפון שלי לבדיקה (המכשיר היומי שלי הוא מכשיר אנדרואיד, כך שזה נדיר שאני משתמש באייפון).","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""my daily driver is an Android device"" is mistranslated as ""המכשיר היומי שלי הוא מכשיר אנדרואיד,"" which might be interpreted as ""my daily device is an Android device,"" missing the nuance of ""daily driver"" as the primary device used regularly.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The comma after ""סקרן"" (Curious) is unnecessary in Hebrew and affects the natural flow of the sentence.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The phrase ""כיצד גוגל מפות ואפל מפות משווים"" (how Google Maps and Apple Maps compare) is slightly awkward in Hebrew and could be rephrased for better fluency.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,החוויה של הצורך לעקוב אחר הוראות הייתה הרבה יותר טובה ב-Apple Maps בהשוואה ל-Google Maps.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+298,Could it be that Google Maps got to market first?,האם ייתכן ש-Google Maps הגיע לשוק ראשון?,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","אני נוטה לטובת אי שחרור זבל למשתמשי הקצה, ואפל פישלו בגדול עם אפל מפות כשהיא יצאה ב-2012.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""royally fucked up"" is a strong expression in English that conveys a significant level of failure or mistake. The translation ""פישלו בגדול"" is a softer expression in Hebrew and does not fully capture the intensity of the original phrase.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The original English sentence contains a comma after ""end users,"" which is missing in the Hebrew translation after ""למשתמשי הקצה"".
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,אבל זו האדמה שהופכת אותה לשומרת טובה של עושר כל עוד אתה חושב שהממשלה לא עומדת לשנות את המערכת שבה אנחנו חיים.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+307,A lot of ppl think that they literally own the earth when they buy a piece.,הרבה אנשים חושבים שהם ממש בעלים של כדור הארץ כשהם קונים חלק ממנו.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The term ""ppl"" was translated as ""אנשים"" (people), which is correct, but the informal tone of ""ppl"" is lost in translation.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The translation is slightly more formal than the source text, which uses informal language (""ppl"").
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+312,The land is temporary.,הארץ היא זמנית.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,האדמה נלקחת בקלות ובמהירות על ידי הממשלה ביום אחד אם הם רוצים לעשות זאת.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+317,It has to be taken away one day.,זה צריך להילקח יום אחד.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""one day"" in the source implies a future necessity or inevitability, but the translation ""יום אחד"" can be interpreted as any day, lacking the sense of future necessity.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+318,That's why the Chinese only allow leases.,לכן הסינים מאפשרים רק חכירות.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation of ""allow"" as ""מאפשרים"" is incorrect in this context. It should convey the sense of ""only allow"" which implies restriction, not just permission.
+[Major]: [omission] - The translation does not convey the emphasis of ""That's why"" which provides a reason or explanation for the statement.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+319,They already ran out of land.,הם כבר נגמרו מהקרקע.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation ""הם כבר נגמרו מהקרקע"" suggests that ""they"" are the ones running out, rather than the land. The correct translation should convey that the land has run out, not the people.
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [grammar] - The phrase ""נגמרו מהקרקע"" is awkward and not grammatically correct in Hebrew. A more natural phrasing is needed.
+[Minor]: [error/error_subcategory] - None
+
+Locale Convention
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style
+[Critical]: [error/error_subcategory] - None
+[Major]: [awkward] - The translation is awkward and does not flow well in Hebrew.
+[Minor]: [error/error_subcategory] - None
+
+Terminology
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None"
+320,"To success, the realization of dreams, friendship, to the simple but true!!","להצלחה, להגשמת חלומות, לחברות, לפשוט אך האמיתי!!","MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The phrase ""To success, the realization of dreams, friendship, to the simple but true"" is not accurately translated into Hebrew, leading to confusion about the intended meaning.
+[Major]: omission - The translation omits the context or action implied by the phrase ""To success,"" which could imply a call to action or a toast.
+[Minor]: addition - None
+
+Fluency Errors
+[Critical]: None
+[Major]: grammar - The Hebrew translation lacks a clear grammatical structure, making it difficult to understand the intended message.
+[Minor]: punctuation - The use of exclamation marks in both the source and translation may not align with the intended tone.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The translation feels awkward and does not flow naturally in Hebrew.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.","לכל המשקיעים שם בחוץ, אני מרים כוסית להצלחתכם ולהגשמת חלומותיכם.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+323,"And to all my friends, new and old, let us cherish the simple but true things in life that bring us joy and fulfillment.","ולכל חבריי, חדשים וותיקים, נשמור על הדברים הפשוטים אך האמיתיים בחיים שמביאים לנו שמחה וסיפוק.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,אני לעיתים קרובות תוהה על היכולת האנושית להיות *כל כך* קשה עם עצמנו בעודנו מוצפים בכל כך הרבה ראיות למה אכזריות אמיתית נראית.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""down on oneself"" is translated as ""קשה עם עצמנו"" which can be interpreted as ""hard on oneself"" but might not fully capture the nuance of being overly self-critical.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,אבל להרגיע את הייאוש מהבלגן שלנו זה קריטי - כי זה נותן לנו יותר מרחב להתמודד עם ההריסות שמסביב.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+331,"Some programmers: ""Typing speed does not matter!""","חלק מהמתכנתים: ""מהירות הקלדה לא משנה!""","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+339,It is definitely more romance than filth.,זה בהחלט יותר רומנטיקה מאשר זוהמה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+342,I don't agree that #Mastodon is difficult to setup.,אני לא מסכים ש-#Mastodon קשה להתקנה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+343,"Common, it's really not that hard.",זה באמת לא כל כך קשה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [accuracy/omission] - The word ""Common"" is omitted in the translation, which could affect the intended meaning.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+347,If you stick to the default web interface it doesn't look and feel good (imho).,אם תדבק בממשק האינטרנט המוגדר כברירת מחדל זה לא נראה ומרגיש טוב (לדעתי).,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The use of parentheses around ""לדעתי"" (imho) is correct, but it could be considered a minor stylistic choice.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.","אז, זה דורש קצת יותר מאמץ להיכנס לזה ואתה כנראה צריך אפליקציה טובה כדי לשפר את #UX.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The hashtag #UX is not translated or adapted to Hebrew, which might be a stylistic choice but could also be considered a minor mistranslation if the context requires localization.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+353,Forecasting: anticipating harms before they happen (even if by minutes),חיזוי: צפי לנזקים לפני שהם מתרחשים (אפילו אם זה בדקות).,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The word ""Forecasting"" is translated as ""חיזוי"", which is correct, but ""anticipating"" is translated as ""צפי"", which is not the most accurate translation. A more accurate translation could be ""חיזוי"" or ""ציפייה"".
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The period at the end of the sentence should be inside the parentheses in Hebrew punctuation style.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The phrase ""אפילו אם זה בדקות"" sounds slightly awkward in Hebrew. A more natural phrasing might be ""אפילו אם מדובר בדקות"".
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,אני מתאמן לבד בחדר השינה שלי בלי שותף או אפילו מתקן משקולות.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The term ""weight rack"" is translated as ""מתקן משקולות,"" which can be understood as ""weight equipment"" or ""weight apparatus,"" but it might not specifically convey the meaning of a ""weight rack"" used for storing weights.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+370,Just me and a barbell with a bunch of weights.,רק אני ומוט משקולות עם ערימה של משקולות.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""a bunch of weights"" to ""ערימה של משקולות"" could be considered slightly awkward, as ""ערימה"" typically means ""pile"" or ""stack,"" which might not be the most natural choice in this context.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.","אם אנסה לחשב את המשקל המקסימלי שאני יכול להרים בחזרה אחת, ייתכן שלא יהיו לי מספיק משקולות כדי להגיע למקסימום, או לחלופין זה עלול לפצוע אותי קשה/להרוג אותי.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,מעולם לא ראיתי אמא של מישהו מכינה את זה או שזה נדחף אליי במסיבה או שראיתי את זה מופיע יחד עם הרפתקאות הכנת רטבים של מישהו או ימי אפייה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any noticeable errors."
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","לאחר שעברנו רדיקליזציה כאן, אנחנו מהססים לקנות מכונת FAANG חדשה.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The term ""radicalized"" is mistranslated. In the context, ""radicalized"" should refer to a change in perspective or ideology, but the translation may not convey the intended nuance.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The asterisk (*) indicating a footnote or additional information is missing in the translation.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+389,So was it Epic that originated this?,אז האם זה היה אפיק שהתחיל את זה?,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall: no-error"
+394,Is it so ephemeral then?,האם זה כל כך חולף אז?,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+395,"Merely a ""catchphrase"" with no clear originator?","רק ""סיסמה"" ללא מחבר ברור?","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+399,Have now done a full round trip on the new ICNG train.,כעת עשיתי נסיעה הלוך ושוב מלאה על רכבת ה-ICNG החדשה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+402,There's areas that could use some polish.,ישנם תחומים שיכולים להיעזר בליטוש.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The English phrase ""There's areas"" should be translated to ""יש אזורים"" instead of ""ישנם תחומים"" to accurately reflect the meaning of ""areas"" rather than ""fields"" or ""domains.""
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.","כלומר, היעדר מספיק פחים והיעדר שלטים שמסבירים את משמעות צבעי התאורה.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The translation does not include a period at the end of the sentence, which is present in the source text.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+404,"Fix those minor issues, and then can we have more of these please?","תקן את הבעיות הקטנות האלה, ואז נוכל לקבל עוד כאלה בבקשה?","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The translation uses the singular form ""תקן"" (fix) which implies addressing a single person, whereas the source text uses ""Fix"" which could imply addressing multiple people or a formal request. This could disrupt the flow if the context requires addressing a group or formal tone.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The question mark should be placed at the end of the sentence in Hebrew, but the current placement is acceptable in informal contexts.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,כללים של אחד ללקוח נשארים בתוקף כשאנו מנסים להבטיח שכל מי שעומד בתור יוכל להשיג לוח.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""get their hands on a board"" is translated literally as ""להשיג לוח"" which might not convey the intended meaning of obtaining a specific item (such as a product or a ticket) in Hebrew.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+407,"You can buy ONE of the boards listed above, not one of each.","אתה יכול לקנות לוח אחד מהרשומים למעלה, לא אחד מכל אחד.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The translation ""לא אחד מכל אחד"" is slightly misleading and can be interpreted as ""not one from each one,"" which might confuse the reader. A clearer translation would be ""לא אחד מכל לוח"" to convey the intended meaning.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+409,Yesterday I had the best time with my friend and former rabbi colleague.,אתמול היה לי הזמן הכי טוב עם חברי ועמיתי לשעבר הרב.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""former rabbi colleague"" is mistranslated. The translation implies that the person is a ""former rabbi"" rather than a ""former colleague who is a rabbi.""
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+419,#FalconGameBooks,#פלקוןספרי־משחק,"MQM annotations:
+Accuracy Errors
+[Critical]: [non-translation] - The hashtag ""#FalconGameBooksTranslated"" was not translated into Hebrew, which may lead to a lack of understanding for Hebrew speakers.
+[Major]: [mistranslation] - The translation of ""GameBooks"" as ""ספרי־משחק"" may not fully convey the intended meaning of ""game books"" in the context of interactive or role-playing books.
+[Minor]: [omission] - None
+
+Fluency Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [punctuation] - The use of the hyphen in ""פלקוןספרי־משחק"" is unconventional and may affect readability.
+
+Locale Convention Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Style Errors
+[Critical]: [None] - None
+[Major]: [awkward] - The structure ""פלקוןספרי־משחק"" is awkward and does not follow typical Hebrew naming conventions.
+[Minor]: [None] - None
+
+Terminology Errors
+[Critical]: [None] - None
+[Major]: [inappropriate for context] - The term ""ספרי־משחק"" might not accurately capture the concept of ""game books"" as understood in English.
+[Minor]: [None] - None
+
+Other Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+No-error: None"
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","בעלי שמונה העיניים נראים כצופים בך כשאתה מנחית את המעופף על האדמה האדומה, אך הם אינם נעים לעברך, למעשה הם חסרי תנועה כשאתה יוצא מהמעופף וצועד לאט לעברם.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The term ""Repnids"" is not translated and should be transliterated or explained in Hebrew to maintain accuracy.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+422,The rock beneath you gives way suddenly.,הסלע שמתחתיך מתמוטט פתאום.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","הסוף מהיר, כאשר מספר זוגות של ניבים מזריקים את הארס הקטלני שלהם והאוויר של דיסקרה מזהם את ריאותיך.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+425,Nobody will ever know that you were the first human future traveller.,אף אחד לעולם לא ידע שהיית האדם הראשון שנסע לעתיד.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""future traveller"" is translated as ""שנסע לעתיד,"" which means ""traveled to the future."" A more accurate translation would maintain the concept of ""future traveller"" as a title or role, rather than the act of traveling.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.","בעלי שמונה העיניים נראים כמתבוננים, אך הם אינם נעים לעברך, למעשה הם חסרי תנועה כשאתה הולך לאט לעברם.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The term ""Repnids"" is not translated, which might be a specific name or term that should be retained in the translation.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+428,"You halt while still on the mound of crumbled rock and soil and speak to them, saying, 'I come in peace, as a friend.'","אתה עוצר בעודך על תל האבנים והאדמה המתפוררים ומדבר אליהם, ואומר, 'אני בא בשלום, כחבר.'","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.","נראה שהם לא יכולים לשמוע אותך, לא כל שכן להבין, שכן המתרגם האוניברסלי שלך לא קולט תשובה.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,אני מתכנן לערבב את זה עם כותנה משובחת בצבע סגול/לילך מגוונת.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The term ""fine"" in ""fine purple/lilac variegated cotton"" could be misinterpreted. In the context, ""fine"" refers to the quality of the cotton, but the translation might not clearly convey this nuance.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+441,But am not sure I have enough of the purple.,אבל אני לא בטוח שיש לי מספיק מהסגול.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation does not convey the nuance of ""enough of the purple,"" which implies a specific quantity or amount of something purple, potentially leading to a slight misunderstanding.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+446,I have literally tried and dropped EVERY SINGLE ONE.,ניסיתי והפסקתי עם כל אחד ואחד מהם.,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The word ""literally"" is omitted in the translation, which changes the emphasis and meaning of the sentence.
+[Major]: [omission] - The emphasis on ""EVERY SINGLE ONE"" is not fully captured in the translation, which affects the intensity of the statement.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [fluency] - None
+[Major]: [grammar] - None
+[Minor]: [punctuation] - The translation could benefit from a comma for better readability.
+
+Locale Convention Errors
+[Critical]: [locale convention] - None
+[Major]: [locale convention] - None
+[Minor]: [locale convention] - None
+
+Style Errors
+[Critical]: [style] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [terminology] - None
+[Major]: [inappropriate for context] - None
+[Minor]: [inappropriate for context] - None
+
+Non-translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error: None"
+447,"And up until like two years ago, I had no idea until I checked my transcripts.","ועד לפני בערך שנתיים, לא היה לי מושג עד שבדקתי את התמלילים שלי.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The word ""transcripts"" is mistranslated as ""התמלילים"" which means ""the transcripts"" in the context of written records of spoken language, such as court transcripts, rather than academic records, which would be ""גיליונות ציונים"" or ""תעודות"".
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.","זה מרגש, מלחיץ, מתוח, וכל הדברים הטובים שאני אוהב בעבודה במשחקים.","MQM annotations:
+Accuracy Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [mistranslation] - The word ""stressful"" is mistranslated as ""מתוח"" (tense), which does not fully capture the meaning of ""stressful.""
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [punctuation] - The translation uses a comma before ""וכל הדברים הטובים,"" which is not necessary in Hebrew.
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [awkward] - The phrase ""וכל הדברים הטובים שאני אוהב בעבודה במשחקים"" could be phrased more naturally in Hebrew.
+[Minor]: [error/error_subcategory] - None
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Non-Translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+No-error: None"
+463,Came home on my lunch break to see this sitting outside uwu.,חזרתי הביתה בהפסקת הצהריים שלי וראיתי את זה יושב בחוץ uwu.,"MQM annotations:
+Accuracy Errors
+[Critical]: [untranslated text] - The term ""uwu"" is not translated or explained, which may confuse readers unfamiliar with internet slang.
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [punctuation] - The period at the end of the sentence is missing.
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [awkward] - The use of ""uwu"" may be considered awkward in Hebrew if the target audience is not familiar with this expression.
+[Minor]: [error/error_subcategory] - None
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None"
+475,Had a recent graduate artist take some critique badly tonight.,היה לי אמן שסיים לאחרונה את לימודיו שלקח ביקורת בצורה קשה הערב.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""recent graduate artist"" is translated to ""אמן שסיים לאחרונה את לימודיו,"" which is accurate. However, the structure of the sentence could be slightly adjusted for better flow.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The sentence structure in Hebrew feels slightly awkward and could be rephrased for improved fluency.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+482,"So while composting and bloom scrolling are a wonderful reminder to look up, and be aware of life beyond the screen.",אז בזמן שקומפוסטינג וגלילת פריחה הם תזכורת נפלאה להרים את המבט ולהיות מודעים לחיים מעבר למסך.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""bloom scrolling"" is mistranslated as ""גלילת פריחה"" which may not convey the intended meaning of the original English term. ""Bloom scrolling"" is a specific concept that might not be directly translatable and could require a more descriptive translation or explanation.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The sentence in Hebrew ends with a period, but the English source text does not have a period at the end. This is a minor punctuation inconsistency.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+483,It is as important to explore servers and IP addresses.,זה חשוב באותה מידה לחקור שרתים וכתובות IP.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [accuracy/omission] - The translation omits the conjunction ""and"" between ""servers"" and ""IP addresses,"" which is present in the source text.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+491,She did not look back.,היא לא הביטה לאחור.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation is accurate and fluent."
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,הוא חיכה עד שהיה בחושך של חדר המיטות לפני שהוציא את הפתק וקרא אותו באלומת אור שחדרה דרך וילונות ההאפלה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+493,One block-printed word.,מילה,"MQM annotations:
+Accuracy Errors
+[Critical]: [omission] - The translation omits ""block-printed,"" which is a critical part of the original text.
+[Major]: [mistranslation] - None
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [untranslated text] - None
+[Major]: [grammar] - None
+[Minor]: [punctuation] - None
+
+Locale Convention Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Style Errors
+[Critical]: [None] - None
+[Major]: [awkward] - None
+[Minor]: [None] - None
+
+Terminology Errors
+[Critical]: [None] - None
+[Major]: [inappropriate for context] - None
+[Minor]: [None] - None
+
+Non-Translation Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Other Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+No-error
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None"
+498,I'd particularly like to connect with more.,אני במיוחד רוצה להתחבר עם יותר.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The translation of ""more"" is incomplete. It lacks context or specificity, making it unclear what ""more"" refers to.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+499,Everyone with their hair on fire about CNN can thank Stephen Colbert for the hard right turn.,כולם עם השיער באש בגלל CNN יכולים להודות לסטיבן קולבר על הפנייה החדה ימינה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""with their hair on fire"" is an idiomatic expression in English that means being in a state of panic or urgency. The translation ""עם השיער באש"" is a literal translation and does not convey the intended idiomatic meaning.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The phrase ""עם השיער באש"" is awkward in Hebrew as it does not convey the idiomatic meaning and sounds unusual.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"

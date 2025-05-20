@@ -1,0 +1,1063 @@
+index,original,translated,accuracy_annotation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",判明したのは、IDirect3D::CreateViewport()を呼び出すと、IDirect3DViewport3が返されると仮定していたことです。これは、IDirect3DViewportと比較して、末尾に追加のメソッドが付加されているもので、私が実装したものです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation suggests that the speaker implemented IDirect3DViewport3, but the source text indicates they implemented IDirect3DViewport.
+[Major]: [accuracy/omission] - The translation omits the detail that IDirect3DViewport3 has additional methods compared to IDirect3DViewport.
+[Minor]: None
+```"
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは普遍的に当てはまるわけではありません。その場合、問題のオブジェクトを作成するために使用しているインターフェースが重要です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""what interface you are using"" is mistranslated as ""使用しているインターフェース"" which implies a general usage rather than the specific context of creating the object in question.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",議論のために、科学が少なくとも一部は世界についての客観的な事実のリストから成り立っており、それらが支持するかもしれない理論とは無関係に真実であると仮定しましょう。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""true apart from any theory they might support"" is mistranslated. The translation implies that the factual statements are true ""regardless of the theories they might support,"" which slightly shifts the meaning from the source text's intent of being true ""independent of any theory.""
+[Major]: [accuracy/omission] - The phrase ""for the sake of argument"" is not fully captured in the translation. The translation uses ""議論のために"" which means ""for the sake of discussion,"" but it misses the nuance of ""argument"" as a hypothetical scenario or assumption.
+[Minor]: [accuracy/addition] - None
+```"
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,たとえそのような事実が科学に存在することが真実であっても、科学的事実は理論に依存していると主張することは依然として可能です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""theory-laden"" is not accurately translated. The translation ""理論に依存している"" means ""dependent on theory,"" which does not fully capture the meaning of ""theory-laden,"" which implies that scientific facts are influenced or shaped by theoretical perspectives.
+[Major]: [accuracy/omission] - The translation does not explicitly convey the possibility of arguing against the existence of scientific facts, which is implied in the source text by ""it's still possible to argue.""
+[Minor]: None
+```"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",この解釈では、実験が事実を生み出すのではなく、どの実験を行うかの選択がどの事実が発見されるかを制御します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""この解釈では"" (on this reading) is a mistranslation. It should be ""この解釈において"" or similar to correctly convey ""on this reading.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",いくつかの事実、例えば素粒子については、資本主義においてのみ可能な実験の結果としてしか得られません。なぜなら、それらの実験は、他の方法では成し遂げることができないほど多くの資源、多くの組織、多くの強制を必要とするからです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""e.g."" (for example), which specifies that subatomic particles are an example of the facts being discussed.
+[Major]: [accuracy/mistranslation] - The translation of ""coercion"" as ""強制"" (coercion) may not fully capture the nuance of the original context, which implies a broader sense of coordinated effort and pressure.
+[Minor]: [accuracy/addition] - None
+```"
+14,Picking this up this weekend.,今週末にこれを受け取ります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""受け取ります"" implies receiving something, which is not the same as ""picking up"" in the source text. The source implies an action of collecting or retrieving, which is not accurately conveyed.
+[Major]: [accuracy/omission] - The translation omits the nuance of ""picking up,"" which suggests an action of going to a place to collect something, rather than just receiving it.
+[Minor]: [accuracy/addition] - None
+```"
+16,Already on coil overs and lowered ride height.,すでに車高調を装着し、車高を下げています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""車高調を装着"" (installed coilovers) does not accurately reflect the source text ""Already on coil overs,"" which implies that the coilovers are already present, not necessarily that they were just installed.
+[Major]: accuracy/omission - The translation omits the concept of ""lowered ride height"" as a separate action or state, which is part of the source text.
+[Minor]: None
+```"
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べましたが、この車について何か情報があれば教えてください。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The phrase ""I've done a little research"" is omitted in the translation, which affects the completeness of the information.
+[Major]: accuracy/mistranslation - None
+[Minor]: accuracy/addition - The translation uses ""教えてください"" (please tell me) which is not present in the source text, but it does not significantly alter the meaning.
+```"
+18,Personal experiences?,個人的な経験？,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""個人的な経験"" does not fully capture the plural form ""experiences"" from the source text ""Personal experiences?"" The Japanese translation suggests a singular experience, which changes the meaning.
+[Major]: [accuracy/omission] - None
+[Minor]: [accuracy/addition] - None
+```"
+19,I know they're not fast compared,比べると速くないことは知っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The source text specifies ""compared,"" which is omitted in the translation. This omission changes the meaning of the sentence.
+[Major]: [accuracy/mistranslation] - The translation ""比べると速くないことは知っています。"" suggests a comparison but does not accurately convey the sense of ""I know they're not fast compared to something else,"" which is implied in the source.
+[Minor]: [accuracy/addition] - None
+```"
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",私、ボードショーツとタンクトップを着て、そしてドメスティックパートナーはタトゥーだらけで、自分で「ネオナチみたいに見える」と言った新しい髪型をしている。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - The term ""wife beater"" is mistranslated as ""タンクトップ"" (tank top), which does not capture the specific connotation of ""wife beater"" in English.
+[Minor]: None
+```"
+36,NY is the best hope for accountability,NYは説明責任を果たすための最良の希望です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation of ""accountability"" as ""説明責任を果たす"" does not fully capture the meaning of ""accountability"" in this context. It should be more about holding entities accountable rather than just fulfilling responsibilities.
+[Major]: [accuracy/addition] - The phrase ""果たすための"" (to fulfill) is an addition that is not present in the source text and alters the intended meaning.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つ信号を送ることに還元できないという重要な証拠があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation does not accurately convey the concept of ""context-independent meaning,"" which is crucial to the source text's message.
+[Major]: [accuracy/omission] - The translation omits the nuance of ""significant evidence,"" which emphasizes the strength of the evidence in the source text.
+[Minor]: [accuracy/addition] - None
+```"
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",文脈依存のコミュニケーションは、状況に応じた多層的な現象であり、文脈の分布などの環境特性に大きく影響されると提案します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""environment properties"" as ""環境特性"" is correct, but the phrase ""such as distribution of contexts"" is not accurately reflected in the translation. The translation ""文脈の分布など"" does not convey the intended meaning of ""such as the distribution of contexts"" which implies the variety and spread of contexts.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒にさまざまなプロジェクトを支援しながら、思い出に残る6か月を過ごすことができて幸運でした。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""fortunate enough to"" which conveys the speaker's sense of gratitude or luck.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会ったとき、特に植樹と農場支援の進展について聞いて嬉しかったです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""to hear about progress"" is omitted, which is important for understanding the context of being pleased.
+[Major]: [accuracy/mistranslation] - The word ""chuffed"" is mistranslated as ""嬉しかったです"" (happy), which does not fully capture the nuance of being particularly pleased or delighted.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+61,Licht AGREED to an all Republican audience!,リヒトは全員が共和党員の観客に同意しました！,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""リヒトは全員が共和党員の観客に同意しました！"" suggests that Licht agreed with the audience, whereas the source text indicates that Licht agreed to have an all-Republican audience. The mistranslation changes the meaning of the sentence.
+[Major]: accuracy/omission - The translation omits the concept of ""agreed to an audience"" as opposed to ""agreed with the audience,"" which is a significant part of the original meaning.
+[Minor]: accuracy/addition - None
+```"
+65,It can't be repeated.,繰り返すことはできません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""繰り返すことはできません"" suggests ""cannot repeat"" in a more general sense, but it does not capture the nuance of ""It can't be repeated"" which implies a specific instance or event that cannot be repeated.
+[Major]: accuracy/addition - None
+[Minor]: accuracy/omission - None
+```"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨晩ついにこのルーティンにうんざりして、すべての罠からピーナッツバターを取り除き、ピスタチオをスーパーボンドで貼り付けました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/mistranslation - The translation of ""superglued"" as ""スーパーボンドで貼り付けました"" is slightly inaccurate. ""スーパーボンド"" is a brand name in Japan, and while it conveys the idea of strong adhesive, it is not a direct translation of ""superglued,"" which specifically refers to using super glue.
+```"
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",参考までに、市場に出回っているほとんどすべての「人道的」な罠を試しましたが、ほとんど成功しませんでした。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""参考までに"" does not accurately convey the meaning of ""fwiw"" (for what it's worth), which is used to indicate that the information might be of interest or value.
+[Major]: [accuracy/omission] - None
+[Minor]: [accuracy/addition] - The translation includes ""市場に出回っている,"" which translates to ""on the market,"" an addition that is not explicitly present in the source text but does not significantly alter the meaning.
+```"
+74,"They aren't, at least not in Alberta.",彼らはそうではありません、少なくともアルバータでは。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""彼らはそうではありません"" (They are not like that) does not accurately reflect the source text ""They aren't,"" which implies a negation without specifying ""like that.""
+[Major]: [accuracy/omission] - The phrase ""at least"" is omitted in the translation, which affects the meaning by not conveying the conditional aspect present in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+75,Sure they cut business taxes.,もちろん、彼らは事業税を削減しました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""削減しました"" implies that the business taxes were already cut, whereas the source text ""Sure they cut business taxes"" does not specify when the taxes were cut, only that they did cut them.
+[Major]: [accuracy/addition] - The word ""もちろん"" (meaning ""of course"" or ""certainly"") is added in the translation, which is not present in the source text and changes the tone of the statement.
+[Minor]: None
+```"
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",「彼をグラスゴーに降ろすだけです」と、私は旅の仲間を指し示しながら説明しようとしました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The phrase ""I'm just dropping him off"" is not fully captured in the translation. The nuance of ""just"" indicating a simple or sole action is omitted.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.",「『彼をグラスゴーに降ろすだけです』なんてあまり聞かないですね」とチケット係が言った。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""『彼をグラスゴーに降ろすだけです』"" does not accurately convey the informal and conversational tone of ""I'm just dropping him off in Glasgow,"" which is important for the context.
+[Major]: [accuracy/omission] - The phrase ""There's not something you hear a lot"" is not fully captured in the translation, which affects the meaning. The translation should reflect the rarity or unusualness of the statement.
+[Minor]: [accuracy/addition] - The addition of ""なんて"" in the translation is unnecessary and does not improve the translation.
+```"
+90,And they are truly nuts.,そして彼らは本当に狂っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""そして彼らは本当に狂っています"" conveys a stronger meaning than ""And they are truly nuts,"" which is more colloquial and less severe. ""狂っています"" translates to ""crazy"" or ""insane,"" which can be perceived as harsher.
+[Major]: [accuracy/addition] - None
+[Minor]: [accuracy/omission] - None
+```"
+95,Yell back at those who would try to talk over us.,私たちの声をかき消そうとする者たちに向かって叫び返せ。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The translation omits ""those who would try to talk over us,"" which is crucial for understanding the source text.
+[Major]: accuracy/mistranslation - The phrase ""叫び返せ"" (shout back) is a mistranslation of ""yell back,"" which implies a more aggressive or forceful response than ""叫び返せ"" conveys.
+[Minor]: accuracy/addition - None
+```"
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,隣人と私は同時に帰宅しましたが、通りの向こうから彼がコロナの痰を激しく咳き込んでいるのが聞こえました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""コロナの痰"" (corona mucus) is a mistranslation of ""covid mucus storm."" The original phrase conveys a more intense and vivid image, which is not fully captured in the translation.
+[Major]: [accuracy/omission] - The phrase ""storm"" is omitted in the translation, which loses the intensity of the coughing described in the source text.
+[Minor]: [accuracy/addition] - None
+```"
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,彼を避けるために急いでアパートに入ったが、それでも彼は追いついてきて話しかけてきた。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The source text specifies ""to chat,"" which is omitted in the translation. This omission affects the understanding of the purpose of the encounter.
+[Major]: accuracy/mistranslation - ""彼を避けるために急いでアパートに入った"" translates to ""I rushed to get into my apartment to avoid him,"" which is correct, but the nuance of ""but he still managed to catch up to me"" is not fully captured in ""それでも彼は追いついてきて話しかけてきた,"" as it implies a more active pursuit rather than just managing to catch up.
+[Minor]: accuracy/addition - None
+```"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","4,000年の苦悩の後、Ylは愛の場所に自分を見つけ、どうしていいかわからないほどの大きな感情を抱えているので、両方がたくさんあります。","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - ""4,000年の苦悩"" is translated as ""4,000 years of distress,"" which is incorrect as the source does not specify ""years.""
+[Minor]: None
+```"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#マンゴーモロンの大失敗は、非常にひどい失敗でした。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""非常にひどい失敗"" (extremely terrible failure) does not accurately convey the emphasis and tone of ""outrageous fiasco"" from the source text.
+[Major]: accuracy/mistranslation - ""非常にひどい失敗"" (extremely terrible failure) does not capture the nuance of ""outrageous fiasco,"" which implies a more scandalous or shocking event.
+[Minor]: accuracy/addition - The addition of ""非常に"" (extremely) is unnecessary and does not improve the translation.
+```"
+113,A cold front should arrive by the middle of next week.,来週の半ばまでに寒冷前線が到達するでしょう。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""should arrive"" is mistranslated as ""到達するでしょう"" which means ""will arrive"" instead of ""should arrive,"" losing the nuance of expectation or probability.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",今朝早く、IR衛星と地上観測により、低層の層雲とまだらな<URL>が拡大していることが示されました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The source text includes ""patchy"" which is omitted in the translation.
+[Major]: [accuracy/mistranslation] - None
+[Minor]: [accuracy/addition] - None
+```"
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけて、その専門知識を活用し、CRM投資の価値を最大化しましょう。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""to leverage their expertise and maximize the value of your CRM investment,"" which is crucial to the source's meaning.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーが導入、カスタマイズ、統合、継続的なサポートでどのように役立ち、Salesforceエコシステムでビジネスが繁栄できるかを発見してください。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+137,But another individual often flies aboard that ship.,しかし、別の人物がしばしばその船に乗って飛ぶ。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""flies aboard"" as ""乗って飛ぶ"" is not precise. It should convey the idea of ""often travels on"" rather than literally ""flies.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+142,The Last of Us is an easy and canonical example of dad-ification.,『The Last of Us』は、父親化の簡単で典型的な例です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - ""父親化"" (dad-ification) is a mistranslation. The term ""dad-ification"" refers to a cultural or thematic trend, not simply the act of becoming a father.
+[Major]: accuracy/omission - None
+[Minor]: accuracy/addition - None
+```"
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",ダッドフィケーションは通常、親の立場にある人物が子供やその代わりとなる存在を世話したり守ったりしなければならない状況において、圧倒的な強さが解決策であり、その強さを使って非常に特定の形をした力のダイナミクスを強制することを示唆します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""posits"" is mistranslated as ""示唆します"" (suggests), which does not fully capture the meaning of positing or asserting something as a solution.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+147,Here's a quick overview of how to make use of our website.,こちらは、当ウェブサイトの利用方法についての簡単な概要です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/omission - The source text mentions ""Here's a quick overview of how to make use of our website,"" but the translation omits ""quick"" (簡単な) in the context of ""quick overview.""
+[Minor]: None
+```"
+148,- We send out notifications when airfare goes on sale.,航空運賃がセールになると通知を送信します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits the phrase ""when airfare goes on sale,"" which is crucial for conveying the timing of the notifications.
+[Minor]: [accuracy/mistranslation] - The phrase ""航空運賃がセールになると"" could be more accurately translated to reflect the conditional nature of ""when airfare goes on sale.""
+```"
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは平和で安全な環境で育つ権利があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/error_subcategory] - None
+```
+
+The Japanese translation accurately reflects the meaning of the English source text. There are no accuracy errors in terms of addition, mistranslation, omission, untranslated text, or wrong named entity."
+159,Over time dart became my go-to for quick UI.,時間が経つにつれて、ダートは私の迅速なUIの頼りになるものになりました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation of ""dart"" as ""ダート"" is incorrect. It should refer to the Dart programming language, not a literal translation.
+[Major]: [accuracy/mistranslation] - The phrase ""quick UI"" is translated as ""迅速なUI,"" which may not fully capture the intended meaning of ""quick"" in the context of UI development, where it implies ease and speed of development rather than just speed.
+[Minor]: [accuracy/addition] - The translation adds ""頼りになるもの"" (reliable thing), which is not explicitly present in the source text.
+```"
+164,Echidna with amethyst and magenta spikes.,アメジストとマゼンタのトゲを持つハリモグラ。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/error_subcategory] - None
+```
+
+The translation ""アメジストとマゼンタのトゲを持つハリモグラ。"" accurately reflects the meaning of the source text ""Echidna with amethyst and magenta spikes."" There are no accuracy errors present."
+166,Their tail is extremely thick.,彼らの尻尾は非常に太いです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation uses ""彼らの"" (their) which is correct, but the context of ""tail"" in Japanese should be ""尾"" instead of ""尻尾"" for animals, which could be considered a mistranslation depending on context.
+[Major]: accuracy/mistranslation - None
+[Minor]: accuracy/mistranslation - None
+```"
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目は洋ナシの形をしていて、スカーレットのキャットアイメガネをかけています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""洋ナシの形をしていて"" (shaped like a pear) is incorrect for ""Their eyes are pear,"" which should convey the color or shape of the eyes rather than a literal pear shape.
+[Major]: [accuracy/addition] - The translation ""形をしていて"" (shaped like) is an addition that is not present in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",ブラム・ストーカー、マックス・シュレック、ステファニー・メイヤーの最善の努力にもかかわらず、誰もが...,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The phrase ""in trying to make them look bad"" is omitted, leading to a loss of important meaning.
+[Major]: accuracy/mistranslation - ""誰もが"" (everyone) does not adequately capture the context of the source, which implies a contrast between the efforts of the named individuals and the general perception.
+[Minor]: accuracy/mistranslation - None
+```"
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",実生活では、私の母は数年前に私が作ったパズルゲームを気に入ってくれて、ほとんどの秘密を自力で見つけたので、彼女がそれを気に入ったと言ったとき、ただの母親としての言葉ではありませんでした。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""she wasn't just being mom when she said she liked it"" is mistranslated. The Japanese translation ""ただの母親としての言葉ではありませんでした"" implies that her words were not just those of a mother, which slightly shifts the meaning from the original intent that she genuinely liked the game, not just because she is the speaker's mother.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.",それを中国語（標準語）および/または福建語に翻訳する必要がありますが、どちらも全く知りません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - The Japanese translation ""それを中国語（標準語）および/または福建語に翻訳する必要がありますが、どちらも全く知りません。"" does not accurately reflect the source text's meaning. The phrase ""neither of which I know at all"" is translated as ""どちらも全く知りません,"" which implies not knowing either language at all, but the source text's emphasis is on not knowing Mandarin or Hokkien at all.
+[Minor]: none
+```"
+179,Been toying with this thought for a little while:,しばらくこの考えをいじっていました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""しばらくこの考えをいじっていました"" does not accurately convey the meaning of ""Been toying with this thought for a little while."" The phrase ""いじっていました"" suggests a more physical manipulation rather than the metaphorical ""toying"" with a thought.
+[Major]: [accuracy/omission] - The translation omits the nuance of ""for a little while,"" which is important to convey the duration implied in the source text.
+[Minor]: [accuracy/addition] - None
+```"
+180,"Mental health is often seen as something separate from ""regular"" health.",メンタルヘルスはしばしば「通常の」健康とは別物と見なされます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""regular"" as 「通常の」 does not fully capture the nuance of ""regular"" in the context of health, which implies ""physical"" or ""general"" health.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こり、身体の健康よりも目に見えにくいように思えるからです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits the phrase ""than physical health,"" which is important for conveying the comparison in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+194,Very much worth having a go at.,ぜひ挑戦する価値があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/addition] - The translation ""ぜひ"" (definitely) adds an emphasis that is not present in the source text ""Very much worth having a go at.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+196,Playing around a bit with Flutter.,Flutterで少し遊んでいます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The source text ""Playing around a bit with Flutter."" suggests an ongoing or current action, which is not fully captured by the translation ""Flutterで少し遊んでいます。"" as it omits the nuance of ""playing around"" which implies experimentation or casual engagement.
+[Major]: accuracy/mistranslation - The phrase ""Playing around"" in the source implies a casual or experimental activity, which is not fully conveyed by ""少し遊んでいます"" as it can imply simply ""playing"" rather than experimenting or tinkering.
+[Minor]: accuracy/addition - None
+```"
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",正直に言うと、自分のビジネスをGoogleの技術に基づかせるのは嫌です。一方で、Googleは説得力のあるクロスプラットフォーム体験を作り出すための本当のインセンティブを持つ数少ない大手企業の一つであり、それが表れています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The phrase ""to be honest"" is omitted in the translation, which affects the tone and meaning of the source text.
+[Major]: accuracy/mistranslation - The phrase ""real incentives"" is translated as ""本当のインセンティブ,"" which can be interpreted as ""genuine incentives"" rather than ""strong incentives"" as intended in the context.
+[Minor]: accuracy/addition - None
+```"
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,また、Google/FlutterアプリがiOSやmacOSで使いにくいということは言わないでください。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""使いにくい"" means ""difficult to use,"" which does not accurately reflect the source text's meaning of ""suck"" (perform poorly or be of low quality).
+[Major]: [accuracy/omission] - The translation omits the negative connotation of ""suck"" in the context of being of low quality or performing poorly.
+[Minor]: [accuracy/addition] - None
+```"
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームは、うまくやりたいなら難しいです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""うまくやりたいなら"" suggests ""if you want to do it well,"" but it lacks the nuance of ""cross platform is hard"" as a general statement; it implies a conditional situation rather than a general difficulty.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+201,I know that.,知っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/error_subcategory] - None
+```"
+202,Thank you to those people who have downloaded the latest update to Leasey.,最新のLeaseyアップデートをダウンロードしてくださった皆様、ありがとうございます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits the phrase ""the latest"" which is present in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,なぜ私の脳がそれを理解できないのか正確にはわからないのですが、ツールがあまりにも広範で曖昧なために、選択肢が多すぎて脳が固まってしまうのかもしれません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The phrase ""it might be that"" is omitted, which is crucial for understanding the speculative nature of the statement.
+[Major]: accuracy/mistranslation - The phrase ""hardlocks"" is mistranslated as ""固まってしまう"" (freezes), which does not fully capture the technical connotation of the term ""hardlocks.""
+[Minor]: accuracy/addition - The translation adds ""正確には"" (exactly), which is not present in the source text and slightly alters the emphasis.
+```"
+211,Grafana looks pretty.,グラファナはきれいに見えます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""きれいに見えます"" suggests that Grafana ""looks clean"" or ""appears neat,"" which may not fully capture the intended meaning of ""pretty"" as aesthetically pleasing.
+[Major]: accuracy/mistranslation - None
+[Minor]: accuracy/mistranslation - None
+```"
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",新しい#FFXIVレイド層が近づいているので、「ちゃんとしたレイドをやってみたいけど、パーティーファインダーは混乱しそうだし、自分を受け入れてくれる固定メンバーは見つからないだろうな」とずっと考えていました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/addition - The phrase ""ちゃんとした"" (proper) is added in the translation, which is not explicitly present in the source text. However, it does not significantly alter the meaning.
+```"
+214,"So I thought, screw it!",だから、もういいや！,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""だから、もういいや！"" does not accurately convey the meaning of ""screw it!"" which implies a stronger sense of frustration or resignation than the Japanese translation suggests.
+[Major]: [accuracy/mistranslation] - None
+[Minor]: [accuracy/mistranslation] - None
+```"
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",レイドの固定に参加するのを試すのが不安な人々でいっぱいで、全く上手くなる期待はありません！,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The phrase ""with no expectations of being good at all"" is mistranslated as ""全く上手くなる期待はありません"" which implies ""no expectation of becoming good,"" rather than ""no expectation of being good.""
+[Major]: accuracy/mistranslation - The term ""raid static"" is translated as ""レイドの固定,"" which may not accurately convey the concept of a ""raid static"" in gaming contexts, where it refers to a consistent group for raids.
+[Minor]: accuracy/addition - None
+```"
+219,I was a voracious reader in my youth.,若い頃、私は貪欲な読書家でした。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""voracious reader"" as ""貪欲な読書家"" may not fully capture the connotation of ""voracious,"" which implies an intense eagerness or enthusiasm for reading. ""貪欲"" can imply greediness, which might not convey the same positive enthusiasm.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+227,They're not gonna talk about this on Bloomberg!,彼らはこれについてブルームバーグで話さないだろう！,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""彼らはこれについてブルームバーグで話さないだろう！"" suggests a certainty that ""they will not talk about this on Bloomberg,"" whereas the source text's use of ""not gonna"" implies a prediction or expectation rather than certainty.
+[Major]: [accuracy/mistranslation] - None
+[Minor]: [accuracy/mistranslation] - None
+```"
+228,"But if Spotify has a good quarter, they will.",しかし、もしSpotifyが良い四半期を迎えれば、彼らはそうするでしょう。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""they will"" as ""彼らはそうするでしょう"" does not fully capture the conditional nature implied by the source text. The source suggests a future action contingent on a good quarter, which is not clearly conveyed in the translation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,彼らに全国の空洞化し腐敗した都市を再生させましょう。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The word ""again"" is omitted in the translation, which changes the meaning by removing the implication that this is a repeated action.
+[Major]: [accuracy/mistranslation] - ""腐敗した"" (corrupted) is not an accurate translation for ""decaying,"" which refers to physical deterioration rather than moral or ethical corruption.
+[Minor]: [accuracy/mistranslation] - None
+```"
+231,These people want to improve their lives.,これらの人々は自分たちの生活を改善したいと思っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/addition] - The phrase ""と思っています"" (think) is added, which is not present in the source text and does not improve the translation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは終わった」や「リモートワークは失敗した実験だった」と主張する見出しには本当にうんざりしています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits the phrase ""I am so tired of,"" which conveys the speaker's frustration and emotional state.
+[Major]: [accuracy/mistranslation] - The translation of ""Remote work was a failed experiment"" as 「リモートワークは失敗した実験だった」 is slightly off as it doesn't capture the nuance of ""was"" as a past experiment, implying it is no longer considered valid.
+[Minor]: [accuracy/addition] - None
+```"
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.",それにより、人々は窮屈で騒がしいオフィスではなく、快適な空間で働くことができます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/addition] - The translation includes ""窮屈で"" (cramped), which is not present in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+243,To just ignore these facts is wrong.,これらの事実を無視することは間違っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The translation omits the word ""just,"" which emphasizes the act of ignoring the facts as particularly wrong.
+[Major]: None
+[Minor]: None
+```"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、現代の都市部の女性がキャリアのために子供を持つことを遅らせる衝動について言及した。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""modern"" from ""modern urban women,"" which is crucial for understanding the context.
+[Major]: [accuracy/mistranslation] - The phrase ""for their careers' sake"" is mistranslated as ""キャリアのために"" which means ""for the sake of career,"" losing the possessive aspect of ""their careers.""
+[Minor]: [accuracy/addition] - None
+```"
+255,It took years of changing my life and working hard but finally...,人生を変え、一生懸命働くのに何年もかかりましたが、ついに...,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/addition] - The phrase ""人生を変え"" (changing my life) is present in the Japanese translation but not explicitly in the English source text. The source implies a change but does not state it directly.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,サイクルジャケットの裏地をジップで取り付けます。念のために。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""into my cycle jacket"" is omitted, which changes the meaning of the sentence.
+[Major]: [accuracy/mistranslation] - The translation ""取り付けます"" implies attaching, which does not fully capture the meaning of ""zip the lining into"" as it lacks the notion of zipping.
+[Minor]: [accuracy/addition] - The phrase ""念のために"" translates to ""just in case,"" but the placement at the end of the sentence slightly changes the emphasis compared to the source text.
+```"
+266,This is for Wikipedia's component library (OOUI).,これはWikipediaのコンポーネントライブラリ（OOUI）のためのものです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""これはWikipediaのコンポーネントライブラリ（OOUI）のためのものです。"" implies that it is specifically ""for"" Wikipedia's component library, whereas the source text ""This is for Wikipedia's component library (OOUI)"" suggests it is a part of or related to the library, not exclusively for it.
+[Major]: accuracy/addition - None
+[Minor]: accuracy/omission - None
+```"
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親を作成し、そこにMOをインストールし、それが切り離される（つまり、他の場所に接続される）様子を観察します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""切り離される"" (becomes detached) does not accurately convey the meaning of ""becoming detached (thus attached elsewhere)"" as it omits the implication of being attached elsewhere.
+[Major]: [accuracy/omission] - The phrase ""thus attached elsewhere"" is omitted in the translation, which is crucial for understanding the full context of the detachment.
+[Minor]: [accuracy/addition] - None
+```"
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は1日に2回私のオフィスを駆け回っているので、完全に引き締まっています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""absolutely,"" which emphasizes the extent of being ""ripped.""
+[Major]: [accuracy/mistranslation] - ""完全に引き締まっています"" translates to ""completely toned,"" which does not fully capture the nuance of ""absolutely ripped.""
+[Minor]: [accuracy/addition] - None
+```"
+278,It makes me so happy to see him thriving.,彼が成功しているのを見るととても嬉しいです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The word ""thriving"" is translated as ""成功している"" which means ""succeeding"" or ""being successful."" While similar, ""thriving"" implies flourishing or prospering, which is slightly different in nuance.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+285,Last week got a ton done and feeling much better about field items.,先週はたくさんのことを終えて、フィールドアイテムについてずっと良い気分です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""フィールドアイテム"" (field items) is a mistranslation of ""field items"" in the context of the source text, which likely refers to tasks or activities in a field or work setting, not literal items.
+[Major]: [accuracy/omission] - The phrase ""feeling much better"" is not fully captured in the translation. The translation ""ずっと良い気分です"" implies a general good feeling but does not convey the improvement aspect (""much better"") from the source text.
+[Minor]: [accuracy/addition] - None
+```"
+286,"All collards, kale, chard is transplanted.",すべてのコラード、ケール、チャードは移植されました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The source text includes ""is transplanted,"" which is not accurately reflected in the translation. The translation uses the past tense ""移植されました"" (was transplanted), which changes the meaning.
+[Major]: [accuracy/mistranslation] - The translation uses the past tense ""移植されました"" (was transplanted), which does not accurately reflect the present tense ""is transplanted"" in the source text.
+[Minor]: [accuracy/addition] - None
+```"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",また、サラダ用の列をそこに植えて、カットグリーンを統合する必要があります。灌漑、ベッドの準備、移植について訓練を受けたクルーがいるので、非収穫スキル項目の90%をカバーしています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The source text mentions ""to integrate cut greens,"" which is omitted in the translation, leading to a loss of important meaning.
+[Major]: accuracy/mistranslation - ""サラダ用の列をそこに植えて"" translates to ""plant a row for salad there,"" which does not accurately convey ""seed a salad row there.""
+[Minor]: accuracy/addition - ""カバーしています"" (covers) is an addition that is not present in the source text and does not improve the translation.
+```"
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,Apple Mapsと比較してGoogle Mapsでの道順をたどる経験ははるかに優れていました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation reverses the comparison, stating that the experience on Google Maps was superior, whereas the source states it was superior on Apple Maps.
+[Major]: [accuracy/addition] - The phrase ""と比較して"" (compared to) is added in a way that changes the intended meaning of the comparison.
+[Minor]: [accuracy/omission] - None
+```"
+295,Apple Maps wins.,アップルマップが勝利。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""アップルマップが勝利"" translates back to ""Apple Maps is victorious,"" which is not an exact match for ""Apple Maps wins."" The nuance of ""wins"" as a simple present tense action is not fully captured.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+302,"That said, I'm biased.",とはいえ、私は偏っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""とはいえ、私は偏っています"" accurately reflects the source text ""That said, I'm biased."" There are no accuracy errors present.
+[Major]: [accuracy/mistranslation] - None
+[Minor]: [accuracy/mistranslation] - None
+```"
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,しかし、政府が私たちの生活するシステムを変えないと考える限り、それが富の良い蓄えとなるのは土地です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation changes the focus by stating ""それが富の良い蓄えとなるのは土地です"" (it is the land that becomes a good storer of wealth), while the source emphasizes ""it's the land that makes it a good storer of wealth.""
+[Major]: [accuracy/omission] - The phrase ""for as long as you think"" is omitted, which is crucial to understanding the condition under which the land is a good storer of wealth.
+[Minor]: None
+```"
+309,In China you can only lease land.,中国では土地を借りることしかできません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/addition - The phrase ""ことしかできません"" translates to ""can only do,"" which adds an unnecessary emphasis not present in the source text. The source text simply states ""you can only lease land,"" without implying a restriction on actions.
+```"
+311,The government can change these policies whenever it wants.,政府はこれらの政策をいつでも変更することができます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/addition] - The phrase ""ことができます"" (can do) is an addition that is not strictly necessary, as the source text implies ability without explicitly stating it.
+```"
+312,The land is temporary.,土地は一時的です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""土地は一時的です"" implies that the land itself is temporary, which is a mistranslation. The source text ""The land is temporary"" could mean the ownership or use of the land is temporary, not the land itself.
+[Major]: [accuracy/omission] - None
+[Minor]: [accuracy/addition] - None
+```"
+318,That's why the Chinese only allow leases.,それが中国人が賃貸契約のみを許可する理由です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""the Chinese"" to ""中国人"" (Chinese people) is not entirely accurate. The source text refers to ""the Chinese"" in a broader sense, likely meaning the Chinese government or authorities, rather than individual Chinese people.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+322,Let us continue to work together towards creating a brighter future for all.,私たち皆のために、より明るい未来を創造するために共に働き続けましょう。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/addition] - The phrase ""私たち皆のために"" (for all of us) is an addition that does not appear in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分に対してこれほどまでに厳しくなれる人間の能力に驚くことがよくありますが、実際の残酷さがどのようなものかを示す証拠がこれほど多くある中で。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""while inundated by so much evidence"" is omitted, which is crucial for understanding the context of the statement.
+[Major]: [accuracy/mistranslation] - The translation ""自分に対してこれほどまでに厳しくなれる"" translates to ""can be so strict with oneself,"" which does not fully capture the nuance of ""be so down on oneself,"" implying self-deprecation rather than strictness.
+[Minor]: [accuracy/addition] - The phrase ""どのようなものかを示す"" (showing what it looks like) is an addition that is not present in the source text.
+```"
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",個人的な失敗や罪悪感に苦しむことは、「成功」が最も非道な行為を行った人々に与えられることが多い世界において…。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation does not capture the full meaning of ""people responsible for the most reprehensible acts,"" as it only states ""people who performed the most reprehensible acts"" (最も非道な行為を行った人々). This misses the nuance of responsibility, which can include indirect involvement.
+[Major]: [accuracy/omission] - The phrase ""in a world where"" is not fully captured in the translation. The translation uses ""世界において"" (in the world), which omits the conditional or contextual nuance of ""where"" in the source text.
+[Minor]: [accuracy/addition] - None
+```"
+332,"or ""Modal editors are useless today"" :morty:",または「モーダルエディターは今日役に立たない」,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The emoticon "":morty:"" is omitted, which might convey a tone or context that is missing in the translation.
+[Major]: [accuracy/mistranslation] - The translation ""役に立たない"" means ""useless"" but does not capture the implied sarcasm or humor that might be conveyed by the emoticon "":morty:"" in the source text.
+[Minor]: [accuracy/addition] - None
+```"
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:",私が#Axumプロジェクトの機能を共有ライブラリに抽出しているとき: 「キーボードを持ってて」 :partyparrot: :helix: :ferrisdance:,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The translation omits the playful phrase ""Hold my keyboard,"" which is a key part of the source text's meaning.
+[Major]: none
+[Minor]: none
+```"
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのテーマは「一晩中起きていること」です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""Stay up all night"" as 「一晩中起きていること」 is not entirely accurate. The phrase should convey the idea of staying awake all night, which is more accurately translated as 「一晩中起きている」 without the 「こと」.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+339,It is definitely more romance than filth.,それは間違いなく汚れよりもロマンスです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""汚れ"" (filth) implies a physical dirtiness, whereas the source ""filth"" suggests something morally or socially unclean, which is not accurately captured.
+[Major]: [accuracy/mistranslation] - The phrase ""間違いなく"" (definitely) could be considered a mistranslation as it does not fully convey the comparative nature of ""more romance than filth"" in the source.
+[Minor]: [accuracy/addition] - None
+```"
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",またいつか、マイルハイオーガズムを絶対にやってみるつもりです。ストレートの人とは限りませんが。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The source text mentions ""maybe not with a str,"" which implies uncertainty about the partner's sexual orientation, but this nuance is not fully captured in the translation.
+[Major]: [accuracy/mistranslation] - The translation ""ストレートの人とは限りませんが"" implies that the partner might not be straight, which is a slightly different nuance from the source's ""maybe not with a str,"" which suggests uncertainty or incompleteness.
+[Minor]: [accuracy/addition] - None
+```"
+345,"I wish there was a ""who to follow"" recommendation somehow.",「フォローする人」のおすすめがあればいいのに。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The source text includes ""recommendation"" which is omitted in the translation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",それに取り組むにはもう少し努力が必要で、おそらく#UXを改善するための良いアプリが必要です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/mistranslation - The phrase ""to get into it"" is not accurately reflected in the translation. The Japanese translation ""それに取り組むには"" suggests ""to work on it"" rather than ""to get into it,"" which implies starting or engaging with something.
+```"
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",介入：ある程度の信頼範囲内で変化を生み出すためにできることについての知識。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""within some confidence bounds"" is omitted, which is crucial for understanding the scope and reliability of the interventions.
+[Major]: [accuracy/mistranslation] - The translation of ""Interventions"" as ""介入"" might not fully capture the broader meaning of interventions in the context of creating change, as ""介入"" can imply interference or involvement rather than proactive measures.
+[Minor]: [accuracy/mistranslation] - None
+```"
+360,He's here and he's going to say this stuff no matter what.,彼はここにいて、何があってもこのことを言うつもりです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""no matter what"" is omitted in the translation, which is crucial to conveying the source's meaning.
+[Major]: [accuracy/mistranslation] - The translation ""何があってもこのことを言うつもりです"" does not fully capture the certainty implied by ""he's going to say this stuff no matter what.""
+[Minor]: [accuracy/addition] - None
+```"
+362,It's very underwhelming at the moment.,現時点では非常に期待外れです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""非常に期待外れです"" (very disappointing) does not fully capture the meaning of ""underwhelming,"" which implies something is less impressive than expected rather than outright disappointing.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+363,"The ""MusicLM Demo"" is mildly interesting.",「MusicLMデモ」はやや興味深いです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""mildly interesting"" to ""やや興味深い"" is slightly off. ""やや"" can mean ""somewhat"" or ""slightly,"" which might not fully capture the nuance of ""mildly"" in English. A more accurate translation could be ""少し興味深い"" or ""控えめに興味深い.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",ウェイトリフティングをしているのに、自分のワンレップマックスが何なのか本当に分からないのは変な感じです。これは進捗を追跡する主要な方法の一つだからです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The source text mentions ""cus that's one of the key ways people track their progress,"" which is omitted in the translation. The translation only states ""これは進捗を追跡する主要な方法の一つだからです"" without the context of ""people.""
+[Minor]: [accuracy/mistranslation] - The phrase ""having no real clue"" is translated as ""本当に分からない,"" which could be interpreted as ""truly not knowing"" rather than ""having no real clue,"" which implies uncertainty or lack of precise knowledge.
+```"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,私は自分の寝室で一人でトレーニングをしており、スポッターやウェイトラックもありません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The source text specifies ""without a spotter or even a weight rack,"" but the translation omits ""even,"" which emphasizes the lack of a weight rack.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+370,Just me and a barbell with a bunch of weights.,私とバーベルとたくさんの重りだけ。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""a bunch of"" which modifies ""weights"" in the source text, affecting the emphasis on the quantity of weights.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",自分のワンレップマックスを計算しようとすると、最大限の重さを持っていないかもしれないし、逆にそれが原因で重傷を負ったり命を落としたりする可能性があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""最大限の重さを持っていないかもしれない"" suggests not possessing the maximum weight, which is a mistranslation. The source implies not owning enough weights to reach the one rep max, not the maximum possible weight.
+[Major]: [accuracy/mistranslation] - The phrase ""逆にそれが原因で重傷を負ったり命を落としたりする可能性があります"" translates to ""conversely, it could cause serious injury or death,"" which slightly misrepresents the source's implication that attempting to find the one rep max could lead to injury or death, not that the lack of weights could cause this.
+[Minor]: [accuracy/omission] - The translation omits the nuance of ""try and figure out"" which suggests an attempt or effort to calculate the one rep max.
+```"
+375,I swear burrata didn't exist five years ago,5年前にはブラータなんて存在しなかったと誓います。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - The translation ""ブラータなんて存在しなかったと誓います"" implies a stronger assertion than the source text. The phrase ""I swear"" in English is more about expressing disbelief or surprise, whereas the Japanese translation suggests a more definitive statement.
+[Minor]: None
+```"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,誰かのお母さんがそれを作るのを見たことも、パーティーで押し付けられたことも、誰かのソース作りや焼き菓子の日にそれが登場するのを見たこともありませんでした。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""shoved at me"" is omitted in the translation, which affects the understanding of the source text.
+[Major]: [accuracy/mistranslation] - The translation of ""saucemaking escapades"" as ""ソース作り"" does not fully capture the playful or adventurous connotation of ""escapades.""
+[Minor]: [accuracy/addition] - The addition of ""焼き菓子の日"" (baking days) is not present in the source text and slightly alters the context.
+```"
+384,Does anyone have a Linux tablet they love?,誰かお気に入りのLinuxタブレットを持っていますか？,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/addition] - The word ""お気に入り"" (favorite) is added, which is not present in the source text and changes the meaning.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+385,"This would be mainly for web browsing, occasional email, and some games.",これは主にウェブ閲覧、時々のメール、およびいくつかのゲームのためです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The source text mentions ""occasional email,"" but the translation uses ""時々のメール,"" which accurately reflects the source. However, there is no major omission.
+[Minor]: [accuracy/mistranslation] - The phrase ""some games"" is translated as ""いくつかのゲーム,"" which is accurate. There are no minor mistranslations.
+```"
+388,"A bad game is bad forever.""",悪いゲームは永遠に悪い。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""悪いゲームは永遠に悪い"" does not accurately convey the meaning of ""A bad game is bad forever."" The phrase ""永遠に悪い"" implies that the game is inherently bad for eternity, which is not the intended meaning. The source suggests that once a game is considered bad, it remains bad in perception, not that it is inherently bad forever.
+[Major]: accuracy/omission - None
+[Minor]: accuracy/addition - None
+```"
+389,So was it Epic that originated this?,それを始めたのはエピックですか？,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/mistranslation - The translation ""それを始めたのはエピックですか？"" implies that Epic ""started"" something, whereas the source text ""So was it Epic that originated this?"" is asking if Epic was the originator. The nuance of ""originated"" is not fully captured by ""始めた,"" which typically means ""started.""
+```"
+390,We can keep going.,続けることができます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""続けることができます"" means ""We can continue"" or ""We are able to continue,"" which is a mistranslation of ""We can keep going."" The source implies ongoing action rather than just the ability to continue.
+[Major]: [accuracy/addition] - None
+[Minor]: [accuracy/omission] - None
+```"
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",GamePro 1997年11月号の以前の問題には、はるかに曖昧な引用があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""far more"" which indicates the degree of ambiguity in the quote.
+[Major]: [accuracy/mistranslation] - ""以前の問題"" is translated as ""earlier issue,"" but ""問題"" means ""problem"" or ""issue"" in the sense of a matter or topic, not a magazine issue.
+[Minor]: [accuracy/mistranslation] - None
+```"
+401,Esp the carriages with the bigger windows.,特に大きな窓のある車両。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""with the bigger windows,"" which is an important part of the source text.
+[Major]: [accuracy/mistranslation] - The translation does not accurately convey the comparative aspect of ""bigger windows,"" which implies a comparison to other windows.
+[Minor]: [accuracy/addition] - None
+```"
+402,There's areas that could use some polish.,磨きをかけるべき部分があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The source text mentions ""areas"" in plural, but the translation does not reflect this, leading to a loss of important meaning.
+[Major]: accuracy/mistranslation - The phrase ""could use some polish"" is translated as ""磨きをかけるべき部分があります,"" which implies a stronger necessity than the original phrase, altering the intended meaning.
+[Minor]: accuracy/addition - None
+```"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",すなわち、十分なゴミ箱の不足と、照明の色の意味を説明する標識の不足です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""to explain the significance of the lighting colours,"" which is crucial for understanding the source text.
+[Major]: [accuracy/mistranslation] - The phrase ""照明の色の意味を説明する"" translates to ""explain the meaning of the lighting colors,"" which is slightly different from ""explain the significance of the lighting colours"" in the source text, but it still conveys the general idea.
+[Minor]: [accuracy/addition] - None
+```"
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMやDDZ株の終わりを見ても悲しくはありません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""ICMやDDZ株の終わりを見ても悲しくはありません"" does not accurately convey the meaning of ""I won't be sad to see the end of the ICM or DDZ stock."" The phrase ""終わりを見ても"" suggests ""even if I see the end,"" which implies a conditional situation, whereas the source text is a definitive statement about not being sad about the end of the stocks.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,お客様お一人様につき一つまでのルールは、並んでいる全ての方がボードを手に入れられるようにするために維持されています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/addition - The phrase ""全ての"" (all) is an addition that is not present in the source text and does not improve the translation.
+```"
+411,Such friendships transcend differences.,そのような友情は違いを超越します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation ""そのような友情は違いを超越します。"" accurately conveys the meaning of the source text ""Such friendships transcend differences."" There are no accuracy errors present in the translation."
+412,We all have stories to tell.,私たちは皆、語るべき物語を持っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/addition] - The phrase ""語るべき"" (to tell) is an addition that is not present in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",ただ、どういうわけか、この場面をいわば悪いスタートで始めてしまったように感じます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""so to speak"" is omitted in the translation, which affects the nuance of the statement.
+[Major]: [accuracy/mistranslation] - The phrase ""on the wrong foot"" is translated as ""悪いスタートで始めてしまった"" which means ""started with a bad start,"" losing the idiomatic expression's nuance.
+[Minor]: None
+```"
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,ここにもう少し長く留まって、移行すべきかどうか考えます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The source text includes ""Will still linger a bit longer on here,"" but the translation omits the equivalent of ""Will still linger"" (まだここに留まるつもりです).
+[Major]: [accuracy/mistranslation] - The phrase ""think about whether I should migrate at all"" is translated as ""移行すべきかどうか考えます,"" which does not fully capture the uncertainty implied by ""at all"" in the source text.
+[Minor]: [accuracy/addition] - None
+```"
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,レプニッドが地表の下にトンネルを掘り、あなたはその下の洞窟で数百のレプニッドの体が沸騰する塊に落ち込む。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""boiling mass"" is mistranslated as ""沸騰する塊"" which implies a literal boiling, whereas the source text suggests a chaotic or seething mass of Repnid bodies.
+[Major]: [accuracy/omission] - The translation omits the concept of ""fall into"" which is crucial to understanding the action taking place.
+[Minor]: [accuracy/addition] - The translation adds ""その下の"" (below that) which is not present in the source text and doesn't improve the translation.
+```"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは迅速であり、いくつもの牙が致命的な毒を注入し、ディスクラの空気があなたの肺を汚染します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation of ""the air of Dyskra"" as ""ディスクラの空気"" is incorrect. The source text implies that the air itself is harmful, whereas the translation does not convey this aspect clearly.
+[Major]: [accuracy/mistranslation] - The translation ""迅速であり"" for ""The end is swift"" is slightly misleading, as ""迅速であり"" can imply a more general sense of swiftness rather than specifically referring to the end being swift.
+[Minor]: [accuracy/omission] - None
+```"
+425,Nobody will ever know that you were the first human future traveller.,誰もあなたが最初の人間の未来旅行者であったことを知ることはありません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""ever,"" which emphasizes that nobody will know at any point in time.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+426,You land the flyer nose upward on the side of the slag heap and climb out.,あなたはフライヤーを鼻先を上に向けてスラグの山の側面に着陸させ、降りる。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""鼻先を上に向けて"" (nose upward) is correct, but the context of ""land the flyer"" is not accurately conveyed. The translation should reflect the action of landing the flyer on the side of the slag heap.
+[Major]: [accuracy/omission] - The translation omits the concept of ""on the side of the slag heap"" as a distinct action separate from landing nose upward. The translation should convey that the flyer is landed on the side of the slag heap.
+[Minor]: [accuracy/addition] - None
+```"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つ目のレプニッドは見ているようですが、あなたに向かって動くことはなく、実際にはあなたがゆっくりと彼らに向かって歩いても動かずにいます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""eight-eyed,"" which is crucial for describing the Repnids.
+[Major]: [accuracy/mistranslation] - ""八つ目のレプニッド"" is mistranslated as ""the eight-eyed Repnids,"" which should be ""八つ目の目を持つレプニッド"" to accurately convey the meaning.
+[Minor]: [accuracy/addition] - The phrase ""実際には"" (in fact) is an addition that does not appear in the source text.
+```"
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",彼らはあなたの声を聞くことができないようです、ましてや理解することもできません。あなたのユニバーサルトランスレーターは何の応答も拾いません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""let alone"" is omitted, which affects the understanding of the source's emphasis on the inability to understand.
+[Major]: [accuracy/mistranslation] - The phrase ""あなたの声を聞くことができないようです"" translates to ""it seems they cannot hear your voice,"" which slightly shifts the focus from the broader ""cannot hear you"" in the source.
+[Minor]: [accuracy/addition] - The phrase ""ましてや理解することもできません"" adds ""understanding"" explicitly, which is implied by ""let alone understand"" but not directly stated in the source.
+```"
+430,You decide to use your Psychic Awareness to contact them mentally.,あなたは精神的な意識を使って彼らと心で連絡を取ることに決める。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""mentally,"" which is crucial for conveying the method of contact.
+[Major]: [accuracy/mistranslation] - ""精神的な意識"" (spiritual awareness) does not accurately capture ""Psychic Awareness,"" which implies a more specific type of mental ability.
+[Minor]: [accuracy/addition] - None
+```"
+436,"#today I have coffee, sunshine and quiet time!",今日はコーヒーと日差しと静かな時間があります！,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The phrase ""today"" (今日は) is omitted in the translation, which is important for conveying the time context.
+[Major]: accuracy/mistranslation - The translation ""日差し"" for ""sunshine"" is not incorrect, but it may not fully capture the casual and positive connotation of ""sunshine"" in the context of the source text.
+[Minor]: accuracy/addition - The phrase ""があります"" (there is/are) is added in the translation, which is not present in the source text and slightly alters the tone.
+```"
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,私は、主に細かく紡がれているが、所々に塊がある不均一に紡がれた銀灰色の糸を見つけました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""所々に塊がある"" translates to ""there are lumps in places,"" which does not fully convey the meaning of ""with lumps"" in the source, suggesting the yarn has lumps throughout rather than just in places.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+441,But am not sure I have enough of the purple.,しかし、紫色が十分あるかどうかはわからない。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The source text includes ""enough of the purple,"" but the translation omits ""of the purple,"" which is crucial for understanding the specific concern about the quantity of purple.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+446,I have literally tried and dropped EVERY SINGLE ONE.,私は文字通りすべて試してみて、すべてやめました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""EVERY SINGLE ONE,"" which emphasizes the extent of the attempts and failures.
+[Major]: [accuracy/mistranslation] - The phrase ""すべてやめました"" translates to ""quit everything,"" which does not accurately convey the meaning of ""dropped EVERY SINGLE ONE,"" indicating that each attempt was abandoned.
+[Minor]: [accuracy/addition] - None
+```"
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして約2年前まで、自分の成績証明書を確認するまで全く知りませんでした。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""like"" is omitted, which conveys a sense of approximation or informality in the timing.
+[Major]: [accuracy/mistranslation] - The translation of ""I had no idea"" to ""全く知りませんでした"" is slightly off as it doesn't fully capture the past continuous sense of ""had no idea"" which implies an ongoing state of not knowing until the event of checking the transcripts.
+[Minor]: [accuracy/addition] - None
+```"
+448,The literature class hatred is even worse: I love to read.,文学の授業の嫌悪感はさらにひどい：私は読書が大好きです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""class hatred"" is mistranslated as ""授業の嫌悪感"" which means ""class aversion"" or ""dislike of the class,"" not capturing the intensity of ""hatred.""
+[Major]: [accuracy/omission] - The translation omits the concept of ""even worse,"" which is an important part of the source text's meaning.
+[Minor]: [accuracy/addition] - The addition of ""です"" at the end of the sentence is unnecessary as it adds a level of politeness not present in the source text.
+```"
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしく、そこで幸せですが、日中に罪悪感なく小説を読むためには、他の場所にいる必要があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""enough"" from ""chill enough to read fiction,"" which affects the intended meaning.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,まるで休暇中のようで、だから休暇中にすることをしている。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""It's like"" is omitted in the translation, which is crucial for conveying the simile aspect of the source sentence.
+[Major]: [accuracy/mistranslation] - The translation ""休暇中にすることをしている"" does not fully capture the casual and self-explanatory nature of ""doing what one does on holidays,"" which implies engaging in typical holiday activities without specifying them.
+[Minor]: [accuracy/addition] - The word ""まるで"" (as if) is added, which slightly alters the tone of the sentence by introducing a hypothetical nuance not present in the source.
+```"
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",それに加えて、ここではこの2晩、家で寝るほどよく眠れていないし、見知らぬ環境にいるだけでペースを保つのが難しく、物の場所を覚えておかなければならないので、少し#MECFSの症状が出てしまう。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""and get a little #MECFS ed out"" is omitted, which is crucial to convey the speaker's experience of feeling fatigued due to MECFS.
+[Major]: [accuracy/mistranslation] - The translation ""少し#MECFSの症状が出てしまう"" does not accurately capture the meaning of ""get a little #MECFS ed out,"" which implies feeling exhausted or overwhelmed due to MECFS.
+[Minor]: [accuracy/addition] - The phrase ""物の場所を覚えておかなければならないので"" (so I have to remember where things are) is an addition that is not explicitly stated in the source text but is inferred. However, it does not significantly alter the meaning.
+```"
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",ゲーム業界で働くことの興奮や緊張、ストレス、そして私が大好きなすべての良いことです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""and all the good things"" is omitted, which is crucial to understanding the full sentiment of the source text.
+[Major]: [accuracy/mistranslation] - The translation ""私が大好きなすべての良いことです"" does not fully capture the meaning of ""and all the good things that I love about working in games,"" as it suggests a more general liking rather than specific aspects related to working in games.
+[Minor]: [accuracy/addition] - None
+```"
+458,Will a community blossom around the user-generated content piece of the game?,ユーザー生成コンテンツの部分を中心にコミュニティが発展するでしょうか？,"Source (English):  
+Will a community blossom around the user-generated content piece of the game?
+
+Translation (Japanese):  
+ユーザー生成コンテンツの部分を中心にコミュニティが発展するでしょうか？
+
+```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""of the game,"" which is crucial for understanding that the user-generated content is specifically related to the game.
+[Major]: [accuracy/mistranslation] - ""発展する"" (develop) is not an exact match for ""blossom,"" which implies a more organic and flourishing growth.
+[Minor]: [accuracy/addition] - None
+```"
+466,So I finally watched #Heartstopper,ついに「#Heartstopper」を見ました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/addition] - The translation includes quotation marks around ""#Heartstopper"" which are not present in the source text. This addition does not change the meaning but is technically an addition.
+```"
+467,Was it overly cute to the point of being twee?,それは甘すぎて、気取りすぎていましたか？,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""甘すぎて、気取りすぎていましたか？"" does not accurately convey the meaning of ""Was it overly cute to the point of being twee?"" The term ""twee"" is not appropriately translated, and the translation suggests a different nuance, focusing more on ""pretentious"" or ""affected"" rather than ""overly cute.""
+[Major]: [accuracy/omission] - The translation omits the specific nuance of ""twee,"" which refers to something being excessively or overly cute or quaint, which is a significant aspect of the source text.
+[Minor]: [accuracy/addition] - None
+```"
+471,But did I love it?,でも、それを愛していたのか？,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""それを愛していたのか？"" suggests a past tense ""did I love it?"" whereas the source ""But did I love it?"" implies questioning one's feelings in a more reflective or hypothetical sense, not necessarily past tense.
+[Major]: [accuracy/addition] - The addition of ""それを"" (it) is unnecessary as the source does not specify an object, making the translation more specific than intended.
+[Minor]: None
+```"
+476,"In part, because they'd be taught badly.",一部には、彼らが下手に教えられるからです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""下手に教えられる"" suggests ""badly taught"" but does not fully capture the nuance of ""be taught badly"" as intended in the source.
+[Major]: [accuracy/addition] - The phrase ""一部には"" translates to ""in part"" but adds an unnecessary nuance that is not explicitly present in the source.
+[Minor]: [accuracy/omission] - None
+```"
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題に対して言い訳をせず、ただ修正することが重要です。特に、リードが変更を必要としているときのプロダクションでは。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""for issues"" which is important for understanding the context of what should not be excused.
+[Major]: [accuracy/mistranslation] - The phrase ""when your lead needs changes"" is mistranslated as ""リードが変更を必要としているとき,"" which implies the lead personally needs changes, rather than changes being needed in production as directed by the lead.
+[Minor]: [accuracy/addition] - The addition of ""ただ"" (just) in ""ただ修正することが重要です"" is not present in the source text and slightly alters the emphasis of the sentence.
+```"
+479,"Every artist has been there, made the same mistakes.",すべてのアーティストがそこにいて、同じ間違いを犯してきました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""has been there"" is mistranslated as ""そこにいて"" which means ""is there"" or ""was there"" rather than conveying the experience or situation of having been in a similar position or situation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+484,Watch seeds being sown & cultivated (and not randomly scattered) by good peeps.,良い人々によって種が蒔かれ、耕されるのを見守る（無作為にばら撒かれるのではなく）。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""Watch seeds being sown & cultivated"" is not fully captured in the translation, as the aspect of ""watching"" is omitted.
+[Major]: [accuracy/mistranslation] - The translation ""見守る"" implies ""watch over"" or ""guard,"" which does not fully convey the meaning of ""watch"" in the context of observing the process.
+[Minor]: [accuracy/addition] - The phrase ""無作為にばら撒かれるのではなく"" (not randomly scattered) is an accurate translation, but the addition of ""無作為に"" (randomly) is not explicitly present in the source text.
+```"
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",ジャミは犬番の直前に道ですれ違ったときに彼にメモを渡した。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""just before the dog watch"" is omitted, which is crucial for understanding the timing context.
+[Major]: [accuracy/mistranslation] - ""犬番"" translates to ""dog watch,"" but the context of timing is not clearly conveyed in the translation.
+[Minor]: [accuracy/mistranslation] - ""道ですれ違ったときに"" translates to ""when they passed each other on the path,"" but the translation could be more precise to reflect the original phrasing.
+```"

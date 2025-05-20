@@ -1,0 +1,763 @@
+index,original,translated,locale_convention_annotation
+0,本文件按照 GB/T 1.1 一 202 久标准化工作导则第工部分:标准化文件的结构和起草规则的规定起惠。,This document is drafted in accordance with the provisions of Part 1 of the GB/T 1.1-202X Standardization Work Guidelines: Structure and Drafting Rules of Standardization Documents.,"```
+MQM annotations:
+Style Errors
+[major]: [unnatural_flow] - The phrase ""in accordance with the provisions of"" is overly formal and could be simplified for better readability.
+[minor]: [unnatural_flow] - The use of ""Part 1 of the GB/T 1.1-202X Standardization Work Guidelines"" is somewhat awkward and could be rephrased for a more natural flow.
+```"
+4,"在四字节编码区更改了18 个 GB/T 13000 代码位置(见附录 D,2005 年版的附录D);","18 GB/T 13000 code positions in the four-byte encoding area have been changed (see Appendix D, Appendix D of the 2005 edition);","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""Appendix D, Appendix D of the 2005 edition"" is repetitive and awkward. It could be more naturally expressed as ""see Appendix D of the 2005 edition.""
+```"
+8,请注意本文件的某些内容可能涉及专利。 本文件的发布机构不承担识别专利的责任。,Please note that some content in this document may involve patents. The publishing organization of this document does not assume responsibility for identifying patents.,"```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""the publishing organization of this document"" could be more naturally expressed as ""the organization publishing this document.""
+```"
+10,本文件及其所代替文件的历次版本发布情况为 :,The release history of this document and its previous versions is as follows:,"```
+MQM annotations:
+Styles error:
+[minor]: [style/unnatural_flow] - The phrase ""is as follows"" at the end of the sentence creates an unnatural flow. A more natural phrasing could be ""The release history of this document and its previous versions follows:"".
+```"
+13,信息扩术 ”中文编码字符集,"""Information Expansion: Chinese Character Encoding Set""","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""Information Expansion: Chinese Character Encoding Set"" reads awkwardly and lacks natural flow. A more natural expression might be ""Expanding Information: The Chinese Character Encoding Set.""
+```"
+16,"本文件适用于为具备中文和其他文字图形字符信息化处理及交换功能的技术类产品,包括但不限于以输入法、光学字符识别 (OCR)、编辑 校对、机融翻诺、语音合成、文字转写、乔能写作等为代表的软件产品 , 以及以计算机、通信终端设备、电子书阅读毅、学习机等为代表的便件产品 。","This document applies to technical products with the capability to process and exchange information in Chinese and other written graphic characters. This includes, but is not limited to, software products such as input methods, optical character recognition (OCR), editing and proofreading, machine translation, speech synthesis, text transcription, and intelligent writing. It also includes hardware products such as computers, communication terminal devices, e-book readers, and learning machines.","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""This includes, but is not limited to,"" is slightly awkward and could be more naturally expressed as ""This encompasses, but is not limited to,"" to improve readability.
+minor: UNNATURAL FLOW - The phrase ""hardware products such as computers, communication terminal devices, e-book readers, and learning machines"" could be more naturally expressed by using ""including"" instead of ""such as"" to enhance flow.
+```"
+20,GB/T 2312 一 1980 ”信息交换用汉字编码字符集 ”基本集,"GB/T 2312-1980 ""Character Set for Information Exchange in Chinese"" Basic Set","```
+MQM annotations:
+Styles error:
+minor: COMPANY STYLE - The translation does not follow the typical English style for naming standards, which usually places the title in quotation marks after the standard number without a space before the hyphen, i.e., ""GB/T 2312-1980 'Character Set for Information Exchange in Chinese' Basic Set.""
+```"
+21,GB/I 11383 一 1989 信息 处理 ”信息交换用八位代码结构和编码规则,GB/T 11383-1989 Information Processing - 8-Bit Code Structure and Encoding Rules for Information Exchange,"```
+MQM annotations:
+Styles error:
+minor: COMPANY STYLE - The translation uses ""GB/T"" instead of ""GB/I"" as in the source text.
+```"
+25,3.1 字符 character,3.1 字符 character,"```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The repetition of ""character"" in ""3.1 字符 character"" could be more naturally expressed as ""3.1 Character"" without repeating the word.
+```"
+30,使用符合本文件的产品的使用者可以自行规定的区域。,Users of products that comply with this document can designate their own specified areas.,"```
+MQM annotations:
+major: style/unnatural flow - The phrase ""designate their own specified areas"" reads awkwardly. A more natural expression would be ""can specify their own areas.""
+```"
+34,留作未来本文件规定的区 域 。,"""Reserved for the area specified in this document for the future.""","```
+MQM annotations:
+Style Errors:
+[major]: [UNNATURAL FLOW] - The phrase ""Reserved for the area specified in this document for the future"" is awkward and could be more naturally expressed as ""Reserved for future use in the area specified in this document.""
+```"
+36,4 字汇,"The translation of ""4 字汇"" from Chinese to English is ""4-character phrases"" or ""four-character idioms.""","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The translation ""4-character phrases"" sounds slightly awkward and could be more naturally phrased as ""four-character phrases"" for consistency and natural flow.
+```"
+40,4.3 双字节部分,4.3 Double Byte Section,"```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""Double Byte Section"" could be made more natural by using ""Double-Byte Section"" to reflect common English usage and improve readability.
+```"
+41,双字节部分收录了 GB/T 2312 一 1980 中的全部图形字符 GB/T 13000 中的CJK 统一汉字以及部分图形字符。,"The double-byte section includes all graphic characters from GB/T 2312-1980, CJK Unified Ideographs from GB/T 13000, and some graphic characters.","```
+MQM annotations:
+Styles error:
+Minor: Unnatural Flow - The phrase ""some graphic characters"" at the end of the sentence reads awkwardly and could be rephrased for better flow.
+```"
+43,"其中,表意文字描述符的图形、代码位置和功能应符合附录 B 的规定 。","The graphics, code positions, and functions of ideographic descriptors should comply with the provisions of Appendix B.","```
+MQM annotations:
+Style Errors:
+[minor]: [unnatural_flow] - The phrase ""should comply with the provisions of Appendix B"" could be rephrased for a more natural flow, such as ""must adhere to the guidelines in Appendix B.""
+```"
+45,"具备独有抽象字形的汉字,赋予单独的代码位置;来源不同而抽象字形相同的汉字, 则赋予共用的代码位置。",Chinese characters with unique abstract glyphs are assigned individual code points; characters with the same abstract glyph but different origins are assigned a shared code point.,"```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""characters with the same abstract glyph but different origins are assigned a shared code point"" reads awkwardly and could be rephrased for better flow.
+```"
+47,4.4 四字节部分,4.4 Four-Byte Section,"```
+MQM annotations:
+Style Errors
+Minor: Style/Unnatural Flow - The phrase ""Four-Byte Section"" reads slightly awkwardly and could be more naturally expressed as ""Four-Byte Part"" to better match the source text's simplicity.
+```"
+48,四字节部分收录了上述双字节字符之外的 GB/T 13000 中的 66 个CJK统一汉字(9FA6 一 9FEF，不包括 9FB4~9FBB 的8个字符)、CJK 统一汉字扩充 A、CJK 统一汉字扩充 BCJK 统一汉字扩充 C、 CJK 统一汉字扩充 DCJK 统一汉字扩充下 .CJK 统一汉字扩充 F 和已经 在 GB/ 工 13000 中编码的少数民族文字的字符。,"The four-byte section includes 66 CJK Unified Ideographs from GB/T 13000 that are not part of the aforementioned double-byte characters (9FA6 to 9FEF, excluding 8 characters from 9FB4 to 9FBB), CJK Unified Ideographs Extension A, CJK Unified Ideographs Extension B, CJK Unified Ideographs Extension C, CJK Unified Ideographs Extension D, CJK Unified Ideographs Extension E, CJK Unified Ideographs Extension F, and characters of minority scripts that have already been encoded in GB/T 13000.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""that are not part of the aforementioned double-byte characters"" could be rephrased for better readability and flow.
+minor: unnatural flow - The list of CJK Unified Ideographs Extensions could be presented more clearly, possibly using commas or semicolons for better readability.
+```"
+52,"附录中凡编码的表示均采用十六进制,其他数字的表示均采用十进制。","In the appendix, all encoded representations are in hexadecimal, while other numerical representations are in decimal.","```
+MQM annotations:
+minor: style/unnatural flow - The phrase ""while other numerical representations are in decimal"" could be rephrased for a smoother flow, such as ""while other numbers are represented in decimal.""
+```"
+58,6 字符的排列顺序,The order of arrangement for 6 characters.,"```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""The order of arrangement for 6 characters"" reads awkwardly and could be more naturally expressed as ""The arrangement order of 6 characters"" or ""The order of 6 character arrangements.""
+```"
+59,6.1 单字刷部分字符的排列顺序,6.1 Single-character brushing of the order of some characters,"```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""Single-character brushing of the order of some characters"" is awkward and lacks natural flow in English. A more natural expression could be ""Reordering some characters with single-character brushing.""
+```"
+60,单字记部分字符按照 GB/I 11383 一 1989 中相应字符的顺序排列 。,The single characters are arranged in the order of the corresponding characters in GB/I 11383-1989.,"```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""The single characters are arranged in the order of the corresponding characters in GB/I 11383-1989"" reads too literally and could be rephrased for a more natural flow in English, such as ""Single characters are arranged according to the sequence of corresponding characters in GB/I 11383-1989.""
+```"
+67,7 码位分配,"""7-digit code allocation""","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""7-digit code allocation"" is grammatically correct but could be expressed more naturally as ""Allocation of 7-digit codes"" in English.
+```"
+71,2.双字部分的码位分配,2. Code point allocation for the double-character section,"```
+MQM annotations:
+Style Errors:
+minor: unnatural_flow - The phrase ""double-character section"" reads awkwardly and could be expressed more naturally as ""section for double characters.""
+```"
+72,"双字节部分的码位安排分为 0x8140~ 一 0xFE7E 和 0x8180 一 0xFEFE 两部分, 共 23940 个码位。","The code point arrangement for the double-byte section is divided into two parts: 0x8140 to 0xFE7E and 0x8180 to 0xFEFE, with a total of 23,940 code points.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""with a total of 23,940 code points"" could be rephrased for better readability and natural flow, such as ""comprising a total of 23,940 code points.""
+```"
+75,双字节 1 区 : 846 码位,Double-byte Area 1: 846 code points,"```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""Double-byte Area 1: 846 code points"" reads awkwardly and could be more naturally expressed as ""Area 1 of the double-byte character set: 846 code points.""
+```"
+77,首字节 0xA8~0xA9 双字节 5 区 : 192 码 位,"First byte 0xA8~0xA9, double byte, zone 5: 192 code positions","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The translation ""First byte 0xA8~0xA9, double byte, zone 5: 192 code positions"" reads too literally and awkwardly. A more natural expression in English might be ""The first byte ranges from 0xA8 to 0xA9, with double-byte encoding in zone 5, providing 192 code positions.""
+```"
+78,3.双字蔬部分编码空间结构图,3. Double-Character Vegetable Partial Encoding Spatial Structure Diagram,"```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""Double-Character Vegetable Partial Encoding Spatial Structure Diagram"" is overly literal and awkwardly structured, lacking natural flow in English.
+```"
+84,表 3 中没有指明的四字节人码位分配见 6.3。,The allocation of four-byte character code points not specified in Table 3 can be found in section 6.3.,"```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""The allocation of four-byte character code points not specified in Table 3"" reads awkwardly and could be rephrased for better flow.
+```"
+85,表 3 四字闻部分的码位安排,Table 3: Code Point Arrangement for Four-Character Phrases in the Listening Section,"```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""Four-Character Phrases in the Listening Section"" reads awkwardly and could be rephrased for better flow, such as ""Four-Character Phrases within the Listening Section.""
+```"
+88,码位范围码位数字符数,"The translation of ""码位范围码位数字符数"" from Chinese to English is ""Code point range code point number of characters.""","```
+MQM annotations:
+Styles error:
+major: unnatural_flow - The translation ""Code point range code point number of characters"" is awkward and lacks natural flow. A more natural translation might be ""Number of characters in the code point range.""
+```"
+91,8 部分字符和代码的说明,Explanation of 8 parts of characters and codes,"```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The translation ""Explanation of 8 parts of characters and codes"" reads awkwardly and could be more naturally expressed as ""Explanation of the 8 parts of characters and codes.""
+```"
+97,实现级别 1 文持本文件的单字节编码部分、双季节编码部分和四字下编玛部分的 CJK 统一汉字 ( 即 0x82358F33 一 0x82359636) 和 CJK 统一汉字扩A( 即 0x8139EE39 一 0x82358738) 。,"Translate the following from Chinese to English:
+
+Implement level 1 support for the single-byte encoding section, double-byte encoding section, and four-byte encoding section of this document for CJK Unified Ideographs (i.e., 0x82358F33 to 0x82359636) and CJK Unified Ideographs Extension A (i.e., 0x8139EE39 to 0x82358738).","```
+MQM annotations:
+Styles error:
+Major: UNNATURAL FLOW - The phrase ""Implement level 1 support for the single-byte encoding section, double-byte encoding section, and four-byte encoding section"" reads awkwardly and could be rephrased for better flow.
+Minor: COMPANY STYLE - The use of ""i.e."" may not align with company style guidelines, which might prefer ""that is"" or another expression.
+```"
+102,"此外 ,实现级别 2 还文持《通用 规范 汉字 表 }中的没有包合在实级别 1 之内的编码汉字。","In addition, Level 2 also includes encoded Chinese characters from the ""Table of General Standard Chinese Characters"" that are not included in Level 1.","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""that are not included in Level 1"" reads awkwardly and could be more naturally expressed as ""which are not part of Level 1.""
+```"
+104,"系统软件及支撑软件,应满足实现级别 2 的要求 。",System software and support software should meet the requirements of Level 2.,"```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""should meet the requirements of Level 2"" could be rephrased for a more natural flow, such as ""must comply with Level 2 requirements.""
+```"
+105,"注: 系统软件及文撑软件包括但不限于操作系统,数据库管理系统.中间件( 软件产品分类的信息见 GB/ 工 36475)。","Note: System software and application software include, but are not limited to, operating systems, database management systems, and middleware (for information on software product classification, see GB/T 36475).","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""include, but are not limited to,"" could be more naturally expressed as ""include but are not limited to"" without the commas.
+```"
+107,实现级别 3 包含实现级别 2。,Level 3 implementation includes Level 2 implementation.,"```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""Level 3 implementation includes Level 2 implementation"" is technically correct but could be expressed more naturally. A more fluent version might be ""The implementation of Level 3 encompasses that of Level 2.""
+```"
+109,用于政务服务和公共服务的产品应满足实现级卉 3 的要求。,Products used for government services and public services should meet the requirements of Level 3.,"```
+MQM annotations:
+Styles error:
+[minor]: [style/unnatural_flow] - The phrase ""meet the requirements of Level 3"" could be rephrased for a more natural flow, such as ""should comply with Level 3 requirements.""
+```"
+111,附录 A (规范性 ),Appendix A (Normative),"```
+MQM annotations:
+Style Errors:
+minor: company_style - The translation uses ""Appendix"" instead of ""Annex,"" which may not align with specific company style guidelines if ""Annex"" is preferred.
+```"
+112,双字字符表,Double-character table,"```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The translation ""Double-character table"" reads awkwardly and could be more naturally expressed as ""Double-Character Chart"" or ""Two-Character Table"" for better fluency.
+```"
+115,A.2 表的说明,A.2 Table Description,"```
+MQM annotations:
+critical: no-error
+major: no-error
+minor: style/unnatural flow - The translation ""Table Description"" is technically correct but could be more naturally expressed as ""Description of Table"" to improve readability and flow.
+```"
+117,第一字节第二字节低位,"The first byte, the second byte, low-order bits.","```
+MQM annotations:
+major: style/unnatural flow - The phrase ""The first byte, the second byte, low-order bits"" reads awkwardly and lacks natural flow. A more natural phrasing could be ""The low-order bits of the first and second bytes.""
+```"
+121,表意文字描述符,"The translation of ""表意文字描述符"" from Chinese to English is ""ideogram descriptor.""","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""ideogram descriptor"" is technically correct but could be expressed more naturally as ""descriptor of ideograms"" for better readability.
+```"
+124,表 B.1 表意文字描述符的图形、代码位置和功能描述,"Table B.1 Ideographic Descriptor Symbols, Code Positions, and Functional Descriptions","```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""Ideographic Descriptor Symbols, Code Positions, and Functional Descriptions"" is accurate but reads awkwardly in English. A more natural flow could be achieved by rephrasing it to ""Symbols, Code Positions, and Functional Descriptions of Ideographic Descriptors.""
+```"
+125,"本文件的码位 GB/T 13000 的码位功能描述相似而不等,用于借某字表达外字","The code points in this document are similar but not equal to the code point function descriptions in GB/T 13000, and are used to express foreign characters using certain characters.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""using certain characters"" is awkward and could be rephrased for better readability.
+```"
+130,全包围结构,"The translation of ""全包围结构"" to English is ""fully enclosed structure.""","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""fully enclosed structure"" is correct but could be expressed more naturally in English as ""completely enclosed structure"" or ""fully enclosed design"" to improve fluency.
+```"
+133,回右包围结构,"The phrase ""回右包围结构"" translates to ""right-enclosed structure"" in English.","```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""right-enclosed structure"" reads awkwardly and could be expressed more naturally as ""structure enclosed on the right.""
+```"
+136,回右上包围结构,The structure that encloses from the top right.,"```
+MQM annotations:
+Styles error:
+major: unnatural_flow - The phrase ""The structure that encloses from the top right"" reads awkwardly and lacks natural flow. A more natural expression would be ""A structure that encloses from the top right.""
+```"
+140,C.1 表的内容,C.1 Table Contents,"```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""Table Contents"" is slightly awkward in English; a more natural expression would be ""Table of Contents.""
+```"
+145,D.1 调整过的 18 个GB/T 13000 代码位置,D.1 Adjusted 18 GB/T 13000 code positions,"```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""Adjusted 18 GB/T 13000 code positions"" reads awkwardly and could be rephrased for better flow, such as ""Adjustment of 18 GB/T 13000 code positions.""
+```"
+148,本文件及 GB 18030 一 2005 的GB 18030 一 2005 对应的本文件对应的GB/T 工 13000 码位,The document and GB 18030-2005 correspond to the GB/T 13000 code points in this document.,"```
+MQM annotations:
+Styles error:
+major: unnatural flow - The translation reads awkwardly and lacks natural flow, particularly with the repetition of ""correspond"" and the phrase ""in this document.""
+```"
+149,D.2 在双字闻区删除的 6 个汉字构件,D.2 Six Chinese character components removed in the double-character recognition area,"```
+MQM annotations:
+Styles error:
+major: unnatural flow - The phrase ""in the double-character recognition area"" reads awkwardly and could be expressed more naturally.
+```"
+151,D.3 在双字下区删除的 9 个 CJK 兼容汉字,D.3 The 9 CJK compatibility characters removed from the double-byte lower area,"```
+MQM annotations:
+Styles error:
+major: unnatural_flow - The phrase ""double-byte lower area"" reads awkwardly and could be expressed more naturally in English.
+```"
+153,表 D.3 删除的 9 个 CJK 兼容汉字和它们的代码位置,Table D.3 Deleted 9 CJK Compatibility Ideographs and Their Code Positions,"```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""Deleted 9 CJK Compatibility Ideographs and Their Code Positions"" could be rephrased for a more natural flow, such as ""Nine Deleted CJK Compatibility Ideographs and Their Code Positions.""
+```"
+154,附录开 (资料性)《通用规范汉字表》 汉字的代码位置,"Appendix Open (Informational) ""Table of General Standard Chinese Characters"" Code Positions of Chinese Characters","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""Appendix Open (Informational)"" is awkward and lacks natural flow. A more natural expression might be ""Informational Appendix: Opening"" or ""Opening of the Informational Appendix"".
+minor: COMPANY STYLE - The translation does not clearly follow a standard format for titles or headings, which might be expected in a formal document.
+```"
+155,"本文件收录了 2013 年中华人民共和国国务院批准发布的 4 通用规范汉字表》 中的全部 8105 个规范汉字,它们的代码位置和字形见表1。","This document includes all 8,105 standardized Chinese characters from the ""Table of General Standard Chinese Characters"" approved and published by the State Council of the People's Republic of China in 2013. Their code positions and glyphs are shown in Table 1.","```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""from the 'Table of General Standard Chinese Characters'"" could be rephrased for better readability.
+minor: style/unnatural flow - ""Their code positions and glyphs are shown in Table 1"" could be more naturally expressed as ""Table 1 shows their code positions and glyphs.""
+```"
+159,GB/ 工 36475 软件产品分类,GB/T 36475 Software Product Classification,"```
+MQM annotations:
+Styles error:
+minor: DO NOT TRANSLATE - The abbreviation ""GB/T"" should not be translated as it is a standard designation in China and should remain in its original form.
+```"
+163,"如果发现手册页和软件之间有所矛盾,请查对Info","If you find any discrepancies between the manual page and the software, please refer to the Info documentation.","```
+MQM annotations:
+Style Errors
+minor: unnatural_flow - The phrase ""please refer to the Info documentation"" reads slightly awkwardly and could be rephrased for a more natural flow, such as ""please check the Info documentation.""
+```"
+170,源文件后级名指出语言种类以及后期的操作:,The file extension of the source file indicates the type of language and subsequent operations.,"```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""subsequent operations"" reads awkwardly and could be rephrased for better flow.
+```"
+171,".c C 源程序; 预处理, 编译,汇编",".c C source program; preprocessing, compiling, assembling","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""preprocessing, compiling, assembling"" reads awkwardly and could be more naturally expressed as ""preprocessing, compilation, and assembly.""
+```"
+175,".m Objective-C 源程序; 预处理,编译,汇编",".m Objective-C source code; preprocessing, compiling, assembling","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""preprocessing, compiling, assembling"" reads awkwardly and could be more naturally expressed as ""preprocessing, compilation, and assembly.""
+```"
+176,".i 预处理后的 c 文件;编译,汇编","Preprocessed .c files; compile, assemble","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""Preprocessed .c files; compile, assemble"" reads awkwardly and could be rephrased for better flow, such as ""Preprocessed .c files should be compiled and assembled.""
+```"
+182,.a 归档库文件(Archive file),Archive file,"```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The translation ""Archive file"" is accurate but lacks context or additional information that might be expected in a more natural or informative translation. It could be expanded to ""An archive file"" or ""This is an archive file"" for better flow.
+```"
+183,"除非使用了 -cec，-s, 或 -E 选项(或者编译错误阻止了完整的过程),否则连接总是最后的步骤.","Unless the -cec, -s, or -E options are used (or a compilation error prevents the complete process), linking is always the final step.","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""linking is always the final step"" could be rephrased for a more natural flow, such as ""linking always comes last.""
+```"
+185,选项必须分立给出 : de ' 完全不同于 `-d -r '.,The options must be given separately: completely different from `-d -r`.,"```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""completely different from `-d -r`"" reads awkwardly and could be rephrased for better flow.
+```"
+187,这里只列举不是默认选项的格式.,Only non-default formats are listed here.,"```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The translation ""Only non-default formats are listed here"" reads slightly awkwardly and could be rephrased for better natural flow, such as ""Here, only the non-default formats are listed.""
+```"
+190,总体选项 (Overall Option),Overall Option,"```
+MQM annotations:
+Style Errors
+minor: unnatural flow - The translation ""Overall Option"" is grammatically correct but lacks natural flow. A more natural expression could be ""General Options"" or ""Overall Choices"" depending on the context.
+```"
+191,明确指出后面输入文件的语言为 language (而不是从文件名后绥得到的默认选择).,"Explicitly specify that the language of the input file is ""language"" (rather than the default choice derived from the file extension).","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""Explicitly specify that the language of the input file is 'language'"" reads awkwardly and could be more naturally expressed.
+minor: COMPANY STYLE - The use of quotation marks around ""language"" may not align with specific style guidelines, which might prefer italics or another form of emphasis.
+```"
+193,"关闭任何对语种的明确说明, 因此依据文件名后级处理后面的文件 RE AS E ` -x' 选项).","Close any explicit language specifications, and then process the subsequent files based on the file name suffix (using the `-x' option).","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""Close any explicit language specifications"" reads awkwardly and could be rephrased for better flow.
+minor: COMPANY STYLE - The use of ""subsequent files"" might not align with company-specific guidelines if a more specific term is preferred.
+```"
+194,"如果只操作四个阶段( 预处理, 编译, 汇编, 连接)中的一部分, 可以使用 ` -x' 选项 (或文件名后 Ah) 告诉 geo 从哪里开始,用 `~-c' ，`-s' ,或 `-E' 选项告诉 geo 到哪里结束.注意,某些选项组合 (例如 ，`-x cpp-output -E') {i gee MEF =c 编译或汇编源文件, ETER. ERA ATI 缺省情况下， GCC 通过用 ` .o' 蔡换源文件名后级 ` .ec 标文件名. 可以使用-o 选项选择其他名字.GCC忽略 -ec 选项后面任何无法识别的输入文伯 -S F 何事情.","If you only want to perform a portion of the four stages (preprocessing, compiling, assembling, linking), you can use the `-x` option (or append Ah to the filename) to tell the compiler where to start, and use the `-c`, `-s`, or `-E` options to tell it where to stop. Note that certain combinations of options (such as `-x cpp-output -E`) will not compile or assemble the source file. By default, GCC replaces the source filename extension with `.o` for object files. You can use the `-o` option to choose a different name. GCC ignores any unrecognized input following the `-ec` option and does nothing.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""you can use the `-x` option (or append Ah to the filename)"" reads awkwardly and could be rephrased for better flow.
+Minor: UNNATURAL FLOW - The sentence ""Note that certain combinations of options (such as `-x cpp-output -E`) will not compile or assemble the source file."" could be rephrased for clarity and naturalness.
+Minor: UNNATURAL FLOW - The sentence ""GCC ignores any unrecognized input following the `-ec` option and does nothing."" could be rephrased to improve readability and flow.
+```"
+196,"编译后即停止, 不进行汇编件.","""Stop after compilation, do not proceed to assembly.""","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Stop after compilation, do not proceed to assembly"" reads somewhat awkwardly and could be expressed more naturally in English.
+```"
+197,"在编译过程的不同阶段间使用管道而非临时文件进行工作, 因为那些系统的汇编器不能从管道读取数据，GNU 的汇编器没有这个问题，汇编器能够接受的 C ""方言 "": 支持符合 ANSI 标准的 C 程序.","Use pipelines instead of temporary files between different stages of the compilation process, as the assemblers on those systems cannot read data from pipelines. The GNU assembler does not have this issue. The assembler can accept C ""dialects"" that support ANSI standard-compliant C programs.","```
+MQM annotations:
+Style Errors
+[major]: [unnatural_flow] - The phrase ""as the assemblers on those systems cannot read data from pipelines"" is awkward and could be rephrased for better flow, such as ""because assemblers on those systems cannot read data from pipelines.""
+[minor]: [unnatural_flow] - The phrase ""The assembler can accept C 'dialects' that support ANSI standard-compliant C programs"" could be more naturally phrased as ""The assembler can accept C 'dialects' that are compliant with the ANSI standard.""
+```"
+200,"正常情况下, 这样的函数 foo 在 C++ 中意味着参数为空.","Under normal circumstances, a function like `foo` in C++ implies that the parameter is null.","```
+MQM annotations:
+major: unnatural flow - The phrase ""a function like `foo` in C++ implies that the parameter is null"" reads awkwardly and could be more naturally expressed.
+```"
+202,"详见NU c 手册,我们已经把细节删除, 这样当内容过时后, 人们也不会 HERI.","See the NU c manual for details. We have removed the specifics so that when the content becomes outdated, people won't HERI.","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""so that when the content becomes outdated, people won't HERI"" reads awkwardly and lacks natural flow. A more natural expression could be used.
+```"
+204,他和`-Ethis-is-variable' 选项的果一样.,He is the same as the result of the `-Ethis-is-variable` option.,"```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""the same as the result of the `-Ethis-is-variable` option"" reads awkwardly and could be expressed more naturally in English.
+```"
+205,-traditional-cpp 试图支持传统 Cc 预处理器的某些方面.,-traditional-cpp attempts to support certain aspects of the traditional Cc preprocessor.,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""attempts to support certain aspects of the traditional Cc preprocessor"" reads awkwardly and could be more naturally phrased as ""attempts to support certain features of the traditional Cc preprocessor.""
+```"
+216,"相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.","Correspondingly, if the default option `-fno-external-templates' is used during compilation, all template instances are explicitly set to be built-in.","```
+MQM annotations:
+minor: style/unnatural flow - The phrase ""explicitly set to be built-in"" could be more naturally expressed as ""explicitly set as built-in.""
+```"
+219,"有些情况下, 编译器能够判断出可以直接调用某个虚函数; 这时就直接调用.","In some cases, the compiler can determine that a particular virtual function can be called directly; in such instances, it calls it directly.","```
+MQM annotations:
+minor: style/unnatural flow - The phrase ""in such instances, it calls it directly"" is slightly awkward and could be rephrased for better flow, such as ""in such cases, it is called directly.""
+```"
+221,这种表达式的值是 Void.-fthis-—is-variable 允许对 this 赋值 (仅对 c++).,The value of this expression is Void. -fthis-—is-variable allows assignment to this (only for C++).,"```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""The value of this expression is Void."" reads awkwardly and could be more naturally expressed as ""This expression evaluates to Void.""
+```"
+229,"这个选项, 和它的反义选项, 使那样的程序工作在对应的默认值上.","This option, along with its opposite option, makes such programs operate on the corresponding default values.","```
+MQM annotations:
+Styles error:
+[minor]: [style/unnatural flow] - The phrase ""makes such programs operate on the corresponding default values"" reads awkwardly and could be more naturally expressed.
+```"
+231,"如果没有明确声明 ` signed' 或 ""unsigned'修饰符, 这些选项用来定义有符号位域 (bitfield) 或无符号位域.","If there is no explicit declaration of the `signed` or `unsigned` modifier, these options are used to define signed bitfields or unsigned bitfields.","```
+MQM annotations:
+Style Errors
+minor: unnatural_flow - The phrase ""these options are used to define signed bitfields or unsigned bitfields"" could be more naturally expressed as ""these options define signed or unsigned bitfields.""
+```"
+234,"这是为了兼容一些老程序,他们算改字符串常量是一个非常糟糕的想法、`-traditional' 选项也有相同效果.",This is to be compatible with some old programs that consider modifying string constants to be a very bad idea. The `-traditional' option has the same effect.,"```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""consider modifying string constants to be a very bad idea"" reads awkwardly and could be more naturally expressed.
+```"
+237,其影响可能类似于2008年的经济危机,Its impact could be similar to the 2008 economic crisis.,"```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""Its impact could be similar to the 2008 economic crisis"" reads slightly awkwardly and could be rephrased for better natural flow, such as ""The impact could be akin to that of the 2008 economic crisis.""
+```"
+239,在许多国家，这一疾病己使医疗服务机构穷于应付，几近崩溃，各国政府实施的限制措施已在全球经济中造成了严重紊乱。,"In many countries, this disease has overwhelmed healthcare services, bringing them close to collapse. The restrictions implemented by governments have caused severe disruptions in the global economy.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The sentence structure ""In many countries, this disease has overwhelmed healthcare services, bringing them close to collapse"" could be more fluid and natural.
+```"
+241,一些生产者可能会被迫寻找新的方法来制造毒品，因为限制流动的同时也限制了前体和基本化学品的获取。,Some producers may be forced to find new ways to manufacture drugs because restricting movement also limits access to precursors and essential chemicals.,"```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""restricting movement also limits access to precursors and essential chemicals"" reads somewhat awkwardly and could be rephrased for better flow, such as ""restricting movement also limits access to essential chemicals and precursors.""
+```"
+249,一些国家有大量毒品通过商业航班走私，预计这些国家的贩毒活动受到的直接影响最大。,"Some countries have a large amount of drugs smuggled through commercial flights, and it is expected that the drug trafficking activities in these countries will be directly affected the most.","```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""and it is expected that the drug trafficking activities in these countries will be directly affected the most"" could be rephrased for better flow, such as ""and it is expected that these countries' drug trafficking activities will be most directly affected.""
+```"
+259,世界各地的吸毒现象一直在增多，无论是从总体数字还是从吸毒者在世界人口中所占比例来看都是如此。,"The phenomenon of drug use has been increasing worldwide, both in terms of overall numbers and the proportion of drug users within the global population.","```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""both in terms of overall numbers and the proportion of drug users within the global population"" could be rephrased for smoother readability, such as ""both in terms of the total number of users and their proportion within the global population.""
+```"
+262,"这在一定程度上反映了这一期间总体人口增长的差异、发达国家为7%,发展中国家为28%但也反映了发展中国家年 轻人口增长较快。","This reflects, to a certain extent, the differences in overall population growth during this period, with developed countries at 7% and developing countries at 28%. It also indicates the faster growth of the young population in developing countries.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""This reflects, to a certain extent,"" could be more naturally expressed as ""This somewhat reflects"" or ""This partially reflects.""
+```"
+263,青少年和年轻成年人在吸毒者中所占比例最大。,Teenagers and young adults make up the largest proportion of drug users.,"```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""make up the largest proportion of drug users"" could be rephrased for a more natural flow, such as ""constitute the largest group among drug users.""
+```"
+266,无论是发达国家还是发展中国家，城市地区的吸毒情况都多于农村地区。,"Whether in developed or developing countries, drug use is more prevalent in urban areas than in rural areas.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""drug use is more prevalent in urban areas than in rural areas"" could be rephrased for a smoother flow, such as ""drug use is more common in urban areas compared to rural areas.""
+```"
+267,吸毒情况总体增多的部分原因是人口从农村向城镇的大规模流动一目前全世界人口有一半以上生活在城市地区，而1960年这一比例为34%。,"The overall increase in drug use is partly due to the large-scale migration of people from rural areas to urban areas. Currently, more than half of the world's population lives in urban areas, compared to 34% in 1960.","```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The sentence structure ""The overall increase in drug use is partly due to the large-scale migration of people from rural areas to urban areas"" is somewhat awkward and could be more naturally phrased.
+```"
+268,城市化可能是毒品市场未来动态的一个关键因素，特别是在城市化趋势更为突出的发展中国家。,"Urbanization may be a key factor in the future dynamics of the drug market, especially in developing countries where the trend of urbanization is more prominent.","```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""where the trend of urbanization is more prominent"" could be more naturally expressed as ""where urbanization trends are more pronounced.""
+```"
+273,来自少数几个国家的数据表明，有害的吸毒模式与病症同低收入之间存在联系。,Data from a few countries suggest that harmful drug use patterns and disorders are linked to low income.,"```
+MQM annotations:
+Styles error:
+[major]: [unnatural_flow] - The phrase ""harmful drug use patterns and disorders"" could be rephrased for a more natural flow, such as ""patterns of harmful drug use and related disorders.""
+```"
+274,这些模式在较富裕的社会阶层似乎不太常见。,These patterns seem to be less common in the more affluent social classes.,"```
+MQM annotations:
+Style error:
+minor: unnatural_flow - The phrase ""in the more affluent social classes"" could be rephrased for a more natural flow, such as ""among the more affluent social classes.""
+```"
+277,新冠肺炎或将导致毒品市场进一步扩张新冠肺炎的大流行可能会导致更多农民增加或从事非法作物种植，或是因为国家主管机关的控制能力降低，或是因为在经济危机之下可能有更多人不得不铤而走险，从事非法活动。,"The COVID-19 pandemic may lead to further expansion of the drug market. The pandemic could result in more farmers increasing or engaging in the cultivation of illegal crops, either due to the reduced control capacity of national authorities or because more people might be forced to take risks and engage in illegal activities amidst the economic crisis.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""more farmers increasing or engaging in the cultivation of illegal crops"" could be rephrased for smoother readability.
+minor: UNNATURAL FLOW - The phrase ""reduced control capacity of national authorities"" can be expressed more naturally.
+```"
+283,会员国的国内市场每年约有500种新型活性物质。,The domestic markets of member countries have approximately 500 new active substances each year.,"```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""have approximately 500 new active substances each year"" could be rephrased to ""introduce approximately 500 new active substances annually"" for a more natural flow.
+```"
+286,"在2014年确定的新型精神活性物质种类总数中，类阿片新型精神活性物质仅占2%,但到2018年，这一数字己上升至9%。","In the total number of new psychoactive substances identified in 2014, opioid-type new psychoactive substances accounted for only 2%. However, by 2018, this figure had risen to 9%.","```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The sentence structure ""In the total number of new psychoactive substances identified in 2014, opioid-type new psychoactive substances accounted for only 2%."" could be more naturally expressed as ""Opioid-type new psychoactive substances accounted for only 2% of the total number identified in 2014.""
+```"
+287,类阿片新型精神活性物质中有许多是芬太尼的类似物，其药效和危害已得到证明，在北美导致了过量死亡事件，其他区域也有，但程度较轻。,"Many of the new psychoactive substances in the opioid category are analogs of fentanyl, whose potency and harmful effects have been proven. They have led to overdose deaths in North America, and although they are present in other regions, the impact is relatively less severe.","```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""whose potency and harmful effects have been proven"" reads somewhat awkwardly and could be more naturally expressed.
+```"
+288,在北美，芬太尼有的用作海洛因和其他毒品（包括可卡因和甲基苯丙胺）的掺杂剂，有的用来制造假冒的药用类阿片。,"In North America, fentanyl is sometimes used as an adulterant in heroin and other drugs (including cocaine and methamphetamine), and sometimes used to manufacture counterfeit medicinal opioids.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""sometimes used to manufacture counterfeit medicinal opioids"" could be rephrased for better readability and flow.
+```"
+290,2新型精神活性物质的使用可能会逐渐牢固存在于弱势群体中,The use of new psychoactive substances may gradually become entrenched among vulnerable groups.,"```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""may gradually become entrenched"" reads slightly awkwardly and could be expressed more naturally.
+```"
+295,贩毒者和制毒者一直在寻找替代品一不仅有管制较松的物质，还有专门为规避管制而设计的化学品，即所谓的“特制前体”。,"Drug traffickers and manufacturers have been constantly seeking alternatives—not only substances that are less regulated but also chemicals specifically designed to evade regulation, known as ""designer precursors.""","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""seeking alternatives—not only substances that are less regulated but also chemicals specifically designed to evade regulation"" could be rephrased for smoother readability, such as ""seeking alternatives, including less regulated substances and chemicals specifically designed to evade regulation.""
+```"
+296,旨在阻止新冠肺炎传播的限制性措施很可能使依赖前体化学品的制毒者受到进一步挤压。,Restrictive measures aimed at preventing the spread of COVID-19 are likely to further pressure drug manufacturers who rely on precursor chemicals.,"```
+MQM annotations:
+Styles error:
+[minor]: [style/unnatural flow] - The phrase ""further pressure drug manufacturers"" is awkward and could be more naturally expressed as ""put further pressure on drug manufacturers.""
+```"
+297,来自墨西哥的证据表明，这已经成为 现实：据报告，2020年3月，从东亚进口的甲基苯丙胺前体短缺促使墨西哥和美国的甲基苯丙胺价格上涨。,"Evidence from Mexico suggests that this has become a reality: It was reported that in March 2020, a shortage of methamphetamine precursors imported from East Asia led to an increase in methamphetamine prices in Mexico and the United States.","```
+MQM annotations:
+Style Errors
+minor: style/unnatural flow - The phrase ""this has become a reality"" reads awkwardly and could be more naturally expressed as ""this is now a reality.""
+```"
+305,阿富汗和伊拉克甲基苯丙胺市场增长,The methamphetamine market in Afghanistan and Iraq is growing.,"```
+MQM annotations:
+Style error:
+[major]: [unnatural_flow] - The translation ""The methamphetamine market in Afghanistan and Iraq is growing"" is grammatically correct but lacks natural flow. A more natural expression might be ""The methamphetamine market is expanding in Afghanistan and Iraq.""
+```"
+309,最近，伊拉克当局发现了多个甲基苯丙胺加工点，麻管局已对伪麻黄碱制剂的大批进口表示关切一甲基苯丙胺加工点将这些制剂用作前体。,"Recently, Iraqi authorities have discovered multiple methamphetamine processing sites. The narcotics control bureau has expressed concern over the large importation of pseudoephedrine preparations, which are being used as precursors at these methamphetamine processing sites.","```
+MQM annotations:
+Styles error:
+major: unnatural flow - The phrase ""which are being used as precursors at these methamphetamine processing sites"" is awkward and could be more naturally phrased as ""which are used as precursors in these methamphetamine processing sites.""
+```"
+311,自那时起，甲基苯丙胺的缉获量一直在稳步上升。,"Since then, the seizure of methamphetamine has been steadily increasing.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""the seizure of methamphetamine has been steadily increasing"" could be rephrased for a more natural flow, such as ""methamphetamine seizures have been steadily increasing.""
+```"
+312,但2019年上半年的缉获量一^657公斤——与上一年相比大幅骤增。,"However, the amount seized in the first half of 2019 was 657 kilograms, which is a significant increase compared to the previous year.","```
+MQM annotations:
+Styles error:
+[minor]: [style/unnatural_flow] - The phrase ""which is a significant increase compared to the previous year"" could be rephrased for smoother readability, such as ""representing a significant increase over the previous year.""
+```"
+318,在美国最早通过立法的两个州科罗拉多州和华盛顿州，成年人非医疗使用大麻的情况增加，特别是过去一个月以及每天或几乎每天使用的情况增多，自2012年起便已超过了全国平均水平。,"In the two states that were the first to pass legislation in the United States, Colorado and Washington, the non-medical use of marijuana among adults has increased, particularly in terms of usage in the past month and daily or almost daily use. Since 2012, these levels have surpassed the national average.","```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""particularly in terms of usage in the past month and daily or almost daily use"" is awkward and could be more naturally expressed.
+```"
+323,全球大麻药草缉获量暴跌的背后原因是大麻合法化？,Is the reason behind the sharp decline in global cannabis seizures the legalization of marijuana?,"```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""the reason behind the sharp decline in global cannabis seizures"" reads awkwardly and could be more naturally expressed as ""the reason for the sharp decline in global cannabis seizures.""
+```"
+326,对新型精神活性物质的监管似乎有遏制作用在国内对新型精神活性物质的监管效果仍然很难评估。,"The regulation of new psychoactive substances seems to have a deterrent effect, but it is still difficult to assess the effectiveness of such regulation domestically.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""it is still difficult to assess the effectiveness of such regulation domestically"" could be rephrased for smoother readability, such as ""assessing the effectiveness of such regulation domestically remains challenging.""
+```"
+327,一些对新型精神活性物质采用不同监管制度的国家显示出不同的新型精神活性物质使用流行率。,Some countries that adopt different regulatory systems for new psychoactive substances show varying prevalence rates of new psychoactive substance use.,"```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""show varying prevalence rates of new psychoactive substance use"" could be rephrased for smoother readability, such as ""exhibit different rates of new psychoactive substance use.""
+```"
+328,在另一些国家，通过国内立法后，新型精神活性物质使用情况有所减少。,"In some other countries, the use of new psychoactive substances has decreased after domestic legislation was enacted.","```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""In some other countries"" could be rephrased for smoother readability, such as ""In certain other countries.""
+```"
+333,"据估计，低收入和中等收入国家的人口占全球人口的88%,但消费的药用类阿片却不到10%。","It is estimated that the population of low- and middle-income countries accounts for 88% of the global population, but they consume less than 10% of medicinal opioids.","```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""accounts for 88% of the global population"" could be rephrased for better readability, such as ""makes up 88% of the global population.""
+```"
+334,获取药用类阿片的障碍与许多因素有关，包括立法、文化、卫生系统和处方做法。,"The obstacles to obtaining medicinal opioids are related to many factors, including legislation, culture, healthcare systems, and prescribing practices.","```
+MQM annotations:
+Style Errors
+minor: style/unnatural flow - The phrase ""The obstacles to obtaining medicinal opioids are related to many factors"" could be rephrased for better readability, such as ""There are many factors related to the obstacles in obtaining medicinal opioids.""
+```"
+343,全球范围的有限数据表明，迷醉可能是杀人的一个重要因素。,Limited data worldwide suggest that intoxication may be an important factor in killings.,"```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""intoxication may be an important factor in killings"" could be rephrased for better readability and flow, such as ""intoxication might play a significant role in homicides.""
+```"
+351,据估计，2018年使用大麻的有 1.92 亿人，使之成为全球使用最多的毒品。,"It is estimated that in 2018, 192 million people used cannabis, making it the most widely used drug in the world.","```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""making it the most widely used drug in the world"" could be rephrased for better flow, such as ""thus making it the most widely used drug globally.""
+```"
+354,"在2017年与吸毒病症有关的估计167,000例死亡中，有66%是这类物质造成的，在据信为吸毒导致的残疾或过早死亡而损失的2,100万年寿命中，有50%是这类物质造成的。","In the estimated 167,000 drug-related deaths in 2017, 66% were caused by this type of substance. Of the 21 million years of life lost due to disability or premature death believed to be caused by drug use, 50% were attributed to this type of substance.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""believed to be caused by drug use"" reads awkwardly and could be more naturally integrated into the sentence.
+```"
+368,兴奋剂领域以可卡因和甲基苯丙胺为主，这两种物质在其主要市场的使用量都在上升。,"In the field of stimulants, cocaine and methamphetamine are predominant, and the use of these two substances is increasing in their main markets.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""in the field of stimulants"" could be more naturally expressed as ""in the stimulant category"" or ""in the stimulant market.""
+```"
+372,在一些市场上，可卡因和甲基苯丙胺可以共存，有时是相互替代，这样一种药物的使用量上升时另一种药物的使用量就下降，有时是同时增加和减少以满足同一市场的需求。,"In some markets, cocaine and methamphetamine can coexist and sometimes serve as substitutes for each other. When the use of one drug increases, the use of the other decreases, and sometimes both increase or decrease simultaneously to meet the demand of the same market.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""and sometimes both increase or decrease simultaneously to meet the demand of the same market"" reads awkwardly and could be rephrased for smoother flow.
+```"
+376,2017年，因吸毒死亡的约有 58.5万人，其中一半死于丙型肝炎引起的肝病，而注射吸毒者的丙型肝炎大多仍未得到治疗。,"In 2017, approximately 585,000 people died from drug use, with half of them dying from liver disease caused by hepatitis C. Most cases of hepatitis C among injection drug users remain untreated.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""Most cases of hepatitis C among injection drug users remain untreated"" could be rephrased for better readability and flow, such as ""Most injection drug users with hepatitis C have not received treatment.""
+```"
+380,使用说明书,Instruction manual,"```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The translation ""Instruction manual"" is correct but could be more naturally expressed as ""User manual"" to improve fluency and readability.
+```"
+385,将耳帐斜向下轻轻塞入耳道，以轻摆头部耳机不田动为家。,"Gently insert the earbud diagonally downward into the ear canal, and slightly tilt your head to ensure the earphone stays in place.","```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""slightly tilt your head to ensure the earphone stays in place"" could be more naturally expressed as ""slightly tilt your head to keep the earphone in place.""
+```"
+388,充电开机使用前，请先撕掉左右耳机充各点处的网几，将充电盒及耳机充满电。,"Before turning on and using the device, please first remove the protective mesh from the charging points on both earphones, and fully charge the charging case and earphones.","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""remove the protective mesh from the charging points on both earphones"" could be more naturally expressed as ""remove the protective mesh covering the charging points on both earphones.""
+```"
+390,充电盒未充满电充电指示灯红灯长亮，充满电后充电:3 指示灯熄灭。,"When the charging case is not fully charged, the charging indicator light stays red. Once fully charged, the charging indicator light turns off.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""Once fully charged, the charging indicator light turns off"" could be more naturally expressed as ""When fully charged, the charging indicator light turns off.""
+```"
+403,自动连接: 局对移两只耳机从充时盒外十.,Automatic connection: The two earbuds will connect automatically when removed from the charging case.,"```
+MQM annotations:
+Styles error:
+Major: UNNATURAL FLOW - The phrase ""when removed from the charging case"" sounds awkward and could be rephrased for better readability, such as ""once removed from the charging case.""
+```"
+405,随后红和白灯恢六. 左右囊如自过串联 .,"The translation of the text you provided is: ""Then the red and white lights return to six. The left and right pouches are connected in series.""","```
+MQM annotations:
+Styles error:
+Major: UNNATURAL FLOW - The phrase ""The left and right pouches are connected in series"" reads awkwardly and lacks natural flow in English.
+Minor: UNNATURAL FLOW - The phrase ""Then the red and white lights return to six"" is awkward and could be phrased more naturally.
+```"
+406,"待左/右耳机白灯懈 闪时. 打开设备否牙搜索 “RedmIArDots2 ""并点击完连溶。","When the white light on the left/right earbud flashes, turn on the Bluetooth on your device, search for ""Redmi AirDots 2,"" and click to complete the connection.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""click to complete the connection"" is slightly awkward and could be more naturally expressed as ""and click to connect.""
+```"
+407,首次连接后. 囊志开机可自动回连上一次配对设备(蓝牙需开启)。,"After the first connection, the device will automatically reconnect to the last paired device when powered on (Bluetooth needs to be enabled).","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""when powered on"" could be more naturally expressed as ""when the device is powered on.""
+```"
+412,"单耳 / 双耳自由切换; 两只耳机连接成功后即为双丁连接; 将任一耳机放回充电盒关机, 另一只耳机进入单耳模式, 重新取出即可自动恢复双耳模式 。","Single-ear / dual-ear free switching; once both earbuds are successfully connected, they are in dual-ear mode. If you put either earbud back into the charging case, it will turn off, and the other earbud will enter single-ear mode. Taking it out again will automatically restore dual-ear mode.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""once both earbuds are successfully connected, they are in dual-ear mode"" could be rephrased for a more natural flow, such as ""when both earbuds are successfully connected, they enter dual-ear mode.""
+Minor: UNNATURAL FLOW - The sentence ""Taking it out again will automatically restore dual-ear mode"" could be made more fluid by rephrasing it to ""Taking it out again automatically restores dual-ear mode.""
+```"
+415,如果耳机无法正常连接使用，请参照以下方式重置,"If the headphones are not connecting properly, please reset them using the following method.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""please reset them using the following method"" could be more naturally expressed as ""please follow the steps below to reset them.""
+```"
+416,耳机: 将耳机拿出充电盒， 在关机状态下， 分别长按两只耳机多功能键15 秒 ，至红白灯交替闪烁3 次后，松开并放回充电盒即可(清除耳机与手机的连授记录)。,"Headphones: Take the headphones out of the charging case. When they are powered off, press and hold the multifunction button on both headphones for 15 seconds until the red and white lights flash alternately three times. Then release and place them back in the charging case (this will clear the pairing records between the headphones and the phone).","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""until the red and white lights flash alternately three times"" could be rephrased for better readability and flow, such as ""until the lights flash red and white alternately three times.""
+```"
+423,本严操的相关信息请查询销售网 : www micom,"For information related to Yan Cao, please visit the sales website: www.micom","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""For information related to Yan Cao"" could be more naturally expressed as ""To find information about Yan Cao"".
+```"
+426,"以下功能左右耳机均可操作, 轻按一下来电时，接听电话; 通话或去电中，挂断电话音乐时，播放 /暂停音频 ,长按约1 秒释放","The following functions can be operated with both the left and right earphones: Press once during an incoming call to answer the call; during a call or outgoing call, hang up the call. When listening to music, play/pause audio by pressing and holding for about 1 second and then releasing.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""by pressing and holding for about 1 second and then releasing"" could be more naturally expressed as ""press and hold for about 1 second, then release.""
+```"
+429,待机时， 开启语音助手(需设备支持语音功能且打开快速唤醒设置),"When in standby mode, activate the voice assistant (requires the device to support voice functionality and have the quick wake-up setting enabled).","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""activate the voice assistant"" could be more naturally expressed as ""turn on the voice assistant"" in this context.
+```"
+435,耳机基本参数,Earphone Basic Specifications,"```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The translation ""Earphone Basic Specifications"" reads awkwardly and could be more naturally expressed as ""Basic Specifications of Earphones"" or ""Earphone Specifications.""
+```"
+438,输入参数:5V 二 100mA,Input parameters: 5V and 100mA,"```
+MQM annotations:
+Style Errors:
+minor: UNNATURAL FLOW - The use of ""and"" in ""5V and 100mA"" is slightly awkward and could be more naturally expressed as ""5V, 100mA"" to match typical technical specifications.
+```"
+439,单耳净重: 约 4.1g,Net weight of a single earbud: approximately 4.1g,"```
+MQM annotations:
+Style Errors:
+Minor: UNNATURAL FLOW - The phrase ""Net weight of a single earbud"" reads slightly awkwardly and could be more naturally expressed as ""The net weight of a single earbud is approximately 4.1g.""
+```"
+448,"1 请勿以任何理由拆开.维修或改装耳机, 否则可能会导致起火甚至彻底损坏本产品;","1. Please do not disassemble, repair, or modify the headphones for any reason, as this may cause a fire or even completely damage the product.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""for any reason"" could be placed more naturally at the end of the sentence for better flow.
+```"
+451,"4 请勿在雷暴天气下使用该设备, 雷暴可导致设备工作异常, 并增加触电的危险;","4. Please do not use this device during thunderstorms, as thunderstorms can cause the device to malfunction and increase the risk of electric shock.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""as thunderstorms can cause the device to malfunction and increase the risk of electric shock"" could be rephrased for smoother readability, such as ""since they can cause the device to malfunction and increase the risk of electric shock.""
+```"
+453,6 请勿将本产品与液体接触。,6. Please do not expose this product to liquids.,"```
+MQM annotations:
+Style Errors
+Minor: Unnatural Flow - The phrase ""expose this product to liquids"" could be more naturally expressed as ""contact with liquids"" to better match the source text.
+```"
+454,注意,Attention,"```
+MQM annotations:
+Style Errors
+minor: unnatural flow - The translation ""Attention"" is accurate but lacks context or additional information that would make it more engaging or informative in English. A more natural expression might include a phrase like ""Please pay attention"" or ""Note the following.""
+```"
+457,"3 长时间连续使用耳机有损听力,请合理控制使用时间及音量 ;","Prolonged use of headphones can damage hearing, so please reasonably control the usage time and volume.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""please reasonably control the usage time and volume"" sounds awkward and could be more naturally expressed as ""please manage your usage time and volume sensibly.""
+```"
+471,"2 自您签收次日起 8 日-15日内, 本产品出现《Redmi AirDots 2 ee E 故障表》所列性能故障的情况, 经由小米售后服务中心检测确 定, 可","From the 8th to the 15th day after you sign for the product, if the product exhibits any performance issues listed in the ""Redmi AirDots 2 ee E Fault Table,"" and these issues are confirmed by a Xiaomi after-sales service center, you may...","```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""From the 8th to the 15th day after you sign for the product"" reads awkwardly and could be expressed more naturally.
+```"
+476,电牙耳机 ”2 通话过程中，对方听不到声音。,"""Bluetooth headset"" 2: During a call, the other party cannot hear any sound.","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""Bluetooth headset"" 2 is awkward and does not flow naturally in English. It could be rephrased for clarity and naturalness.
+```"
+480,2 已超过三包有效期;,2. Has exceeded the warranty period.,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Has exceeded the warranty period"" could be made more natural by saying ""The warranty period has expired.""
+```"
+487,欧盟峰会为难民政策争论，欧盟官员：接收过程步步瓶颈-中新网,"EU Summit Debates Refugee Policy, EU Official: Reception Process Faces Bottlenecks - China News Service","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Reception Process Faces Bottlenecks"" reads awkwardly and could be expressed more naturally, such as ""The Reception Process is Facing Bottlenecks.""
+```"
+488,欧盟峰会为难民政策争吵不休，欧盟官员：接收过程每一步都存在瓶颈,"EU summit embroiled in disputes over refugee policy, EU official: There are bottlenecks at every step of the reception process.","```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""embroiled in disputes"" sounds awkward and overly literal. A more natural expression could be ""engaged in disputes"" or ""embroiled in debate.""
+[minor]: [UNNATURAL FLOW] - The phrase ""There are bottlenecks at every step of the reception process"" could be rephrased for a smoother flow, such as ""Bottlenecks occur at every stage of the reception process.""
+```"
+490,据报道，欧盟此举是对欧洲日益增长的非法移民问题关注的回应，如今，欧盟的核心问题在于，最终能被遣返的非法移民人数很少。,"According to reports, this move by the EU is a response to the growing issue of illegal immigration in Europe. Currently, the core issue for the EU is that only a small number of illegal immigrants can ultimately be deported.","```
+MQM annotations:
+Styles error:
+Minor: Unnatural Flow - The phrase ""only a small number of illegal immigrants can ultimately be deported"" could be rephrased for a more natural flow, such as ""only a small number of illegal immigrants are ultimately deported.""
+```"
+493,冯德莱恩一再表示，欧盟资金不会支付相关费用。,Von der Leyen has repeatedly stated that EU funds will not cover the related costs.,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""cover the related costs"" could be more naturally expressed as ""cover the associated costs"" to improve flow.
+```"
+496,据欧盟委员会估计，欧盟的申根国家去年收到超92万份庇护申请，比前一年增加近半。,"According to estimates by the European Commission, the Schengen countries of the European Union received over 920,000 asylum applications last year, an increase of nearly half compared to the previous year.","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""an increase of nearly half compared to the previous year"" could be rephrased for smoother readability, such as ""an increase of nearly 50% from the previous year.""
+```"

@@ -1,0 +1,766 @@
+index,original,translated,locale_convention_annotation
+1,助成金ツアー・県民割旅行ならクラブツーリズム！,Subsidy tours and prefectural discount trips with Club Tourism!,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Subsidy tours and prefectural discount trips with Club Tourism!"" is grammatically correct but sounds awkward and lacks natural flow in English. A more natural expression could be ""Join Club Tourism for subsidy tours and prefectural discount trips!""
+```"
+2,各都道府県毎の助成を活用したツアーをご紹介。,We introduce tours that utilize subsidies from each prefecture.,"```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""We introduce tours that utilize subsidies from each prefecture"" reads awkwardly and could be expressed more naturally in English, such as ""We present tours that make use of subsidies from each prefecture.""
+```"
+6,【比較表】薬剤師転職サイト - 一覧比較表でおすすめ紹介,[Comparison Table] Pharmacist Job Transfer Sites - Recommended Introductions in a List Comparison Table,"```
+MQM annotations:
+major: style/unnatural flow - The phrase ""Pharmacist Job Transfer Sites"" is awkward and could be more naturally expressed as ""Pharmacist Job Sites"" or ""Pharmacist Career Sites.""
+minor: style/unnatural flow - ""Recommended Introductions in a List Comparison Table"" is awkward and could be rephrased for better readability, such as ""Recommended Sites Compared in a Table.""
+```"
+7,《2022年最新版》薬剤師転職サイトランキング。,"""2022 Latest Edition: Pharmacist Job Change Site Rankings.""","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""Pharmacist Job Change Site Rankings"" reads awkwardly and could be more naturally expressed as ""Pharmacist Job Site Rankings for 2022"" or ""2022 Pharmacist Job Site Rankings.""
+```"
+14,初めてのフリーランスで不安な集客や確定申告サポートもご用意しています。,"We offer support for attracting clients and filing tax returns, addressing any concerns you may have as a first-time freelancer.","```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""addressing any concerns you may have"" sounds awkward and overly complex for the context. A more natural expression could be ""to help with any concerns you may have.""
+```"
+16,ルミクス脱毛のサロン紹介サイト - 予約数ランキングTOP5,Lumix Hair Removal Salon Introduction Site - Top 5 in Reservation Rankings,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Top 5 in Reservation Rankings"" sounds slightly awkward and could be more naturally expressed as ""Top 5 Reservation Rankings.""
+```"
+18,早い 短期間 痛くない 熱くないSHR方式のルミクス脱毛サロン予約サイト,"""Fast, short-term, painless, non-heating SHR method Lumix hair removal salon reservation site""","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""Fast, short-term, painless, non-heating SHR method Lumix hair removal salon reservation site"" reads awkwardly and lacks natural flow. A more natural translation might be ""Book your appointment at the Lumix hair removal salon using the fast, short-term, painless, and non-heating SHR method.""
+```"
+19,月々1760円からできる歯科矯正 - 【公式】ウィスマイル矯正,"Orthodontics starting at 1,760 yen per month - [Official] WeSmile Orthodontics","```
+MQM annotations:
+Style Errors:
+Minor: UNNATURAL FLOW - The phrase ""Orthodontics starting at 1,760 yen per month"" could be rephrased for more natural flow, such as ""Orthodontic treatment available from 1,760 yen per month.""
+```"
+20,【1760円から】低価格ではじめるならウィスマイル矯正。,"""Starting from 1,760 yen: If you're looking for an affordable option, choose WisSmile orthodontics.""","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""If you're looking for an affordable option"" could be more naturally expressed as ""For an affordable option"" to improve flow.
+```"
+23,1650円のお試しコース受付中。,"Now accepting applications for the 1,650 yen trial course.","```
+MQM annotations:
+Style Errors
+Minor: UNNATURAL FLOW - The phrase ""Now accepting applications for"" could be more naturally expressed as ""Applications are now open for"" or ""You can now sign up for"" to improve the flow and readability.
+```"
+25,WEBから24時間予約受付中・格安マウスピース矯正・調整料0円。,Accepting reservations 24 hours a day online. Affordable mouthpiece orthodontics with a 0 yen adjustment fee.,"```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""Accepting reservations 24 hours a day online"" reads awkwardly and could be more naturally expressed as ""We accept online reservations 24/7.""
+[minor]: [UNNATURAL FLOW] - The phrase ""Affordable mouthpiece orthodontics with a 0 yen adjustment fee"" could be rephrased for better flow, such as ""Affordable mouthpiece orthodontics with no adjustment fee.""
+```"
+29,不動産のことなら連合隊 - 北見不動産連合隊,"""If it's about real estate, then the Allied Force - Kitami Real Estate Allied Force""","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""If it's about real estate, then the Allied Force"" sounds awkward and could be more naturally phrased as ""When it comes to real estate, the Allied Force"".
+```"
+31,賃貸アパート、マンション、一戸建て。,"Rental apartment, condominium, detached house.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The translation ""Rental apartment, condominium, detached house."" reads slightly awkwardly and could be improved for natural flow. A more natural expression might be ""Apartments, condos, and detached houses for rent.""
+```"
+33,地元に密着・写真は最大30枚・無料の物件査定も実施中。,"""Closely connected to the local area; up to 30 photos; free property assessments also available.""","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""closely connected to the local area"" reads awkwardly and could be more naturally expressed.
+minor: UNNATURAL FLOW - The phrase ""up to 30 photos"" could be rephrased for better flow, such as ""includes up to 30 photos.""
+```"
+36,お急ぎ便が使い放題。,Unlimited use of express delivery.,"```
+MQM annotations:
+Style Errors
+minor: unnatural flow - The phrase ""unlimited use of express delivery"" reads awkwardly and could be more naturally expressed as ""unlimited express delivery service"" or ""unlimited express delivery access.""
+```"
+40,ポイントが貯まる・スマホアプリあり・数億種の品揃え。,"Points can be accumulated, a smartphone app is available, and there is a selection of hundreds of millions of products.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""there is a selection of hundreds of millions of products"" reads awkwardly and could be expressed more naturally.
+```"
+45,あの人気漫画を今こそ一気読み。,Now is the time to binge-read that popular manga.,"```
+MQM annotations:
+Styles error:
+[minor]: [style/unnatural flow] - The phrase ""Now is the time to binge-read"" could be more naturally expressed as ""It's the perfect time to binge-read"" or ""Now's the perfect time to dive into that popular manga.""
+```"
+46,全作品試し読みアリ・買うよりお得。,"""All works available for trial reading - more economical than buying.""","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""more economical than buying"" reads awkwardly and could be expressed in a more natural way, such as ""cheaper than purchasing.""
+```"
+50,クチコミ情報も満載です。,"The translation of the Japanese sentence ""クチコミ情報も満載です。"" to English is: ""It is also full of reviews.""","```
+MQM annotations:
+Styles error:
+[minor]: [style/unnatural flow] - The phrase ""It is also full of reviews"" reads slightly awkwardly. A more natural expression could be ""It also contains many reviews"" or ""It is packed with reviews.""
+```"
+51,タイムセールや限定プランも。,"""Time sales and exclusive plans, too.""","```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""Time sales and exclusive plans, too"" is grammatically correct but sounds awkward and lacks natural flow. A more natural expression could be ""There are also time-limited sales and exclusive plans.""
+```"
+52,自宅で簡単予約・ビジネスホテルが充実・プラン充実・会員登録でポイント貯まる。,Easily book from home - Business hotels are well-equipped - Comprehensive plans - Earn points by registering as a member.,"```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""Business hotels are well-equipped"" reads awkwardly and could be more naturally expressed as ""Business hotels offer excellent facilities.""
+Minor: UNNATURAL FLOW - The phrase ""Comprehensive plans"" is somewhat vague and could be more naturally expressed as ""A wide range of plans available.""
+Minor: UNNATURAL FLOW - The phrase ""Earn points by registering as a member"" could be more naturally expressed as ""Earn points when you register as a member.""
+```"
+54,端子台 貫通をこの価格で買える通販モノタロウ。,"""MonotaRO, an online store where you can buy terminal blocks with through-holes at this price.""","```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The translation ""MonotaRO, an online store where you can buy terminal blocks with through-holes at this price"" reads awkwardly and lacks natural flow. A more natural expression might be ""MonotaRO is an online store where you can purchase terminal blocks with through-holes at this price.""
+```"
+56,端子台 貫通の通販。,Terminal block through-hole online shopping.,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Terminal block through-hole online shopping"" reads awkwardly and lacks natural flow. A more natural expression might be ""Online shopping for through-hole terminal blocks.""
+```"
+59,紀伊御坊駅の格安ホテル - 【じゃらん】公式サイト,Budget Hotels Near Kii-Gobo Station - [Jalan] Official Website,"```
+MQM annotations:
+Styles error:
+Minor: COMPANY STYLE - The translation does not specify the client-specific style guideline for the representation of the brand name ""Jalan"" in brackets. It should be consistent with the client's style guide, which may require a different format or representation.
+```"
+62,【紀伊御坊駅】のホテル・旅館を予約するならじゃらん。,"If you're looking to book hotels or inns near Kii-Gobo Station, try Jalan.","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""try Jalan"" sounds awkward and lacks natural flow. A more natural expression could be ""consider using Jalan"" or ""check out Jalan.""
+```"
+63,じゃらん限定・格安プランも充実。,Exclusive to Jalan: Affordable plans are also available.,"```
+MQM annotations:
+Styles error:
+Minor: DO NOT TRANSLATE - ""Jalan"" should not be translated as it is a brand name and should remain in its original form.
+Minor: UNNATURAL FLOW - The phrase ""Affordable plans are also available"" could be more naturally expressed as ""Affordable plans are available too"" or ""We also offer affordable plans.""
+```"
+64,会員登録でポイント貯まる・当日予約OKの宿多数・お得なクーポン配布中。,"Earn points with membership registration, many accommodations available for same-day booking, and great coupons currently being distributed.","```
+MQM annotations:
+Style Errors
+major: UNNATURAL FLOW - The phrase ""Earn points with membership registration"" is awkward and could be more naturally expressed as ""Earn points by registering as a member.""
+minor: UNNATURAL FLOW - The phrase ""many accommodations available for same-day booking"" could be more naturally expressed as ""many accommodations offer same-day booking.""
+minor: UNNATURAL FLOW - The phrase ""great coupons currently being distributed"" could be more naturally expressed as ""great coupons are currently available.""
+```"
+65,入力簡単60秒で無料査定依頼 - 路線価・地価の相場を調べるなら,"""Request a free appraisal in just 60 seconds - If you're looking to check the standard land prices and market values.""","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""Request a free appraisal in just 60 seconds"" sounds awkward and could be rephrased for better natural flow, such as ""Get a free appraisal in just 60 seconds.""
+minor: UNNATURAL FLOW - The phrase ""If you're looking to check the standard land prices and market values"" is slightly awkward and could be more naturally expressed as ""If you want to check standard land prices and market values.""
+```"
+66,マンション・土地・一戸建ての無料売却査定が可能。,"Free sale assessments are available for apartments, land, and single-family homes.","```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""Free sale assessments are available for apartments, land, and single-family homes"" could be rephrased for a more natural flow, such as ""We offer free sale assessments for apartments, land, and single-family homes.""
+```"
+67,エリアから価格相場の把握ができます。,"""You can grasp the price range from the area.""","```
+MQM annotations:
+Styles error:
+major: unnatural_flow - The phrase ""grasp the price range from the area"" reads awkwardly and could be expressed more naturally in English.
+```"
+68,不動産売却のお悩みはプロが解決！,"""Real estate sale concerns? Let the professionals solve them!""","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The translation ""Real estate sale concerns? Let the professionals solve them!"" reads slightly awkwardly and could be more naturally phrased as ""Concerned about selling real estate? Let the professionals handle it!""
+```"
+71,マンションの売却・査定・最適な売却プランをご提案・売主様へ安心サポート。,"Sale and appraisal of apartments, proposal of the optimal sale plan, and reliable support for sellers.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""proposal of the optimal sale plan"" reads awkwardly and could be more naturally expressed as ""proposing the optimal sale plan.""
+Minor: UNNATURAL FLOW - The phrase ""reliable support for sellers"" could be more naturally expressed as ""providing reliable support for sellers.""
+```"
+75,ダイキン エアコン お客様 センター見つけましょう。,Let's find the Daikin Air Conditioner Customer Center.,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Let's find the Daikin Air Conditioner Customer Center"" is slightly awkward and could be more naturally expressed as ""Let's locate the Daikin Air Conditioner Customer Center.""
+```"
+78,来場予約キャンペーン実施中 - 都市型狭小3階建てモデルハウス,Ongoing Visit Reservation Campaign - Urban Narrow Three-Story Model House,"```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""Urban Narrow Three-Story Model House"" reads awkwardly and could be rephrased for better natural flow, such as ""Three-Story Urban Narrow Model House.""
+```"
+83,ITツールを駆使し業務コストを削減し、リーズナブルな価格でのサービス提供を実現,Utilize IT tools to reduce operational costs and achieve the provision of services at a reasonable price.,"```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""achieve the provision of services at a reasonable price"" is awkward and could be more naturally expressed as ""provide services at a reasonable price.""
+```"
+92,どうしても今すぐお金が必要 - 【厳選3社】即日キャッシング,"""I really need money right now - [Carefully Selected 3 Companies] Same-Day Cash Advance""","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""I really need money right now"" could be more naturally expressed as ""I urgently need money right now"" to improve the flow and readability.
+```"
+98,レストラン予約するなら一休.com、お店の口コミも掲載。,"If you're making a restaurant reservation, try Ikkyu.com, which also features customer reviews.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""try Ikkyu.com"" could be more naturally expressed as ""consider using Ikkyu.com"" to improve the flow.
+```"
+102,幸せウエディングを叶える情報満載／結婚式準備はゼクシィ。,Information packed with everything you need for a happy wedding / Wedding preparations with Zexy.,"```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""Information packed with everything you need for a happy wedding"" reads awkwardly and could be rephrased for natural flow.
+minor: UNNATURAL FLOW - The phrase ""Wedding preparations with Zexy"" could be more engaging and natural in English.
+```"
+107,ゴールドカードはメリットばかり！,"""The gold card has nothing but benefits!""","```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""nothing but benefits"" sounds slightly awkward and could be expressed more naturally.
+```"
+110,自宅用のホームルーターをお探しの方必見！,A must-see for those looking for a home router!,"```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""A must-see for those looking for a home router!"" reads awkwardly and could be more naturally expressed as ""If you're looking for a home router, don't miss this!"" to improve the flow and appeal.
+```"
+112,置くだけで使えるWiFiも！,"""WiFi that you can use just by placing it!""","```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""WiFi that you can use just by placing it!"" reads awkwardly and could be more naturally expressed in English.
+```"
+115,蒲田イン ソーシャル- トリップアドバイザー,Kamata Inn Social - TripAdvisor,"```
+MQM annotations:
+Styles error:
+minor: DO NOT TRANSLATE - ""Kamata Inn"" should not have been translated as it is a proper name and should remain in the original language.
+```"
+119,ショートが似合うか不安な方でもしっかりとカウンセリングして似合わせをいっしょに考えます。,"Even if you're worried about whether a short hairstyle will suit you, we will provide thorough consultation and work together to find a style that suits you.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""work together to find a style that suits you"" could be more naturally expressed as ""we will work with you to find a style that suits you.""
+```"
+124,ロハコ限定、くらしになじむデザインが多数。,"LOHACO exclusive, numerous designs that blend into everyday life.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""blend into everyday life"" is somewhat awkward and could be rephrased for a more natural flow, such as ""seamlessly fit into daily living.""
+```"
+125,最短翌日お届け、PayPay決済対応。,"""Delivery as soon as the next day, PayPay payment supported.""","```
+MQM annotations:
+Style error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Delivery as soon as the next day"" could be more naturally expressed as ""Next-day delivery available"" to improve the flow.
+```"
+127,都心へのマルチアクセスを叶えるタワーレジデンス。,A tower residence that provides multi-access to the city center.,"```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""multi-access to the city center"" is awkward and could be expressed more naturally as ""multiple access points to the city center.""
+```"
+128,4路線利用できる‘目黒’駅に誕生。,"Born at ""Meguro"" Station, where four lines are available.","```
+MQM annotations:
+Style Errors:
+[minor]: [UNNATURAL FLOW] - The phrase ""Born at 'Meguro' Station"" sounds awkward and overly literal. A more natural expression could be ""Located at 'Meguro' Station.""
+```"
+129,野村不動産グループ×JR東日本グループ開発エリア【MEGURO MARC】の32階建タワー。,"The 32-story tower in the development area of [MEGURO MARC], a collaboration between the Nomura Real Estate Group and the JR East Group.","```
+MQM annotations:
+Style errors:
+minor: UNNATURAL FLOW - The phrase ""in the development area of [MEGURO MARC]"" reads awkwardly and could be more naturally expressed as ""located in the [MEGURO MARC] development area.""
+```"
+132,続くから変われる、人生を変える英会話の力をあなたへ。,"""Because it continues, you can change; the power of English conversation that can change your life, to you.""","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The translation ""Because it continues, you can change"" reads awkwardly and lacks natural flow in English.
+minor: UNNATURAL FLOW - The phrase ""the power of English conversation that can change your life, to you"" is awkward and could be rephrased for better readability.
+```"
+136,クラウド電話を1内線200円から - 【公式】サテライトオフィス,Cloud phone from 200 yen per extension - [Official] Satellite Office,"```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""Cloud phone from 200 yen per extension"" reads awkwardly and could be more naturally expressed as ""Cloud phone service starting at 200 yen per extension.""
+```"
+145,glovesdepoを探すなら、日本最大級通販ショップ楽天市場。,"If you're looking for glovesdepo, check out Rakuten Ichiba, Japan's largest online shopping site.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""check out"" could be more formally expressed as ""visit"" or ""explore"" to match the formal tone of the source text.
+```"
+148,目黒 恵比寿 五反田エリアで顧問弁護士をお探しなら目黒国際法律事務所。,"If you are looking for a legal advisor in the Meguro, Ebisu, or Gotanda area, Meguro International Law Office.","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The sentence structure is awkward and lacks natural flow. It would be more natural to say, ""If you are looking for a legal advisor in the Meguro, Ebisu, or Gotanda area, consider Meguro International Law Office.""
+```"
+151,若手弁護士がフットワーク軽く迅速に対応します。,A young lawyer will respond promptly and with agility.,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""with agility"" sounds awkward and could be more naturally expressed as ""with flexibility"" or ""with ease.""
+```"
+152,20代～シニアまで申込める保険 - 【生命保険】はなさく生命,Insurance available for people in their 20s to seniors - [Life Insurance] Hanasaku Life,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Insurance available for people in their 20s to seniors"" sounds slightly awkward. A more natural phrasing might be ""Life insurance for people in their 20s to seniors.""
+```"
+161,素肌が喜ぶ、FOOD(食べもの)から生まれた化粧品。,"Skincare that delights your bare skin, cosmetics derived from food.","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The phrase ""Skincare that delights your bare skin"" sounds awkward and could be more naturally expressed.
+minor: LACKS CREATIVITY - The translation ""cosmetics derived from food"" is correct but could be more engaging or appealing.
+```"
+162,食べてカラダにいいFOODをお肌にも！,"""Eat food that's good for your body and also for your skin!""","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""Eat food that's good for your body and also for your skin!"" could be more naturally expressed in English. A more natural flow might be ""Eat foods that are good for both your body and your skin!""
+```"
+164,特別セールやキャンペーンをお見逃しなく。,Don't miss out on special sales and campaigns.,"```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""Don't miss out on special sales and campaigns"" could be more engaging or dynamic to better capture attention.
+```"
+165,韓国で人気のスキンフード・韓国コスメのスキンフード・SKINFOOD公式通販。,"SKINFOOD, a popular skincare and cosmetics brand in South Korea, official online store.","```
+MQM annotations:
+Styles error:
+major: UNNATURAL FLOW - The translation lacks a natural flow as it reads like a list without a clear connection between elements.
+minor: COMPANY STYLE - The translation does not clearly indicate that SKINFOOD is both a skincare and cosmetics brand, which could be a client-specific requirement for clarity.
+```"
+166,【広島】ホットヨガTOP3 - 人気No1のホットヨガスタジオ,[Hiroshima] Top 3 Hot Yoga - The Most Popular Hot Yoga Studio No. 1,"```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""The Most Popular Hot Yoga Studio No. 1"" reads awkwardly and lacks natural flow in English. A more natural expression would be ""The No. 1 Most Popular Hot Yoga Studio.""
+```"
+169,お得なキャンペーン中,"""Special promotion ongoing""","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Special promotion ongoing"" is grammatically correct but lacks natural flow. A more natural expression would be ""Special promotion is ongoing"" or ""A special promotion is currently ongoing.""
+```"
+175,活力サポートサプリ・テストフェン配合・スーパーマカ配合。,Vitality Support Supplement - Contains Testofen - Contains Super Maca.,"```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""Contains Testofen - Contains Super Maca"" reads awkwardly and could be more naturally expressed as ""with Testofen and Super Maca.""
+```"
+177,【東京23区】で一戸建て探しならオープンハウス。,"If you're looking for a house in the 23 wards of Tokyo, Open House is the place to go.","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Open House is the place to go"" reads awkwardly and could be more naturally phrased as ""Open House is the best choice"" or ""Open House is the ideal option.""
+```"
+180,厳選した大泉学園の一戸建てを掲載中。,We are featuring a carefully selected collection of single-family homes in Ōizumigakuen.,"```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""a carefully selected collection of"" could be more naturally expressed as ""a curated selection of"" for better flow.
+```"
+186,宿泊&航空券をあんしん予約。,"""Book accommodations and flights with peace of mind.""","```
+MQM annotations:
+Style Errors:
+[minor]: [unnatural flow] - The phrase ""with peace of mind"" reads slightly awkwardly and could be more naturally expressed as ""with confidence"" or ""securely.""
+```"
+196,モテ髪ヘアカタログ・人気サロンをネット予約・ネット予約でポイントGet。,Popular salon hairstyles catalog - Make online reservations and earn points with online booking.,"```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - ""Make online reservations and earn points with online booking"" could be rephrased for better flow, such as ""Book online and earn points.""
+```"
+198,クチコミ比較、最安値予約、現地払い。,"Review comparison, lowest price booking, pay on site.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The translation ""Review comparison, lowest price booking, pay on site"" reads awkwardly and could be more naturally expressed as ""Compare reviews, book at the lowest price, pay on site.""
+```"
+204,全国のビューティーサロンの検索、空席確認、ネット予約。,"Search for beauty salons nationwide, check availability, and make online reservations.","```
+MQM annotations:
+Style Errors:
+minor: unnatural_flow - The translation ""Search for beauty salons nationwide, check availability, and make online reservations."" is grammatically correct but reads a bit too literally. A more natural flow in English might be ""Find beauty salons across the country, check their availability, and book online.""
+```"
+206,理想の照明がない… - 取扱いブランド数、日本最大級,"""The ideal lighting is not available... - Number of brands handled, one of the largest in Japan.""","```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""The ideal lighting is not available..."" sounds awkward and lacks natural flow in English. A more natural expression could be ""We don't have the ideal lighting...""
+[minor]: [UNNATURAL FLOW] - The phrase ""Number of brands handled, one of the largest in Japan."" is awkward and could be rephrased for better readability, such as ""We handle one of the largest numbers of brands in Japan.""
+```"
+209,各種カード、ポイント還元・日本最大級2万点の品ぞろえ。,"Various cards, point rewards - Japan's largest selection with 20,000 items.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""Japan's largest selection with 20,000 items"" reads awkwardly and could be more naturally expressed as ""Japan's largest selection of 20,000 items.""
+```"
+214,"【公式】ヴァージンクリニック - 全身医療脱毛5回88,000円／京都","[Official] Virgin Clinic - Full Body Medical Hair Removal 5 Sessions for 88,000 Yen / Kyoto","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Full Body Medical Hair Removal 5 Sessions for 88,000 Yen / Kyoto"" could be rephrased for better readability and flow, such as ""5 sessions of full-body medical hair removal for 88,000 yen in Kyoto.""
+```"
+217,追加料金も0円で安心,"""No additional charges, so you can feel at ease.""","```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""so you can feel at ease"" is a bit awkward and could be more naturally expressed as ""for peace of mind.""
+```"
+218,幕張本郷 口コミ第1位の整体院 - 多くの専門家が絶賛する技術,Makuhari Hongō's No. 1 Rated Chiropractic Clinic - Techniques Highly Praised by Many Experts,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Makuhari Hongō's No. 1 Rated Chiropractic Clinic"" reads awkwardly in English and could be rephrased for better flow, such as ""Top-Rated Chiropractic Clinic in Makuhari Hongō"".
+```"
+232,料金も時間も節約しよう。,"""Let's save both money and time.""","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""Let's save both money and time"" is slightly awkward and could be rephrased for a more natural flow, such as ""Let's save time and money.""
+```"
+234,お気に入りの宿を特別料金で。,"""Your favorite accommodation at a special rate.""","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""Your favorite accommodation at a special rate"" could be more naturally expressed as ""Enjoy special rates at your favorite accommodation"" to improve flow and readability.
+```"
+238,自分で淹れたおいしい一杯を味わいながら、プロの技をマスター。,"""Master professional techniques while enjoying a delicious cup you brewed yourself.""","```
+MQM annotations:
+Styles error:
+major: unnatural_flow - The phrase ""while enjoying a delicious cup you brewed yourself"" reads awkwardly and could be more naturally expressed in English, such as ""while savoring a delicious cup that you brewed yourself.""
+```"
+244,25歳以下または対象期間内に引越した方でAirターミナル5を購入・契約し、開通後アンケート回答で,"""Those who are 25 years old or younger, or who have moved during the specified period, and have purchased or contracted Air Terminal 5, will receive a survey after activation.""","```
+MQM annotations:
+Style Errors:
+major: UNNATURAL FLOW - The phrase ""will receive a survey after activation"" reads awkwardly and could be rephrased for better flow, such as ""will be asked to complete a survey after activation.""
+```"
+246,3層タイプのプリーツマスクで、オメガ形状のプリーツが大きく広がり、鼻や口を圧迫しにくく、呼吸しやすくなっています。,"With its three-layer pleated design, the omega-shaped pleats of the mask expand widely, making it less likely to press against the nose and mouth, thus allowing for easier breathing.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""making it less likely to press against the nose and mouth"" reads awkwardly and could be more naturally expressed as ""reducing pressure on the nose and mouth.""
+```"
+248,10枚/袋×2袋で包装しており、持ち運び便利な仕様です。,"It is packaged as 10 pieces per bag × 2 bags, making it convenient to carry.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""making it convenient to carry"" could be rephrased for a more natural flow, such as ""which makes it easy to carry.""
+```"
+249,ゴム紐は6mmの平ゴム形状なので、耳への当たりが柔らかく、よくある耳の痛みも軽減してくれます。,"The elastic cord has a 6mm flat shape, making it soft on the ears and helping to reduce the common pain associated with wearing it.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""making it soft on the ears"" reads awkwardly and could be more naturally expressed as ""which makes it gentle on the ears.""
+```"
+263,※A4 5冊入の商品に掲載の画像は新しいパッケージの商品です。,The image shown for the product containing 5 A4 notebooks is of the new packaging.,"```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""The image shown for the product containing 5 A4 notebooks"" could be more naturally expressed as ""The image for the product with 5 A4 notebooks.""
+```"
+264,以前のパッケージ商品の用紙と仕様は同一です。,"""The paper and specifications of the previous packaged product are the same.""","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""are the same"" is slightly awkward and could be more naturally expressed as ""remain unchanged"" or ""are identical"" for better flow.
+```"
+266,箱に記載されている注文コードと500枚入の包装紙記載の注文コードは異なります。,The order code listed on the box is different from the order code listed on the packaging of 500 sheets.,"```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""packaging of 500 sheets"" could be expressed more naturally as ""500-sheet packaging"" for better readability.
+```"
+267,(500枚入の1冊で販売するためです),"""(This is because it is sold as a book containing 500 sheets)""","```
+MQM annotations:
+Style Errors:
+[minor]: [unnatural_flow] - The phrase ""as a book containing 500 sheets"" is grammatically correct but reads awkwardly. A more natural expression could be ""in a book format of 500 sheets"" or ""in a 500-sheet book.""
+```"
+270,ブレーキライニングやブレーキドラムや機械部品等に付着したオイルやグリース等の汚れをきれいに落としブレーキ装置から発生する様々な粉塵を空気中に飛散させることなく、油脂類やカーボン等の汚れを素早くきれいに落とします。,"It effectively cleans oil, grease, and other dirt adhered to brake linings, brake drums, and mechanical parts, and quickly removes grease, carbon, and other contaminants without dispersing various dust particles generated from the brake system into the air.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""quickly removes grease, carbon, and other contaminants"" could be rephrased for better flow, such as ""quickly and effectively cleans grease, carbon, and other contaminants.""
+```"
+271,又、オゾン層の破壊や環境汚染の原因となるフロン及びトリクロロエタンを一切含まない有機溶剤中毒予防規則適用外の洗浄剤です。,"Additionally, this cleaning agent does not contain any chlorofluorocarbons (CFCs) or 1,1,1-trichloroethane, which cause ozone layer depletion and environmental pollution, and is exempt from the Organic Solvent Poisoning Prevention Regulations.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""and is exempt from the Organic Solvent Poisoning Prevention Regulations"" could be rephrased for better readability and flow.
+```"
+274,缶の逆さ使用OK。,"""It is okay to use the can upside down.""","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""It is okay to use the can upside down"" could be more naturally expressed as ""You can use the can upside down"" for better readability and flow.
+```"
+276,ニトリルゴム手袋 極薄 粉なし ブルー色 100枚入,"Nitrile rubber gloves, ultra-thin, powder-free, blue color, pack of 100.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""pack of 100"" could be more naturally expressed as ""100-pack"" in English.
+```"
+277,柔らかく手にピッタリフィットするので、長時間の細かな作業に適しています。,"It fits softly and perfectly in your hand, making it suitable for detailed work over long periods.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""It fits softly and perfectly in your hand"" reads awkwardly and could be more naturally expressed in English.
+```"
+279,便利な左右兼用タイプのためムダなくお使いいただけます。,You can use it efficiently without waste because it is a convenient type that is suitable for both left and right-handed use.,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""use it efficiently without waste"" sounds awkward and could be rephrased for better flow.
+```"
+283,※体質によっては、かゆみ、かぶれ、発疹等をおこすことがあります。,"※ Depending on your constitution, it may cause itching, rashes, or other skin reactions.","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Depending on your constitution"" sounds slightly awkward and could be more naturally expressed as ""Depending on your body type"" or ""Depending on your individual sensitivity.""
+```"
+286,膨潤、浸透、老化することがあります。,"The translation from Japanese to English is: ""It may swell, permeate, and age.""","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""It may swell, permeate, and age"" reads awkwardly and could be more naturally expressed in English.
+```"
+289,※爪先、刃物や尖ったもの等で傷をつけないよう注意してください。,"Please be careful not to scratch or damage it with your fingertips, blades, or other sharp objects.","```
+MQM annotations:
+Styles error:
+[minor]: [style/unnatural_flow] - The phrase ""scratch or damage it with your fingertips"" is awkward and could be more naturally expressed as ""scratch or damage it with fingertips.""
+```"
+290,水漏れの原因になります。,"""It can cause a water leak.""","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""It can cause a water leak"" is grammatically correct but could be expressed more naturally as ""This may lead to a water leak.""
+```"
+295,サイズが一目瞭然のデザイン。,A design where the size is immediately apparent.,"```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""immediately apparent"" sounds slightly awkward and could be expressed more naturally in English.
+```"
+299,※電池のアルカリ液が目に入ったときは失明などのおそれがあるので、すぐに多量のきれいな水で洗い流し、 医師の治療を受ける。,"If alkaline battery fluid gets into your eyes, there is a risk of blindness, so immediately rinse with plenty of clean water and seek medical attention.","```
+MQM annotations:
+Style errors:
+Major: UNNATURAL FLOW - The phrase ""there is a risk of blindness"" could be rephrased to improve readability and flow, such as ""as it may cause blindness.""
+Minor: UNNATURAL FLOW - The phrase ""immediately rinse with plenty of clean water"" could be more naturally expressed as ""rinse your eyes immediately with plenty of clean water.""
+```"
+306,※この電池は充電式でないので、充電すると液漏れ、発熱、破裂のおそれがある。,"※This battery is not rechargeable, so attempting to recharge it may result in leakage, overheating, or rupture.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""attempting to recharge it may result in"" could be more naturally expressed as ""charging it can cause"" for better readability.
+```"
+315,着け具合も柔らかくフィット感のある軍手です。,These are work gloves that are soft and have a comfortable fit.,"```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The translation ""These are work gloves that are soft and have a comfortable fit."" reads slightly awkwardly. A more natural flow would be ""These work gloves are soft and fit comfortably.""
+```"
+318,※回転体を伴う機械作業では、使用しないでください。,"""Please do not use during machine operations involving rotating bodies.""","```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""during machine operations involving rotating bodies"" sounds awkward and overly formal. A more natural phrasing could be ""when operating machinery with rotating parts.""
+```"
+321,マスキングテープ 高品質 和紙基材,"Masking tape, high quality, Japanese paper base","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The translation ""Japanese paper base"" reads awkwardly and could be rephrased for better flow, such as ""base made of Japanese paper.""
+```"
+323,のり残りが少なくタテ裂けが起こりにくいです。,"""The remaining glue is minimal, making it less prone to vertical tearing.""","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""the remaining glue is minimal"" could be expressed more naturally as ""there is minimal remaining glue"" for better readability.
+```"
+324,※被着体、塗料の種類によっては貼り跡やのり残りが発生する場合がありますので、問題がないことを確かめてからご使用下さい。,"Please ensure there are no issues before use, as adhesive marks or residue may occur depending on the type of substrate and paint.","```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""Please ensure there are no issues before use"" could be more naturally expressed as ""Ensure there are no issues before using.""
+```"
+329,※ティシューは水に溶けにくいため、水洗トイレには流さないでください。,"※Tissues do not dissolve easily in water, so please do not flush them down the toilet.","```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""Tissues do not dissolve easily in water"" could be more naturally expressed as ""Tissues are not easily dissolvable in water"" to improve readability and flow.
+```"
+331,※引火の原因になりますので、火気の近くに置かないでください。,"Please do not place it near open flames, as it may cause ignition.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""as it may cause ignition"" reads awkwardly and could be more naturally expressed as ""because it may ignite.""
+```"
+334,プロユーザーにも安心してご使用いただける品質の、弱粘着タイプ養生テープです。,This is a low-adhesion masking tape with quality that ensures peace of mind for professional users.,"```
+MQM annotations:
+major: style/unnatural flow - The phrase ""quality that ensures peace of mind"" is awkward and could be more naturally expressed.
+minor: style/register - The phrase ""peace of mind"" is somewhat informal for a professional context; a more formal expression could be used.
+```"
+339,手で簡単にカットできる養生用ポリエチレンクロステープで耐候性・耐水性に優れています。,This polyethylene cloth tape for protection can be easily cut by hand and offers excellent weather resistance and water resistance.,"```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""offers excellent weather resistance and water resistance"" is somewhat repetitive and could be phrased more naturally as ""offers excellent weather and water resistance.""
+```"
+340,再はくり性が良好です。,"The translation of ""再はくり性が良好です。"" is ""The re-peelability is good.""","```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""The re-peelability is good"" sounds slightly awkward and could be more naturally expressed as ""The re-peelability is excellent"" or ""The re-peelability is satisfactory.""
+```"
+341,※貼る対象物や使用環境によっては、粘着力等数値通りの値が出ない場合がございます。,"Depending on the object to which it is applied or the usage environment, the adhesive strength and other values may not match the specified numbers.","```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""may not match the specified numbers"" is slightly awkward and could be rephrased for more natural flow, such as ""may not correspond to the specified values.""
+```"
+349,※養生後、テープを早く剥すと破断する恐れがありますので、ゆっくり剥してください。,"※ After curing, there is a risk of breakage if the tape is removed quickly, so please peel it off slowly.","```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""peel it off slowly"" could be rephrased for a more natural flow, such as ""please remove it slowly.""
+```"
+350,※粘着剤特有のにおいがありますので、換気の良い所でのご使用をお勧めします。,"※ There is a distinctive odor from the adhesive, so it is recommended to use it in a well-ventilated area.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""There is a distinctive odor from the adhesive"" could be rephrased for a more natural flow, such as ""The adhesive has a distinctive odor.""
+```"
+351,※被着体と養生期間によっては、被着体を汚染・損傷する場合がありますので、ご使用前にお確かめください。,"Please note that depending on the adherend and the curing period, there may be cases where the adherend could be contaminated or damaged, so please verify before use.","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""there may be cases where the adherend could be contaminated or damaged"" reads awkwardly and could be rephrased for smoother readability, such as ""the adherend may become contaminated or damaged.""
+```"
+356,従来品に比べ耐候性がアップしました。,"""Compared to conventional products, weather resistance has been improved.""","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""weather resistance has been improved"" could be rephrased for a more natural flow, such as ""the weather resistance has been enhanced.""
+```"
+360,保管する場合は密閉することを推奨します。,It is recommended to seal tightly when storing.,"```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""seal tightly when storing"" reads a bit awkwardly and could be rephrased for a more natural flow, such as ""ensure a tight seal when storing.""
+```"
+362,※一度ご使用された製品を再度ご使用にされることで、結束力不足により不具合が発生する可能性があります。,※There is a possibility of malfunction due to insufficient cohesion if a product that has been used once is used again.,"```
+MQM annotations:
+Style Errors
+minor: unnatural_flow - The phrase ""if a product that has been used once is used again"" reads awkwardly and could be more naturally expressed as ""if a previously used product is reused.""
+```"
+365,※取り付けの際には現車取り付け部に真っ直ぐ取り付け作業を行ってください。,"When installing, please ensure that the installation is carried out straight onto the mounting section of the actual vehicle.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""carried out straight onto the mounting section"" reads awkwardly and could be more naturally expressed as ""installed directly onto the mounting section.""
+```"
+368,現在販売している商品は品質確認済になりますのでご安心してご使用下さい。,"The products currently on sale have been quality-checked, so please feel confident in using them.","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""please feel confident in using them"" is slightly awkward and could be more naturally expressed as ""feel free to use them with confidence.""
+```"
+369,※当製品は交換作業を整備業者へ依頼して行う事をおすすめします。,※We recommend that you request a maintenance professional to perform the replacement work for this product.,"```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""request a maintenance professional to perform the replacement work for this product"" reads awkwardly and could be more naturally expressed as ""have a maintenance professional handle the replacement work for this product.""
+```"
+370,個人で交換作業を行った場合は補償出来ない場合もございます。,"If the replacement work is carried out individually, there may be cases where compensation cannot be provided.","```
+MQM annotations:
+Styles error:
+Minor: Unnatural Flow - The phrase ""there may be cases where compensation cannot be provided"" reads awkwardly and could be more naturally expressed as ""compensation may not be provided in some cases.""
+```"
+371,※ネジ寸法が各オイルフィルターで異なっている為、高さや外径などが同じフィルターに見えても取り付け前に再度、車種とネジ寸法をご確認ください。,"Please double-check the vehicle model and screw dimensions before installation, as the screw dimensions vary for each oil filter, and filters that appear to have the same height and outer diameter may differ.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""filters that appear to have the same height and outer diameter may differ"" could be rephrased for a more natural flow in English.
+```"
+373,※わずかな違いでも大きなトラブルになる場合がございます。,"""Even a slight difference can lead to significant trouble.""","```
+MQM annotations:
+Style Errors
+minor: unnatural flow - The phrase ""Even a slight difference can lead to significant trouble"" reads slightly awkwardly and could be more naturally expressed in English.
+```"
+378,白メリヤスウエス 中古生地,"""White jersey rags made from used fabric""","```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""White jersey rags made from used fabric"" is grammatically correct but reads awkwardly. A more natural expression might be ""White rags made from used jersey fabric.""
+```"
+380,ウエス製品の中で優れた製品です。,"""It is an excellent product among the wiper products.""","```
+MQM annotations:
+Style errors:
+[minor]: [UNNATURAL FLOW] - The phrase ""among the wiper products"" reads awkwardly and could be more naturally expressed as ""among wiper products.""
+```"
+382,カット済。,"""Cut"" or ""Already cut.""","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The translation ""Already cut"" sounds slightly awkward and could be more naturally expressed as ""Pre-cut"" or ""Cut already"" in English.
+```"
+390,※用途以外に使用しないでください。,"""Please do not use for purposes other than intended.""","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""for purposes other than intended"" reads awkwardly and could be rephrased for better natural flow, such as ""for any other purposes than those intended.""
+```"
+393,ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,"There is a possibility of discoloration occurring due to contact with chemical products, so please avoid using chemical products.","```
+MQM annotations:
+Styles error:
+Minor: UNNATURAL FLOW - The phrase ""There is a possibility of discoloration occurring"" is somewhat awkward and could be more naturally expressed as ""Discoloration may occur"".
+```"
+395,食品に触れる用途には使用しないでください。,"""Do not use for applications that involve contact with food.""","```
+MQM annotations:
+Styles error:
+[minor]: [unnatural flow] - The phrase ""applications that involve contact with food"" is slightly awkward and could be more naturally expressed as ""applications involving contact with food.""
+```"
+398,※ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,"※ There is a possibility of color fading due to contact with chemical products, so please avoid using chemical items.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""There is a possibility of color fading due to contact with chemical products"" is grammatically correct but could be more naturally expressed as ""Color fading may occur if the product comes into contact with chemicals.""
+```"
+399,ハンドクリーナー 工業用 オレンジエキス保湿成分配合 スクラブ入り,Industrial Hand Cleaner with Orange Extract Moisturizing Ingredients and Scrubbing Particles,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""with Orange Extract Moisturizing Ingredients and Scrubbing Particles"" reads awkwardly and could be more naturally expressed as ""with moisturizing orange extract and scrubbing particles.""
+```"
+409,異物感が残る場合は、眼科医にご相談ください。,"If you continue to feel a foreign body sensation, please consult an ophthalmologist.","```
+MQM annotations:
+Styles error:
+[minor]: [style/unnatural_flow] - The phrase ""continue to feel a foreign body sensation"" is somewhat awkward and could be more naturally expressed as ""If you still feel like there's something in your eye.""
+```"
+421,※使用後の本製品の廃棄は、お住まいの各自治体で定められたゴミ廃棄方法に従ってください。,Please dispose of this product after use in accordance with the waste disposal methods specified by the local government in your area.,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""in accordance with the waste disposal methods specified by the local government in your area"" could be more naturally expressed as ""according to the waste disposal methods specified by your local government.""
+```"
+422,※袋を閉じる際は結束バンドでしっかり結んでください。,"When closing the bag, please make sure to securely fasten it with a tie band.","```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""please make sure to securely fasten it"" could be simplified to ""please securely fasten it"" for a more natural flow.
+```"
+428,※本来の用途以外には使用しないでください。,"""Please do not use for purposes other than the intended use.""","```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""for purposes other than the intended use"" reads slightly awkwardly and could be more naturally expressed as ""for any other purposes than its intended use.""
+```"
+434,※フタが開けにくい際はフタを少し潰す様に押すと開けやすくなります。,"*If the lid is difficult to open, it will be easier to open if you press it slightly to crush it.*","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""press it slightly to crush it"" reads awkwardly and could be more naturally expressed as ""press down slightly on it.""
+```"
+435,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"※ When disposing of the contents, cleaning waste liquid, or containers, please entrust the task to a specialized waste disposal contractor authorized by the prefecture.","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""please entrust the task to a specialized waste disposal contractor authorized by the prefecture"" reads awkwardly and could be rephrased for better flow, such as ""please use a specialized waste disposal contractor authorized by the prefecture.""
+```"
+438,透明度があり加工後も封入物の文字をクッキリ読めます。,"""The transparency allows you to clearly read the text of the enclosed items even after processing.""","```
+MQM annotations:
+Style Errors
+minor: unnatural_flow - The phrase ""the text of the enclosed items"" reads awkwardly and could be more naturally expressed as ""the text within the enclosed items"" or ""the text inside the enclosed items.""
+```"
+439,※機器には接着加工してあるシール部分から挿入してください。,Please insert through the sealed part that has been adhered to the device.,"```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""that has been adhered to the device"" reads awkwardly and could be more naturally expressed as ""adhered to the device.""
+```"
+443,※一度加工したシートは再生不能となります。,"""※ Once the sheet has been processed, it cannot be restored.""","```
+MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""Once the sheet has been processed, it cannot be restored"" is grammatically correct but could be more naturally expressed as ""Once processed, the sheet cannot be restored.""
+```"
+450,※工業用の薬品やアルコール、石油製品などには絶対に使用しないで下さい。,"Please do not use this with industrial chemicals, alcohol, petroleum products, etc.","```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""Please do not use this with"" could be expressed more naturally as ""Do not use this with"" for better flow.
+```"
+451,※熱湯は入れないで下さい。,*Please do not pour boiling water.*,"```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""Please do not pour boiling water"" could be rephrased for a more natural flow, such as ""Do not pour boiling water.""
+```"
+455,中身が漏れる恐れがございます。,There is a risk of contents leaking.,"```
+MQM annotations:
+Style Errors
+minor: style/unnatural flow - The phrase ""There is a risk of contents leaking"" could be more naturally expressed as ""There is a risk of the contents leaking.""
+```"
+459,店頭でフックなどに吊り下げることができる便利な穴付きです。,"""It has a convenient hole that allows it to be hung on hooks at the store.""","```
+MQM annotations:
+Styles error:
+Minor: Unnatural Flow - The phrase ""at the store"" is awkwardly placed and could be more naturally integrated into the sentence.
+```"
+460,フック用穴と本体の間はミシン目入りなので、フックに掛けて本体を引っ張れば穴の下から切れて使える構造になっています。,"The area between the hole for the hook and the main body has perforations, so when you hang it on a hook and pull the main body, it tears off below the hole, making it usable.","```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""making it usable"" sounds slightly awkward and could be rephrased for a more natural flow, such as ""allowing it to be used.""
+```"
+461,表面にエンボス加工入り。,"""Embossed on the surface.""","```
+MQM annotations:
+Styles error:
+[minor]: [unnatural flow] - The translation ""Embossed on the surface"" is correct but reads slightly awkwardly. A more natural expression might be ""The surface is embossed.""
+```"
+464,※幼児や子供がかぶって遊ぶと窒息などの危険がありますのでご注意ください。,Please be aware that there is a risk of suffocation if infants or children wear this as a plaything.,"```
+MQM annotations:
+Styles error:
+[major]: [UNNATURAL FLOW] - The phrase ""wear this as a plaything"" reads awkwardly and could be more naturally expressed as ""wear this for play.""
+```"
+465,※高温多湿を避け、火の気のない場所で保管してください。,"Please store in a cool, dry place away from high temperatures, humidity, and fire.","```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""away from high temperatures, humidity, and fire"" reads slightly awkwardly and could be more naturally expressed as ""away from heat, humidity, and open flames.""
+```"
+481,OPPテープ 透明色,"OPP tape, transparent color","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""transparent color"" is awkward and could be more naturally expressed as ""transparent"" in English.
+```"
+482,梱包用テープとして、価格も安く強度も強い為、良く使われています。,"As a packaging tape, it is often used because it is inexpensive and strong.","```
+MQM annotations:
+Styles error:
+minor: unnatural_flow - The phrase ""because it is inexpensive and strong"" could be rephrased for a more natural flow, such as ""due to its affordability and strength.""
+```"
+487,※梱包用途以外の使用は避けてください。,※ Please avoid using for purposes other than packaging.,"```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""Please avoid using for purposes other than packaging"" is slightly awkward and could be more naturally phrased as ""Please do not use for purposes other than packaging.""
+```"
+488,貼る面を損傷する場合がございます。,"""The surface to which it is applied may be damaged.""","```
+MQM annotations:
+Styles error:
+[minor]: [UNNATURAL FLOW] - The phrase ""the surface to which it is applied"" reads awkwardly and could be more naturally expressed as ""the surface it is applied to.""
+```"
+492,※物性は測定値であり、規格値或いは保証値でありません。,※The physical properties are measured values and are not standard or guaranteed values.,"```
+MQM annotations:
+Styles error:
+minor: UNNATURAL FLOW - The phrase ""are measured values and are not standard or guaranteed values"" reads awkwardly and could be more naturally expressed as ""are measured values, not standard or guaranteed ones.""
+```"
+499,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"※ When disposing of the contents, cleaning waste liquid, or containers, please entrust the task to a professional waste disposal contractor authorized by the prefecture.","```
+MQM annotations:
+Styles error:
+[minor]: [unnatural_flow] - The phrase ""please entrust the task"" sounds slightly awkward and could be more naturally expressed as ""please use"" or ""please hire.""
+```"

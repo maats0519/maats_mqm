@@ -1,0 +1,1065 @@
+index,original,translated,accuracy_annotation
+0,本文件按照 GB/T 1.1 一 202 久标准化工作导则第工部分:标准化文件的结构和起草规则的规定起惠。,This document is drafted in accordance with the provisions of Part 1 of the GB/T 1.1-202X Standardization Work Guidelines: Structure and Drafting Rules of Standardization Documents.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""第工部分"" is mistranslated as ""Part 1"" instead of ""Part 1: Work Section"".
+[Major]: [accuracy/mistranslation] - ""202 久"" is mistranslated as ""202X"" instead of ""2029"".
+[Minor]: [accuracy/error_subcategory] - None
+```"
+4,"在四字节编码区更改了18 个 GB/T 13000 代码位置(见附录 D,2005 年版的附录D);","18 GB/T 13000 code positions in the four-byte encoding area have been changed (see Appendix D, Appendix D of the 2005 edition);","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""four-byte encoding area"" should be ""four-octet encoding area"" as 四字节 refers to octets, not bytes.
+[Major]: [accuracy/mistranslation] - ""Appendix D of the 2005 edition"" is repeated unnecessarily; it should only be mentioned once.
+[Minor]: [accuracy/omission] - None
+```"
+8,请注意本文件的某些内容可能涉及专利。 本文件的发布机构不承担识别专利的责任。,Please note that some content in this document may involve patents. The publishing organization of this document does not assume responsibility for identifying patents.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The phrase ""本文件的发布机构"" (The publishing organization of this document) is not fully translated. The translation should specify that the organization is the one responsible for the document.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+10,本文件及其所代替文件的历次版本发布情况为 :,The release history of this document and its previous versions is as follows:,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - ""The translation 'The release history of this document and its previous versions is as follows:' does not fully capture the meaning of the source text, which includes the notion of '发布情况' (release situation or status) that is missing in the translation.""
+[Major]: accuracy/omission - ""The translation omits the phrase '及其所代替文件的历次版本' which refers to 'this document and its previous versions,' leading to a loss of important meaning.""
+[Minor]: accuracy/addition - None
+```"
+13,信息扩术 ”中文编码字符集,"""Information Expansion: Chinese Character Encoding Set""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""Information Expansion"" does not accurately reflect the meaning of ""信息扩术,"" which seems to be a typo or mistranslation of ""信息扩展"" (Information Expansion).
+[Major]: [accuracy/mistranslation] - ""Chinese Character Encoding Set"" does not accurately translate ""中文编码字符集,"" which should be ""Chinese Encoded Character Set.""
+[Minor]: [accuracy/omission] - None
+```"
+16,"本文件适用于为具备中文和其他文字图形字符信息化处理及交换功能的技术类产品,包括但不限于以输入法、光学字符识别 (OCR)、编辑 校对、机融翻诺、语音合成、文字转写、乔能写作等为代表的软件产品 , 以及以计算机、通信终端设备、电子书阅读毅、学习机等为代表的便件产品 。","This document applies to technical products with the capability to process and exchange information in Chinese and other written graphic characters. This includes, but is not limited to, software products such as input methods, optical character recognition (OCR), editing and proofreading, machine translation, speech synthesis, text transcription, and intelligent writing. It also includes hardware products such as computers, communication terminal devices, e-book readers, and learning machines.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""机融翻诺"" is mistranslated as ""machine translation"" instead of ""machine-aided translation"".
+[Minor]: accuracy/omission - The phrase ""便件产品"" is omitted in the translation, which refers to ""portable hardware products"".
+```"
+20,GB/T 2312 一 1980 ”信息交换用汉字编码字符集 ”基本集,"GB/T 2312-1980 ""Character Set for Information Exchange in Chinese"" Basic Set","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""Character Set for Information Exchange in Chinese"" does not accurately reflect the source text ""信息交换用汉字编码字符集,"" which should be translated as ""Chinese Character Encoding Character Set for Information Exchange.""
+[Major]: [accuracy/omission] - The translation omits the phrase ""一 1980,"" which indicates the year of the standard and should be included as ""-1980"" in the translation.
+[Minor]: [accuracy/addition] - None
+```"
+21,GB/I 11383 一 1989 信息 处理 ”信息交换用八位代码结构和编码规则,GB/T 11383-1989 Information Processing - 8-Bit Code Structure and Encoding Rules for Information Exchange,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation uses ""GB/T"" instead of ""GB/I"", which is incorrect as it changes the code designation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+25,3.1 字符 character,3.1 字符 character,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/error_subcategory] - None
+```
+
+The translation ""3.1 字符 character"" accurately reflects the source text ""3.1 字符 character"" with no accuracy errors."
+30,使用符合本文件的产品的使用者可以自行规定的区域。,Users of products that comply with this document can designate their own specified areas.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""自行规定的"" which means ""designate their own"" or ""self-designated.""
+[Major]: [accuracy/mistranslation] - The translation of ""自行规定的区域"" as ""their own specified areas"" is incorrect. It should be ""self-designated areas"" or ""areas designated by themselves.""
+[Minor]: [accuracy/addition] - None
+```"
+34,留作未来本文件规定的区 域 。,"""Reserved for the area specified in this document for the future.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""Reserved for the area specified in this document for the future."" does not accurately reflect the source text. The source text ""留作未来本文件规定的区 域"" should be translated as ""Reserved for the area specified in this document for future use."" The phrase ""for future use"" is more accurate than ""for the future.""
+[Major]: accuracy/omission - None
+[Minor]: accuracy/addition - The word ""use"" is implied in the source text but not explicitly stated, and its absence in the translation slightly affects the precision of the meaning.
+```"
+36,4 字汇,"The translation of ""4 字汇"" from Chinese to English is ""4-character phrases"" or ""four-character idioms.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation of ""4 字汇"" as ""4-character phrases"" or ""four-character idioms"" is incorrect. The source text ""4 字汇"" does not specify ""phrases"" or ""idioms,"" and the translation inaccurately adds this interpretation.
+[Major]: [accuracy/addition] - The translation adds ""phrases"" or ""idioms,"" which are not present in the source text.
+[Minor]: [accuracy/omission] - None
+```"
+40,4.3 双字节部分,4.3 Double Byte Section,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""Double Byte Section"" for 双字节部分 should be ""Double-byte Section"" to accurately reflect the source.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+41,双字节部分收录了 GB/T 2312 一 1980 中的全部图形字符 GB/T 13000 中的CJK 统一汉字以及部分图形字符。,"The double-byte section includes all graphic characters from GB/T 2312-1980, CJK Unified Ideographs from GB/T 13000, and some graphic characters.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits the phrase ""以及部分图形字符"" (and some graphic characters) from the source text.
+[Major]: [accuracy/mistranslation] - The translation of ""双字节部分收录了"" as ""The double-byte section includes"" is not entirely accurate. It should convey that the double-byte section ""contains"" or ""records"" these characters, which is more precise.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+43,"其中,表意文字描述符的图形、代码位置和功能应符合附录 B 的规定 。","The graphics, code positions, and functions of ideographic descriptors should comply with the provisions of Appendix B.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The term ""ideographic descriptors"" is a mistranslation of ""表意文字描述符,"" which should be translated as ""ideographic character descriptors"" or ""ideographic script descriptors"" to accurately reflect the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+45,"具备独有抽象字形的汉字,赋予单独的代码位置;来源不同而抽象字形相同的汉字, 则赋予共用的代码位置。",Chinese characters with unique abstract glyphs are assigned individual code points; characters with the same abstract glyph but different origins are assigned a shared code point.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""来源不同而抽象字形相同的汉字"" is mistranslated as ""characters with the same abstract glyph but different origins."" The correct translation should emphasize that characters with the same abstract glyph but different sources share a code point.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+47,4.4 四字节部分,4.4 Four-Byte Section,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""Four-Byte Section"" for ""四字节部分"" which should be ""Four-Character Section.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+48,四字节部分收录了上述双字节字符之外的 GB/T 13000 中的 66 个CJK统一汉字(9FA6 一 9FEF，不包括 9FB4~9FBB 的8个字符)、CJK 统一汉字扩充 A、CJK 统一汉字扩充 BCJK 统一汉字扩充 C、 CJK 统一汉字扩充 DCJK 统一汉字扩充下 .CJK 统一汉字扩充 F 和已经 在 GB/ 工 13000 中编码的少数民族文字的字符。,"The four-byte section includes 66 CJK Unified Ideographs from GB/T 13000 that are not part of the aforementioned double-byte characters (9FA6 to 9FEF, excluding 8 characters from 9FB4 to 9FBB), CJK Unified Ideographs Extension A, CJK Unified Ideographs Extension B, CJK Unified Ideographs Extension C, CJK Unified Ideographs Extension D, CJK Unified Ideographs Extension E, CJK Unified Ideographs Extension F, and characters of minority scripts that have already been encoded in GB/T 13000.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""CJK 统一汉字扩充下"" is mistranslated as ""CJK Unified Ideographs Extension E"" instead of ""CJK Unified Ideographs Extension E and below.""
+[Minor]: none
+```"
+52,"附录中凡编码的表示均采用十六进制,其他数字的表示均采用十进制。","In the appendix, all encoded representations are in hexadecimal, while other numerical representations are in decimal.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+58,6 字符的排列顺序,The order of arrangement for 6 characters.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""The order of arrangement for 6 characters"" does not accurately convey the meaning of the source text ""6 字符的排列顺序"". The source text refers to the ""sequence or order of arrangement"" of six characters, but the translation could imply a broader or different context.
+[Major]: [accuracy/omission] - None
+[Minor]: [accuracy/addition] - None
+```"
+59,6.1 单字刷部分字符的排列顺序,6.1 Single-character brushing of the order of some characters,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""Single-character brushing"" does not accurately convey the meaning of ""单字刷"" which refers to ""single-character sorting"" or ""single-character arrangement.""
+[Major]: [accuracy/mistranslation] - The translation ""the order of some characters"" does not fully capture the meaning of ""部分字符的排列顺序,"" which should be ""the arrangement order of some characters.""
+[Minor]: [accuracy/omission] - None
+```"
+60,单字记部分字符按照 GB/I 11383 一 1989 中相应字符的顺序排列 。,The single characters are arranged in the order of the corresponding characters in GB/I 11383-1989.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""GB/I 11383-1989"" should be ""GB/T 11383-1989"" as per the source text.
+[Major]: [accuracy/mistranslation] - The translation ""single characters"" does not accurately convey ""单字记部分字符,"" which refers to ""single-character records of some characters.""
+[Minor]: [accuracy/omission] - The translation omits the phrase ""部分字符,"" which means ""some characters,"" leading to a loss of specificity.
+```"
+67,7 码位分配,"""7-digit code allocation""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""7-digit code allocation"" does not accurately reflect the source text ""7 码位分配"". The term ""码位"" should be translated as ""code point"" rather than ""digit"".
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/error_subcategory] - None
+```"
+71,2.双字部分的码位分配,2. Code point allocation for the double-character section,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits the word ""部分"" (section/part), which is crucial for understanding the context.
+[Major]: [accuracy/mistranslation] - The translation of ""双字"" as ""double-character"" is not entirely accurate. It should be ""two-character"" to reflect the meaning more precisely.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+72,"双字节部分的码位安排分为 0x8140~ 一 0xFE7E 和 0x8180 一 0xFEFE 两部分, 共 23940 个码位。","The code point arrangement for the double-byte section is divided into two parts: 0x8140 to 0xFE7E and 0x8180 to 0xFEFE, with a total of 23,940 code points.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation incorrectly translates ""0x8140~ 一 0xFE7E 和 0x8180 一 0xFEFE"" as ""0x8140 to 0xFE7E and 0x8180 to 0xFEFE,"" where the ""~"" and ""一"" are both used to indicate ranges but are not consistently translated.
+[Major]: accuracy/mistranslation - The translation of ""23940"" as ""23,940"" is incorrect. The source text states ""23940,"" which should be translated as ""23,940"" without altering the number.
+[Minor]: accuracy/addition - None
+```"
+75,双字节 1 区 : 846 码位,Double-byte Area 1: 846 code points,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The term ""双字节"" is mistranslated as ""Double-byte,"" which is incorrect. It should be ""Double Byte Character Set"" or ""DBCS"" to accurately reflect the source term.
+[Major]: accuracy/mistranslation - The term ""1 区"" is mistranslated as ""Area 1,"" which is incorrect. It should be ""Zone 1"" or ""Section 1"" to accurately reflect the source term.
+[Minor]: accuracy/omission - None
+```"
+77,首字节 0xA8~0xA9 双字节 5 区 : 192 码 位,"First byte 0xA8~0xA9, double byte, zone 5: 192 code positions","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""zone 5: 192 code positions"" does not accurately reflect the source text ""5 区 : 192 码 位."" The source text refers to a specific section or area (区) and a number of code positions (码 位), which is not clearly conveyed in the translation.
+[Major]: [accuracy/omission] - The translation omits the context of ""5 区"" which should be translated as ""section 5"" or ""area 5"" to accurately convey the meaning of the source text.
+[Minor]: [accuracy/addition] - None
+```"
+78,3.双字蔬部分编码空间结构图,3. Double-Character Vegetable Partial Encoding Spatial Structure Diagram,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - ""Double-Character Vegetable"" for ""双字蔬"" which should be ""Two-Character Vegetable"".
+[Minor]: None
+```"
+84,表 3 中没有指明的四字节人码位分配见 6.3。,The allocation of four-byte character code points not specified in Table 3 can be found in section 6.3.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - ""人码位"" is mistranslated as ""character code points"". The correct translation should be ""human code points"" or ""person code points"".
+[Major]: None
+[Minor]: None
+```"
+85,表 3 四字闻部分的码位安排,Table 3: Code Point Arrangement for Four-Character Phrases in the Listening Section,"Chinese source: 表 3 四字闻部分的码位安排
+
+English translation: Table 3: Code Point Arrangement for Four-Character Phrases in the Listening Section
+
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""四字闻部分"" is mistranslated as ""Four-Character Phrases in the Listening Section."" The correct translation should reflect the meaning of ""四字闻部分,"" which could refer to a specific section or part related to four-character expressions or phrases, not necessarily ""Listening Section.""
+[Major]: [accuracy/mistranslation] - None
+[Minor]: [accuracy/mistranslation] - None"
+88,码位范围码位数字符数,"The translation of ""码位范围码位数字符数"" from Chinese to English is ""Code point range code point number of characters.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""Code point range code point number of characters"" does not accurately reflect the meaning of the source text ""码位范围码位数字符数."" The translation is confusing and does not convey the intended meaning, which is likely related to the number of characters within a certain code point range.
+[Major]: accuracy/omission - The translation does not clearly convey the structure and meaning of the original phrase, which suggests a relationship between code point ranges and the number of characters.
+[Minor]: accuracy/addition - None
+```"
+91,8 部分字符和代码的说明,Explanation of 8 parts of characters and codes,"Chinese source: 8 部分字符和代码的说明
+
+English translation: Explanation of 8 parts of characters and codes
+
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The word ""说明"" (explanation) is correctly translated, but the translation omits the word ""部分"" (parts), which is crucial to the meaning.
+[Major]: [accuracy/mistranslation] - The translation does not accurately convey the meaning of ""8 部分字符和代码"" as ""8 parts of characters and codes."" It should be ""Explanation of characters and codes in 8 parts"" to reflect the correct structure and meaning.
+[Minor]: [accuracy/error_subcategory] - None"
+97,实现级别 1 文持本文件的单字节编码部分、双季节编码部分和四字下编玛部分的 CJK 统一汉字 ( 即 0x82358F33 一 0x82359636) 和 CJK 统一汉字扩A( 即 0x8139EE39 一 0x82358738) 。,"Translate the following from Chinese to English:
+
+Implement level 1 support for the single-byte encoding section, double-byte encoding section, and four-byte encoding section of this document for CJK Unified Ideographs (i.e., 0x82358F33 to 0x82359636) and CJK Unified Ideographs Extension A (i.e., 0x8139EE39 to 0x82358738).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation of ""文持本文件的"" as ""support for the"" is incorrect. It should be ""support for the single-byte encoding section, double-byte encoding section, and four-byte encoding section of this document.""
+[Major]: accuracy/mistranslation - The translation of ""双季节编码部分"" as ""double-byte encoding section"" is incorrect. It should be ""double-byte encoding section.""
+[Minor]: accuracy/mistranslation - The translation of ""四字下编玛部分"" as ""four-byte encoding section"" is incorrect. It should be ""four-byte encoding section.""
+```"
+102,"此外 ,实现级别 2 还文持《通用 规范 汉字 表 }中的没有包合在实级别 1 之内的编码汉字。","In addition, Level 2 also includes encoded Chinese characters from the ""Table of General Standard Chinese Characters"" that are not included in Level 1.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - ""文持"" is mistranslated as ""includes"" instead of ""also supports"" or ""also covers.""
+[Major]: accuracy/mistranslation - ""实现级别"" is mistranslated as ""Level"" instead of ""implementation level.""
+[Minor]: accuracy/omission - The phrase ""中的没有包合在实级别 1 之内的编码汉字"" is missing the context that these characters are encoded and not included in Level 1.
+```"
+104,"系统软件及支撑软件,应满足实现级别 2 的要求 。",System software and support software should meet the requirements of Level 2.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""实现级别"" is mistranslated as ""Level"" instead of ""Implementation Level"".
+[Minor]: [accuracy/error_subcategory] - None
+```"
+105,"注: 系统软件及文撑软件包括但不限于操作系统,数据库管理系统.中间件( 软件产品分类的信息见 GB/ 工 36475)。","Note: System software and application software include, but are not limited to, operating systems, database management systems, and middleware (for information on software product classification, see GB/T 36475).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The term ""文撑软件"" (application software) is missing in the translation, leading to a loss of important meaning.
+[Major]: [accuracy/mistranslation] - ""文撑软件"" is mistranslated as ""application software"" instead of ""supporting software,"" which is a more accurate translation.
+[Minor]: [accuracy/mistranslation] - ""GB/ 工 36475"" should be ""GB/T 36475"" as per the source text.
+```"
+107,实现级别 3 包含实现级别 2。,Level 3 implementation includes Level 2 implementation.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""实现级别"" as ""Level"" is not entirely accurate. ""实现"" means ""implementation"" or ""realization,"" and ""级别"" means ""level"" or ""grade."" The translation should reflect that ""Level 3 implementation"" includes ""Level 2 implementation.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+109,用于政务服务和公共服务的产品应满足实现级卉 3 的要求。,Products used for government services and public services should meet the requirements of Level 3.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""实现级卉 3"" is mistranslated as ""Level 3"". The correct translation should be ""Level 3 of Jihui"" or ""Jihui Level 3"" to accurately reflect the source text.
+[Major]: [accuracy/omission] - The term ""卉"" is omitted in the translation, which is part of the specific level requirement in the source text.
+[Minor]: [accuracy/mistranslation] - None
+```"
+111,附录 A (规范性 ),Appendix A (Normative),"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""规范性"" as ""Normative"" is not entirely accurate. While ""normative"" can be a translation of ""规范性,"" in the context of appendices, ""normative"" typically refers to standards or rules that are mandatory, which may not fully capture the intended meaning of ""规范性"" in the original Chinese context.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+112,双字字符表,Double-character table,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""Double-character table"" does not accurately convey the meaning of ""双字字符表,"" which should be ""Double-byte character table.""
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/error_subcategory] - None
+```"
+115,A.2 表的说明,A.2 Table Description,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""Table Description"" should be ""Description of the Table"" to more accurately reflect the source text's meaning.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+117,第一字节第二字节低位,"The first byte, the second byte, low-order bits.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""low-order bits"" does not accurately reflect the source text ""低位,"" which means ""low bits"" or ""lower bits.""
+[Major]: [accuracy/omission] - The translation does not include the conjunction ""and"" or a similar connector to link the three parts of the source text, which can affect the clarity of the relationship between them.
+[Minor]: [accuracy/addition] - None
+```"
+121,表意文字描述符,"The translation of ""表意文字描述符"" from Chinese to English is ""ideogram descriptor.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The term ""ideogram"" is not a precise translation for ""表意文字,"" which refers to ""logogram"" or ""ideographic character"" in a broader sense.
+[Major]: [accuracy/mistranslation] - The translation of ""描述符"" as ""descriptor"" is not entirely accurate; it should be ""descriptor"" or ""descriptive term"" in the context of describing characters.
+[Minor]: [accuracy/addition] - None
+```"
+124,表 B.1 表意文字描述符的图形、代码位置和功能描述,"Table B.1 Ideographic Descriptor Symbols, Code Positions, and Functional Descriptions","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""Ideographic Descriptor Symbols"" is a mistranslation of ""表意文字描述符的图形"" which should be ""Graphical Representations of Ideographic Descriptors.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+125,"本文件的码位 GB/T 13000 的码位功能描述相似而不等,用于借某字表达外字","The code points in this document are similar but not equal to the code point function descriptions in GB/T 13000, and are used to express foreign characters using certain characters.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - ""借某字表达外字"" is mistranslated. It should be ""using certain characters to express foreign characters"" rather than ""using certain characters to express foreign characters using certain characters.""
+[Minor]: None
+```"
+130,全包围结构,"The translation of ""全包围结构"" to English is ""fully enclosed structure.""","Chinese source: 全包围结构
+
+English translation: The translation of ""全包围结构"" to English is ""fully enclosed structure.""
+
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - None
+[Major]: [accuracy/mistranslation] - The translation ""fully enclosed structure"" does not fully capture the meaning of ""全包围结构,"" which can also imply a more comprehensive or all-encompassing structure, not just fully enclosed.
+[Minor]: [accuracy/mistranslation] - None"
+133,回右包围结构,"The phrase ""回右包围结构"" translates to ""right-enclosed structure"" in English.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""right-enclosed structure"" does not accurately convey the meaning of ""回右包围结构."" The phrase ""回右包围结构"" refers to a specific structural concept in Chinese, often related to architecture or design, where a structure is enclosed or surrounded on the right side, and the translation does not capture this specific meaning.
+[Major]: [accuracy/addition] - None
+[Minor]: [accuracy/omission] - None
+```"
+136,回右上包围结构,The structure that encloses from the top right.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""The structure that encloses from the top right"" does not accurately convey the meaning of the source text ""回右上包围结构"", which refers to a specific type of Chinese character structure where the character is enclosed on three sides, typically from the right and top.
+[Major]: [accuracy/omission] - The translation does not specify the three-sided enclosure aspect of the structure, which is implied in the source text.
+[Minor]: [accuracy/addition] - None
+```"
+140,C.1 表的内容,C.1 Table Contents,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""Table Contents"" should be ""Table's Contents"" or ""Contents of the Table"" to accurately reflect the possessive form in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+145,D.1 调整过的 18 个GB/T 13000 代码位置,D.1 Adjusted 18 GB/T 13000 code positions,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""Adjusted"" does not accurately convey the meaning of ""调整过的,"" which should be ""Adjusted"" or ""Revised.""
+[Major]: accuracy/mistranslation - The translation ""code positions"" does not accurately convey the meaning of ""代码位置,"" which should be ""code locations"" or ""code positions.""
+[Minor]: accuracy/mistranslation - None
+```"
+148,本文件及 GB 18030 一 2005 的GB 18030 一 2005 对应的本文件对应的GB/T 工 13000 码位,The document and GB 18030-2005 correspond to the GB/T 13000 code points in this document.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation does not accurately convey the structure and meaning of the source text, particularly the relationship between ""本文件,"" ""GB 18030 一 2005,"" and ""GB/T 工 13000 码位.""
+[Major]: [accuracy/omission] - The translation omits the phrase ""的GB 18030 一 2005,"" which is crucial for understanding the full context of the source text.
+[Minor]: [accuracy/addition] - None
+```"
+149,D.2 在双字闻区删除的 6 个汉字构件,D.2 Six Chinese character components removed in the double-character recognition area,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The term ""双字闻区"" is mistranslated as ""double-character recognition area."" The correct translation should be ""double-character area"" or similar, as ""闻"" does not mean ""recognition.""
+[Major]: accuracy/omission - None
+[Minor]: accuracy/addition - The word ""recognition"" is added in the translation, which is not present in the source text.
+```"
+151,D.3 在双字下区删除的 9 个 CJK 兼容汉字,D.3 The 9 CJK compatibility characters removed from the double-byte lower area,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - The phrase ""double-byte lower area"" is a mistranslation of ""双字下区,"" which should be ""lower zone of double-byte characters"" or similar.
+[Minor]: None
+```"
+153,表 D.3 删除的 9 个 CJK 兼容汉字和它们的代码位置,Table D.3 Deleted 9 CJK Compatibility Ideographs and Their Code Positions,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits the word ""和"" (and), which connects ""9 个 CJK 兼容汉字"" (9 CJK Compatibility Ideographs) and ""它们的代码位置"" (Their Code Positions).
+[Major]: [accuracy/mistranslation] - The phrase ""删除的"" (deleted) is correctly translated, but the context might imply that these ideographs were removed from a specific list or table, which is not explicitly clear in the translation.
+[Minor]: [accuracy/mistranslation] - None
+```"
+154,附录开 (资料性)《通用规范汉字表》 汉字的代码位置,"Appendix Open (Informational) ""Table of General Standard Chinese Characters"" Code Positions of Chinese Characters","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""Appendix Open"" does not accurately reflect the source term ""附录开,"" which should be ""Appendix (Informational)"" or similar.
+[Major]: accuracy/mistranslation - The translation ""Table of General Standard Chinese Characters"" is correct, but the placement of ""Informational"" is incorrect, leading to confusion about what is informational.
+[Minor]: accuracy/omission - The source text includes ""汉字的代码位置"" (Code Positions of Chinese Characters), which is correctly translated, but the structure could be clearer in the target text.
+```"
+155,"本文件收录了 2013 年中华人民共和国国务院批准发布的 4 通用规范汉字表》 中的全部 8105 个规范汉字,它们的代码位置和字形见表1。","This document includes all 8,105 standardized Chinese characters from the ""Table of General Standard Chinese Characters"" approved and published by the State Council of the People's Republic of China in 2013. Their code positions and glyphs are shown in Table 1.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits the phrase ""表》"" which refers to the ""Table"" in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+159,GB/ 工 36475 软件产品分类,GB/T 36475 Software Product Classification,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/wrong_named_entity] - ""GB/T"" should be ""GB/工"" as per the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+163,"如果发现手册页和软件之间有所矛盾,请查对Info","If you find any discrepancies between the manual page and the software, please refer to the Info documentation.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits the phrase ""查对"" (refer to/check) which is important for understanding the action to be taken.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+170,源文件后级名指出语言种类以及后期的操作:,The file extension of the source file indicates the type of language and subsequent operations.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""subsequent operations"" does not accurately convey the meaning of ""后期的操作,"" which should be ""later operations"" or ""post-processing.""
+[Major]: [accuracy/omission] - The translation omits the concept of ""language type"" which is present in ""语言种类"" in the source text.
+[Minor]: [accuracy/addition] - None
+```"
+171,".c C 源程序; 预处理, 编译,汇编",".c C source program; preprocessing, compiling, assembling","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits the semicolon after "".c C source program,"" which is present in the source text and indicates a separation of items.
+[Minor]: [accuracy/mistranslation] - The word ""预处理"" is translated as ""preprocessing,"" which is correct, but the translation does not reflect the sequential nature implied by the commas in the source text. The source implies a sequence of steps: preprocessing, compiling, and assembling.
+```"
+175,".m Objective-C 源程序; 预处理,编译,汇编",".m Objective-C source code; preprocessing, compiling, assembling","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits the term ""源程序"" (source program), which is part of the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+176,".i 预处理后的 c 文件;编译,汇编","Preprocessed .c files; compile, assemble","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""预处理后的"" which means ""preprocessed"" in the source text.
+[Major]: [accuracy/mistranslation] - The translation ""Preprocessed .c files; compile, assemble"" does not fully convey the meaning of the source text. The source text implies a sequence of actions: preprocessed .c files are to be compiled and assembled, which is not clearly expressed in the translation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+182,.a 归档库文件(Archive file),Archive file,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The source text "".a"" is omitted in the translation.
+[Major]: [accuracy/mistranslation] - The translation ""Archive file"" does not accurately reflect the source text "".a 归档库文件,"" which suggests a specific type or format of archive file.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+183,"除非使用了 -cec，-s, 或 -E 选项(或者编译错误阻止了完整的过程),否则连接总是最后的步骤.","Unless the -cec, -s, or -E options are used (or a compilation error prevents the complete process), linking is always the final step.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""linking"" for ""连接"" is not entirely accurate. ""连接"" in this context refers to the process of linking in a compilation process, but the translation should make it clear that it is referring to the linking phase in software compilation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+185,选项必须分立给出 : de ' 完全不同于 `-d -r '.,The options must be given separately: completely different from `-d -r`.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/MT Hallucination] - The translation ""completely different from `-d -r`"" is unrelated to the source text and does not convey the intended meaning.
+[Major]: [accuracy/mistranslation] - The translation does not accurately convey the meaning of ""选项必须分立给出,"" which should be translated as ""Options must be provided separately.""
+[Minor]: [accuracy/omission] - None
+```"
+187,这里只列举不是默认选项的格式.,Only non-default formats are listed here.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""Only non-default formats are listed here"" does not accurately convey the source text ""这里只列举不是默认选项的格式."" The term ""选项"" (options) is mistranslated as ""formats.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+190,总体选项 (Overall Option),Overall Option,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""Overall Option"" does not fully capture the meaning of ""总体选项,"" which can imply a more comprehensive or general choice or setting.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+191,明确指出后面输入文件的语言为 language (而不是从文件名后绥得到的默认选择).,"Explicitly specify that the language of the input file is ""language"" (rather than the default choice derived from the file extension).","Chinese source: 明确指出后面输入文件的语言为 language (而不是从文件名后绥得到的默认选择).
+
+English translation: Explicitly specify that the language of the input file is ""language"" (rather than the default choice derived from the file extension).
+
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation does not convey the meaning of ""后面"" which implies ""subsequent"" or ""following"" input files.
+[Minor]: [accuracy/error_subcategory] - None"
+193,"关闭任何对语种的明确说明, 因此依据文件名后级处理后面的文件 RE AS E ` -x' 选项).","Close any explicit language specifications, and then process the subsequent files based on the file name suffix (using the `-x' option).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""Close any explicit language specifications"" does not accurately reflect the source text's meaning, which involves closing explicit language specifications related to file processing.
+[Major]: [accuracy/omission] - The translation omits the part of the source text that indicates the processing of files is based on the file name suffix.
+[Minor]: [accuracy/addition] - The phrase ""using the `-x' option"" is added in the translation, which is not explicitly mentioned in the source text.
+```"
+194,"如果只操作四个阶段( 预处理, 编译, 汇编, 连接)中的一部分, 可以使用 ` -x' 选项 (或文件名后 Ah) 告诉 geo 从哪里开始,用 `~-c' ，`-s' ,或 `-E' 选项告诉 geo 到哪里结束.注意,某些选项组合 (例如 ，`-x cpp-output -E') {i gee MEF =c 编译或汇编源文件, ETER. ERA ATI 缺省情况下， GCC 通过用 ` .o' 蔡换源文件名后级 ` .ec 标文件名. 可以使用-o 选项选择其他名字.GCC忽略 -ec 选项后面任何无法识别的输入文伯 -S F 何事情.","If you only want to perform a portion of the four stages (preprocessing, compiling, assembling, linking), you can use the `-x` option (or append Ah to the filename) to tell the compiler where to start, and use the `-c`, `-s`, or `-E` options to tell it where to stop. Note that certain combinations of options (such as `-x cpp-output -E`) will not compile or assemble the source file. By default, GCC replaces the source filename extension with `.o` for object files. You can use the `-o` option to choose a different name. GCC ignores any unrecognized input following the `-ec` option and does nothing.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation incorrectly uses ""geo"" instead of ""GCC"" as the compiler.
+[Major]: [accuracy/omission] - The translation omits the explanation about the default behavior of GCC when replacing the source filename extension with `.o`.
+[Minor]: [accuracy/mistranslation] - The translation incorrectly uses ""Ah"" instead of ""a"" for appending to the filename.
+```"
+196,"编译后即停止, 不进行汇编件.","""Stop after compilation, do not proceed to assembly.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""do not proceed to assembly"" omits the meaning of ""不进行汇编件"" which specifically refers to not proceeding to the assembly stage.
+[Major]: [accuracy/mistranslation] - The translation ""Stop after compilation"" does not fully capture the meaning of ""编译后即停止,"" which implies an immediate stop after compilation.
+[Minor]: [accuracy/addition] - None
+```"
+197,"在编译过程的不同阶段间使用管道而非临时文件进行工作, 因为那些系统的汇编器不能从管道读取数据，GNU 的汇编器没有这个问题，汇编器能够接受的 C ""方言 "": 支持符合 ANSI 标准的 C 程序.","Use pipelines instead of temporary files between different stages of the compilation process, as the assemblers on those systems cannot read data from pipelines. The GNU assembler does not have this issue. The assembler can accept C ""dialects"" that support ANSI standard-compliant C programs.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The phrase ""因为那些系统的汇编器不能从管道读取数据"" (as the assemblers on those systems cannot read data from pipelines) is omitted, which is critical for understanding the reason for using pipelines.
+[Major]: [accuracy/mistranslation] - The phrase ""汇编器能够接受的 C '方言'"" (the assembler can accept C 'dialects') is mistranslated as it implies the assembler can accept multiple dialects, whereas the source specifies a single dialect that supports ANSI standard-compliant C programs.
+[Minor]: [accuracy/addition] - The word ""different"" in ""different stages of the compilation process"" is an addition that is not explicitly present in the source text.
+```"
+200,"正常情况下, 这样的函数 foo 在 C++ 中意味着参数为空.","Under normal circumstances, a function like `foo` in C++ implies that the parameter is null.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation of ""参数为空"" as ""the parameter is null"" is incorrect. The correct translation should be ""the parameter is empty.""
+[Major]: [accuracy/addition] - The word ""implies"" is an addition that slightly alters the meaning, as the source text directly states the function's behavior rather than implying it.
+[Minor]: [accuracy/omission] - None
+```"
+202,"详见NU c 手册,我们已经把细节删除, 这样当内容过时后, 人们也不会 HERI.","See the NU c manual for details. We have removed the specifics so that when the content becomes outdated, people won't HERI.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""HERI"" is untranslated and does not convey any meaning in English.
+[Major]: [accuracy/omission] - The phrase ""这样当内容过时后, 人们也不会"" is not fully translated, leading to a loss of meaning. The translation should reflect the idea that ""people won't be affected"" or ""people won't notice"" when the content becomes outdated.
+[Minor]: [accuracy/omission] - None
+```"
+204,他和`-Ethis-is-variable' 选项的果一样.,He is the same as the result of the `-Ethis-is-variable` option.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""He is the same as the result of the `-Ethis-is-variable` option."" does not accurately reflect the source text. The source text ""他和`-Ethis-is-variable' 选项的果一样"" should be translated as ""He is the same as the result of the `-Ethis-is-variable` option."" The translation is missing the correct context or meaning of ""果"" which should be translated as ""result.""
+[Major]: [accuracy/mistranslation] - None
+[Minor]: [accuracy/mistranslation] - None
+```"
+205,-traditional-cpp 试图支持传统 Cc 预处理器的某些方面.,-traditional-cpp attempts to support certain aspects of the traditional Cc preprocessor.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""Cc"" is mistranslated; it should be ""C"" as the source text refers to the traditional C preprocessor.
+[Major]: [accuracy/mistranslation] - None
+[Minor]: [accuracy/mistranslation] - None
+```"
+216,"相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.","Correspondingly, if the default option `-fno-external-templates' is used during compilation, all template instances are explicitly set to be built-in.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The term ""内置"" (built-in) is mistranslated as ""built-in"" instead of ""internal"" or ""in-house,"" which is the correct context in software compilation.
+[Major]: accuracy/omission - The phrase ""明确的设为"" (explicitly set to be) is not accurately reflected in the translation, leading to a potential misunderstanding of the process described.
+[Minor]: accuracy/addition - The translation adds ""to be"" in ""set to be built-in,"" which is not present in the source text and slightly alters the intended meaning.
+```"
+219,"有些情况下, 编译器能够判断出可以直接调用某个虚函数; 这时就直接调用.","In some cases, the compiler can determine that a particular virtual function can be called directly; in such instances, it calls it directly.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""某个虚函数"" as ""a particular virtual function"" is slightly inaccurate. ""某个"" means ""a certain"" or ""some,"" which is less specific than ""particular.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+221,这种表达式的值是 Void.-fthis-—is-variable 允许对 this 赋值 (仅对 c++).,The value of this expression is Void. -fthis-—is-variable allows assignment to this (only for C++).,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation of ""这种表达式的值是 Void"" as ""The value of this expression is Void"" is incorrect. The source text refers to the value being ""Void"" in a specific programming context, which is not accurately conveyed in English.
+[Major]: [accuracy/mistranslation] - The translation of ""-fthis-—is-variable 允许对 this 赋值 (仅对 c++)"" as ""-fthis-—is-variable allows assignment to this (only for C++)"" is slightly misleading. The source text implies a specific compiler flag or option that allows ""this"" to be assigned, which could be more clearly expressed.
+[Minor]: [accuracy/mistranslation] - None
+```"
+229,"这个选项, 和它的反义选项, 使那样的程序工作在对应的默认值上.","This option, along with its opposite option, makes such programs operate on the corresponding default values.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation of ""和它的反义选项"" as ""along with its opposite option"" is incorrect. It should be ""and its opposite option"" to accurately convey the meaning of the source text.
+[Major]: [accuracy/mistranslation] - The translation of ""使那样的程序工作在对应的默认值上"" as ""makes such programs operate on the corresponding default values"" is slightly off. A more accurate translation would be ""enables such programs to operate on their respective default values.""
+[Minor]: None
+```"
+231,"如果没有明确声明 ` signed' 或 ""unsigned'修饰符, 这些选项用来定义有符号位域 (bitfield) 或无符号位域.","If there is no explicit declaration of the `signed` or `unsigned` modifier, these options are used to define signed bitfields or unsigned bitfields.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation does not specify that the options are used to define signed or unsigned bitfields only when there is no explicit declaration of the `signed` or `unsigned` modifier.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+234,"这是为了兼容一些老程序,他们算改字符串常量是一个非常糟糕的想法、`-traditional' 选项也有相同效果.",This is to be compatible with some old programs that consider modifying string constants to be a very bad idea. The `-traditional' option has the same effect.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""算改字符串常量是一个非常糟糕的想法"" is mistranslated as ""consider modifying string constants to be a very bad idea."" The source text implies that modifying string constants is considered a bad idea by the old programs, not that the programs themselves consider it.
+[Major]: [accuracy/omission] - The source text includes ""他们"" (they), which refers to the old programs, but this is omitted in the translation, leading to a loss of clarity about who considers modifying string constants a bad idea.
+[Minor]: [accuracy/addition] - None
+```"
+237,其影响可能类似于2008年的经济危机,Its impact could be similar to the 2008 economic crisis.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""Its impact could be similar to the 2008 economic crisis"" does not fully convey the meaning of the source text ""其影响可能类似于2008年的经济危机"". The source text indicates a possibility with ""可能"" (could/might), which is not accurately reflected in the translation.
+[Major]: [accuracy/omission] - None
+[Minor]: [accuracy/addition] - None
+```"
+239,在许多国家，这一疾病己使医疗服务机构穷于应付，几近崩溃，各国政府实施的限制措施已在全球经济中造成了严重紊乱。,"In many countries, this disease has overwhelmed healthcare services, bringing them close to collapse. The restrictions implemented by governments have caused severe disruptions in the global economy.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - The phrase ""全球经济"" (global economy) is translated as ""the global economy,"" which is correct. However, the translation does not capture the nuance of ""严重紊乱"" (severe disruptions) as accurately as it could. The translation ""severe disruptions"" is acceptable but could be improved to better reflect the severity implied in the source text.
+[Minor]: accuracy/omission - The phrase ""医疗服务机构穷于应付，几近崩溃"" is translated as ""overwhelmed healthcare services, bringing them close to collapse,"" which captures the meaning but omits the nuance of ""穷于应付"" (struggling to cope), which could add depth to the translation.
+```"
+241,一些生产者可能会被迫寻找新的方法来制造毒品，因为限制流动的同时也限制了前体和基本化学品的获取。,Some producers may be forced to find new ways to manufacture drugs because restricting movement also limits access to precursors and essential chemicals.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits the concept of ""流动"" (movement), which is crucial to understanding the cause of the restriction.
+[Major]: [accuracy/mistranslation] - The phrase ""限制流动的同时也限制了"" is mistranslated as ""restricting movement also limits,"" which does not accurately convey the simultaneous nature of the restrictions on movement and access.
+[Minor]: [accuracy/addition] - None
+```"
+249,一些国家有大量毒品通过商业航班走私，预计这些国家的贩毒活动受到的直接影响最大。,"Some countries have a large amount of drugs smuggled through commercial flights, and it is expected that the drug trafficking activities in these countries will be directly affected the most.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""受到的直接影响最大"" is mistranslated as ""will be directly affected the most,"" which does not fully capture the meaning of the source text. The source implies that the drug trafficking activities are expected to be the ones most directly impacted, not necessarily that they will be directly affected the most.
+[Major]: [accuracy/omission] - None
+[Minor]: [accuracy/addition] - None
+```"
+259,世界各地的吸毒现象一直在增多，无论是从总体数字还是从吸毒者在世界人口中所占比例来看都是如此。,"The phenomenon of drug use has been increasing worldwide, both in terms of overall numbers and the proportion of drug users within the global population.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""吸毒现象"" as ""drug use"" is slightly inaccurate. A more precise translation would be ""phenomenon of drug abuse"" or ""phenomenon of drug addiction"" to capture the negative connotation of ""吸毒"".
+[Minor]: [accuracy/error_subcategory] - None
+```"
+262,"这在一定程度上反映了这一期间总体人口增长的差异、发达国家为7%,发展中国家为28%但也反映了发展中国家年 轻人口增长较快。","This reflects, to a certain extent, the differences in overall population growth during this period, with developed countries at 7% and developing countries at 28%. It also indicates the faster growth of the young population in developing countries.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""young population"" should be ""young people"" as the source text refers to ""年轻人口"" which means ""young people.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+263,青少年和年轻成年人在吸毒者中所占比例最大。,Teenagers and young adults make up the largest proportion of drug users.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""make up the largest proportion of drug users"" does not fully convey the meaning of ""在吸毒者中所占比例最大,"" which implies that teenagers and young adults constitute the largest segment among drug users.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+266,无论是发达国家还是发展中国家，城市地区的吸毒情况都多于农村地区。,"Whether in developed or developing countries, drug use is more prevalent in urban areas than in rural areas.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - ""吸毒情况"" is translated as ""drug use,"" which is a mistranslation. ""吸毒情况"" refers to the situation or condition of drug use, not just the act of using drugs.
+[Major]: accuracy/omission - The phrase ""情况"" (situation/condition) is omitted in the translation, which affects the meaning.
+[Minor]: None
+```"
+267,吸毒情况总体增多的部分原因是人口从农村向城镇的大规模流动一目前全世界人口有一半以上生活在城市地区，而1960年这一比例为34%。,"The overall increase in drug use is partly due to the large-scale migration of people from rural areas to urban areas. Currently, more than half of the world's population lives in urban areas, compared to 34% in 1960.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The phrase ""一目前"" (currently) is missing from the translation, which affects the temporal context of the statement.
+[Major]: accuracy/addition - The phrase ""the overall increase in drug use"" is an addition not present in the source text, which only mentions ""吸毒情况总体增多"" (the overall increase in drug use situation).
+[Minor]: accuracy/mistranslation - The translation ""large-scale migration"" could be more accurately rendered as ""大规模流动"" (large-scale flow), as ""migration"" implies a more permanent move, whereas ""流动"" suggests movement or flow.
+```"
+268,城市化可能是毒品市场未来动态的一个关键因素，特别是在城市化趋势更为突出的发展中国家。,"Urbanization may be a key factor in the future dynamics of the drug market, especially in developing countries where the trend of urbanization is more prominent.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation ""where the trend of urbanization is more prominent"" does not fully capture the meaning of ""城市化趋势更为突出的发展中国家,"" which implies that urbanization trends are more pronounced in these developing countries, not just prominent.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+273,来自少数几个国家的数据表明，有害的吸毒模式与病症同低收入之间存在联系。,Data from a few countries suggest that harmful drug use patterns and disorders are linked to low income.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - ""病症同低收入之间存在联系"" is mistranslated as ""disorders are linked to low income,"" which omits the connection between harmful drug use patterns and low income.
+[Major]: accuracy/omission - The translation omits the connection between ""harmful drug use patterns"" and ""low income,"" which is present in the source text.
+[Minor]: accuracy/addition - None
+```"
+274,这些模式在较富裕的社会阶层似乎不太常见。,These patterns seem to be less common in the more affluent social classes.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/addition] - The word ""more"" is added in the translation, which is not present in the source text.
+```"
+277,新冠肺炎或将导致毒品市场进一步扩张新冠肺炎的大流行可能会导致更多农民增加或从事非法作物种植，或是因为国家主管机关的控制能力降低，或是因为在经济危机之下可能有更多人不得不铤而走险，从事非法活动。,"The COVID-19 pandemic may lead to further expansion of the drug market. The pandemic could result in more farmers increasing or engaging in the cultivation of illegal crops, either due to the reduced control capacity of national authorities or because more people might be forced to take risks and engage in illegal activities amidst the economic crisis.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/mistranslation - ""铤而走险"" is translated as ""take risks,"" which is slightly less precise than ""take desperate measures"" or ""venture into danger.""
+```"
+283,会员国的国内市场每年约有500种新型活性物质。,The domestic markets of member countries have approximately 500 new active substances each year.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits ""的国内市场"" (domestic markets) which should specify that the markets are within the member countries.
+[Major]: [accuracy/mistranslation] - The phrase ""会员国的国内市场"" is mistranslated as ""The domestic markets of member countries,"" which implies that each member country has its own domestic market, whereas the source text suggests a collective domestic market for all member countries.
+[Minor]: [accuracy/addition] - None
+```"
+286,"在2014年确定的新型精神活性物质种类总数中，类阿片新型精神活性物质仅占2%,但到2018年，这一数字己上升至9%。","In the total number of new psychoactive substances identified in 2014, opioid-type new psychoactive substances accounted for only 2%. However, by 2018, this figure had risen to 9%.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/mistranslation - The phrase ""这一数字己上升至9%"" is translated as ""this figure had risen to 9%,"" where ""己"" should be ""already"" or ""had already,"" indicating a slight nuance of timing that is not fully captured in the translation.
+```"
+287,类阿片新型精神活性物质中有许多是芬太尼的类似物，其药效和危害已得到证明，在北美导致了过量死亡事件，其他区域也有，但程度较轻。,"Many of the new psychoactive substances in the opioid category are analogs of fentanyl, whose potency and harmful effects have been proven. They have led to overdose deaths in North America, and although they are present in other regions, the impact is relatively less severe.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""whose potency and harmful effects have been proven"" does not fully capture the meaning of ""其药效和危害已得到证明"" which implies that both the potency and harmful effects are known and established, not just proven.
+[Minor]: [accuracy/omission] - The translation omits the nuance that the impact in other regions is ""lighter"" or ""less severe"" compared to North America, which is implied in ""但程度较轻.""
+```"
+288,在北美，芬太尼有的用作海洛因和其他毒品（包括可卡因和甲基苯丙胺）的掺杂剂，有的用来制造假冒的药用类阿片。,"In North America, fentanyl is sometimes used as an adulterant in heroin and other drugs (including cocaine and methamphetamine), and sometimes used to manufacture counterfeit medicinal opioids.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: accuracy/addition - The word ""medicinal"" is added in ""counterfeit medicinal opioids,"" which is not present in the source text.
+```"
+290,2新型精神活性物质的使用可能会逐渐牢固存在于弱势群体中,The use of new psychoactive substances may gradually become entrenched among vulnerable groups.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The translation of ""2新型精神活性物质"" as ""new psychoactive substances"" does not capture the specific mention of ""2"" in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+295,贩毒者和制毒者一直在寻找替代品一不仅有管制较松的物质，还有专门为规避管制而设计的化学品，即所谓的“特制前体”。,"Drug traffickers and manufacturers have been constantly seeking alternatives—not only substances that are less regulated but also chemicals specifically designed to evade regulation, known as ""designer precursors.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""一不仅有"" is mistranslated as ""not only"" instead of ""not limited to.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+296,旨在阻止新冠肺炎传播的限制性措施很可能使依赖前体化学品的制毒者受到进一步挤压。,Restrictive measures aimed at preventing the spread of COVID-19 are likely to further pressure drug manufacturers who rely on precursor chemicals.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: accuracy/mistranslation - ""drug manufacturers"" should be ""drug producers"" to more accurately reflect ""制毒者"" which refers to those involved in drug production, not necessarily manufacturers.
+```"
+297,来自墨西哥的证据表明，这已经成为 现实：据报告，2020年3月，从东亚进口的甲基苯丙胺前体短缺促使墨西哥和美国的甲基苯丙胺价格上涨。,"Evidence from Mexico suggests that this has become a reality: It was reported that in March 2020, a shortage of methamphetamine precursors imported from East Asia led to an increase in methamphetamine prices in Mexico and the United States.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/addition - The phrase ""It was reported that"" is an addition not present in the source text.
+```"
+305,阿富汗和伊拉克甲基苯丙胺市场增长,The methamphetamine market in Afghanistan and Iraq is growing.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+309,最近，伊拉克当局发现了多个甲基苯丙胺加工点，麻管局已对伪麻黄碱制剂的大批进口表示关切一甲基苯丙胺加工点将这些制剂用作前体。,"Recently, Iraqi authorities have discovered multiple methamphetamine processing sites. The narcotics control bureau has expressed concern over the large importation of pseudoephedrine preparations, which are being used as precursors at these methamphetamine processing sites.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/mistranslation - ""麻管局"" is translated as ""the narcotics control bureau,"" which is a mistranslation. It should be ""the Anti-Narcotics Authority"" or ""the Narcotics Control Authority.""
+```"
+311,自那时起，甲基苯丙胺的缉获量一直在稳步上升。,"Since then, the seizure of methamphetamine has been steadily increasing.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""seizure"" should be ""seizures"" as the source text implies a plural form.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+312,但2019年上半年的缉获量一^657公斤——与上一年相比大幅骤增。,"However, the amount seized in the first half of 2019 was 657 kilograms, which is a significant increase compared to the previous year.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The source text specifies ""大幅骤增"" (a significant and sudden increase), but the translation only mentions ""a significant increase,"" omitting the aspect of suddenness.
+[Major]: accuracy/mistranslation - The translation uses ""was 657 kilograms"" instead of ""seized 657 kilograms,"" which slightly alters the meaning.
+[Minor]: accuracy/addition - None
+```"
+318,在美国最早通过立法的两个州科罗拉多州和华盛顿州，成年人非医疗使用大麻的情况增加，特别是过去一个月以及每天或几乎每天使用的情况增多，自2012年起便已超过了全国平均水平。,"In the two states that were the first to pass legislation in the United States, Colorado and Washington, the non-medical use of marijuana among adults has increased, particularly in terms of usage in the past month and daily or almost daily use. Since 2012, these levels have surpassed the national average.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - The phrase ""the first to pass legislation in the United States"" is misleading; it should specify ""the first states to legalize non-medical marijuana use.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+323,全球大麻药草缉获量暴跌的背后原因是大麻合法化？,Is the reason behind the sharp decline in global cannabis seizures the legalization of marijuana?,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation does not accurately convey the meaning of ""全球大麻药草缉获量"" (global cannabis herb seizure volume), as it is translated as ""global cannabis seizures,"" which omits the aspect of ""herb"" and ""volume.""
+[Major]: accuracy/mistranslation - The translation of ""暴跌"" as ""sharp decline"" is acceptable, but the phrase ""暴跌的背后原因"" is mistranslated to ""the reason behind the sharp decline,"" which misses the nuance of ""the reasons behind the sharp decline"" or ""causes of the sharp decline.""
+[Minor]: accuracy/addition - The word ""marijuana"" is added in the translation, while the source text uses ""大麻"" (cannabis), which can refer to both marijuana and hemp, depending on context.
+```"
+326,对新型精神活性物质的监管似乎有遏制作用在国内对新型精神活性物质的监管效果仍然很难评估。,"The regulation of new psychoactive substances seems to have a deterrent effect, but it is still difficult to assess the effectiveness of such regulation domestically.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: accuracy/mistranslation - The phrase ""seems to have a deterrent effect"" does not fully capture the meaning of ""似乎有遏制作用,"" which implies a potential or apparent restraining effect rather than a definitive deterrent.
+```"
+327,一些对新型精神活性物质采用不同监管制度的国家显示出不同的新型精神活性物质使用流行率。,Some countries that adopt different regulatory systems for new psychoactive substances show varying prevalence rates of new psychoactive substance use.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The translation omits ""一些"" (some) which indicates that only some countries are being referred to.
+[Major]: accuracy/mistranslation - The translation of ""不同监管制度"" as ""different regulatory systems"" is correct, but it does not capture the nuance that these systems are specifically for ""新型精神活性物质"" (new psychoactive substances). The translation should emphasize that the regulatory systems are specifically for these substances.
+[Minor]: accuracy/addition - None
+```"
+328,在另一些国家，通过国内立法后，新型精神活性物质使用情况有所减少。,"In some other countries, the use of new psychoactive substances has decreased after domestic legislation was enacted.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The phrase ""新型精神活性物质"" is mistranslated as ""new psychoactive substances."" While it is a common translation, it does not fully capture the nuance of ""new types of psychoactive substances,"" which emphasizes the novelty aspect.
+[Major]: accuracy/omission - The phrase ""通过国内立法"" is translated as ""after domestic legislation was enacted,"" but it omits the nuance that the decrease in use is a result of the legislation, not just a temporal sequence.
+[Minor]: None
+```"
+333,"据估计，低收入和中等收入国家的人口占全球人口的88%,但消费的药用类阿片却不到10%。","It is estimated that the population of low- and middle-income countries accounts for 88% of the global population, but they consume less than 10% of medicinal opioids.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - ""medicinal opioids"" should be ""opioids for medical use"" to more accurately reflect the source text's meaning.
+[Major]: None
+[Minor]: None
+```"
+334,获取药用类阿片的障碍与许多因素有关，包括立法、文化、卫生系统和处方做法。,"The obstacles to obtaining medicinal opioids are related to many factors, including legislation, culture, healthcare systems, and prescribing practices.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - None
+[Major]: accuracy/mistranslation - The translation ""medicinal opioids"" for ""药用类阿片"" is not entirely accurate. ""药用类阿片"" refers specifically to ""medicinal class opioids"" or ""opioids for medical use,"" emphasizing their classification or intended use for medical purposes.
+[Minor]: accuracy/addition - None
+```"
+343,全球范围的有限数据表明，迷醉可能是杀人的一个重要因素。,Limited data worldwide suggest that intoxication may be an important factor in killings.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - The term ""迷醉"" is translated as ""intoxication,"" which may not fully capture the broader meaning of ""迷醉,"" which can imply a state of being mesmerized or entranced, not just intoxication.
+[Minor]: None
+```"
+351,据估计，2018年使用大麻的有 1.92 亿人，使之成为全球使用最多的毒品。,"It is estimated that in 2018, 192 million people used cannabis, making it the most widely used drug in the world.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""making it the most widely used drug in the world"" should be ""making it the most widely used drug globally"" to better reflect the source text's use of ""全球"" (globally).
+[Minor]: [accuracy/error_subcategory] - None
+```"
+354,"在2017年与吸毒病症有关的估计167,000例死亡中，有66%是这类物质造成的，在据信为吸毒导致的残疾或过早死亡而损失的2,100万年寿命中，有50%是这类物质造成的。","In the estimated 167,000 drug-related deaths in 2017, 66% were caused by this type of substance. Of the 21 million years of life lost due to disability or premature death believed to be caused by drug use, 50% were attributed to this type of substance.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/mistranslation - The translation ""Of the 21 million years of life lost"" should be ""In the 21 million years of life lost"" to match the source text ""在据信为吸毒导致的残疾或过早死亡而损失的2,100万年寿命中"".
+```"
+368,兴奋剂领域以可卡因和甲基苯丙胺为主，这两种物质在其主要市场的使用量都在上升。,"In the field of stimulants, cocaine and methamphetamine are predominant, and the use of these two substances is increasing in their main markets.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+372,在一些市场上，可卡因和甲基苯丙胺可以共存，有时是相互替代，这样一种药物的使用量上升时另一种药物的使用量就下降，有时是同时增加和减少以满足同一市场的需求。,"In some markets, cocaine and methamphetamine can coexist and sometimes serve as substitutes for each other. When the use of one drug increases, the use of the other decreases, and sometimes both increase or decrease simultaneously to meet the demand of the same market.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""这样一种药物的使用量上升时另一种药物的使用量就下降"" is mistranslated as ""When the use of one drug increases, the use of the other decreases,"" which does not fully capture the conditional nature implied by ""这样"" (such that).
+[Minor]: none
+```"
+376,2017年，因吸毒死亡的约有 58.5万人，其中一半死于丙型肝炎引起的肝病，而注射吸毒者的丙型肝炎大多仍未得到治疗。,"In 2017, approximately 585,000 people died from drug use, with half of them dying from liver disease caused by hepatitis C. Most cases of hepatitis C among injection drug users remain untreated.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The translation ""585,000 people"" should be ""58.5 million people"" to accurately reflect the source text.
+[Major]: none
+[Minor]: none
+```"
+380,使用说明书,Instruction manual,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/mistranslation] - The translation ""Instruction manual"" is slightly less precise than ""User manual"" for ""使用说明书,"" but it still conveys the intended meaning.
+```"
+385,将耳帐斜向下轻轻塞入耳道，以轻摆头部耳机不田动为家。,"Gently insert the earbud diagonally downward into the ear canal, and slightly tilt your head to ensure the earphone stays in place.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""耳机不田动为家"" is mistranslated as ""ensure the earphone stays in place"". The source text suggests that the earbud should not move, but the translation does not accurately convey this meaning.
+[Minor]: none
+```"
+388,充电开机使用前，请先撕掉左右耳机充各点处的网几，将充电盒及耳机充满电。,"Before turning on and using the device, please first remove the protective mesh from the charging points on both earphones, and fully charge the charging case and earphones.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - The phrase ""网几"" is mistranslated as ""protective mesh,"" which does not accurately convey the meaning of the source text. It should refer to the ""mesh"" or ""cover"" on the charging points.
+[Major]: accuracy/omission - The source text specifies ""撕掉左右耳机充各点处的网几,"" which means removing the mesh from each charging point on both earphones. The translation does not fully convey this specific instruction.
+[Minor]: accuracy/addition - The addition of ""turning on and"" in ""Before turning on and using the device"" is not present in the source text and does not improve the translation.
+```"
+390,充电盒未充满电充电指示灯红灯长亮，充满电后充电:3 指示灯熄灭。,"When the charging case is not fully charged, the charging indicator light stays red. Once fully charged, the charging indicator light turns off.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""充满电后充电:3"" is mistranslated. The source text indicates that after the charging case is fully charged, the indicator light turns off, but the translation incorrectly includes ""充电:3"" which is not reflected in the English translation.
+[Major]: [accuracy/omission] - The source text includes ""充电:3"" which is omitted in the translation. This omission affects the completeness of the translation.
+[Minor]: [accuracy/addition] - None
+```"
+403,自动连接: 局对移两只耳机从充时盒外十.,Automatic connection: The two earbuds will connect automatically when removed from the charging case.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/MT Hallucination] - The translation ""局对移两只耳机从充时盒外十"" is entirely unrelated to the source text and does not convey any meaningful content.
+[Major]: [accuracy/mistranslation] - The translation does not accurately reflect the source text, which should convey the automatic connection of earbuds when removed from the charging case.
+[Minor]: [accuracy/omission] - The translation omits the concept of ""automatic connection"" which is present in the source text.
+```"
+405,随后红和白灯恢六. 左右囊如自过串联 .,"The translation of the text you provided is: ""Then the red and white lights return to six. The left and right pouches are connected in series.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""恢六"" is mistranslated as ""return to six,"" which does not convey the correct meaning of the source text.
+[Major]: [accuracy/mistranslation] - ""囊"" is mistranslated as ""pouches,"" which does not accurately reflect the meaning in the context of the source text.
+[Minor]: [accuracy/omission] - The translation omits the meaning of ""随后"" (subsequently or then) in the context of the sequence of events.
+```"
+406,"待左/右耳机白灯懈 闪时. 打开设备否牙搜索 “RedmIArDots2 ""并点击完连溶。","When the white light on the left/right earbud flashes, turn on the Bluetooth on your device, search for ""Redmi AirDots 2,"" and click to complete the connection.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/mistranslation - ""懈"" is mistranslated as ""flashes,"" which is incorrect. The correct translation should be ""stops flashing.""
+[Major]: accuracy/omission - The instruction to ""wait"" (待) is omitted in the translation, which is important for the sequence of actions.
+[Minor]: accuracy/mistranslation - ""否牙"" is mistranslated as ""Bluetooth,"" which should be ""Bluetooth"" (蓝牙).
+```"
+407,首次连接后. 囊志开机可自动回连上一次配对设备(蓝牙需开启)。,"After the first connection, the device will automatically reconnect to the last paired device when powered on (Bluetooth needs to be enabled).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""囊志"" is mistranslated as ""the device"" instead of ""the device's memory"" or ""the device's system.""
+[Major]: [accuracy/omission] - The phrase ""开机"" is omitted, which means ""when the device is turned on"" or ""upon startup.""
+[Minor]: [accuracy/omission] - None
+```"
+412,"单耳 / 双耳自由切换; 两只耳机连接成功后即为双丁连接; 将任一耳机放回充电盒关机, 另一只耳机进入单耳模式, 重新取出即可自动恢复双耳模式 。","Single-ear / dual-ear free switching; once both earbuds are successfully connected, they are in dual-ear mode. If you put either earbud back into the charging case, it will turn off, and the other earbud will enter single-ear mode. Taking it out again will automatically restore dual-ear mode.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""双丁连接"" is mistranslated as ""dual-ear mode""; it should be ""dual connection.""
+[Minor]: [accuracy/error_subcategory] - None
+```"
+415,如果耳机无法正常连接使用，请参照以下方式重置,"If the headphones are not connecting properly, please reset them using the following method.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""正常"" (properly) from the source text, which specifies that the headphones are not connecting properly.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+416,耳机: 将耳机拿出充电盒， 在关机状态下， 分别长按两只耳机多功能键15 秒 ，至红白灯交替闪烁3 次后，松开并放回充电盒即可(清除耳机与手机的连授记录)。,"Headphones: Take the headphones out of the charging case. When they are powered off, press and hold the multifunction button on both headphones for 15 seconds until the red and white lights flash alternately three times. Then release and place them back in the charging case (this will clear the pairing records between the headphones and the phone).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - The phrase ""清除耳机与手机的连授记录"" is mistranslated as ""clear the pairing records between the headphones and the phone,"" where ""连授记录"" should be ""connection records"" instead of ""pairing records.""
+[Minor]: None
+```"
+423,本严操的相关信息请查询销售网 : www micom,"For information related to Yan Cao, please visit the sales website: www.micom","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation incorrectly translates ""本严操"" as ""Yan Cao,"" which is not present in the source text. The source text does not mention any specific name, and ""本严操"" seems to be a placeholder or part of a larger context not translated correctly.
+[Major]: [accuracy/omission] - The translation omits the phrase ""的相关信息请查询销售网,"" which means ""for related information, please check the sales network."" This omission changes the meaning of the sentence.
+[Minor]: [accuracy/addition] - The translation adds ""please visit the sales website,"" which is not explicitly present in the source text. The source text only mentions checking the sales network.
+```"
+426,"以下功能左右耳机均可操作, 轻按一下来电时，接听电话; 通话或去电中，挂断电话音乐时，播放 /暂停音频 ,长按约1 秒释放","The following functions can be operated with both the left and right earphones: Press once during an incoming call to answer the call; during a call or outgoing call, hang up the call. When listening to music, play/pause audio by pressing and holding for about 1 second and then releasing.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - ""Press once during an incoming call to answer the call"" should include ""轻按一下来电时"" which means ""lightly press once during an incoming call.""
+[Minor]: accuracy/mistranslation - ""play/pause audio by pressing and holding for about 1 second and then releasing"" should be ""play/pause audio by pressing and holding for about 1 second and then releasing"" which should include ""长按约1 秒释放"" meaning ""long press for about 1 second and release.""
+```"
+429,待机时， 开启语音助手(需设备支持语音功能且打开快速唤醒设置),"When in standby mode, activate the voice assistant (requires the device to support voice functionality and have the quick wake-up setting enabled).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""activate the voice assistant"" does not accurately convey the meaning of ""开启语音助手,"" which means ""turn on the voice assistant.""
+[Major]: [accuracy/omission] - The translation omits ""待机时"" which means ""when in standby mode,"" but it is correctly included in the translation, so this is None.
+[Minor]: [accuracy/addition] - None
+```"
+435,耳机基本参数,Earphone Basic Specifications,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/error_subcategory] - None
+```
+
+The translation ""Earphone Basic Specifications"" accurately reflects the meaning of the Chinese source text ""耳机基本参数"" with no accuracy errors."
+438,输入参数:5V 二 100mA,Input parameters: 5V and 100mA,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The Chinese source text ""二"" is mistranslated as ""and"" in English. The correct translation should reflect ""2"" or ""two"" as it refers to a specific parameter value.
+[Major]: [accuracy/omission] - None
+[Minor]: [accuracy/addition] - None
+```"
+439,单耳净重: 约 4.1g,Net weight of a single earbud: approximately 4.1g,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/addition] - The word ""earbud"" is added in the translation, which is not present in the source text.
+```"
+448,"1 请勿以任何理由拆开.维修或改装耳机, 否则可能会导致起火甚至彻底损坏本产品;","1. Please do not disassemble, repair, or modify the headphones for any reason, as this may cause a fire or even completely damage the product.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: accuracy/omission - The source text includes ""请勿以任何理由"" (please do not for any reason), which is omitted in the translation.
+[Major]: accuracy/mistranslation - The phrase ""彻底损坏本产品"" is translated as ""completely damage the product,"" which is a correct translation, so there is no mistranslation here.
+[Minor]: accuracy/addition - None
+```"
+451,"4 请勿在雷暴天气下使用该设备, 雷暴可导致设备工作异常, 并增加触电的危险;","4. Please do not use this device during thunderstorms, as thunderstorms can cause the device to malfunction and increase the risk of electric shock.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The phrase ""该设备"" (this device) is omitted in the translation.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+453,6 请勿将本产品与液体接触。,6. Please do not expose this product to liquids.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/addition] - The word ""expose"" is added in the translation, which is not present in the source text. The source text simply states not to ""contact"" liquids.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+454,注意,Attention,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/error_subcategory] - None
+[Minor]: [accuracy/mistranslation] - ""Attention"" is a correct translation for ""注意"" in many contexts, but without additional context, it might not fully capture the intended meaning, which could also be ""Note,"" ""Caution,"" or ""Warning.""
+```"
+457,"3 长时间连续使用耳机有损听力,请合理控制使用时间及音量 ;","Prolonged use of headphones can damage hearing, so please reasonably control the usage time and volume.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits ""长时间连续"" which means ""prolonged continuous"" in the context of headphone usage.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+471,"2 自您签收次日起 8 日-15日内, 本产品出现《Redmi AirDots 2 ee E 故障表》所列性能故障的情况, 经由小米售后服务中心检测确 定, 可","From the 8th to the 15th day after you sign for the product, if the product exhibits any performance issues listed in the ""Redmi AirDots 2 ee E Fault Table,"" and these issues are confirmed by a Xiaomi after-sales service center, you may...","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/omission] - The translation omits the phrase ""自您签收次日起"" which means ""from the day after you sign for the product.""
+[Major]: [accuracy/mistranslation] - The translation incorrectly renders ""《Redmi AirDots 2 ee E 故障表》"" as ""Redmi AirDots 2 ee E Fault Table,"" which should be translated as ""Redmi AirDots 2 Fault Table"" (the ""ee E"" appears to be a mistranslation or error in the source).
+[Minor]: [accuracy/addition] - The phrase ""you may"" is added in the translation, which does not appear in the source text.
+```"
+476,电牙耳机 ”2 通话过程中，对方听不到声音。,"""Bluetooth headset"" 2: During a call, the other party cannot hear any sound.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - ""Bluetooth headset"" is a mistranslation of ""电牙耳机,"" which should be ""electric earphone"" or ""wired earphone.""
+[Major]: [accuracy/omission] - The translation omits the phrase ""2"" which could indicate a model or version number.
+[Minor]: [accuracy/mistranslation] - None
+```"
+480,2 已超过三包有效期;,2. Has exceeded the warranty period.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The translation ""warranty period"" does not accurately reflect the source term ""三包有效期,"" which refers specifically to the ""three guarantees"" period in Chinese consumer law.
+[Major]: [accuracy/omission] - None
+[Minor]: [accuracy/addition] - None
+```"
+487,欧盟峰会为难民政策争论，欧盟官员：接收过程步步瓶颈-中新网,"EU Summit Debates Refugee Policy, EU Official: Reception Process Faces Bottlenecks - China News Service","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/mistranslation] - The phrase ""为难民政策争论"" is mistranslated as ""Debates Refugee Policy."" The original text implies a struggle or difficulty regarding refugee policy, not just a debate.
+[Major]: [accuracy/omission] - The phrase ""步步瓶颈"" is translated as ""Faces Bottlenecks,"" but the original text implies a more continuous or progressive series of bottlenecks, which is not fully captured in the translation.
+[Minor]: [accuracy/addition] - The addition of ""China News Service"" as "" - China News Service"" is not present in the source text and is not necessary for the translation.
+```"
+488,欧盟峰会为难民政策争吵不休，欧盟官员：接收过程每一步都存在瓶颈,"EU summit embroiled in disputes over refugee policy, EU official: There are bottlenecks at every step of the reception process.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/mistranslation] - ""为难民政策争吵不休"" is mistranslated as ""embroiled in disputes over refugee policy."" The original text implies continuous arguing or disputes, which is not fully captured by ""embroiled.""
+[Minor]: [accuracy/omission] - The phrase ""接收过程"" (reception process) in the source text implies a more specific context of receiving refugees, which could be better captured by specifying ""refugee reception process"" in the translation.
+```"
+490,据报道，欧盟此举是对欧洲日益增长的非法移民问题关注的回应，如今，欧盟的核心问题在于，最终能被遣返的非法移民人数很少。,"According to reports, this move by the EU is a response to the growing issue of illegal immigration in Europe. Currently, the core issue for the EU is that only a small number of illegal immigrants can ultimately be deported.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits the phrase ""欧盟此举是对"" which means ""this move by the EU is a response to"" in the source text.
+[Minor]: [accuracy/mistranslation] - The phrase ""最终能被遣返的非法移民人数很少"" is translated as ""only a small number of illegal immigrants can ultimately be deported,"" which slightly alters the emphasis. The original implies a concern about the small number being deported, not just a statement of fact.
+```"
+493,冯德莱恩一再表示，欧盟资金不会支付相关费用。,Von der Leyen has repeatedly stated that EU funds will not cover the related costs.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [accuracy/error_subcategory] - None
+[Major]: [accuracy/omission] - The translation omits the phrase ""一再"" which means ""repeatedly"" in the source text.
+[Minor]: [accuracy/error_subcategory] - None
+```"
+496,据欧盟委员会估计，欧盟的申根国家去年收到超92万份庇护申请，比前一年增加近半。,"According to estimates by the European Commission, the Schengen countries of the European Union received over 920,000 asylum applications last year, an increase of nearly half compared to the previous year.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: accuracy/mistranslation - The phrase ""an increase of nearly half"" could be more accurately translated as ""an increase of nearly 50%"" to better reflect the source text's meaning of ""增加近半.""
+```"

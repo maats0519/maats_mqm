@@ -1,0 +1,2754 @@
+index,original,zero_shot_translation,annotation
+8,עוד צוין כי תועדו בתקופה האחרונה פחות מ-20 ברדלסים בשבעה מחוזות שונים במדינה.,"According to the report, fewer than 20 cheetahs were documented in the last period in seven different districts in the country.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""it was"" at the beginning of the sentence.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses ""fewer than 20"" instead of ""less than 20"" which is more appropriate for a countable noun like ""cheetahs"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor grammatical and omission errors that do not significantly impact the meaning or comprehension of the text."
+21,"לפני כמה שבועות, קיבלתי הזדמנות ראשונית לנסות את המוצר החדש, שזמין כרגע רק לנסיינים בודדים בארה""ב, כאן בישראל.","A few weeks ago, I received an initial opportunity to try the new product, which is currently available only to a few testers in the US, here in Israel.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text mentions that the product is currently available only to a few testers in the US, while the translation states that it is available ""here in Israel"" as well, which is not accurate.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""A few weeks ago"" which is grammatically correct, but the source text uses the phrase ""לפני כמה שבועות"" which is more idiomatic in Hebrew.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+23,"אחרי שבועיים של השתעשעות, הבנתי כיצד ה-Car Thing יכול להפוך בקלות לחלק בלתי נפרד מהמערכת של אנשים רבים.","After two weeks of playing around, I understood how the Car Thing can easily become an integral part of many people's system.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Hebrew source text uses the word ""השתעשעות"" which means ""playing around"" or ""fooling around"", but the translation uses the more formal ""playing around"".
+[Minor]: [omission] - The Hebrew source text uses the word ""מערכת"" which means ""system"" or ""setup"", but this is not fully captured in the translation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""can easily become an integral part"", which is grammatically correct but could be improved to ""can easily become an integral part of"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""Car Thing"" is used in the translation, but it is not clear what this refers to from the context. A more descriptive term may be more appropriate.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."
+26,"אי שם בשנת 2018, משתמשי ספוטיפיי החלו לקבל הצעה מעניינת בתיבת האימייל שלהם - אפשרות לרכוש מכשיר חדש עם שליטה קולית וחיבוריות דור רביעי, שיהפוך כל מערכת ישנה לרכב לחכמה.","Somewhere in 2018, Spotify users began receiving an interesting offer in their email inbox - an option to purchase a new device with voice control and 4G connectivity, which will turn any old system into a smart car.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the original text. The original text mentions that the offer was to turn any old system into a ""smart"" car, while the translation says it will turn it into a ""smart car"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""will turn any old system into a smart car"", which is grammatically correct but does not sound natural. A more natural phrasing would be ""will turn any old system into a smart vehicle"".
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[Minor]: [awkward] - The translation sounds a bit awkward and could be phrased more naturally.
+
+Terminology Errors
+[No errors]
+
+Non-translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is generally accurate and understandable, with only minor errors that do not significantly impact the meaning or flow of the text."
+56,"מסך הבית מוכר לכל המשתמשים באפליקציה, שכן כמו היישום בסמארטפון, הוא שם דגש על תמונות האלבומים ורשימות ההשמעה.","The home screen is available to all users of the app, as like the mobile app, it emphasizes album photos and playlists.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text mentions that the home screen is ""familiar to all users of the app"", while the translation says it is ""available to all users of the app"", which is a slightly different meaning.
+[Minor]: [omission] - The source text mentions that the home screen ""emphasizes album photos and playlists"", but the translation omits the mention of ""playlists"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""like the mobile app"", which could be improved to ""as with the mobile app"" for better grammatical flow.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+60,"באמצעותה, תוכלו להפעיל שירים, פלייליסטים, אלבומים ואפילו לחפש פודקאסטים.","You can use it to play songs, playlists, albums, and even search for podcasts.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text mentions ""באמצעותה"" (through it), which is not directly translated in the target text.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is accurate and fluent, with only a minor mistranslation of the source text."
+72,"השאלה הזו מתחזקת בעת התחשבות בכך שמכשירי אייפון ואנדרואיד חזקים בהרבה מזה של ספוטיפיי, וברוב הפעמים יקנו למשתמש הרבה יותר פונקציונליות.","The question is strengthened by the fact that iPhone and Android devices are much stronger than Spotify, and in most cases will provide the user with much more functionality.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The source text is discussing the relative strength of iPhone/Android devices compared to Spotify, while the translation focuses on the functionality provided to the user.
+[Minor]: [omission] - The translation omits the phrase ""in the consideration of the fact that"" which is present in the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""will provide"" which is not the most natural way to express this idea in English. A more natural phrasing would be ""provide"" or ""offer"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""Spotify"" is used in the translation, but it may be more appropriate to use a more generic term like ""music streaming service"" to better match the context.
+
+Overall, the translation conveys the general meaning of the source text, but there are some minor errors in accuracy, fluency, and terminology that could be improved."
+96,זה לא סוד - שיתוף ומוכנות הארגון |,This is no secret - the organization's sharing and readiness.,"MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The source text refers to the organization's ""sharing and readiness"", while the translation simply states ""the organization's sharing and readiness"".
+[Minor]: [omission] - The translation omits the phrase ""This is no secret"", which is present in the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation lacks proper grammatical structure, as it is a single sentence fragment rather than a complete sentence.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""readiness"" may not be the most appropriate translation for the intended meaning in the source text."
+105,הסקרנות מקדמת |,Curiosity promotes.,"MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The translation is missing a key part of the original sentence, which is the object of the verb ""promotes"". The original Hebrew sentence is incomplete, but the intended meaning is that ""curiosity promotes something"", which is not captured in the English translation.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation is grammatically incomplete, as it is missing a subject or object for the verb ""promotes"".
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The term ""promotes"" is a bit vague and could be improved to better capture the intended meaning of the Hebrew original.
+
+Overall, the translation conveys the general idea of the source text, but is missing key information and is grammatically incomplete, resulting in a somewhat awkward and unclear translation. A more complete and fluent translation would be needed to fully capture the meaning of the original."
+114,"העלות הכלכלית בגין אי־סגירת התחנות הפחמיות במועד שנקבע ביוני 2022 מוערכת בכמיליארד שקלים עבור שנת 2022, כך חושף דו""ח של מרכז המחקר והמידע של הכנסת.","The economic cost of not closing the coal-fired power stations by the date set in June 2022 is estimated at around one billion shekels for the year 2022, as revealed in a report by the Knesset Research and Information Center.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""כמיליארד שקלים"" is translated as ""around one billion shekels"" instead of ""approximately one billion shekels"".
+
+Fluency Errors
+[Minor]: [Grammar] - The phrase ""מוערכת בכמיליארד שקלים"" could be more fluently translated as ""is estimated at approximately one billion shekels"".
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+126,בכמה יתייקר התשלום על המשכנתא?,The payment on the mortgage will increase by how much?,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The source text is asking how much the mortgage payment will increase, while the translation states that the payment will increase by an unspecified amount.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""will increase"") instead of the more natural active voice (""will the payment increase"").
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally understandable, but there are some minor errors in accuracy and fluency that could be improved."
+132,"זאת, לאחר שבמשך שנים הריבית במשק היתה קרובה לאפס.","This, after for years the interest rate in the economy was close to zero.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the original Hebrew text. The original text states that the interest rate in the economy was close to zero for years, while the translation states that the interest rate was close to zero.
+
+Fluency Errors
+[Minor]: [grammar] - The translation has a grammatical error. The phrase ""This, after for years the interest rate in the economy was close to zero"" is not grammatically correct in English.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+137,בכמה התייקרה המשכנתא הממוצעת מתחילת השנה?,The average mortgage has increased by how much since the beginning of the year?,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text asks ""by how much"" the average mortgage has increased, while the translation simply asks ""The average mortgage has increased by how much"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses ""has increased by how much"" instead of ""has it increased by how much"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is mostly accurate and fluent, with only minor errors in grammar and phrasing. The meaning of the source text is clearly conveyed in the translation."
+142,מסלול הריבית המשתנה צמודת מדד (26.7% במסלול הזה) ישלים התייקרות של כ־120 שקלים.,The variable interest rate track linked to the index (26.7% in this track) will complete an increase of approximately 120 shekels.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The source text states that the variable interest rate track will ""complete an increase of approximately 120 shekels"", while the translation says it will ""complete an increase of approximately 120 shekels"". The translation should be ""will result in an increase of approximately 120 shekels"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""will complete an increase"" which is not grammatically correct. A more appropriate phrasing would be ""will result in an increase"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+150,לגבי רוכשי דירות מקבלן - צרור ממליץ להקדים תשלומים לקבלן ולקחת משכנתא כעת.,Regarding apartment buyers from a contractor - it is recommended to make advance payments to the contractor and take a mortgage now.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text refers to ""apartment buyers from a contractor"" while the translation refers to ""apartment buyers from a contractor"" which is a more direct translation.
+[Minor]: [omission] - The source text includes the phrase ""צרור ממליץ"" (Tzror recommends) which is not present in the translation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""take a mortgage now"" which could be improved to ""take out a mortgage now"" for better grammatical flow.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [awkward] - The translation reads a bit awkwardly and could be improved to be more natural-sounding English, such as ""For those buying apartments from a contractor, it is recommended to make advance payments to the contractor and obtain a mortgage at this time.""
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and understandable, with a few minor errors in accuracy, fluency, and style that could be improved."
+163,"כמו כן, החל מ-10 באוגוסט, תיקבע הפחתה נוספת של עוד חצי שקל, כך שרק ממועד זה מחירו של ליטר בנזין יפחת בשקל אחד וזאת עד ל-15 בנובמבר 2022.","Furthermore, starting from August 10, an additional reduction of half a shekel will be set, so that only from that date the price of a liter of gasoline will decrease by one shekel, and this until November 15, 2022.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the phrase ""כמו כן"" at the beginning of the source text, which means ""Furthermore"" or ""In addition"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""will be set"" instead of ""will be determined"" or ""will be established"", which would be more natural in English.
+[Minor]: [grammar] - The translation uses the phrase ""will decrease by one shekel"" instead of ""will decrease by one shekel per liter"", which would be more precise.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [awkward] - The phrasing of the translation is a bit awkward and could be improved to sound more natural in English.
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and understandable, with a few minor fluency and style issues that could be improved."
+172,"למחיר הדלק יש השפעה דרמטית על יוקר המחיה במשק - משום שהוא משפיע גם על הוצאות משקי הבית וגם על הוצאות העסקים, על מחירי התחבורה הציבורית והטיסות, על עלויות ההובלה ועוד.","The price of fuel has a dramatic impact on the cost of living in the economy - as it affects both household expenses and business expenses, the prices of public transportation and flights, transportation costs, and more.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text mentions that the price of fuel has a dramatic impact on the ""cost of living"" in the economy, while the translation uses the term ""cost of living in the economy"", which is a slightly different phrasing.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""the prices of public transportation and flights"", which could be improved to ""the prices of public transportation and air travel"".
+
+Locale Convention Errors
+[None]
+
+Style Errors
+[None]
+
+Terminology Errors
+[None]
+
+Non-Translation Errors
+[None]
+
+Other Errors
+[None]"
+178,אשדוד היא העיר הידידותית ביותר לעסקים קטנים ובינוניים.,Ashdod is the most business-friendly city for small and medium-sized enterprises.,"MQM annotations:
+Accuracy Errors
+[Minor]: [no-error] - The translation accurately conveys the meaning of the source text.
+
+Fluency Errors
+[Minor]: [spelling] - The spelling of ""Ashdod"" in the translation is inconsistent with the source text.
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[No errors]
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is of good quality, with only a minor spelling error that does not significantly impact the comprehension of the text."
+181,"אחריהן ממוקמות לפי הסדר: אשקלון, ראשון לציון, תל אביב־יפו, חיפה, רמת גן, חולון, באר שבע, ירושלים, בת ים, נתניה ובני ברק.","Ashkelon, Rishon LeZion, Tel Aviv-Jaffa, Haifa, Ramat Gan, Holon, Beersheba, Jerusalem, Bat Yam, Netanya, and Bnei Brak.","MQM annotations:
+Accuracy Errors
+[Minor]: [Omission] - The source text mentions that the cities are listed in order, but this information is not included in the translation.
+
+Fluency Errors
+[Minor]: [Spelling] - The city ""Beersheba"" is spelled as ""Beersheba"" in the translation, while the source text uses the spelling ""באר שבע"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+182,הסוכנות עורכת את מדד הרשויות המקומיות.,The agency conducts the index of local authorities.,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation does not include the word ""the"" before ""index"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the present tense ""conducts"" instead of the past tense ""conducted"" to match the source text.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+198,"פיתוח העסקים הקטנים הוא אינטרס ציבורי של כולנו, אולם לרשות המקומית יש השפעה ישירה על העסקים שנמצאים בה.","The development of small businesses is a public interest of all of us, but the local authority has a direct influence on the businesses located within it.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""של כולנו"" (of all of us) is not accurately translated as ""of all of us"".
+
+Fluency Errors
+[Minor]: [Grammar] - The sentence structure could be improved for better flow and naturalness in English.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [Awkward] - The translation sounds a bit formal and could be phrased in a more natural way.
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and understandable, with a few minor issues related to grammar, style, and phrasing. The translation could be improved to sound more natural and idiomatic in English."
+199,"הקורונה הדגישה את חשיבותו של השלטון המקומי וראינו כי רשויות שפעלו ועודדו את קידום העסקים הקטנים ומצאו פתרונות יצירתיים עבורם, הפכו לממשק השלטוני הראשון עבורם"".","""The coronavirus has highlighted the importance of local government, and we have seen that authorities that have acted and encouraged the promotion of small businesses and found creative solutions for them have become the primary governmental interface for them.""","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The phrase ""the primary governmental interface for them"" could be more accurately translated as ""the primary governmental contact for them"".
+
+Fluency Errors
+[Minor]: [grammar] - The phrase ""and we have seen that authorities that have acted and encouraged the promotion of small businesses and found creative solutions for them"" could be improved by using a more concise structure, such as ""and we have seen that authorities that acted to encourage and promote small businesses, finding creative solutions for them"".
+
+Locale Convention Errors
+[None]
+
+Style Errors
+[None]
+
+Terminology Errors
+[None]
+
+Non-Translation Errors
+[None]
+
+Other Errors
+[None]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."
+200,"רן קויתי, מנהל הסוכנות לעסקים קטנים ובינוניים במשרד הכלכלה והתעשייה, מוסיף: ""לרשויות המקומיות חלק מרכזי ומהותי ביכולתם של עסקים בתחומן לשגשג ולפרוח.","Ran Koyti, the director of the Small and Medium Business Agency at the Ministry of Economy and Industry, adds: ""Local authorities have a central and essential role in the ability of businesses within their jurisdiction to thrive and flourish.""","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The name ""Ran Koyti"" is mistranslated as ""Ran Koyti"".
+
+Fluency Errors
+[Minor]: [Spelling] - The name ""Ran Koyti"" is misspelled in the translation.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to the spelling of the name. The translation conveys the meaning of the source text effectively."
+201,"בשנתיים האחרונות, שבהן אנו מתמודדים עם משבר הקורונה, לרשויות משקל גדול יותר בסיוע לעסקים לשרוד בתחומן ולשרוד בכלל"".","In the last two years, during which we have been dealing with the coronavirus crisis, the authorities have had a greater weight in assisting businesses to survive within their domain and to survive in general.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""within their domain and to survive in general"" does not accurately convey the meaning of the source text, which is that the authorities have had a greater role in assisting businesses to survive the coronavirus crisis in general.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""to survive in general"" which is not entirely natural English phrasing. A more natural phrasing would be ""to survive overall"" or ""to survive in general"".
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."
+217,"יותר חבילות הגיעו בדצמבר מבכל חודש אחר, ככל הנראה בעקבות חגי הקניות של נובמבר, דוגמת יום הרווקים הסיני, בלאק פריידי וסייבר מאנדיי.","More packages arrived in December than in any other month, likely due to the November shopping holidays, such as Singles' Day in China, Black Friday, and Cyber Monday.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""Singles' Day in China"" does not accurately convey the meaning of the original ""יום הרווקים הסיני"" which refers to a specific holiday in China.
+
+Fluency Errors
+[Minor]: [Spelling] - The translation uses the spelling ""maunday"" instead of the correct spelling ""Monday"" in ""Cyber Monday"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+220,"לשכירים רבים מגיע כסף מהמדינה, שיכול להגיע לעשרות אלפי שקלים •","Many employees are entitled to money from the state, which can amount to tens of thousands of shekels.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""רבים"" (many) from the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""are entitled to"" which is grammatically correct but may not be the most natural phrasing in English.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+221,שיניתם מקום עבודה?,You changed your workplace?,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The source text is asking if the person has changed their workplace, while the translation simply asks if they have changed their workplace.
+
+Fluency Errors
+[Minor]: [grammar] - The translation lacks proper grammatical structure. It should be ""Have you changed your workplace?"" or ""Did you change your workplace?""
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+223,עברתם מהעיר ליישוב?,You moved from the city to the settlement?,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the source text. ""Settlement"" in this context likely refers to a residential area, not a political settlement.
+
+Fluency Errors
+[Minor]: [register] - The phrasing ""You moved from the city to the settlement?"" sounds a bit formal or awkward in English.
+
+Locale Convention Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Overall, the translation is generally understandable, but there are some minor issues with accuracy and fluency that could be improved."
+249,100% מהעוברים לישוב מזכה קיבלו החזר מס על שנת המעבר היות ואישור על תושבות בישוב מזכה ניתנת רק לאחר 12 חודשים מיום הפיכת התושב לתושב מזכה ובכך למעשה השנה הראשונה משולם מס מלא.,"100% of the residents who moved to the eligible settlement received a tax refund for the year of the move, since approval for residency in the eligible settlement is only granted after 12 months from the date the resident became an eligible resident, and thus, the first year is actually paid in full tax.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the original text. The original text states that 100% of the residents who moved to the eligible settlement received a tax refund for the year of the move, while the translation states that they received a tax refund, which is not the same as a tax refund for the year of the move.
+
+Fluency Errors
+[Minor]: [grammar] - The translation contains some grammatical errors, such as the use of ""the eligible settlement"" instead of ""an eligible settlement"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""eligible settlement"" may not be the most appropriate terminology in this context, as it could be more clearly expressed as ""qualifying settlement"" or ""settlement that qualifies for the tax refund"".
+
+Overall, the translation is generally understandable, but there are some minor errors that could be improved to better convey the meaning of the original text."
+253,שיעור ההחזר יכול להגיע לעשרות אלפי שקלים לאורך 6 שנים.,The return rate can reach tens of thousands of shekels over 6 years.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text mentions that the return rate can reach ""tens of thousands of shekels"" over 6 years, while the translation omits the specific currency (shekels) and the timeframe (over 6 years).
+Fluency Errors
+[No Errors]
+Locale Convention Errors
+[No Errors]
+Style Errors
+[No Errors]
+Terminology Errors
+[No Errors]
+Non-Translation Errors
+[No Errors]
+Other Errors
+[No Errors]"
+255,"מנכ״ל tax:on, טל כרמון: ""משבר הקורונה גרם לכך שציבור השכירים בישראל הפך להרבה יותר אקטיבי.","""The COVID-19 crisis has led to the salaried public in Israel becoming much more active.""","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text refers to ""מנכ״ל tax:on, טל כרמון"" as the speaker, but the translation does not mention this.
+[Minor]: [omission] - The source text mentions ""משבר הקורונה"" (the COVID-19 crisis), but the translation does not explicitly state this.
+
+Fluency Errors
+[None]
+
+Locale Convention Errors
+[None]
+
+Style Errors
+[None]
+
+Terminology Errors
+[None]
+
+Non-Translation Errors
+[None]
+
+Other Errors
+[None]"
+256,"הוא מתעניין, בודק ודורש את מה שמגיע לו בהחזרים ממס הכנסה.","He is interested, checking and demanding what is due to him in tax refunds.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""demanding"" does not fully capture the nuance of the Hebrew word ""דורש"" which implies a more assertive or persistent action.
+
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by using a more natural phrasing such as ""He is interested, checking and claiming what he is owed in tax refunds.""
+
+Overall, the translation conveys the meaning of the source text accurately, with only minor errors that do not significantly impact comprehension."
+264,"לפי הדו""ח, מחפשי העבודה התעניינו בעיקר בתחומים רוויי משרות כמו אדמיניסטרציה ומכירות, שלגביהן נשלחו 1,738,485 קורות חיים.","According to the report, job seekers were primarily interested in fields with abundant job openings, such as administration and sales, for which 1,738,485 resumes were submitted.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the phrase ""לפי הדו""ח"" (according to the report) at the beginning of the sentence.
+
+Fluency Errors
+[No errors detected]
+
+Locale Convention Errors
+[No errors detected]
+
+Style Errors
+[No errors detected]
+
+Terminology Errors
+[No errors detected]
+
+Non-Translation Errors
+[No errors detected]
+
+Other Errors
+[No errors detected]
+
+Overall, the translation is accurate and fluent, with only a minor omission error that does not significantly impact the comprehension of the text."
+268,"השכר החודשי בתחום התוכנה היה 17,915 שקלים בממוצע, ובניתוח מערכות מידע הוא עמד על 17,140 שקלים.","The average monthly salary in the software field was 17,915 shekels, and in the field of information systems analysis it stood at 17,140 shekels.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""information systems analysis"" does not accurately capture the meaning of the source text ""ניתוח מערכות מידע"", which refers to the field of information systems analysis.
+
+Fluency Errors
+[Minor]: [Spelling] - The word ""shekels"" is misspelled as ""shekels"" in the translation.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."
+276,ההיצע הגדול ביותר היה למשרות ללא ניסיון - וכאלה היו יותר מ-58 אלף באתר.,"The largest supply was for positions without experience - and there were more than 58,000 such positions on the site.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""היה"" (was) from the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""was for positions"") instead of the active voice (""was for positions"") used in the source text.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is of good quality with only minor errors that do not significantly impact the comprehension of the text."
+286,"במילים אחרות, מדובר ב- 193 אלף לא מועסקים לעומת 180.3 אלף.","193,000 unemployed compared to 180.3 thousand.","MQM annotations:
+Accuracy Errors
+[Minor]: [Omission] - The source text mentions ""in other words"", which is not present in the translation.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses ""thousand"" instead of ""thousands"" to match the plural form in the source text.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is mostly accurate and fluent, with only minor errors related to omission of a phrase and grammar. The translation conveys the key information from the source text."
+289,"מאלה שבכוח העבודה 95.5% המהווים 4,059,700 הם מועסקים והשאר בלתי מועסקים.","95.5% of the labor force, which amounts to 4,059,700 people, are employed, and the rest are unemployed.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text states that 95.5% of the labor force are employed, while the translation states that 95.5% of the labor force are employed, which is a minor mistranslation.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]"
+295,"הסקר מאפשר מעקב אחר ההתפתחות בכוח העבודה, גודלו ותכונותיו, היקף האבטלה ועוד.","The survey allows monitoring the development of the labor force, its size and characteristics, the extent of unemployment, and more.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""הסקר"" (the survey) at the beginning of the sentence.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is accurate and fluent, with only a minor omission error that does not significantly impact the comprehension of the text."
+301,הקידוש והמסורת הם שורש מאוד עמוק בנשמה שלי.,The sanctity and tradition are a very deep root in my soul.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not fully capture the meaning of the original text. The Hebrew phrase ""הקידוש והמסורת"" refers to the religious sanctity and tradition, which is not conveyed in the English translation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""a very deep root in my soul"" which is not entirely grammatically correct. A more natural phrasing would be ""deeply rooted in my soul"" or ""a deep part of my soul"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The word ""sanctity"" may not be the most appropriate term in this context, as it has strong religious connotations. A more neutral term like ""significance"" or ""importance"" may be more suitable.
+
+Overall, the translation conveys the general meaning of the original text, but could be improved to better capture the nuances and natural phrasing."
+302,"ימי שישי אצלי מוקדשים לילדים, אור (10) ויונתן (8).","Fridays at my place are dedicated to the children, Aor (10) and Yonatan (8).","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The name ""Aor"" is mistranslated as ""Aor"" instead of the more common English spelling ""Or"".
+
+Fluency Errors
+[Minor]: [Spelling] - The name ""Yonatan"" is spelled differently in the translation compared to the source text.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is of good quality with only minor errors that do not significantly impact the comprehension of the text."
+310,"כשאנחנו מגיעים לחמותי, כבר מלובי הבניין עולים ריחות מדהימים מהדירה שלה.",The smells from her apartment are amazing even from the building lobby.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text mentions ""when we arrive at my mother-in-law's"", but the translation does not convey this context.
+[Minor]: [omission] - The source text mentions ""we"" arriving at the mother-in-law's, but the translation does not include this.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses ""are amazing"" instead of ""are amazingly"" or ""are wonderful"" to better match the source text.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+316,כל פינה נידחת בארץ עשתה לו גאווה בלב.,Every remote corner of the land has made itself a pride in the heart.,"MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The original Hebrew phrase ""כל פינה נידחת בארץ עשתה לו גאווה בלב"" means ""Every remote corner of the land has instilled pride in the heart"", but the translation ""Every remote corner of the land has made itself a pride in the heart"" does not capture this meaning accurately.
+[Minor]: [omission] - The translation omits the word ""instilled"" which is present in the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The phrase ""has made itself a pride in the heart"" is grammatically incorrect. A more natural phrasing would be ""has instilled pride in the heart""."
+323,שבוע־שבועיים לפני יום העצמאות כבר הייתי מטפס על עצים וקושר לבית חוטים עם דגלי ישראל.,"Two weeks before Independence Day, I was already climbing trees and tying strings with Israeli flags to the house.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""שבוע"" (week) from the original text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""two weeks"" instead of ""a week or two"" to convey the original meaning.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+348,"""הייתי פותחת שולחן גדול ומזמינה את 'המתים שלי'.","""I would set a large table and invite my 'dead ones'.""","MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The source text refers to inviting ""my dead ones"", which likely means inviting deceased family members or loved ones, but the translation uses the more literal ""my 'dead ones'"" which sounds awkward and does not clearly communicate the intended meaning.
+[Minor]: [addition] - The translation adds the word ""ones"" which is not present in the source text.
+
+Fluency Errors
+[Minor]: [register] - The use of the phrase ""my 'dead ones'"" is somewhat informal or colloquial, and may not match the expected register for this type of statement."
+349,"לפעמים אני מדמיינת מה היה אילו אחי דניאל ז""ל היה בחיים, או אם אבא שלי, שניאור ז""ל, היה רואה את הילדים שלי: אוריאל (23) והתאומות תמרה ונעמה (16 וחצי).","Sometimes I imagine what it would have been like if my brother Daniel, may he rest in peace, was still alive, or if my father, Shneur, may he rest in peace, had seen my children: Uriel (23) and the twins Tamar and Naama (16 and a half).","MQM annotations:
+Accuracy Errors
+[Minor]: [Omission] - The translation omits the honorific ""ז""ל"" (may his memory be blessed) after the names of the deceased brother and father.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""16 and a half"" to describe the twins' age, which is not a common way to express age in English. A more natural phrasing would be ""16 years old"".
+
+Locale Convention Errors
+[Minor]: [Name] - The translation retains the Hebrew names ""Uriel"", ""Tamar"", and ""Naama"" without providing an English equivalent.
+
+Style Errors
+[Minor]: [Awkward] - The phrasing ""what it would have been like if"" is a bit awkward in English. A more natural phrasing could be ""what it would have been like if my brother Daniel, may he rest in peace, was still alive, or if my father, Shneur, may he rest in peace, had seen my children: Uriel (23) and the twins Tamar and Naama, who are 16 years old.""
+
+Overall, the translation is generally accurate and understandable, with only minor errors that do not significantly impact the meaning or flow of the text."
+364,"ביבי תשחק בתפקיד נועה, שאותו גילמה דפנה ארמוני.","Bibi will play the role of Noam, which was portrayed by Dafna Armoni.","MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The source text refers to the character ""Noam"", which was portrayed by Dafna Armoni, but the translation incorrectly refers to the character as ""Noam"" instead of ""Noa"".
+[Minor]: [untranslated text] - The name ""Bibi"" in the source text is not translated in the target text.
+
+Fluency Errors
+[Minor]: [grammar] - The sentence structure in the target text is slightly awkward, and could be improved by rephrasing it as ""Bibi will play the role of Noa, which was portrayed by Dafna Armoni."""
+371,את הידיעה המשמחת חלקה אתמול בערב (שישי) לופז עם מעריציה באתר הרשמי שלה onthejlo.com,The joyful news was shared yesterday evening (Friday) by Lopez with her fans on her official website onthejlo.com.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text says ""את הידיעה המשמחת חלקה אתמול בערב (שישי) לופז עם מעריציה"", which means ""Lopez shared the joyful news yesterday evening (Friday) with her fans"". The translation misses the detail that Lopez shared the news with her fans.
+
+Fluency Errors
+[Minor]: [Punctuation] - The translation could be improved by adding a comma after ""evening (Friday)"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."
+390,"עכשיו אנחנו יותר חשופות, פונות ישירות למצלמה באופן טבעי, לא רק ריאליטי אלא סדרה דוקומנטרית אותנטית"".","""Now we are more exposed, turning directly to the camera in a natural way, not just reality but an authentic documentary series.""","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Hebrew source says ""we are more exposed"", but the English translation says ""we are more exposed"". The meaning is slightly different.
+[Minor]: [Omission] - The Hebrew source mentions that the series is ""not just reality but an authentic documentary series"", but this part is missing from the English translation.
+
+Fluency Errors
+[Minor]: [Grammar] - The English translation uses the plural ""we"" but the Hebrew source uses the singular ""I/we"".
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The term ""exposed"" may not be the most appropriate choice in this context.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the overall meaning or comprehension of the text."
+402,אינדינגב בניחוח בינלאומי: אפגן וויגז מצטרפים אל אביתר בנאי ונגה ארז,In an international flavor: Afgan Wiggs join Avner Banai and Noga Erez.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The name ""Afgan Wiggs"" is mistranslated from the Hebrew name ""אפגן וויגז"".
+[Minor]: [Mistranslation] - The name ""Avner Banai"" is mistranslated from the Hebrew name ""אביתר בנאי"".
+
+Fluency Errors
+[Minor]: [Spelling] - The name ""Afgan"" should be ""Afghan"".
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The term ""join"" is not the most appropriate term to describe the relationship between the artists mentioned.
+
+Overall, the translation conveys the main idea of the source text, but there are some minor errors in accuracy, fluency, and terminology that could be improved."
+407,"אינדינגב החל את דרכו בשנת 2007 כאירוע נישתי קטן, שאיגד את השמות החמים בסצנת האינדי הישראלית.","Indingb began its journey in 2007 as a small niche event, which brought together the hot names in the Israeli indie scene.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The source text mentions that Indingb ""began its journey in 2007"", but the translation does not include the year.
+
+Fluency Errors
+[Minor]: [spelling] - The name ""Indingb"" is misspelled in the translation as ""inindingb"".
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to omission of the year and a spelling mistake in the name. The translation conveys the main idea of the source text effectively."
+409,אביב גפן ושרית חדד: פסטיבל חוצות היוצר בירושלים בהפתעות חדשות,Aviv Geffen and Sarit Hadad: The Jerusalem Creators Festival with new surprises.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""Aviv Geffen and Sarit Hadad"" does not accurately reflect the source text, which mentions ""אביב גפן ושרית חדד"" (Aviv Geffen and Sarit Hadad).
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""The Jerusalem Creators Festival with new surprises"" could be improved by using a more natural grammatical structure, such as ""The Jerusalem Creators Festival features new surprises.""
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+410,"הפסטיבל הבינלאומי בבירה, שהפך למסורת ויתקיים במספר מוקדים יציג מופעים מוזיקליים של אמנים מקומיים מובילים, וישלב מופעי קרקס ומיצגים אמנותיים חדשניים ומפתיעים","The international festival in the capital, which has become a tradition and will take place in several focal points, will feature musical performances by leading local artists, and will combine circus acts and innovative and surprising artistic displays.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""במספר מוקדים"" is translated as ""in several focal points"", which does not fully capture the meaning of ""in multiple locations/venues"".
+
+Fluency Errors
+[Minor]: [Grammar] - The phrase ""will feature musical performances by leading local artists"" could be improved to ""will feature musical performances by leading local artists"".
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality, with only minor errors that do not significantly impact the comprehension of the text."
+417,"SPARKS הוא מופע קרקס, תנועה וריחוף אווירי של קרקס Y, תערוכת צילום אינסטגרמית בהשראת יצירות אמנות מפורסמות.","SPARKS is a circus performance, aerial movement and levitation of Circus Y, an Instagram photo exhibition inspired by famous works of art.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""levitation"" does not accurately capture the meaning of ""ריחוף אווירי"" (aerial suspension/floating) in the source text.
+[Minor]: [Omission] - The translation does not include the information about ""תנועה"" (movement) from the source text.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""an Instagram photo exhibition"" which is grammatically correct but could be improved to ""an Instagram-based photo exhibition"" to better match the source text.
+
+Terminology Errors
+[Minor]: [Inconsistent use] - The translation uses ""Circus Y"" while the source text uses ""קרקס Y"" (Circus Y). The terminology should be consistent.
+
+Style Errors
+[Minor]: [Awkward] - The overall translation is understandable but could be phrased in a more natural and idiomatic way in English."
+418,"The Black Box Gallery – היא גלריית ההצצה של היוצר והמבצע ליאור כלפון, שתוצב ברחבת היריד עם חורי הצצה שיחשפו את הקהל לתערוכת יצירותיו הזרחניות של ליאור כלפון, יצירות אמנות של פסלים מוארים של האמן הרב תחומי אלון בירגר (תיאטרון האור) ועוד.","The Black Box Gallery - it is the peephole gallery of the creator and performer Lior Kalfon, which will be placed in the fairground with peepholes that will expose the audience to the fluorescent works of Lior Kalfon, art works of illuminated sculptures by the multidisciplinary artist Alon Birger (Theater of Light) and more.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""it is the peephole gallery"" does not accurately convey the meaning of ""היא גלריית ההצצה"" which is more accurately translated as ""it is the gallery of peeks/glimpses"".
+[Minor]: [omission] - The translation omits the mention of the ""היריד"" (fairground) where the gallery will be placed.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""which will be placed"" which is grammatically correct but could be more natural as ""that will be placed"".
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[Minor]: [awkward] - The phrasing ""the fluorescent works of Lior Kalfon, art works of illuminated sculptures by the multidisciplinary artist Alon Birger (Theater of Light) and more"" is a bit awkward and could be rephrased more naturally.
+
+Terminology Errors
+[No errors]
+
+Non-translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."
+444,.,"Here is the translation from Hebrew to English:
+
+The quick brown fox jumps over the lazy dog.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation accurately conveys the meaning of the source text.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of high quality and accurately conveys the meaning of the source text with no major or critical errors detected."
+446,"היא מרוויחה על קמפיינים יותר מוונדר וומן, היא יפה מדי, היא יודעת להעמיד במקום את דנה ויס, וכשצריך - גם לסנגר על השותף העסקי שלה.","She earns more from campaigns than Wonder Woman, she is too beautiful, she knows how to put Dana Weiss in her place, and when needed - she also defends her business partner.","MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The translation ""She earns more from campaigns than Wonder Woman"" does not accurately convey the meaning of the source text, which is that the person being described earns more on campaigns than Wonder Woman does.
+[Minor]: [omission] - The translation omits the phrase ""היא יודעת להעמיד במקום את דנה ויס"", which is an important part of the original meaning.
+[Minor]: [untranslated text] - The phrase ""וכשצריך - גם לסנגר על השותף העסקי שלה"" was not translated.
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""She earns more from campaigns than Wonder Woman"" has a slightly awkward grammatical structure compared to the more natural-sounding ""She earns more on campaigns than Wonder Woman.""
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The use of the term ""campaigns"" may not be the most appropriate translation for the Hebrew word ""קמפיינים"" in this context, as it could also refer to marketing or advertising campaigns."
+457,כאן מחפשים גיבורי־על.,Here we search for superheroes.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text ""כאן מחפשים גיבורי־על"" is more accurately translated as ""Here we are looking for superheroes"" rather than ""Here we search for superheroes"".
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+465,"תגידו: ספונג'ה וניקיונות, סירים על הגז וריחות בחדר המדרגות, ירון אילן או אבי כאכון בטלוויזיה, אבל הכי מוזר יהיה אם מישהו יגיד פתאום ""גיל ססובר"".","Sponge and cleaning, pots on the stove and smells in the stairwell, Yaron Eilan or Avi Kochavi on television, but the strangest thing would be if someone suddenly said ""Gil Sossover"".","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The name ""Gil Sossover"" is mistranslated as ""Gil Sossover"".
+
+Fluency Errors
+[Minor]: [Spelling] - The name ""Yaron Eilan"" is misspelled as ""Yaron Eilan"".
+
+Terminology Errors
+[Minor]: [Inconsistent use] - The name ""Avi Kochavi"" is used inconsistently with the other names in the translation.
+
+No other errors detected."
+468,לאורך מחצית ממנה - ססובר עומד.,Along half of it - Susover stands.,"MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The source text states that ""Susover stands"" along half of the length, but the translation simply says ""Susover stands"" without specifying the length.
+[Minor]: [omission] - The translation omits the phrase ""מחצית ממנה"" (along half of it), which is present in the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the present tense ""stands"" instead of the more appropriate ""is standing"" to match the meaning of the source text."
+477,"רותי רוסו בתגובה: ""שמחה שיש מקומות שמשקיעים יותר בקולינריה של אוכלוסייה זו"".","""I'm glad there are places that invest more in the cuisine of this population.""","MQM annotations:
+Accuracy Errors
+[Minor]: Mistranslation - The source text refers to ""Ruti Russo"" responding, while the translation omits the name.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is accurate and fluent, with only a minor error in omitting the name mentioned in the source text."
+481,בישראל בשנים האחרונות יותר ויותר משפחות ואנשים מבוגרים מבינים כי בדידות זו המחלה הקשה ביותר בגיל מבוגר ורואים במקומות הקהילתיים כפתרון מוכח למחלה.,"In recent years in Israel, more and more families and older people understand that loneliness is the most severe illness in old age, and they see community places as a proven solution to this illness.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""most severe illness"" does not fully capture the nuance of the original text, which refers to loneliness as the ""most severe"" problem or challenge in old age, rather than a literal ""illness"".
+
+Fluency Errors
+[Minor]: [Grammar] - The translation could be improved by using ""have come to understand"" instead of ""understand"" to better match the meaning of the original text.
+
+Terminology Errors
+[Minor]: [Inconsistent use] - The term ""community places"" is used, but the original text refers to ""מקומות הקהילתיים"" which could be more accurately translated as ""community spaces"" or ""community centers"".
+
+Overall, the translation conveys the main meaning of the original text, with a few minor errors that do not significantly impact comprehension."
+483,מרבית בתי הדיור המוגן נעזרים בשפים מקצועיים על מנת לבנות תפריט.,Most assisted living facilities rely on professional chefs to create their menus.,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""מרבית"" (most) from the source text.
+
+Fluency Errors
+[No errors detected]
+
+Locale Convention Errors
+[No errors detected]
+
+Style Errors
+[No errors detected]
+
+Terminology Errors
+[No errors detected]
+
+Non-Translation Errors
+[No errors detected]
+
+Other Errors
+[No errors detected]
+
+Overall, the translation is accurate and fluent, with only a minor omission error. The translation conveys the meaning of the source text effectively."
+487,"אני מכבדת את עבודתם הקשה של טבחים, טבחיות, שפיות ושפים בכל מקום, גם בדיור המוגן"".","I respect the hard work of cooks, chefs, and food preparers everywhere, even in assisted living facilities.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""טבחיות"" (female cooks) from the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the word ""food preparers"" which is not a common term in English. ""Cooks"" or ""chefs"" would be more natural.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""assisted living facilities"" may not be the most appropriate translation for ""דיור מוגן"" in this context, as ""דיור מוגן"" can refer to a broader range of senior housing options.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."
+491,"הזמר בתגובה: ""הפלישה לאוקראינה שונה מאוד מהקונפליקט הישראלי-פלשתיני","The singer in response: ""The invasion of Ukraine is very different from the Israeli-Palestinian conflict.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text refers to the ""Israeli-Palestinian conflict"", but the translation uses the term ""Israeli-Palestinian"" instead of ""Israeli-Palestinian conflict"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""The singer in response"" which is grammatically correct but could be improved to ""The singer responded"" for better fluency.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""invasion"" may not be the most appropriate choice to describe the situation in Ukraine, as it has strong political connotations. A more neutral term like ""conflict"" or ""situation"" may be more suitable.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+518,"לבקשת שר הבריאות ניצן הורוביץ, ימשיך במקביל בתפקידו כפרויקטור.","At the request of Health Minister Nitzan Horowitz, he will continue in parallel in his role as a project manager.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""לבקשת"" (at the request of) from the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the pronoun ""he"" to refer to the Health Minister, which is grammatically incorrect since the source text refers to the Health Minister in the third person.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to omission and grammar. The translation conveys the main meaning of the source text effectively."
+527,"דו""ח מבקר המדינה: התקציב בפועל ברוב שנות פעילות ועדת סל התרופות – קטן מהתקציב המומלץ",The State Comptroller's report: The actual budget in most years of the activity of the Drug Basket Committee - is smaller than the recommended budget.,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""המדינה"" (the State) from the original source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""is smaller than"" instead of ""was smaller than"" to describe the budget in past years.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to omission and grammar. The translation conveys the main meaning of the source text effectively."
+528,"על פי הדו""ח של מתניהו אנגלמן, במשך יותר מ-20 שנות פעילות הסל – משרד הבריאות לא פיקח על פעילות הוועדה •","According to the report of Matanyahu Englman, for more than 20 years of activity of the Sal - the Ministry of Health did not supervise the activity of the committee.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""the"" before ""Sal"".
+[Minor]: [mistranslation] - The translation uses ""Sal"" instead of translating it as ""the basket"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by using ""has not"" instead of ""did not"" to match the past tense of the source text.
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[Minor]: [awkward] - The translation could be more natural and idiomatic.
+
+Terminology Errors
+[No errors]
+
+Non-translation Errors
+[No errors]
+
+Other Errors
+[No errors]"
+532,ועדת סל התרופות היא אחת הוועדות הציבוריות המשפיעות ביותר על חיי היומיום שלנו ועל בריאותנו.,The Drugs Basket Committee is one of the most influential public committees on our daily lives and our health.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""Drugs Basket Committee"" does not accurately convey the meaning of the original Hebrew term ""ועדת סל התרופות"", which refers to a specific committee that determines the list of medications covered by the national health insurance system.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor issue in the terminology used to describe the committee. The translation conveys the main idea of the source text effectively."
+535,"על פי הדו""ח של מתניהו אנגלמן, הוא ממליץ ""לבצע בתהליך הרחבת הסל תיקונים ושיפורים, שיביאו למיצוי איכותי יותר של תקציב סל שירותי הבריאות שהציבור זכאי לו"".","According to the report by Matanyahu Engelmann, he recommends ""to carry out corrections and improvements in the process of expanding the basket, which will lead to a more qualitative realization of the budget for the health services basket to which the public is entitled.""","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation does not fully capture the meaning of the original text. The phrase ""to carry out corrections and improvements in the process of expanding the basket"" does not convey the same meaning as ""לבצע בתהליך הרחבת הסל תיקונים ושיפורים"" which suggests that the improvements and corrections should be made to the basket itself, not just the process of expanding it.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""to carry out corrections and improvements"" which is grammatically correct but slightly awkward. A more natural phrasing could be ""to make corrections and improvements"".
+
+Terminology Errors
+[Minor]: [Inconsistent use] - The term ""basket"" is used inconsistently in the translation. It would be better to use a more consistent term like ""health services basket"" throughout.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."
+539,"ברוב שנות פעולת הוועדה (90% מהזמן), גובה התוספת התקציבית היה קטן מ-1.5% של סל הבריאות, שיעור שהומלץ על ידי ועדות שונות כשיעור התוספת הרצוי.","The budgetary supplement was less than 1.5% of the health basket, a rate recommended by various committees as the desired supplement rate.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the information about the duration of the committee's activity (90% of the time).
+
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by using a more natural grammatical structure, such as ""During most of the committee's years of operation, the budgetary supplement was less than 1.5% of the health basket, a rate recommended by various committees as the desired supplement rate.""
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+559,אנגלמן ממליץ למשרד הבריאות לעדכן את נהלי עבודת הסל וגם לקבוע האם יש צורך בתוספת כספית נפרדת עבור שירותים אלו.,Angelman recommends to the Ministry of Health to update the basket work procedures and also to determine whether there is a need for a separate financial supplement for these services.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The name ""Angelman"" is mistranslated as ""Angelman"" instead of the correct name ""Engelmann"".
+[Minor]: [Omission] - The translation omits the full name ""Engelmann"" and only refers to the last name.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""to update the basket work procedures"" which is not idiomatic English. A more natural phrasing would be ""to update the procedures for the basket of services"".
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [Awkward] - The phrasing ""to determine whether there is a need for a separate financial supplement for these services"" is somewhat awkward. A more natural phrasing would be ""to determine whether a separate financial supplement is needed for these services"".
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally understandable, with only minor errors that do not significantly impact comprehension. The main issues are some mistranslation of the name, omission of the full name, and some awkward phrasing in the fluency and style categories."
+581,"ד""ר נעמה נוס אחראית אפדימיולוגיה לשכת הבריאות בת""א ציינה כי ""אנחנו לא יכולים לקבוע חד משמעית ממה שלושת הידיירים נפטרו.","Dr. Naama Nus, the epidemiologist at the Tel Aviv Health Office, stated that ""we cannot definitively determine what the three deceased died from.""","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Hebrew term ""ידיירים"" was translated as ""the three deceased"", when it should have been translated as ""the three hospitalized individuals"".
+
+Fluency Errors
+[Minor]: [grammar] - The sentence structure could be improved for better fluency, e.g., ""Dr. Naama Nus, the epidemiologist at the Tel Aviv Health Office, stated that we cannot definitively determine the cause of death for the three hospitalized individuals.""
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor grammatical and terminology issues that do not significantly impact the meaning or comprehension of the text."
+593,"יגאל נחתומי, מנכ""ל בית אקשטיין שמנהל את המעון ואף ניהל את המעון בעצמו אמר ""מאות ואלפי אנשים בכל המערך קמים רק במטרה אחת: לעשות טוב לאנשים.","Yigal Nachshoni, CEO of Beit Ekshtein, who manages the shelter and even managed the shelter himself, said ""Hundreds and thousands of people throughout the system are getting up for only one purpose: to do good for people.""","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The name ""Yigal Nachshoni"" is mistranslated as ""Yigal Nachshoni"".
+
+Fluency Errors
+[Minor]: [Grammar] - The sentence structure could be improved for better fluency, e.g. ""Yigal Nachshoni, the CEO of Beit Ekshtein, who manages the shelter and even managed it himself, said...""
+
+Style Errors
+[Minor]: [Awkward] - The phrasing ""getting up for only one purpose"" sounds a bit awkward. A more natural phrasing could be ""with the sole purpose of"" or ""with the goal of"".
+
+No other errors detected."
+595,את אחת הדיירות הרדמתי על הידיים.,I carried one of the tenants on my hands.,"MQM annotations:
+Accuracy Errors
+[Critical]: Mistranslation - The source text says ""I put one of the tenants to sleep on my hands"", but the translation says ""I carried one of the tenants on my hands"", which is a different meaning.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: Awkward - The translation ""I carried one of the tenants on my hands"" sounds unnatural and awkward.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+604,"זהו ההליך הראשון שביצע ד""ר פראס אבו עכר כמנהל היחידה לניתוחי חזה בבית החולים •",This is the first procedure performed by Dr. Firas Abu Akr as the head of the Chest Surgery Unit at the hospital.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text mentions ""Dr. Firas Abu Akr"" while the translation uses ""Dr. Firas Abu Akr"".
+[Minor]: [omission] - The source text mentions ""•"" at the end, which is not present in the translation.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]"
+619,"לדבריו, הלב היה מרוקן מדם, לחצי הדם היו אפסיים, והגישה הניתוחית היתה שגויה.","According to his words, the heart was drained of blood, half the blood was futile, and the surgical approach was flawed.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The phrase ""לחצי הדם היו אפסיים"" is translated as ""half the blood was futile"", which does not accurately convey the meaning of the original text.
+[Minor]: [omission] - The phrase ""לדבריו"" (according to his words) is not fully translated in the English version.
+
+Fluency Errors
+[Minor]: [grammar] - The phrase ""the surgical approach was flawed"" could be improved to ""the surgical approach was flawed.""
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""futile"" may not be the most appropriate choice to describe the state of the blood in this medical context.
+
+Overall, the translation is generally accurate and understandable, with a few minor errors that do not significantly impact the overall meaning of the text."
+622,"עוד ציין: ""מדובר בהליך לא מסובך, שנמשך כמה דקות"", והוסיף: ""לא ניתן שלא להתייחס לתהליך הלקוי של קבלת ד""ר אבו עכר לתפקיד.","""It was also noted: 'This is a simple process that takes a few minutes,' and he added: 'One cannot ignore the flawed process of appointing Dr. Abu Akar to the position.'""","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text mentions ""Dr. Abu Akar"" while the translation uses ""Dr. Abu Akar"".
+[Minor]: [omission] - The source text mentions ""עוד ציין"" (It was also noted) which is not fully captured in the translation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses ""It was also noted"" which is grammatically correct but slightly awkward. A more natural phrasing could be ""It was also stated"".
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [awkward] - The overall translation is understandable but could be phrased in a more natural way.
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is mostly accurate and fluent, with a few minor errors that do not significantly impact the comprehension of the text."
+647,"ד""ר שלומי קודש לא שוכח, גם ממרום תפקידו, את הדחיפה מפרופ' שאול סוקניק ז""ל •","Dr. Shlomi Kodesh does not forget, even from the height of his position, the push from the late Prof. Saul Sokonik.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""the push from the late Prof. Saul Sokonik"" does not accurately convey the meaning of the original Hebrew text, which seems to indicate that Dr. Shlomi Kodesh does not forget the encouragement or support he received from the late Prof. Saul Sokonik.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""the height of his position"" which is grammatically correct but may sound slightly awkward. A more natural phrasing could be ""even in his high-ranking position"".
+
+Terminology Errors
+[Minor]: [Inconsistent use] - The name ""Saul Sokonik"" is translated as ""Prof. Saul Sokonik"" and ""the late Prof. Saul Sokonik"", which is slightly inconsistent.
+
+Overall, the translation conveys the main meaning of the original text, but there are some minor errors in accuracy, fluency, and terminology that could be improved."
+674,"על פרופ' שאול סוקניק ז""ל","On Professor Shaul Sokonik, may his memory be a blessing.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the honorific ""z""l"" (may his memory be a blessing) after the name of the deceased professor.
+
+Fluency Errors
+[Minor]: [spelling] - The name ""Shaul Sokonik"" is misspelled as ""Shaul Sokonik"" in the translation.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is mostly accurate and fluent, with only minor errors related to omission of a honorific and misspelling of the name. The translation conveys the main meaning of the source text."
+676,.,"Here is the translation from Hebrew to English:
+
+The quick brown fox jumps over the lazy dog.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation does not accurately convey the meaning of the original Hebrew text, which is a common English-language pangram.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation error. The translation effectively conveys the meaning of the original Hebrew text."
+684,"כאשר סיימתי את ההתמחות והתלבטתי אם לנסוע לתקופת השתלמות בחו""ל, שאול דחף וכיוון אותי, וסייע לי במכתבי המלצה ובעצות כיצד להתנהל.","When I finished my internship and was undecided whether to go abroad for a training period, Saul pushed and guided me, and helped me with letters of recommendation and advice on how to proceed.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""pushed and guided me"" does not fully capture the nuance of the Hebrew phrase ""דחף וכיוון אותי"", which suggests a more active and directive role in guiding the person.
+
+Fluency Errors
+[No errors detected]
+
+Locale Convention Errors
+[No errors detected]
+
+Style Errors
+[No errors detected]
+
+Terminology Errors
+[No errors detected]
+
+Non-Translation Errors
+[No errors detected]
+
+Other Errors
+[No errors detected]
+
+Overall, the translation is of good quality and accurately conveys the meaning of the source text, with only a minor issue in the translation of a specific phrase."
+692,הביא לאור: איליה יגורוב,Brought to light: Ilya Igorov,"MQM annotations:
+
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""לאור"" (to light) from the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""Brought to light"") instead of the active voice used in the source text (""Brought to light"").
+
+Terminology Errors
+[Minor]: [inconsistent use] - The name ""Ilya Igorov"" is translated inconsistently, as the source text uses the Hebrew spelling ""איליה יגורוב"" while the translation uses the English spelling ""Ilya Igorov"".
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+701,אבל למדתי ממנו דברים משמעותיים ועמוקים אף יותר.,But I learned from him more meaningful and deeper things.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not fully capture the meaning of the source text. The source text suggests that the speaker learned ""significant and deeper things"" from the person, whereas the translation only says ""more meaningful and deeper things"".
+
+Fluency Errors
+[No errors detected]
+
+Locale Convention Errors
+[No errors detected]
+
+Style Errors
+[No errors detected]
+
+Terminology Errors
+[No errors detected]
+
+Non-Translation Errors
+[No errors detected]
+
+Other Errors
+[No errors detected]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation error that does not significantly impact the overall meaning."
+709,זו הסיבה שד״ר טומי שינפלד מהווה עבורי הרבה יותר מדמות מעוררת השראה.,This is why Dr. Tommy Sheinfeld is much more than an inspiring figure for me.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text refers to ""Dr. Tommy Sheinfeld"" while the translation uses ""Dr. Tommy Sheinfeld"", which is a direct translation and does not capture the nuance of the original.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is accurate and fluent, with only a minor mistranslation error that does not significantly impact the overall meaning."
+717,"מגפת האומיקרון משתוללת והעומס כבר מורגש בבתי החולים: 37,847 אלף נדבקים אובחנו אתמול (שני) עם קורונה.","The Omicron epidemic is raging and the burden is already felt in hospitals: 37,847 thousand infected were diagnosed yesterday (Monday) with coronavirus.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text states ""37,847 thousand infected"", which is incorrect. The correct number is 37,847.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses ""thousand"" after the number, which is grammatically incorrect. It should be ""37,847 infected"".
+
+Locale Convention Errors
+[Minor]: [number] - The source text uses a comma to separate thousands, while the translation does not. The translation should use a comma to be consistent with the source text format.
+
+Style Errors
+[Minor]: [awkward] - The phrase ""The Omicron epidemic is raging and the burden is already felt in hospitals"" sounds slightly awkward in English. A more natural phrasing could be ""The Omicron outbreak is surging, and the burden is already being felt in hospitals"".
+
+Overall, the translation is generally accurate and understandable, with only minor errors that do not significantly impact the meaning or flow of the text."
+731,"אנשי צוות רפואי מבודדים, מתוכם 542 רופאים.","Medical staff in isolation, of which 542 are doctors.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""מתוכם"" (of which) from the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""are doctors"") instead of the active voice (""are doctors"") used in the source text.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+737,"ואולם, למרבה הצער, לעתים מסתיימות לידות בנזקים חמורים הנגרמים ליולדת או ליילוד כתוצאה מהתרשלות הצוות הרפואי.","However, unfortunately, sometimes births end in serious damage caused to the parturient or the newborn as a result of medical staff negligence.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""למרבה הצער"" (unfortunately) from the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the term ""parturient"" which is not commonly used in English. A more natural term would be ""mother"" or ""birthing person"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""parturient"" is not the most appropriate terminology in this context and a more common term would be better.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."
+738,"במקרים שבהם הסתיימה הלידה בפגיעה גופנית, ליילוד או לאם, יש מקום לבחון את השתלשלות האירועים אשר הובילו לפגיעה ואף לשקול פנייה לקבלת ייעוץ משפטי.","In cases where the birth ended in physical injury, to the newborn or the mother, it is appropriate to examine the sequence of events that led to the injury and even consider seeking legal advice.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation does not include the word ""במקרים"" (in cases) at the beginning of the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""it is appropriate to examine"" instead of ""there is a need to examine"", which would be more natural in English.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""newborn"" is used in the translation, but ""infant"" or ""baby"" may be more appropriate in this context.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."
+745,שלב הצירים נמשך בממוצע בין 8 ל-14 שעות.,The active phase of labor lasts an average of 8 to 14 hours.,"MQM annotations:
+Accuracy Errors
+[No Error]
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is accurate and fluent. There are no errors detected."
+766,"במקרים מסוימים, מתפתחת לידה דיספונקציונלית, קרי, חוסר התקדמות של תהליך הלידה האקטיבית.","In certain cases, dysfunctional labor develops, that is, lack of progress in the active labor process.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text uses the term ""לידה דיספונקציונלית"" which means ""dysfunctional labor"", while the translation uses ""dysfunctional labor"" which is a direct translation and does not capture the nuance of the source term.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""lack of progress in the active labor process"" which is grammatically correct but could be more natural and fluent as ""lack of progress in the active birthing process"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""active labor process"" is a medical term that may not be the most appropriate for a general audience. A more common term like ""active birthing process"" may be more suitable.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+778,שיתוק על שם ERB,Paralysis.,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the phrase ""on the name of"" which is present in the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation is a single word, which lacks the grammatical structure of a full sentence.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""Paralysis"" may not be the most appropriate translation for the given context.
+
+Overall, the translation conveys the general meaning of the source text, but lacks some important details and grammatical structure. There are a few minor errors that could be improved to enhance the quality of the translation."
+781,שיתוק זה נגרם לא פעם בשל קושי בהוצאתו של היילוד בשל התרחשות 'פרע כתפיים' - מצב חירום מיילדותי המרחש כאשר כתפיו של העובר נכלאות בפנים תעלת הלידה לאחר שראשו יצא.,Paralysis is often caused by difficulty in delivering the newborn due to the occurrence of 'shoulder dystocia' - an obstetric emergency that occurs when the baby's shoulders become stuck in the birth canal after the head has been delivered.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text mentions ""פרע כתפיים"" which is a specific medical term for a condition where the baby's shoulders get stuck during delivery. The translation does not fully capture the meaning of this term and instead uses a more general description.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""is often caused"") which is slightly awkward. A more natural phrasing would be ""often causes"" or ""is often the cause of"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""shoulder dystocia"" is a technical medical term that may not be familiar to all readers. A more accessible phrasing could be used.
+
+Overall, the translation conveys the main meaning of the source text accurately, with only minor issues in fluency and terminology. The quality is generally good."
+795,פטירת יולדת במהלך הלידה הינו אירו נדיר למדי.,The death of a woman in childbirth is a relatively rare event.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text uses the term ""פטירת יולדת"" which means ""death of a woman in childbirth"", while the translation uses ""the death of a woman in childbirth"" which is a more direct translation.
+Fluency Errors
+[Minor]: [grammar] - The translation uses ""is a relatively rare event"" which is grammatically correct, but the source text uses ""הינו אירו נדיר למדי"" which is a more natural phrasing in Hebrew.
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""woman in childbirth"" is technically accurate, but ""woman"" or ""mother"" may be more natural in this context."
+797,במקרים מסוימים לא מאתר הצוות הרפואי דימום אצל היולדת במועד או מגיב באיחור לדימום כאמור.,"In certain cases, the medical team does not detect bleeding in the parturient in a timely manner or responds with a delay to such bleeding.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation does not include the word ""לא"" (not) in the source text, which changes the meaning.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the word ""parturient"" which is not a commonly used term in English. A more natural phrasing would be ""the woman in labor"" or ""the delivering mother"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to omission of a negation word and use of a less common term. The translation conveys the meaning of the source text effectively."
+800,"באותו מקרה היולדת התלוננה על כאבים קשים וחולשה לאחר הניתוח אולם הצוות הרפואי לא התייחס כיאות לתלונותיה ומצבה הקליני, הגיב באיחור רק לאחר שמערכות גופה החלו לקרוס, דבר שהביא לפטירתה"".","In that case, the parturient complained of severe pain and weakness after the surgery, but the medical staff did not properly address her complaints and clinical condition, only reacting with delay after her body systems began to collapse, which led to her death.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text refers to the ""parturient"" (the woman giving birth), while the translation uses the more general term ""the parturient"".
+
+Fluency Errors
+[Minor]: [Grammar] - The translation could be improved by using ""her"" instead of ""the"" when referring to the parturient.
+
+Overall, the translation is accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+805,"פיצוי יילוד בגין פגיעה עקב רשלנות רפואית בלידה כולל רכיבי נזק רבים, כאשר הסכומים המשמעותיים ביותר ניתנים עבור כאב וסבל, סיעוד וטיפול בשכר, הפסדי שכר ופנסיה לנפגע ואף להוריו ורכיבי נזק נוספים.","Compensation for a newborn due to injury caused by medical negligence during childbirth includes many damage components, with the most significant amounts awarded for pain and suffering, nursing and paid care, lost wages and pension for the injured party and even their parents, and additional damage components.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""Compensation for a newborn due to injury caused by medical negligence during childbirth"" does not fully capture the meaning of the source text, which is about compensation for a newborn who was injured due to medical negligence during the birth process.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""awarded for"" which is not the most natural phrasing in English. A more natural phrasing would be ""awarded for the purposes of"" or ""awarded to cover"".
+
+Terminology Errors
+[Minor]: [Inconsistent use] - The translation uses the term ""newborn"" which is not fully consistent with the source text's use of ""יילוד"" which refers more broadly to a recently born infant.
+
+Overall, the translation conveys the main meaning of the source text, with only minor errors that do not significantly impact comprehension."
+813,מחקר העלה כי קיים קשר בין התפתחות המחלה לנישואי קרובים •,Research has shown that there is a connection between the development of the disease and consanguineous marriage.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""consanguineous marriage"" does not fully capture the meaning of the Hebrew phrase ""נישואי קרובים"", which refers more broadly to marriages between close relatives.
+
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by using a more natural phrasing, such as ""Research has shown a connection between the development of the disease and marriages between close relatives.""
+
+Overall, the translation conveys the main meaning of the source text, but could be improved in terms of accuracy and fluency."
+830,"הדבר נובע בעיקר משכיחות גבוהה של נישואים בתוך המשפחה (בעיקר במגזר הבדואי) ומאלרגיות שונות, וחוסר מודעות לטיפול נכון בבעיה"".","The matter stems primarily from a high incidence of consanguineous marriages (especially in the Bedouin sector) and various allergies, and a lack of awareness of proper treatment of the problem.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""consanguineous marriages"" does not fully capture the meaning of the original phrase ""נישואים בתוך המשפחה"", which refers to marriages within the same family.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""a lack of awareness of proper treatment of the problem"", which could be improved to ""a lack of awareness of how to properly treat the problem"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the overall meaning or comprehension of the text."
+855,"עד כיתה ט' למד בבית הספר בכפר חורפיש, ולאחר מכן עבר לפנימייה הצבאית שבבית הספר הריאלי בחיפה.","From 9th grade, he studied at the school in the village of Kfar Kharfesh, and afterwards he transferred to the military boarding school at the Reali School in Haifa.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""From 9th grade"" does not accurately reflect the source text, which states that he studied at the school in Kfar Kharfesh ""until 9th grade"".
+[Minor]: [Omission] - The translation omits the name of the village ""Kfar Kharfesh"".
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the pronoun ""he"" without a clear antecedent, making it unclear who the subject is.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+861,"בשנת 2010 חבר לעמותת ""אחריי"" והתחיל להדריך קבוצה בכפר חורפיש, לאחר שדאג שהעמותה תחל לפעול בכפרים הדרוזיים כדי לעודד את בני הנוער להתגייס.","In 2010, he joined the ""Acharai"" organization and began to lead a group in the village of Hurfeish, after ensuring that the organization would begin operating in the Druze villages in order to encourage youth to enlist.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""began to lead a group"" does not fully capture the meaning of the original ""התחיל להדריך קבוצה"", which implies a more active role in guiding or instructing the group.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation ""ensuring that the organization would begin operating"" could be improved to ""ensuring that the organization began operating"" for better grammatical flow.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor issues related to the nuance of the original language and grammatical phrasing. The translation effectively conveys the key information from the source text."
+869,"ראוי שהוא יקבל את המקום המתאים לו"".","""He deserves the appropriate position for him.""","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""that"" before ""he deserves"".
+
+Fluency Errors
+[Minor]: [grammar] - The phrase ""the appropriate position for him"" sounds slightly unnatural in English. A more natural phrasing would be ""the position that is appropriate for him"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error] 
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor grammatical and stylistic issues that do not significantly impact comprehension."
+876,אך בתקשורת הערבית הוצג בדיעבד ציוד קשר שלדברי הפלשתינים הושאר על ידי הכוחות מאחור.,"But in the Arab media, communication equipment was presented retrospectively, which according to the Palestinians was left behind by the forces.","MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The source text states that communication equipment was presented in the Arab media, which the Palestinians claimed was left behind by the forces. The translation does not clearly convey this.
+[Minor]: [omission] - The translation omits the phrase ""according to the Palestinians"", which is present in the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""was presented"") instead of the active voice used in the source text."
+877,"לטענת חמאס, המבצע נועד להטמנת מכשירי האזנה.","According to Hamas, the operation was intended to plant listening devices.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""plant listening devices"" does not accurately convey the meaning of the original Hebrew text, which is that the operation was intended to plant/install listening devices.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""was intended to plant"") instead of the active voice used in the original (""נועד להטמנת"").
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+885,"מפקד כוח הלוחמים ולוחם נוסף בצוות קיבלו אף הם צל""ש.",The commander of the combat force and an additional fighter in the team also received a citation.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Hebrew term ""צל""ש"" (Tsal'ash) is a military decoration, which is not accurately translated as ""citation"" in English.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with a minor mistranslation of the military term ""צל""ש""."
+889,"ישראל צריכה לשאול את עצמה, שוב, אם לא נכון לשנות מדיניות מול גזרת ג'נין •","Israel needs to ask itself, again, whether it is not right to change its policy towards the Jenin district.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""Jenin district"" does not accurately convey the meaning of the original Hebrew term ""גזרת ג'נין"", which refers to the Jenin region or area, not just the district.
+
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by using ""whether it is right"" instead of ""whether it is not right"".
+
+Terminology Errors
+[Minor]: [inconsistent use] - The translation uses ""Jenin district"" while the source text uses ""גזרת ג'נין"", which could be more consistently translated as ""Jenin region"" or ""Jenin area"".
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the overall meaning or comprehension of the text."
+895,"עדות לכך ניתנה במהלך מבצע המעצרים שבו נהרג שלשום לוחם הימ""מ, רס""ב נעם רז ז""ל.","The testimony to this was given during the arrest operation in which the Yamam fighter, Master Sergeant Noam Raz, of blessed memory, was killed yesterday.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text states that the Yamam fighter was killed ""yesterday"", while the translation says he was killed ""yesterday"".
+[Minor]: [Omission] - The source text mentions ""במהלך מבצע המעצרים"" (during the arrest operation), which is not fully captured in the translation.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""of blessed memory"" which is not standard English grammar.
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[No errors]
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+896,"לוחמים שהשתתפו בקרב בג'נין העידו כי הם אינם זוכרים היקף כזה של ירי ואלימות - עדות לא רק לכמות האדירה של אמל""ח שיש בשטח, אלא גם לנכונות להשתמש בו.","Fighters who participated in the battle in Jenin testified that they do not remember such a scale of fire and violence - evidence not only of the enormous amount of ammunition in the area, but also of the willingness to use it.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""לוחמים שהשתתפו בקרב בג'נין"" is translated as ""Fighters who participated in the battle in Jenin"", which is accurate.
+[Minor]: [Omission] - The phrase ""העידו כי הם אינם זוכרים היקף כזה של ירי ואלימות"" is partially omitted in the translation, which only mentions ""they do not remember such a scale of fire and violence"".
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the passive voice ""testified that they do not remember"", which is grammatically correct but could be improved by using the active voice ""testified that they do not remember"".
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[No errors]
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors in mistranslation, omission, and grammar. The translation conveys the main meaning of the source text effectively."
+901,"פעילות מבצעית היא עניין מסוכן למי שמשתתף בה, ולמי שנוכח בזירה.","Operational activity is a dangerous matter for those who participate in it, and for those who are present at the scene.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not fully capture the meaning of the source text. The source text refers to ""operational activity"" as a dangerous matter, while the translation refers to it as a ""dangerous matter"" in general.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""for those who participate in it"" rather than the more natural ""for those who participate in it"" or ""for participants"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."
+906,"ממילא נראה ששום דבר לא ישכנע את המשוכנעים: העולם כבר הזדרז לגנות את ישראל מבלי שטרח לאזן זאת במילת אמפתיה לקורבנות הטרור הפלשתיני - העילה המקורית שבשמה צה""ל פועל ללא הרף בג'נין.","Here is the translation from Hebrew to English:
+
+Inevitably, it seems that nothing will convince the convinced: the world has already rushed to condemn Israel without bothering to balance this with a word of empathy for the victims of Palestinian terror - the original pretext in whose name the IDF operates relentlessly in Jenin.","MQM annotations:
+
+Accuracy Errors
+[Minor]: [mistranslation] - The phrase ""העולם כבר הזדרז לגנות את ישראל"" is translated as ""the world has already rushed to condemn Israel"", which does not fully capture the nuance of ""הזדרז לגנות"" (hastily/eagerly condemned).
+
+Fluency Errors
+[Minor]: [grammar] - The phrase ""מבלי שטרח לאזן זאת במילת אמפתיה"" is translated as ""without bothering to balance this with a word of empathy"", which could be improved by using a more natural grammatical structure, such as ""without balancing this with a word of empathy"".
+
+[Minor]: [register] - The phrase ""העילה המקורית שבשמה צה""ל פועל ללא הרף בג'נין"" is translated as ""the original pretext in whose name the IDF operates relentlessly in Jenin"", which uses a slightly formal register that may not match the tone of the source text.
+
+Overall, the translation is generally accurate and fluent, with only minor issues that do not significantly impact the comprehension of the text."
+907,"כתמיד, טבעם של סיפורים כאלה לגווע.","As always, the nature of such stories is to fade away.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""כתמיד"" (As always) from the source text.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only a minor omission error."
+911,האחריות מחייבת: לפעול להרגעת המצב.,The responsibility requires: to act to calm the situation.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Hebrew source ""האחריות מחייבת"" is translated as ""The responsibility requires"" in English, which does not fully capture the meaning of the original text.
+[Minor]: [omission] - The Hebrew source ""לפעול להרגעת המצב"" is translated as ""to act to calm the situation"" in English, but the word ""to act"" is not present in the original Hebrew text.
+
+Fluency Errors
+[Minor]: [grammar] - The English translation ""The responsibility requires: to act to calm the situation"" could be improved by using a more natural grammatical structure, such as ""The responsibility requires acting to calm the situation.""
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[Minor]: [awkward] - The English translation sounds slightly awkward and could be rephrased to sound more natural, such as ""The responsibility calls for calming the situation.""
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+919,"ח""כ עופר כסיף הוא הדוגמה האחרונה לכך; אם לא יינקטו כלפיו צעדים - לרבות העמדה לדין על תקיפת שוטר - תעודד המדינה במשתמע את נבחר הציבור הבא להקצין עוד יותר את פעולותיו.",MK Ofer Cassif is the latest example of this; if steps are not taken against him - including prosecution for assaulting a police officer - the state will implicitly encourage the next elected public representative to further escalate their actions.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""the next elected public representative"" does not accurately capture the meaning of ""נבחר הציבור הבא"" which refers to the next elected public official, not just any representative.
+
+Fluency Errors
+[Minor]: [grammar] - The phrase ""to further escalate their actions"" could be improved to ""to further escalate their actions even more"" for better grammatical flow.
+
+Style Errors
+[Minor]: [awkward] - The phrasing ""if steps are not taken against him - including prosecution for assaulting a police officer"" is a bit awkward and could be rephrased for a more natural style.
+
+Overall, the translation is generally accurate and fluent, with only minor issues that do not significantly impact comprehension."
+921,"מכל מי ששכל ישר בראשו מצופה להתעלות מעל לכל אלה, ולפעול להרגעת המצב; אחרת, עלולה ישראל לגלוש במהירות להסלמה מול אויבים מבחוץ, וגרוע מכך - מול יריבים מבית.","From all those who have common sense, it is expected to rise above all these, and to work to calm the situation; otherwise, Israel may quickly slide into escalation against external enemies, and worse - against internal rivals.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""מכל מי ששכל ישר בראשו"" is not accurately translated as ""From all those who have common sense"". A more accurate translation would be ""From all those who have sound judgment"".
+[Minor]: [Omission] - The phrase ""ולפעול להרגעת המצב"" is not fully translated. A more complete translation would be ""and to work to calm the situation"".
+
+Fluency Errors
+[Minor]: [Grammar] - The phrase ""it is expected to rise above all these"" could be improved to ""they are expected to rise above all these"".
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[Minor]: [Awkward] - The overall translation is a bit awkward and could be improved for better flow and naturalness.
+
+Terminology Errors
+[No errors]
+
+Non-translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is generally understandable, with a few minor errors that do not significantly impact comprehension. The quality is acceptable."
+928,"נוסף על כך, בין 100 ל-110 אלף פלשתינים עם היתרי עבודה נכנסים מדי יום לעבודה בישראל דרך 34 מעברים מפוקחים.","In addition, between 100,000 to 110,000 Palestinians with work permits enter Israel for work through 34 supervised crossings every day.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text mentions ""Palestinians with work permits"" entering Israel for work, while the translation uses the term ""Palestinians"" without specifying the work permits.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""enter Israel for work"" which could be improved to ""enter Israel to work"" for better grammatical flow.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to mistranslation and grammar. The translation conveys the key information from the source text effectively."
+940,"לעיתים הדבר חוזר על עצמו גם בפעם השנייה, אך רק בפעם השלישית הוא נעצר, נכלא ומוגש נגדו כתב אישום בגין שהייה בלתי חוקית.","Sometimes the matter repeats itself even the second time, but only the third time it is stopped, imprisoned, and an indictment is filed against him for illegal presence.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""imprisoned"" does not accurately convey the meaning of the Hebrew phrase ""נכלא"", which means ""detained"" or ""held in custody"" rather than ""imprisoned"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the pronoun ""him"" to refer to the subject, which is grammatically incorrect as the subject is not a person but the ""matter"" that repeats itself.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""illegal presence"" may not be the most appropriate terminology in this context, as it suggests a criminal offense rather than a civil violation.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+954,הוא יכול להיות אב למשפחה שנכנס לארץ לעבוד כדי להרוויח כמה שקלים ולחזור.,He can be a father to a family that enters the country to work in order to earn a few shekels and return.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The source text suggests that the person is entering the country to work and earn money, with the intention of returning home, while the translation implies that the person is a father to a family that enters the country for the same purpose.
+
+Fluency Errors
+[Minor]: [grammar] - The translation has some grammatical issues, such as the use of ""can be"" instead of ""is"" or ""could be"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The use of the term ""shekels"" may not be the most appropriate choice in this context, as the translation is in English.
+
+Overall, the translation conveys the general meaning of the source text, but there are some minor errors that could be improved to enhance the accuracy and fluency of the translation."
+968,"חברות רשומות לא עוסקות בזה, מכיוון שאם החברה תיתפס, דינה להיסגר"".","""Registered companies do not engage in this, because if the company is caught, its fate is to be closed.""","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""its fate is to be closed"" does not accurately convey the meaning of the original Hebrew text, which is that the company would be shut down if caught.
+
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by using more natural English phrasing, such as ""the company would be shut down"" instead of ""its fate is to be closed"".
+
+Overall, the translation is generally accurate and understandable, with only minor errors that do not significantly impact the meaning or flow of the text."
+971,"לרוב החבר'ה האלה מסיעים עם רכב מצ'וקמק כי הם יודעים שנחרים להם את הרכב אז הם מעדיפים לנסוע ברכב ישן"".","Most of these guys travel with a crappy vehicle because they know we'll confiscate their vehicle, so they prefer to drive an old car.","MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The source text refers to the authorities confiscating the vehicles, while the translation suggests that the authorities ""will confiscate"" the vehicles.
+[Minor]: [omission] - The translation omits the word ""לרוב"" (most) from the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""we'll confiscate"" which is grammatically incorrect. A more appropriate phrasing would be ""they know their vehicle will be confiscated"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""crappy vehicle"" is a bit informal and colloquial, and may not be the most appropriate choice for this context.
+
+Overall, the translation conveys the general meaning of the source text, but there are some minor accuracy and fluency issues that could be improved."
+972,תיעוד: הצתת שדות במושב ציפורי,Documentation: Arson of fields in the Tzipori moshav.,"MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The source text refers to the ""arson of fields"" in the Tzipori moshav, but the translation simply states ""Arson of fields in the Tzipori moshav"", which does not accurately convey the meaning.
+
+Fluency Errors
+[Minor]: [Spelling] - The word ""moshav"" is misspelled as ""moshav"" in the translation.
+
+Locale Convention Errors
+[None]
+
+Style Errors
+[None]
+
+Terminology Errors
+[None]
+
+Non-translation Errors
+[None]
+
+Other Errors
+[None]"
+979,"נציין כי במוקד זה הוקם ה""שומר החדש"" בניסיון למגר את התופעה הקשה.","This center was established as the ""New Guard"" in an attempt to eradicate the severe phenomenon.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""This center was established as the ""New Guard"""" does not accurately convey the meaning of the source text, which states that the ""New Guard"" was established at this center in an attempt to eradicate the severe phenomenon.
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""was established"") instead of the active voice used in the source text (""Established"")."
+981,"במסגרת התרגיל המטכ""לי ""מרכבות אש"", התרעת צופרים תשמע ביום ראשון, שני ורביעי בכמה מוקדים בישראל •","In the framework of the General Staff exercise ""Chariots of Fire"", the sounding of sirens will be heard on Sunday, Monday, and Wednesday in several locations in Israel.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""התרעת"" (the sounding of) before ""צופרים"" (sirens).
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice (""will be heard"") instead of the active voice (""will sound"") used in the source text.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+999,"בפעילות הלוחמים בעיר ג'נין שבמרחב החטיבה המרחבית מנשה, נעצרו שני מבוקשים החשודים בפעילות טרור.","In the activity of the fighters in the city of Jenin in the area of the Manasseh regional brigade, two wanted suspects suspected of terrorist activity were arrested.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text refers to the ""activity of the fighters"" while the translation refers to ""the activity of the fighters"", which is a minor mistranslation.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the passive voice ""were arrested"" while the source text uses the active voice, which is a minor grammatical error.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+1029,משרד רואה חשבון יהודה ברלב לא מעוניין להגיב.,Yehuda Berlev accounting firm is not interested in responding.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text refers to an ""accounting firm"" (משרד רואה חשבון), while the translation refers to an ""accounting firm"" (Yehuda Berlev accounting firm), which is a more specific translation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the singular ""firm"" instead of the plural ""firms"" to match the source text.
+
+Locale Convention Errors
+[No error]
+
+Style Errors
+[No error]
+
+Terminology Errors
+[No error]
+
+Non-translation Errors
+[No error]
+
+Other Errors
+[No error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to mistranslation and grammar. The translation conveys the meaning of the source text effectively."
+1032,"גנץ התייחס בין היתר לתיעוד של אל-סייד בשבי החמאס: ""סרטון שמטרתו סחטנות – על גבה של סוגייה הומניטארית"" •","Gantz referred, among other things, to the documentation of Al-Sayyid in Hamas captivity: ""A video whose purpose is extortion - on the back of a humanitarian issue"".","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation does not accurately convey the meaning of the original text. The source text refers to ""Al-Sayyid"" being held captive by Hamas, while the translation refers to ""the documentation of Al-Sayyid in Hamas captivity"".
+[Minor]: [Omission] - The translation omits the phrase ""בין היתר"" (among other things) from the source text.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation could be improved by using a more natural English sentence structure, such as ""Gantz referred to the documentation of Al-Sayyid in Hamas captivity, among other things: 'A video whose purpose is extortion - on the back of a humanitarian issue'"".
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The term ""extortion"" may not be the most appropriate choice in this context, as it has a strong negative connotation. A more neutral term like ""exploitation"" or ""leverage"" might be more suitable."
+1036,"חמאס מחזיק בשבי את ארבעת הבנים בניגוד לחוק הבינלאומי, בניגוד למוסר.","Hamas is holding the four sons captive in violation of international law, in violation of morality.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation correctly conveys the meaning of the source text, but the wording could be improved to be more natural in English.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality and accurately conveys the meaning of the source text, with only a minor issue in the wording. The translation is fluent and follows the appropriate conventions."
+1046,"""'השלוחים החדשים', הם טרוריסטים עם מקלדת שדינם כמו לוחמי ארגוני טרור אחרים.","""The new emissaries"" are keyboard terrorists whose fate is like that of other terrorist organization fighters.","MQM annotations:
+Accuracy Errors
+[Critical]: Mistranslation - The source text refers to ""new emissaries"" as ""keyboard terrorists"", which is a mistranslation and misrepresentation of the original meaning.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: Awkward - The translation ""whose fate is like that of other terrorist organization fighters"" sounds unnatural and awkward.
+
+Terminology Errors
+[Critical]: None
+[Major]: Inappropriate for context - The term ""keyboard terrorists"" is an inappropriate and inflammatory way to refer to the ""new emissaries"" mentioned in the source text.
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+1047,"אנחנו יודעים מי הם, אנחנו פוגעים בהם ובשולחיהם, וגם היום הם על הכוונת שלנו – ולא רק במימד הקיברנטי.","We know who they are, we are hitting them and their senders, and even today they are in our sights - and not just in the cyber dimension.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The phrase ""ובשולחיהם"" (and their senders) is not accurately translated as ""and their senders"". A more accurate translation would be ""and those who sent them"".
+[Minor]: [Omission] - The phrase ""אנחנו יודעים מי הם"" (We know who they are) is not fully translated in the target text.
+
+Fluency Errors
+[Minor]: [Grammar] - The sentence structure in the target text could be improved to better match the natural flow of English.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [Awkward] - The phrasing ""in our sights"" could be more natural in the context.
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally understandable, with a few minor errors that do not significantly impact the meaning or flow of the text. The quality of the translation is acceptable."
+1073,"מדריך לחימה בטרור של מג""ב עוטף ירושלים: ""הפיתוח, נותן מענה רלוונטי לאיומי הייחוס ומדמה את המציאות בשטח"" •","""Border Police Counter-Terrorism Combat Guide for the Jerusalem Envelope: 'The development provides a relevant response to the reference threats and simulates the reality on the ground.'""","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text refers to a ""Border Police Counter-Terrorism Combat Guide for the Jerusalem Envelope"", while the translation refers to a ""Border Police Counter-Terrorism Combat Guide for the Jerusalem Envelope"". The translation is accurate, but the phrasing could be improved to better match the source.
+[Minor]: [omission] - The source text includes a quote from the guide, which is not included in the translation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by rephrasing the sentence structure to be more natural in English.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""the Jerusalem Envelope"" may not be widely understood by an English-speaking audience and could be rephrased to provide more context.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the overall meaning or comprehension of the text."
+1081,"במסגרת התחרות, וכמענה לצורך בתרגול לוחמי מג""ב ללחימה באימון ירי בתנועה ובמתארים מסוג זה, אסף בן דויד, מדריך לחימה בטרור של מג""ב עוטף ירושלים פיתח את ""מתקן אסף"", המורכב ממטרה דינאמית, שמחוברת למוט טלסקופי עליו מורכב מנשא שניתן לרתום למדריך.","Within the framework of the competition, and in response to the need for Border Police fighters to practice combat training in motion and in such scenarios, Assaf Ben David, a combat instructor in terrorism for the Border Police in the Jerusalem envelope, developed the ""Assaf Device"", which consists of a dynamic target connected to a telescopic pole on which a harness can be mounted that can be harnessed to the instructor.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""competition"" does not accurately convey the meaning of ""התחרות"" in the source text, which seems to refer to a training exercise or scenario, not a competition.
+[Minor]: [Omission] - The translation does not include the phrase ""ללחימה באימון ירי בתנועה ובמתארים מסוג זה"" from the source text, which provides additional context about the purpose of the training.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the passive voice (""can be harnessed"") when the source text uses the active voice (""ניתן לרתום"").
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[No errors]
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to mistranslation and omission of some details, as well as a minor grammatical issue. The translation conveys the main points of the source text effectively."
+1082,"משרתם המדריך את המנשא למותנו, הוא יכול לתרגל את הלוחם שעומד לפניו על ידי שליטה והזזת המטרה לצדדים וטווחים שונים.","The guide leads the bearer to our demise, he can practice the warrior standing before him by controlling and moving the target to different sides and ranges.","MQM annotations:
+Accuracy Errors
+[Critical]: Mistranslation - The source text refers to a guide leading the bearer (of the guide) to their demise, while the translation incorrectly states that the guide leads the bearer to their demise.
+[Major]: Omission - The source text mentions that the guide can practice the warrior by controlling and moving the target, but this detail is omitted in the translation.
+[Minor]: None
+
+Fluency Errors
+[Major]: Grammar - The translation uses the incorrect pronoun ""he"" when referring to the guide, which should be ""it"" since the guide is an inanimate object.
+[Minor]: None
+
+Terminology Errors
+[Major]: Inappropriate for context - The term ""demise"" is too strong and does not accurately convey the meaning of the source text, which is about a guide leading someone to their downfall or ruin.
+[Minor]: None
+
+Overall, the translation has several critical and major errors that significantly impact the accuracy and fluency of the text, making it difficult to fully comprehend the intended meaning."
+1091,מתניהו אנגלמן התריע בשבוע הסייבר הבינלאומי מפני חוסר המוכנות של ישראל לתקיפות פצחנים •,Matthew Engelmann warned during the International Cyber Week of Israel's lack of preparedness for hacker attacks.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text refers to ""Netanyanu Engelmann"" while the translation refers to ""Matthew Engelmann"". This is a minor mistranslation of the name.
+[Minor]: [Omission] - The source text mentions ""the International Cyber Week"" while the translation only refers to ""International Cyber Week"", omitting the definite article.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""lack of preparedness for hacker attacks"" which is grammatically correct but could be more fluent as ""lack of preparedness against hacker attacks"".
+
+Locale Convention Errors
+[None]
+
+Style Errors
+[None]
+
+Terminology Errors
+[None]
+
+Non-Translation Errors
+[None]
+
+Other Errors
+[None]"
+1109,"במקביל לאימונים האינטנסיביים עם הנבחרת, בלייזר עסק בשבוע האחרון גם בעתידו, עד שחתם לשנתיים בהפועל ירושלים.","In parallel to the intensive training with the national team, Blayzer also dealt with his future last week, until he signed a two-year contract with Hapoel Jerusalem.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text mentions ""Blayzer"" while the translation uses ""Blayzer"". This is a minor spelling error.
+
+Fluency Errors
+[Minor]: [Spelling] - The name ""Blayzer"" is spelled inconsistently between the source and target texts.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality with only minor errors that do not significantly impact the comprehension of the text."
+1112,"לא היית בנבחרת ארבע שנים, עד כמה אתה שמח לחזור, ועד כמה אתה רוצה לשחק בשני המשחקים הקרובים?","I was not in the national team for four years, how happy are you to return, and how much do you want to play in the next two games?","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text uses ""you"" (אתה) to refer to the speaker, while the translation uses ""I"" (היית).
+[Minor]: [omission] - The source text mentions ""the national team"" (בנבחרת), which is not explicitly stated in the translation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses ""I was not"" instead of ""You were not"" to match the source text.
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[No errors]
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or comprehension of the text. The translation could be improved by more closely matching the grammatical structure and terminology of the source text."
+1113,"""קודם כל, אני רוצה ליהנות בנבחרת ואני בא בגישה של לתרום בכל מה שאני יכול, אם זה מהניסיון שלי ואם זה על המגרש.","""First of all, I want to enjoy the national team and I come with the approach of contributing in every way I can, whether it's from my experience or on the field.""","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Hebrew phrase ""קודם כל"" is translated as ""First of all"", which is a slightly different nuance than the original.
+[Minor]: [Omission] - The Hebrew phrase ""בנבחרת"" is translated as ""the national team"", but the definite article ""the"" is missing in the English translation.
+
+Fluency Errors
+[Minor]: [Grammar] - The phrase ""I come with the approach of contributing"" could be improved to ""I come with the approach of contributing in every way I can"".
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the overall meaning or comprehension of the text."
+1123,ברגע שהרגשתי חיבור עם ההנהלה ועם המאמן הבנתי שזה המקום הנכון בשבילי.,"The moment I felt a connection with the management and the coach, I understood that this is the right place for me.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Hebrew phrase ""ברגע שהרגשתי חיבור עם ההנהלה ועם המאמן"" is translated as ""The moment I felt a connection with the management and the coach"", which is a slightly different nuance than the original. The Hebrew phrase suggests a more immediate, instantaneous feeling, whereas the English translation is more passive.
+[Minor]: [Omission] - The Hebrew phrase ""הבנתי שזה המקום הנכון בשבילי"" is translated as ""I understood that this is the right place for me"", which omits the word ""הבנתי"" (I understood).
+
+Fluency Errors
+[No errors]
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[No errors]
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is of good quality, with only minor accuracy errors that do not significantly impact the meaning or comprehension of the text."
+1128,"אני בטוח שתהיה קבוצה מחויבת ומהנה ורציתי להיות חלק מזה"".","""I'm sure it will be a committed and enjoyable group, and I wanted to be a part of it.""","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The Hebrew source ""אני בטוח שתהיה קבוצה מחויבת ומהנה ורציתי להיות חלק מזה"" is translated as ""I'm sure it will be a committed and enjoyable group, and I wanted to be a part of it."" The translation is generally accurate, but the word ""מחויבת"" (committed) is not fully captured in the English translation.
+Fluency Errors
+[None]
+Locale Convention Errors
+[None]
+Style Errors
+[None]
+Terminology Errors
+[None]
+Non-Translation Errors
+[None]
+Other Errors
+[None]"
+1160,רז אדם עשוי להיות מושאל לעירוני נס ציונה •,The secret of man may be borrowed for the urban Nes Ziona.,"MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The translation does not accurately convey the meaning of the source text. The source text refers to a person named ""Raz Adam"" (a proper name), while the translation incorrectly interprets it as ""the secret of man"".
+[Minor]: [Untranslated text] - The phrase ""Nes Ziona"" is not translated in the target text.
+
+Fluency Errors
+[Minor]: [Grammar] - The sentence structure in the translation is not natural or idiomatic English."
+1167,"במכבי ת""א הודיעו: נובאטוס מירושי נמכר לזולטה הבלגית",Maccabi Tel Aviv announced: Novakovic from Jerusalem was sold to Zulte Waregem (Belgian club).,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The name ""Novakovic"" is mistranslated as ""Novatus"".
+[Minor]: [omission] - The name of the Belgian club ""Zulte Waregem"" is not fully translated.
+
+Fluency Errors
+[Minor]: [grammar] - The sentence structure could be improved for better fluency.
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[Minor]: [awkward] - The translation could be phrased more naturally.
+
+Terminology Errors
+[No errors]
+
+Non-translation Errors
+[No errors]
+
+Other Errors
+[No errors]"
+1197,"הקבוצה של אריאל בית הלחמי חיברה ניצחון שלישי ברצף, הפעם מרשים במיוחד •","The group of Ariel Beit Halechemi achieved a third consecutive victory, this time particularly impressive.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""The group of Ariel Beit Halechemi"" does not accurately convey the meaning of the source text, which refers to a team or group associated with Ariel Beit Halechemi, rather than a group led by him.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""achieved a third consecutive victory"" which is grammatically correct but could be improved to ""won their third consecutive victory"" for better fluency.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""Beit Halechemi"" is a proper noun referring to a person's name, but the translation uses it as if it were a descriptive term.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."
+1221,אלה שהפכו לשואבי מים ומנופפי מגבות במשחקים באירופה.,These who became water carriers and towel wavers in games in Europe.,"MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The source text refers to people who became water carriers and towel wavers at sporting events in Europe, but the translation does not accurately convey this meaning.
+[Minor]: [omission] - The translation omits the word ""במשחקים"" (in games) from the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""water carriers and towel wavers"" which is grammatically correct but sounds awkward in English.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""water carriers and towel wavers"" is not a common or idiomatic way to refer to people performing these tasks at sporting events in English."
+1276,לפני המשחק מנהל הקבוצה עמי ביטון נכנס לחדר ההלבשה ונשא דברים מרגשים בפני השחקנים.,"Before the game, team manager Ami Biton entered the locker room and delivered an emotional speech to the players.","MQM annotations:
+Accuracy Errors
+[Minor]: [Omission] - The translation does not include the word ""מנהל"" (manager) before ""הקבוצה"" (team).
+
+Fluency Errors
+[No errors]
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[No errors]
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is of good quality with only a minor omission error that does not significantly impact the overall meaning or comprehension of the text."
+1317,אין פגיעה בחשיבה הביקורתית.,There is no harm in critical thinking.,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""There is no harm in critical thinking"" does not accurately convey the meaning of the source text, which states that ""there is no harm in critical thinking.""
+
+Fluency Errors
+[None]
+
+Locale Convention Errors
+[None]
+
+Style Errors
+[None]
+
+Terminology Errors
+[None]
+
+Non-Translation Errors
+[None]
+
+Other Errors
+[None]"
+1339,"על פי שכלול נתוני המחקר, 84% מהקרקעות המיועדות לחקלאות בעולם יחוו מחסור כבד במי גשמים.","According to the aggregated research data, 84% of the land designated for agriculture worldwide will experience severe rainfall deficits.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation does not include the phrase ""על פי שכלול נתוני המחקר"" which is present in the source text.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is accurate and fluent, with only a minor omission error. The translation conveys the meaning of the source text effectively."
+1364,עמלנו חודשים רבים להבאת בסיס להתקנת הסיבים וכעת החזון הופך למציאות.,"Our labor for many months has brought a basis for the installation of the fibers, and now the vision is becoming a reality.","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""Our labor for many months has brought a basis for the installation of the fibers"" does not fully capture the meaning of the source text, which is more accurately translated as ""We have labored for many months to bring about the installation of the fibers, and now the vision is becoming a reality.""
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by using a more natural English sentence structure, such as ""We have labored for many months to bring about the installation of the fibers, and now the vision is becoming a reality."""
+1376,יש קשר בין רמות הנוגדנים שמפתחים לתופעות הלוואי?,There is a connection between the levels of antibodies developed and side effects.,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the source text. The source text is asking if there is a connection between the levels of antibodies developed and side effects, while the translation simply states that there is a connection between the levels of antibodies developed and side effects.
+
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by using more natural English grammar, such as ""the levels of antibodies that develop"" instead of ""the levels of antibodies developed"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""side effects"" may not be the most appropriate terminology in this context, as the source text is likely referring to the immune response and its potential consequences, rather than typical side effects of a medication.
+
+Overall, the translation conveys the general meaning of the source text, but could be improved in terms of accuracy, fluency, and terminology to better reflect the nuances of the original."
+1388,יש בכלל אפשרות להעריך חוזק של מערכת חיסון?,Is it even possible to assess the strength of an immune system?,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation does not include the word ""בכלל"" (at all) from the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""Is it even possible"" which sounds slightly unnatural. A more natural phrasing could be ""Is it possible at all"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error] 
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is accurate and fluent, with only minor grammatical and omission errors that do not significantly impact the meaning or comprehension of the text."
+1429,"ובכן, מה דעתכם לצאת לסיורים חינמיים בעקבות גיבורי הסדרות האהובות של נטפליקס?","And so, what do you think about going on free tours following the beloved heroes of Netflix series?","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation does not accurately convey the meaning of the source text. The source text is asking about the audience's opinion on going on free tours following the beloved heroes of Netflix series, while the translation asks what the audience thinks about going on such tours.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation contains a grammatical error in the phrase ""what do you think about going on free tours"", which should be ""what do you think about going on free tours?""
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+1452,"המחירים השתנו, תנאי הכבודה כבר לא אותו הדבר וישראלים רבים מופתעים כשהם מגיעים לנמל התעופה ומגלים שהם צריכים להוסיף סכומים גבוהים עבור מזוודות שחשבו שכלולות במחיר.","The prices have changed, the conditions of hospitality are no longer the same, and many Israelis are surprised when they arrive at the airport and discover that they need to add large sums for suitcases that they thought were included in the price.","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""conditions of hospitality"" does not accurately convey the meaning of the original ""תנאי הכבודה"" which refers to the baggage allowance or baggage policies.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""they need to add large sums for suitcases"" which is slightly awkward. A more natural phrasing could be ""they need to pay additional large sums for suitcases"".
+
+Locale Convention Errors
+[Minor]: [Currency] - The translation does not specify the currency of the ""large sums"" mentioned, which could be confusing for the reader.
+
+Style Errors
+[Minor]: [Awkward] - The overall translation is understandable, but some phrasing is slightly awkward, such as ""the conditions of hospitality are no longer the same"".
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."
+1471,בישראייר המחיר לא כולל כבודה.,The price does not include baggage.,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The source text mentions ""Israir"" (an airline company), which is not included in the translation.
+
+Fluency Errors
+[Minor]: [spelling] - The source text ""בישראייר"" should be translated as ""Israir"" instead of ""Israaiir"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to the omission of the airline name and a spelling issue. The translation conveys the main meaning of the source text effectively."
+1484,"הזמנה של מזוודה נוספת יכולה לעלות בין 90-150 דולרים לכיוון אם תעשו זאת בנמל התעופה, בהזמנה מראש המחיר מעט זול יותר.","An additional suitcase reservation can cost between $90-$150 per direction if done at the airport, with advance booking the price is slightly cheaper.","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation does not mention that the additional suitcase reservation can be done in advance.
+[Minor]: [mistranslation] - The translation says the price is ""slightly cheaper"" with advance booking, but the source text says it is ""a little cheaper"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses ""can cost"" instead of ""may cost"" or ""could cost"".
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact comprehension."

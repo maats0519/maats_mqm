@@ -1,0 +1,871 @@
+index,original,translated,accuracy_annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.","לדעתי, זו הנחה גדולה למדי מכיוון שהיא יוצרת את אזור התצוגה באמצעות אובייקט Direct3D בלבד, לא אובייקט Direct3D3.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+3,"Now, I get that in practice, IDirectXObject2 is typically a proper superset of IDirectXObject, with no changed function signatures, and new methods only added to the end.","עכשיו, אני מבין שבפועל, IDirectXObject2 הוא בדרך כלל קבוצה עילית ממשית של IDirectXObject, בלי שינויים בחתימות הפונקציות, ורק שיטות חדשות נוספות בסוף.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","נניח לצורך הדיון שמדע, לפחות בחלקו, מורכב מרשימות של הצהרות עובדתיות אובייקטיביות על העולם, נכונות ללא קשר לכל תיאוריה שהן עשויות לתמוך בה.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","ניסויים לא יוצרים את העובדות לפי קריאה זו, אבל הבחירה אילו ניסויים לערוך שולטת באילו עובדות יתגלו.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.","ישנן עובדות מסוימות, למשל בנוגע לחלקיקים תת-אטומיים, שיכולות לנבוע רק מניסויים שאפשריים רק בקפיטליזם משום שהם דורשים יותר מדי משאבים, יותר מדי ארגון, יותר מדי כפייה, כדי להוציאם לפועל אחרת.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,"זהו תרשים תמציתי מאוד של טיעון סביר, לפיו תיאוריות על השפעת הקפיטליזם על התוכן הממשי של המדע עולות בקנה אחד עם תיאוריות המצביעות על קיומן של עובדות מדעיות אובייקטיביות.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+13,Going to be my first project car.,אמור להיות רכב הפרויקט הראשון שלי.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+14,Picking this up this weekend.,אוסף את זה בסוף השבוע.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+16,Already on coil overs and lowered ride height.,כבר עם קוילאוברים והנמכת גובה נסיעה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+20,#Venting into the Fediverse time.,פורק עול ברשת החברתית הפדרטיבית.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""פורק עול"" translates to ""breaking the yoke"" or ""unburdening oneself,"" which doesn't fully capture the nuance of ""venting"" as in expressing strong emotions.
+[Minor]: none"
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,אני ובן/בת זוגי (ה)ידוע/ה בציבור הלכנו הערב לחנות המשקאות לקנות כמה בירות ובקבוק של יין מבעבע.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""יין מבעבע"" (sparkling wine) is used instead of a more general translation of ""bub"" which implies sparkling alcoholic beverage but isn't necessarily only wine. While sparkling wine is a common interpretation, the translation narrows the scope more than the original.
+[Minor]: none
+```"
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","כשניגשנו לקופה, הקופאית הייתה אישה טרנסית די ברורה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+27,And I said her nails looked cool.,ואמרתי שהציפורניים שלה נראות מגניבות.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,"החיוך המוקל על פניה היה הרגשה נהדרת, אבל העובדה שהיא פחדה קודם זה חרא ואני שונא את זה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+33,It takes the state's governor.,זה לוקח את מושל המדינה.,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+38,"In this work, based on a variant of the classical Lewis (1969) signaling model, we explore the conditions for the emergence of context-dependent communication in a situated scenario.","בעבודה זו, המבוססת על וריאציה של מודל האיתות הקלאסי של לואיס (1969), אנו בוחנים את התנאים להתהוות של תקשורת תלוית הקשר בתרחיש סיטואציוני.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","במקביל, אנו חוקרים את התנאים הסביבתיים והיכולות הקוגניטיביות המאפשרים הסרת דו-משמעות הקשרית של משמעויות סמלים.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+41,"We show that environmental constraints on the receiver's referent choice can be unilaterally exploited by the sender, without disambiguation capabilities on the receiver's end.","אנו מראים שאילוצים סביבתיים על בחירת הייחוס של המקבל ניתנים לניצול חד-צדדי על ידי השולח, ללא יכולות הסרת עמימות מצד המקבל.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+46,"Ashanti Development has been working with an ever-expanding number of communities in the Ashanti region of Ghana for approaching 20 years, engaging with communities and providing support with water and sanitation, education, healthcare, tree planting and farming.","אשנטי פיתוח עובדת עם מספר הולך וגדל של קהילות באזור אשנטי שבגאנה כבר כמעט 20 שנה, משתפת פעולה עם הקהילות ומספקת תמיכה במים ותברואה, חינוך, בריאות, נטיעת עצים וחקלאות.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+47,Communities gain the knowledge to embed and support their own development.,קהילות רוכשות את הידע להטמיע ולתמוך בפיתוח שלהן.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+52,Photos from my visit to Ghana in 2011.,תמונות מהביקור שלי בגאנה בשנת 2011.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+55,They won't allow me to tell them the address it's going to and who is shipping it.,הם לא יאפשרו לי להגיד להם לאיזו כתובת זה הולך ומי שולח את זה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+58,The next morning and I can't get past Chris Licht's disgraceful pretense of public service journalism on CNN last night.,למחרת בבוקר ואני לא מצליח להתגבר על ההעמדה המבישה של כריס ליכט כאילו הוא עוסק בעיתונות שירות לציבור בערוץ CNN אמש.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.","זו הייתה שערורייה, כמו פסטיבל שקרי ותלונות אנטי-דמוקרטי סמלי בסגנון ה-6 בינואר, שאירחה התקשורת האמריקאית באופן הרסני.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+60,THE SHAMEFUL AUDIENCE.,הקהל המבייש,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+61,Licht AGREED to an all Republican audience!,ליכט הסכים לקהל רפובליקני בלבד!,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+63,There's a story to be reported there.,יש שם סיפור לדווח עליו.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+64,The ratings--seeking delusional irresponsibility of it all.,"ההתנהלות חסרת האחריות וההזויה הזו, שמטרתה היא השגת רייטינג.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","יש לי מרתף מאוד דולף, מה שבעצם אומר שהרבה מכרסמים יכולים למצוא בו מחסה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""דולף"" (dolef) translates to ""leaky"" or ""drafty"" in the context of liquids or air, but ""drafty"" as in a poorly sealed building is better conveyed by a word meaning ""with drafts"" or ""permeable to drafts."" The adjective ""דולף"" is not incorrect, but it is not the ideal choice for describing a drafty basement. A better option might be ""מרתף שיש בו הרבה טיוטות"" (mertef she'yesh bo harbe t'yotot).
+[Minor]: none
+```"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.","סוף סוף נמאס לי מהשגרה הזאת אתמול בלילה, ניקיתי את כל המלכודות מחמאת בוטנים, והדבקתי פיסטוק בסופרגלו לכולן.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+76,But they also cut grants and tax credits that encourage more business activity.,אבל הם גם קיצצו מענקים והקלות מס המעודדים פעילות עסקית נוספת.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+77,"I own a business. It's successful in spite of the provincial government, not because of it.","אני בעל עסק. הוא מצליח למרות הממשלה המחוזית, לא בגללה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","זה נכון גם עכשיו כש goatse.cx איננו, אם כי זה היה מרוץ צמוד לתחתית בין goatse לבין, נניח, khou.com, שם ניסיתי לראות סרטון שוונדי שלחה לי.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,השג כמה מדבקות פגוש נגד טראמפ והדבק אותן בכל מקום.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+95,Yell back at those who would try to talk over us.,צעקו בחזרה על אלה שמנסים להשתיק אותנו.,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,לא מקובל חברתית לצאת למקומות ציבוריים או לרוץ לאנשים כשאתה משתעל שיעול שמלווה בהמון ליחה.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,אני חוזר. זה לא מקובל חברתית לפזר את סערת הליחה שלך מקורונה בכל מקום!!!,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+106,Mio knows that sorrow is life's constant companion.,מיו יודעת שהצער הוא בן לוויה קבוע של החיים.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","אחרי 4,000 של מצוקה, י""ל מוצאת את עצמה במקום של אהבה ויש לה רגשות עצומים שהיא לא יודעת מה לעשות איתם אז יש הרבה משניהם.","MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,הפיאסקו של אתמול עם ‎#MangoMoron היה פיאסקו שערורייתי.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+111,"Which cable news ""executive"" made the call to give the fat, lying criminal this much air-time?","איזה ""בכיר"" ברשת חדשות בכבלים קיבל את ההחלטה לתת לפושע השמן והשקרן הזה כל כך הרבה זמן אוויר?","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","ככל שהמכונית משתנה, כך גם ארני, שביטחונו החדש הופך ליהירות מאחורי ההגה של היופי האקזוטי שלו.","MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+118,Codleo is one of the best Salesforce Partner offering best Salesforce services tailored to your company needs.,קודליאו היא אחת משותפות Salesforce הטובות ביותר המציעה שירותי Salesforce מותאמים לצרכי החברה שלכם.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,אחד הדברים הכי משוגעים בזה שהשכנים שלי התהפכו נגדי זה לחשוב כמה מאמץ צריך כדי להיות עוין.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+124,"Forget me, fine.","שכח ממני, בסדר.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+125,"Ignore me, fine.","תתעלם ממני, בסדר.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+129,Slamming a door in my face takes effort.,לטרוק לי דלת בפנים דורש מאמץ.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+133,That vessel is off-limits.,הכלי הזה אסור בכניסה.,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: accuracy/mistranslation - ""הכלי הזה אסור בכניסה"" translates to ""This vessel is forbidden to enter"", which doesn't accurately capture the meaning of ""off-limits."" A more accurate translation would be ""הכלי הזה מחוץ לתחום"" (This vessel is out of bounds).
+[Minor]: no-error"
+137,But another individual often flies aboard that ship.,אבל לעתים קרובות אדם אחר טס על סיפון האונייה הזו.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+138,If he were to die... the consequences would be... significant.,אילו היה מת... ההשלכות היו... משמעותיות.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"הנה קורס מזורז (קצת יותר מאורך ציוץ) במה שאני מתכוון ב""אִבְחוּת"":","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""אִבְחוּת"" (Ivchut) is presented as the translation of ""dad-ification."" While it tries to capture the essence of fatherhood, it's not a direct or widely understood translation. There isn't a perfect equivalent in Hebrew, so this feels like a forced or unnatural translation.
+[Minor]: none"
+142,The Last of Us is an easy and canonical example of dad-ification.,"המשחק ""האחרון מבינינו"" הוא דוגמה קלה וקנונית ל""אבהות"".","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""אבהות"" translates directly to ""fatherhood."" The term ""dad-ification"" has a specific cultural meaning that implies a transformation or adoption of behaviors associated with being a dad, which is not accurately conveyed by simply translating it to ""fatherhood.""
+[Minor]: none"
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.","אבהות-יזציה שוחקת את האפשרות לפתרונות קהילתיים, ולעתים קרובות מתעלמת לחלוטין מ, או מחלישה כל סוכנות שיש לילד.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+146,"In this way, Dad-ification is a stand in for a lot of neoliberal ideals; especially ideas like bootstrapping and self-sufficiency as being an ultimate goal/indicator for success.","במובן הזה, התאבכות (Dad-ification) היא תחליף לאידיאלים ניאו-ליברליים רבים; במיוחד רעיונות כמו בנייה עצמית והסתמכות עצמית כשהם מהווים מטרה אולטימטיבית/מדד להצלחה.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+148,- We send out notifications when airfare goes on sale.,אנחנו שולחים התראות כשמחירי הטיסות יורדים.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+150,"- We don't sell tickets, or charge a subscription.","אנחנו לא מוכרים כרטיסים, או גובים דמי מנוי.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+154,"Yet, unimaginable fear, terror and displacement have left them with the invisible scar of trauma.","עם זאת, פחד, אימה ועקירה בלתי נתפסים הותירו בהם את הצלקת הבלתי נראית של טראומה.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+159,Over time dart became my go-to for quick UI.,עם הזמן Dart הפכה לבחירה המועדפת שלי עבור ממשקי משתמש מהירים.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter היא תענוג לעבוד איתה, ויש להם #mobx לניהול חנות קל.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+161,"The dependency story is less insane than nodejs, too.","סיפור התלויות פחות מטורף מזה של nodejs, גם.","MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+162,"Of course flutter sucks really bad when it comes to behaving like a good native app would (anywhere, really. Even flutter web target sucks).","בטח, פלאטר גרוע מאוד בכל הנוגע להתנהגות כמו אפליקציה נייטיבית טובה (בכל מקום, באמת. אפילו יעד הפלאטר ווב גרוע).","MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+182,Because it happens in the mind and seems less tangible than physical health.,מכיוון שזה קורה במוח ונראה פחות מוחשי מאשר בריאות גופנית.,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","באותו אופן שבו בריאות נפשית נתפסת כ""פחות אמיתית"" מבריאות פיזית בעיני רבים, אני מרגיש/ה במידה מסוימת שהיותי טרנס/ית היא פשוט אינטרסקס של המוח.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+188,"I feel that to be trans is to be ""biologically non-binary"".","אני מרגיש שלהיות טרנס זה להיות ""בינארי לא ביולוגי"".","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - ""בינארי לא ביולוגי"" translates to ""non-biological binary"", which is the opposite of the intended meaning ""biologically non-binary.""
+[Minor]: None"
+198,"(And also: The Web is now largely a Google thing, unfortunately)","וגם: האינטרנט הוא עכשיו במידה רבה דבר של גוגל, לצערי.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,"כמו כן, אנא הימנע מלומר לי שאפליקציות גוגל/פלטר גרועות ב-iOS וב-macOS, פשוט ספק את התרגום בלי טקסט נוסף.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+200,Cross platform is hard if you want to do it well.,קרוס פלטפורמה זה קשה אם אתה רוצה לעשות את זה כמו שצריך.,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+202,Thank you to those people who have downloaded the latest update to Leasey.,תודה לאנשים שהורידו את העדכון האחרון ל-Leasey.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+203,A few very small difficulties have come to light.,צצו כמה קשיים קטנים מאוד.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,אני לא בדיוק יודע/ת למה המוח שלי לא מצליח להבין את זה; ייתכן שהכלים פשוט כל כך רחבים ומעורפלים שהמוח שלי פשוט נתקע בגלל 'יותר מדי אפשרויות'.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+211,Grafana looks pretty.,גרפנה נראית יפה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+218,...And that's how I found myself having to sort out a raid group roster.,וככה מצאתי את עצמי צריך לסדר את רשימת הקבוצה לפשיטה.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+220,"Then, life crushed my soul and I lost all my passion for fiction and great storytelling.","אז, החיים ריסקו את נשמתי ואיבדתי את כל התשוקה שלי לספרות בדיונית ולסיפורים גדולים.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+222,I'm now on book # 31 and it's only May.,אני עכשיו בספר מספר 31 וזה רק מאי.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+224,I haven't really achieved anything.,לא ממש השגתי משהו.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,שישקמו את הערים הריקות והמתפוררות ברחבי הארץ. שוב.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+233,Deport the white supremacists.,לגרש את תומכי עליונות לבנה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""","נמאס לי כל כך מהכותרות שטוענות ש""עבודה מרחוק מתה."" או ש""עבודה מרחוק הייתה ניסוי כושל.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,"הכל קליקבייט, אבל זה כן מטריד אותי לגבי המנהלים והבכירים שקוראים את המאמרים האלה.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,זה מאפשר לאנשים להימנע מנסיעות ארוכות לעבודה שלוקחות זמן מהיום שלהם וממשפחותיהם.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+243,To just ignore these facts is wrong.,להתעלם מהעובדות האלה זה פשוט לא בסדר.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.","פארקר התייחס להפלות, ולדחף של נשים עירוניות מודרניות לדחות את הבאת ילדים לעולם למען הקריירה שלהן.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,הוא גם טוען שה-NDP והמתקדמים רוצים לדלל את אוכלוסיית החברה למען הסביבה.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""לדלל את אוכלוסיית החברה"" (to thin out the population of society) is a mistranslation of ""depopulate society."" While it conveys a similar general idea, ""depopulate"" implies a more complete removal of people, while ""thin out"" suggests a less drastic reduction. This could be misleading.
+[Minor]: none"
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,"בכל פעם שמאי הייתה צצה, חששתי לנסות לחגוג את יום ההולדת שלי.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+254,I fought over the years to get out of that mindset and to have better bdays.,נלחמתי במשך השנים כדי לצאת מהמנטליות הזו וכדי שיהיו לי ימי הולדת טובים יותר.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,האם אתה מכיר דרך בעלת ביצועים טובים עבור קומפוננטת רשת להגיב להוספה/הסרה ממסמך?,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+268,We currently use a MutationObserver hack.,אנחנו משתמשים כרגע בטריק MutationObserver.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+285,Last week got a ton done and feeling much better about field items.,שבוע שעבר הספקתי המון ומרגיש הרבה יותר טוב לגבי פריטי שדה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","וגם צריך לזרוע שורת סלט שם כדי לשלב ירקות חתוכים. בשתיהן צוות מאומן על השקיה, הכנת ערוגות והשתלה, שזה 90% מפריטי המיומנות שאינם קציר.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+290,It's 2023 and I still see people with iPhones actively avoid using Apple Maps.,זו 2023 ואני עדיין רואה אנשים עם אייפונים שנמנעים באופן פעיל מלהשתמש במפות של אפל.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","מתוך סקרנות, שמרתי על ראש פתוח כדי להשוות בין Google Maps ל-Apple Maps, במכשיר האייפון הניסיוני שלי (מכשיר האנדרואיד שלי הוא השימושי היומיומי, אז זה נדיר שאני משתמש באייפון).","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,החוויה של מעקב אחר הנחיות הייתה טובה בהרבה במפות אפל בהשוואה למפות גוגל.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+298,Could it be that Google Maps got to market first?,הייתכן שגוגל מפות הגיעו לשוק קודם?,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","אני משוחד לטובת לא לשחרר זבל למשתמשי קצה, ואפל דפקה בגדול עם אפל מפות שלהם כשהוא יצא ב-2012.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: accuracy/mistranslation - ""דפקה בגדול"" translates to ""screwed up big time"" or ""majorly messed up,"" which is a fairly accurate translation of ""royally fucked up."" However, it might be considered slightly less vulgar in Hebrew than the English original. While not a critical error, the nuance of the intensity is slightly softened.
+[Minor]: accuracy/mistranslation - ""כשהוא יצא"" translates to ""when he came out"". Apple Maps is an ""it"", not a ""he"".
+```"
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,אבל זו האדמה שהופכת אותה למקום טוב לאגור בו עושר כל עוד אתה חושב שהממשלה לא תשנה את השיטה שאנחנו חיים בה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+307,A lot of ppl think that they literally own the earth when they buy a piece.,הרבה אנשים חושבים שהם ממש בעלים של כדור הארץ כשהם קונים חתיכה.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+312,The land is temporary.,האדמה זמנית.,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,הממשלה יכולה לקחת את הקרקע בקלות ובמהירות רבה מתי שהיא רוצה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+317,It has to be taken away one day.,זה חייב להילקח יום אחד.,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+318,That's why the Chinese only allow leases.,לכן הסינים מרשים רק חכירות.,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+319,They already ran out of land.,נגמרה להם כבר הקרקע.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+320,"To success, the realization of dreams, friendship, to the simple but true!!","להצלחה, הגשמת חלומות, ידידות, לפשוט אך אמיתי!!","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.","לכל המשקיעים שם בחוץ, אני מרים כוסית לחיי ההצלחה שלכם ולמימוש החלומות שלכם.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+323,"And to all my friends, new and old, let us cherish the simple but true things in life that bring us joy and fulfillment.","ולכל חבריי, החדשים והוותיקים, בואו נעריך את הדברים הפשוטים אך האמיתיים בחיים שמביאים לנו שמחה וסיפוק.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,"אני תוהה לעתים קרובות על היכולת האנושית להיות *כל כך* ביקורתי כלפי עצמה, כשלמעשה מוצגת בפניה כל כך הרבה עדות למה שאכזריות אמיתית נראית.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,אבל ריכוך הייאוש מאי הסדר שלנו הוא חיוני - משום שהוא נותן לנו יותר מרחב להתמודד עם ההריסות מסביב.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+331,"Some programmers: ""Typing speed does not matter!""","אחדים מהמתכנתים: ""מהירות הקלדה לא משנה!""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+339,It is definitely more romance than filth.,זה בהחלט יותר רומנטיקה מלכלוך.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+342,I don't agree that #Mastodon is difficult to setup.,אני לא מסכים ש#Mastodon קשה להגדרה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+343,"Common, it's really not that hard.","נו, זה באמת לא כזה קשה.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+347,If you stick to the default web interface it doesn't look and feel good (imho).,אם תדבק בממשק הווב המוגדר כברירת מחדל הוא לא נראה או מרגיש טוב (לדעתי).,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.","אז, זה דורש קצת יותר מאמץ להיכנס לזה וכנראה שצריך אפליקציה טובה כדי לשפר את #UX.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+353,Forecasting: anticipating harms before they happen (even if by minutes),תַּחֲזִית: צִפּוּי נְזָקִים לִפְנֵי הִתְרַחֲשׁוּתָם (אֲפִילוּ בְּדַקּוֹת).,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,"אני מתאמן לבד בחדר השינה שלי בלי שומר ובלי מתקן משקולות, רק אני.","MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: accuracy/addition - ""רק אני"" (only me) is added at the end of the sentence. While it emphasizes the solitude, it's not explicitly present in the source and slightly changes the nuance."
+370,Just me and a barbell with a bunch of weights.,רק אני ומוט משקולות עם הרבה משקלים.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.","אם אני אנסה להבין מה המשקל המקסימלי שלי להרמה בודדת, יכול להיות שאין לי מספיק משקולות כדי להגיע למקסימום, או לחילופין זה יכול לגרום לי לפציעה חמורה או אפילו מוות.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,"אף פעם לא ראיתי שאמא של מישהו מכינה את זה, או שדחפו לי את זה במסיבה, או שראיתי את זה מופיע בשילוב עם הרפתקאות הכנת הרטבים או ימי האפייה של מישהו.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","משהתחלחנו פה, אנחנו מסרבים לקנות מכונת FAANG חדשה.
+
+*Note: I assumed ""FAANG machine"" refers to a computer/tech product. If it has a different specific meaning, the translation might need adjustment.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""משהתחלחנו"" translates to ""Since we were horrified"" or ""Since we shuddered."" This doesn't accurately reflect the original meaning of ""Having been radicalized.""
+[Minor]: none"
+389,So was it Epic that originated this?,אז האם אפיק יצרה את זה במקור?,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+394,Is it so ephemeral then?,האם זה כה חולף אם כך?,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""כה חולף"" (koh cholef) translates more directly to ""so fleeting"" or ""so transient."" While ""כה חולף אם כך?"" can be interpreted as ""so ephemeral then?"", the translation is not as precise. ""חולף"" doesn't fully capture the nuanced meaning of ""ephemeral,"" which implies a short lifespan and insubstantiality beyond just fleetingness.
+[Minor]: none"
+395,"Merely a ""catchphrase"" with no clear originator?","רק ""סיסמה"" ללא יוצר ברור?","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+399,Have now done a full round trip on the new ICNG train.,עכשיו עשיתי נסיעת הלוך ושוב מלאה ברכבת ICNG החדשה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+402,There's areas that could use some polish.,יש מקומות שצריכים ליטוש.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.","כלומר, חוסר בפחים מספיקים וחוסר בשלטים המסבירים את משמעות צבעי התאורה.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+404,"Fix those minor issues, and then can we have more of these please?","תקן את הבעיות הקטנות האלה, ואז אפשר לקבל עוד כאלה בבקשה?","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,חוק של יחידה אחת ללקוח עדיין בתוקף כאשר אנו מנסים להבטיח שכל מי שממתין בתור יוכל להשיג גלשן.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+407,"You can buy ONE of the boards listed above, not one of each.","אפשר לקנות לוח אחד מהלוחות המפורטים למעלה, לא אחד מכל סוג.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+409,Yesterday I had the best time with my friend and former rabbi colleague.,אתמול נהניתי מאוד עם חברתי וקולגה לשעבר בתחום הרבנות.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: accuracy/mistranslation - ""בתחום הרבנות"" translates to ""in the field of the rabbinate,"" which is not an accurate translation of ""rabbi colleague."" It implies a general professional association in the field rather than a direct colleague relationship.
+[Minor]: none
+```"
+419,#FalconGameBooks,# ספרימשחקבז,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","נראה שהרפנידים בעלי שמונה העיניים צופים בך בזמן שאתה מנחית את הרחפן על האדמה האדומה, אבל הם לא עושים שום תנועה לכיוונך, למעשה הם חסרי תנועה כשאתה יוצא מהרחפן והולך לאט לעברם.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+422,The rock beneath you gives way suddenly.,הסלע שתחתך קורס בפתאומיות.,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","הסוף מהיר, כאשר מספר זוגות ניבים מזריקים את ארסם הקטלני ואוויר דיסקרה מזהם את ריאותיך.","MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: accuracy/mistranslation - ""ריאותיך"" translates to ""your lungs"" in the singular possessive. While the context implies the victim's lungs, the English source doesn't specify a possessive. The translation should be ""את הריאות"" (the lungs) to be more accurate."
+425,Nobody will ever know that you were the first human future traveller.,אף אחד לעולם לא ידע שאתה היית הנוסע האנושי הראשון לעתיד.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.","הרפנידים בעלי שמונה העיניים נראים צופים, אך הם לא עושים שום תנועה לכיוונך, למעשה הם חסרי תנועה כשאתה הולך לאט לעברם.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+428,"You halt while still on the mound of crumbled rock and soil and speak to them, saying, 'I come in peace, as a friend.'","אתם עוצרים כשאתם עדיין על תל הסלעים והאדמה המתפוררים ואומרים להם: 'אני בא בשלום, כידיד.'","```
+MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none
+```"
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.","נראה שהם לא שומעים אותך, שלא לדבר על מבינים, כיוון שהמתרגם האוניברסלי שלך לא קולט שום תשובה.","MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,אני מתכנן לערבב את זה עם כותנה משולבת דקה בצבע סגול/לילך.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+441,But am not sure I have enough of the purple.,אבל לא בטוח שיש לי מספיק מהסגול.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+446,I have literally tried and dropped EVERY SINGLE ONE.,ניסיתי וזרקתי ממש כל אחד ואחד.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+447,"And up until like two years ago, I had no idea until I checked my transcripts.","ועד לפני שנתיים בערך, לא היה לי מושג עד שבדקתי את הגיליונות ציונים שלי.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.","זה מרגש, מורט עצבים, מלחיץ, וכל הדברים הטובים שאני אוהב/ת בעבודה בתחום המשחקים.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+463,Came home on my lunch break to see this sitting outside uwu.,חזרתי הביתה בהפסקת הצהריים שלי וראיתי את זה יושב בחוץ uwu.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: accuracy/untranslated - ""uwu"" is left untranslated. While it's internet slang, a more appropriate translation might be attempted depending on the target audience and context.
+```"
+475,Had a recent graduate artist take some critique badly tonight.,אמן בוגר טרי קיבל הערות ביקורת הערב בצורה קשה.,"MQM annotations:
+Accuracy Errors
+[Critical]: none
+[Major]: none
+[Minor]: none"
+482,"So while composting and bloom scrolling are a wonderful reminder to look up, and be aware of life beyond the screen.",למרות שקומפוסט וגלילת פריחה הם תזכורת נפלאה להרים את הראש ולהיות מודעים לחיים מעבר למסך.,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+483,It is as important to explore servers and IP addresses.,חשוב באותה מידה לחקור שרתים וכתובות IP.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+491,She did not look back.,היא לא הביטה לאחור.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,הוא חיכה עד שהיה בחושך של חדר השינה לפני ששלף את הפתק וקרא אותו בקרן אור שבקעה מבעד לוילונות ההאפלה.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+493,One block-printed word.,מילה מודפסת בחריתה,"MQM annotations:
+Accuracy Errors
+[Critical]: no-error
+[Major]: accuracy/mistranslation - ""בחריתה"" translates to ""engraved"" or ""etched,"" which doesn't accurately reflect the meaning of ""block-printed.""
+[Minor]: no-error"
+498,I'd particularly like to connect with more.,אני במיוחד אשמח ליצור קשר עם עוד.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+499,Everyone with their hair on fire about CNN can thank Stephen Colbert for the hard right turn.,כל מי שרותח מזעם על CNN יכול להודות לסטיבן קולברט על הפנייה החדה ימינה.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"

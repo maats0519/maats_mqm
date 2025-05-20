@@ -1,0 +1,486 @@
+index,original,translated,locale_convention_annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.","对我来说,这是一个相当大的假设,因为它只使用了Direct3D对象,而不是Direct3D3对象来创建视口。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Direct3D3"" should have been translated as ""Direct3D 3"" instead of just ""Direct3D"" to accurately reflect the source text."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.","一些事实,例如关于亚原子粒子的事实,只能通过实验来获得,而这些实验本身只有在资本主义体系下才能进行,因为它们需要太多的资源、太多的组织和太多的强制手段才能完成。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""capitalism"" in the source text should have been translated as ""资本主义"" instead of ""资本主义体系"" in the target text."
+14,Picking this up this weekend.,这个周末拿到它。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""picking up"" should have been translated as ""拿到"" instead of ""这个周末拿到它""."
+15,I was looking for a good first car guy car; and I really love the 80s aesthetic.,我正在寻找一辆好的初级汽车;我真的很喜欢80年代的美学。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""first car guy car"" should have been translated as ""初级汽车"" instead of ""初级汽车"".
+[minor]: [WRONG TERM] - The term ""80s aesthetic"" should have been translated as ""80年代的风格"" instead of ""80年代的美学""."
+19,I know they're not fast compared,我知道他们相比之下不快。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The translation ""他们相比之下不快"" does not accurately convey the meaning of the source text ""I know they're not fast compared"". The term ""fast"" should have been translated more appropriately."
+20,#Venting into the Fediverse time.,#向联邦宇宙发泄时间。,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""Fediverse"" should have been translated as ""联邦宇宙"" instead of ""联邦宇宙""."
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,我和同居伴侣今晚去了酒店买了一些啤酒和一瓶起泡酒。,"MQM annotations:
+Terminology Errors:
+major: TERM NOT APPLIED - The term ""liquor store"" should be translated as ""酒类商店"" instead of ""酒店"".
+minor: WRONG TERM - The term ""bub"" should be translated as ""起泡酒"" instead of ""起泡酒""."
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","当我们去结账时,收银员显然是一位跨性别女性。","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""跨性别女性"" does not accurately convey the meaning of ""trans woman"" in the source text. A more appropriate term would be ""跨性别人士"" or ""变性人""."
+25,And then we just... paid for our stuff.,然后我们就...付了钱。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""stuff"" in the source text should have been translated as ""物品"" or ""商品"" instead of just ""钱"" in the target text."
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,"她脸上的解脱微笑是一种很好的感觉,但她先前感到害怕的事实真他妈的糟糕,我讨厌它。","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""解脱"" does not accurately convey the meaning of ""relief"" in this context. A more appropriate translation would be ""宽慰"" or ""轻松"".
+[minor]: [WRONG TERM] - The term ""他妈的"" is a strong expletive that may not be appropriate in all contexts. A more neutral translation such as ""真的"" or ""实在"" would be better."
+29,This is the stupidest timeline and I hate it dot com.,"这是最愚蠢的时间线,我讨厌它。","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""dot com"" in the source text is not translated into Chinese."
+32,But he can't pardon himself out of state prison.,但是他不能赦免自己脱离州监狱。,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""state prison"" should have been translated as ""监狱"" instead of ""州监狱"" in the Chinese translation."
+33,It takes the state's governor.,州长需要。,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""state's governor"" is not correctly translated as ""州长"" in the target text."
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.","我们建议,依情境而定的交流是一种多层面的现象,受环境特性(如情境分布)的关键影响。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""distribution of contexts"" is not translated correctly. The Chinese translation ""情境分布"" does not accurately convey the meaning of the English term.
+[minor]: [WRONG TERM] - The term ""environment properties"" is translated as ""环境特性"", which is an appropriate translation but could be more precise as ""环境属性""."
+47,Communities gain the knowledge to embed and support their own development.,社区获得嵌入和支持自身发展的知识。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""嵌入"" in the Chinese translation does not match the intended meaning of ""embed"" in the source text."
+50,Thousands of trees have been established and farmers have seen increased crop yields through a range of interventions from support with equipment purchases to training.,"通过各种干预措施,从设备购买支持到培训,已经建立了数千棵树,农民看到了作物产量的增加。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""equipment"" should have been translated as ""设备"" instead of ""干预措施"".
+[minor]: [WRONG TERM] - The glossary term ""crop yields"" should have been capitalized as ""作物产量"" to match the glossary entry."
+53,The UPS store near me won't allow me to write a label or write on the box.,附近的UPS商店不允许我在标签或箱子上写字。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""UPS store"" should have been translated as ""UPS 商店"" instead of ""UPS 商店"".
+[minor]: [WRONG TERM] - The term ""write a label"" should have been translated as ""在标签上写字"" instead of ""在标签或箱子上写字""."
+55,They won't allow me to tell them the address it's going to and who is shipping it.,他们不会允许我告诉他们它要去的地址和谁在发货。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""address"" should have been translated as ""地址"" instead of ""它要去的地址"".
+[major]: [TERM NOT APPLIED] - The glossary term ""shipping"" should have been translated as ""发货"" instead of ""谁在发货""."
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.","这是一种愤怒的行为,就像一个象征性的1月6日反民主狂欢节,充满谎言和不满,由美国媒体自毁性地主办。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Jan 6 anti-democratic festivus"" is not translated accurately. The translation ""1月6日反民主狂欢节"" does not convey the same meaning as the source.
+[major]: [WRONG TERM] - The term ""self-destructively"" is translated as ""自毁性地"", which does not accurately convey the meaning of the source term."
+61,Licht AGREED to an all Republican audience!,同意,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""AGREED"" should have been translated as ""同意"" to match the glossary."
+64,The ratings--seeking delusional irresponsibility of it all.,收视率追求的妄想不负责任。,"MQM annotations:
+Terminology Errors:
+Major: WRONG TERM - The term ""妄想不负责任"" does not accurately convey the meaning of ""delusional irresponsibility"" in the source text."
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","我有一个非常通风的地下室,这实际上意味着我可能会有很多啮齿动物来寻求庇护。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""rodents"" should have been translated as ""啮齿动物"" instead of ""啮齿动物""."
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.","我昨晚终于对这个日常感到厌烦,清理了所有陷阱上的花生酱,并在上面粘上了一颗开心果。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""peanut butter"" should have been translated as ""花生酱"" instead of ""花生酱"".
+[minor]: [WRONG TERM] - The glossary term ""pistachio"" should have been capitalized as ""开心果"" instead of ""开心果""."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.","对不起,我无法提供任何额外的文本。以下是您要求的翻译:
+
+(fwiw, 我几乎尝试了市面上所有的""人道""捕捉器,但成功率很低。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""humane trap"" should have been translated as ""人道捕捉器"" instead of ""人道捕捉器""."
+73,I'm tired of conservative parties and governments wrapping themselves in the brand of pro-business.,我厌倦了保守党和政府将自己包装成亲商的品牌。,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""保守党"" (Conservative Party) does not accurately convey the meaning of ""conservative parties"" in the source text. A more appropriate translation would be ""保守派政党"".
+[minor]: [WRONG TERM] - The term ""亲商的"" (pro-business) is not a precise translation of ""pro-business"" in the source text. A more idiomatic translation could be ""支持企业的"" or ""有利于企业的""."
+74,"They aren't, at least not in Alberta.","他们不是,至少在阿尔伯塔省不是。","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""they"" in the source text is not translated correctly in the target text. The target text uses ""他们"" which is the third-person plural pronoun in Chinese, but the context suggests that the subject is not a group of people but rather a general statement about the situation in Alberta."
+75,Sure they cut business taxes.,他们确实降低了企业税率。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""企业税率"" should have been translated as ""business taxes"" instead of ""enterprise tax rate""."
+78,"Discovered the hard way that in 2023, local TV station web sites are the absolute worst experience on the internet.","2023年,发现本地电视台网站是互联网上最糟糕的体验,这是一个艰难的教训。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""local TV station web sites"" should have been translated as ""网站"" instead of ""电视台网站"" to better fit the context."
+79,"Popups, auto-play videos, animations, popovers, and ads, ads, ads.",弹窗、自动播放视频、动画、弹出窗口和广告、广告、广告。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""弹窗"" should be translated as ""pop-ups"" instead of ""popups"".
+[major]: [TERM NOT APPLIED] - The term ""自动播放视频"" should be translated as ""auto-play videos"" instead of ""auto-play videos"".
+[major]: [TERM NOT APPLIED] - The term ""弹出窗口"" should be translated as ""popovers"" instead of ""popovers"".
+[minor]: [WRONG TERM] - The term ""广告"" is repeated three times, which may be unnecessary."
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","即使现在 goatse.cx 已经不存在了,这仍然是真的,不过 goatse 和 khou.com 之间的竞争可能会很激烈,我曾试图在 khou.com 上观看温迪发给我的视频。","MQM annotations:
+Terminology Errors:
+major: term not applied - The glossary term ""goatse.cx"" was not translated correctly in the target text.
+minor: wrong term - The term ""khou.com"" was not properly capitalized in the target text."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",我只是把他送到格拉斯哥。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""Glasgow"" should have been translated as ""格拉斯哥"" instead of just ""格拉斯哥""."
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,昨晚让我深信我们需要准备好与特朗普主义抗争。,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""特朗普主义"" (Trumpism) is not a standard Chinese translation and does not fit the context well. A more appropriate term would be ""特朗普主义思潮"" or ""特朗普主义运动""."
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,贴一些反特朗普的汽车贴纸到处张贴。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""bumper stickers"" should have been translated as ""汽车贴纸"" instead of ""汽车贴纸"" in the given context."
+95,Yell back at those who would try to talk over us.,对那些试图压制我们声音的人大声回应。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""yell back"" should have been translated as ""大声回应"" instead of ""大声回应""."
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,"所以我急忙回到公寓想避开他,但他还是设法追上我聊天。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""apt"" in the source text should have been translated as ""公寓"" (apartment) in the target text, instead of the more general term ""公寓""."
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,我重复一遍。到处传播你的新冠病毒粘液风暴是不可接受的社会行为!!!,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""covid mucus storm"" should have been translated as ""新冠病毒粘液风暴"" instead of ""你的新冠病毒粘液风暴""."
+104,Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.,"阿部把他的悲伤隐藏起来,很容易笑,而汤姆不怕哭泣,但对粗俗的幽默不太感兴趣。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""Tom"" is not translated correctly in the target text. It should be ""汤姆"" instead of ""汤姆"".
+[minor]: [WRONG TERM] - The glossary term ""Abe"" is translated as ""阿部"", but it should be ""亚伯"" to match the source text."
+106,Mio knows that sorrow is life's constant companion.,"缪知道,悲伤是生命永恒的伴侣。","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""sorrow"" should have been translated as ""悲伤"" instead of ""悲伤""."
+108,#CNN needs to just close down.,#CNN需要关闭。,"MQM annotations:
+Terminology Errors:
+Minor: TERM NOT APPLIED - The term ""CNN"" should have been translated as ""中国有线电视新闻网"" in Chinese."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨天与#MangoMoron的灾难性事件是一场令人发指的灾难。,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""#MangoMoron"" should be translated more neutrally, as the current translation ""与#MangoMoron"" is too strong and could be seen as offensive."
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.","书呆子学生阿尼·坎宁安迷恋上了一辆1958年普利茅斯·富瑞的旧车,并沉迷于将这辆经典汽车修复到昔日的辉煌。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""Plymouth Fury"" should have been translated as ""普利茅斯·富瑞"" instead of ""普利茅斯·富瑞的旧车""."
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","随着汽车的变化,阿尼也发生了变化,他新发现的自信在驾驶他那辆异域美车时变成了傲慢。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""exotic beauty"" is not correctly translated as ""异域美车"" in the target text."
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,"我邻居反对我,这其中最疯狂的部分就是想到要付出多大的努力才能表现出敌意。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""hostile"" should have been translated as ""敌意"" instead of ""表现出敌意""."
+126,It hurts but you gotta do you.,痛苦但你必须做你自己。,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""你自己"" (your own self) does not accurately convey the meaning of ""you"" in the source text."
+127,But at this point the open hostility and violence is getting worse.,"但在这一点上,公开的敌意和暴力正在变得更加严重。","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""公开的敌意和暴力"" does not accurately convey the meaning of ""open hostility and violence"" in the source text. A more appropriate translation would be ""公开的敌对态度和暴力行为""."
+128,That takes effort.,那需要努力。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""那"" should be translated as ""that"" instead of ""那"" in English."
+132,They had keys to my apartment for 6+ years.,他们有我公寓的钥匙超过6年。,"MQM annotations:
+Terminology Errors:
+Major: WRONG TERM - The translation ""他们有我公寓的钥匙超过6年"" does not accurately convey the meaning of the source text ""They had keys to my apartment for 6+ years."" The term ""公寓"" (apartment) does not fully capture the nuance of ""my apartment"" in the source."
+134,I am aware of your hatred of Organa.,我知道你对奥加纳的仇恨。,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""Organa"" in the source text should have been translated as ""奥加纳"" in the target text."
+142,The Last of Us is an easy and canonical example of dad-ification.,最后的我们是父亲化的简单和典范例子。,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The term ""dad-ification"" is not properly translated into Chinese. The translation ""父亲化"" does not accurately convey the meaning of the original English term."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.","父亲化通常认为,当一个父母角色必须照顾或保护一个孩子或孩子替代品的情况下,解决方案是压倒性的力量,并利用这种力量来强制一个非常特定形状的权力动态。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Dad-ification"" is not translated correctly in the Chinese translation. The translation ""父亲化"" does not accurately convey the meaning of the English term.
+[major]: [WRONG TERM] - The translation ""解决方案是压倒性的力量"" does not accurately convey the meaning of the English term ""overwhelming strength"". A more appropriate translation would be ""压倒性的力量"".
+[minor]: [WRONG TERM] - The translation ""非常特定形状的权力动态"" does not accurately convey the meaning of the English term ""very specifically shaped power dynamic"". A more appropriate translation would be ""特定形式的权力动态""."
+149,- We provide links to where you can book the fare.,我们提供预订车票的链接。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""fare"" should have been translated as ""车票"" instead of ""车票的链接""."
+151,- More details are in the full blog post.,更多详情请见完整博客文章。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""full blog post"" should have been translated as ""完整博客文章"" instead of ""完整博客文章""."
+159,Over time dart became my go-to for quick UI.,"随着时间的推移,Dart 成为了我快速开发 UI 的首选。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Dart"" should have been translated as ""Dart"" instead of ""Dart"" in the target text."
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter 是一种很棒的工作体验,他们有 #mobx 来轻松管理数据仓库。","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""#mobx"" in the source text is not translated in the target text.
+[minor]: [WRONG TERM] - The term ""#flutter"" is translated as ""flutter"" in the target text, but it should be capitalized as ""#Flutter"" to match the source text."
+164,Echidna with amethyst and magenta spikes.,紫晶和品红色刺的针鼹,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""紫晶"" (amethyst) is not correctly translated as the glossary term.
+[major]: [TERM NOT APPLIED] - The term ""品红色"" (magenta) is not correctly translated as the glossary term.
+[minor]: [WRONG TERM] - The term ""针鼹"" (echidna) is not the most appropriate translation for the glossary term ""Echidna""."
+167,"Their hair is raspberry, short and curly.","他们的头发是树莓色的,短而卷曲。","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""树莓色"" (raspberry) is not a standard color term in Chinese and may not be widely recognized. A more common term like ""红色"" (red) would be more appropriate."
+169,Their most interesting feature is their good deeds.,他们最有趣的特点是他们的善行。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""good deeds"" is not accurately translated as ""善行"" in the target text. A more appropriate translation would be ""善举""."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...","即使布拉姆·斯托克、马克斯·施雷克和斯蒂芬妮·梅耶尽了最大努力让他们看起来很糟糕,每个人都...","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""Bram Stoker"" should have been translated as ""布拉姆·斯托克"" instead of ""布拉姆·斯托克"".
+[major]: [TERM NOT APPLIED] - The glossary term ""Max Schreck"" should have been translated as ""马克斯·施雷克"" instead of ""马克斯·施雷克"".
+[major]: [TERM NOT APPLIED] - The glossary term ""Stephenie Meyer"" should have been translated as ""斯蒂芬妮·梅耶"" instead of ""斯蒂芬妮·梅耶""."
+179,Been toying with this thought for a little while:,我一直在思考这个想法一段时间了。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""我一直在思考这个想法一段时间了"" should be translated as ""I've been pondering this idea for a while"" rather than ""I've been thinking about this idea for a while""."
+182,Because it happens in the mind and seems less tangible than physical health.,心理健康,"MQM annotations:
+Terminology Errors:
+major: term not applied - The Chinese term ""心理健康"" should have been translated as ""mental health"" instead of the literal translation ""psychological health""."
+189,"My sex is non-binary, my gender is female.","我的性别是非二元性别,我的性别认同是女性。","MQM annotations:
+Terminology Errors:
+major: term not applied - The term ""non-binary"" is not accurately translated as ""非二元性别"" in the target text. A more appropriate translation would be ""性别非二元"".
+minor: wrong term - The term ""female"" is translated as ""女性"", which is technically correct but may not fully capture the nuance of the source text. A more precise translation could be ""女性性别认同""."
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,"像泡菜心情和其他世俗流行音乐,以及电台工作室等各种。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""krauty"" is not a standard glossary term and should be translated more appropriately.
+[major]: [TERM NOT APPLIED] - The term ""radiophonic workshop"" is not a standard glossary term and should be translated more appropriately."
+196,Playing around a bit with Flutter.,玩玩 Flutter。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""Flutter"" should have been translated as ""Flutter"" instead of ""玩玩 Flutter""."
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.","我不想以谷歌的技术为基础来经营我的业务,说实话。另一方面,谷歌是为数不多的大公司之一,它有真正的动力去创造一个引人入胜的跨平台体验,这一点很明显。","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""Google"" should have been translated as ""谷歌"" instead of the more generic ""谷歌的技术"".
+minor: wrong term - The term ""cross platform experience"" should have been translated as ""跨平台体验"" instead of ""引人入胜的跨平台体验""."
+203,A few very small difficulties have come to light.,一些非常小的困难浮现出来。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""一些非常小的困难"" should have been translated as ""a few very small difficulties"" instead of ""一些非常小的困难浮现出来""."
+204,Nothing to set alarm bells ringing but nevertheless they are being addressed.,"没有引起警报的必要,但仍在解决这些问题。","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""alarm bells"" is not properly translated as ""警报"" in the Chinese translation."
+205,A small update will be produced next week to correct them.,下周将生产一个小更新来纠正它们。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""it"" in the source text does not have a clear referent in the Chinese translation, which should have used a more specific term to refer to the issues that need to be corrected."
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,"我不确切知道为什么我的大脑无法解决这个问题;可能是因为工具太广泛和模糊,以至于我的大脑因""选择太多""而陷入僵局。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""tools"" should have been translated as ""工具"" instead of ""工具是""."
+217,"There's... no way that would work, probably!","那根本行不通,可能!","MQM annotations:
+Terminology Errors:
+minor: TERM NOT APPLIED - The Chinese term ""那根本行不通,可能!"" should have been translated as ""That would probably never work!"" instead of ""那根本行不通,可能!""."
+219,I was a voracious reader in my youth.,我年轻时是个贪婪的读者。,"MQM annotations:
+Terminology Errors:
+Major: WRONG TERM - The term ""贪婪的"" (greedy) does not accurately convey the meaning of ""voracious"" in the context of being a ""voracious reader"". A more appropriate term would be ""狂热的"" (avid) or ""热衷于"" (passionate)."
+228,"But if Spotify has a good quarter, they will.","但如果 Spotify 有一个好的季度,他们就会。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""他们"" in the Chinese translation does not match the correct term ""Spotify"" as specified in the source text."
+235,These headlines and articles usually reference one CEO at one large company.,这些标题和文章通常只提及一家大公司的一位CEO。,"MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""CEO"" should be translated as ""总裁"" in Chinese."
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,"这些都是点击诱饵,但这确实让我担心那些阅读这些文章的高管和经理。","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""点击诱饵"" does not accurately convey the meaning of ""clickbait"" in the source text. A more appropriate translation would be ""标题党"" or ""标题党内容"".
+[major]: [WRONG TERM] - The term ""高管"" may not be the best translation for ""executives"" in this context. ""管理层"" or ""高层管理人员"" would be more suitable."
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,"它使人们能够避免耗费时间的长途通勤,从而有更多时间与家人在一起。","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The translation ""它使人们能够避免耗费时间的长途通勤"" does not accurately convey the meaning of the source text ""It enables people to avoid lengthy commutes that take time away from their day and their families."" The term ""长途通勤"" (long commute) does not fully capture the nuance of ""commutes that take time away from their day and their families."""
+247,"""This is a war between the pro-humans and anti-humans,"" he said.","""这是人类支持者和反人类之间的战争,""他说。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""pro-humans"" should have been translated as ""支持人类"" instead of ""人类支持者"".
+[major]: [TERM NOT APPLIED] - The term ""anti-humans"" should have been translated as ""反人类"" instead of ""反人类""."
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,他还认为，新民主党和进步派想要为了环境的缘故而减少人口。,"MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""新民主党"" (New Democratic Party) does not accurately convey the meaning of ""NDP"" (New Democratic Party) in the source text.
+[major]: [WRONG TERM] - The term ""减少人口"" (reduce population) does not accurately convey the meaning of ""depopulate"" (to cause a decrease in the population of) in the source text."
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,"每当五月来临,我就害怕庆祝我的生日。","MQM annotations:
+Terminology Errors:
+minor: [term not applied] - The term ""May"" in the source text should have been translated as ""五月"" in the target text."
+258,Winter is 30 days away in this little part of the Great Southern World.,冬季距离这个大南方世界的这个小部分还有30天。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""大南方世界"" (Great Southern World) is not a standard glossary term and does not accurately convey the meaning of the source text."
+261,"The rain is falling and whilst/while it is not frozen, you ain't going dancing in it!","雨正在下落,虽然它没有冻结,你也不会在雨中跳舞!","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""dancing"" should have been translated as ""跳舞"" instead of ""跳舞在雨中"" to better match the source text."
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,您知道网页组件在被添加/移除文档时响应的高性能方法吗?,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""web component"" should be translated as ""网页组件"" instead of ""网页组件"".
+[minor]: [WRONG TERM] - The term ""performant"" should be translated as ""高性能的"" instead of ""高性能"".
+[minor]: [WRONG TERM] - The term ""document"" should be translated as ""文档"" instead of ""文件""."
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",我们创建一个分离的临时父级，在那里安装 MO，并观察它变得分离(因此附着在其他地方)。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""MO"" in the target text is not translated according to the glossary specification.
+[major]: [WRONG TERM] - The term ""分离的临时父级"" does not accurately convey the meaning of ""detached temp parent"" in the source text.
+[minor]: [WRONG TERM] - The term ""附着在其他地方"" does not precisely match the meaning of ""thus attached elsewhere"" in the source text."
+276,He's just absolutely ripped from tearing around my office twice a day.,"他每天在我办公室里来回跑两次,身材绝对健壮。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""ripped"" should have been translated as ""健壮的"" or ""强壮的"" instead of ""健壮"" in the given context."
+277,"I don't have a scale to weigh him, but he feels like he's well over a pound.","我没有秤来称他的重量,但我感觉他的重量远远超过一磅。","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""pound"" should be translated as ""磅"" in Chinese, not ""磅重量""."
+278,It makes me so happy to see him thriving.,"看到他蒸蒸日上,我感到非常高兴。","MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""蒸蒸日上"" should have been translated more literally as ""thriving"" or ""prospering"" instead of ""蒸蒸日上""."
+280,1) Slight modifications to the Hel's Fighters map layout.,轻微修改赫尔战士地图布局。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""Hel's Fighters"" was not translated correctly in the Chinese translation."
+286,"All collards, kale, chard is transplanted.",所有的羽衣甘蓝、羽衣甘蓝和瑞士甜菜都是移植的。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""羽衣甘蓝"" should be translated as ""kale"" instead of ""collards"" in English.
+[major]: [TERM NOT APPLIED] - The term ""瑞士甜菜"" should be translated as ""chard"" instead of ""chard"" in English."
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,"春季豌豆在吉尔平出现,需要设置支架。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""trellise"" should have been translated as ""支架"" instead of ""支架需要设置""."
+291,"Apple Maps comes default with iOS, and yet people would go out of their way to download and install Google Maps onto their iPhones.","蘋果地圖預設隨 iOS 而來,但人們還是會特意下載並安裝谷歌地圖到他們的 iPhone 上。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""谷歌地圖"" should have been used instead of ""谷歌地圖"" to match the glossary entry."
+297,No idea.,没有主意。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""没有主意"" should be translated as ""no idea"" instead of the literal translation ""没有主意""."
+300,Could it be that Google Search is integrated with Google Maps?,是否谷歌搜索与谷歌地图集成?,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""Google Search"" should be translated as ""搜索引擎"" instead of ""谷歌搜索"".
+minor: term not applied - The term ""Google Maps"" should be translated as ""地图服务"" instead of ""谷歌地图""."
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","我偏向于不向最终用户发布垃圾,而苹果公司在2012年推出的苹果地图上犯了严重的错误。","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""garbage"" should be translated more neutrally as ""低劣产品"" or ""劣质产品"" instead of ""垃圾"".
+[major]: [WRONG TERM] - The term ""fucked up"" should be translated more neutrally as ""严重错误"" or ""严重失误"" instead of the colloquial ""犯了严重的错误""."
+306,The house itself declines in value because it loses its condition and needs to be replaced.,"房子本身的价值下降,因为它失去了状况,需要被替换。","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""replaced"" should be translated as ""更换"" instead of ""被替换"" in the given context."
+310,They're not stupid enough to sell the sell forever.,他们不够愚蠢到永远出售。,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The glossary term ""sell forever"" should have been translated as ""出售永远"" instead of ""永远出售""."
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,"看起来难以想象,当你观看澳大利亚和美国媒体频道时,土地可能会被夺走,但这是因为富人整天在那里确保你的思维方式是某种特定的方式。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""land"" in the source text should have been translated as ""土地"" instead of ""土地可能会被夺走"" in the target text."
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.","致所有投资者,我为您的成功和梦想实现而干杯。","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""investors"" should have been translated as ""投资者"" instead of ""所有投资者""."
+322,Let us continue to work together towards creating a brighter future for all.,让我们继续携手共创美好的未来。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""brighter"" should have been translated as ""更美好的"" in Chinese."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,"我常常惊讶于人类如此自我贬低,却又被如此多残酷的证据所淹没。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""oneself"" is not correctly translated as ""自己"" in the Chinese translation."
+327,We're all such messy critters.,我们都是如此凌乱的生物。,"MQM annotations:
+Terminology Errors:
+Major: WRONG TERM - The translation ""我们都是如此凌乱的生物"" does not accurately convey the meaning of the source text ""We're all such messy critters."" The term ""critters"" is not properly translated and the overall phrasing is too formal."
+336,How would you share personal libraries?,如何分享个人图书馆?,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""personal libraries"" should be translated as ""个人图书馆"" instead of ""个人图书馆""."
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str","我也有一天会在高空中达到高潮,也许不会是和一个陌生人。","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The term ""高空中"" (high altitude) does not accurately convey the intended meaning of ""mile high"" in the source text, which refers to a sexual act performed on an airplane."
+342,I don't agree that #Mastodon is difficult to setup.,我不同意#Mastodon很难设置。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""#Mastodon"" was not translated into Chinese."
+345,"I wish there was a ""who to follow"" recommendation somehow.","我希望能有一个""谁值得关注""的推荐系统。","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""who to follow"" should have been translated as ""谁值得关注"" instead of ""谁值得关注的推荐系统""."
+347,If you stick to the default web interface it doesn't look and feel good (imho).,"如果你坚持使用默认的网页界面,它看起来和感觉都不太好(在我看来)。","MQM annotations:
+Terminology Errors:
+[major]: [WRONG TERM] - The translation ""它看起来和感觉都不太好"" does not accurately convey the meaning of the English term ""it doesn't look and feel good"". A more appropriate translation would be ""它看起来和感觉都不太好(在我看来)""."
+352,Explanation: account for both sides of mutual influence,相互影响的双方,"MQM annotations:
+Terminology Errors:
+Major: TERM NOT APPLIED - The translation ""相互影响的双方"" does not accurately convey the meaning of the source term ""account for both sides of mutual influence"". A more appropriate translation would be ""考虑双方的相互影响""."
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.","即使他在镇政厅期间没有说出这些话,但在2024年11月之前,美国的每个人都会一遍又一遍地听到这些话。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""town hall"" should have been translated as ""镇政厅"" instead of ""镇政厅期间""."
+366,Throwing everything you've got over the fence in response to GPT is not it.,对GPT的回应不应该是把所有的东西都扔过篱笆。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""fence"" in the source text should have been translated as ""篱笆"" instead of ""篱笆"" in the target text."
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.","如果我试图找出我的一次最大重复次数,我可能没有足够的重量来达到最大值,或者相反,这可能会严重伤害/杀死我。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""one rep max"" should have been translated as ""一次最大重复次数"" instead of ""一次最大重复次数"".
+[major]: [TERM NOT APPLIED] - The term ""max out"" should have been translated as ""达到最大值"" instead of ""达到最大值""."
+375,I swear burrata didn't exist five years ago,我发誓五年前没有布拉塔奶酪。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""布拉塔奶酪"" (burrata) should have been used instead of ""布拉塔奶酪"" in the translation."
+376,This is my personal Mandela effect thing.,这是我个人的曼德拉效应。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""Mandela effect"" is not translated correctly into Chinese. The direct translation ""曼德拉效应"" would be more appropriate."
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,"我从未见过任何人的妈妈做过它,也从未在派对上被人强迫吃过它,也从未见过它与任何人的酱料制作或烘焙活动有关。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""make it"" is not translated correctly in the Chinese translation. The Chinese translation ""做过它"" does not accurately convey the meaning of ""make it"" in the source text.
+[minor]: [WRONG TERM] - The term ""saucemaking escapades"" is translated as ""酱料制作"" in Chinese, which does not fully capture the colloquial and informal nature of the original term.
+[minor]: [WRONG TERM] - The term ""baking days"" is translated as ""烘焙活动"" in Chinese, which is a more formal and generic term compared to the source text."
+380,It just appeared one day and suddenly it was available everywhere.,"它就在某一天突然出现,随后迅速普及。","MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""appeared"" should have been translated as ""出现"" instead of ""突然出现"".
+minor: wrong term - The glossary term ""available"" should have been translated as ""可获得"" instead of ""普及""."
+385,"This would be mainly for web browsing, occasional email, and some games.",这主要用于网页浏览、偶尔收发电子邮件和一些游戏。,"MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The glossary term ""web browsing"" should have been translated as ""浏览网页"" instead of ""网页浏览"".
+[minor]: [TERM NOT APPLIED] - The glossary term ""email"" should have been translated as ""电子邮件"" instead of ""电子邮件"".
+[minor]: [TERM NOT APPLIED] - The glossary term ""games"" should have been translated as ""游戏"" instead of ""一些游戏""."
+387,"""A good game is only late until it ships.",一款好游戏只要最终发布即可。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese phrase ""一款好游戏只要最终发布即可"" should be translated as ""A good game is only late until it ships"", but the translation ""一款好游戏只要最终发布即可"" does not accurately convey the meaning of the English source text."
+392,"""Or, as an industry catch phrase goes: A late game is only late until it ships.","一款游戏迟到只是迟到,直到它发布。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""late game"" should have been translated as ""游戏延期"" instead of ""游戏迟到""."
+394,Is it so ephemeral then?,那么它是如此短暂吗?,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""短暂"" (ephemeral) is not accurately translated as ""如此短暂"" (so ephemeral) in the target text."
+397,"He carries it in his mouth proudly all over the house, and I just have to laugh inwardly.","他骄傲地在房子里到处叼着它,我只能在内心偷偷地笑。","MQM annotations:
+Terminology Errors:
+[minor]: [WRONG TERM] - The translation ""叼着它"" does not accurately convey the meaning of ""carries it in his mouth proudly"" from the source text. A more appropriate term would be ""衔着它""."
+399,Have now done a full round trip on the new ICNG train.,我已经完成了新型 ICNG 列车的全程往返旅行。,"MQM annotations:
+Terminology Errors:
+[minor]: [WRONG TERM] - The term ""ICNG"" should be translated as ""ICNG (Intercity Next Generation)"" to provide more context."
+400,I really like it.,我很喜欢它。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""我很喜欢它"" should be translated as ""I like it very much"" instead of ""I really like it."""
+402,There's areas that could use some polish.,需要加以改善的地方。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""需要加以改善的地方"" should have been translated as ""areas that could use some improvement"" instead of ""areas that could use some polish""."
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.","缺乏足够的垃圾桶,以及缺乏解释照明颜色意义的标志。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""bins"" should have been translated as ""垃圾桶"" instead of ""垃圾桶"".
+[major]: [TERM NOT APPLIED] - The term ""lighting colours"" should have been translated as ""照明颜色"" instead of ""照明颜色的意义""."
+404,"Fix those minor issues, and then can we have more of these please?","修复这些小问题,然后我们可以再来一些吗?","MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""修复"" should have been translated as ""fix"" instead of ""repair"" in the English translation."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,"每位顾客限购一件规则仍然存在,我们努力确保每个排队的人都能买到板子。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""board"" should have been translated as ""板子"" instead of ""板子""."
+407,"You can buy ONE of the boards listed above, not one of each.","您可以购买上述列出的其中一块板子,而不是每种都买一块。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""boards"" should have been translated as ""板子"" instead of ""其中一块板子""."
+409,Yesterday I had the best time with my friend and former rabbi colleague.,昨天我和我的朋友以及前任拉比同事度过了美好的时光。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""rabbi"" should have been translated as ""拉比"" instead of ""前任拉比同事""."
+410,We visited for a couple hours on my porch.,我们在我的门廊上待了几个小时。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The glossary term ""porch"" should have been translated as ""门廊"" in Chinese."
+412,We all have stories to tell.,我们都有故事要讲。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""我们"" should have been translated as ""we"" instead of ""all of us"" in English."
+415,I quite like akkoma the software and the domain name I got for my instance.,"我很喜欢 akkoma 这个软件,以及我为我的实例获得的域名。","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The term ""akkoma"" in the source text is not translated into Chinese.
+[minor]: [WRONG TERM] - The term ""实例"" (instance) in the Chinese translation does not fit the context as well as the original term ""my instance""."
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",但是我感觉我以某种方式开始了这个实例的错误步伐。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""instance"" should have been translated as ""情况"" instead of ""实例"" in the given context."
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,"爬行动物已经在地表下挖掘隧道,你掉入了一个洞穴中,里面有数百只爬行动物的沸腾的身体。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Repnid"" is not translated correctly. The Chinese translation ""爬行动物"" (reptile) does not accurately convey the specific meaning of ""Repnid"" as a fictional creature."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","结局迅速,几对尖牙注入致命毒液,Dyskra的空气污染你的肺部。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""Dyskra"" is not applied correctly in the Chinese translation. The term should have been translated or transliterated to maintain the original meaning."
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.","八眼的Repnids似乎在观察着你,但他们没有向你移动,事实上当你缓慢地走向他们时,他们保持静止不动。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""Repnids"" in the source text is not translated correctly in the target text. The translation should use the appropriate Chinese term for this creature."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.","你决定再次建立联系会很危险,于是返回到你的飞船上,但这次经历使你的思维变得清晰,此前你跳入未来后一直处于困惑之中。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""flyer"" should have been translated as ""飞船"" (spacecraft) instead of ""飞船上"" (on the spacecraft)."
+437,I started a new shawl.,我开始了一件新的披肩。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""shawl"" in the source text should have been translated as ""披肩"" in the target text."
+442,I am using a H hook with a similar double crochet pattern as I have done before.,"我正在使用一个H钩,采用与之前相似的双钩针图案。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The term ""H hook"" should have been translated as ""钩针"" instead of ""H钩"" in the Chinese translation.
+[minor]: [WRONG TERM] - The term ""double crochet pattern"" should have been translated as ""双钩针图案"" instead of ""双钩针图案"" in the Chinese translation."
+448,The literature class hatred is even worse: I love to read.,文学课的仇恨更加严重:我热爱阅读。,"MQM annotations:
+Terminology Errors:
+major: term not applied - The glossary term ""hatred"" is not correctly translated as ""仇恨"" in the Chinese translation."
+454,Humanity is out in 5 days.,人类将在5天内走向终结。,"MQM annotations:
+Terminology Errors:
+major: TERM NOT APPLIED - The term ""humanity"" should have been translated as ""人类"" instead of ""人类将在5天内走向终结""."
+456,What will people think of it?,人们会怎么想它?,"MQM annotations:
+Terminology Errors:
+major: term not applied - The Chinese term ""人们"" should be translated as ""people"" instead of ""it"" in English."
+463,Came home on my lunch break to see this sitting outside uwu.,"在午休时回到家里,看到这个坐在外面 uwu。","MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""uwu"" is not a standard glossary term and does not have a clear meaning in the given context."
+464,Wish I could take it back to work with me to setup more.,希望我能把它带回工作中设置更多。,"MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""setup"" should have been translated as ""配置"" instead of ""设置"" in the given context."
+466,So I finally watched #Heartstopper,所以我终于看了《心动》,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The term ""Heartstopper"" should have been translated as ""《心动》"" instead of the literal translation ""心动""."
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.","但是重要的是不要为问题找借口,而是直接解决它们,特别是在生产环境中,当您的主管需要进行更改时。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""lead"" should have been translated as ""主管"" instead of ""主管需要进行更改""."
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.","好的批评是为了快速纠正问题,并不针对你的能力。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""gamepad"" should have been translated as ""手柄"" in Chinese."
+485,These roots are hidden.,这些根是隐藏的。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""这些根"" should have been translated as ""These roots"" instead of ""这些根是隐藏的""."
+486,Work is not visible.,工作是看不见的。,"MQM annotations:
+Terminology Errors:
+minor: term not applied - The Chinese term ""工作"" should be translated as ""work"" instead of ""is not visible"" in English."
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,"他等到在宿舍的黑暗中,才拿出那张纸条,在遮光窗帘透进来的一束光线中读了它。","MQM annotations:
+Terminology Errors:
+[minor]: [TERM NOT APPLIED] - The glossary term ""bunk room"" should have been translated as ""宿舍"" instead of ""黑暗中"".
+[minor]: [WRONG TERM] - The glossary term ""blackout curtains"" should have been translated as ""遮光窗帘"" instead of ""遮光窗帘透进来""."
+495,I've met some marvelous new #Mastodon mates lately and want to maintain the trend.,"我最近遇到了一些了不起的新#Mastodon朋友,我想保持这种趋势。","MQM annotations:
+Terminology Errors:
+[major]: [TERM NOT APPLIED] - The glossary term ""#Mastodon"" should have been translated as ""Mastodon"" in Chinese without the hashtag symbol."

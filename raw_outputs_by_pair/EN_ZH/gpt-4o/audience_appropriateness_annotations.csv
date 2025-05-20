@@ -1,0 +1,900 @@
+index,original,translated,locale_convention_annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.",对我来说，这是一个相当大的假设，因为它只是使用 Direct3D 对象创建视口，而不是 Direct3D3 对象。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The translation uses technical terms ""Direct3D"" and ""Direct3D3"" which may not be familiar to all Chinese audiences without a background in computer graphics or programming. However, this is a minor issue as the terms are likely to be understood by the intended technical audience.
+```"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",一些事实，例如关于亚原子粒子的事实，只能通过实验得出，而这些实验本身只有在资本主义中才有可能，因为它们需要太多的资源、太多的组织、太多的强制，否则无法实现。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The translation does not adequately address the cultural context of ""capitalism"" as it might be perceived differently in Chinese culture. The concept of capitalism might have different connotations and implications in the Chinese context, potentially leading to misunderstandings.
+```"
+14,Picking this up this weekend.,这个周末去拿。,"```
+MQM annotations:
+[Critical]: [audience_appropriateness/error_subcategory] - None
+[Major]: [audience_appropriateness/culture-specific reference] - The phrase ""去拿"" (go to pick up) is a direct translation that might not capture the casual tone of ""picking this up"" in the source, which could be more informally expressed in Chinese to better fit the cultural context.
+[Minor]: [audience_appropriateness/error_subcategory] - None
+```"
+15,I was looking for a good first car guy car; and I really love the 80s aesthetic.,我在寻找一辆好的第一辆车，而且我真的很喜欢80年代的美学。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [Culture-specific Reference] - The term ""car guy car"" is a culture-specific expression that may not be directly understood by a Chinese audience. It refers to a car that is particularly appealing to car enthusiasts, which may require additional explanation or adaptation to fit the cultural context.
+```"
+19,I know they're not fast compared,我知道它们相比之下不快。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+Explanation: The translation ""我知道它们相比之下不快。"" is culturally and linguistically appropriate for the target Chinese audience. There are no culture-specific references or language variety issues that would cause confusion or a sense of non-belonging for the audience."
+20,#Venting into the Fediverse time.,#在联邦宇宙中发泄时间。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The term ""Fediverse"" is a niche concept that may not be widely understood by the Chinese audience. A brief explanation or localization might be necessary to ensure cultural appropriateness.
+```"
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,我和伴侣今晚去酒铺买了一些啤酒和一瓶香槟。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The term ""bub"" is a colloquial term for champagne, which might not be widely recognized by a Chinese audience. The translation uses ""香槟"" (champagne), which is accurate but loses the informal and colloquial nuance of ""bub"".
+```"
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.",当我们去结账时，收银员显然是一位跨性别女性。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""trans woman"" is translated as ""跨性别女性,"" which is a direct translation but may not fully convey the cultural nuances and understanding of transgender identity in Chinese-speaking contexts. The term might not be as widely recognized or understood in the same way as in English-speaking cultures, potentially leading to confusion.
+```"
+25,And then we just... paid for our stuff.,然后我们就……付了钱。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+Explanation: The translation ""然后我们就……付了钱。"" is culturally and linguistically appropriate for a Chinese-speaking audience. The casual tone and structure are suitable for the context, and there are no culture-specific references or language variety issues that would cause confusion or a sense of non-belonging for the target audience."
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,她脸上如释重负的微笑是一种很棒的感觉，但她一开始感到害怕真是太糟糕了，我讨厌这种感觉。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [Culture-specific Reference] - The phrase ""FUCKING SUCKS AND I HATE IT"" in the source text carries a strong emotional tone and uses profanity, which may not be culturally appropriate or commonly expressed in the same way in Chinese. The translation lacks the intensity and emotional impact of the original, which could lead to a misunderstanding of the speaker's strong feelings.
+```"
+29,This is the stupidest timeline and I hate it dot com.,这是最愚蠢的时间线，我讨厌它.com。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The phrase ""I hate it dot com"" is a culture-specific expression that may not be understood by a Chinese audience. It plays on the format of a web address to humorously express disdain, which may not translate well culturally.
+```"
+32,But he can't pardon himself out of state prison.,但他无法通过赦免自己逃脱州监狱。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The phrase ""通过赦免自己逃脱州监狱"" may not fully convey the cultural and legal concept of a ""pardon"" as understood in the context of the U.S. legal system. The translation could be adjusted to better reflect the specific legal nuance of a pardon not being applicable to state-level offenses.
+```"
+33,It takes the state's governor.,这需要州长。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [Culture-specific Reference] - The phrase ""It takes the state's governor"" might imply a specific cultural or political context that is not directly conveyed in the Chinese translation. The translation ""这需要州长"" is a literal translation and may not fully capture the cultural nuance or the implied responsibility or action typically associated with a governor in the source context.
+```"
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",我们建议，情境依赖的交流是一种多层次的现象，受到环境特性（如情境分布）的重要影响。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation provided is appropriate for the target audience and does not contain any errors related to audience appropriateness. The content is culturally and linguistically suitable for a Chinese-speaking audience."
+47,Communities gain the knowledge to embed and support their own development.,社区获得了嵌入和支持自身发展的知识。,"```
+MQM annotations:
+Audience Appropriateness Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation ""社区获得了嵌入和支持自身发展的知识。"" is culturally and linguistically appropriate for the target audience. There are no audience appropriateness errors present in the translation."
+50,Thousands of trees have been established and farmers have seen increased crop yields through a range of interventions from support with equipment purchases to training.,成千上万的树木已经种植，农民通过一系列干预措施（从设备采购支持到培训）看到作物产量增加。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation provided is culturally and linguistically appropriate for the target Chinese audience. There are no audience appropriateness errors detected in the translation."
+53,The UPS store near me won't allow me to write a label or write on the box.,我附近的UPS商店不允许我写标签或在箱子上写字。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: WRONG LANGUAGE VARIETY - The translation uses ""商店"" which is more common in Mainland China, while ""店"" might be more familiar to audiences in Taiwan or Hong Kong. However, this is a subtle distinction and does not significantly impact understanding.
+```"
+55,They won't allow me to tell them the address it's going to and who is shipping it.,他们不允许我告诉他们它要寄去的地址和谁在寄。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation provided is appropriate for the target audience in terms of cultural and linguistic context. There are no audience appropriateness errors present in the translation."
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.",这是一场公愤，就像一个象征性的1月6日反民主的谎言和不满节日，由美国媒体自我毁灭地举办。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The reference to ""Jan 6"" as a symbolic anti-democratic event may not be fully understood by a Chinese audience without additional context, as it specifically refers to the January 6, 2021, Capitol riot in the United States.
+```"
+61,Licht AGREED to an all Republican audience!,Licht同意了全共和党观众！,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""全共和党观众"" (all Republican audience) may not resonate with a Chinese audience who might not be familiar with the political context or significance of the term ""Republican"" in the same way as an English-speaking audience.
+```"
+64,The ratings--seeking delusional irresponsibility of it all.,这一切都是追求收视率的妄想和不负责任。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The phrase ""ratings--seeking delusional irresponsibility"" is a complex and somewhat idiomatic expression in English that may not be directly understood in the Chinese cultural context. The translation captures the basic meaning but lacks the nuanced cultural tone of the original.
+```"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.",我的地下室有很多缝隙，这基本上意味着会有很多啮齿动物来避难。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [Culture-specific Reference] - The term ""drafty"" is translated as ""有很多缝隙"" (has many gaps), which may not convey the same cultural understanding of a poorly insulated or cold basement to a Chinese audience. A more culturally appropriate translation could emphasize the cold or unsealed nature of the basement.
+```"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨晚我终于受够了这种日常，把所有捕鼠器上的花生酱清理掉，并用强力胶把开心果粘在上面。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The use of ""开心果"" (pistachio) may not be as culturally relevant or common in Chinese contexts for setting traps, potentially causing slight confusion or lack of resonance with the target audience.
+```"
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",仅供参考，我几乎尝试了市场上所有“人道”的捕鼠器，但成功率很低。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: Culture-specific Reference - The abbreviation ""fwiw"" (for what it's worth) is a culture-specific reference that may not be easily understood by a Chinese audience without additional context or explanation.
+```"
+73,I'm tired of conservative parties and governments wrapping themselves in the brand of pro-business.,我厌倦了保守党派和政府以亲商业的名义包装自己。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+Explanation: The translation ""我厌倦了保守党派和政府以亲商业的名义包装自己。"" is culturally appropriate for a Chinese audience. The phrase ""以亲商业的名义包装自己"" effectively conveys the meaning of ""wrapping themselves in the brand of pro-business,"" and there are no cultural references or language variety issues that would cause confusion or a sense of non-belonging for the target audience."
+74,"They aren't, at least not in Alberta.",他们不是，至少在阿尔伯塔省不是。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+75,Sure they cut business taxes.,当然，他们削减了营业税。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: WRONG LANGUAGE VARIETY - The translation uses ""营业税"" which is more commonly associated with ""sales tax"" in Chinese, whereas ""business tax"" might be better translated as ""企业税"" or ""公司税"" to align with the intended meaning for a business context.
+```"
+78,"Discovered the hard way that in 2023, local TV station web sites are the absolute worst experience on the internet.",在2023年，我通过惨痛的教训发现，本地电视台的网站是互联网上最糟糕的体验。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""通过惨痛的教训发现"" (discovered through painful lessons) may not align perfectly with the tone and cultural context of the original English phrase ""discovered the hard way."" The original phrase is more casual and idiomatic, while the Chinese translation carries a heavier, more serious connotation.
+```"
+79,"Popups, auto-play videos, animations, popovers, and ads, ads, ads.",弹出窗口、自动播放视频、动画、弹出层和广告、广告、广告。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The repetition of ""广告、广告、广告"" (ads, ads, ads) may not have the same stylistic impact in Chinese as it does in English. While the repetition is retained, it might not resonate culturally in the same way, potentially detracting from the intended emphasis.
+```"
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.",即使现在goatse.cx已经不存在了，这仍然是事实，尽管goatse和比如khou.com之间的竞争可能会非常激烈，我曾尝试在khou.com上观看Wendy发给我的视频。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The reference to ""goatse.cx"" may not be familiar to a Chinese audience, potentially causing confusion or misunderstanding.
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The reference to ""khou.com"" may not be familiar to a Chinese audience, potentially causing confusion or misunderstanding.
+```"
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",“我只是把他送到格拉斯哥，”我试图解释，指着我的旅伴。,"```
+MQM annotations:
+audience appropriateness error:
+Major: CULTURE-SPECIFIC REFERENCE - The phrase ""dropping him off"" is a colloquial expression in English that may not be directly understood in Chinese culture. A more culturally appropriate expression could be used to convey the meaning of giving someone a ride to a specific location.
+```"
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,昨晚让我确信的一件事是，我们需要准备好反击特朗普主义。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""特朗普主义"" (Trumpism) may not be fully understood or have the same cultural connotations in the Chinese context as it does in the English-speaking context. It might require additional explanation or adaptation to ensure clarity and cultural relevance for the target audience.
+```"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,弄一些反特朗普的保险杠贴纸到处贴上。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""反特朗普的保险杠贴纸"" (anti-Trump bumper stickers) may not be culturally appropriate or understood in the Chinese context, as political expressions and public displays of political opinions differ significantly between the U.S. and China. This could lead to confusion or discomfort for the target audience.
+```"
+95,Yell back at those who would try to talk over us.,对那些试图打断我们的人大声回应。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The phrase ""大声回应"" (loudly respond) may not fully capture the assertive and confrontational tone of ""yell back"" in the source text, which could be culturally more aggressive than the translation suggests.
+```"
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,所以我赶紧进公寓以避免见到他，但他还是设法追上我聊天。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The use of ""公寓"" (apartment) may not fully capture the cultural context of ""apt"" in English, which can imply a more casual or personal living space. However, this is a subtle difference and does not significantly impact understanding.
+```"
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,我再说一遍。到处传播你的新冠病毒粘液风暴是不可接受的行为！！！,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""新冠病毒粘液风暴"" (covid mucus storm) is a direct translation that may not be culturally appropriate or easily understood by a Chinese audience. The metaphorical use of ""mucus storm"" may not resonate well culturally and could cause confusion.
+```"
+104,Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.,阿贝把他的悲伤藏起来，容易发笑，而汤姆不怕哭泣，但对粗鲁的幽默不太感兴趣。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""容易发笑"" (laughs easily) may not fully capture the cultural nuance of ""laughs easily"" in English, which can imply a light-hearted or carefree demeanor. In Chinese, it might be interpreted more literally, potentially missing the cultural context of the English expression.
+```"
+106,Mio knows that sorrow is life's constant companion.,美绪知道悲伤是生活的常伴。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation ""美绪知道悲伤是生活的常伴"" is culturally and linguistically appropriate for a Chinese audience. There are no audience appropriateness errors in this translation."
+108,#CNN needs to just close down.,CNN需要关闭。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation ""CNN需要关闭。"" is culturally and linguistically appropriate for the target audience. There are no audience appropriateness errors in this translation."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨天与#MangoMoron的事件是一个令人愤慨的惨败。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""#MangoMoron"" is a specific reference that may not be understood by the Chinese audience without additional context, as it appears to be a hashtag or a cultural reference that lacks clarity in the translation.
+```"
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.",书呆子学生阿尼·坎宁安爱上了一辆生锈的1958年普利茅斯狂怒，并痴迷于将这辆经典汽车恢复到昔日的辉煌。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+Explanation: The translation from English to Chinese is culturally appropriate and does not contain any content that is unusual, invalid, or inappropriate for the intended target audience or culture. The translation accurately conveys the meaning of the source text without introducing any cultural misunderstandings or inappropriate references."
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.",随着汽车的变化，阿尼也在改变，他的新信心在驾驶他那辆异国情调的美丽汽车时变成了傲慢。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""异国情调的美丽汽车"" (exotic beauty) may not fully convey the cultural nuance of ""exotic beauty"" in the context of cars, which is a more Western concept. The term could be perceived differently in Chinese culture, where the idea of an ""exotic car"" might not carry the same connotations.
+```"
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,关于我的邻居反对我这件事，最疯狂的部分之一就是想到他们需要花费多少精力才能表现出敌意。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""最疯狂的部分之一"" (one of the craziest parts) may not resonate culturally with a Chinese audience as it does in English. The concept of ""crazy"" in this context might not be as commonly used in Chinese to describe such situations, potentially leading to a slight cultural disconnect.
+```"
+126,It hurts but you gotta do you.,虽然很痛，但你还是要做自己。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""you gotta do you"" is a colloquial expression in English that may not have a direct equivalent in Chinese culture. While the translation ""做自己"" captures the essence, it may not fully convey the cultural nuance of the original expression.
+```"
+127,But at this point the open hostility and violence is getting worse.,但在这一点上，公开的敌意和暴力正在恶化。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation provided is culturally appropriate for a Chinese audience and does not contain any culture-specific references or language variety issues that would cause confusion or a sense of non-belonging."
+128,That takes effort.,那需要努力。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+132,They had keys to my apartment for 6+ years.,他们有我公寓的钥匙超过6年。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+The translation ""他们有我公寓的钥匙超过6年。"" is appropriate for the target audience and does not contain any cultural or linguistic issues that would make it inappropriate or confusing for a Chinese-speaking audience."
+134,I am aware of your hatred of Organa.,我知道你对欧加纳的憎恨。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The name ""欧加纳"" (Organa) may not be immediately recognizable to a Chinese audience without additional context, as it is a specific reference from the Star Wars universe. Providing context or a brief explanation could improve cultural appropriateness.
+```"
+142,The Last of Us is an easy and canonical example of dad-ification.,《最后生还者》是父亲化的一个简单且经典的例子。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The term ""dad-ification"" is a culture-specific concept that may not be readily understood by a Chinese audience without additional context or explanation.
+```"
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父化通常假设，当父母角色必须照顾或保护孩子或孩子替代物的情况下，解决方案是压倒性的力量，并利用这种力量强制形成一个非常具体的权力动态。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The term ""父化"" (Dad-ification) may not be culturally understood or have the same connotations in Chinese as it does in English. This term refers to a specific cultural concept that might not translate directly or clearly to a Chinese audience without additional context or explanation.
+```"
+149,- We provide links to where you can book the fare.,我们提供可以预订票价的链接。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The phrase ""预订票价"" (book the fare) may not be the most culturally appropriate or clear expression in Chinese. A more culturally adapted translation could be ""预订机票"" (book the ticket) or ""预订航班"" (book the flight), which aligns better with common expressions used in Chinese for booking travel.
+```"
+151,- More details are in the full blog post.,更多详情请参见完整的博客文章。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation ""更多详情请参见完整的博客文章。"" is appropriate for the target audience in terms of cultural and linguistic context. There are no audience appropriateness errors in this translation."
+159,Over time dart became my go-to for quick UI.,随着时间的推移，Dart 成为我快速 UI 的首选。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The term ""Dart"" as a programming language might not be immediately recognized by all Chinese audiences without additional context, potentially leading to confusion.
+```"
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.",#flutter 很好用，他们有 #mobx 可以轻松进行状态管理。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: CULTURE-SPECIFIC REFERENCE - The use of ""他们"" (they) to refer to Flutter might be slightly confusing as Flutter is a framework, not a company or group of people. In Chinese, it might be more culturally appropriate to use ""它"" (it) when referring to software or frameworks.
+```"
+164,Echidna with amethyst and magenta spikes.,带有紫水晶和紫红色尖刺的针鼹。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The translation uses ""紫水晶"" (amethyst) and ""紫红色"" (magenta) which are accurate translations but may not be culturally familiar or common in Chinese descriptions of animals, potentially causing slight confusion or a lack of resonance with the target audience.
+```"
+167,"Their hair is raspberry, short and curly.",他们的头发是覆盆子色的，短而卷曲。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""覆盆子色的"" (raspberry-colored) might not be a familiar or commonly used color description in Chinese culture, potentially causing confusion for the target audience.
+```"
+169,Their most interesting feature is their good deeds.,他们最有趣的特点是他们的善行。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The term ""善行"" (good deeds) may not fully capture the cultural nuance of ""good deeds"" in English, which can imply a broader sense of altruism and moral action. However, this is a subtle issue and does not significantly detract from the overall meaning.
+```"
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",尽管布拉姆·斯托克、马克斯·施雷克和斯蒂芬妮·梅耶尽力让他们看起来很糟糕——每个人……,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The translation does not adapt the cultural context of the original text, which references well-known Western authors associated with vampire lore. While these names may be recognized globally, the cultural impact and familiarity might not be the same for a Chinese audience, potentially leading to a loss of cultural nuance.
+```"
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.",需要将其翻译成普通话和/或福建话，我对这两种语言都一无所知。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: WRONG LANGUAGE VARIETY - The term ""普通话"" is used for Mandarin, which is appropriate for a Chinese-speaking audience. However, ""福建话"" is used for Hokkien, which is not a standard term in Mandarin. The more culturally appropriate term would be ""闽南语"" or ""闽南话"" for a Mandarin-speaking audience.
+```"
+179,Been toying with this thought for a little while:,一直在琢磨这个想法。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""toying with this thought"" could be considered a culture-specific expression that may not fully convey the casual and reflective tone intended in the original English to a Chinese audience. The translation ""琢磨"" captures the idea of pondering, but it may lack the playful nuance of ""toying with.""
+```"
+182,Because it happens in the mind and seems less tangible than physical health.,因为它发生在大脑中，看起来比身体健康更不具体。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The translation ""大脑"" (brain) is more specific than ""mind"" in the source text. While ""mind"" refers to mental processes and consciousness, ""大脑"" specifically refers to the physical brain, which might not fully capture the cultural nuance of mental health as distinct from physical health.
+```"
+189,"My sex is non-binary, my gender is female.",我的性别是非二元的，我的性别认同是女性。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: culture-specific reference - The concept of ""non-binary"" and ""gender identity"" might not be widely understood or culturally recognized in all Chinese-speaking regions, potentially leading to confusion among the target audience.
+```"
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,喜欢酸菜心情和其他世俗流行音乐、无线电工作室和各种各样的东西。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The term ""酸菜心情"" (krauty moods) may not be culturally understandable to the Chinese audience as it is a niche term related to a specific music genre (krautrock) that might not be widely recognized in China.
+[Minor]: [culture-specific reference] - ""无线电工作室"" (radiophonic workshop) might not be a familiar concept to the Chinese audience, as it refers to a specific type of experimental music production that may not be well-known outside of certain Western contexts.
+```"
+196,Playing around a bit with Flutter.,玩转 Flutter。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""玩转"" may not fully convey the casual and exploratory tone of ""playing around a bit"" in English, which might be interpreted as more playful or experimental in the original context.
+```"
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",老实说，我不愿意把我的业务建立在谷歌的技术上，另一方面，谷歌是少数真正有动力创造引人注目的跨平台体验的大公司之一，这一点显而易见。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The phrase ""to be honest"" is translated as ""老实说,"" which is culturally appropriate but might not fully capture the casual tone of the original English expression for a Chinese audience. A more culturally adapted phrase could enhance relatability.
+```"
+203,A few very small difficulties have come to light.,出现了一些很小的困难。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The translation ""出现了一些很小的困难"" is generally appropriate for a Chinese audience, but the phrase ""很小的困难"" could be perceived as slightly less formal or nuanced compared to the English ""very small difficulties."" The translation is understandable but may lack the subtlety of the original phrase in certain formal contexts.
+```"
+204,Nothing to set alarm bells ringing but nevertheless they are being addressed.,没有什么需要敲响警钟，但它们仍在被解决。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""敲响警钟"" (set alarm bells ringing) is a direct translation of an English idiom. While it is understandable, it might not be as culturally resonant or commonly used in Chinese as it is in English, potentially leading to a slight cultural mismatch.
+```"
+205,A small update will be produced next week to correct them.,下周将进行一个小更新以纠正它们。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""小更新"" (small update) might be understood, but it lacks cultural context or specificity that could make it more relatable or engaging for the target audience. In some contexts, providing a more detailed description or using a culturally relevant metaphor could enhance understanding.
+```"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,我不知道为什么我的大脑无法弄清楚；可能是因为工具太宽泛和模糊，以至于我的大脑因“选项太多”而死机。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""hardlocks"" is a technical jargon that may not be widely understood by the general Chinese audience. It could be replaced with a more commonly understood term or explanation to ensure clarity.
+```"
+217,"There's... no way that would work, probably!",那……这绝对行不通，可能吧！,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The translation ""这绝对行不通，可能吧"" uses ""绝对"" (absolutely), which is more definitive and less uncertain than ""probably"" in the source text. This could confuse the target audience as it changes the tone from uncertainty to certainty, which is culturally inappropriate for the intended meaning.
+```"
+219,I was a voracious reader in my youth.,我年轻时是个贪婪的读者。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [Culture-specific Reference] - The term ""贪婪的读者"" (greedy reader) might not culturally convey the same positive connotation as ""voracious reader"" in English, potentially leading to misunderstanding among Chinese readers.
+```"
+228,"But if Spotify has a good quarter, they will.",但如果 Spotify 季度表现良好，他们会。,"```
+MQM annotations:
+audience appropriateness error:
+Major: CULTURE-SPECIFIC REFERENCE - The phrase ""他们会"" (they will) lacks context and could be confusing for the target audience. In Chinese, it is unclear what ""they will"" refers to without additional context, which might be more apparent in English due to cultural and linguistic differences.
+```"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,让他们重建全国那些被掏空和衰败的城市。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""让他们重建全国那些被掏空和衰败的城市"" does not fully capture the cultural nuance of ""Again"" in the source text, which implies a repeated action or frustration that may not be as strongly conveyed in the Chinese translation.
+```"
+235,These headlines and articles usually reference one CEO at one large company.,这些标题和文章通常提到一家大型公司的某位首席执行官。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation ""这些标题和文章通常提到一家大型公司的某位首席执行官。"" is culturally and linguistically appropriate for the target Chinese audience. There are no audience appropriateness errors present in the translation."
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,这都是标题党，但我确实担心那些阅读这些文章的高管和经理。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The term ""标题党"" (clickbait) may not be fully understood by all Chinese-speaking audiences, as it is a relatively new and informal term that might not be widely recognized outside of certain media-savvy circles.
+```"
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,它使人们能够避免耗时的通勤，从而节省时间，让他们有更多时间陪伴家人。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The translation uses the phrase ""节省时间，让他们有更多时间陪伴家人"" which translates to ""save time, allowing them more time to accompany their family."" While this is a direct translation, the concept of ""accompanying family"" might not fully capture the cultural nuance of ""spending quality time with family"" in a Chinese context, which could be more culturally appropriate.
+```"
+247,"""This is a war between the pro-humans and anti-humans,"" he said.",“这是人类支持者和反人类者之间的战争，”他说。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The terms ""pro-humans"" and ""anti-humans"" may not have the same cultural resonance or clarity in Chinese as they do in English. These terms could be perceived as unusual or unclear without additional context, which may detract from the cultural appropriateness of the text.
+```"
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,他还争辩说，新民主党和进步人士为了环境的缘故想要减少人口。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+Explanation: The translation from English to Chinese does not contain any audience appropriateness errors. The content is culturally and linguistically appropriate for the target audience, and there are no unusual or invalid references that would confuse or alienate the reader."
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,每当五月来临，我都害怕庆祝我的生日。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The phrase ""五月来临"" (when May arrives) is a direct translation of ""Whenever May would pop up,"" which may not fully capture the casual and somewhat negative connotation of ""pop up"" in the original English context. A more culturally nuanced expression could be used to convey the unexpected or unwelcome nature of May's arrival.
+```"
+258,Winter is 30 days away in this little part of the Great Southern World.,冬天距离这个大南方世界的小地方还有30天。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The phrase ""大南方世界"" (Great Southern World) may not be a familiar or culturally relevant concept for Chinese audiences, potentially leading to confusion about the geographical or cultural context being referenced.
+```"
+261,"The rain is falling and whilst/while it is not frozen, you ain't going dancing in it!",雨正在下，虽然它没有结冰，但你不会在雨中跳舞！,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The use of ""你不会在雨中跳舞"" (you won't dance in the rain) may not resonate culturally with a Chinese audience as it does in English, where it can imply engaging in an activity despite adverse conditions. The cultural nuance of this expression may be lost.
+```"
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,你知道有什么高效的方法可以让一个网页组件对被添加或移除文档做出响应吗？,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation provided is culturally and linguistically appropriate for the target audience. There are no audience appropriateness errors in the translation."
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",我们创建一个独立的临时父级，在那里安装MO，并观察它变得独立（因此附加到其他地方）。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [Culture-specific Reference] - The term ""detached temp parent"" and ""MO"" may not be culturally or contextually clear to a Chinese audience without additional context or explanation.
+```"
+276,He's just absolutely ripped from tearing around my office twice a day.,他每天在我的办公室里跑两次，身材变得非常健美。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The phrase ""absolutely ripped"" is a colloquial expression in English that conveys someone being very muscular or fit. The translation ""身材变得非常健美"" captures the meaning but lacks the informal and emphatic tone of the original expression, which may not fully resonate with the target audience in the same cultural context.
+```"
+277,"I don't have a scale to weigh him, but he feels like he's well over a pound.",我没有秤来称他的重量，但感觉他已经超过一磅了。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The use of ""一磅"" (one pound) might not be as intuitive for a Chinese audience, as the metric system is more commonly used in China. A conversion to kilograms could be more culturally appropriate.
+```"
+278,It makes me so happy to see him thriving.,看到他兴旺发达让我很高兴。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The phrase ""兴旺发达"" is a culturally specific expression that may not fully capture the intended meaning of ""thriving"" in the context of personal growth or success, which could lead to a misunderstanding for a Chinese audience expecting a more personal or emotional expression.
+```"
+280,1) Slight modifications to the Hel's Fighters map layout.,对地狱战士地图布局进行轻微修改。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The translation uses ""地狱战士"" for ""Hel's Fighters,"" which may not be culturally appropriate or recognizable to the target audience. ""Hel"" could be a specific reference or name that is not directly translatable to ""地狱"" (hell) in Chinese, potentially leading to confusion or misinterpretation.
+```"
+286,"All collards, kale, chard is transplanted.",所有羽衣甘蓝、羽衣甘蓝、瑞士甜菜都已移植。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The translation repeats ""羽衣甘蓝"" (kale) twice, which may confuse the target audience. The original text refers to ""collards"" and ""kale"" as distinct items, but the translation does not differentiate between them. This could lead to misunderstanding as ""collards"" and ""kale"" are different types of leafy greens.
+```"
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,吉尔平的春豌豆已经开始长出来了，所以需要搭建支架。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The translation uses ""支架"" (scaffold or frame) which might not convey the specific cultural context of ""trellis"" used in gardening. A more culturally appropriate term could be used to better fit the Chinese audience's understanding of gardening structures.
+```"
+291,"Apple Maps comes default with iOS, and yet people would go out of their way to download and install Google Maps onto their iPhones.",苹果地图是iOS的默认应用，但人们仍然会特意下载并安装谷歌地图到他们的iPhone上。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation provided is culturally appropriate for the target audience. It accurately conveys the intended meaning without introducing any cultural misunderstandings or using inappropriate language for the Chinese-speaking audience."
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).",出于好奇，我保持开放的心态，在我的测试iPhone设备上比较Google地图和Apple地图的表现（我的日常设备是Android设备，所以我很少使用iPhone）。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The translation uses ""出于好奇，我保持开放的心态"" which is a direct translation of ""Curious, I kept an open mind."" While it is understandable, the phrase ""保持开放的心态"" might not be as commonly used in Chinese as it is in English, potentially making it feel slightly awkward or less natural to a Chinese audience.
+```"
+297,No idea.,不知道。,"```
+MQM annotations:
+Audience Appropriateness Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+Explanation: The translation of ""No idea."" to ""不知道。"" is culturally and linguistically appropriate for the target audience. There are no audience appropriateness errors present in this translation."
+300,Could it be that Google Search is integrated with Google Maps?,谷歌搜索是否与谷歌地图集成在一起？,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.",我倾向于不向最终用户发布垃圾产品，而苹果在2012年推出的Apple Maps时彻底搞砸了。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""royally fucked up"" is a colloquial and culturally specific expression in English that may not have the same impact or appropriateness in Chinese. The translation ""彻底搞砸了"" is a more neutral expression and loses the cultural nuance of the original.
+```"
+306,The house itself declines in value because it loses its condition and needs to be replaced.,房屋本身的价值下降，因为它的状况变差，需要更换。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation ""房屋本身的价值下降，因为它的状况变差，需要更换。"" does not contain any audience appropriateness errors. The content is culturally and linguistically appropriate for a Chinese-speaking audience, and there are no unusual or inappropriate references that could cause confusion or a sense of non-belonging."
+310,They're not stupid enough to sell the sell forever.,他们还不至于愚蠢到永远出售。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""出售"" (sell) in the translation may not fully capture the idiomatic expression ""sell the sell"" in the source text, which could confuse the target audience. The expression ""sell the sell"" implies a more nuanced meaning related to persuasion or marketing, which is not directly conveyed in the translation.
+```"
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,当你观看澳大利亚和美国的媒体频道时，土地可能有一天会被夺走，这似乎是不可思议的，但那是因为富人整天都在上面，确保你的思想以某种方式思考。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""土地可能有一天会被夺走"" (land may be taken away one day) could be interpreted differently in the Chinese cultural context, as land ownership and rights are perceived differently compared to Western contexts. This may cause confusion or misinterpretation for the target audience.
+```"
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.",向所有投资者致敬，祝贺你们的成功和梦想的实现。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""raise a toast"" is a culture-specific expression that may not have the same cultural resonance or commonality in Chinese culture as it does in English-speaking cultures. A more culturally neutral expression could be used to convey congratulations or celebration.
+```"
+322,Let us continue to work together towards creating a brighter future for all.,让我们继续携手共创更加光明的未来。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation ""让我们继续携手共创更加光明的未来。"" is culturally and linguistically appropriate for the intended Chinese audience. There are no audience appropriateness errors in terms of culture-specific references or wrong language variety."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,我常常对人类能如此自我贬低感到惊讶，同时又被大量关于真正残酷的证据所淹没。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""对人类能如此自我贬低感到惊讶"" (to be so down on oneself) may not fully convey the cultural nuance of self-criticism or self-deprecation as understood in the original English context. The translation could be adjusted to better reflect the cultural understanding of self-criticism in Chinese.
+```"
+327,We're all such messy critters.,我们都是如此混乱的小动物。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The term ""小动物"" (small animals) may not fully capture the informal and humorous tone of ""messy critters"" in English, which can be understood as a playful way to describe humans. The translation may not resonate as well with a Chinese audience in the same cultural context.
+```"
+332,"or ""Modal editors are useless today"" :morty:",或者“模式编辑器今天没用” :morty:,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of "":morty:"" as an emoji or reference may not be recognizable or culturally relevant to a Chinese audience without additional context. It could lead to confusion if the audience is not familiar with the character or its cultural significance.
+```"
+336,How would you share personal libraries?,你会如何分享个人图书馆？,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""个人图书馆"" (personal library) may not be a commonly understood concept in Chinese culture, as personal libraries are less common in Chinese households compared to Western contexts. A more culturally appropriate term or explanation might be needed for clarity.
+```"
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",还有一天，我一定要尝试空中高空高潮，也许不需要一个str。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""mile high orgasm"" is a culture-specific reference that may not be understood or culturally appropriate for a Chinese audience. It refers to a sexual experience on an airplane, which might not translate well culturally.
+```"
+342,I don't agree that #Mastodon is difficult to setup.,我不同意 #Mastodon 很难设置。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: CULTURE-SPECIFIC REFERENCE - The use of ""设置"" (setup) might be slightly less familiar to some Chinese audiences who might expect ""安装"" (install) when referring to setting up software or applications, although ""设置"" is still understandable.
+```"
+345,"I wish there was a ""who to follow"" recommendation somehow.",我希望能有一个“推荐关注”的功能。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation ""我希望能有一个“推荐关注”的功能。"" is appropriate for the target audience and does not contain any audience appropriateness errors. The phrase ""推荐关注"" effectively conveys the idea of a ""who to follow"" recommendation in a culturally and linguistically suitable manner for a Chinese-speaking audience."
+347,If you stick to the default web interface it doesn't look and feel good (imho).,如果你坚持使用默认的网页界面，它看起来和感觉都不好（仅代表个人意见）。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The use of ""仅代表个人意见"" (only represents personal opinion) is a direct translation of ""imho"" (in my humble opinion), which is an English internet slang. While it is understandable, it may not fully resonate culturally with a Chinese audience as ""imho"" does in English.
+```"
+352,Explanation: account for both sides of mutual influence,解释：考虑到相互影响的双方。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""相互影响的双方"" is a direct translation of ""both sides of mutual influence,"" which may sound slightly awkward or overly formal in Chinese. A more culturally appropriate expression could be used to convey the concept more naturally.
+```"
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.",即使他在市政厅上没有机会说出来，从现在到2024年11月，美国的每个人都会反复听到这些话。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""市政厅"" (town hall) may not fully convey the cultural context of a ""town hall meeting"" as understood in the American political context, which is a public meeting or event where politicians answer questions from the public. The translation might not fully capture the interactive and political nature of such events for a Chinese audience.
+```"
+366,Throwing everything you've got over the fence in response to GPT is not it.,把你所有的东西都扔过围栏来回应GPT并不是解决办法。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The metaphor ""throwing everything you've got over the fence"" may not be culturally understood in the Chinese context, as it is an idiomatic expression that doesn't have a direct equivalent in Chinese culture.
+```"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",如果我尝试计算我的一重复最大重量，我可能没有足够的重量来达到最大值，或者相反，这可能会严重伤害/杀死我。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [Culture-specific Reference] - The phrase ""一重复最大重量"" (one rep max) is a technical fitness term that may not be widely understood by the general Chinese audience without additional context or explanation.
+```"
+375,I swear burrata didn't exist five years ago,我发誓五年前根本没有布拉塔奶酪。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The term ""burrata"" may not be widely recognized by all Chinese audiences, as it is a specific type of Italian cheese that might not be commonly known in Chinese culture. However, the translation does not attempt to adapt or explain the term for the target audience.
+```"
+376,This is my personal Mandela effect thing.,这是我个人的曼德拉效应现象。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""Mandela effect"" is a culture-specific reference that may not be widely understood in the Chinese cultural context. It refers to a phenomenon where a large number of people remember something differently than how it occurred, named after Nelson Mandela due to a widespread false memory about his death. Without additional context or explanation, Chinese readers might not grasp the intended meaning.
+```"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,我从未见过谁的妈妈做过，也没有在聚会上被塞给过，也没有在任何人的调味或烘焙日中出现过。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [Culture-specific Reference] - The phrase ""调味或烘焙日"" (saucemaking or baking days) may not resonate culturally with the Chinese audience as it does in English. The concept of having specific days dedicated to these activities might not be as common or culturally relevant.
+```"
+380,It just appeared one day and suddenly it was available everywhere.,有一天它突然出现，然后到处都能买到。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The phrase ""到处都能买到"" translates to ""available everywhere,"" which is culturally appropriate and understandable. However, the translation could be slightly more tailored to the Chinese audience by using a more colloquial expression like ""随处可见"" to enhance cultural resonance.
+```"
+385,"This would be mainly for web browsing, occasional email, and some games.",这主要用于网页浏览、偶尔的电子邮件和一些游戏。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Wrong Language Variety - The translation uses simplified Chinese characters, which may not be appropriate if the intended audience is from a region that uses traditional Chinese characters, such as Taiwan or Hong Kong.
+```"
+387,"""A good game is only late until it ships.",好游戏只会迟到，直到它发货。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""好游戏只会迟到，直到它发货"" directly translates the English phrase but may not resonate culturally with a Chinese audience. The concept of a game being ""late until it ships"" is a metaphorical expression that may not be as commonly understood or used in Chinese, potentially leading to confusion.
+```"
+392,"""Or, as an industry catch phrase goes: A late game is only late until it ships.",或者，正如行业流行语所说：一款跳票的游戏只会在发售前跳票。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""跳票"" (meaning ""delayed"" or ""postponed"") is a slang term specific to the gaming community in Chinese-speaking regions. While it captures the meaning of a delayed game, it may not convey the same industry-specific nuance as the original English phrase ""A late game is only late until it ships,"" which is more widely recognized in the gaming industry globally.
+```"
+394,Is it so ephemeral then?,那么它是如此短暂吗？,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation ""那么它是如此短暂吗？"" is appropriate for the target audience in terms of cultural and linguistic context. There are no audience appropriateness errors present."
+397,"He carries it in his mouth proudly all over the house, and I just have to laugh inwardly.",他骄傲地把它叼在嘴里，满屋子走，我只能在心里偷笑。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""我只能在心里偷笑"" (I can only laugh inwardly) may not fully capture the cultural nuance of the English expression ""I just have to laugh inwardly,"" which implies a subtle amusement or irony that might not be as clearly conveyed in Chinese. However, the impact is minor as the overall meaning is still understandable.
+```"
+399,Have now done a full round trip on the new ICNG train.,现在已经乘坐新的ICNG列车完成了一次往返旅程。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The term ""ICNG"" is a specific train model that may not be familiar to a Chinese audience. Providing additional context or explanation could enhance understanding.
+```"
+400,I really like it.,我真的很喜欢。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation ""我真的很喜欢。"" is culturally and linguistically appropriate for the intended Chinese audience. There are no audience appropriateness errors present in this translation."
+402,There's areas that could use some polish.,有些地方需要润色。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+Explanation: The translation ""有些地方需要润色。"" is culturally and linguistically appropriate for a Chinese-speaking audience. The phrase ""需要润色"" effectively conveys the idea of needing some polish or refinement, which aligns well with the intended meaning of the source text. There are no audience appropriateness errors in this translation."
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",即缺乏足够的垃圾桶，也缺乏解释灯光颜色意义的标志。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: CULTURE-SPECIFIC REFERENCE - The translation ""解释灯光颜色意义的标志"" may not fully convey the cultural context of ""signs to explain the significance of the lighting colours"" as it lacks specificity about the cultural or contextual meaning of lighting colors, which might be important for the target audience.
+```"
+404,"Fix those minor issues, and then can we have more of these please?",修复那些小问题，然后我们可以多要一些吗？,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+Explanation: The translation ""修复那些小问题，然后我们可以多要一些吗？"" is culturally appropriate and does not contain any audience appropriateness errors. The language used is suitable for the target audience, and there are no culture-specific references or wrong language variety issues present."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,每位顾客限购一块，以确保每位排队的人都能买到一块。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation ""每位顾客限购一块，以确保每位排队的人都能买到一块。"" is culturally and linguistically appropriate for a Chinese audience. There are no audience appropriateness errors in this translation."
+407,"You can buy ONE of the boards listed above, not one of each.",您可以购买上面列出的其中一块板，而不是每种都买一块。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+Explanation: The translation ""您可以购买上面列出的其中一块板，而不是每种都买一块。"" is culturally and linguistically appropriate for a Chinese audience. There are no audience appropriateness errors present in the translation."
+409,Yesterday I had the best time with my friend and former rabbi colleague.,昨天我和我的朋友兼前拉比同事度过了最美好的时光。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""rabbi"" may not be as culturally familiar or relevant to a Chinese audience as it is in the English-speaking context. While ""拉比"" is a direct translation, the cultural significance and role of a rabbi might not be fully understood without additional context.
+```"
+410,We visited for a couple hours on my porch.,我们在我的门廊上待了几个小时。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The phrase ""在我的门廊上"" (on my porch) might not resonate culturally with Chinese audiences as porches are not a common architectural feature in many parts of China. A more culturally neutral term like ""在我家"" (at my home) could be more appropriate.
+```"
+412,We all have stories to tell.,我们都有故事要讲。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+Explanation: The translation ""我们都有故事要讲。"" is culturally and linguistically appropriate for a Chinese-speaking audience. There are no culture-specific references or language variety issues that would cause confusion or a sense of non-belonging for the intended audience."
+415,I quite like akkoma the software and the domain name I got for my instance.,我非常喜欢 Akkoma 这个软件和我为我的实例获得的域名。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: WRONG LANGUAGE VARIETY - The software name ""Akkoma"" should be in lowercase to match the original source text style, as it is not a proper noun or brand name that requires capitalization in this context.
+```"
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",但我觉得不知怎么地，我在这个情况下有点不太顺利，可以这么说。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""on the wrong foot"" is an English idiom that may not be directly understood in Chinese culture. While the translation attempts to convey the meaning, it lacks the cultural nuance of the original idiom.
+```"
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,Repnid在地表下挖掘隧道，你掉入了下面洞穴中沸腾的数百个Repnid身体之中。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Repnid"" is a fictional or specific reference that may not be culturally recognized or understood by the target audience without additional context.
+```"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",结局迅速，几对毒牙注入致命的毒液，迪斯克拉的空气污染了你的肺部。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""迪斯克拉"" (Dyskra) may not be culturally relevant or recognizable to the Chinese audience without additional context, potentially leading to confusion.
+[Minor]: None
+```"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八眼的Repnids似乎在注视着你，但它们没有向你移动，事实上，当你慢慢走向它们时，它们一动不动。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation provided does not contain any audience appropriateness errors. The content is culturally and linguistically appropriate for the target audience, and there are no unusual or invalid elements that would cause confusion or a sense of non-belonging."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.",你决定再次建立联系会很危险，于是返回飞行器，但这次经历清醒了你的头脑，自从你跳入未来以来，它一直处于混乱状态。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation provided is culturally appropriate for the target audience. The text does not contain any unusual, invalid, or inappropriate content for the intended Chinese audience. The translation accurately conveys the meaning and context of the original English text without introducing any cultural misunderstandings or confusion."
+437,I started a new shawl.,我开始了一条新的披肩。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [audience_appropriateness/error_subcategory] - None
+[Major]: [audience_appropriateness/error_subcategory] - None
+[Minor]: [audience_appropriateness/culture-specific reference] - The term ""披肩"" (shawl) is appropriate and understandable for the Chinese audience, and there are no cultural references in the source text that require adaptation.
+```"
+442,I am using a H hook with a similar double crochet pattern as I have done before.,我正在使用H钩和以前相似的长针图案。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""H钩"" (H hook) might not be familiar to a Chinese audience without a crochet background, as crochet hook sizes are often labeled differently in China. Providing additional context or explanation could improve understanding.
+```"
+448,The literature class hatred is even worse: I love to read.,文学课的仇恨更严重：我喜欢阅读。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The phrase ""class hatred"" in the context of a literature class may not translate well culturally into Chinese, as it might not carry the same connotations or be as commonly understood in the target culture. The translation could confuse the target audience regarding the intended tone or meaning.
+```"
+454,Humanity is out in 5 days.,人类将在5天后消失。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""人类将在5天后消失"" (Humanity will disappear in 5 days) might be interpreted as a literal prediction of extinction, which could be culturally alarming or inappropriate without context. The original English phrase ""Humanity is out in 5 days"" could imply a deadline or a metaphorical end rather than a literal disappearance.
+[Minor]: None
+```"
+456,What will people think of it?,人们会怎么想？,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation ""人们会怎么想？"" is culturally and linguistically appropriate for the target audience, with no audience appropriateness errors detected."
+463,Came home on my lunch break to see this sitting outside uwu.,午休时回家看到这个坐在外面uwu。,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The use of ""uwu"" may not be culturally appropriate or understood by the Chinese audience, as it is an emoticon primarily used in English-speaking internet culture to express a cute or affectionate reaction.
+```"
+464,Wish I could take it back to work with me to setup more.,希望我能把它带回去工作，设置更多。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The phrase ""设置更多"" (set up more) might not fully convey the intended meaning of ""setup more"" in a work context, which could involve more specific actions or tasks. It could be slightly confusing for the target audience if they expect a more detailed or specific action.
+```"
+466,So I finally watched #Heartstopper,所以我终于看了《心跳漏一拍》。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The translation of ""Heartstopper"" as 《心跳漏一拍》 may not resonate with the target audience as it is a direct translation of the title rather than the official or commonly recognized Chinese title of the show, which is 《心跳停停》. This could cause minor confusion or lack of recognition among the audience familiar with the show.
+```"
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",但重要的是不要为问题找借口，而是要解决它们，尤其是在生产中当你的主管需要更改时。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""主管"" in Chinese can be understood as ""supervisor"" or ""manager,"" which might not fully capture the nuance of ""lead"" in a production context. This could slightly detract from the cultural appropriateness if the audience is expecting a more specific role definition.
+```"
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.",好的批评是为了迅速纠正问题，并不是针对你的能力。,"```
+MQM annotations:
+audience appropriateness error:
+Minor: style/awkward - The translation ""好的批评是为了迅速纠正问题，并不是针对你的能力。"" is generally appropriate but could be slightly more culturally tailored by using a more contextually fitting term for ""批评"" such as ""反馈"" (feedback), which might be perceived as less harsh and more constructive in Chinese cultural context.
+```"
+485,These roots are hidden.,这些根是隐藏的。,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation ""这些根是隐藏的。"" is culturally and linguistically appropriate for a Chinese-speaking audience, and there are no audience appropriateness errors in this translation."
+486,Work is not visible.,工作不可见。,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""工作不可见"" may be interpreted literally as ""work is invisible,"" which could be confusing without additional context. It may not fully convey the intended meaning of ""Work is not visible"" in a cultural context where the concept of visibility in terms of work output or progress might need more explicit explanation.
+```"
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,他等到在铺位房间的黑暗中才拿出纸条，在透过遮光窗帘的光束中读了起来。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The term ""铺位房间"" (bunk room) might not be a familiar or culturally appropriate term for all Chinese audiences, as it is more commonly associated with military or specific institutional settings. A more general term like ""卧室"" (bedroom) could be more universally understood.
+```"
+495,I've met some marvelous new #Mastodon mates lately and want to maintain the trend.,最近我认识了一些很棒的新的 #Mastodon 朋友，并希望保持这种趋势。,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The use of ""mates"" in the source text has a casual and friendly connotation that may not be fully captured by the translation ""朋友"" (friends) in Chinese. While ""朋友"" is correct, it lacks the informal and close-knit nuance that ""mates"" implies in English-speaking cultures.
+```"

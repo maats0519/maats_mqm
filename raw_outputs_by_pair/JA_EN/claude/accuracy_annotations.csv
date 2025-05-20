@@ -1,0 +1,620 @@
+index,original,translated,accuracy_annotation
+1,助成金ツアー・県民割旅行ならクラブツーリズム！,"Club Tourism! Subsidy tour, prefectural discount travel.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Subsidy tour, prefectural discount travel"" does not fully capture the meaning of the source text ""助成金ツアー・県民割旅行"", which refers to a specific type of tour or travel package that involves government subsidies or discounts for local residents.
+[Minor]: none"
+2,各都道府県毎の助成を活用したツアーをご紹介。,"Here is the translation from Japanese to English:
+
+We introduce tour packages that utilize subsidies from each prefecture.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Here is the translation from Japanese to English: We introduce tour packages that utilize subsidies from each prefecture"" does not fully capture the meaning of the source text ""各都道府県毎の助成を活用したツアーをご紹介。"", which is more accurately translated as ""We introduce tour packages that utilize subsidies from each prefecture.""
+
+[Minor]: none"
+6,【比較表】薬剤師転職サイト - 一覧比較表でおすすめ紹介,[Comparison Table] Pharmacist Job Posting Sites - Recommended Introduction with Comparison Table,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Recommended Introduction with Comparison Table"" does not fully capture the meaning of the source text ""Comparison Table - Recommended Introduction with Comparison Table"".
+[Minor]: [accuracy/addition] - The addition of ""Job Posting Sites"" is not present in the source text."
+7,《2022年最新版》薬剤師転職サイトランキング。,The latest 2022 ranking of pharmacist job search websites.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source Japanese text. There are no significant accuracy errors."
+14,初めてのフリーランスで不安な集客や確定申告サポートもご用意しています。,We offer support for anxious freelancers with client acquisition and tax filing for the first time.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""We offer support for anxious freelancers with client acquisition and tax filing for the first time"" does not fully reflect the meaning of the source text ""初めてのフリーランスで不安な集客や確定申告サポートもご用意しています."" The translation focuses on ""anxious freelancers"" and ""client acquisition and tax filing,"" while the source text is more general about providing support for first-time freelancers.
+[Minor]: no-error"
+16,ルミクス脱毛のサロン紹介サイト - 予約数ランキングTOP5,Lumix Hair Removal Salon Introduction Site - Top 5 Reservation Ranking,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Lumix Hair Removal Salon Introduction Site"" does not fully capture the meaning of the source text ""ルミクス脱毛のサロン紹介サイト"", which refers to a website introducing Lumix hair removal salons.
+[Minor]: accuracy/mistranslation - The translation ""Top 5 Reservation Ranking"" does not precisely reflect the meaning of the source text ""予約数ランキングTOP5"", which refers to the top 5 ranking of reservation numbers."
+18,早い 短期間 痛くない 熱くないSHR方式のルミクス脱毛サロン予約サイト,"Quick, short-term, painless, non-heating SHR method Lumix hair removal salon reservation site.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""Quick, short-term, painless, non-heating"" does not fully capture the meaning of ""早い 短期間 痛くない 熱くない"" which suggests the hair removal process is fast, short-term, painless, and non-heating.
+[Minor]: accuracy/addition - ""SHR method"" is added, which is not present in the source text.
+[Minor]: accuracy/addition - ""Lumix hair removal salon"" is added, which is not present in the source text."
+19,月々1760円からできる歯科矯正 - 【公式】ウィスマイル矯正,"Orthodontic treatment starting from 1,760 yen per month - [Official] Wismile Orthodontics","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Orthodontic treatment starting from 1,760 yen per month"" does not fully reflect the meaning of the source text, which states that the orthodontic treatment is ""from 1,760 yen per month"".
+
+[Minor]: no-error"
+20,【1760円から】低価格ではじめるならウィスマイル矯正。,"Orthodontic treatment with Wismile starts at a low price of 1,760 yen.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Orthodontic treatment with Wismile starts at a low price of 1,760 yen"" does not fully reflect the meaning of the source text, which states that Wismile orthodontic treatment starts at a low price of 1,760 yen.
+[Minor]: none"
+23,1650円のお試しコース受付中。,$16.50 trial course now available.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""$16.50"" does not precisely reflect the meaning of the source text ""1650円"", which is 1,650 Japanese yen, not $16.50."
+25,WEBから24時間予約受付中・格安マウスピース矯正・調整料0円。,"24-hour online reservation available, affordable mouthpiece orthodontics, adjustment fee free.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""affordable mouthpiece orthodontics"" does not fully capture the meaning of the source text ""格安マウスピース矯正"" which refers to affordable orthodontic treatment using a mouthpiece device.
+[Minor]: [accuracy/omission] - The translation omits the information about the ""24-hour online reservation available"" which is present in the source text."
+29,不動産のことなら連合隊 - 北見不動産連合隊,Unified real estate team - Kitami real estate unified team.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Unified real estate team - Kitami real estate unified team"" does not fully capture the meaning of the source text ""不動産のことなら連合隊 - 北見不動産連合隊"", which seems to be referring to a specific real estate organization or team called ""Kitami real estate unified team"".
+[Minor]: none"
+31,賃貸アパート、マンション、一戸建て。,"Rental apartment, condominium, detached house.","MQM annotations:
+Accuracy Errors
+[Minor]: None
+[Major]: None
+[Critical]: None
+
+The English translation accurately conveys the meaning of the Japanese source text. There are no accuracy errors identified."
+33,地元に密着・写真は最大30枚・無料の物件査定も実施中。,"Local area-focused, up to 30 photos, and free property appraisals are currently available.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The translation does not mention that ""free property appraisals are currently available"", which is present in the source text."
+36,お急ぎ便が使い放題。,Same-day delivery is available unlimited.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Same-day delivery is available unlimited"" does not accurately convey the meaning of the source text ""お急ぎ便が使い放題。"", which suggests that the same-day delivery service is available without any usage limits.
+
+[Minor]: none"
+40,ポイントが貯まる・スマホアプリあり・数億種の品揃え。,"Point accumulation, smartphone app available, over hundreds of millions of product selection.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Point accumulation, smartphone app available, over hundreds of millions of product selection"" does not fully capture the meaning of the source text ""ポイントが貯まる・スマホアプリあり・数億種の品揃え."" The translation does not convey the nuance that the product selection is in the millions, rather than hundreds of millions.
+[Minor]: no-error"
+45,あの人気漫画を今こそ一気読み。,"That popular manga, now is the time to read it all at once.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""now is the time to read it all at once"" does not fully capture the meaning of the source text ""あの人気漫画を今こそ一気読み"", which suggests that the reader should read the popular manga all at once, rather than implying that ""now is the time"" to do so."
+46,全作品試し読みアリ・買うよりお得。,"All works available for sample reading, more affordable than buying.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/addition - The translation includes the phrase ""more affordable than buying"", which is not present in the source text.
+[Minor]: no-error"
+50,クチコミ情報も満載です。,Word-of-mouth information is also full.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Word-of-mouth information is also full"" does not accurately reflect the meaning of the source text ""クチコミ情報も満載です"", which conveys that the information includes a lot of word-of-mouth reviews."
+51,タイムセールや限定プランも。,Time sale and limited plans.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds ""Time sale and limited plans"" which is not present in the source text ""タイムセールや限定プランも。""."
+52,自宅で簡単予約・ビジネスホテルが充実・プラン充実・会員登録でポイント貯まる。,"Easy reservation at home, well-equipped business hotels, abundant plans, and accumulate points with membership registration.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Easy reservation at home, well-equipped business hotels, abundant plans, and accumulate points with membership registration"" does not fully capture the nuance of the source text, which emphasizes the convenience of making reservations at home, the abundance of business hotel options, the variety of plans, and the ability to earn points through membership registration.
+[Minor]: none"
+54,端子台 貫通をこの価格で買える通販モノタロウ。,Terminal block through-hole can be purchased at the online store Monotaro at this price.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Terminal block through-hole can be purchased at the online store Monotaro at this price"" does not fully capture the meaning of the source text, which is that the terminal block with through-hole can be purchased at the online store Monotaro at this price.
+[Minor]: [accuracy/addition] - The translation adds the word ""online"" which is not present in the source text."
+56,端子台 貫通の通販。,Terminal block through-type online shopping.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Terminal block through-type online shopping"" does not accurately reflect the meaning of the source text ""端子台 貫通の通販。"", which refers to the online shopping of terminal blocks with through-type design.
+[Minor]: [accuracy/omission] - The translation omits the specific details about the ""through-type"" design of the terminal blocks, which is an important part of the source text."
+59,紀伊御坊駅の格安ホテル - 【じゃらん】公式サイト,Affordable hotels near Kii-Gobo Station - Official site of [Jalan],"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""Affordable hotels near Kii-Gobo Station"" does not fully reflect the meaning of the source text ""紀伊御坊駅の格安ホテル"", which is more specifically about affordable hotels near Kii-Gobo Station.
+[Minor]: accuracy/addition - The addition of ""[Jalan]"" in the translation is not present in the source text."
+62,【紀伊御坊駅】のホテル・旅館を予約するならじゃらん。,"Here is the translation:
+
+Book hotels and inns near Kii-Gobo Station on Jalan.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Book hotels and inns near Kii-Gobo Station on Jalan"" does not accurately reflect the meaning of the source text, which is about booking hotels and inns near Kii-Gobo Station on the Jalan website.
+[Minor]: none"
+63,じゃらん限定・格安プランも充実。,Abundant discounted plans exclusive to Jalan.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The translation adds the phrase ""exclusive to Jalan"" which is not present in the source text."
+64,会員登録でポイント貯まる・当日予約OKの宿多数・お得なクーポン配布中。,"Many accommodations where you can accumulate points by registering as a member, accept same-day reservations, and distribute discount coupons.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Many accommodations where you can accumulate points by registering as a member, accept same-day reservations, and distribute discount coupons"" does not fully capture the meaning of the source text, which emphasizes the availability of accommodations with these features, rather than just describing the features themselves."
+65,入力簡単60秒で無料査定依頼 - 路線価・地価の相場を調べるなら,"Easy input, free appraisal request in 60 seconds - If you want to check the market price and land price.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""free appraisal request in 60 seconds"" does not fully capture the meaning of the source text ""入力簡単60秒で無料査定依頼"", which conveys the idea of an easy input process to request a free appraisal.
+[Minor]: accuracy/addition - The translation ""If you want to check the market price and land price"" adds additional information that is not present in the source text ""路線価・地価の相場を調べるなら""."
+66,マンション・土地・一戸建ての無料売却査定が可能。,"Possible free real estate appraisal for condominiums, land, and detached houses.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Possible free real estate appraisal for condominiums, land, and detached houses"" does not fully capture the meaning of the source text ""マンション・土地・一戸建ての無料売却査定が可能。"", which indicates that free real estate appraisal is possible for condominiums, land, and detached houses.
+[Minor]: none"
+67,エリアから価格相場の把握ができます。,You can grasp the price range from the area.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""You can grasp the price range from the area"" does not fully capture the meaning of the source text ""エリアから価格相場の把握ができます"", which suggests that one can understand the price range or market price from the area, rather than just ""grasp the price range"".
+
+[Minor]: none"
+68,不動産売却のお悩みはプロが解決！,Real estate sale worries are solved by professionals!,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Real estate sale worries are solved by professionals!"" does not fully capture the meaning of the source text ""不動産売却のお悩みはプロが解決！"", which suggests that professionals can resolve the concerns or issues related to real estate sales, rather than just solving the worries.
+
+[Minor]: none"
+71,マンションの売却・査定・最適な売却プランをご提案・売主様へ安心サポート。,"Proposal of the optimal sales plan, assessment, and sale of the condominium. Providing peace of mind support to the seller.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Proposal of the optimal sales plan, assessment, and sale of the condominium"" does not fully capture the meaning of the source text, which is about proposing an optimal sales plan, assessing the condominium, and providing peace of mind support to the seller.
+[Minor]: accuracy/omission - The translation omits the part about ""providing peace of mind support to the seller"", which is an important aspect of the source text."
+75,ダイキン エアコン お客様 センター見つけましょう。,Daikin air conditioning customer center.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Daikin air conditioning customer center"" does not fully capture the meaning of the source text ""ダイキン エアコン お客様 センター見つけましょう"", which is more accurately translated as ""Let's find the Daikin air conditioning customer center.""
+[Minor]: [accuracy/omission] - The translation omits the phrase ""見つけましょう"" (let's find), which is an important part of the source text."
+78,来場予約キャンペーン実施中 - 都市型狭小3階建てモデルハウス,Come and visit campaign in progress - Urban compact 3-story model home.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Urban compact 3-story model home"" does not fully capture the meaning of the source text ""都市型狭小3階建てモデルハウス"", which refers to a ""compact 3-story urban model home"".
+[Minor]: none"
+83,ITツールを駆使し業務コストを削減し、リーズナブルな価格でのサービス提供を実現,Utilizing IT tools to reduce business costs and realize the provision of services at reasonable prices.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Utilizing IT tools to reduce business costs and realize the provision of services at reasonable prices"" does not fully capture the meaning of the source text, which is about using IT tools to reduce business costs and provide services at reasonable prices.
+[Minor]: none"
+92,どうしても今すぐお金が必要 - 【厳選3社】即日キャッシング,I need money urgently right now.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""I need money urgently right now"" does not fully convey the meaning of the source text ""どうしても今すぐお金が必要"", which implies a more urgent or desperate need for money.
+[Minor]: none"
+98,レストラン予約するなら一休.com、お店の口コミも掲載。,"Restaurant reservations can be made on Ikyu.com, which also features reviews of the establishments.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Restaurant reservations can be made on Ikyu.com, which also features reviews of the establishments"" does not fully reflect the meaning of the source text, which states that Ikyu.com is a website for making restaurant reservations and also features reviews of the establishments.
+[Minor]: none"
+102,幸せウエディングを叶える情報満載／結婚式準備はゼクシィ。,"""Information-packed for realizing a happy wedding / Prepare for your wedding with Zexy.""","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""prepare for your wedding with Zexy"" does not fully capture the meaning of the source text, which is ""information-packed for realizing a happy wedding"". The translation focuses more on the wedding preparation aspect rather than the information-packed nature of the content.
+[Minor]: none"
+107,ゴールドカードはメリットばかり！,Gold card is all benefits!,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Gold card is all benefits!"" does not fully capture the nuance of the source text, which suggests that the gold card has only benefits without any drawbacks.
+[Minor]: none
+
+The translation accurately conveys the overall meaning that the gold card has many benefits, but it does not reflect the emphasis on ""only benefits"" present in the source text."
+110,自宅用のホームルーターをお探しの方必見！,Home router for home use must-see!,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The phrase ""must-see!"" is added to the translation, which is not present in the source text.
+[Minor]: accuracy/mistranslation - The translation ""Home router for home use"" does not fully capture the meaning of the source text, which is ""Home router for home use must-see!""."
+112,置くだけで使えるWiFiも！,Plug-and-play WiFi too!,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation ""Plug-and-play WiFi too!"" adds the word ""too"" which is not present in the source text ""置くだけで使えるWiFiも！""."
+115,蒲田イン ソーシャル- トリップアドバイザー,Kamata Inn Social - TripAdvisor,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""Social"" in the translation does not accurately reflect the meaning of ""ソーシャル"" in the source text.
+[Minor]: accuracy/mistranslation - ""TripAdvisor"" in the translation does not fully capture the meaning of ""トリップアドバイザー"" in the source text."
+119,ショートが似合うか不安な方でもしっかりとカウンセリングして似合わせをいっしょに考えます。,"A person who is unsure if a short hairstyle would suit them can receive thorough counseling, and we will consider together what style would be most suitable.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""A person who is unsure if a short hairstyle would suit them can receive thorough counseling, and we will consider together what style would be most suitable"" does not fully capture the nuance of the source text, which suggests that even those who are unsure about a short hairstyle can receive counseling to determine what style would suit them best.
+[Minor]: none"
+124,ロハコ限定、くらしになじむデザインが多数。,"Rohaco limited, many designs that fit into your lifestyle.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Rohaco limited"" does not accurately reflect the meaning of the source text ""ロハコ限定"", which refers to a specific brand or product line.
+[Minor]: accuracy/mistranslation - The translation ""many designs that fit into your lifestyle"" does not fully capture the nuance of the source text ""くらしになじむデザインが多数"", which suggests that the designs are well-suited or harmonious with daily life."
+125,最短翌日お届け、PayPay決済対応。,"Next-day delivery, PayPay payment accepted.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation includes ""PayPay payment accepted"" which is not present in the source text."
+127,都心へのマルチアクセスを叶えるタワーレジデンス。,A tower residence that provides multi-access to the city center.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""A tower residence that provides multi-access to the city center"" does not fully capture the meaning of the source text ""都心へのマルチアクセスを叶えるタワーレジデンス"", which suggests that the tower residence provides multiple means of access to the city center.
+
+[Minor]: none"
+128,4路線利用できる‘目黒’駅に誕生。,"Meguro Station, where you can use 4 train lines, has been born.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""where you can use 4 train lines, has been born"" does not accurately reflect the meaning of the source text, which is about the Meguro Station being a station where you can use 4 train lines.
+
+[Minor]: none"
+129,野村不動産グループ×JR東日本グループ開発エリア【MEGURO MARC】の32階建タワー。,"Meguro Marc, a 32-story tower developed by the Nomura Real Estate Group and the JR East Japan Group.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Meguro Marc, a 32-story tower developed by the Nomura Real Estate Group and the JR East Japan Group"" does not fully capture the meaning of the source text, which mentions that the development area is ""【MEGURO MARC】"".
+[Minor]: none"
+132,続くから変われる、人生を変える英会話の力をあなたへ。,"Your life can change through the power of English conversation, because it continues to evolve.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Your life can change through the power of English conversation, because it continues to evolve"" does not fully capture the meaning of the source text, which suggests that one's life can change through the power of English conversation because it (the conversation) continues to evolve.
+[Minor]: accuracy/addition - The translation adds the phrase ""because it continues to evolve"", which is not explicitly present in the source text."
+136,クラウド電話を1内線200円から - 【公式】サテライトオフィス,Cloud phone from 200 yen per extension.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Cloud phone from 200 yen per extension"" does not fully capture the meaning of the source text ""クラウド電話を1内線200円から"", which indicates that the cloud phone service starts from 200 yen per extension.
+[Minor]: no-error"
+145,glovesdepoを探すなら、日本最大級通販ショップ楽天市場。,"Rakuten Ichiba, Japan's largest online shopping mall, is where you can find glovesdepot.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Rakuten Ichiba, Japan's largest online shopping mall, is where you can find glovesdepot"" does not accurately reflect the meaning of the source text ""glovesdepoを探すなら、日本最大級通販ショップ楽天市場。"", which states that Rakuten Ichiba, Japan's largest online shopping mall, is where you can find glovesdepot.
+[Minor]: none"
+148,目黒 恵比寿 五反田エリアで顧問弁護士をお探しなら目黒国際法律事務所。,"Meguro, Ebisu, and Gotanda area, if you are looking for a legal counsel, Meguro International Law Office.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Meguro, Ebisu, and Gotanda area, if you are looking for a legal counsel, Meguro International Law Office"" does not fully capture the meaning of the source text, which is specifically mentioning the Meguro, Ebisu, and Gotanda area as the location where the Meguro International Law Office is located.
+[Minor]: [accuracy/addition] - The translation adds the phrase ""if you are looking for a legal counsel"" which is not explicitly stated in the source text.
+[Minor]: [accuracy/omission] - The translation omits the word ""顧問"" (legal counsel/advisor) from the source text."
+151,若手弁護士がフットワーク軽く迅速に対応します。,The young lawyer will respond quickly and nimbly.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The young lawyer will respond quickly and nimbly"" does not fully capture the nuance of the source text, which suggests that the young lawyer will respond in a lightweight and swift manner.
+[Minor]: none"
+152,20代～シニアまで申込める保険 - 【生命保険】はなさく生命,Life insurance for ages 20s to seniors - Hanasaku Life.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Life insurance for ages 20s to seniors - Hanasaku Life"" does not fully capture the meaning of the source text ""20代～シニアまで申込める保険 - 【生命保険】はなさく生命"", which indicates that the insurance product is available for people from their 20s to seniors, not just ""for ages 20s to seniors"".
+[Minor]: none"
+161,素肌が喜ぶ、FOOD(食べもの)から生まれた化粧品。,Skincare products born from FOOD.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the Japanese source text. There are no accuracy errors identified."
+162,食べてカラダにいいFOODをお肌にも！,"Eat foods that are good for your body, and also for your skin!","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds the word ""FOOD"" which is not present in the source text.
+[Minor]: [accuracy/mistranslation] - The translation uses the word ""skin"" instead of the more accurate ""body"" to refer to the meaning of the source text."
+164,特別セールやキャンペーンをお見逃しなく。,Don't miss out on special sales and campaigns.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds the phrase ""Don't miss out on"" which is not present in the source text."
+165,韓国で人気のスキンフード・韓国コスメのスキンフード・SKINFOOD公式通販。,Skinfood - popular Korean skincare brand. Official Skinfood online store.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""popular Korean skincare brand"" does not fully capture the meaning of the source text, which states that Skinfood is a ""popular brand in Korea"" and an ""official Skinfood online store"".
+[Minor]: none"
+166,【広島】ホットヨガTOP3 - 人気No1のホットヨガスタジオ,"Here is the translation from Japanese to English:
+
+【Hiroshima】Top 3 Hot Yoga - The most popular No. 1 Hot Yoga studio","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""The most popular No. 1 Hot Yoga studio"" does not fully reflect the meaning of the source text, which is a list of the top 3 hot yoga studios in Hiroshima.
+[Minor]: [accuracy/addition] - The addition of ""Here is the translation from Japanese to English:"" is not present in the source text."
+169,お得なキャンペーン中,Limited-time special offer.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The translation ""Limited-time special offer"" contains the additional word ""Limited-time"" which is not present in the source text ""お得なキャンペーン中""."
+175,活力サポートサプリ・テストフェン配合・スーパーマカ配合。,Vitality support supplement - containing TestoFen - containing Super Maca.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation includes ""containing TestoFen - containing Super Maca"", which is not explicitly stated in the source text."
+177,【東京23区】で一戸建て探しならオープンハウス。,Open House for detached house search in the 23 wards of Tokyo.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Open House for detached house search in the 23 wards of Tokyo"" does not fully capture the meaning of the source text, which is more specifically about using the ""Open House"" service to search for detached houses in the 23 wards of Tokyo.
+[Minor]: none"
+180,厳選した大泉学園の一戸建てを掲載中。,Detached houses in Oizumi Gakuen are now available for viewing.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Detached houses in Oizumi Gakuen are now available for viewing"" does not fully capture the meaning of the source text, which indicates that ""selected"" or ""carefully chosen"" detached houses in Oizumi Gakuen are being presented.
+[Minor]: none"
+186,宿泊&航空券をあんしん予約。,Secure reservation for accommodation and airline tickets.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The translation adds the word ""secure"" which is not present in the source text.
+[Minor]: accuracy/mistranslation - The translation uses ""accommodation"" instead of the more natural ""lodging"" or ""hotel"" to convey the meaning of ""宿泊"" in the source text."
+196,モテ髪ヘアカタログ・人気サロンをネット予約・ネット予約でポイントGet。,"Hair catalog for attracting attention, popular salon online reservation, get points by online reservation.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Hair catalog for attracting attention"" does not accurately reflect the meaning of the source text ""モテ髪ヘアカタログ"", which refers to a hair catalog for hairstyles that are attractive to others (i.e., ""popular hairstyles"").
+[Minor]: accuracy/addition - The phrase ""get points by online reservation"" is not present in the source text and does not improve the translation."
+198,クチコミ比較、最安値予約、現地払い。,"Word-for-word translation:
+Word-of-mouth comparison, lowest price reservation, on-site payment.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The phrase ""word-of-mouth comparison"" does not accurately convey the meaning of ""クチコミ比較"" (review/feedback comparison).
+[Minor]: [accuracy/mistranslation] - The phrase ""on-site payment"" does not precisely reflect the meaning of ""現地払い"" (payment on-site/at the location).
+[Minor]: [accuracy/omission] - The translation does not include the meaning of ""最安値予約"" (lowest price reservation)."
+204,全国のビューティーサロンの検索、空席確認、ネット予約。,"Beauty salon search, vacancy check, and online booking across Japan.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the Japanese source text. There are no significant accuracy errors."
+206,理想の照明がない… - 取扱いブランド数、日本最大級,"""There is no ideal lighting...""","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""There is no ideal lighting..."" does not fully capture the meaning of the source text, which states that the brand has the largest number of lighting products in Japan.
+[Minor]: accuracy/addition - The translation adds the phrase ""..."" which is not present in the source text."
+209,各種カード、ポイント還元・日本最大級2万点の品ぞろえ。,"A wide variety of cards, point redemption, and Japan's largest selection of over 20,000 items.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""A wide variety of cards, point redemption, and Japan's largest selection of over 20,000 items"" does not fully capture the meaning of the source text ""各種カード、ポイント還元・日本最大級2万点の品ぞろえ."" The source text emphasizes the large selection of over 20,000 items, which is not clearly conveyed in the translation.
+[Minor]: no-error"
+214,"【公式】ヴァージンクリニック - 全身医療脱毛5回88,000円／京都","Virgin Clinic - Full-body medical hair removal 5 times 88,000 yen / Kyoto","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Virgin Clinic"" does not accurately reflect the meaning of the source text ""【公式】ヴァージンクリニック"", which refers to the official clinic named ""Virgin Clinic"".
+[Minor]: [accuracy/mistranslation] - The translation ""Full-body medical hair removal 5 times 88,000 yen"" does not fully capture the nuance of the source text ""全身医療脱毛5回88,000円"", which specifies that the price is for 5 sessions of full-body medical hair removal."
+217,追加料金も0円で安心,"Additional fees are also 0 yen, so you can rest assured.","MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The translation ""Additional fees are also 0 yen, so you can rest assured"" accurately conveys the meaning of the source text ""追加料金も0円で安心"". There are no accuracy errors in this translation."
+218,幕張本郷 口コミ第1位の整体院 - 多くの専門家が絶賛する技術,"Makuhari Honcho, the No. 1 osteopathic clinic in word-of-mouth - Highly praised techniques by many experts.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""the No. 1 osteopathic clinic in word-of-mouth"" does not accurately reflect the meaning of the source text, which states that the clinic is ""the No. 1 in word-of-mouth"" rather than specifically an ""osteopathic clinic"".
+[Minor]: accuracy/addition - The translation ""Highly praised techniques by many experts"" adds the phrase ""by many experts"", which is not present in the source text."
+232,料金も時間も節約しよう。,Save on both cost and time.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation ""Save on both cost and time"" contains an additional word ""both"" that is not present in the source text ""料金も時間も節約しよう"".
+[Minor]: [accuracy/mistranslation] - The translation ""Save on both cost and time"" does not fully capture the nuance of the source text, which suggests saving on both cost and time, rather than just saving on them.
+[No Error]: No other accuracy errors identified."
+234,お気に入りの宿を特別料金で。,Your favorite accommodation at a special rate.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Your favorite accommodation at a special rate"" does not fully capture the meaning of the source text ""お気に入りの宿を特別料金で。"", which is more accurately translated as ""Your favorite accommodation at a special price.""
+
+[Minor]: none"
+238,自分で淹れたおいしい一杯を味わいながら、プロの技をマスター。,Savor a delicious cup that you brewed yourself while mastering the techniques of a professional.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Savor a delicious cup that you brewed yourself while mastering the techniques of a professional"" does not fully capture the meaning of the source text, which is about enjoying a delicious cup of coffee that you made yourself while also learning the techniques of a professional.
+[Minor]: none"
+244,25歳以下または対象期間内に引越した方でAirターミナル5を購入・契約し、開通後アンケート回答で,"25 years old or younger, or those who have moved within the target period, who have purchased or contracted for AirTerminal 5 and responded to the questionnaire after activation.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/omission - The translation omits the information about ""those who have moved within the target period"" from the source text.
+[Minor]: None"
+246,3層タイプのプリーツマスクで、オメガ形状のプリーツが大きく広がり、鼻や口を圧迫しにくく、呼吸しやすくなっています。,"The pleated mask is of a 3-layer type, with large, wide omega-shaped pleats that do not easily press against the nose or mouth, making it easy to breathe.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source Japanese text. There are no accuracy errors identified."
+248,10枚/袋×2袋で包装しており、持ち運び便利な仕様です。,"20 sheets per package, packaged for easy portability.","MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The translation adds ""per package"" which is not present in the source text.
+[Minor]: accuracy/mistranslation - The translation uses ""sheets"" instead of ""sheets/bag"" to describe the packaging quantity."
+249,ゴム紐は6mmの平ゴム形状なので、耳への当たりが柔らかく、よくある耳の痛みも軽減してくれます。,"The rubber band has a flat rubber shape of 6mm, so it is soft on the ears and can reduce the common ear pain.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""flat rubber shape of 6mm"" does not fully capture the meaning of the source text, which describes the rubber band as having a ""6mm flat rubber form"", indicating its physical shape and dimensions.
+[Minor]: no-error"
+263,※A4 5冊入の商品に掲載の画像は新しいパッケージの商品です。,The image shown is of the new package of the product that comes in a set of 5 A4-sized items.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The image shown is of the new package of the product that comes in a set of 5 A4-sized items"" does not fully reflect the meaning of the source text, which states that the image shown is of the new package, not the actual product.
+[Minor]: none"
+264,以前のパッケージ商品の用紙と仕様は同一です。,The paper and specifications of the previous packaged product are the same.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The paper and specifications of the previous packaged product are the same"" does not fully capture the meaning of the source text, which states that the paper and specifications are the same as the previous package.
+
+[Minor]: none"
+266,箱に記載されている注文コードと500枚入の包装紙記載の注文コードは異なります。,The order code printed on the box is different from the order code printed on the 500-sheet packaging paper.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The order code printed on the box is different from the order code printed on the 500-sheet packaging paper"" does not fully convey the meaning of the source text, which states that the order codes on the box and the 500-sheet packaging paper are different.
+[Minor]: none"
+267,(500枚入の1冊で販売するためです),"""It is for sale as a single volume containing 500 sheets.""","MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The translation adds the phrase ""for sale as a single volume"" which is not present in the source text."
+270,ブレーキライニングやブレーキドラムや機械部品等に付着したオイルやグリース等の汚れをきれいに落としブレーキ装置から発生する様々な粉塵を空気中に飛散させることなく、油脂類やカーボン等の汚れを素早くきれいに落とします。,"The dirt such as oil and grease attached to brake linings, brake drums, and mechanical parts is thoroughly removed, and the various dusts generated from the brake system are prevented from scattering into the air, quickly and cleanly removing oil, grease, and carbon deposits.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""the various dusts generated from the brake system are prevented from scattering into the air"" does not fully capture the meaning of the source text, which states that the method ""prevents the various dusts generated from the brake system from scattering into the air"".
+[Minor]: accuracy/addition - The translation ""quickly and cleanly removing oil, grease, and carbon deposits"" adds the phrase ""quickly and cleanly"" which is not present in the source text."
+271,又、オゾン層の破壊や環境汚染の原因となるフロン及びトリクロロエタンを一切含まない有機溶剤中毒予防規則適用外の洗浄剤です。,"It is a cleaning agent that is not subject to the Organic Solvent Poisoning Prevention Regulation, and does not contain any chlorofluorocarbons or trichloroethane, which are the causes of ozone layer depletion and environmental pollution.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""chlorofluorocarbons or trichloroethane"" does not fully capture the meaning of the source text ""フロン及びトリクロロエタン"", which refers to specific substances that are the causes of ozone layer depletion and environmental pollution.
+[Minor]: accuracy/addition - The phrase ""It is a cleaning agent that is not subject to the Organic Solvent Poisoning Prevention Regulation"" is not present in the source text and could be considered an addition."
+274,缶の逆さ使用OK。,Upside-down use of the can is okay.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The translation ""Upside-down use of the can is okay"" does not fully capture the nuance of the source text, which simply states that ""Upside-down use of the can is okay."""
+276,ニトリルゴム手袋 極薄 粉なし ブルー色 100枚入,"Nitrile rubber gloves, ultra-thin, powder-free, blue color, 100 pieces.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds ""pieces"" which is not present in the source text.
+[Minor]: [accuracy/mistranslation] - The translation uses ""ultra-thin"" instead of ""extremely thin"" to describe the nitrile rubber gloves."
+277,柔らかく手にピッタリフィットするので、長時間の細かな作業に適しています。,Fits snugly in the hand and is suitable for long periods of detailed work.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Fits snugly in the hand and is suitable for long periods of detailed work"" does not fully capture the nuance of the source text, which emphasizes the soft and comfortable fit of the object in the hand, making it suitable for long periods of detailed work.
+[Minor]: none"
+279,便利な左右兼用タイプのためムダなくお使いいただけます。,You can use it without waste as it is a convenient ambidextrous type.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The translation includes the phrase ""without waste"" which is not present in the source text."
+283,※体質によっては、かゆみ、かぶれ、発疹等をおこすことがあります。,"May cause itching, rash, or other skin irritations, depending on individual constitution.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""May cause itching, rash, or other skin irritations, depending on individual constitution"" does not fully capture the nuance of the source text, which suggests that skin irritations may occur depending on the individual's constitution.
+[Minor]: none"
+286,膨潤、浸透、老化することがあります。,"It may swell, penetrate, and age.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The translation ""It may swell, penetrate, and age"" does not fully capture the nuance of the source text, which indicates that the subject (likely referring to a material or substance) may swell, penetrate, and age."
+289,※爪先、刃物や尖ったもの等で傷をつけないよう注意してください。,"Be careful not to scratch yourself with your fingertips, sharp objects, or pointed items.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The translation omits ""※"" which indicates that the following text is a note or caution.
+[Minor]: accuracy/mistranslation - The translation ""sharp objects, or pointed items"" does not fully capture the nuance of ""刃物や尖ったもの等"" which refers more specifically to blades or sharp-edged tools."
+290,水漏れの原因になります。,The cause of water leakage.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The cause of water leakage"" does not fully capture the meaning of the source text ""水漏れの原因になります"", which suggests that the issue is the cause of water leakage, rather than just the leakage itself.
+[Minor]: none"
+295,サイズが一目瞭然のデザイン。,The design is self-evident in size.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""The design is self-evident in size"" does not fully capture the meaning of the source text ""サイズが一目瞭然のデザイン"", which suggests that the design's size is immediately apparent or obvious."
+299,※電池のアルカリ液が目に入ったときは失明などのおそれがあるので、すぐに多量のきれいな水で洗い流し、 医師の治療を受ける。,"If the alkaline battery liquid gets into the eyes, there is a risk of blindness, so immediately rinse with a large amount of clean water and receive medical treatment.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the Japanese source text. There are no accuracy errors identified."
+306,※この電池は充電式でないので、充電すると液漏れ、発熱、破裂のおそれがある。,"This battery is not rechargeable, so charging it may cause leakage, overheating, or explosion.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""charging it may cause leakage, overheating, or explosion"" does not fully reflect the meaning of the source text, which states that this battery is not rechargeable, so charging it may lead to those issues.
+[Minor]: none"
+315,着け具合も柔らかくフィット感のある軍手です。,It is a work glove that fits softly and comfortably.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""It is a work glove that fits softly and comfortably"" does not fully capture the nuance of the source text, which describes the glove as having a ""soft fit"" and a ""comfortable feel."""
+318,※回転体を伴う機械作業では、使用しないでください。,Do not use for machinery operations involving rotational bodies.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The translation does not mention that the machine operation should not involve rotational bodies, which is the key information conveyed in the source text."
+321,マスキングテープ 高品質 和紙基材,"Masking tape, high quality, Japanese paper-based.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds ""high quality"" which is not present in the source text.
+[Minor]: [accuracy/mistranslation] - The translation uses ""Japanese paper-based"" instead of the more accurate ""made of Japanese paper"" to describe the material of the masking tape."
+323,のり残りが少なくタテ裂けが起こりにくいです。,The nori (seaweed) residue is minimal and vertical tearing is less likely to occur.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The translation ""The nori (seaweed) residue is minimal and vertical tearing is less likely to occur"" does not fully capture the nuance of the source text, which suggests that the nori residue is minimal and vertical tearing is less likely to occur."
+324,※被着体、塗料の種類によっては貼り跡やのり残りが発生する場合がありますので、問題がないことを確かめてからご使用下さい。,"Please check that there are no issues before use, as adhesive residue or staining may occur depending on the surface and type of paint.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Please check that there are no issues before use, as adhesive residue or staining may occur depending on the surface and type of paint"" does not fully reflect the meaning of the source text, which is more specific about the potential for adhesive residue or staining depending on the surface and type of paint.
+[Minor]: no-error"
+329,※ティシューは水に溶けにくいため、水洗トイレには流さないでください。,"Please do not flush tissues down the water-flushing toilet, as they do not dissolve easily in water.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Please do not flush tissues down the water-flushing toilet, as they do not dissolve easily in water"" does not fully capture the meaning of the source text, which states that tissues do not dissolve easily in water and should not be flushed down the water-flushing toilet.
+[Minor]: none"
+331,※引火の原因になりますので、火気の近くに置かないでください。,Do not place it near open flames as it may cause ignition.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The translation does not include ""as it may cause ignition"", which is an important part of the meaning conveyed in the source text."
+334,プロユーザーにも安心してご使用いただける品質の、弱粘着タイプ養生テープです。,It is a low-tack masking tape that can be used with confidence by professional users as well.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""It is a low-tack masking tape that can be used with confidence by professional users as well"" does not fully capture the meaning of the source text, which states that the tape is of a quality that professional users can use it with confidence.
+[Minor]: none"
+339,手で簡単にカットできる養生用ポリエチレンクロステープで耐候性・耐水性に優れています。,The polyethylene cross tape for protection is easy to cut by hand and has excellent weather and water resistance.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source Japanese text. There are no accuracy errors identified."
+340,再はくり性が良好です。,Good repeatability.,"MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The translation ""Good repeatability"" accurately conveys the meaning of the source Japanese text ""再はくり性が良好です。"". There are no accuracy errors in this translation."
+341,※貼る対象物や使用環境によっては、粘着力等数値通りの値が出ない場合がございます。,"The adhesive strength and other values may not be as indicated, depending on the object to be attached and the usage environment.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""The adhesive strength and other values may not be as indicated"" does not fully reflect the meaning of the source text, which states that the adhesive strength and other values may not be as indicated, depending on the object to be attached and the usage environment.
+[Minor]: none"
+349,※養生後、テープを早く剥すと破断する恐れがありますので、ゆっくり剥してください。,Remove the tape slowly as there is a risk of tearing if removed too quickly.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Remove the tape slowly as there is a risk of tearing if removed too quickly"" does not fully capture the meaning of the source text, which is warning about the risk of the tape breaking if removed too quickly after the curing process.
+[Minor]: none"
+350,※粘着剤特有のにおいがありますので、換気の良い所でのご使用をお勧めします。,Please use the product in a well-ventilated area as it has a characteristic adhesive odor.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/addition - The translation includes the phrase ""Please use the product in a well-ventilated area"" which is not present in the source text and does not improve the translation.
+[Minor]: none"
+351,※被着体と養生期間によっては、被着体を汚染・損傷する場合がありますので、ご使用前にお確かめください。,"The surface to be applied and the curing period may cause contamination or damage to the surface, so please check before use.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The surface to be applied and the curing period may cause contamination or damage to the surface"" does not fully reflect the meaning of the source text, which indicates that the surface to be applied and the curing period ""may cause contamination or damage to the object being applied to"" (the ""被着体"" or ""surface to be applied to"").
+[Minor]: none"
+356,従来品に比べ耐候性がアップしました。,Weatherability has been improved compared to the conventional product.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation ""has been improved"" adds extra information not present in the source text ""アップしました"".
+[Minor]: [accuracy/mistranslation] - The translation ""Weatherability"" does not fully capture the meaning of the source text ""耐候性"", which refers to weather resistance or durability."
+360,保管する場合は密閉することを推奨します。,It is recommended to store in a sealed container.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds the word ""container"" which is not present in the source text."
+362,※一度ご使用された製品を再度ご使用にされることで、結束力不足により不具合が発生する可能性があります。,The product may malfunction due to insufficient cohesion if used again after initial use.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The product may malfunction due to insufficient cohesion if used again after initial use"" does not fully capture the meaning of the source text, which indicates that the product may malfunction if used again after the initial use due to insufficient cohesion.
+[Minor]: none"
+365,※取り付けの際には現車取り付け部に真っ直ぐ取り付け作業を行ってください。,Please install it straight onto the vehicle mounting part.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Please install it straight onto the vehicle mounting part"" does not fully capture the meaning of the source text, which specifies that the installation should be done ""straight"" on the vehicle mounting part.
+
+[Minor]: none
+
+The translation accurately conveys the overall meaning of the source text, but the nuance of ""straight"" installation is not fully captured."
+368,現在販売している商品は品質確認済になりますのでご安心してご使用下さい。,"The products currently on sale have undergone quality inspection, so please use them with confidence.","MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source Japanese text. There are no accuracy errors identified."
+369,※当製品は交換作業を整備業者へ依頼して行う事をおすすめします。,We recommend that the replacement work be entrusted to a maintenance service provider.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/addition - The translation adds ""we recommend"" which is not present in the source text.
+[Minor]: none"
+370,個人で交換作業を行った場合は補償出来ない場合もございます。,"In the event that the exchange work is carried out individually, there may be cases where compensation cannot be provided.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""In the event that the exchange work is carried out individually, there may be cases where compensation cannot be provided"" does not fully reflect the meaning of the source text, which states that individual exchange work may not be eligible for compensation.
+[Minor]: none"
+371,※ネジ寸法が各オイルフィルターで異なっている為、高さや外径などが同じフィルターに見えても取り付け前に再度、車種とネジ寸法をご確認ください。,"The screw dimensions vary for each oil filter, so even if the height and outer diameter appear to be the same as the filter, please reconfirm the vehicle model and screw dimensions before installation.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""please reconfirm the vehicle model and screw dimensions before installation"" does not fully reflect the meaning of the source text, which is that the screw dimensions vary for each oil filter, so even if the height and outer diameter appear to be the same, the user should reconfirm the vehicle model and screw dimensions before installation.
+[Minor]: none"
+373,※わずかな違いでも大きなトラブルになる場合がございます。,There may be cases where even a slight difference can lead to a major problem.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""There may be cases where even a slight difference can lead to a major problem"" does not fully capture the nuance of the source text, which suggests that even minor differences can potentially lead to significant issues.
+[Minor]: none"
+378,白メリヤスウエス 中古生地,"White knitted fabric, used.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The translation ""used"" does not fully capture the meaning of ""中古生地"" which refers to ""secondhand/pre-owned fabric""."
+380,ウエス製品の中で優れた製品です。,It is an excellent product among Ues products.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""It is an excellent product among Ues products"" does not fully capture the meaning of the source text, which states that the product is excellent among Ues products."
+382,カット済。,Cut.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/omission] - The translation ""Cut"" does not fully convey the meaning of the source text ""カット済。"" which indicates that the cutting has been completed."
+390,※用途以外に使用しないでください。,Do not use for purposes other than intended.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/omission] - The translation omits ""以外"" (other than) from the source text, which slightly reduces the precision of the meaning."
+393,ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,Avoid using chemical products as they may cause color fading.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Avoid using chemical products as they may cause color fading"" does not fully reflect the meaning of the source text, which states that there is a possibility of color fading when in contact with chemical products, and therefore advises to avoid using chemical products.
+[Minor]: none"
+395,食品に触れる用途には使用しないでください。,Do not use for applications that come into contact with food.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/omission] - The translation omits ""用途"" (applications) from the source text."
+398,※ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,Please avoid using chemical products as they may cause color fading.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Please avoid using chemical products as they may cause color fading"" does not fully capture the meaning of the source text, which warns that chemical products may cause color fading and therefore should be avoided.
+[Minor]: none"
+399,ハンドクリーナー 工業用 オレンジエキス保湿成分配合 スクラブ入り,"Hand cleaner, industrial, with orange extract moisturizing ingredients, with scrub.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""with orange extract moisturizing ingredients"" does not fully capture the meaning of the source text ""オレンジエキス保湿成分配合"", which indicates that the product contains orange extract as a moisturizing ingredient.
+[Minor]: [accuracy/addition] - The translation ""with scrub"" adds additional information that is not present in the source text ""スクラブ入り""."
+409,異物感が残る場合は、眼科医にご相談ください。,"If you continue to feel a foreign body sensation, please consult an ophthalmologist.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The phrase ""please consult an ophthalmologist"" is added, which is not present in the source text, but it does not significantly change the meaning."
+421,※使用後の本製品の廃棄は、お住まいの各自治体で定められたゴミ廃棄方法に従ってください。,Please dispose of this product after use according to the waste disposal methods specified by your local municipality.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/omission] - The translation omits the phrase ""お住まいの各自治体で定められた"" (specified by your local municipality), which is an important detail about the waste disposal methods.
+[Minor]: none"
+422,※袋を閉じる際は結束バンドでしっかり結んでください。,Please securely tie the bag closed with a cable tie.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Please securely tie the bag closed with a cable tie"" does not precisely reflect the meaning of the source text ""※袋を閉じる際は結束バンドでしっかり結んでください。"", which asks the reader to securely tie the bag closed using a tie band, not specifically a cable tie.
+[Minor]: none"
+428,※本来の用途以外には使用しないでください。,Do not use for purposes other than the original intended use.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The translation does not include ""※本来の用途以外には使用しないでください."" which is an important part of the source text."
+434,※フタが開けにくい際はフタを少し潰す様に押すと開けやすくなります。,The lid can be opened more easily by pressing it down slightly as if flattening it.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The lid can be opened more easily by pressing it down slightly as if flattening it"" does not fully capture the meaning of the source text, which suggests pressing the lid down slightly to make it easier to open, rather than flattening it."
+435,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"When disposing of the contents, cleaning waste liquid, or containers, please entrust it to a specialized waste disposal company that has obtained permission from the prefectural government.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The translation omits ""please"" from the source text, which is an important part of the request.
+[Minor]: no-error"
+438,透明度があり加工後も封入物の文字をクッキリ読めます。,"The text translates to:
+
+""It has transparency and the text of the encapsulated material can be clearly read even after processing.""","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""It has transparency and the text of the encapsulated material can be clearly read even after processing"" does not fully capture the meaning of the source text, which states that the material has transparency and the text of the encapsulated material can be clearly read even after processing.
+[Minor]: none"
+439,※機器には接着加工してあるシール部分から挿入してください。,Please insert from the adhesive-processed seal portion of the device.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The translation does not mention the ""adhesive-processed seal portion"" of the device, which is an important detail from the source text.
+[Minor]: no-error"
+443,※一度加工したシートは再生不能となります。,The sheet once processed becomes irreparable.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The sheet once processed becomes irreparable"" does not fully convey the meaning of the source text, which indicates that a sheet that has been processed cannot be reused or regenerated.
+[Minor]: none"
+450,※工業用の薬品やアルコール、石油製品などには絶対に使用しないで下さい。,"Do not use for industrial chemicals, alcohol, petroleum products, or the like.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Do not use for industrial chemicals, alcohol, petroleum products, or the like"" does not fully capture the meaning of the source text, which explicitly states ""Do not use at all for industrial chemicals, alcohol, petroleum products, and the like.""
+[Minor]: none"
+451,※熱湯は入れないで下さい。,Do not pour in hot water.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/omission - The translation does not include the phrase ""Do not"" which is present in the source text."
+455,中身が漏れる恐れがございます。,The contents may leak.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The contents may leak"" does not fully capture the nuance of the source text, which expresses a concern about the possibility of leakage."
+459,店頭でフックなどに吊り下げることができる便利な穴付きです。,It has a convenient hole that can be hung on hooks or the like at the store counter.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""It has a convenient hole that can be hung on hooks or the like at the store counter"" does not fully capture the meaning of the source text, which is about the item having a hole that allows it to be hung on hooks or similar at the store counter.
+[Minor]: none"
+460,フック用穴と本体の間はミシン目入りなので、フックに掛けて本体を引っ張れば穴の下から切れて使える構造になっています。,"The space between the hook hole and the main body is perforated, so you can hook it and pull the main body to cut it from the bottom of the hole, making it usable.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""you can hook it and pull the main body to cut it from the bottom of the hole, making it usable"" does not fully capture the meaning of the source text, which describes the perforated space between the hook hole and the main body that allows the main body to be pulled and separated from the bottom of the hole.
+[Minor]: no-error"
+461,表面にエンボス加工入り。,Embossed surface.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation ""Embossed surface"" contains the additional word ""Embossed"" which is not present in the source text ""表面にエンボス加工入り""."
+464,※幼児や子供がかぶって遊ぶと窒息などの危険がありますのでご注意ください。,Please be careful as there is a risk of suffocation if infants or children play by putting it over their heads.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source Japanese text. There are no accuracy errors identified."
+465,※高温多湿を避け、火の気のない場所で保管してください。,"Keep in the place away from high temperature and high humidity, and away from fire.","MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The translation adds ""and away from fire"" which is not present in the source text."
+481,OPPテープ 透明色,Transparent color OPP tape.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The translation ""Transparent color OPP tape"" does not fully capture the meaning of the source text ""OPPテープ 透明色"" which refers to a ""Transparent OPP (Oriented Polypropylene) tape""."
+482,梱包用テープとして、価格も安く強度も強い為、良く使われています。,Packing tape is widely used because it is inexpensive and has high strength.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Packing tape is widely used because it is inexpensive and has high strength"" does not fully capture the nuance of the source text, which states that packing tape is ""widely used"" specifically because it is ""inexpensive and has high strength"".
+
+[Minor]: none"
+487,※梱包用途以外の使用は避けてください。,Please avoid using for purposes other than packaging.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The phrase ""for packaging purposes"" is added, which is not present in the source text."
+488,貼る面を損傷する場合がございます。,May cause damage to the surface to be applied.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""May cause damage to the surface to be applied"" does not fully capture the meaning of the source text, which suggests that the surface being applied to may be damaged.
+[Minor]: none"
+492,※物性は測定値であり、規格値或いは保証値でありません。,The physical properties are measured values and not specification values or guaranteed values.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The translation includes the phrase ""or guaranteed values"", which is not present in the source text."
+499,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"When disposing of the contents, cleaning waste liquid, or containers, please entrust it to a specialized waste disposal company that has obtained permission from the prefectural government.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The source text mentions that the contents, cleaning waste liquid, or containers should be entrusted to a specialized waste disposal company that has obtained permission from the prefectural government, but this important detail is missing in the translation.
+[Minor]: no-error"

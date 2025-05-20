@@ -1,0 +1,580 @@
+index,original,translated,accuracy_annotation
+0,The hacked up version of Jedi Knight was crashing because it was calling a function off the end of a vtable.,"Взломанная версия Jedi Knight падала, потому что она вызывала функцию за пределами vtable.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""за пределами vtable"" does not precisely reflect the meaning of ""off the end of a vtable"" in the source text.
+[Minor]: none"
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,"Но это не является универсально верным; для этих случаев имеет значение, какой интерфейс вы используете для создания объекта в вопросе.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""для этих случаев имеет значение, какой интерфейс вы используете для создания объекта в вопросе"" does not fully capture the meaning of the source text ""for those cases it matters what interface you are using to create the object in question."" The translation is more literal and does not convey the nuance of the original.
+[Minor]: none"
+5,"So anyway, since it does hold true here, to fix it I had to extend my viewport implementation to contain the IDirect3DViewport3 methods so that the call to the new one was valid.","Так или иначе, поскольку это действительно верно здесь, чтобы исправить это, мне пришлось расширить реализацию моего viewport до включения методов IDirect3DViewport3, чтобы вызов к новому был действителен.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""чтобы вызов к новому был действителен"" does not accurately reflect the meaning of the source text ""so that the call to the new one was valid"". The translation suggests that the call to the new method was valid, while the source indicates that the implementation of the viewport needed to be extended to include the IDirect3DViewport3 methods in order for the call to the new one to be valid.
+[Minor]: [accuracy/addition] - The phrase ""так или иначе"" is added in the translation, which is not present in the source text."
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","Предположим, что наука, по крайней мере частично, состоит из списков объективно фактических утверждений о мире, истинных независимо от любой теории, которую они могут поддерживать.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The Russian translation accurately conveys the meaning of the English source text. There are no significant accuracy errors."
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","Эксперименты не создают фактов в этом чтении, но выбор, какие эксперименты проводить, контролирует, какие факты будут обнаружены.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""создают"" (create) does not accurately reflect the meaning of the source text ""don't create"", which indicates that the experiments do not create the facts, but rather control which facts are discovered.
+[Minor]: none"
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,"Это очень краткий набросок правдоподобного аргумента, что теории капитализма, влияющие на фактическое содержание науки, согласуются с теориями, утверждающими существование объективных научных фактов.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""теории, утверждающие существование объективных научных фактов"" does not fully capture the meaning of the source text ""theories asserting the existence of objective scientific facts"". The translation is more literal and does not convey the nuance of the original.
+[Minor]: [accuracy/addition] - The translation ""правдоподобного аргумента"" adds the word ""правдоподобного"" (plausible) which is not present in the source text.
+[Minor]: [accuracy/addition] - The translation ""фактическое содержание науки"" adds the word ""фактическое"" (actual) which is not present in the source text."
+13,Going to be my first project car.,Это будет моим первым проектным автомобилем.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Это будет моим первым проектным автомобилем"" does not precisely reflect the meaning of the source text ""Going to be my first project car."" The translation uses the word ""проектным"" (project) which does not accurately convey the meaning of ""project car"" in the source.
+[Minor]: none"
+16,Already on coil overs and lowered ride height.,Уже на пружинных амортизаторах и с пониженной высотой подвески.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""пружинных амортизаторов"" (coil springs) does not precisely reflect the meaning of ""coil overs"" in the source text, which refers to a specific type of suspension system."
+20,#Venting into the Fediverse time.,#Выпускание пара в Федиверсум.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Выпускание пара в Федиверсум"" does not accurately convey the meaning of the source text ""#Venting into the Fediverse time."" The Russian translation focuses on the idea of ""releasing steam/venting"" rather than the specific context of ""venting into the Fediverse."""
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","Когда мы пошли на кассу, кассир - довольно очевидная #trans женщина.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""довольно очевидная #trans женщина"" does not fully capture the meaning of the source text ""a fairly obvious #trans woman"". The translation focuses more on the obviousness of the person's transgender identity, rather than the neutral observation of the cashier's transgender status.
+[Minor]: none"
+24,Her body immediately stiffened and there was this look of fear in her eyes.,"Её тело сразу же окаменело, и в её глазах появился страх.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""окаменело"" (petrified) does not fully capture the meaning of ""stiffened"" in the source text.
+[Minor]: none"
+25,And then we just... paid for our stuff.,И тогда мы просто... заплатили за наши вещи.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The Russian translation ""заплатили за наши вещи"" (paid for our things) does not fully capture the nuance of the English ""paid for our stuff"", which has a more casual and informal tone."
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,"Улыбка облегчения на ее лице была великим чувством, но тот факт, что она сначала испугалась, ЧЕРТОВСКИ ОТСТОЙ И Я НЕНАВИЖУ ЭТО.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The phrase ""ЧЕРТОВСКИ ОТСТОЙ И Я НЕНАВИЖУ ЭТО"" does not fully capture the meaning of the source text ""the fact that she was scared first FUCKING SUCKS AND I HATE IT."" The Russian translation is more direct and expressive compared to the source.
+[Minor]: no-error"
+32,But he can't pardon himself out of state prison.,Но он не может помиловать себя из государственной тюрьмы.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Но он не может помиловать себя из государственной тюрьмы."" does not fully convey the meaning of the source text ""But he can't pardon himself out of state prison."" The translation focuses on the concept of pardon, while the source text is about the inability to pardon oneself from state prison."
+33,It takes the state's governor.,Это занимает у губернатора штата.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Это занимает у губернатора штата"" does not accurately convey the meaning of the source text ""It takes the state's governor."" The translation suggests that the governor takes or occupies something, while the source text indicates that something (unspecified) takes the governor's time or effort.
+[Minor]: none"
+36,NY is the best hope for accountability,Нью-Йорк - лучшая надежда на подотчетность.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Нью-Йорк - лучшая надежда на подотчетность"" does not fully capture the meaning of the source text ""NY is the best hope for accountability"". The translation focuses on ""accountability"" rather than ""hope"", which is a key part of the source meaning.
+[Minor]: none"
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,"Существует значительное свидетельство того, что реальное общение не может быть сведено к отправке сигналов с контекстно-независимым значением.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Существует значительное свидетельство того, что реальное общение не может быть сведено к отправке сигналов с контекстно-независимым значением"" does not fully capture the meaning of the source text ""There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.""
+[Minor]: none"
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","В то же время мы изучаем экологические условия и когнитивные возможности, которые позволяют контекстуальную дезамбигуацию значений символов.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""контекстуальная дезамбигуация значений символов"" does not precisely reflect the meaning of the source text ""contextual disambiguation of symbol meanings"". The translation uses the term ""контекстуальная дезамбигуация"" which is not a common or natural way to express the concept of ""contextual disambiguation"" in Russian.
+[Minor]: accuracy/addition - The translation includes the word ""значений"" (meanings) which is not present in the source text."
+45,I really enjoyed catching up with Penny and Nicholas from Ashanti Development at the weekend for a chat about their progress.,"Я действительно наслаждался встречей с Пенни и Николасом из Ashanti Development на выходных, чтобы поговорить об их прогрессе.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""наслаждался встречей"" (enjoyed the meeting) does not precisely reflect the meaning of the source text ""catching up with"" which implies a more casual, conversational context.
+[Minor]: [accuracy/addition] - The translation ""на выходных"" (on the weekend) adds information that is not present in the source text."
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,"Я был достаточно удачлив, чтобы провести незабываемые шесть месяцев рядом с Николасом в 2011 году, поддерживая ряд проектов.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""незабываемые шесть месяцев"" (unforgettable six months) does not precisely reflect the meaning of the source text ""a memorable six months"".
+[Minor]: [accuracy/addition] - The addition of ""рядом с Николасом"" (alongside Nicholas) is not present in the source text, but it does not significantly change the meaning."
+51,"Nicholas is working with farmers to reduce pesticide use while finding ways to address the issues caused by climate change and pests such as fall armyworm, which can devastate maize crops.","Николай работает с фермерами, чтобы сократить использование пестицидов, одновременно находя способы решения проблем, вызванных изменением климата и вредителями, такими как осенний армейский червь, который может опустошить посевы кукурузы.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Николай"" does not accurately reflect the meaning of the source text ""Nicholas"", which refers to the same person.
+[Minor]: [accuracy/addition] - The translation includes the phrase ""одновременно находя способы решения проблем"", which is not present in the source text and does not significantly improve the translation."
+53,The UPS store near me won't allow me to write a label or write on the box.,Магазин UPS рядом со мной не позволяет мне написать этикетку или написать на коробке.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""Магазин UPS"" does not accurately reflect the meaning of ""The UPS store"" in the source text. The translation should be more specific to convey the meaning of a UPS retail store location.
+[Minor]: accuracy/mistranslation - ""не позволяет мне написать этикетку или написать на коробке"" does not fully capture the nuance of ""won't allow me to write a label or write on the box"" in the source text. The translation could be more precise.
+[Minor]: accuracy/omission - The source text mentions ""near me"", which is not reflected in the Russian translation."
+55,They won't allow me to tell them the address it's going to and who is shipping it.,"Они не позволят мне сообщить им адрес, куда это отправляется, и кто это отправляет.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Они не позволят мне сообщить им адрес, куда это отправляется, и кто это отправляет"" does not fully reflect the meaning of the source text ""They won't allow me to tell them the address it's going to and who is shipping it."" The translation misses the nuance that the sender is not allowed to disclose the information.
+[Minor]: no-error"
+57,"And they always to charge me $2.25 for that ""convenience"".","И они всегда взимают с меня $2,25 за это ""удобство"".","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""И они всегда взимают с меня $2,25 за это 'удобство'"" does not fully reflect the meaning of the source text ""And they always to charge me $2.25 for that 'convenience'"". The translation uses the word ""взимают"" (to charge/levy) which is not a precise equivalent for ""to charge"" in the source.
+[Minor]: no-error"
+64,The ratings--seeking delusional irresponsibility of it all.,"Рейтинг-ищущая, бредовая безответственность всего этого.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The Russian translation ""Рейтинг-ищущая, бредовая безответственность всего этого"" does not fully capture the meaning of the English source ""The ratings--seeking delusional irresponsibility of it all."" The Russian translation focuses more on the ""ratings-seeking"" aspect, while the English source emphasizes the ""delusional irresponsibility"" of the situation.
+[Minor]: [accuracy/addition] - The Russian translation adds the word ""всего"" (of it all), which is not present in the English source."
+65,It can't be repeated.,Это не может быть повторено.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Это не может быть повторено"" does not fully capture the meaning of the source text ""It can't be repeated."" The Russian translation suggests that the action cannot be repeated, while the English source implies that the content or information cannot be repeated."
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","У меня очень сквозной подвал, что, по сути, означает, что я могу получить много грызунов, ищущих убежища.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""сквозной"" (drafty) is not accurately translated as ""very drafty"", which changes the meaning.
+[Minor]: accuracy/addition - ""по сути"" (essentially) is added without a clear equivalent in the source text."
+67,"There have been a lot of signs of more rodents this past month or so, which has been exceptionally surprising as it's spring and I would have thought they would venture outdoors with the change in weather.","Было много признаков большего количества грызунов в течение последнего месяца или около того, что было исключительно удивительно, так как это весна, и я думал, что они будут выходить на улицу с изменением погоды.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""было много признаков большего количества грызунов"" does not fully capture the meaning of the source text, which indicates that there have been ""a lot of signs of more rodents"", suggesting an increase in the rodent population, rather than just signs of a larger quantity of rodents.
+[Minor]: [accuracy/addition] - The translation ""с изменением погоды"" adds the phrase ""with the change in weather"", which is not explicitly stated in the source text, but can be inferred."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.","(для информации, я пробовал почти все ""гуманные"" ловушки на рынке с очень небольшим успехом.)","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""для информации"" does not accurately reflect the meaning of the source text ""fwiw"" (for what it's worth).
+[Minor]: [accuracy/addition] - The addition of the phrase ""на рынке"" is not present in the source text and does not improve the translation."
+72,"I'm not especially happy with killing them, but I won't be taking comments on the ethics of killing mice.)","Я не особенно счастлив убивать их, но я не буду принимать комментарии об этике убийства мышей.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Я не особенно счастлив убивать их"" does not fully convey the meaning of the source text ""I'm not especially happy with killing them"". The Russian translation suggests a stronger negative sentiment than the original English.
+[Minor]: none"
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","Это верно даже сейчас, когда goatse.cx исчез, хотя это была бы близкая гонка на дно между goatse и, скажем, khou.com, где я пытался посмотреть видео, которое мне прислала Венди.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""где я пытался посмотреть видео, которое мне прислала Венди"" does not fully reflect the meaning of the source text ""where I tried to watch a video the Wendy sent me"". The translation implies that the video was sent by Wendy, while the source text suggests that the video was sent to the speaker."
+82,"On the first train today, the ticket checker looked at our tickets and said ""long journey!""","На первом поезде сегодня контролер посмотрел на наши билеты и сказал ""долгое путешествие!"".","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""долгое путешествие!"" (long journey!) does not precisely reflect the meaning of the source text ""long journey!"". The source text suggests that the ticket checker made a comment about the length of the journey, while the translation implies that the journey itself is long.
+
+[Minor]: [accuracy/addition] - The translation adds the word ""сегодня"" (today) which is not present in the source text. This addition does not significantly change the meaning, but it is not strictly necessary."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.","""Я просто отвожу его в Глазго,"" - попытался я объяснить, указывая на своего спутника.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Я просто отвожу его в Глазго"" does not precisely reflect the meaning of the source text ""I'm just dropping him off in Glasgow"". The translation uses the verb ""отвожу"" (to take/escort) instead of ""высаживаю"" (to drop off), which changes the meaning slightly.
+[Minor]: [accuracy/addition] - The translation includes the phrase ""попытался я объяснить"" (I attempted to explain), which is not present in the source text."
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,"Вещь, которая убедила меня прошлой ночью, заключается в том, что мы должны быть готовы дать отпор трампизму.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Вещь, которая убедила меня прошлой ночью"" does not accurately reflect the meaning of the source text ""The thing that last night convinced me of"". The Russian translation uses the word ""вещь"" (thing) which does not convey the intended meaning of the source text.
+[Minor]: [accuracy/addition] - The Russian translation adds the word ""дать отпор"" (fight back) which is not present in the source text."
+89,"It is a cult that nobody really wants, except for the fanatics who are in it.","Это культ, которого никто на самом деле не хочет, кроме фанатиков, которые в нем состоят.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Это культ, которого никто на самом деле не хочет, кроме фанатиков, которые в нем состоят"" does not fully capture the meaning of the source text ""It is a cult that nobody really wants, except for the fanatics who are in it."" The translation focuses more on the lack of desire for the cult, while the source text emphasizes that it is a cult that nobody wants, except for the fanatics.
+[Minor]: none"
+90,And they are truly nuts.,И они действительно орехи.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""И они действительно орехи"" does not accurately convey the meaning of the source text ""And they are truly nuts."" The translation interprets ""nuts"" literally as the food item ""орехи"" rather than the idiomatic meaning of ""crazy"" or ""insane."""
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,"Получите наклейки на бампер, которые являются анти-Трамп, и расклейте их повсюду.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Получите наклейки на бампер, которые являются анти-Трамп, и расклейте их повсюду"" does not fully reflect the meaning of the source text ""Get some bumper stickers that are anti-Trump and plaster them all over."" The translation is more literal and does not capture the intended meaning of the source, which is to actively spread anti-Trump sentiment through the use of bumper stickers.
+[Minor]: none"
+95,Yell back at those who would try to talk over us.,"Кричите в ответ тем, кто пытается перекричать нас.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Кричите в ответ тем, кто пытается перекричать нас"" does not fully capture the meaning of the source text ""Yell back at those who would try to talk over us."" The translation focuses more on yelling back, while the source text suggests a more assertive stance of not letting others talk over us.
+[Minor]: none"
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,"Не является социально приемлемым выходить в общественные места или подбегать к людям, когда у вас сильный кашель с мокротой.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""выходить в общественные места"" (go out in public places) does not fully capture the meaning of ""go out in public"" in the source text, which implies going out in a public setting while coughing.
+[Minor]: none"
+105,Jan will hurt you before she lets you see she's hurt and laughs most when things are upside-down.,"Ян причинит тебе боль, прежде чем позволит тебе увидеть, что она ранена, и больше всего смеется, когда все вверх дном.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Ян"" (Yan) does not accurately reflect the gender of the source text, which refers to ""Jan"" (a female name).
+[Minor]: [accuracy/mistranslation] - The translation ""позволит тебе увидеть, что она ранена"" (allow you to see that she is hurt) does not fully capture the nuance of the source text, which suggests that Jan will hide her own hurt before hurting the other person."
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","После 4000 страданий Yl оказывается в месте любви и испытывает огромные чувства, с которыми она не знает, что делать, поэтому здесь много и того, и другого.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""4000 страданий"" (4,000 distress) is not accurately translated as ""4000 of distress"".
+[Minor]: accuracy/addition - ""и"" (and) is added, which is not present in the source text."
+108,#CNN needs to just close down.,#CNN нужно просто закрыться.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""нужно просто закрыться"" (needs to just close down) does not precisely reflect the meaning of the source text ""#CNN needs to just close down"", which expresses a stronger opinion or demand for CNN to shut down.
+
+[Minor]: None"
+110,"Who at that pathetic, dying network was responsible for vetting the so-called ""independent voters"" in the audience?","Кто в этой жалкой, умирающей сети отвечал за проверку так называемых ""независимых избирателей"" в аудитории?","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""жалкой, умирающей сети"" (pathetic, dying network) does not accurately reflect the meaning of the source text, which refers to a specific network (likely a TV network) rather than a general ""network"".
+[Minor]: [accuracy/mistranslation] - The translation ""так называемых ""независимых избирателей"""" (so-called ""independent voters"") does not fully capture the nuance of the source text, which appears to be questioning the legitimacy of the ""independent voters"" in the audience."
+113,A cold front should arrive by the middle of next week.,Холодный фронт должен прибыть к середине следующей недели.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The translation ""должен прибыть"" (should arrive) does not precisely reflect the meaning of the source text ""should arrive"", which is more definitive."
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",Сегодня рано утром спутниковые и наземные наблюдения IR показали расширяющуюся область низкой слоистой облачности и пятнистого тумана.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""patchy"" is translated as ""пятнистого тумана"" (patchy fog), which does not fully capture the meaning of ""patchy"" in the context of low stratus clouds.
+[Minor]: accuracy/addition - The translation adds ""тумана"" (fog) which is not present in the source text."
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.","Застенчивый студент-ботаник Арни Каннингем влюбляется в Кристину, ржавую Plymouth Fury 1958 года, и становится одержим восстановлением этого классического автомобиля до его прежнего великолепия.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds the word ""ботаник"" (nerd) to describe Arnie Cunningham, which is not present in the source text.
+[Minor]: [accuracy/mistranslation] - The translation uses the word ""застенчивый"" (shy) to describe Arnie Cunningham, while the source text uses the word ""geeky"" which has a slightly different connotation."
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","Поскольку машина меняется, так же меняется и Арни, чья обретенная уверенность превращается в высокомерие за рулем его экзотической красавицы.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""чья обретенная уверенность превращается в высокомерие"" does not fully capture the meaning of the source text ""whose newfound confidence turns to arrogance"". The Russian translation emphasizes the change from confidence to arrogance, while the English source text suggests that Arnie's arrogance emerges specifically behind the wheel of the car.
+[Minor]: no-error"
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,"Одна из самых безумных частей в том, что мои соседи обратились против меня, - это думать о том, сколько усилий требуется, чтобы быть враждебным.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Одна из самых безумных частей в том, что мои соседи обратились против меня"" does not fully capture the meaning of the source text ""One of the craziest parts about my neighbors turning against me"". The Russian translation focuses more on the neighbors turning against the speaker, while the source text emphasizes the craziness or absurdity of this situation.
+[Minor]: [accuracy/addition] - The phrase ""это думать о том, сколько усилий требуется"" adds additional information not present in the source text, which states ""is thinking about how much effort it takes""."
+126,It hurts but you gotta do you.,"Больно, но ты должен быть собой.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Больно, но ты должен быть собой"" does not fully capture the meaning of the source text ""It hurts but you gotta do you."" The Russian translation focuses more on the person being themselves, while the English source emphasizes the need to do what is necessary, even if it is painful."
+127,But at this point the open hostility and violence is getting worse.,Но в этот момент открытая враждебность и насилие становятся хуже.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""становятся хуже"" (become worse) does not fully capture the meaning of the source text ""is getting worse"", which suggests a gradual worsening rather than a sudden change.
+[Minor]: none"
+131,And I still have NO IDEA what I could have possibly done to deserve this.,"И у меня до сих пор НЕТ ПОНЯТИЯ, что я мог сделать, чтобы заслужить это.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The Russian translation ""И у меня до сих пор НЕТ ПОНЯТИЯ, что я мог сделать, чтобы заслужить это"" does not fully capture the meaning of the English source ""And I still have NO IDEA what I could have possibly done to deserve this."" The Russian translation is more literal and does not convey the same sense of uncertainty and lack of understanding expressed in the English."
+133,That vessel is off-limits.,Это судно запрещено.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Это судно запрещено"" does not fully convey the meaning of the source text ""That vessel is off-limits."" The Russian translation suggests the vessel is prohibited, while the English source indicates the vessel is restricted or not accessible.
+[Minor]: none"
+135,She is irrelevant to me.,Она для меня неважна.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""Она для меня неважна"" does not fully capture the nuance of the source text ""She is irrelevant to me."" The Russian translation is more literal and lacks the subtle implication of the English phrase."
+139,I gripe about dad-ification a lot.,Я часто жалуюсь на отцовство.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Я часто жалуюсь на отцовство"" does not accurately reflect the meaning of the source text ""I gripe about dad-ification a lot."" The Russian translation focuses on complaining about fatherhood, while the English source is referring to the broader concept of ""dad-ification,"" which is a cultural phenomenon."
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"Вот краткий курс по тому, что я имею в виду под ""отцификацией"":","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""отцификацией"" (fathering) does not precisely reflect the meaning of the source text ""dad-ification"", which refers to a process of making something more ""dad-like"" or associated with fathers.
+[Minor]: no-error"
+141,"It isn't my term, it is a term used to describe when a narrative or gameplay mechanic is built around a central protagonist (usually older, usually male) stewarding or guarding another person (often younger).","Это не мой термин, это термин, используемый для описания ситуации, когда повествование или игровая механика построены вокруг центрального протагониста (обычно более старшего, обычно мужского пола), который опекает или охраняет другого человека (часто более молодого).","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""опекает или охраняет"" (stewards or guards) does not fully capture the nuance of ""stewarding or guarding"" in the source text, which implies a more active and protective role.
+[Minor]: accuracy/addition - The phrase ""обычно более старшего, обычно мужского пола"" (usually older, usually male) adds more specificity than the source text, which simply states ""usually older, usually male""."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.","Отцовское воспитание обычно предполагает, что решением ситуации, когда родительская фигура должна заботиться о ребенке или его заменителе, является подавляющая сила, и использование этой силы для навязывания очень конкретно сформированной динамики власти.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Отцовское воспитание"" (Fatherly upbringing) does not fully capture the meaning of ""Dad-ification"" from the source text, which refers to a specific power dynamic where a parent figure uses overwhelming strength to force a specific power dynamic.
+[Minor]: accuracy/addition - The translation ""навязывания очень конкретно сформированной динамики власти"" (imposing a very specifically shaped power dynamic) adds more specificity compared to the source text, which only mentions ""a very specifically shaped power dynamic""."
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.",Отцовское влияние подрывает возможность для общинных решений и часто полностью игнорирует или подрывает любую деятельность ребенка.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Отцовское влияние"" (Fatherly influence) does not fully capture the meaning of ""Dad-ification"" from the source text, which refers to the erosion of communal solutions and the undermining of the child's agency.
+[Minor]: accuracy/omission - The translation omits the phrase ""often wholly ignores, or undercuts"" from the source text, which is an important part of the meaning."
+151,- More details are in the full blog post.,Более подробная информация содержится в полном блог-посте.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/addition - The translation adds the phrase ""в полном блог-посте"" (in the full blog post), which is not present in the source text.
+[Minor]: none"
+159,Over time dart became my go-to for quick UI.,За время дарт стал моим основным средством для быстрого пользовательского интерфейса.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""За время дарт стал моим основным средством для быстрого пользовательского интерфейса"" does not accurately reflect the meaning of the source text ""Over time dart became my go-to for quick UI."" The translation suggests that ""dart"" became the main means for a ""quick user interface,"" which does not match the intended meaning of the source."
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter - это удовольствие работать, и у них есть #mobx для простого управления хранилищем.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""это удовольствие работать"" does not fully capture the meaning of the source text ""#flutter is a pleasure to work with"". The translation is more literal and does not convey the positive sentiment expressed in the source.
+[Minor]: accuracy/addition - The addition of ""у них есть"" is not present in the source text and is not necessary for the translation."
+161,"The dependency story is less insane than nodejs, too.","Зависимость от истории менее безумна, чем nodejs.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""Зависимость от истории"" does not accurately reflect the meaning of ""The dependency story"" in the source text.
+[Minor]: accuracy/mistranslation - ""менее безумна, чем nodejs"" does not precisely convey the meaning of ""less insane than nodejs"" in the source text."
+163,But it allows to move fast and that's why it's ideal for small hacks.,"Но это позволяет быстро перемещаться, и поэтому оно идеально подходит для небольших взломов.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""небольших взломов"" (small hacks) does not fully convey the meaning of the source text ""small hacks"", which implies quick, minor modifications rather than illegal hacking activities."
+166,Their tail is extremely thick.,Их хвост чрезвычайно толстый.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The translation ""их хвост"" (their tail) does not precisely reflect the meaning of the source text ""Their tail is extremely thick."""
+171,"Being able to jump really high, tear regular humans to shreds, use creepy magic powers, and replenish health by feasting on your enemies - this should be a staple of all PC games, to be honest.","Способность прыгать очень высоко, разрывать обычных людей на части, использовать жуткие магические силы и восполнять здоровье, пируя над врагами - это должно быть неотъемлемой частью всех игр для ПК, честно говоря.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/addition - The translation adds the phrase ""пируя над врагами"" (feasting on your enemies), which is not present in the source text.
+[Minor]: accuracy/mistranslation - The translation uses the phrase ""жуткие магические силы"" (creepy magic powers) instead of the more neutral ""creepy magic powers"" in the source."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","需要翻譯成中文和/或福建話,我都不會。","抱歉,由于我不会中文和福建话,我无法对这个翻译进行准确的评估。我无法判断翻译的准确性。如果您能提供英文原文,我可以尝试对英文翻译进行评估。"
+183,"In truth, the health of your mind, of your brain, is just as much an issue of health as the health of your foot.","В действительности здоровье вашего разума, вашего мозга, является таким же вопросом здоровья, как и здоровье вашей ноги.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""является таким же вопросом здоровья, как и здоровье вашей ноги"" does not fully capture the meaning of the source text ""is just as much an issue of health as the health of your foot"". The translation is more literal and does not convey the intended meaning as clearly.
+
+[Minor]: [no-error] - The translation accurately conveys the meaning of the source text."
+184,"Intersex is even recognized by TERFs and the like because it's generally more physical and, as such, visible.","Интерсекс признается даже TERF и им подобными, потому что он, как правило, более физический и, следовательно, видимый.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""он, как правило, более физический и, следовательно, видимый"" does not fully capture the meaning of the source text ""it's generally more physical and, as such, visible."" The translation focuses more on the physical aspect rather than the visibility aspect.
+[Minor]: no errors"
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","В той же мере, в которой психическое здоровье воспринимается многими как менее ""реальное"", чем физическое здоровье, я как бы чувствую, что быть трансгендером - это всего лишь интерсекс разума.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""интерсекс разума"" (intersex of the mind) does not fully capture the meaning of the source text, which compares being transgender to ""intersex of the mind"". The translation does not convey the nuance that being transgender is seen as a mental/psychological condition, similar to how mental health is sometimes perceived as less ""real"" than physical health.
+[Minor]: accuracy/addition - The translation adds the phrase ""как бы"" (kind of/sort of), which is not present in the source text and does not significantly improve the translation."
+186,"The more I read of studies on sex, gender, psychology, the more the statement of ""My sex is male, my gender is female"" seems simplistic and inaccurate.","Чем больше я читаю исследований о поле, гендере, психологии, тем более упрощенным и неточным кажется утверждение ""Мой пол - мужской, мой гендер - женский"".","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The statement ""My sex is male, my gender is female"" seems to be oversimplified and inaccurate according to the source text, which suggests that the relationship between sex and gender is more complex based on studies in the relevant fields.
+[Minor]: none"
+190,"I think the designation of ""non-binary"" needs to be extended from just a gender term, to be used when referring to sex.","Я считаю, что обозначение ""небинарный"" должно быть расширено с просто гендерного термина, чтобы использоваться при упоминании пола.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""небинарный"" (non-binary) is used to refer to gender, while the source text suggests extending the usage of this term to also refer to sex.
+[Minor]: none"
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,"Как кислые настроения и другая мирская поп-музыка, и радиофонические мастерские, и всякое такое.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""кислые настроения"" (sour moods) does not accurately reflect the meaning of ""krauty moods"" in the source text.
+[Minor]: accuracy/mistranslation - ""мирская поп-музыка"" (worldly pop music) does not fully capture the meaning of ""other worldly pop music"" in the source."
+210,I want to make dashboards.,Я хочу создавать дашборды.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Russian translation ""Я хочу создавать дашборды"" does not fully capture the meaning of the English source ""I want to make dashboards."" The Russian translation uses the verb ""создавать"" (to create) instead of ""делать"" (to make), which is a slightly different nuance.
+[Minor]: none"
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""","Итак, с приближением нового рейдового уровня #FFXIV я давно думал: ""Эх, хотелось бы попробовать настоящий рейд, но поиск группы кажется беспорядочным, и я никогда не найду статичную группу, которая меня возьмет"".","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""эх, хотелось бы попробовать настоящий рейд"" does not fully capture the nuance of the source text, which expresses a desire to try ""proper raiding"" rather than just any kind of raiding.
+[Minor]: [accuracy/addition] - The translation ""и я никогда не найду статичную группу, которая меня возьмет"" adds the phrase ""которая меня возьмет"" which is not present in the source text.
+[Minor]: [accuracy/omission] - The translation omits the phrase ""but Party Finder sounds like a mess"" from the source text."
+215,I'll make my own static!,Я сделаю свой собственный статический!,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Я сделаю свой собственный статический!"" does not accurately reflect the meaning of the source text ""I'll make my own static!"". The Russian translation uses the word ""статический"" which means ""static"" in the sense of ""not moving"", whereas the source text is using ""static"" in the sense of ""interference or noise"".
+
+[Minor]: none"
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!","Полный людей, слишком тревожных, чтобы попробовать присоединиться к статическому рейду, без каких-либо ожиданий быть хорошим во всем!","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Полный людей, слишком тревожных, чтобы попробовать присоединиться к статическому рейду, без каких-либо ожиданий быть хорошим во всем!"" does not fully reflect the meaning of the source text ""Full of people too anxious to try joining a raid static, with no expectations of being good at all!"". The translation seems to focus more on the anxiety and lack of expectations, while the source text emphasizes the people being ""full of"" this anxiety and lack of expectations.
+[Minor]: no errors."
+219,I was a voracious reader in my youth.,Я был ненасытным читателем в молодости.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The translation ""ненасытным"" (voracious) does not precisely reflect the meaning of the source text ""a voracious reader"". While ""ненасытным"" conveys the idea of being insatiable or greedy, it does not fully capture the nuance of being an avid or enthusiastic reader."
+221,"But, after ~decades~ of reading next to nothing (with the exception of functional work-related non-fiction stuff and an occasional self-help book) I set a goal to read 23 books in 2023.","Но после ~десятилетий~ чтения практически ничего (за исключением функциональной нефикционной литературы, связанной с работой, и редких книг по саморазвитию) я поставил себе цель прочитать 23 книги в 2023 году.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/addition - The phrase ""~decades~"" is added in the translation, which is not present in the source text.
+[Minor]: no-error"
+226,I wanna see these companies that intermediate transactions explain to their customers how they set their percentages.,"Я хочу, чтобы эти компании, которые посредничают в транзакциях, объяснили своим клиентам, как они устанавливают свои проценты.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""объяснили своим клиентам, как они устанавливают свои проценты"" does not fully reflect the meaning of the source text ""explain to their customers how they set their percentages"". The translation focuses more on the companies explaining their percentages, while the source text is about the companies explaining how they set those percentages.
+[Minor]: [accuracy/addition] - The translation ""эти компании, которые посредничают в транзакциях"" adds the phrase ""которые посредничают в транзакциях"" which is not present in the source text ""these companies that intermediate transactions""."
+228,"But if Spotify has a good quarter, they will.","Но если у Spotify будет хороший квартал, они.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/omission] - The translation is missing the end of the sentence, which is crucial for conveying the complete meaning of the source text."
+229,Is it a danger to let migrants in at the southern border? I dunno.,Является ли опасностью впускать мигрантов на южную границу? Не знаю.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""впускать мигрантов"" (let migrants in) does not fully capture the nuance of the source text, which expresses uncertainty about whether letting migrants in at the southern border is a danger.
+[Minor]: none"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,Пусть они восстановят опустошенные и разрушающиеся города по всей стране.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Russian translation ""Пусть они восстановят опустошенные и разрушающиеся города по всей стране"" does not fully capture the nuance of the English source ""Let them rehabilitate the hollowed out and decaying cities across the country. Again."" The Russian translation lacks the emphasis on ""again"" which suggests a repeated or ongoing effort.
+[Minor]: none"
+238,There are still going to be jobs that can be accomplished remotely for the foreseeable future.,"Будут по-прежнему существовать рабочие места, которые можно выполнять удаленно в обозримом будущем.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Будут по-прежнему существовать рабочие места, которые можно выполнять удаленно в обозримом будущем"" does not fully capture the meaning of the source text ""There are still going to be jobs that can be accomplished remotely for the foreseeable future."" The Russian translation is more passive and less specific about the continued existence of remote work opportunities.
+[Minor]: none"
+239,Remote work is enabling.,Удаленная работа позволяет.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""позволяет"" (allows) does not fully capture the meaning of the source text ""is enabling"", which suggests that remote work provides or facilitates certain capabilities or possibilities."
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.","Это позволяет людям работать в комфортных пространствах, а не в душных, шумных офисах.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""это позволяет людям работать в комфортных пространствах, а не в душных, шумных офисах"" does not fully capture the meaning of the source text ""It enables people to work in comfortable spaces and not stuffy, noisy offices."" The translation focuses more on the contrast between comfortable spaces and stuffy, noisy offices, while the source text emphasizes that the solution ""enables"" people to work in comfortable spaces.
+
+[Minor]: no-error"
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,"Это позволяет людям избегать длительных поездок, которые отнимают время у них и их семей.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Это позволяет людям избегать длительных поездок, которые отнимают время у них и их семей"" does not fully capture the meaning of the source text ""It enables people to avoid lengthy commutes that take time away from their day and their families."" The translation focuses more on avoiding long commutes, while the source emphasizes that the ability to avoid commutes enables people to have more time for themselves and their families."
+250,"""You are the carbon they are trying to reduce.""","Вы - углерод, который они пытаются сократить.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Вы - углерод, который они пытаются сократить"" does not fully capture the meaning of the source text ""You are the carbon they are trying to reduce."" The translation focuses on the carbon aspect, but does not convey the idea that the person being addressed is the ""carbon"" that others are trying to reduce."
+251,"So like from the beginning for all my birthdays in the past, I always had rough ones.",С самого начала на все мои дни рождения в прошлом у меня всегда были трудные.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""С самого начала на все мои дни рождения в прошлом у меня всегда были трудные"" does not accurately reflect the meaning of the source text ""So like from the beginning for all my birthdays in the past, I always had rough ones."" The translation suggests that the birthdays were always difficult, while the source indicates that the birthdays were rough/difficult in the past.
+[Minor]: no-error"
+257,And today is already becoming a great day!,И сегодня уже становится прекрасным днём!,"MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The Russian translation ""И сегодня уже становится прекрасным днём!"" accurately conveys the meaning of the English source text ""And today is already becoming a great day!"". There are no accuracy errors identified in the translation."
+258,Winter is 30 days away in this little part of the Great Southern World.,Зима наступит через 30 дней в этой маленькой части Великого Южного Мира.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Зима наступит через 30 дней в этой маленькой части Великого Южного Мира"" does not precisely reflect the meaning of the source text ""Winter is 30 days away in this little part of the Great Southern World."" The translation uses ""наступит"" (will come) instead of ""away"" to describe the time until winter.
+[Minor]: none"
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,"Я застегну подкладку в мою велосипедную куртку - на всякий случай, если мне понадобится внутри.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""застегну"" (zip) does not accurately reflect the meaning of ""zip"" in the source text, which implies inserting the lining into the jacket, not just closing it.
+[Minor]: accuracy/addition - ""в мою"" (into my) is an unnecessary addition not present in the source text."
+273,I finally got a good dangle photo so I can be sure he's not fat.,"Я наконец-то получил хорошее фото его гениталий, чтобы быть уверенным, что он не толстый.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""его гениталий"" (his genitals) does not accurately reflect the meaning of the source text ""a good dangle photo"", which refers to a photo of the pet, not the pet's genitals.
+[Minor]: accuracy/addition - The phrase ""чтобы быть уверенным, что он не толстый"" (to be sure that he is not fat) is an addition not present in the source text."
+275,He's not.,Он не.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The translation is missing the verb ""is"" which is present in the source text."
+282,2) The currency reward system has been connected.,Валютная система вознаграждения была подключена.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Russian translation ""Валютная система вознаграждения была подключена"" does not precisely reflect the meaning of the English source ""The currency reward system has been connected."" The Russian translation focuses more on the ""currency reward system"" rather than the fact that it has been ""connected"" or set up.
+
+[Minor]: none"
+286,"All collards, kale, chard is transplanted.","Все листовые овощи, такие как кале, мангольд, пересаживаются.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""все листовые овощи, такие как кале, мангольд"" does not accurately reflect the meaning of the source text ""All collards, kale, chard"". The translation includes ""мангольд"" (chard) which is not mentioned in the source.
+[Minor]: accuracy/addition - The translation ""пересаживаются"" (are transplanted) adds information that is not explicitly stated in the source text."
+287,Plans to set in salad at Penn on 6row pattern and see how that compares to broadcast seeded beds.,"Планы установить в салате в Пенне на 6-рядном узоре и посмотреть, как это сравнивается с засеянными кроватями.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""установить в салате в Пенне на 6-рядном узоре"" does not accurately reflect the meaning of the source text ""Plans to set in salad at Penn on 6row pattern"". The translation suggests setting something in a salad, while the source text is about plans to use a 6-row planting pattern.
+[Minor]: [accuracy/addition] - The translation ""и посмотреть, как это сравнивается с засеянными кроватями"" adds information about comparing the 6-row pattern to broadcast seeded beds, which is not explicitly stated in the source text."
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,"Весенний горошек в Гилпине появляется, поэтому необходимо установить шпалеру.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""Весенний горошек"" (spring peas) is translated as ""Весенний горошек"" (spring peas), which accurately reflects the meaning of the source text.
+[Minor]: none
+
+The Russian translation accurately conveys the meaning of the source text, with no significant accuracy errors."
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","Также необходимо посеять ряд салата там, чтобы интегрировать нарезанную зелень, в обоих есть обученный персонал по ирригации, подготовке грядок и пересадке, что составляет 90% навыков, не связанных с уборкой урожая.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""интегрировать нарезанную зелень"" does not accurately reflect the meaning of ""integrate cut greens"" in the source text.
+[Minor]: accuracy/addition - The phrase ""в обоих"" is added and does not appear in the source text."
+299,Was it the 2012 Apple Maps disaster?,Это была катастрофа Apple Maps 2012 года?,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Это была катастрофа Apple Maps 2012 года?"" does not fully convey the meaning of the source text ""Was it the 2012 Apple Maps disaster?"". The translation focuses on the 2012 Apple Maps disaster, while the source text is asking if it was the 2012 Apple Maps disaster.
+[Minor]: none"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","Я предвзято отношусь к тому, чтобы не выпускать мусор для конечных пользователей, и Apple королевски облажалась со своими картами Apple, когда они вышли в 2012 году.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""королевски облажалась"" (royally fucked up) does not precisely reflect the meaning of the source text ""royally fucked up"", which is a more colloquial and stronger expression.
+[Minor]: no-error"
+308,Not the case.,Не так.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The Russian translation ""Не так"" does not precisely reflect the meaning of the English source ""Not the case."" The Russian translation is more literal and does not convey the full nuance of the English expression."
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,"Кажется невообразимым, что землю могут отнять у вас однажды, когда вы смотрите австралийские и американские СМИ, но это потому, что богатые люди весь день обеспечивают, чтобы ваш разум думал определенным образом.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""землю могут отнять у вас"" (the land can be taken away from you) does not fully reflect the meaning of the source text, which is about the perception that land cannot be taken away, when in reality the rich control the media to make people think this way.
+[Minor]: accuracy/addition - The translation ""весь день обеспечивают, чтобы ваш разум думал определенным образом"" (ensure your mind thinks a certain way all day) adds more specificity compared to the source text, which simply states that ""the rich are on there all day ensuring your mind thinks a certain way""."
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,"Земля очень легко и быстро может быть отобрана правительством в любой день, если они этого захотят.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Земля очень легко и быстро может быть отобрана правительством в любой день, если они этого захотят"" does not fully capture the meaning of the source text ""The land is very easily and quickly taken away by the government one day if they want to do that."" The translation implies that the government can take away the land at any time if they want to, while the source text suggests that the government can take away the land very easily and quickly one day if they decide to do so.
+
+[Minor]: no-error"
+316,It never made sense how ppl can keep land at the expense of others.,"Это никогда не имело смысла, как люди могут удерживать землю за счет других.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""удерживать землю за счет других"" (to hold land at the expense of others) does not fully capture the meaning of the source text ""how ppl can keep land at the expense of others"". The translation is more passive, while the source suggests a more active notion of ""keeping"" land.
+[Minor]: [accuracy/omission] - The translation omits the word ""sense"" from the source text, which slightly reduces the clarity of the meaning."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,"Я часто удивляюсь человеческой способности быть *так* недовольным собой, в то время как вокруг так много свидетельств того, что на самом деле представляет собой жестокость.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""недовольным собой"" (dissatisfied with oneself) does not fully capture the meaning of ""down on oneself"" in the source text, which implies a more severe self-criticism or self-deprecation.
+[Minor]: [accuracy/addition] - The translation adds the word ""так"" (so) which is not present in the source text, though it does not significantly change the meaning."
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,Но смягчение отчаяния из-за нашей неряшливости имеет решающее значение - потому что это дает нам больше пространства для борьбы с руинами вокруг.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""смягчение отчаяния из-за нашей неряшливости"" (softening of despair due to our sloppiness) does not fully capture the meaning of the source text, which is about ""gentling despair at our messiness"". The translation focuses more on the messiness/sloppiness aspect rather than the idea of ""gentling"" or softening the despair.
+[Minor]: accuracy/addition - The phrase ""имеет решающее значение"" (is crucial) is an addition that is not present in the source text."
+331,"Some programmers: ""Typing speed does not matter!""","""Скорость печати не имеет значения!""","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Скорость печати не имеет значения!"" does not fully capture the nuance of the original English statement ""Typing speed does not matter!"". The Russian translation is more literal and does not convey the same meaning as the English source."
+334,"Not sure if this is the best approach for sharing, but I like it for now: <URL>","Не уверен, что это лучший подход для распространения, но мне это нравится пока: <URL>","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Не уверен, что это лучший подход для распространения, но мне это нравится пока"" does not fully capture the meaning of the source text ""Not sure if this is the best approach for sharing, but I like it for now"". The translation is more literal and does not convey the nuance of the original.
+[Minor]: no-error"
+338,I have been toying with this little piece on my head for a few days now.,Я уже несколько дней играюсь с этим маленьким предметом на своей голове.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Russian translation ""Я уже несколько дней играюсь с этим маленьким предметом на своей голове"" does not fully capture the meaning of the English source ""I have been toying with this little piece on my head for a few days now."" The Russian translation focuses more on the physical object on the head, while the English source suggests a more abstract or metaphorical ""toying"" with an idea or concept.
+[Minor]: none"
+339,It is definitely more romance than filth.,"Это определенно больше романтики, чем грязи.","MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""грязи"" (dirt) does not precisely reflect the meaning of the source text ""filth"", which has a more negative connotation."
+343,"Common, it's really not that hard.","Да, это не так уж и сложно.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds the word ""Да"" (Yes) which is not present in the source text."
+345,"I wish there was a ""who to follow"" recommendation somehow.","Я бы хотел, чтобы была рекомендация ""кого следовать"".","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Russian translation ""Я бы хотел, чтобы была рекомендация 'кого следовать'"" does not precisely reflect the meaning of the English source ""I wish there was a 'who to follow' recommendation somehow."" The Russian translation focuses more on the recommendation aspect, while the English source expresses a wish for such a recommendation.
+[Minor]: none"
+347,If you stick to the default web interface it doesn't look and feel good (imho).,"Если вы придерживаетесь стандартного веб-интерфейса, это не выглядит и не ощущается хорошо (по моему мнению).","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""это не выглядит и не ощущается хорошо"" does not fully capture the meaning of the source text ""it doesn't look and feel good"". The translation is more literal and does not convey the intended meaning of the source.
+[Minor]: none"
+349,"I don't know if prevention is possible, but it's worth trying.","Я не знаю, возможно ли предотвращение, но стоит попытаться.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""возможно ли предотвращение"" does not fully capture the meaning of ""if prevention is possible"" in the source text. The translation is more literal and does not convey the uncertainty expressed in the original.
+[Minor]: none"
+350,"The four steps I outline are up for debate, with some progress in each:","Четыре шага, которые я обрисовываю, подлежат обсуждению, с некоторым прогрессом в каждом:","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The Russian translation ""подлежат обсуждению"" (are subject to discussion) does not precisely reflect the meaning of the English ""are up for debate"", which suggests more of an open-ended discussion.
+[Minor]: [accuracy/addition] - The Russian translation adds the phrase ""с некоторым прогрессом в каждом"" (with some progress in each), which is not present in the English source."
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.","Даже если он не смог сказать их во время собрания в городе, все в Америке все равно услышат их многократно между сейчас и ноябрем 2024 года.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Даже если он не смог сказать их во время собрания в городе"" does not precisely reflect the meaning of the source text ""Even if he didn't get to say them during the town hall"". The translation suggests that the person was unable to say something during the town hall, while the source indicates that the person did not get to say certain things during the town hall.
+[Minor]: [accuracy/addition] - The translation ""все в Америке все равно услышат их многократно"" adds the word ""все равно"" (anyway), which is not present in the source text.
+[Minor]: [accuracy/addition] - The translation ""между сейчас и ноябрем 2024 года"" adds the phrase ""между сейчас"" (between now), which is not present in the source text."
+363,"The ""MusicLM Demo"" is mildly interesting.",Музыкальная демонстрация LM умеренно интересна.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""Музыкальная демонстрация LM"" does not precisely reflect the meaning of the source text ""The 'MusicLM Demo'"". The translation is a bit more generic compared to the specific reference to ""MusicLM Demo"" in the source."
+369,I work out alone in my bedroom without a spotter or even a weight rack.,Я занимаюсь один в своей спальне без страхующего или даже стойки для штанги.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""страхующего"" (spotter) is not accurately translated as ""a weight rack"".
+[Minor]: accuracy/omission - The translation does not include ""alone"" from the source text."
+371,I bench press on my bed.,Я жму штангу на кровати.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Russian translation ""Я жму штангу на кровати"" does not accurately reflect the meaning of the English source ""I bench press on my bed"". The Russian translation suggests the person is pressing a barbell on their bed, which is not the same as bench pressing."
+378,I'd never seen it at the fancy grocer or any of the Italian delis.,Я никогда не видел этого в дорогом продуктовом магазине или в любой из итальянских деликатесных лавок.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""дорогом продуктовом магазине"" (fancy grocer) does not fully capture the meaning of ""the fancy grocer"" in the source text, which suggests a high-end or upscale grocery store.
+[Minor]: [accuracy/mistranslation] - The translation ""итальянских деликатесных лавок"" (Italian delis) does not precisely match the meaning of ""the Italian delis"" in the source text, which may refer to a more specific type of Italian specialty food store.
+[Minor]: [accuracy/addition] - The translation ""в любой из"" (in any of) is an addition that is not present in the source text."
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","Будучи радикализованными здесь, мы неохотно покупаем новую машину FAANG.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""машину FAANG"" (FAANG machine) does not accurately reflect the meaning of the source text ""a new FAANG machine*"". The source text is referring to a FAANG (Facebook, Amazon, Apple, Netflix, Google) product, not a physical machine.
+
+[Minor]: accuracy/addition - The translation ""Будучи радикализованными здесь"" (Having been radicalized here) adds information that is not present in the source text."
+386,"In 1998-06 Gamefan, in relation to the long development of the first Unreal game, Jason Schrieber commented,","В 1998-06 Gamefan, в связи с длительной разработкой первой игры Unreal, Джейсон Шрайбер прокомментировал:","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""В 1998-06 Gamefan"" does not accurately reflect the source text ""In 1998-06 Gamefan"", as the date format is different.
+[Minor]: [accuracy/addition] - The translation ""в связи с длительной разработкой первой игры Unreal"" adds the phrase ""первой игры"" (first game), which is not present in the source text."
+387,"""A good game is only late until it ships.","Хорошая игра только поздно, пока она не выйдет.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Хорошая игра только поздно, пока она не выйдет"" does not accurately convey the meaning of the source text ""A good game is only late until it ships."" The translation suggests that a good game is only late until it is released, while the source text implies that a game can be considered late, but it is still good once it is released.
+
+[Minor]: no-error
+
+The translation captures the overall meaning of the source text, but the wording could be improved to better reflect the nuance of the original statement."
+388,"A bad game is bad forever.""","""Плохая игра плоха навсегда.""","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The Russian translation ""Плохая игра плоха навсегда"" does not precisely reflect the meaning of the English source text ""A bad game is bad forever."" The Russian translation uses the word ""плоха"" (bad) instead of ""плохая"" (bad), which changes the meaning slightly."
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,","""Более ранний выпуск GamePro 1997-11 содержит цитату с гораздо большей неоднозначностью.""","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Более ранний выпуск GamePro 1997-11 содержит цитату с гораздо большей неоднозначностью"" does not fully reflect the meaning of the source text ""An earlier issue of GamePro 1997-11 has a quote with far more ambiguity"". The translation does not convey the idea of ""ambiguity"" present in the source.
+[Minor]: [accuracy/addition] - The translation adds the word ""содержит"" (contains) which is not present in the source text."
+402,There's areas that could use some polish.,"Есть области, которые могли бы использовать немного полировки.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""использовать немного полировки"" does not fully capture the meaning of ""could use some polish"" in the source text. The Russian translation suggests a more literal interpretation of ""polishing"" rather than the idiomatic meaning of ""improving"" or ""refining"" in the English source.
+[Minor]: none"
+404,"Fix those minor issues, and then can we have more of these please?","Исправьте эти незначительные проблемы, а затем можно ли получить еще больше таких?","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/addition - The translation adds the phrase ""еще больше таких"", which is not present in the source text.
+[Minor]: none
+
+The translation accurately conveys the meaning of the source text, with the exception of the addition of ""еще больше таких"" which is not present in the original. This addition does not significantly change the overall meaning, but it is not necessary and could be considered a minor accuracy error."
+410,We visited for a couple hours on my porch.,Мы посетили на пару часов на моем крыльце.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Мы посетили на пару часов на моем крыльце"" does not accurately reflect the meaning of the source text ""We visited for a couple hours on my porch."" The translation suggests that the visit took place on the porch, while the source text indicates that the visit was for a couple of hours.
+[Minor]: accuracy/addition - The translation includes the phrase ""на пару часов"" (for a couple of hours), which is not explicitly present in the source text."
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","Восьмиглазые репниды, кажется, наблюдают, как вы опускаете флаер на красную почву, но они не предпринимают никаких действий в вашу сторону, на самом деле они неподвижны, когда вы выбираетесь из флаера и медленно идете к ним.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds the phrase ""на самом деле"" (in fact), which is not present in the source text.
+[Minor]: [accuracy/mistranslation] - The translation uses ""неподвижны"" (motionless) instead of ""не предпринимают никаких действий"" (make no move), which does not fully capture the meaning of the source text."
+421,"The ground beneath your feet begins to tremble and then shake, as if in an earthquake and you lose your footing, though the Repnids seem unaffected.","Земля под вашими ногами начинает дрожать, а затем трястись, как при землетрясении, и вы теряете равновесие, хотя Репниды, кажется, не затронуты.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Репниды, кажется, не затронуты"" does not fully reflect the meaning of the source text ""the Repnids seem unaffected"". The word ""Репниды"" is a mistranslation of ""Repnids"".
+[Minor]: [accuracy/omission] - The translation omits the phrase ""and you lose your footing"" which is present in the source text."
+422,The rock beneath you gives way suddenly.,Под вами внезапно уступает скала.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Под вами внезапно уступает скала"" does not fully capture the meaning of the source text ""The rock beneath you gives way suddenly."" The translation focuses more on the rock giving way, while the source text emphasizes that the rock beneath the person is suddenly giving way.
+[Minor]: none"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","Конец быстр, так как несколько пар клыков вводят свой смертельный яд, и воздух Дыскры загрязняет ваши легкие.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Конец быстр"" does not accurately convey the meaning of ""The end is swift"" in the source text. The translation is more literal and does not capture the sense of immediacy and urgency conveyed in the original.
+[Minor]: [accuracy/addition] - The addition of ""так как"" in the translation is not present in the source text and is not necessary for conveying the meaning."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.","Вы решаете, что повторное установление контакта было бы опасным, и возвращаетесь к своему летательному аппарату, но этот опыт прояснил ваш ум, который был запутан с тех пор, как вы прыгнули в будущее.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The phrase ""was befuddled"" is added in the translation, which is not present in the source text.
+[Minor]: [accuracy/mistranslation] - The translation ""прояснил ваш ум"" (cleared your mind) does not fully capture the meaning of the source text ""had cleared your mind"", which suggests a more gradual process."
+434,Note that you have used up another polybdenum rod as you jump.,"Примечание, что вы использовали еще один стержень полибдена, когда прыгали.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""стержень полибдена"" (polybdenum rod) does not accurately reflect the meaning of the source text ""polybdenum rod"". The correct translation should be ""стержень молибдена"" (molybdenum rod).
+[Minor]: none"
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,"Я нашел неравномерно спряденную серебристо-серую пряжу, которая в основном тонко спряденная с комками.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""тонко спряденная"" (finely spun) does not fully capture the meaning of ""mostly finely spun"" in the source text.
+[Minor]: accuracy/addition - ""с комками"" (with lumps) is an addition that is not present in the source text."
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,Я планирую смешать его с тонким пурпурно-сиреневым вариегатным хлопком.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""тонким пурпурно-сиреневым вариегатным хлопком"" does not precisely reflect the meaning of the source text ""a fine purple/lilac variegated cotton"". The translation uses a more specific and technical term ""variegated"" which may not be the most appropriate choice.
+[Minor]: none"
+449,"I hit most of the classics before eighteen--though that's more a reflection of living in bumfuck nowhere, I also read the 1979 Encyclopedia Brittanica in desperation.","Я освоил большинство классических произведений до восемнадцати лет, хотя это больше отражает тот факт, что я жил в глуши. Я также в отчаянии прочитал Британскую энциклопедию 1979 года.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""освоил большинство классических произведений"" does not fully capture the meaning of ""hit most of the classics"" in the source text, which suggests a more casual or informal reading of the classics.
+[Minor]: [accuracy/addition] - The addition of ""в отчаянии"" (in desperation) is not present in the source text and may not be necessary for the overall meaning."
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.","И это даже несмотря на то, что я не так хорошо спал здесь последние две ночи, как дома, и немного устаю от #MECFS, просто находясь в незнакомой обстановке, где я менее способен контролировать свой темп и должен помнить, где находятся вещи.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""немного устаю от #MECFS"" does not fully capture the meaning of ""get a little #MECFS ed out"" in the source text, which suggests a more severe fatigue or exhaustion.
+[Minor]: accuracy/addition - The phrase ""просто находясь в незнакомой обстановке"" adds additional context that is not present in the source text."
+454,Humanity is out in 5 days.,Человечество выходит через 5 дней.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Человечество выходит через 5 дней"" does not accurately reflect the meaning of the source text ""Humanity is out in 5 days."" The Russian translation suggests that humanity is leaving or going out in 5 days, while the English source indicates that humanity has only 5 days left."
+457,I like it but will it be able to attract an audience of the right players?,"Мне это нравится, но сможет ли оно привлечь аудиторию правильных игроков?","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""сможет ли оно привлечь аудиторию правильных игроков?"" does not fully capture the meaning of the source text ""will it be able to attract an audience of the right players?"". The Russian translation focuses more on whether the content can attract the ""right"" audience, while the source text is asking about the ability to attract an audience in general.
+[Minor]: no-error"
+463,Came home on my lunch break to see this sitting outside uwu.,Пришёл домой на обеденный перерыв и увидел это снаружи uwu.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The addition of ""uwu"" at the end of the sentence is not present in the source text and does not improve the translation."
+467,Was it overly cute to the point of being twee?,"Это было чрезмерно милым до такой степени, что стало приторным?","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Это было чрезмерно милым до такой степени, что стало приторным?"" does not fully capture the nuance of the source text, which asks whether the content was ""overly cute to the point of being twee"". The Russian translation focuses more on the content being excessively sweet or saccharine, rather than the specific connotation of being ""twee"" or overly cutesy.
+[Minor]: none"
+474,Did she owe someone money?,Она кому-то должна была деньги?,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Она кому-то должна была деньги?"" does not fully capture the meaning of the source text ""Did she owe someone money?"". The Russian translation implies that she did owe someone money, while the English source is asking a question about whether she owed someone money."
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.","Хороший критический анализ направлен на быстрое исправление проблемы, а не на вашу способность.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""Хороший критический анализ"" does not fully convey the meaning of ""Good critique"" from the source text. The translation implies a more formal or academic type of critique, rather than a general feedback or evaluation.
+[Minor]: accuracy/addition - The phrase ""а не на вашу способность"" adds additional information that is not present in the source text, which states that critique is ""not directed at your ability""."
+487,But for strong and firm future growth.,Но для сильного и твердого будущего роста.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""сильного и твердого будущего роста"" does not fully convey the meaning of the source text ""strong and firm future growth"". The Russian translation is more literal and does not capture the nuance of ""strong and firm"" as an adjective modifying ""future growth"".
+[Minor]: none"
+489,"She was on her way to the wall, he was coming off duty.","Она направлялась к стене, он заканчивал службу.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""он заканчивал службу"" (he was finishing his service) does not fully capture the meaning of the source text ""he was coming off duty"", which suggests he was ending his work shift or work period.
+[Minor]: no-error
+
+The translation accurately conveys the meaning that the woman was on her way to the wall, but the translation of the second part about the man could be improved to better match the nuance of the source text."
+493,One block-printed word.,одно блокированное слово,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""одно блокированное слово"" does not accurately reflect the meaning of the source text ""One block-printed word"". The word ""блокированное"" (blocked) is not an appropriate translation for ""block-printed""."

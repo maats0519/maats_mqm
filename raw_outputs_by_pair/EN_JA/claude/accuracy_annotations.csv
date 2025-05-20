@@ -1,0 +1,566 @@
+index,original,translated,accuracy_annotation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",それが IDirect3DViewport3 を返すと推定していたことが判明しましたが、実際に実装しているのは IDirect3DViewport で、その末尾にはさらにメソッドが追加されています。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""IDirect3DViewport3 を返すと推定していたことが判明しました"" does not accurately reflect the meaning of the source text, which states that the developer was ""presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3"". The translation does not convey the idea of presuming or expecting a specific return type.
+[Minor]: [accuracy/addition] - The translation ""実際に実装しているのは IDirect3DViewport で、その末尾にはさらにメソッドが追加されています"" adds the detail that the developer has ""implemented IDirect3DViewport"", which is not explicitly stated in the source text."
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは必ずしも当てはまるわけではない。問題のオブジェクトを作成するために使用するインターフェイスによって、状況が異なる。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""問題のオブジェクトを作成するために使用するインターフェイスによって、状況が異なる"" does not fully reflect the meaning of the source text ""for those cases it matters what interface you are using to create the object in question"". The translation focuses more on the interface used to create the object, while the source text emphasizes that the situation varies depending on the interface used.
+[Minor]: no-error"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",仮に議論のために、科学は少なくとも部分的に、理論を支持するかどうかに関わらず真実である、客観的な事実に関する一覧表で構成されているとする。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""理論を支持するかどうかに関わらず真実である"" does not fully capture the nuance of the source text, which suggests that the statements are ""true apart from any theory they might support"". The translation implies that the statements are true regardless of the theory, while the source suggests that the statements are true independently of the theory.
+[Minor]: [accuracy/addition] - The translation ""客観的な事実に関する一覧表"" adds the word ""一覧表"" (list) which is not present in the source text. This addition, while not critical, is not necessary for the translation."
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,科学的事実は理論に依存していると主張することは可能である。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""科学的事実は理論に依存していると主張することは可能である"" does not fully capture the nuance of the source text, which suggests that it is still possible to argue that scientific facts are theory-laden, even if such facts exist in science."
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",実験は、この読み取りの事実を作り出すのではなく、どの実験を行うかを選択することで、発見される事実を制御する。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""発見される事実を制御する"" does not fully capture the meaning of the source text ""controls which facts are discovered"". The translation suggests that the experiments control the facts that are discovered, while the source text indicates that the choice of experiments controls which facts are discovered.
+[Minor]: no-error"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",一部の事実(例えば、サブアトミック粒子に関するものなど)は、資源、組織、強制力が十分でなければ実現できない実験からしか得られません。そのような実験は資本主義体制でなければ不可能です。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""資源、組織、強制力が十分でなければ実現できない実験からしか得られません"" does not fully capture the meaning of the source text, which states that certain facts can only be obtained from experiments that require too much resources, organization, and coercion to be possible outside of a capitalist system.
+[Minor]: accuracy/addition - The translation ""資本主義体制でなければ不可能です"" adds the phrase ""資本主義体制で"" (in a capitalist system), which is not explicitly stated in the source text."
+14,Picking this up this weekend.,この週末に取り上げる。,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""この週末に取り上げる"" does not precisely reflect the meaning of the source text ""Picking this up this weekend."" The Japanese translation suggests ""taking up"" or ""addressing"" something this weekend, rather than ""picking up"" an item."
+16,Already on coil overs and lowered ride height.,エアサスペンションに変更し、車高を下げています。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""エアサスペンションに変更し、車高を下げています"" (Changed to air suspension and lowered the ride height) does not precisely reflect the meaning of the source text ""Already on coil overs and lowered ride height."" The source indicates that the vehicle is already lowered, while the translation suggests that the lowering is an ongoing process."
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べましたが、この車に関する情報があれば教えていただきたいです。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""少し調べましたが、この車に関する情報があれば教えていただきたいです"" does not fully capture the meaning of the source text ""I've done a little research but I would love if anyone has any info about this car."" The translation focuses more on the speaker's desire for information, while the source text expresses that the speaker has already done some research.
+[Minor]: [accuracy/addition] - The translation ""この車に関する情報があれば教えていただきたいです"" includes the additional phrase ""に関する"" (about) which is not present in the source text."
+18,Personal experiences?,個人的な経験,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Japanese translation ""個人的な経験"" does not fully capture the meaning of the English source ""Personal experiences?"". The Japanese translation focuses more on ""personal experiences"" rather than the question form of the English source.
+[Minor]: none"
+19,I know they're not fast compared,遅いと比べると、分かっています。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""遅いと比べると、分かっています。"" does not fully convey the meaning of the source text ""I know they're not fast compared"". The translation focuses on the comparison aspect, but does not capture the full meaning of the source, which is about acknowledging that the subject is not fast."
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",私はボードショーツとワイフビーターを着て、彼はタトゥーだらけで、自分で「ネオナチみたいに見える」と表現した新しい髪型をしている。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""ネオナチみたいに見える"" (looks like a neo-Nazi) does not fully reflect the meaning of the source text ""making me look like a neo-nazi"", as the source text suggests that the person themselves described their new haircut in that way, rather than the translation implying that the haircut actually makes them look like a neo-Nazi."
+36,NY is the best hope for accountability,ニューヨークが説明責任の最良の希望です。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""ニューヨークが説明責任の最良の希望です"" does not fully capture the meaning of the source text ""NY is the best hope for accountability"". The translation focuses on New York being the ""best hope for accountability"", while the source text suggests that New York is the ""best hope"" for accountability, without explicitly stating that New York is the location.
+
+[Minor]: no-error
+
+The translation conveys the overall meaning of the source text, but the phrasing could be improved to more accurately reflect the nuance of the original."
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つシグナルを送ることに還元できないという重要な証拠がある。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""文脈に依存しない意味を持つシグナルを送ることに還元できない"" does not fully capture the meaning of the source text ""real-world communication cannot be reduced to sending signals with context-independent meaning"". The translation focuses more on the inability to reduce communication to sending signals with context-independent meaning, while the source text emphasizes that real-world communication cannot be reduced to this.
+[Minor]: [no-error] - The translation accurately conveys the overall meaning of the source text."
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",コンテキスト依存的なコミュニケーションは、環境特性(コンテキストの分布など)に大きく影響される、多層的な状況的現象であると提案する。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""多層的状況的現象"" does not fully convey the meaning of ""a situated multilayered phenomenon"" in the source text.
+[Minor]: accuracy/addition - The phrase ""コンテキストの分布など"" adds more specificity to the ""environment properties"" mentioned in the source, which is not necessarily required for the accurate translation."
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒に様々なプロジェクトをサポートする6か月間を過ごせたことは幸運でした。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""supporting a range of projects"" is not fully accurate as the source text says ""supporting a range of projects"" which implies a more active role in the projects, whereas the Japanese translation ""サポートする"" (support) is a more passive role.
+[Minor]: none"
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会ったときは、特に植林や農場支援の進捗を聞いて嬉しかったです。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""週末に会ったときは、特に植林や農場支援の進捗を聞いて嬉しかったです"" does not fully capture the meaning of the source text ""When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support."" The translation does not convey the nuance of being ""chuffed"" (pleased) about the progress.
+[Minor]: [no-error] - The translation accurately reflects the meaning of the source text."
+61,Licht AGREED to an all Republican audience!,賛成しました。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""賛成しました"" (agreed) does not accurately reflect the meaning of the source text ""Licht AGREED to an all Republican audience!"", which indicates that Licht agreed to speak to an all-Republican audience."
+65,It can't be repeated.,それを繰り返すことはできません。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""それを繰り返すことはできません"" does not fully capture the meaning of the source text ""It can't be repeated."" The translation implies that it is not possible to repeat something, while the source text suggests that the event or action described cannot be repeated.
+
+[Minor]: none"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨晩、このルーティンに嫌気がさしたので、全てのトラップからピーナッツバターを取り除き、ピスタチオをスーパーグルーで固定しました。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""昨晩、このルーティンに嫌気がさしたので、全てのトラップからピーナッツバターを取り除き、ピスタチオをスーパーグルーで固定しました"" does not fully capture the meaning of the source text ""I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them."" The translation focuses more on the cleaning of the traps and fixing the pistachio, but does not convey the sense of frustration and the act of ""getting fed up"" with the routine.
+[Minor]: no-error"
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",私はこれまでほとんどすべての「人道的」な罠を試してきましたが、あまり成功していません。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""私はこれまでほとんどすべての「人道的」な罠を試してきましたが、あまり成功していません。"" does not fully reflect the meaning of the source text ""I've tried nearly every ""humane"" trap on the market with very little success."" The translation does not convey the sense of ""very little success"" in the source."
+74,"They aren't, at least not in Alberta.",それらはそうではありません、少なくともアルバータでは。,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""それらはそうではありません、少なくともアルバータでは。"" does not precisely reflect the meaning of the source text ""They aren't, at least not in Alberta."" The translation is a bit more literal and does not capture the nuance of the original statement."
+75,Sure they cut business taxes.,はい、彼らは企業税を削減しました。,"MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The Japanese translation ""はい、彼らは企業税を削減しました。"" accurately conveys the meaning of the English source text ""Sure they cut business taxes."" There are no accuracy errors in this translation."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",グラスゴーに彼を降ろすだけです。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""グラスゴーに彼を降ろすだけです。"" does not fully reflect the meaning of the source text ""I'm just dropping him off in Glasgow."" The translation focuses on the destination (Glasgow) but does not convey the meaning of ""dropping him off"" or the context of the speaker being the one doing the action."
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.","""グラスゴーに彼を降ろすだけです""と、チケット販売員は言った。","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""グラスゴーに彼を降ろすだけです"" does not fully capture the nuance of the source text ""I'm just dropping him off in Glasgow."" The translation is more literal and does not convey the sense of it being an unusual or uncommon occurrence.
+[Minor]: no errors."
+90,And they are truly nuts.,そして、彼らは本当にナッツです。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""そして、彼らは本当にナッツです。"" does not accurately convey the meaning of the source text ""And they are truly nuts."" The Japanese translation suggests that ""they"" are literally nuts, whereas the English source is using ""nuts"" in an idiomatic sense to mean ""crazy"" or ""eccentric""."
+95,Yell back at those who would try to talk over us.,怒鳴り返せ、私たちを押し黙らせようとする者たちに。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Japanese translation ""怒鳴り返せ、私たちを押し黙らせようとする者たちに。"" does not fully capture the meaning of the English source ""Yell back at those who would try to talk over us."" The Japanese translation focuses more on yelling back at those who try to silence us, while the English source emphasizes yelling back at those who try to talk over us.
+[Minor]: none"
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,私の隣人と私は同時に家に着き、私は通りを隔てた向こうから彼がCOVID-19の痰を激しく咳き上げているのが聞こえました。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""COVID-19 の痰を激しく咳き上げている"" does not fully reflect the meaning of the source text ""coughing up a covid mucus storm"". The translation focuses on the coughing of phlegm, while the source text emphasizes the intensity and volume of the coughing.
+[Minor]: no-error"
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,そのため私は彼を避けるために急いでアパートに入ろうとしましたが、彼はまだ私と話をするために追いついてきました。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""彼はまだ私と話をするために追いついてきました"" does not fully capture the meaning of the source text ""he still managed to catch up to me to chat"". The translation implies that the person was able to catch up to the speaker in order to chat, while the source text suggests that the person was able to catch up to the speaker despite the speaker's attempt to avoid him.
+[Minor]: no-error"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","4,000の苦しみの後、Ylは愛の場所に自分を見出し、どうしていいかわからない大きな感情に満ちています。","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""どうしていいかわからない大きな感情に満ちています"" does not fully capture the meaning of the source text ""is having huge feels she doesn't know what to do with"". The translation suggests the character is overwhelmed by emotions, but does not convey the uncertainty and lack of understanding about what to do with those emotions.
+[Minor]: accuracy/addition - The translation ""の苦しみの後"" adds the phrase ""of distress"" which is not present in the source text."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#マンゴーモロンとの騒動は、はなはだしい大失態でした。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""昨日的#マンゴーモロンとの騒動は、はなはだしい大失態でした。"" does not fully capture the meaning of the source text ""Yesterday's fiasco with #MangoMoron was an outrageous fiasco."" The translation uses the term ""マンゴーモロン"" which does not have the same connotation as ""MangoMoron"" in the source text.
+[Minor]: no-error"
+113,A cold front should arrive by the middle of next week.,来週の中旬までに寒冷前線が到着するはずです。,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds ""までに"" (by) which is not present in the source text."
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",早朝、赤外線衛星と地上観測により、低層ストラタスと散在する<URL>の範囲が拡大していることが示されました。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""散在する"" does not accurately reflect the meaning of ""patchy"" in the source text.
+[Minor]: [accuracy/omission] - The translation omits the word ""expanding"" from the source text, which describes the area of low stratus."
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけ、その専門知識を活用してCRMへの投資の価値を最大化する。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""leverage their expertise"" is not fully equivalent to the source ""活用その専門知識"", as the Japanese phrase focuses more on utilizing the partner's expertise rather than just leveraging it.
+[Minor]: [accuracy/addition] - The addition of ""CRM"" in the Japanese translation is not present in the source text, although it does help provide context."
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーが実装、カスタマイズ、統合、継続的なサポートを通じてあなたの事業がSalesforceのエコシステムで繁栄できるよう支援することを発見してください。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/addition] - The translation contains the phrase ""あなたの事業がSalesforceのエコシステムで繁栄できるよう支援する"" which is not present in the source text.
+[Minor]: [accuracy/mistranslation] - The translation uses the phrase ""発見してください"" which does not precisely reflect the meaning of ""Discover"" in the source text."
+137,But another individual often flies aboard that ship.,その船に別の個人がしばしば乗っている。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""その船に別の個人がしばしば乗っている"" does not fully capture the meaning of the source text ""But another individual often flies aboard that ship."" The translation suggests that another individual is often aboard the ship, while the source indicates that this individual ""flies"" aboard the ship, which implies a more temporary or transient presence."
+142,The Last of Us is an easy and canonical example of dad-ification.,最後のわれわれは、父親化の簡単で典型的な例です。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""最後のわれわれは"" does not accurately reflect the meaning of the source text ""The Last of Us"". The Japanese translation uses ""最後のわれわれ"" which means ""The Last of Us"", but the source text is referring to the game ""The Last of Us"" as an example of ""dad-ification"".
+[Minor]: accuracy/mistranslation - The translation ""父親化の簡単で典型的な例です"" does not fully capture the nuance of the source text ""an easy and canonical example of dad-ification"". The Japanese translation focuses more on the ""dad-ification"" aspect, while the source text is highlighting ""The Last of Us"" as a clear example of this phenomenon."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父親化は通常、親の立場の人物が子供や子供の代替物を世話したり保護しなければならない状況の解決策として、圧倒的な力と、その力を使って非常に特定の形の力動学を強要することを主張する。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""父親化"" does not precisely reflect the meaning of ""Dad-ification"" in the source text. The translation focuses more on the power dynamic aspect, while the source text suggests that ""Dad-ification"" refers to the solution of a situation where a parent figure must care for or protect a child, which involves using overwhelming strength.
+[Minor]: accuracy/addition - The translation ""非常特定の形の力動学を強要する"" adds the phrase ""非常特定の形の"" which is not present in the source text and does not significantly improve the translation."
+147,Here's a quick overview of how to make use of our website.,ウェブサイトの使い方の概要はこちらです。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""ウェブサイトの使い方の概要はこちらです"" does not fully capture the meaning of the source text ""Here's a quick overview of how to make use of our website."" The translation focuses more on providing an overview, while the source text suggests guiding the user on how to use the website.
+[Minor]: none"
+148,- We send out notifications when airfare goes on sale.,航空券が値下がりした際に通知を送信します。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""航空券が値下がりした際に通知を送信します"" does not precisely reflect the meaning of the source text ""We send out notifications when airfare goes on sale."" The translation focuses more on the notification being sent when the airfare goes on sale, while the source text emphasizes that the notifications are sent out when the airfare goes on sale.
+[Minor]: none"
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは平和で安全な環境で育つ権利がある。,"MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The Japanese translation accurately conveys the meaning of the English source text. There are no accuracy errors identified."
+159,Over time dart became my go-to for quick UI.,ダートは時間とともに私のクイックUIの定番になりました。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""ダートは時間とともに私のクイックUIの定番になりました"" does not fully capture the meaning of the source text ""Over time dart became my go-to for quick UI."" The translation focuses on ""dart"" becoming a standard for the translator's quick UI, while the source text suggests that ""dart"" became the translator's preferred choice for quick UI over time."
+164,Echidna with amethyst and magenta spikes.,エキドナ、アメジストとマゼンタのトゲ,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The translation ""アメジストとマゼンタのトゲ"" (amethyst and magenta spikes) does not precisely reflect the meaning of the source text ""with amethyst and magenta spikes"". The translation could be more accurate by using a term like ""紫色とマゼンタ色のトゲ"" (purple and magenta spikes)."
+166,Their tail is extremely thick.,しっぽはとてもふさふさです。,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""しっぽはとてもふさふさです"" (The tail is very fluffy) does not precisely reflect the meaning of the source text ""Their tail is extremely thick."""
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目は梨色で、緋色のキャットアイグラスを着用しています。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""梨色"" (pear color) does not accurately reflect the meaning of ""pear"" in the source text, which likely refers to the shape of the eyes.
+[Minor]: accuracy/mistranslation - The translation ""緋色"" (scarlet) does not precisely match the meaning of ""scarlet"" in the source text, which may have a slightly different nuance."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",愛吸血鬼,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Japanese translation ""愛吸血鬼"" (Beloved Vampire) does not accurately reflect the meaning of the English source text, which is about efforts to portray vampires in a negative light.
+[Minor]: none"
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",現実生活では、私が何年も前に作った謎解きゲームを、私の母は好きだと言っていました。そして、ほとんどの秘密を自分で見つけ出したので、単に母親としての立場から言っているのではありませんでした。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""私の母は好きだと言っていました"" does not fully capture the meaning of the source text ""my mom did like a puzzle game I made years ago"". The translation suggests the mother only said she liked it, while the source indicates the mother actually did like the game.
+[Minor]: [accuracy/addition] - The translation ""そして、ほとんどの秘密を自分で見つけ出したので"" adds the phrase ""そして"" which is not present in the source text."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.",我需要把这个从英语翻译成中文和福建话。,"抱歉,由于我没有英语到中文或福建话的翻译能力,我无法对这个翻译进行评估。如果您能提供原文和翻译结果,我会尽力帮您分析翻译质量。如果您只有英语原文,我建议您寻找专业的中文或福建话翻译服务来完成这个任务。我很抱歉无法直接帮助您。"
+179,Been toying with this thought for a little while:,少し前からこの考えを遊んでいます。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""少し前からこの考えを遊んでいます"" does not accurately convey the meaning of the source text ""Been toying with this thought for a little while"". The Japanese translation suggests the person has been ""playing with"" or ""entertaining"" this thought, which does not precisely match the nuance of the English source.
+[Minor]: no-error"
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こるため、身体的な健康よりも目に見えにくいです。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""心の中で起こるため、身体的な健康よりも目に見えにくいです"" does not fully capture the meaning of the source text ""Because it happens in the mind and seems less tangible than physical health."" The translation focuses more on the intangible nature of mental health, while the source text emphasizes that mental health happens in the mind and is less tangible than physical health.
+[Minor]: none"
+194,Very much worth having a go at.,とても挑戦する価値があります。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""とても挑戦する価値があります"" does not fully capture the meaning of the source text ""Very much worth having a go at."" The translation focuses more on the value of the challenge, while the source emphasizes the worthiness of attempting it.
+[Minor]: none"
+196,Playing around a bit with Flutter.,フラッターで少し遊んでいます。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""フラッターで少し遊んでいます"" does not fully capture the meaning of the source text ""Playing around a bit with Flutter."" The translation is more literal and does not convey the sense of experimentation or exploration with the Flutter framework.
+[Minor]: none"
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",私は正直に言って、Googleのテクノロジーをベースにしてビジネスを行うのは嫌です。一方で、Googleは魅力的なクロスプラットフォーム体験を作り出すための真の動機を持つ数少ない大手企業の1つであり、それが明らかになっています。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""私は正直に言って、Googleのテクノロジーをベースにしてビジネスを行うのは嫌です。"" does not fully convey the nuance of the source text, which expresses a more ambivalent sentiment about basing a business on Google's technology.
+[Minor]: accuracy/addition - The translation ""それが明らかになっています。"" adds an extra phrase that is not present in the source text."
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,私はそのようなコメントを控えさせていただきます。,"MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The translation accurately conveys the meaning of the source text. There are no accuracy errors identified."
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームは、うまくやりたい場合は難しい。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""うまくやりたい場合は難しい"" does not fully convey the meaning of the source text ""Cross platform is hard if you want to do it well."" The translation focuses more on the difficulty of doing it well, while the source text emphasizes the general difficulty of cross-platform development.
+[Minor]: none"
+201,I know that.,私はそれを知っています。,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation ""私はそれを知っています"" contains the additional word ""それ"" which is not present in the source text ""I know that."""
+202,Thank you to those people who have downloaded the latest update to Leasey.,ありがとうございます。,"MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The Japanese translation ""ありがとうございます"" accurately conveys the meaning of the English source text ""Thank you to those people who have downloaded the latest update to Leasey."" There are no accuracy errors in the translation."
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,私の脳がそれを解き明かすことができないのはなぜかよくわかりません。ツールが非常に広範囲で曖昧であるため、選択肢が多すぎて脳がハードロックしてしまうのかもしれません。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""ツールが非常に広範囲で曖昧であるため"" does not fully convey the meaning of the source text ""the tools are just so broad and vague"". The translation is more literal and does not capture the nuance of the source.
+[Minor]: accuracy/addition - The phrase ""選択肢が多すぎて"" is an addition that is not present in the source text. While it does not significantly change the meaning, it is not directly reflected in the source."
+211,Grafana looks pretty.,グラファナはきれいです。,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The translation ""きれいです"" (kirei desu, ""is beautiful"") does not fully capture the nuance of ""looks pretty"" in the source text."
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",そして新しい#FFXIV レイド層が近づいてきたので、「本格的なレイドに挑戦したいけど、パーティファインダーは大混乱そうだし、自分を受け入れてくれるスタティックは見つからないだろう」と長い間考えていました。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""自分を受け入れてくれるスタティックは見つからないだろう"" does not fully reflect the meaning of the source text ""I'm never gonna find a static that'll have me."" The translation implies that the speaker is worried about not finding a static group that will accept them, while the source text suggests a lack of confidence in finding a static group that will want them.
+[Minor]: accuracy/addition - The translation ""本格的なレイドに挑戦したいけど"" adds the phrase ""本格的な"" (proper/serious) which is not present in the source text ""I'd like to try proper raiding""."
+214,"So I thought, screw it!",そうだな、構わないよ!,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""そうだな、構わないよ!"" does not fully convey the meaning of the source text ""So I thought, screw it!"". The Japanese translation is more neutral and does not capture the sense of frustration or dismissiveness expressed in the English source."
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",人々で溢れており、レイド固定に参加することに不安を感じているが、全く上手くできるとは期待していない。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""レイド固定に参加することに不安を感じている"" does not fully capture the meaning of the source text ""too anxious to try joining a raid static"". The translation focuses more on the anxiety of joining a raid static, while the source text suggests that the people have no expectations of being good at all.
+[Minor]: accuracy/addition - The translation ""全く上手くできるとは期待していない"" adds the phrase ""全く"" (at all), which is not present in the source text."
+219,I was a voracious reader in my youth.,私は若い頃、貪欲な読書家でした。,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The Japanese translation ""貪欲な読書家"" (voracious reader) does not precisely reflect the nuance of the English source ""a voracious reader"". The Japanese translation is more literal and lacks the connotation of intensity or eagerness that ""voracious"" conveys."
+227,They're not gonna talk about this on Bloomberg!,彼らはこれについてBloombergで話すつもりはありません。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""彼らはこれについてBloombergで話すつもりはありません"" does not fully convey the meaning of the source text ""They're not gonna talk about this on Bloomberg!"". The translation is more literal and does not capture the informal and dismissive tone of the original."
+228,"But if Spotify has a good quarter, they will.",しかし、Spotifyが良い四半期を過ごせば、彼らは。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The translation is missing the end of the sentence ""they will"" which is present in the source text."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,彼らにその国中の空洞化し、朽ち果てた都市を再生させるよう任せなさい。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""再生させる"" (to revive/regenerate) does not fully capture the meaning of ""rehabilitate"" in the source text, which implies restoring or reviving the decaying cities.
+[Minor]: accuracy/addition - The phrase ""よう任せなさい"" (let them) is added in the translation, which is not present in the source text."
+231,These people want to improve their lives.,これらの人々は自分の生活を改善したいと考えています。,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds the phrase ""自分の"" (their own) which is not present in the source text."
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは死んだ」や「リモートワークは失敗した実験だった」と主張するヘッドラインに疲れてしまいました。,"MQM annotations:
+Accuracy Errors
+[Major]: None
+[Minor]: None
+
+The Japanese translation accurately conveys the meaning of the English source text. There are no significant accuracy errors identified."
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.",快適な空間で仕事ができ、窒息するような騒々しい事務所ではなくて済むようにしてくれる。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""快適な空間で仕事ができ、窒息するような騒々しい事務所ではなくて済むようにしてくれる"" does not fully capture the meaning of the source text ""It enables people to work in comfortable spaces and not stuffy, noisy offices."" The translation focuses more on the avoidance of stuffy and noisy offices, rather than the positive aspect of enabling people to work in comfortable spaces.
+[Minor]: no-error"
+243,To just ignore these facts is wrong.,事実を無視するのは間違っています。,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/omission] - The translation does not include the word ""these"" which is present in the source text."
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、キャリアのために子供を遅らせる現代の都市女性の衝動について言及した。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""キャリアのために子供を遅らせる"" (to delay having children for their careers' sake) does not fully capture the nuance of the source text, which refers to the ""impulse"" or tendency of modern urban women to delay having children for their careers.
+[Minor]: no errors."
+255,It took years of changing my life and working hard but finally...,人生を変え、懸命に働いた年月の末に、ついに...,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Japanese translation ""人生を変え、懸命に働いた年月の末に、ついに..."" does not precisely reflect the meaning of the English source text ""It took years of changing my life and working hard but finally..."". The Japanese translation focuses more on the process of changing one's life and working hard, while the English source emphasizes the final outcome.
+[Minor]: none"
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,私のサイクルジャケットの裏地にファスナーをつけます - 必要になった場合に備えて。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""私のサイクルジャケットの裏地にファスナーをつけます"" does not fully reflect the meaning of the source text ""I will zip the lining into my cycle jacket"". The translation focuses on adding a zipper to the lining, while the source text indicates zipping the lining into the jacket.
+[Minor]: no-error"
+266,This is for Wikipedia's component library (OOUI).,これはウィキペディアのコンポーネントライブラリ(OOUI)のためのものです。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""これはウィキペディアのコンポーネントライブラリ(OOUI)のためのものです"" does not fully reflect the meaning of the source text ""This is for Wikipedia's component library (OOUI)"". The translation focuses on the purpose of the component library, while the source text simply states that it is for the Wikipedia component library.
+[Minor]: none"
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親要素を作成し、そこにMOをインストールし、それが分離されていくのを観察する。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""一時的な親要素を作成し、そこにMOをインストールし、それが分離されていくのを観察する"" does not fully capture the meaning of the source text ""We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere)"". The translation does not convey the idea of the parent element being detached and then attached elsewhere.
+[Minor]: [accuracy/addition] - The translation ""一時的な親要素を作成し、そこにMOをインストールし、それが分離されていくのを観察する"" includes the phrase ""それが分離されていくのを観察する"" which is not directly present in the source text."
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は1日2回私の事務所を走り回ることで完全に引き締まっている。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""彼は1日2回私の事務所を走り回ることで完全に引き締まっている"" does not fully capture the meaning of the source text ""He's just absolutely ripped from tearing around my office twice a day."" The translation focuses on the physical aspect of being ""ripped"" or toned, while the source text emphasizes the action of ""tearing around"" the office, which suggests a more energetic or frantic movement.
+[Minor]: no-error
+
+The translation accurately conveys the overall meaning that the person is physically fit due to frequently moving around the office, but it does not capture the nuance of the source text's emphasis on the energetic movement."
+278,It makes me so happy to see him thriving.,それを見て私はとても幸せです。,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation ""それを見て私はとても幸せです"" contains the additional word ""それを見て"" which is not present in the source text ""It makes me so happy to see him thriving."""
+285,Last week got a ton done and feeling much better about field items.,先週は大量の仕事を完了し、フィールド項目についてもずっと良い気分になっています。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""フィールド項目"" (field items) does not fully capture the meaning of ""field"" in the source text, which seems to refer to work or tasks in general.
+[Minor]: none"
+286,"All collards, kale, chard is transplanted.",全てのコラード、ケール、チャードは移植されます。,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds ""全て"" (all) which is not present in the source text.
+[Minor]: [accuracy/mistranslation] - The translation uses ""移植されます"" (transplanted) which does not fully capture the meaning of the source text ""is transplanted""."
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",そこにサラダの列を播種する必要もあり、両方に切り込んだグリーンを統合する。灌漑、ベッド準備、移植の訓練を受けた乗組員がいる。収穫以外のスキル項目の90%がこれらです。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The translation omits the information about ""seeding a salad row"" and ""integrating cut greens in both"".
+[Minor]: accuracy/addition - The translation adds the phrase ""both have"" which is not present in the source text.
+[Minor]: accuracy/mistranslation - The translation uses ""乗組員"" (crew) instead of ""trained crew"" as in the source text."
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,アップルマップスではグーグルマップスに比べて、指示に従う必要があった経験がはるかに優れていた。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""指示に従う必要があった経験がはるかに優れていた"" does not fully capture the meaning of the source text ""The experience having to follow directions was far superior on Apple Maps compared to Google Maps."" The translation focuses on the experience of following directions, but does not convey the comparison between Apple Maps and Google Maps.
+[Minor]: no-error"
+295,Apple Maps wins.,アップルマップスが勝った。,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""アップルマップス"" does not precisely reflect the meaning of the English source ""Apple Maps"". The Japanese translation uses the English loanword ""マップス"" instead of the more natural Japanese term ""地図""."
+302,"That said, I'm biased.",それでも、私は偏っています。,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""私は偏っています"" does not fully capture the nuance of the source text ""I'm biased."" The Japanese translation is more direct, while the English source conveys a sense of self-awareness about the bias."
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,それは、政府が私たちが生活しているシステムを変更しないと考えている限り、富を長期的に保管する良い場所であるということです。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""政府が私たちが生活しているシステムを変更しないと考えている限り"" does not fully capture the meaning of the source text ""as long as you think the government isn't going to change the system we live in."" The translation focuses more on the government's actions, while the source text emphasizes the individual's perspective on the government's actions.
+[Minor]: no-error"
+309,In China you can only lease land.,中国では土地を借りることしかできません。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""中国では土地を借りることしかできません"" does not accurately convey the meaning of the source text ""In China you can only lease land."" The translation suggests that in China, people can only lease land, which is not the same as saying that land ownership is restricted to leasing."
+311,The government can change these policies whenever it wants.,政府はいつでもこれらの政策を変更することができます。,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds ""これらの"" (these) which is not present in the source text."
+312,The land is temporary.,土地は一時的です。,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The Japanese translation ""土地は一時的です"" does not fully capture the nuance of the English source ""The land is temporary."" The Japanese translation is more literal and lacks the sense of impermanence or transience conveyed in the English."
+318,That's why the Chinese only allow leases.,それが中国人が賃貸のみを許可する理由です。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""それが中国人が賃貸のみを許可する理由です"" does not accurately reflect the meaning of the source text ""That's why the Chinese only allow leases."" The translation suggests that the Chinese only allow leases, while the source text indicates that the Chinese only permit leases, which is a different meaning.
+[Minor]: none"
+322,Let us continue to work together towards creating a brighter future for all.,私たちは全ての人のためのより良い未来を創造するために、これからも協力し続けましょう。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The Japanese translation accurately conveys the meaning of the English source text. There are no accuracy errors identified."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分に対してあまりにも厳しくなりながら、実際の残酷さがどのようなものかを示す多くの証拠に溢れていることに、私はしばしば驚嘆する。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""自分に対してあまりにも厳しくなりながら"" does not fully capture the meaning of the source text ""I often wonder at the human capacity to be *so* down on oneself"". The translation is more literal and does not convey the sense of wonder or amazement expressed in the original.
+[Minor]: no-error
+
+The translation overall accurately conveys the meaning of the source text, with the exception of the mistranslation of the first part of the sentence. The rest of the translation is a good representation of the original."
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",個人の失敗や罪悪感に苦しむことは、最も非難されるべき行為の責任者に「成功」が与えられることの多い世界においては...,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""個人の失敗や罪悪感に苦しむことは"" does not fully capture the meaning of the source text ""To agonize over personal failure & guilt"". The translation focuses more on the act of agonizing, while the source text emphasizes the personal failure and guilt.
+[Minor]: [accuracy/addition] - The translation ""最も非難されるべき行為の責任者に「成功」が与えられることの多い世界においては"" adds the phrase ""最も非難されるべき行為の責任者に"" which is not present in the source text. This addition, while not critical, slightly changes the meaning of the source text."
+332,"or ""Modal editors are useless today"" :morty:",モーダルエディターは今日無用です,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""モーダルエディターは今日無用です"" does not accurately convey the meaning of the source text ""or ""Modal editors are useless today"" :morty:"". The translation is a direct translation of the English phrase, but it does not capture the intended meaning or tone of the source text, which appears to be a sarcastic or ironic statement.
+
+[Minor]: no-error"
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:","私のAxumプロジェクトの機能を共有ライブラリに抽出する: ""キーボードを持ってて"" :partyparrot: :helix: :ferrisdance:","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""キーボードを持ってて"" does not accurately reflect the meaning of the source text ""Hold my keyboard"". The Japanese translation is more literal and does not convey the intended meaning of the English idiom.
+[Minor]: no-error"
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのプロンプトは「一晩中起きていろ」です。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""一晩中起きていろ"" (Stay up all night) does not precisely reflect the meaning of the source text ""Stay up all night"".
+[Minor]: none"
+339,It is definitely more romance than filth.,それは間違いなくより多くのロマンスであり、汚れではありません。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""それは間違いなくより多くのロマンスであり、汚れではありません"" does not fully capture the meaning of the source text ""It is definitely more romance than filth."" The translation emphasizes the presence of romance, while the source text suggests that the content is more romantic than filthy.
+[Minor]: none"
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",空中でイキたいと思っています。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""空中でイキたいと思っています"" does not accurately reflect the meaning of the source text ""Also one day I am totally gonna do the mile high orgasm, maybe not with a str"". The translation suggests a desire to have an orgasm in the air, while the source text is more ambiguous and does not explicitly state the intention."
+345,"I wish there was a ""who to follow"" recommendation somehow.",「フォローすべき人」のおすすめがあればいいのに。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Japanese translation ""「フォローすべき人」のおすすめがあればいいのに。"" does not fully capture the meaning of the English source ""I wish there was a ""who to follow"" recommendation somehow."" The Japanese translation focuses more on recommendations for who to follow, while the English source expresses a wish for such recommendations to exist.
+
+[Minor]: none"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",それには少し多くの努力が必要で、良いアプリを使う必要があるでしょう。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""良いアプリを使う必要があるでしょう"" (You will need to use a good app) does not fully capture the meaning of the source text ""you probably need a good app to improve #UX"". The translation focuses more on the need for a good app, while the source text emphasizes the app's purpose of improving the user experience (UX).
+[Minor]: no-error"
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",介入策: 何かを変えるために行うことについての知識、ある程度の確信の範囲内で。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The translation appears to be accurate and conveys the meaning of the source text without any significant errors. The translation accurately captures the key points about interventions being knowledge about things we can do to create change, within some confidence bounds."
+360,He's here and he's going to say this stuff no matter what.,彼はここにいて、何があっても、この内容を言うつもりです。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""彼はここにいて、何があっても、この内容を言うつもりです"" does not fully capture the meaning of the source text ""He's here and he's going to say this stuff no matter what."" The translation focuses more on the person's intention to say the content, rather than the fact that they will say it regardless of what happens.
+[Minor]: none"
+362,It's very underwhelming at the moment.,今のところとてもがっかりしています。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Japanese translation ""今のところとてもがっかりしています"" does not fully convey the meaning of the English source ""It's very underwhelming at the moment."" The Japanese translation focuses more on the feeling of disappointment, while the English source expresses a sense of being underwhelmed or unimpressed by the current situation.
+[Minor]: none"
+363,"The ""MusicLM Demo"" is mildly interesting.",「MusicLM デモ」はやや興味深いです。,"MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The Japanese translation accurately conveys the meaning of the English source text. There are no accuracy errors identified."
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",重量挙げをするのは変だが、自分の1回限りの最大重量がわからないのも変だ。それは人々が進歩を追跡する主要な方法の1つだからだ。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""自分の1回限りの最大重量がわからない"" does not fully reflect the meaning of the source text ""what your one-rep-max is"". The translation focuses on not knowing one's own one-rep-max, while the source text is more about the lack of knowledge of one's one-rep-max being a key way to track progress in weightlifting.
+[Minor]: accuracy/addition - The translation ""それは人々が進歩を追跡する主要な方法の1つだからだ"" adds the phrase ""主要な方法の1つ"" which is not present in the source text."
+369,I work out alone in my bedroom without a spotter or even a weight rack.,私は寝室で一人で運動しています。スポッターやウェイトラックはありません。,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/omission] - The translation omits ""without a spotter or even a weight rack"" from the source text."
+370,Just me and a barbell with a bunch of weights.,私とバーベルと重り,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The translation adds ""と"" (and) which is not present in the source text."
+375,I swear burrata didn't exist five years ago,ブラータはたった5年前には存在しなかったと誓います。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""ブラータはたった5年前には存在しなかったと誓います"" does not accurately reflect the meaning of the source text ""I swear burrata didn't exist five years ago"". The translation implies a stronger assertion (""I swear"") than the original statement."
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,私はこれまで誰かのお母さんがそれを作るのを見たことがなく、パーティーで押し付けられたこともなく、誰かのソース作りやベーキングの日に登場するのを見たこともありません。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""私はこれまで誰かのお母さんがそれを作るのを見たことがなく、パーティーで押し付けられたこともなく、誰かのソース作りやベーキングの日に登場するのを見たこともありません。"" does not fully reflect the meaning of the source text. The translation is more literal and does not capture the nuance and context of the original statement.
+[Minor]: [accuracy/addition] - The translation includes the phrase ""これまで"" which is not present in the source text."
+388,"A bad game is bad forever.""",悪いゲームは永遠に悪い。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Japanese translation ""悪いゲームは永遠に悪い"" does not fully capture the nuance of the English source ""A bad game is bad forever."" The Japanese translation is more literal and lacks the idiomatic expression conveyed in the English."
+389,So was it Epic that originated this?,それがエピックが始めたものだったのですか?,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""それがエピックが始めたものだったのですか?"" does not fully convey the meaning of the source text ""So was it Epic that originated this?"". The translation suggests that Epic may have originated something, while the source text is asking if Epic was the one that originated the particular thing being referred to.
+
+[Minor]: [accuracy/addition] - The translation ""それがエピックが始めたものだったのですか?"" includes the word ""それが"" (that), which does not have a direct equivalent in the source text."
+390,We can keep going.,行けるよ。,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The Japanese translation ""行けるよ"" (Ikeru yo) does not precisely reflect the meaning of the English source ""We can keep going."" The Japanese translation suggests the ability to continue, while the English source expresses a more general willingness or intention to continue."
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",ゲームプロ1997年11月号にはより曖昧な引用文がある。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Japanese translation ""より曖昧な引用文がある"" does not fully reflect the meaning of the English source ""has a quote with far more ambiguity"". The Japanese translation is more direct and less ambiguous than the English source.
+[Minor]: none"
+401,Esp the carriages with the bigger windows.,大きな窓のある客車に乗ってください。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The translation does not include the instruction to ""esp the carriages with the bigger windows"", which is an important part of the source text."
+402,There's areas that could use some polish.,そこには少し磨く必要のある部分があります。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""そこには少し磨く必要のある部分があります"" does not fully capture the nuance of the source text ""There's areas that could use some polish."" The translation is more literal and lacks the idiomatic expression present in the source.
+[Minor]: none"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",主に、十分なごみ箱の不足と、照明色の意味を説明する標識の不足です。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The translation omits ""the lack of"" from the source text, which is an important part of the meaning.
+[Minor]: accuracy/mistranslation - The translation of ""the significance of the lighting colours"" as ""照明色の意味"" does not fully capture the nuance of ""the significance of"" in the source text."
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMまたはDDZの株式の終了を見るのは悲しくありません。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Japanese translation ""ICMまたはDDZの株式の終了を見るのは悲しくありません"" does not precisely reflect the meaning of the English source ""I won't be sad to see the end of the ICM or DDZ stock."" The translation implies a neutral or positive sentiment towards the end of the stocks, while the source expresses a lack of sadness.
+
+[Minor]: no-error"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,1人1枚の規則が継続されます。これにより、列に並ぶ全ての人が確実に入手できるようにしています。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""1人1枚の規則が継続されます"" does not fully capture the meaning of the source text ""One per customer rules remain"". The translation focuses on the ""one per customer"" aspect, but does not convey the idea of ""rules remain"" as the source text does.
+[Minor]: no-error
+
+The translation accurately conveys the meaning of the source text, with the exception of the mistranslation of the ""rules remain"" part. Overall, the translation is understandable and reflects the key points of the source."
+412,We all have stories to tell.,私たち全員に語る物語がある。,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/addition - The translation adds ""全員に"" (all) which is not present in the source text."
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",しかし、私はどこかで間違った足で始めてしまったような気がします。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Japanese translation ""しかし、私はどこかで間違った足で始めてしまったような気がします"" does not fully capture the nuance of the English source ""But I feel somehow I started this instance on the wrong foot, so to speak."" The Japanese translation focuses more on the feeling of starting on the wrong foot, while the English source suggests a more general sense of not starting well.
+[Minor]: none"
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,まだしばらくここに留まり、移住するかどうかを考えてみます。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""まだしばらくここに留まり、移住するかどうかを考えてみます"" does not fully capture the nuance of the source text ""Will still linger a bit longer on here and think about whether I should migrate at all."" The translation suggests the person is still considering whether to migrate, while the source text indicates they are still thinking about whether they should migrate at all.
+[Minor]: [accuracy/addition] - The translation ""ここに留まり"" adds the word ""here"" which is not present in the source text."
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,地下に潜り込んだレプニッドの群れに落ち込み、地下の洞窟の中で数百匹のレプニッドの体が煮えたぎる中に落ちた。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - The translation ""地下の洞窟の中で数百匹のレプニッドの体が煮えたぎる中に落ちた"" does not fully capture the meaning of the source text ""you fall into a boiling mass of hundreds of Repnid bodies in a cavern below."" The translation focuses more on the Repnid bodies being in a boiling state, while the source text emphasizes the narrator falling into the mass of Repnid bodies.
+[Minor]: None"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは迅速です。何組ものキバが致死的な毒を注入し、ディスクラの空気があなたの肺を汚染します。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""終わりは迅速です"" does not fully capture the meaning of ""The end is swift"" in the source text. The translation suggests a quick ending, while the source text implies a swift, sudden end.
+[Minor]: accuracy/addition - The addition of ""何組ものキバが"" is not present in the source text and does not improve the translation."
+425,Nobody will ever know that you were the first human future traveller.,未来の人類の旅行者として、あなたが最初の人間だったことを誰も知らないでしょう。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""未来の人類の旅行者として、あなたが最初の人間だったことを誰も知らないでしょう"" does not fully convey the meaning of the source text ""Nobody will ever know that you were the first human future traveller."" The translation focuses more on the fact that the person was the first human future traveller, while the source text emphasizes that no one will know this.
+[Minor]: none"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つ目のレプニッドが見つめているようだが、あなたに向かって動くことはない。実際、あなたがゆっくりと近づいていくにつれ、彼らは動きを止めたままだ。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""they are motionless"" does not fully reflect the meaning of the source text ""they make no move towards you"". The source indicates that the Repnids are not moving towards the person, while the translation suggests they are completely motionless.
+[Minor]: [accuracy/addition] - The translation adds the phrase ""in fact"" which is not present in the source text."
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",彼らはあなたの声を聞くことができないだけでなく、理解することもできないようです。ユニバーサル・トランスレーターはどんな答えも拾っていません。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""彼らはあなたの声を聞くことができないだけでなく、理解することもできないようです"" does not fully reflect the meaning of ""It appears that they cannot hear you, let alone understand"".
+[Minor]: accuracy/addition - ""ユニバーサル・トランスレーターはどんな答えも拾っていません"" adds the detail about the Universal Translator, which is not explicitly stated in the source text."
+430,You decide to use your Psychic Awareness to contact them mentally.,あなたは精神的に彼らと連絡を取るために、あなたの霊的な覚醒を使うことにしました。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""精神的に"" does not fully capture the meaning of ""mentally"" in the source text. The translation is more literal and does not convey the intended meaning of using psychic or extrasensory abilities to contact someone.
+[Minor]: accuracy/addition - The translation ""あなたの霊的な覚醒を使うことにしました"" adds the phrase ""your spiritual awakening"" which is not present in the source text."
+436,"#today I have coffee, sunshine and quiet time!",今日は、コーヒー、日差し、そして静かな時間があります!,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds ""そして"" (and) which is not present in the source text."
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,不均一に紡がれた銀灰色の糸で、ほとんどが細く紡がれているが、ところどころに塊がある。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""不均一に紡がれた銀灰色の糸で、ほとんどが細く紡がれているが、ところどころに塊がある"" does not fully capture the meaning of the source text ""I found a unevenly spun silver gray yarn that is mostly finely spun with lumps."" The translation focuses more on the physical description of the yarn rather than the fact that the source text indicates the yarn was ""found.""
+[Minor]: accuracy/addition - The translation includes the phrase ""ほとんどが"" (mostly), which is not present in the source text."
+441,But am not sure I have enough of the purple.,紫色は十分ではないかもしれません。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""紫色は十分ではないかもしれません"" does not fully convey the meaning of the source text ""But am not sure I have enough of the purple."" The translation focuses on the uncertainty about having enough of the purple color, while the source text expresses uncertainty about having enough of the purple.
+
+[Minor]: no-error"
+446,I have literally tried and dropped EVERY SINGLE ONE.,私は文字通り試して、すべてのものを手放しました。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Japanese translation ""私は文字通り試して、すべてのものを手放しました。"" does not precisely reflect the meaning of the English source ""I have literally tried and dropped EVERY SINGLE ONE."" The Japanese translation suggests that the person has tried and let go of all the things, while the English source indicates that the person has tried and dropped every single one of the things.
+
+[Minor]: no-error"
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして2年ほど前まで、私は成績を確認するまで全く知らなかった。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""私は成績を確認するまで全く知らなかった"" does not fully convey the meaning of the source text ""I had no idea until I checked my transcripts."" The translation focuses more on the action of checking the transcripts, while the source emphasizes the lack of prior knowledge.
+[Minor]: no-error
+
+The translation accurately conveys the overall meaning of the source text, with the only notable difference being the emphasis on checking the transcripts versus the lack of prior knowledge. This is a minor difference that does not significantly impact the comprehension of the text."
+448,The literature class hatred is even worse: I love to read.,文学クラスの嫌悪感はさらに悪化しています。私は読書が大好きです。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""文学クラスの嫌悪感はさらに悪化しています"" does not accurately reflect the meaning of the source text ""The literature class hatred is even worse"". The translation suggests that the hatred towards the literature class has worsened, while the source text indicates that the hatred towards the literature class is even worse.
+[Minor]: accuracy/addition - The translation ""私は読書が大好きです"" adds the phrase ""I love to read"" which is not present in the source text."
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしく、そこにいるときは幸せですが、小説を読むためにリラックスするには、別の場所にいる必要があります。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""リラックスするには、別の場所にいる必要があります"" does not fully capture the nuance of the source text, which indicates that the person needs to be in a different place in order to feel comfortable enough to read fiction during the day without feeling guilty. The translation does not convey the sense of guilt or the need to be elsewhere to feel comfortable reading.
+[Minor]: no-error"
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,休暇のように感じられ、そのため休暇中にするようなことをしています。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""そのため休暇中にするようなことをしています"" does not fully capture the meaning of the source text ""therefore am doing what one does on holidays"". The translation focuses more on the feeling of being on vacation, rather than the specific actions being taken.
+[Minor]: no-error"
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",そして、ここの最近の2晩は自宅のように良く眠れていないし、奇異な環境にいるため自分のペースを保つことが難しく、物の場所を覚えなければならないので、少し#MECFS疲れもしています。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""自宅のように良く眠れていない"" does not fully reflect the meaning of ""I haven't slept as well here for the last two nights as I do at home"".
+[Minor]: accuracy/addition - ""奇異な環境にいるため"" adds information not present in the source text.
+[Minor]: accuracy/omission - The translation does not convey the meaning of ""get a little #MECFS ed out"" from the source text."
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",それは興奮させ、神経を逼迫させ、ストレスを感じさせるが、私がゲーム業界で働くことを愛する良いことすべてでもある。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""神経を逼迫させる"" (to put a strain on the nerves) does not fully capture the meaning of ""nerve-wracking"" in the source text, which conveys a sense of anxiety or tension.
+[Minor]: accuracy/addition - The phrase ""すべて"" (all) is added in the translation, which is not present in the source text."
+458,Will a community blossom around the user-generated content piece of the game?,コミュニティはゲームのユーザー生成コンテンツを中心に花開くだろうか?,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""コミュニティはゲームのユーザー生成コンテンツを中心に花開くだろうか?"" does not fully capture the meaning of the source text ""Will a community blossom around the user-generated content piece of the game?"". The translation focuses more on whether the community will ""blossom"" around the user-generated content, while the source text is asking a more open-ended question about whether a community will form around that content.
+[Minor]: none"
+466,So I finally watched #Heartstopper,"はい、ご要望の翻訳は以下の通りです:
+
+ついに#ハーツトッパーを見ました。","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The Japanese translation ""ついに#ハーツトッパーを見ました。"" does not fully capture the meaning of the English source ""So I finally watched #Heartstopper"". The Japanese translation is more literal and does not convey the nuance of ""finally"" watching the show.
+[Minor]: none"
+467,Was it overly cute to the point of being twee?,かわいすぎるほどかわいかったか?,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""かわいすぎるほどかわいかったか?"" does not fully capture the nuance of the source text ""Was it overly cute to the point of being twee?"". The Japanese translation focuses more on the degree of cuteness, while the source text suggests the cuteness may have been excessive or affected (""twee"")."
+476,"In part, because they'd be taught badly.",部分的に、うまく教えられないからです。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""うまく教えられないからです"" does not fully capture the meaning of the source text ""In part, because they'd be taught badly."" The translation focuses on the inability to teach well, while the source text suggests that the teaching would be of poor quality."
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題に対して言い訳をするのではなく、それらを修正することが重要です。特に、リードの変更が必要な本番環境においては、そうすることが大切です。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""fix them"" does not fully capture the meaning of the source text ""just fix them"", which implies a more direct and immediate action.
+[Minor]: no errors."
+479,"Every artist has been there, made the same mistakes.",全ての芸術家がそこにいた、同じ間違いを犯した。,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""全ての芸術家がそこにいた、同じ間違いを犯した"" does not precisely reflect the meaning of the source text ""Every artist has been there, made the same mistakes."" The translation implies that all artists were in the same place and made the same mistakes, while the source text suggests a more general statement about artists making similar mistakes.
+[Minor]: [accuracy/addition] - The translation ""全ての芸術家がそこにいた"" includes the additional word ""全ての"" (all), which is not present in the source text."
+484,Watch seeds being sown & cultivated (and not randomly scattered) by good peeps.,良い人々によって播かれ、育てられる (ランダムに散らばるのではなく) 種子を見る。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""良い人々によって播かれ、育てられる (ランダムに散らばるのではなく) 種子を見る"" does not fully capture the meaning of the source text ""Watch seeds being sown & cultivated (and not randomly scattered) by good peeps."" The translation focuses more on the seeds being sown and cultivated, rather than the act of watching the process.
+[Minor]: accuracy/addition - The phrase ""(ランダムに散らばるのではなく)"" is an addition that is not present in the source text."
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",彼らが小道で通り過ぎる際、ジャミはその手紙を彼に渡した。,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""彼らが小道で通り過ぎる際"" does not precisely reflect the meaning of the source text ""Jami slipped the note to him when they passed each other on the path"". The translation focuses more on the action of passing each other, while the source text emphasizes Jami slipping the note to him.
+[Minor]: accuracy/addition - The translation ""その手紙を"" adds the word ""その手紙"" (that letter) which is not present in the source text."

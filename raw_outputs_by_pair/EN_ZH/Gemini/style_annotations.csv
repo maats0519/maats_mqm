@@ -1,0 +1,463 @@
+index,original,translated,locale_convention_annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.",对我来说，这是一个相当大的假设，因为它只是用一个Direct3D对象创建视口，而不是Direct3D3对象。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""对我来说，这是一个相当大的假设"" could be rephrased for a more natural flow in Chinese."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",某些事实，例如关于亚原子粒子的事实，只能通过在资本主义下才有可能进行的实验才能产生，因为这些实验需要过多的资源、过多的组织和过多的强制力，否则无法完成。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""才能产生"" sounds slightly unnatural in Chinese and could be improved for better flow. A more natural phrasing would be ""...才能够产生"" or ""...才能实现"".
+[Minor]: [Unnatural Flow] - The repetition of ""过多的"" (guò duō de) can be slightly redundant. While grammatically correct, it can be stylistically improved by using a different structure or synonym for one of the instances."
+14,Picking this up this weekend.,这个周末去取。,"```
+MQM annotations:
+Minor: Style/Unnatural Flow - The translation is grammatically correct, but ""这个周末去取"" sounds a bit unnatural in Chinese. A more natural way to express this would be something like ""这个周末去拿"" or ""这个周末去把它拿回来"".
+```"
+15,I was looking for a good first car guy car; and I really love the 80s aesthetic.,我在找一辆不错的入门级“男人味”汽车，而且我真的很喜欢80年代的审美。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""男人味汽车"" (manly car) sounds a bit unnatural in Chinese. While the literal translation is understandable, it's not a common or idiomatic way to describe a ""guy car."" A more natural phrasing might focus on the characteristics of such a car (e.g., performance, appearance)."
+19,I know they're not fast compared,我知道和别人比起来，它们不算快。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, ""我知道和别人比起来，它们不算快"" sounds a bit unnatural in Chinese. A more fluent phrasing might be ""我知道它们跟别人比不算快"" or ""我知道它们相比之下不算快""."
+20,#Venting into the Fediverse time.,在联邦宇宙倒苦水时间。,"MQM annotations:
+Minor: Unnatural Flow - While technically correct, ""在...倒苦水时间"" sounds unnatural and overly literal in Chinese. A more natural phrasing would be ""发泄/吐槽时间"" or ""倾诉时间""."
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,今晚我和我的同居伴侣去酒铺买了一些啤酒和一瓶香槟。,"MQM annotations:
+Style error:
+[Minor]: [Unnatural Flow] - While accurate, the phrase ""我和我的同居伴侣"" (me and my cohabitating partner) sounds a bit formal/stilted compared to the English source. A more natural phrasing might be just ""我伴侣"" (my partner) or ""我对象"" (my significant other) depending on the nuance."
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.",当我们去结账时，收银员是一位相当明显的跨性别女性。,"MQM annotations:
+minor: Unnatural Flow - The phrase ""相当明显的"" (fairly obvious) translates literally but sounds a bit unnatural in Chinese. A more fluent phrasing might be used depending on context."
+25,And then we just... paid for our stuff.,然后我们就...付了钱。,"MQM annotations:
+minor: style/unnatural flow - The translation is grammatically correct but sounds slightly unnatural. Adding a particle like ""就"" after ""我们"" would improve the flow and sound more natural in spoken Chinese."
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,她脸上露出如释重负的笑容让人感觉很好，但她之前感到害怕这件事他妈的太糟糕了，我讨厌它。,"MQM annotations:
+Style Errors:
+[Minor]: [Register/Inappropriate register] - The phrase ""他妈的"" (tā mā de) is a very vulgar expression in Chinese, equivalent to ""fucking"" in English. While it matches the source's level of profanity, depending on the context, a less offensive word choice might be more appropriate for broader audiences, or even omitted for a more formal tone. If the text is supposed to be generally accessible and not specifically targeting a very informal audience, the level of profanity could be considered slightly inappropriate, making it a minor issue.
+[Minor]: [Unnatural Flow/Awkward phrasing] - While grammatically correct, the sentence structure is slightly unnatural. A more natural way to express this in Chinese could be restructuring the sentence for better flow."
+29,This is the stupidest timeline and I hate it dot com.,这是最蠢的时间线，我讨厌它点com。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The translation of ""dot com"" as ""点com"" sounds unnatural in Chinese. While technically accurate, it doesn't flow well. A more natural way to express this sentiment in Chinese would be preferable."
+32,But he can't pardon himself out of state prison.,但他无法特赦自己出州立监狱。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, the phrase ""特赦自己出州立监狱"" sounds slightly unnatural in Chinese. A more common phrasing might be used."
+33,It takes the state's governor.,需要州长。,"MQM annotations:
+Style Errors
+minor: style/unnatural flow - The translation is grammatically correct but sounds too literal and lacks natural flow. The Chinese phrase implies a need or requirement for the governor, which isn't directly conveyed by the English."
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",我们认为语境依赖型交流是一种情境化的多层现象，其受到环境属性（如语境分布）的重大影响。,"MQM annotations:
+minor: Unnatural Flow - While accurate, the phrase ""语境依赖型交流是一种情境化的多层现象"" could be more naturally expressed in Chinese."
+47,Communities gain the knowledge to embed and support their own development.,社区获得知识，从而能够扎根并支持自身发展。,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""从而能够扎根"" (cóng ér nénggòu zhāgēn) feels slightly unnatural and could be rephrased for a smoother flow."
+50,Thousands of trees have been established and farmers have seen increased crop yields through a range of interventions from support with equipment purchases to training.,通过一系列干预措施，从支持设备购买到培训，数千棵树木已经种植成活，农民的作物产量也得到了提高。,"MQM annotations:
+Minor: Style/Unnatural Flow - While the translation is accurate, the phrase ""种植成活"" sounds a bit unnatural in Chinese. A more natural phrasing would be ""种植并成活"" or simply ""种植"" depending on the context, as the success of planting is implied.
+```"
+53,The UPS store near me won't allow me to write a label or write on the box.,我家附近的 UPS 商店不允许我写标签或在箱子上写字。,"MQM annotations:
+minor: style/unnatural flow - The phrase ""我家附近的 UPS 商店"" while technically correct, sounds a bit unnatural. A more natural phrasing might be just ""附近的 UPS 商店"" or ""我附近的 UPS 店""."
+55,They won't allow me to tell them the address it's going to and who is shipping it.,他们不允许我告诉他们寄往的地址和是谁寄的。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - While grammatically correct, the phrase ""寄往的地址"" (address it's going to) sounds slightly unnatural in Chinese. A more common and natural phrasing might be ""收货地址"" (receiving address).
+minor: Unnatural Flow - The phrasing ""是谁寄的"" (who is shipping it) is grammatically correct but can be slightly improved for naturalness. ""谁寄的"" is more succinct and natural."
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.",这是一场暴行，就像一场象征性的1月6日反民主谎言和委屈节，由美国媒体自取灭亡地举办。,"MQM annotations:
+minor: unnatural flow - ""自取灭亡地举办"" (hosted self-destructively) sounds unnatural in Chinese. A more natural phrasing could be ""搬起石头砸自己的脚地举办"" or something similar. The current translation, while understandable, feels overly literal and slightly awkward."
+61,Licht AGREED to an all Republican audience!,利希特同意面对全体共和党观众！,"MQM annotations:
+Style error:
+[Minor]: [Unnatural Flow] - The translation is grammatically correct, but ""面对全体共和党观众"" sounds a bit unnatural in Chinese. A more natural rendering might be something like ""同意只面向共和党观众"" or ""同意只接受共和党观众的采访""."
+64,The ratings--seeking delusional irresponsibility of it all.,追逐收视率的妄想般的不负责任。,"MQM annotations:
+minor: style/unnatural flow - The phrase ""妄想般的"" (wang xiang ban de) feels a bit unnatural and could be phrased more elegantly in Chinese. While accurate, it sounds somewhat literal."
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.",我家地下室非常漏风，这基本上意味着会有很多啮齿动物进来避难。,"MQM annotations:
+minor: unnatural flow - The phrase ""这基本上意味着"" (this basically means) sounds a bit unnatural and could be rephrased for better flow in Chinese. A more natural expression might be ""因此"" (therefore) or simply implied.
+minor: register - ""避难"" (bì nàn) which translates to ""take refuge"" or ""seek asylum"" carries a slightly more formal or serious tone than might be necessary for rodents simply seeking shelter from the elements. ""躲避"" (duǒ bì) or ""藏身"" (cáng shēn) might be more appropriate."
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨晚我终于受够了这种一成不变的生活，把所有的捕鼠器都清理掉了花生酱，然后用强力胶粘了一颗开心果在上面。,"MQM annotations:
+minor: unnatural flow - The phrase ""一成不变的生活"" is translated literally as ""this routine"", which sounds unnatural in Chinese. A better translation could be ""日复一日的生活"" or ""枯燥的生活"".
+minor: unnatural flow - The phrase ""cleaned all the traps of peanut butter"" is translated as ""把所有的捕鼠器都清理掉了花生酱"", which is grammatically correct but slightly awkward. A more natural way to say it would be ""把所有的捕鼠器上的花生酱都清理掉了""."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",恕我直言，我尝试了市面上几乎所有“人道”的捕鼠器，但效果甚微。,"MQM annotations:
+Minor: Style/Unnatural Flow - While accurate, the phrase ""恕我直言"" (shù wǒ zhí yán) translated as ""fwiw"" might be considered a slightly more formal register than the original abbreviation implies. It's not incorrect, but it leans toward a more literary or polite style, while ""fwiw"" is more conversational. A closer equivalent might be something like ""说实话"" (shuō shí huà), which carries a similar casual ""to be honest"" feel."
+73,I'm tired of conservative parties and governments wrapping themselves in the brand of pro-business.,我厌倦了保守党派和政府将自己包装成亲商的品牌。,"MQM annotations:
+minor: unnatural flow - The phrase ""将自己包装成亲商的品牌"" sounds a bit awkward and could be phrased more naturally in Chinese. A more natural way to express this would be to say something like ""打着亲商的旗号"" or ""以亲商为幌子""."
+74,"They aren't, at least not in Alberta.",至少在阿尔伯塔省不是。,"MQM annotations:
+minor: Style/Unnatural Flow - While the translation is accurate, it sounds slightly awkward and could be phrased more naturally in Chinese. A more common phrasing might be something like ""至少在阿尔伯塔省不是这样"" or ""至少阿尔伯塔省不是如此""."
+75,Sure they cut business taxes.,当然，他们削减了商业税。,"MQM annotations:
+minor: style/unnatural flow - The translation is grammatically correct, but sounds a bit literal. It could be improved for a more natural flow in Chinese."
+78,"Discovered the hard way that in 2023, local TV station web sites are the absolute worst experience on the internet.",痛苦地发现，在2023年，地方电视台的网站绝对是互联网上最糟糕的体验。,"MQM annotations:
+Minor: Unnatural Flow - While grammatically correct, the phrase ""痛苦地发现"" (painfully discovered) is a slightly unnatural way to start the sentence in this context. A more natural phrasing might be ""我后来才发现"" (I later discovered) or a similar construction."
+79,"Popups, auto-play videos, animations, popovers, and ads, ads, ads.",弹出窗口、自动播放视频、动画、弹出框、以及广告，广告，广告。,"MQM annotations:
+minor: style/Unnatural Flow - The repetition of ""广告"" (ads) three times, while accurate, feels somewhat unnatural in Chinese. It could be expressed more fluently or creatively. A more natural way to express this might involve using an intensifier or a slightly different structure."
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.",即使在goatse.cx已经消失的现在，情况仍然如此。不过，如果要在goatse和khou.com（我在那里尝试观看Wendy发给我的视频）之间选一个最烂的网站，那将会是一场势均力敌的比赛。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""情况仍然如此"" (situation is still like that) is a bit stiff and could be rephrased for smoother flow in Chinese. While grammatically correct, it sounds slightly unnatural.
+minor: unnatural flow - ""一场势均力敌的比赛"" (a close race) is a correct translation, but in this context of comparing two ""bad"" websites, a more vivid and less literal expression could be used to convey the idea of both being equally awful.
+```"
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",“我只是送他到格拉斯哥，”我试图解释，一边指着我的旅伴。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The sentence structure is grammatically correct but sounds slightly unnatural in Chinese. A more fluent phrasing might be preferred.
+```"
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,昨晚发生的事情让我确信我们需要做好准备，反击特朗普主义。,"MQM annotations:
+minor: unnatural flow - The phrase ""昨晚发生的事情"" (zuowan fasheng de shiqing) while literally correct, is a bit verbose. A more natural phrasing would be something like ""昨晚的事"" (zuowan de shi)."
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,搞一些反特朗普的保险杠贴纸，到处贴。,"MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""搞一些...到处贴"" is grammatically correct but sounds a bit too informal and lacks the nuance and flow a native speaker might use in this context. A more polished phrasing could exist."
+95,Yell back at those who would try to talk over us.,对那些试图盖过我们声音的人，大声回应回去。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""大声回应回去"" (dà shēng huíyìng huíqu) sounds a bit redundant and unnatural in Chinese. While grammatically correct, a more natural way to express this would be shorter and more direct."
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,所以我赶紧冲进公寓想躲开他，但他还是追上来和我聊天了。,"MQM annotations:
+minor: Unnatural Flow - While grammatically correct, ""但他还是追上来和我聊天了"" feels a bit wordy and could be more naturally expressed in Chinese. A slightly more concise phrasing might improve the flow."
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,我再说一遍。到处散播你的新冠病毒飞沫是不被社会接受的！！！,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The use of ""再说一遍"" (I repeat) is a bit redundant and forceful in this context. A more natural way to phrase it would be without the repetition.
+[Minor]: [Unnatural Flow] - The phrase ""新冠病毒飞沫"" (COVID virus droplets) is accurate but could be slightly more natural or simplified, depending on the target audience.
+[Minor]: [Register] - The use of ""!!!"" makes it feel slightly informal and aggressive, even though the source text implies a similar level of frustration. Depending on the context, a less emphatic punctuation might be more suitable."
+104,Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.,安倍把悲伤藏在心底，笑容常挂脸上；而汤姆则不怕流泪，但对粗俗的笑话不感兴趣。,"MQM annotations:
+Minor: Style/Unnatural Flow - While grammatically correct, ""笑容常挂脸上"" sounds slightly unnatural in Chinese. A more natural expression might be something like ""总是面带笑容"" or ""脸上总是带着笑容."""
+106,Mio knows that sorrow is life's constant companion.,澪知道悲伤是人生的永恒伴侣。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""人生的永恒伴侣"" (rénshēng de yǒnghéng bànl侣) while literally correct, sounds slightly unnatural in Chinese. A more common and natural phrasing might be something like ""人生常伴"" (rénshēng chángbàn) or ""人生如影随形"" (rénshēng rú yǐng suíxíng) to convey the idea of sorrow being a constant companion in life."
+108,#CNN needs to just close down.,CNN 应该倒闭了。,"MQM annotations:
+Style Errors:
+[Minor]: [Register/Inappropriate register] - The translation is a bit too direct and blunt. While accurate, using a slightly less forceful phrase might be more appropriate in certain contexts. ""应该倒闭了"" (should close down) is very strong. A more nuanced translation could use a phrase implying it should cease operations or be reformed."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨天的#芒果莫伦 惨败简直是场荒唐的惨败。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - While accurate, the repetition of ""惨败"" (fiasco) sounds somewhat unnatural in Chinese. A more fluent translation might use a synonym or rephrase the sentence to avoid the repetition."
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.",书呆子学生阿尼·坎宁安爱上了克莉丝汀，一辆锈迹斑斑的1958年款普利茅斯·弗瑞，并痴迷于将这辆经典汽车修复到昔日的辉煌。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""昔日的辉煌"" (xīrì de huīhuáng) while accurate, could be rephrased for a more natural flow in Chinese. A slightly more colloquial or idiomatic expression might be better."
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.",随着汽车的改变，阿尼也随之改变，他新获得的自信在驾驶着他的异国情调的美车时变成了傲慢。,"MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""异国情调的美车"" (exotic beauty car) sounds slightly unnatural in Chinese. A more natural phrasing might be ""豪华跑车"" (luxury sports car) or ""造型独特的跑车"" (uniquely styled sports car)."
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,我的邻居们与我为敌，其中最令人难以置信的一点是想到要充满敌意得需要付出多大的努力。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""充满敌意得需要付出多大的努力"" sounds a bit awkward and could be phrased more naturally in Chinese. A more natural phrasing could be ""要怀有敌意需要付出这么多的努力"" or similar."
+126,It hurts but you gotta do you.,虽然很伤人，但你还是要做你自己。,"```
+MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - While the translation is accurate, it sounds slightly unnatural in Chinese. A more idiomatic way to express this might be to rephrase the sentence for better flow and impact. The current translation is grammatically correct but lacks a certain naturalness in its phrasing.
+```"
+127,But at this point the open hostility and violence is getting worse.,但此时公开的敌意和暴力正在加剧。,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""但此时"" (but at this point) is not the most natural way to begin the sentence in Chinese. It's not incorrect, but it can be more elegantly phrased. A slightly more natural phrasing might be to omit ""但此时"" entirely or use a different opening."
+128,That takes effort.,这需要付出努力。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The translation is grammatically correct but sounds a bit formal and stiff. A more natural translation could be simpler, like ""这需要努力。"""
+132,They had keys to my apartment for 6+ years.,他们有我家公寓钥匙六年多了。,"MQM annotations:
+minor: style/unnatural flow - While grammatically correct, ""有我家公寓钥匙六年多了"" sounds slightly unnatural. A more natural phrasing might be ""我家公寓的钥匙他们有六年多了"" or ""他们有我家公寓钥匙已经六年多了."""
+134,I am aware of your hatred of Organa.,我知道你憎恨奥加纳。,"MQM annotations:
+minor: style/unnatural flow - While grammatically correct, ""我知道你憎恨奥加纳"" sounds a bit too direct and harsh. A more natural phrasing might be used depending on the context."
+142,The Last of Us is an easy and canonical example of dad-ification.,《最后生还者》是“爹化”现象的一个简单而典型的例子。,"```
+MQM annotations:
+Minor: Style/Unnatural Flow - The term ""爹化"" is translated as ""爹化"" which is a direct transliteration and might not be readily understood by the target audience without further context or explanation. A more natural or explanatory translation might be preferable.
+```"
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父亲化通常假定，解决父辈角色必须照顾或保护儿童或儿童替代品的情况的方法是压倒性的力量，并利用这种力量来强加一种特定形状的权力动态。,"MQM annotations:
+minor: unnatural flow - The phrase ""父亲化通常假定"" (Father-ification usually assumes) sounds a bit awkward and formal in Chinese. A more natural phrasing might be ""父亲化现象通常认为"" or similar, to improve readability.
+minor: unnatural flow - ""强加一种特定形状的权力动态"" (impose a specifically shaped power dynamic) is grammatically correct but sounds slightly unnatural. Consider rephrasing for better flow."
+149,- We provide links to where you can book the fare.,我们提供预订机票的链接。,"MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While accurate, the translation sounds slightly unnatural. ""提供预订机票的链接"" is grammatically correct but could be more naturally phrased in Chinese depending on the context. A more fluid wording could be used, but the current version is acceptable."
+151,- More details are in the full blog post.,更多详情请见完整博文。,"```
+MQM annotations:
+Minor: Style/Unnatural Flow - While grammatically correct, ""更多详情请见完整博文"" sounds a bit formal and stiff in Chinese. A more natural flow might be ""更多细节请阅读完整博文"" or ""详细内容请参考完整博文.""
+```"
+159,Over time dart became my go-to for quick UI.,随着时间的推移，Dart成了我快速构建UI的首选。,"MQM annotations:
+minor: Unnatural Flow - While accurate, the phrase ""成了我快速构建UI的首选"" sounds a bit formal and could be more naturally expressed. A more colloquial option might be ""Dart 变成了我快速构建 UI 的不二之选"" or a similar variation."
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.",使用 Flutter 开发是一种享受，并且他们有 MobX 可以轻松进行状态管理。,"MQM annotations:
+minor: UNNATURAL FLOW - While the translation is accurate, ""可以轻松进行状态管理"" sounds a bit unnatural. A more natural phrasing might be something like ""方便地进行状态管理"" or ""轻松地管理状态""."
+164,Echidna with amethyst and magenta spikes.,具有紫水晶色和品红色尖刺的针鼹.,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""具有...的针鼹"" (having...echidna) sounds slightly unnatural in modern Chinese. A more fluent phrasing might be preferred.
+```"
+167,"Their hair is raspberry, short and curly.",他们的头发是覆盆子色，又短又卷。,"MQM annotations:
+minor: style/Unnatural Flow - While technically correct, ""又短又卷"" sounds a bit awkward and literal. A more natural phrasing might be ""短而卷曲"" or ""又短又蓬松""。"
+169,Their most interesting feature is their good deeds.,他们最引人注目的特点是他们的善行。,"MQM annotations:
+minor: style/unnatural flow - While grammatically correct, ""他们最引人注目的特点是他们的善行"" sounds somewhat formal and stiff. A more natural phrasing in Chinese might be ""他们最让人印象深刻的是他们的善行"" or something similar. This isn't a major flaw, but it could be improved for a more fluent reading experience."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",尽管布莱姆·斯托克、马克斯·施莱克和斯蒂芬妮·梅尔尽了最大努力想让他们看起来很糟糕 - 每个人...,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""尽了最大努力想让他们看起来很糟糕"" is a bit wordy and could be more concise and natural in Chinese. A slightly more idiomatic phrasing would improve the flow."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","Okay, I will provide translations into Mandarin and (a phonetic approximation of) Hokkien based on my best understanding. Please note that without more context, these translations might not be perfect.
+
+**Mandarin:**
+
+需要把它翻译成普通话和/或福建话，但我完全不懂。请直接提供翻译，不要添加任何额外的文字。
+
+**Hokkien (Approximate Phonetic):**
+
+Beh su-iau than i pien-yi chit cho pu-thong-ua kah/iah Hok-kien-ua, wa chiong-kai m chai-xiau. Chiah-ho thui-kien pien-yi, m-thang ka thiam kia-pah e su-ji.","MQM annotations:
+minor: style/unnatural flow - The phrase ""需要把它翻译成普通话和/或福建话，但我完全不懂"" sounds a bit awkward. A more natural way to phrase it would be something like ""请将它翻译成普通话或福建话，我对此一窍不通。""
+minor: style/unnatural flow - ""请直接提供翻译，不要添加任何额外的文字"" is slightly unnatural and could be phrased more simply as ""请直接翻译，不要添加任何额外文字。""
+
+MQM annotations:
+minor: style/unnatural flow - ""Beh su-iau than i pien-yi chit cho pu-thong-ua kah/iah Hok-kien-ua, wa chiong-kai m chai-xiau"" feels somewhat unnatural. Although conveying the meaning, it could be improved with better idiomatic Hokkien. This requires in-depth knowledge of the language.
+minor: style/unnatural flow - ""Chiah-ho thui-kien pien-yi, m-thang ka thiam kia-pah e su-ji"" also reads somewhat literally and could be improved for a more fluid and natural sound in Hokkien. Again, requires expert knowledge."
+179,Been toying with this thought for a little while:,脑海里盘旋这个想法有一阵子了。,"MQM annotations:
+minor: Unnatural Flow - The phrase ""脑海里盘旋"" (nǎohǎi lǐ pánxuán) while literally correct, sounds slightly unnatural and formal for such a casual thought. A more colloquial phrasing might be preferred."
+182,Because it happens in the mind and seems less tangible than physical health.,因为它发生在脑海中，并且似乎不如身体健康那样有形。,"MQM annotations:
+Style error:
+minor: Unnatural Flow - The phrase ""并且似乎不如身体健康那样有形"" feels slightly unnatural. A more natural phrasing might exist in Chinese."
+189,"My sex is non-binary, my gender is female.",我的生理性别为非二元性别，我的性别认同为女性。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The translation is grammatically correct but sounds slightly unnatural in Chinese. It's overly literal in directly translating ""My sex is non-binary"" and ""My gender is female"" into distinct phrases mentioning ""生理性别"" (physiological sex) and ""性别认同"" (gender identity). While accurate, it lacks a more natural and concise phrasing common in Chinese when discussing gender identity."
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,类似于德国摇滚的情绪，超凡脱俗的流行音乐，无线电音响工作室，以及诸如此类的东西。,"```
+MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - ""诸如此类的东西"" (zhū rú cǐ lèi de dōngxī) is a very literal translation of ""and all sorts"". While accurate, it sounds unnatural and could be phrased more fluently in Chinese, for example, using phrases like ""等等"" (děng děng) or similar expressions depending on the desired tone.
+```"
+196,Playing around a bit with Flutter.,稍微玩了一下 Flutter。,"MQM annotations:
+Styles error:
+minor: style/unnatural flow - The translation is grammatically correct but sounds a bit too literal and not as natural as it could be. A more idiomatic translation might be better."
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",说实话，我不想把我的业务建立在谷歌的技术之上。但另一方面，谷歌是少数几个真正有动力创造引人注目的跨平台体验的大公司之一，而且这一点也体现了出来。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""而且这一点也体现了出来"" sounds a bit unnatural and could be phrased more elegantly in Chinese. While it's understandable, a more idiomatic expression would improve the flow.
+```
+MQM annotations:
+Minor: Unnatural Flow - The phrase ""而且这一点也体现了出来"" sounds a bit unnatural and could be phrased more elegantly in Chinese. While it's understandable, a more idiomatic expression would improve the flow.
+```"
+203,A few very small difficulties have come to light.,出现了一些小问题。,"```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - While accurate, the translation ""出现了一些小问题"" is a very basic and common way to say ""A few very small difficulties have come to light."" A more nuanced translation might be more appropriate depending on the context.
+```"
+204,Nothing to set alarm bells ringing but nevertheless they are being addressed.,虽无须过度担忧，但相关问题正在处理中。,"MQM annotations:
+minor: style/unnatural flow - While the translation accurately conveys the meaning, the phrasing ""虽无须过度担忧，但相关问题正在处理中"" sounds slightly formal and stiff. A more natural phrasing might use a different connector or a more common expression for ""being addressed."""
+205,A small update will be produced next week to correct them.,下周将会发布一个小更新来修正它们。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""下周将会发布一个小更新来修正它们"" is grammatically correct but sounds slightly unnatural. A more natural phrasing could be ""下周将发布一个小更新以修正这些问题"" or similar.
+```"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,我不太清楚为什么我的大脑想不明白；可能是因为工具过于宽泛和模糊，导致我的大脑因为“选项太多”而直接卡死。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""大脑想不明白"" sounds slightly unnatural. A more natural phrasing might be ""搞不明白"" or ""无法理解"".
+minor: Unnatural Flow - The phrase ""直接卡死"" is a very literal translation of ""hardlocks"" and sounds a bit awkward in Chinese. A more natural phrasing could be ""完全停滞"" or ""彻底卡住""."
+217,"There's... no way that would work, probably!",不太可能吧！,"MQM annotations:
+Minor: Style/Unnatural Flow - The English source ""There's... no way that would work, probably!"" suggests a more hesitant and uncertain tone. The Chinese translation ""不太可能吧！"" is correct but sounds a bit too assertive in comparison. A more nuanced translation could better capture the original sentiment."
+219,I was a voracious reader in my youth.,我年轻的时候是个贪婪的读者。,"MQM annotations:
+Minor: Style/Unnatural Flow - ""贪婪的读者"" (greedy reader) sounds slightly unnatural in Chinese. While literally correct, it's more common and natural to say ""爱读书的人"" (a person who loves reading) or a similar phrase."
+228,"But if Spotify has a good quarter, they will.",但如果Spotify这季度表现良好，他们会的。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, the phrase ""他们会的"" sounds slightly unnatural in this context. A more natural phrasing might be ""他们会的/他们会的吧"" depending on the intended nuance of certainty or possibility. The original translation isn't incorrect, just not the most fluent."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,让他们重建全国那些被掏空且日益衰败的城市。,"MQM annotations:
+minor: unnatural flow - The phrase ""被掏空且日益衰败的城市"" (cities that have been hollowed out and are decaying) is a bit wordy and could be expressed more naturally in Chinese. A more concise phrasing might improve the flow."
+235,These headlines and articles usually reference one CEO at one large company.,这些标题和文章通常只提及一家大型公司的一位首席执行官。,"```
+MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""只提及"" could be slightly more naturally rendered in this context, although it's not incorrect. A more common phrasing might be ""提到"" or ""提及"".
+```"
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,这都是标题党，但它确实让我担心那些阅读这些文章的高管和经理们。,"MQM annotations:
+minor: Unnatural Flow - The phrase ""这都是标题党"" translates directly to ""This is all clickbait"", but in this context, it sounds slightly unnatural. A more natural phrasing might be ""这些都是标题党文章"" (These are all clickbait articles)."
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,它使人们能够避免耗时的通勤，从而节省时间和陪伴家人的时间。,"MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""从而节省时间和陪伴家人的时间"" feels slightly redundant and could be more concise in Chinese. It implies saving both time and the time spent with family, which is somewhat repetitive. A more natural phrasing could streamline this."
+247,"""This is a war between the pro-humans and anti-humans,"" he said.",“这是一场亲人类和反人类之间的战争，” 他说。,"MQM annotations:
+minor: unnatural flow - While grammatically correct, the sentence structure is a bit stiff and could be more natural in Chinese. A more common phrasing might be something like “他说，这是一场…”"
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,他还认为，新民主党和进步人士为了环境，想要减少社会人口。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""为了环境，想要减少社会人口"" sounds a bit unnatural. A more fluent translation might rephrase this."
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,每当梅伊出现，我就害怕过生日。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""每当梅伊出现"" (Whenever May would pop up) sounds a bit awkward and could be phrased more naturally in Chinese. A more common way to express this might be ""每次梅伊出现的时候"" (Every time May appears)."
+258,Winter is 30 days away in this little part of the Great Southern World.,在这个南半球的这小片地方，离冬天还有30天。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - While accurate, ""这小片地方"" sounds slightly unnatural and could be phrased more elegantly in Chinese.
+```"
+261,"The rain is falling and whilst/while it is not frozen, you ain't going dancing in it!",下着雨，虽然没结冰，但你也别想在雨中跳舞了！,"```
+MQM annotations:
+Style Errors:
+minor: style/register - The use of ""你"" (nǐ) is generally acceptable but leaning towards informal. While the context isn't extremely formal, slightly more neutral or less direct wording could improve the overall tone.
+minor: style/unnatural flow - ""但也别想在雨中跳舞了！"" is grammatically correct but slightly abrupt and could be phrased more naturally in some contexts to soften the tone.
+
+```"
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,你知道有什么高性能的方法可以让 Web 组件响应被添加到文档或从文档中移除的事件吗？,"MQM annotations:
+minor: unnatural flow - The phrase ""你知道有什么高性能的方法可以让 Web 组件响应被添加到文档或从文档中移除的事件吗？"" while grammatically correct, sounds a bit unnatural in Chinese. A more fluent phrasing might exist."
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",我们创建一个分离的临时父对象，将MO安装在那里，并观察它变为分离状态（因此被附加到其他地方）。,"MQM annotations:
+Style Errors:
+minor: style/unnatural flow - ""将MO安装在那里"" can be phrased more naturally.
+minor: style/unnatural flow - ""因此被附加到其他地方"" sounds a bit too literal. A more natural phrasing might be ""从而附加到其他位置""."
+276,He's just absolutely ripped from tearing around my office twice a day.,他每天在我办公室里跑两趟，绝对练出来了。,"MQM annotations:
+Style Errors:
+minor: style/Unnatural Flow - The phrase ""绝对练出来了"" sounds a bit unnatural and could be phrased more smoothly in Chinese to convey the idea of becoming very muscular. A more natural phrasing might focus on the visual impact of the person's physique."
+277,"I don't have a scale to weigh him, but he feels like he's well over a pound.",我没有秤来称他，但他感觉肯定超过一磅了。,"MQM annotations:
+minor: style/Unnatural Flow - While accurate, the phrase ""但他感觉肯定超过一磅了"" could be more naturally expressed in Chinese."
+278,It makes me so happy to see him thriving.,看到他过得这么好，我真替他高兴。,"MQM annotations:
+Style Errors:
+minor: Style/Unnatural Flow - While grammatically correct, the phrase ""我真替他高兴"" can sound slightly unnatural in certain contexts. A more natural expression might be ""我真的为他感到高兴"" or ""我为他感到非常高兴"", depending on the desired nuance."
+280,1) Slight modifications to the Hel's Fighters map layout.,对赫尔战士地图布局的轻微修改。,"MQM annotations:
+minor: style/unnatural flow - While grammatically correct, ""对...的轻微修改"" (dui...de qingwei xiugai) is a common structure but can sometimes sound slightly stiff in Chinese. Depending on the context, a more fluid phrasing might be preferred."
+286,"All collards, kale, chard is transplanted.",所有羽衣甘蓝、芥蓝、莙荙菜都已移栽。,"MQM annotations:
+minor: style/unnatural flow - The sentence structure is a bit awkward in Chinese. It would sound more natural with a slight rearrangement."
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,吉尔平的春豌豆已经长出来了，需要搭棚架了。,"MQM annotations:
+Minor: Unnatural Flow - The translation is grammatically correct but sounds slightly unnatural in Chinese. A more natural way to express the need to set up trellises would be to use a phrase like ""该开始搭建棚架了""."
+291,"Apple Maps comes default with iOS, and yet people would go out of their way to download and install Google Maps onto their iPhones.",苹果地图是 iOS 的默认应用，但人们仍然会特意下载并在他们的 iPhone 上安装谷歌地图。,"MQM annotations:
+minor: Unnatural Flow - While grammatically correct, the phrase ""特意下载并在他们的 iPhone 上安装"" sounds slightly redundant and could be streamlined for a more natural flow in Chinese. For example, one might consider shortening it to just ""特意在 iPhone 上下载安装""."
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).",出于好奇，我保持开放心态，对比了 Google 地图和 Apple 地图在我的测试 iPhone 设备上的表现（我的主力机是安卓设备，所以很少使用 iPhone）。,"```
+MQM annotations:
+minor: style/unnatural flow - The phrase ""我的主力机是安卓设备，所以很少使用 iPhone"" sounds a bit unnatural. A more natural way to express this could be ""因为我主要用安卓设备，所以很少用 iPhone"" or something similar.
+```"
+297,No idea.,不知道。,"```
+MQM annotations:
+minor: style/unnatural flow - While accurate, ""不知道"" is a very direct translation and might benefit from a more nuanced or contextual rendering depending on the surrounding text. It's not *wrong*, but it's a bit basic.
+```"
+300,Could it be that Google Search is integrated with Google Maps?,Google搜索是否可能与Google地图集成？,"MQM annotations:
+minor: style/unnatural flow - The sentence structure is grammatically correct but sounds slightly unnatural in Chinese. A more common phrasing might be ""Google搜索是否有可能与Google地图相结合？"" or ""Google搜索是否与Google地图有集成？"""
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.",我个人倾向于不向最终用户发布垃圾产品。 苹果2012年发布的苹果地图简直是一场灾难。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""简直是一场灾难"" (jian zhi shi yi chang zainan) which translates to ""simply a disaster"" or ""simply a catastrophe"" is a bit strong and unnatural in this context. A more nuanced translation could be used for better flow."
+306,The house itself declines in value because it loses its condition and needs to be replaced.,房子本身因失去状况和需要更换而贬值。,"```
+MQM annotations:
+Minor: Unnatural Flow - The phrase ""失去状况"" sounds unnatural in Chinese. A more natural phrasing would be ""状态变差"" or ""状况不好"".
+Minor: Unnatural Flow - ""需要更换"" can be improved for better flow. A more natural phrase would be ""需要维修更换"".
+```"
+310,They're not stupid enough to sell the sell forever.,他们还没蠢到会永远卖下去。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""他们还没蠢到会永远卖下去"" while understandable, sounds slightly unnatural. A more common way to express the sentiment might be ""他们没那么蠢，会一直卖下去."""
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,观看澳大利亚和美国媒体频道时，你似乎无法想象土地有一天会被夺走，但这正是因为富人整天在那里确保你的思想朝着某个方向思考。,"MQM annotations:
+minor: Unnatural Flow - The phrase ""整天在那里确保你的思想朝着某个方向思考"" (zheng tian zai nali quebao ni de sixiang chaozhe mou ge fangxiang sikao) while literally accurate, sounds a bit unnatural and wordy in Chinese. A more idiomatic phrasing could improve the flow."
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.",敬各位投资者，我举杯祝愿你们成功，梦想成真。,"MQM annotations:
+minor: style/unnatural flow - While the translation is accurate, the phrase ""梦想成真"" (mèngxiǎng chéngzhēn) is a very common and somewhat cliché expression for ""dreams come true."" A more sophisticated or nuanced translation might be preferred, depending on the specific context and desired tone. However, this is a subjective preference and doesn't significantly hinder comprehension."
+322,Let us continue to work together towards creating a brighter future for all.,让我们继续携手合作，共创美好未来。,"```
+MQM annotations:
+minor: style/unnatural flow - While accurate, the phrase ""携手合作，共创美好未来"" is a common and slightly cliché phrase. A more modern or engaging translation could be used, though this is a minor issue.
+```"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,我常常惊叹于人类这种能力，他们明明被如此多的关于真正残忍的证据所包围，却还能如此贬低自己。,"MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While grammatically correct, the phrase ""他们明明被如此多的关于真正残忍的证据所包围，却还能如此贬低自己"" sounds a bit unnatural and overly literal in Chinese. A more idiomatic phrasing might improve the flow."
+327,We're all such messy critters.,我们都是这样邋遢的生物。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - ""这样"" sounds a bit unnatural and could be omitted for a smoother flow. A more natural translation could be simply ""我们都是邋遢的生物。"""
+332,"or ""Modal editors are useless today"" :morty:",或者“模态编辑器今天已经没用了” :morty:,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""模态编辑器今天已经没用了"" sounds a bit stiff and could be more naturally expressed in Chinese.
+minor: register - The use of "":morty:"" is inconsistent with the formal tone of the rest of the sentence. While it may be appropriate in some contexts, in this case, it detracts from the overall polish of the translation, making it less professional or suitable for a general audience."
+336,How would you share personal libraries?,你如何分享个人书库？,"MQM annotations:
+minor: unnatural flow - The translation sounds a bit awkward. A more natural way to phrase it in Chinese might be ""你有什么方法来分享个人书库？"" or ""你会如何分享你的个人书库？"""
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",总有一天我要体验在高空达到性高潮的滋味，或许不是跟陌生人。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""总有一天我要体验在高空达到性高潮的滋味"" sounds a bit too verbose and formal. A more natural and casual way to express this in Chinese might be shorter and less descriptive.
+[Minor]: [Register] - The phrase ""或许不是跟陌生人"" uses a slightly softer, more hesitant tone than the original ""maybe not with a str"", which implies something more direct or suggestive, bordering on mischievous."
+342,I don't agree that #Mastodon is difficult to setup.,我不认为#Mastodon很难设置。,"MQM annotations:
+minor: style/Unnatural Flow - While the translation is accurate, it sounds slightly unnatural in Chinese. A more natural way to express the same idea would be to rephrase it slightly to improve the flow.
+```"
+345,"I wish there was a ""who to follow"" recommendation somehow.",我希望有个类似“推荐关注”的功能。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - While the translation is accurate, it could be slightly improved for naturalness. A more idiomatic rendering could be considered.
+```"
+347,If you stick to the default web interface it doesn't look and feel good (imho).,如果你坚持使用默认的网页界面，它看起来和用起来都不好 (恕我直言)。,"MQM annotations:
+minor: style/unnatural flow - The phrase ""看起来和用起来都不好"" is a very literal translation of ""look and feel good"" and sounds slightly unnatural in Chinese. A more natural phrasing could be ""体验不好"" or ""效果不好.""
+minor: style/register - Using ""(恕我直言)"" which translates to ""if I may be so bold"" or ""frankly speaking"", is a bit too formal or strong in tone for the original ""imho"". A milder closing would be preferable."
+352,Explanation: account for both sides of mutual influence,解释：兼顾相互影响的正反两面。,"```
+MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""正反两面"" (positive and negative sides) sounds slightly unnatural in this context. A more natural translation might be ""各个方面"" (various aspects) or similar. Although the current translation is understandable, it lacks a smooth and natural flow.
+```"
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.",即使他没能在市民大会上说出来，在现在到2024年11月之间，美国的每个人都会听到这些话，而且是反复听到。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - While grammatically correct, the phrase ""美国的每个人都会听到这些话，而且是反复听到"" could be more concise and natural. For instance, ""...美国人都会反复听到这些话"" would improve flow."
+366,Throwing everything you've got over the fence in response to GPT is not it.,把所有东西都一股脑地扔过墙来应对GPT可不是个好办法。,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""一股脑地"" while accurate, sounds a bit unnatural and could be phrased more elegantly in Chinese. A more natural phrasing could be considered."
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",如果我试图算出我的单次最大重量，我可能没有足够的重量来达到极限，或者相反，这可能会严重伤害甚至杀死我。,"```
+MQM annotations:
+Style Errors
+minor: style/Unnatural Flow - The phrase ""算出我的单次最大重量"" is a bit unnatural. A more natural phrasing might be ""计算我的最大单次举重重量"" or similar.
+minor: style/Unnatural Flow - The phrasing ""没有足够的重量来达到极限"" is a bit awkward. A more natural phrasing would be ""没有足够的重量来进行最大重量的尝试"" or similar.
+
+```"
+375,I swear burrata didn't exist five years ago,我发誓五年前根本没有布拉塔奶酪。,"MQM annotations:
+minor: style/unnatural flow - While grammatically correct, the phrase ""根本没有布拉塔奶酪"" sounds slightly unnatural. A more natural phrasing could be used.
+```"
+376,This is my personal Mandela effect thing.,这是我个人的曼德拉效应。,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, the translation sounds a bit too literal. A more natural phrasing might be used in Chinese.
+```"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,我从未见过谁的妈妈做过它，也从未在派对上被硬塞过，也从未见过它与任何人的酱料制作冒险或烘焙日同时出现。,"```
+MQM annotations:
+minor: style/unnatural flow - The repetition of ""也从未见过"" (also never seen) makes the sentence sound slightly redundant and less natural in Chinese. While grammatically correct, it could be rephrased for better flow.
+```"
+380,It just appeared one day and suddenly it was available everywhere.,它不知何时就冒出来了，然后突然间到处都能看到了。,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""它不知何时就冒出来了"" sounds a bit awkward and could be phrased more naturally in Chinese. A more natural phrasing might be ""不知不觉地就出现了"" or similar."
+385,"This would be mainly for web browsing, occasional email, and some games.",主要用于网页浏览、偶尔收发邮件和玩一些游戏。,"```
+MQM annotations:
+minor: style/unnatural flow - The phrase ""主要用于"" can be more naturally translated to ""主要用作"" or ""主要用来"". While ""主要用于"" is grammatically correct, it sounds slightly less natural in this context.
+```"
+387,"""A good game is only late until it ships.",好游戏不怕晚，就怕做不出来。,"MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While the translation captures the general meaning, it rephrases the original statement in a way that is less concise and impactful. The original has a catchy, proverb-like quality, which is lost in the translation. The translated version is not as memorable or clever."
+392,"""Or, as an industry catch phrase goes: A late game is only late until it ships.",或者，正如行业内的流行语所说：跳票的游戏迟早会发售。,"MQM annotations:
+Minor: Style/Unnatural Flow - While accurate, ""跳票的游戏迟早会发售"" (Games that are delayed will be released sooner or later) sounds a bit unnatural. A more natural phrasing might focus on the ""lateness"" being temporary. The current translation is not incorrect, just not the most elegant or idiomatic way to express the sentiment in Chinese."
+394,Is it so ephemeral then?,难道就这么短暂吗？,"MQM annotations:
+minor: style/unnatural flow - The translation is grammatically correct, but it sounds a little awkward and could be more naturally expressed in Chinese."
+397,"He carries it in his mouth proudly all over the house, and I just have to laugh inwardly.",他得意地叼着它在屋子里到处走，我只能在心里暗自发笑。,"MQM annotations:
+minor: style/Unnatural Flow - While grammatically correct, ""他得意地叼着它在屋子里到处走"" sounds slightly unnatural. A more natural phrasing might be ""他得意地叼着它在屋子里到处溜达"" or something similar.
+minor: style/Wordiness - ""我只能在心里暗自发笑"" could be simplified to ""我只能暗自发笑"" without losing meaning, making it more concise."
+399,Have now done a full round trip on the new ICNG train.,现在已经完成了新ICNG列车的完整往返行程。,"MQM annotations:
+Style error:
+minor: unnatural flow - While grammatically correct, the translation sounds slightly unnatural. A more idiomatic phrasing might be preferred."
+400,I really like it.,我真的很喜欢。,"MQM annotations:
+No errors."
+402,There's areas that could use some polish.,有些地方需要润色。,"MQM annotations:
+Style error:
+minor: style/unnatural flow - The translation is accurate but sounds a bit too formal and stiff. A more natural way to phrase it would be more conversational."
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",主要是垃圾箱数量不足，以及缺乏解释灯光颜色意义的标牌。,"MQM annotations:
+minor: unnatural flow - The phrase ""解释灯光颜色意义的标牌"" (signs to explain the significance of the lighting colours) sounds slightly unnatural. A more common phrasing might be ""说明灯光颜色含义的标牌"" or ""解释灯光颜色用途的标牌""."
+404,"Fix those minor issues, and then can we have more of these please?",把那些小问题修好，然后我们可以多来点这样的吗？,"```
+MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""多来点这样的吗"" sounds slightly unnatural in this context. A more natural phrasing might be ""多提供一些类似的"" or ""多做一些这样的"".
+```"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,每位顾客限购一块，我们尽力确保每位排队者都能买到。,"```
+MQM annotations:
+minor: style/unnatural flow - The phrase ""每位排队者"" (měi wèi páiduì zhě) is a correct translation of ""everyone who queues up"" but sounds slightly formal and less natural than other options in colloquial Chinese. A more natural phrasing might be something like ""每个排队的人"" (měi gè páiduì de rén).
+```"
+407,"You can buy ONE of the boards listed above, not one of each.",你可以购买上面列出的板子中的**一个**，不是每一个。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - While grammatically correct, the sentence sounds slightly unnatural in Chinese. A more fluent translation might use a different structure or phrasing to emphasize the ""one"" and ""not each"" contrast."
+409,Yesterday I had the best time with my friend and former rabbi colleague.,昨天我和我的朋友以及以前的拉比同事度过了最美好的时光。,"MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""拉比同事"" (rabbi colleague) sounds slightly unnatural in Chinese. While technically correct, a more common way to express this would be something like ""以前一起当拉比的朋友"" (a friend who used to be a rabbi with me)."
+410,We visited for a couple hours on my porch.,我们在我的门廊上拜访了几个小时。,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - ""拜访"" (bàifǎng) typically implies a more formal or official visit. In this context, a more casual term like ""坐了坐"" (zuò le zuò) or ""聊了聊"" (liáo le liáo) would be more natural."
+412,We all have stories to tell.,我们都有故事要讲。,"```
+MQM annotations:
+```"
+415,I quite like akkoma the software and the domain name I got for my instance.,我挺喜欢 Akkoma 这个软件和我为实例注册的域名。,"MQM annotations:
+Minor: Style/Unnatural Flow - While grammatically correct, ""我挺喜欢 Akkoma 这个软件和我为实例注册的域名"" sounds slightly unnatural. A more fluent phrasing might be ""我非常喜欢 Akkoma 软件，也很喜欢我为实例注册的域名。"" or ""我特别喜欢 Akkoma 软件以及我为它注册的域名。"""
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",我觉得不知怎么的，我一开始就弄错了，或者说，一开始就没走对路。,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""一开始就弄错了，或者说，一开始就没走对路"" sounds somewhat redundant and could be expressed more concisely in Chinese."
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,地下已经被雷普尼德虫族挖成了隧道，你掉进了一个洞穴中，那里有数百只雷普尼德虫族挤在一起，形成一片沸腾的肉堆。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - ""地下已经被雷普尼德虫族挖成了隧道"" sounds a little awkward and could be phrased more naturally.
+minor: unnatural flow - ""形成一片沸腾的肉堆"" could be more descriptive or evocative to enhance the image."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",结局迅疾而至，数对毒牙注入致命的毒液，而迪斯克拉的空气也污染了你的肺部。,"MQM annotations:
+minor: style/unnatural flow - ""结局迅疾而至"" sounds slightly unnatural and could be rephrased for a smoother flow in Chinese.
+minor: style/unnatural flow - ""而迪斯克拉的空气也污染了你的肺部"" sounds a bit verbose and could be simplified for better readability."
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八眼雷普尼德人似乎在注视着你，但他们没有向你移动，事实上，当你慢慢走向他们时，他们一动不动。,"MQM annotations:
+minor: style/unnatural flow - While grammatically correct, ""八眼雷普尼德人"" sounds somewhat unnatural. A more common phrasing might be ""长着八只眼的雷普尼德人"" or a similar variation. The current translation is understandable but a bit stiff."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.",你决定重新建立联系很危险，便回到你的飞行器。但这次经历让你清醒了过来，自从你跳入未来后，你的思绪就一直很混乱。,"MQM annotations:
+minor: Unnatural Flow - The phrase ""重新建立联系很危险"" could be phrased more naturally. While grammatically correct, it feels a bit stiff. A more natural phrasing might be ""再次尝试联系很危险"" or ""重新取得联系风险很大"".
+minor: Unnatural Flow - The phrase ""自从你跳入未来后，你的思绪就一直很混乱"" is also slightly unnatural. ""自从跳入未来后，你的思绪就一直很混乱"" would be more common and natural-sounding."
+437,I started a new shawl.,我开始织一条新的披肩。,"MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, ""我开始织一条新的披肩"" sounds a bit formal and less natural than simply ""我开始织新的披肩"" or ""我开始织一件新的披肩"". Adding ""一条"" (a strip/a piece) makes it slightly awkward for a simple statement."
+442,I am using a H hook with a similar double crochet pattern as I have done before.,我正在使用一个H号钩针，用与之前相似的双钩针编织图案。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - While technically correct, the sentence sounds slightly unnatural in Chinese. A more fluent phrasing could be used."
+448,The literature class hatred is even worse: I love to read.,文学课的仇恨更糟：我爱阅读。,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The sentence structure feels slightly unnatural in Chinese. While grammatically correct, it could be rephrased for a more natural flow.
+```"
+454,Humanity is out in 5 days.,人类将于5天后推出。,"MQM annotations:
+Minor: Style/Unnatural Flow - The translation ""人类将于5天后推出"" sounds overly formal and unnatural. A more natural way to say ""Humanity is out in 5 days"" in Chinese, implying a release date for a product or game, would be something like ""还有5天[推出]""."
+456,What will people think of it?,人们会怎么想呢？,"```
+MQM annotations:
+Minor: Style/Unnatural Flow - The translation is grammatically correct but sounds a bit too literal. A more natural phrasing might be ""大家会怎么想呢？"" or ""别人会怎么看呢？"".
+```"
+463,Came home on my lunch break to see this sitting outside uwu.,午休回家，就看到这个东西坐在外面，呜呜呜。,"MQM annotations:
+Minor: Register/Informal - The use of ""呜呜呜"" (wū wū wū), while conveying the emotion of ""uwu,"" comes across as overly informal and childish in a general context. Depending on the specific client requirements or the target audience, a more neutral or slightly more formal expression might be more appropriate."
+464,Wish I could take it back to work with me to setup more.,真希望我能把它带回工作场所，以便设置更多。,"```
+MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""以便设置更多"" sounds slightly unnatural in Chinese. A more natural phrasing might be ""以便进一步设置"" or ""以便进行更多设置"".
+```"
+466,So I finally watched #Heartstopper,所以我终于看了#心跳漏一拍了。,"MQM annotations:
+minor: style/unnatural flow - The translation is grammatically correct, but ""心跳漏一拍"" doesn't quite capture the nuance and natural flow of ""Heartstopper"" as a title in Chinese. While understandable, it's not the most elegant or commonly used equivalent. A more natural translation might be considered depending on the target audience and context."
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",但重要的是不要为问题找借口，而是直接修复它们，尤其是在生产环境中当你的负责人需要变更的时候。,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""当你的负责人需要变更的时候"" is a very literal translation and sounds unnatural in Chinese. It could be rephrased for better flow."
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.",好的批评是为了快速纠正问题，而不是针对你的能力。,"MQM annotations:
+minor: Unnatural Flow - The sentence structure could be more natural in Chinese. While grammatically correct, it reads slightly stiff."
+485,These roots are hidden.,这些根是隐藏的。,"MQM annotations:
+Minor: style/Unnatural Flow - The translation is grammatically correct but sounds a bit unnatural and overly literal in Chinese. A more natural phrasing might be used."
+486,Work is not visible.,工作不可见。,"```
+MQM annotations:
+minor: style/unnatural flow - The translation is too literal and sounds awkward in Chinese. A more natural phrasing would be better.
+```"
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,他等到身处昏暗的卧舱后，才拿出那张纸条，借着遮光帘缝隙里透进的光线阅读。,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""身处昏暗的卧舱后"" sounds slightly unnatural and could be more fluent. A more natural wording might be ""进入昏暗的卧舱后"" or ""到了昏暗的卧舱里"".
+```"
+495,I've met some marvelous new #Mastodon mates lately and want to maintain the trend.,最近认识了一些很棒的 #Mastodon 新朋友，想保持这个趋势。,"MQM annotations:
+minor: style/Unnatural Flow - While accurate, ""保持这个趋势"" sounds slightly unnatural. A more natural phrasing might be ""延续这个好势头"" or ""保持下去""."

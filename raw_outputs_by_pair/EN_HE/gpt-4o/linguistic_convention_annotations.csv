@@ -1,0 +1,819 @@
+index,original,translated,linguistic_convention_annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.","עבורי, זו הנחה די גדולה כי היא יוצרת את חלון התצוגה רק באמצעות אובייקט Direct3D, ולא אובייקט Direct3D3.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""עבורי"" is unnecessary in Hebrew and disrupts the natural flow of the sentence.
+```"
+3,"Now, I get that in practice, IDirectXObject2 is typically a proper superset of IDirectXObject, with no changed function signatures, and new methods only added to the end.","עכשיו, אני מבין שבפועל, IDirectXObject2 הוא בדרך כלל על-קבוצה נכונה של IDirectXObject, ללא שינוי חתימות פונקציות, ורק שיטות חדשות נוספות בסוף.","```
+MQM annotations:
+linguistic conventions errors:
+major: punctuation - The comma after ""IDirectXObject"" should be a period to properly separate the clauses.
+minor: punctuation - The comma after ""פונקציות"" is not necessary and disrupts the flow of the sentence.
+```"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","נניח לצורך הדיון שהמדע לפחות בחלקו מורכב מרשימות של הצהרות עובדתיות אובייקטיביות על העולם, נכונות ללא קשר לכל תיאוריה שהן עשויות לתמוך בה.","```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The comma before ""נכונות"" should be followed by a space for proper punctuation.
+```"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","הניסויים לא יוצרים את העובדות בקריאה זו, אך הבחירה באילו ניסויים לערוך שולטת באילו עובדות מתגלות.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""אך"" is unnecessary in Hebrew and disrupts the flow of the sentence.
+```"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.","כמה עובדות, למשל על חלקיקים תת-אטומיים, יכולות לנבוע רק מניסויים שאפשריים רק בקפיטליזם, משום שהם דורשים יותר מדי משאבים, יותר מדי ארגון, יותר מדי כפייה, כדי להצליח בדרך אחרת.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""כפייה"" should be removed as it is unnecessary in Hebrew punctuation conventions.
+```"
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,זהו תיאור קצר מאוד של טיעון סביר לפיו תיאוריות של קפיטליזם המשפיעות על התוכן הממשי של המדע עולות בקנה אחד עם תיאוריות הטוענות לקיומם של עובדות מדעיות אובייקטיביות.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence should end with a period for proper punctuation.
+```"
+13,Going to be my first project car.,יהיה רכב הפרויקט הראשון שלי.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The sentence should end with a period to adhere to standard punctuation conventions.
+```"
+14,Picking this up this weekend.,אאסוף את זה בסוף השבוע.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: grammar - The translation uses the future tense ""אאסוף"" (I will collect) instead of the present continuous tense implied by ""Picking this up"" in the source text. The sentence could be more naturally expressed in Hebrew as ""אני אוסף את זה בסוף השבוע"" to match the source tense.
+```"
+16,Already on coil overs and lowered ride height.,כבר על קוילאוברים והנמכת גובה נסיעה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [spelling] - The term ""קוילאוברים"" should be spelled as ""קוילאוברים"" without the additional ""א"" to maintain correct spelling.
+```"
+20,#Venting into the Fediverse time.,#משחרר קיטור לפדיברס זמן.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""פדיברס"" should be capitalized as ""פדיברס"" to match the capitalization convention of proper nouns in Hebrew.
+```"
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,בן הזוג ואני הלכנו לחנות המשקאות הערב לקנות כמה בירות ובקבוק שמפניה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The Hebrew translation does not include a period at the end of the sentence, which is a punctuation error.
+```"
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","כשהלכנו לשלם, הקופאית היא אישה טרנסג'נדרית די ברורה.","```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The use of ""היא"" (she is) in the sentence is incorrect. It should be ""הייתה"" (was) to match the past tense context of the source sentence.
+```"
+27,And I said her nails looked cool.,ואמרתי שהציפורניים שלה נראות מגניבות.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The sentence is missing a period at the end.
+```"
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,החיוך של ההקלה על פניה היה תחושה נהדרת אבל העובדה שהיא הייתה מפוחדת קודם פשוט חרא ואני שונא את זה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [Punctuation] - The sentence lacks a period at the end, which disrupts the flow.
+```"
+33,It takes the state's governor.,זה לוקח את מושל המדינה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is incorrect. The translation ""זה לוקח את מושל המדינה"" is ungrammatical in Hebrew. A more grammatically correct structure would be ""זה דורש את מושל המדינה"" or ""זה מצריך את מושל המדינה"" depending on the intended meaning.
+```"
+38,"In this work, based on a variant of the classical Lewis (1969) signaling model, we explore the conditions for the emergence of context-dependent communication in a situated scenario.","בעבודה זו, המבוססת על גרסה של מודל האיתות הקלאסי של לואיס (1969), אנו בוחנים את התנאים להופעת תקשורת התלויה בהקשר בתרחיש ממוקם.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""לואיס (1969)"" is unnecessary in Hebrew punctuation conventions.
+```"
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","במקביל, אנו חוקרים את התנאים הסביבתיים והיכולות הקוגניטיביות המאפשרים הבהרת הקשר של משמעויות סמלים.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: agreement - The word ""המאפשרים"" should agree in gender and number with ""היכולות הקוגניטיביות"" and should be ""המאפשרות"".
+[Minor]: None
+```"
+41,"We show that environmental constraints on the receiver's referent choice can be unilaterally exploited by the sender, without disambiguation capabilities on the receiver's end.","אנו מראים כי מגבלות סביבתיות על בחירת המושא של המקבל יכולות להיות מנוצלות באופן חד-צדדי על ידי השולח, ללא יכולות הבהרה מצד המקבל.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The comma after ""השולח"" should be replaced with a period to correctly separate the clauses.
+```"
+46,"Ashanti Development has been working with an ever-expanding number of communities in the Ashanti region of Ghana for approaching 20 years, engaging with communities and providing support with water and sanitation, education, healthcare, tree planting and farming.","ארגון פיתוח אשנטי עובד עם מספר הולך וגדל של קהילות באזור אשנטי בגאנה במשך קרוב ל-20 שנה, תוך מעורבות עם הקהילות ומתן תמיכה במים ותברואה, חינוך, בריאות, נטיעת עצים וחקלאות.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""קרוב ל-20 שנה"" should be a period to separate the two main clauses.
+```"
+47,Communities gain the knowledge to embed and support their own development.,קהילות רוכשות את הידע לשלב ולתמוך בפיתוח שלהן.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+52,Photos from my visit to Ghana in 2011.,תמונות מהביקור שלי בגאנה ב-2011.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing period at the end of the sentence.
+```"
+55,They won't allow me to tell them the address it's going to and who is shipping it.,הם לא יאפשרו לי להגיד להם לאן זה נשלח ומי שולח את זה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [punctuation] - The sentence lacks a period at the end, which disrupts the flow of the text.
+```"
+58,The next morning and I can't get past Chris Licht's disgraceful pretense of public service journalism on CNN last night.,למחרת בבוקר ואני לא יכול להתגבר על ההעמדת הפנים המבישה של כריס ליכט בעיתונות שירות ציבורי ב-CNN אמש.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The phrase ""למחרת בבוקר"" should be followed by a comma to improve readability and flow.
+```"
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.","זה היה שערורייה, כמו פסטיבל אנטי-דמוקרטי סמלי של שקרים וטענות מ-6 בינואר, שהתקיים בהרס עצמי על ידי התקשורת האמריקאית.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The comma after ""שערורייה"" should be replaced with a period to correctly separate the clauses.
+```"
+60,THE SHAMEFUL AUDIENCE.,הקהל המביש.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""הקהל"" should be capitalized as ""הקהל"" to match the capitalization of the English title ""THE SHAMEFUL AUDIENCE.""
+```"
+61,Licht AGREED to an all Republican audience!,ליכט הסכים לקהל שכולו רפובליקנים!,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""ליכט"" should be capitalized as it is a proper noun.
+```"
+63,There's a story to be reported there.,יש שם סיפור לדווח עליו.,"```
+MQM annotations:
+linguistic conventions errors:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+64,The ratings--seeking delusional irresponsibility of it all.,החוסר אחריות ההזייתי לשם הרייטינג של כל זה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The phrase ""החוסר אחריות ההזייתי לשם הרייטינג של כל זה"" should have a hyphen between ""חוסר"" and ""אחריות"" to form ""חוסר-אחריות"" as a compound noun.
+```"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","יש לי מרתף עם הרבה טיוטות, מה שבעצם אומר שאני יכול לקבל הרבה מכרסמים שמוצאים בו מקלט.","```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [spelling] - The word ""טיוטות"" is incorrectly used here. The correct word should be ""פרצות"" to convey the meaning of ""drafty"" in the context of a basement.
+```"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.","לבסוף נמאס לי מהשגרה הזו אתמול בלילה, ניקיתי את כל המלכודות מחמאת בוטנים והדבקתי פיסטוק עליהן עם דבק חזק.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence should end with a period.
+```"
+76,But they also cut grants and tax credits that encourage more business activity.,אבל הם גם קיצצו במענקים ובזיכויי מס שמעודדים פעילות עסקית נוספת.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma should be placed before ""שמעודדים"" to separate the clauses properly.
+```"
+77,"I own a business. It's successful in spite of the provincial government, not because of it.","אני בעל עסק. הוא מצליח למרות הממשלה המחוזית, לא בזכותה.","```
+MQM annotations:
+linguistic conventions errors:
+major: punctuation - The comma should be placed after ""המחוזית"" to separate the clauses properly.
+```"
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","זה נכון גם עכשיו כש-goatse.cx איננו, אם כי זו הייתה תחרות צמודה לתחתית בין goatse ובין, נאמר, khou.com, שם ניסיתי לצפות בסרטון שוונדי שלחה לי.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""בין"" is unnecessary and disrupts the flow of the sentence.
+```"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,קנה כמה מדבקות פגוש שהן נגד טראמפ והדבק אותן בכל מקום.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: Capitalization - The word ""קנה"" should be capitalized as it is the beginning of the sentence.
+```"
+95,Yell back at those who would try to talk over us.,צעק בחזרה על אלה שינסו לדבר מעלינו.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first word ""צעק"" should be capitalized as it is the beginning of the sentence.
+```"
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,זה לא מקובל חברתית לצאת בציבור או למהר לאנשים כשאתה משתעל ומפיץ ליחה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The phrase ""ומפיץ ליחה"" (and spreading mucus) is not grammatically correct in this context. A more appropriate phrase would be ""כשאתה משתעל ליחה"" (when you are coughing mucus).
+```"
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,אני חוזר. זה לא מקובל חברתית להפיץ את סערת הריר של הקורונה שלך בכל מקום!!!,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The use of multiple exclamation marks at the end of the sentence is not standard in Hebrew punctuation conventions.
+```"
+106,Mio knows that sorrow is life's constant companion.,מיו יודעת שהעצב הוא בן לוויה קבוע של החיים.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","לאחר 4,000 של מצוקה, יל מוצאת את עצמה במקום של אהבה ויש לה רגשות עזים שהיא לא יודעת מה לעשות איתם, אז יש הרבה משניהם.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: grammar - The phrase ""לאחר 4,000 של מצוקה"" is missing a noun after ""4,000"" to indicate what the quantity refers to, making it ungrammatical.
+[Minor]: None
+```"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,הפיאסקו של אתמול עם #מנגו_אידיוט היה פיאסקו מזעזע.,"```
+MQM annotations:
+linguistic conventions errors:
+Major: punctuation - The hashtag ""#מנגו_אידיוט"" should be followed by a space before the rest of the sentence continues.
+```"
+111,"Which cable news ""executive"" made the call to give the fat, lying criminal this much air-time?","איזה ""מנהל"" חדשות בכבלים קיבל את ההחלטה לתת לפושע השמן והשקרן כל כך הרבה זמן שידור?","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The quotation marks around ""מנהל"" should be straight quotes to match the style of the rest of the sentence.
+```"
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","כשהמכונית משתנה, כך גם ארני, שהביטחון החדש שלו הופך ליהירות מאחורי ההגה של יופיו האקזוטי.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""משתנה"" should be removed for better flow in Hebrew.
+```"
+118,Codleo is one of the best Salesforce Partner offering best Salesforce services tailored to your company needs.,קודלאו היא אחת השותפות הטובות ביותר של Salesforce המציעה את שירותי Salesforce הטובים ביותר המותאמים לצרכי החברה שלך.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The comma after ""Salesforce"" in ""המציעה את שירותי Salesforce הטובים ביותר"" is missing, which is needed to separate the clauses for better readability.
+```"
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,אחד החלקים המטורפים ביותר בכך שהשכנים שלי הפכו נגדי הוא לחשוב על כמה מאמץ זה דורש להיות עוין.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: Punctuation - The sentence lacks a period at the end, which is necessary for proper punctuation in Hebrew.
+```"
+124,"Forget me, fine.","שכח אותי, בסדר.","```
+MQM annotations:
+linguistic conventions errors:
+Minor: Punctuation - The comma in ""שכח אותי, בסדר."" is not necessary in Hebrew and disrupts the natural flow of the sentence.
+```"
+125,"Ignore me, fine.","התעלם ממני, בסדר.","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation - The comma in ""התעלם ממני, בסדר."" is unnecessary and disrupts the natural flow of the sentence in Hebrew.
+```"
+129,Slamming a door in my face takes effort.,לטרוק דלת בפרצופי דורש מאמץ.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+133,That vessel is off-limits.,הכלי הזה אסור לגישה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing period at the end of the sentence.
+```"
+137,But another individual often flies aboard that ship.,אבל אדם נוסף לעיתים קרובות טס על הספינה ההיא.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The sentence should end with a period for proper punctuation.
+```"
+138,If he were to die... the consequences would be... significant.,אם הוא היה מת... ההשלכות היו... משמעותיות.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The ellipses should have consistent spacing around them. In Hebrew, it is common to have spaces before and after ellipses.
+```"
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"הנה קורס התרסקות (קצת יותר ארוך מאורך ציוץ) למה שאני מתכוון ב""הפיכת אבא"":","```
+MQM annotations:
+linguistic conventions errors:
+Minor: Punctuation - The parentheses are not correctly closed in the Hebrew translation.
+```"
+142,The Last of Us is an easy and canonical example of dad-ification.,האחרונים שבינינו הוא דוגמה פשוטה וקנונית להפיכת דמות אב.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: Capitalization - The title ""האחרונים שבינינו"" should be capitalized as it is a proper noun, referring to the title of a work (""The Last of Us"").
+```"
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.",הפיכת האב לשלטון שוחקת את האפשרות לפתרונות קהילתיים ולעיתים קרובות מתעלמת לחלוטין או מחלישה כל סוכנות שיש לילד.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: grammar - The phrase ""הפיכת האב לשלטון"" is awkward and ungrammatical in Hebrew. A more grammatically correct phrase would be ""הפיכת האב לדמות שלטונית"" or ""הפיכת האב לסמכות שלטונית"".
+[Minor]: None
+```"
+146,"In this way, Dad-ification is a stand in for a lot of neoliberal ideals; especially ideas like bootstrapping and self-sufficiency as being an ultimate goal/indicator for success.","בדרך זו, הפיכת אבא היא תחליף להרבה אידיאלים ניאו-ליברליים; במיוחד רעיונות כמו הסתמכות עצמית והיכולת להצליח בכוחות עצמך כיעד/מדד להצלחה.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The semicolon should be replaced with a comma for better flow in Hebrew.
+```"
+148,- We send out notifications when airfare goes on sale.,אנו שולחים התראות כאשר מחירי הטיסות יורדים.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence should end with a period.
+```"
+150,"- We don't sell tickets, or charge a subscription.",- אנחנו לא מוכרים כרטיסים או גובים מנוי.,"```
+MQM annotations:
+linguistic conventions errors:
+Major: Grammar - The use of ""מנוי"" (subscription) as a noun is incorrect in this context. It should be ""דמי מנוי"" (subscription fee) to correctly convey the meaning of charging a subscription.
+```"
+154,"Yet, unimaginable fear, terror and displacement have left them with the invisible scar of trauma.","ובכל זאת, פחד בלתי נתפס, אימה ועקירה הותירו בהם את הצלקת הבלתי נראית של הטראומה.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""ובכל זאת"" (Yet,) is not necessary in Hebrew and disrupts the natural flow of the sentence.
+```"
+159,Over time dart became my go-to for quick UI.,עם הזמן דארט הפך להיות הבחירה שלי ל-UI מהיר.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""דארט"" should be capitalized as ""דארט"" is a proper noun referring to the programming language Dart.
+```"
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter זה תענוג לעבוד איתו, ויש להם #mobx לניהול חנויות בקלות.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The comma after ""איתו"" should be replaced with a period to correctly separate the two independent clauses.
+```"
+161,"The dependency story is less insane than nodejs, too.",סיפור התלות פחות מטורף מאשר ב-nodejs.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: Capitalization - The word ""nodejs"" should be capitalized as ""Node.js"" according to standard conventions for proper nouns and software names.
+```"
+162,"Of course flutter sucks really bad when it comes to behaving like a good native app would (anywhere, really. Even flutter web target sucks).","כמובן שפלאטר גרוע מאוד בכל הנוגע להתנהגות כמו אפליקציה מקורית טובה (בכל מקום, באמת. אפילו היעד של פלאטר ווב גרוע).","```
+MQM annotations:
+linguistic conventions errors:
+Major: Punctuation - The parentheses should be closed with a period inside them, not outside. Correct punctuation should be: ""(בכל מקום, באמת. אפילו היעד של פלאטר ווב גרוע.)""
+```"
+182,Because it happens in the mind and seems less tangible than physical health.,מכיוון שזה קורה במחשבה ונראה פחות מוחשי מאשר בריאות פיזית.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: Punctuation - The sentence should end with a period to follow standard punctuation rules.
+```"
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","באותו אופן שבו בריאות הנפש נתפסת כפחות ""אמיתית"" מבריאות הגוף על ידי רבים, אני מרגיש שבמידה מסוימת להיות טרנס זה כמו להיות אינטרסקס של הנפש.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The quotation marks around ""אמיתית"" should be typographic quotation marks (“ ”) instead of straight quotes ("" "").
+```"
+188,"I feel that to be trans is to be ""biologically non-binary"".","אני מרגיש שלהיות טרנס זה להיות ""ביולוגית לא בינארי"".","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The quotation marks around ""ביולוגית לא בינארי"" should be Hebrew style, i.e., „ביולוגית לא בינארי“.
+```"
+198,"(And also: The Web is now largely a Google thing, unfortunately)","(וגם: הרשת היא עכשיו בעיקר דבר של גוגל, למרבה הצער)","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The parentheses in the Hebrew translation are not correctly formatted. The closing parenthesis should be at the end of the sentence, not at the beginning.
+```"
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,"בנוסף, אנא הימנע מלספר לי שאפליקציות של גוגל/פלאטר גרועות ב-iOS וב-macOS.","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation - The comma after ""בנוסף"" is unnecessary in Hebrew and disrupts the flow of the sentence.
+```"
+200,Cross platform is hard if you want to do it well.,פלטפורמות חוצות זה קשה אם אתה רוצה לעשות את זה טוב.,"```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The phrase ""פלטפורמות חוצות"" should be ""חוצה פלטפורמות"" to correctly follow Hebrew syntax.
+```"
+202,Thank you to those people who have downloaded the latest update to Leasey.,תודה לאנשים שהורידו את העדכון האחרון ל-Leasey.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: Punctuation - The hyphen in ""ל-Leasey"" should be an en dash or omitted based on Hebrew punctuation conventions.
+```"
+203,A few very small difficulties have come to light.,כמה קשיים קטנים מאוד התגלו.,"```
+MQM annotations:
+linguistic conventions errors:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,אני לא יודע בדיוק למה המוח שלי לא מצליח להבין את זה; יכול להיות שהכלים פשוט כל כך רחבים ומעורפלים שהמוח שלי פשוט נתקע בגלל 'יותר מדי אפשרויות'.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation - The semicolon should be replaced with a comma for better flow in Hebrew.
+```"
+211,Grafana looks pretty.,גרפנה נראית יפה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: Capitalization - The word ""גרפנה"" should be capitalized as it is a proper noun.
+```"
+218,...And that's how I found myself having to sort out a raid group roster.,...וכך מצאתי את עצמי צריך לסדר רשימת קבוצה לפשיטה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The phrase ""צריך לסדר"" (need to sort) should agree in gender with the subject ""מצאתי את עצמי"" (I found myself), which is masculine. The correct form should be ""צריך/צריכה לסדר"" depending on the gender of the speaker.
+```"
+220,"Then, life crushed my soul and I lost all my passion for fiction and great storytelling.","ואז, החיים ריסקו את נשמתי ואיבדתי את כל התשוקה שלי לסיפורת ולסיפור סיפורים גדולים.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: punctuation - The comma after ""ואז"" is unnecessary in Hebrew and disrupts the flow of the sentence.
+```"
+222,I'm now on book # 31 and it's only May.,אני עכשיו בספר מספר 31 ורק מאי.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing period at the end of the sentence.
+```"
+224,I haven't really achieved anything.,לא באמת השגתי שום דבר.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,תנו להם לשקם את הערים החלולות והמתפוררות ברחבי המדינה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: Punctuation - The sentence is missing a period at the end.
+```"
+233,Deport the white supremacists.,לגרש את העליונות הלבנה.,"```
+MQM annotations:
+linguistic conventions errors:
+Major: grammar - The translation ""לגרש את העליונות הלבנה"" translates to ""deport the white supremacy,"" which is grammatically incorrect because ""עליונות"" (supremacy) should be replaced with ""עליונים"" (supremacists) to match the plural noun in the source text.
+```"
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""","נמאס לי מהכותרות שטוענות ש""עבודה מרחוק מתה."" או ש""עבודה מרחוק הייתה ניסוי כושל.""","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The period inside the quotation marks should be replaced with a comma in Hebrew punctuation conventions.
+```"
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,"הכל קליקבייט, אבל זה מדאיג אותי לגבי המנהלים והבכירים שקוראים את המאמרים האלה.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""קליקבייט"" should be followed by a space for proper punctuation.
+```"
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,זה מאפשר לאנשים להימנע מנסיעות ארוכות שגוזלות זמן מהיום שלהם ומהמשפחות שלהם.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation - The sentence lacks a period at the end, which is necessary for proper punctuation in Hebrew.
+```"
+243,To just ignore these facts is wrong.,להתעלם מהעובדות הללו זה לא נכון.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation - The period is missing at the end of the sentence in the Hebrew translation.
+```"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",פארקר התייחסה להפלות ולנטייתן של נשים עירוניות מודרניות לדחות את הבאת הילדים לטובת הקריירה שלהן.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing comma after ""הפלות"" (abortions) in the Hebrew translation.
+```"
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,הוא גם טוען כי המפלגה הדמוקרטית החדשה והפרוגרסיבים רוצים לדלל את האוכלוסייה למען איכות הסביבה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The sentence should end with a period for proper punctuation.
+```"
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,"בכל פעם שמאי היה מגיע, חששתי לנסות לחגוג את יום ההולדת שלי.","```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The use of ""שמאי"" (Shamai) instead of ""שמא"" (May) is incorrect, as ""שמא"" is the correct Hebrew word for the month of May.
+```"
+254,I fought over the years to get out of that mindset and to have better bdays.,נאבקתי במשך השנים כדי לצאת מהלך הרוח הזה ולחגוג ימי הולדת טובים יותר.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The sentence lacks a period at the end.
+```"
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,האם אתה יודע על דרך יעילה עבור רכיב אינטרנט להגיב להוספה/הסרה ממסמך?,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The use of ""האם אתה יודע"" is slightly awkward for asking about knowledge of a method. A more natural phrasing would be ""האם אתה מכיר"" or ""האם ידוע לך"".
+```"
+268,We currently use a MutationObserver hack.,אנו משתמשים כעת בהאק של MutationObserver.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: Punctuation - The translation should include quotation marks around ""MutationObserver"" to match the convention of indicating a specific term or name.
+```"
+285,Last week got a ton done and feeling much better about field items.,בשבוע שעבר הספקתי המון ומרגיש הרבה יותר טוב לגבי הפריטים בשטח.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The sentence should end with a period.
+```"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","בנוסף צריך לזרוע שורת סלט שם כדי לשלב ירקות חתוכים בשני המקומות יש צוות מאומן על השקיה, הכנת ערוגות, והשתלה שזה 90% מהמיומנויות שאינן קציר.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence lacks a comma before ""שזה"" (which is) to separate the clauses properly.
+```"
+290,It's 2023 and I still see people with iPhones actively avoid using Apple Maps.,זה 2023 ואני עדיין רואה אנשים עם אייפונים נמנעים באופן פעיל משימוש באפל מפות.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing period at the end of the sentence.
+```"
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","סקרן, שמרתי על ראש פתוח כדי להשוות כיצד גוגל מפות ואפל מפות משווים, על מכשיר האייפון שלי לבדיקה (המכשיר היומי שלי הוא מכשיר אנדרואיד, כך שזה נדיר שאני משתמש באייפון).","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The comma after ""משווים"" is unnecessary and disrupts the flow of the sentence.
+```"
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,החוויה של הצורך לעקוב אחר הוראות הייתה הרבה יותר טובה ב-Apple Maps בהשוואה ל-Google Maps.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The use of hyphens in ""Apple Maps"" and ""Google Maps"" should be reconsidered as they are typically written without hyphens in Hebrew.
+```"
+298,Could it be that Google Maps got to market first?,האם ייתכן ש-Google Maps הגיע לשוק ראשון?,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The quotation marks around ""Google Maps"" are not correctly formatted in Hebrew. They should be Hebrew-style quotation marks („ ”) instead of English-style ("" "").
+```"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","אני נוטה לטובת אי שחרור זבל למשתמשי הקצה, ואפל פישלו בגדול עם אפל מפות כשהיא יצאה ב-2012.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The comma after ""הקצה"" should be followed by a space for proper punctuation.
+[Minor]: punctuation - The comma after ""זבל"" should be followed by a space for proper punctuation.
+[Minor]: punctuation - The comma after ""בגדול"" should be followed by a space for proper punctuation.
+```"
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,אבל זו האדמה שהופכת אותה לשומרת טובה של עושר כל עוד אתה חושב שהממשלה לא עומדת לשנות את המערכת שבה אנחנו חיים.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence should end with a period for proper punctuation.
+```"
+307,A lot of ppl think that they literally own the earth when they buy a piece.,הרבה אנשים חושבים שהם ממש בעלים של כדור הארץ כשהם קונים חלק ממנו.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The sentence lacks a period at the end.
+```"
+312,The land is temporary.,הארץ היא זמנית.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```"
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,האדמה נלקחת בקלות ובמהירות על ידי הממשלה ביום אחד אם הם רוצים לעשות זאת.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence should end with a period for proper punctuation.
+```"
+317,It has to be taken away one day.,זה צריך להילקח יום אחד.,"```
+MQM annotations:
+linguistic conventions errors:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+318,That's why the Chinese only allow leases.,לכן הסינים מאפשרים רק חכירות.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: Punctuation - The sentence should end with a period for proper punctuation.
+```"
+319,They already ran out of land.,הם כבר נגמרו מהקרקע.,"```
+MQM annotations:
+linguistic conventions errors:
+Critical: grammar - The phrase ""הם כבר נגמרו מהקרקע"" is ungrammatical in Hebrew. The verb ""נגמרו"" (ran out) is incorrectly used with ""הם"" (they) as the subject, leading to an ungrammatical sentence. A more appropriate construction would be ""אזלה להם הקרקע"" (the land has run out for them).
+```"
+320,"To success, the realization of dreams, friendship, to the simple but true!!","להצלחה, להגשמת חלומות, לחברות, לפשוט אך האמיתי!!","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The use of the exclamation marks is excessive and not necessary after each phrase.
+```"
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.","לכל המשקיעים שם בחוץ, אני מרים כוסית להצלחתכם ולהגשמת חלומותיכם.","```
+MQM annotations:
+linguistic conventions errors:
+Minor: Punctuation - The comma should be placed before ""שם בחוץ"" to improve the flow of the sentence.
+```"
+323,"And to all my friends, new and old, let us cherish the simple but true things in life that bring us joy and fulfillment.","ולכל חבריי, חדשים וותיקים, נשמור על הדברים הפשוטים אך האמיתיים בחיים שמביאים לנו שמחה וסיפוק.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""ותיקים"" is unnecessary in Hebrew.
+```"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,אני לעיתים קרובות תוהה על היכולת האנושית להיות *כל כך* קשה עם עצמנו בעודנו מוצפים בכל כך הרבה ראיות למה אכזריות אמיתית נראית.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The asterisk (*) used for emphasis in the source text is not typically used in Hebrew for this purpose. In Hebrew, emphasis is usually conveyed through context or italics in written text.
+```"
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,אבל להרגיע את הייאוש מהבלגן שלנו זה קריטי - כי זה נותן לנו יותר מרחב להתמודד עם ההריסות שמסביב.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The hyphen should be an em dash for proper punctuation in Hebrew.
+```"
+331,"Some programmers: ""Typing speed does not matter!""","חלק מהמתכנתים: ""מהירות הקלדה לא משנה!""","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The exclamation mark should be placed inside the quotation marks in Hebrew, as it is part of the quoted statement.
+```"
+339,It is definitely more romance than filth.,זה בהחלט יותר רומנטיקה מאשר זוהמה.,"```
+MQM annotations:
+linguistic conventions errors:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+342,I don't agree that #Mastodon is difficult to setup.,אני לא מסכים ש-#Mastodon קשה להתקנה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The hyphen before ""#Mastodon"" should be an en dash or omitted, as it is not standard in Hebrew to use a hyphen in this context.
+```"
+343,"Common, it's really not that hard.",זה באמת לא כל כך קשה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The sentence in Hebrew should end with a period for proper punctuation.
+```"
+347,If you stick to the default web interface it doesn't look and feel good (imho).,אם תדבק בממשק האינטרנט המוגדר כברירת מחדל זה לא נראה ומרגיש טוב (לדעתי).,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The parentheses around ""(לדעתי)"" should be replaced with brackets to match Hebrew conventions.
+```"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.","אז, זה דורש קצת יותר מאמץ להיכנס לזה ואתה כנראה צריך אפליקציה טובה כדי לשפר את #UX.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The hashtag #UX should be followed by a space to separate it from the rest of the sentence.
+```"
+353,Forecasting: anticipating harms before they happen (even if by minutes),חיזוי: צפי לנזקים לפני שהם מתרחשים (אפילו אם זה בדקות).,"```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [Punctuation] - The period at the end of the sentence should be inside the parentheses in Hebrew, as it is in the English source.
+```"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,אני מתאמן לבד בחדר השינה שלי בלי שותף או אפילו מתקן משקולות.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The sentence lacks a period at the end, which is a punctuation error.
+```"
+370,Just me and a barbell with a bunch of weights.,רק אני ומוט משקולות עם ערימה של משקולות.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The sentence should end with a period for proper punctuation.
+```"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.","אם אנסה לחשב את המשקל המקסימלי שאני יכול להרים בחזרה אחת, ייתכן שלא יהיו לי מספיק משקולות כדי להגיע למקסימום, או לחלופין זה עלול לפצוע אותי קשה/להרוג אותי.","```
+MQM annotations:
+linguistic conventions errors:
+Major: Grammar - The phrase ""להרים בחזרה אחת"" is ungrammatical. The correct phrase should be ""להרים פעם אחת"" or ""בחזרה אחת"" should be omitted.
+Minor: Punctuation - The slash in ""לפצוע אותי קשה/להרוג אותי"" should be replaced with ""או"" (or) for better readability in Hebrew.
+```"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,מעולם לא ראיתי אמא של מישהו מכינה את זה או שזה נדחף אליי במסיבה או שראיתי את זה מופיע יחד עם הרפתקאות הכנת רטבים של מישהו או ימי אפייה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing comma after ""מישהו"" (mishahu) to separate clauses for better readability.
+```"
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","לאחר שעברנו רדיקליזציה כאן, אנחנו מהססים לקנות מכונת FAANG חדשה.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - ""FAANG"" should be in lowercase as ""faang"" to match the Hebrew linguistic convention for acronyms.
+```"
+389,So was it Epic that originated this?,אז האם זה היה אפיק שהתחיל את זה?,"```
+MQM annotations:
+linguistic conventions errors:
+Critical: no-error
+Major: no-error
+Minor: punctuation - The sentence should end with a question mark to match the interrogative form of the source text.
+```"
+394,Is it so ephemeral then?,האם זה כל כך חולף אז?,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The punctuation mark should be a question mark at the end of the sentence.
+```"
+395,"Merely a ""catchphrase"" with no clear originator?","רק ""סיסמה"" ללא מחבר ברור?","```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation - The quotation marks around ""סיסמה"" should be Hebrew style (״סיסמה״) instead of English style (""סיסמה"").
+```"
+399,Have now done a full round trip on the new ICNG train.,כעת עשיתי נסיעה הלוך ושוב מלאה על רכבת ה-ICNG החדשה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The hyphen in ""רכבת ה-ICNG"" should be an en dash (–) according to Hebrew punctuation conventions.
+```"
+402,There's areas that could use some polish.,ישנם תחומים שיכולים להיעזר בליטוש.,"```
+MQM annotations:
+linguistic conventions errors:
+minor: punctuation - The sentence should end with a period.
+```"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.","כלומר, היעדר מספיק פחים והיעדר שלטים שמסבירים את משמעות צבעי התאורה.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""כלומר"" is unnecessary in Hebrew and disrupts the flow slightly.
+```"
+404,"Fix those minor issues, and then can we have more of these please?","תקן את הבעיות הקטנות האלה, ואז נוכל לקבל עוד כאלה בבקשה?","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The sentence should end with a period (""."") instead of a question mark (""?"").
+```"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,כללים של אחד ללקוח נשארים בתוקף כשאנו מנסים להבטיח שכל מי שעומד בתור יוכל להשיג לוח.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence should end with a period for proper punctuation.
+```"
+407,"You can buy ONE of the boards listed above, not one of each.","אתה יכול לקנות לוח אחד מהרשומים למעלה, לא אחד מכל אחד.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+409,Yesterday I had the best time with my friend and former rabbi colleague.,אתמול היה לי הזמן הכי טוב עם חברי ועמיתי לשעבר הרב.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence should end with a period.
+```"
+419,#FalconGameBooks,#פלקוןספרי־משחק,"```
+MQM annotations:
+linguistic conventions errors:
+major: spelling - The translation ""#פלקוןספרי־משחק"" should be ""#פלקוןספרי-משחק"" with a regular hyphen instead of a Hebrew punctuation mark.
+```"
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","בעלי שמונה העיניים נראים כצופים בך כשאתה מנחית את המעופף על האדמה האדומה, אך הם אינם נעים לעברך, למעשה הם חסרי תנועה כשאתה יוצא מהמעופף וצועד לאט לעברם.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - Missing comma after ""בעלי שמונה העיניים"" to match the natural pause in the sentence.
+[Minor]: punctuation - Missing comma after ""למעשה"" to separate the clauses more clearly.
+```"
+422,The rock beneath you gives way suddenly.,הסלע שמתחתיך מתמוטט פתאום.,"```
+MQM annotations:
+linguistic conventions errors:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","הסוף מהיר, כאשר מספר זוגות של ניבים מזריקים את הארס הקטלני שלהם והאוויר של דיסקרה מזהם את ריאותיך.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: punctuation - Missing comma after ""הקטלני שלהם"" (their deadly venom) to separate the clauses for better readability.
+```"
+425,Nobody will ever know that you were the first human future traveller.,אף אחד לעולם לא ידע שהיית האדם הראשון שנסע לעתיד.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: punctuation - The sentence should end with a period (""."") in Hebrew as well: ""אף אחד לעולם לא ידע שהיית האדם הראשון שנסע לעתיד.""
+```"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.","בעלי שמונה העיניים נראים כמתבוננים, אך הם אינם נעים לעברך, למעשה הם חסרי תנועה כשאתה הולך לאט לעברם.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""מתבוננים"" should be replaced with a period to separate the two independent clauses.
+```"
+428,"You halt while still on the mound of crumbled rock and soil and speak to them, saying, 'I come in peace, as a friend.'","אתה עוצר בעודך על תל האבנים והאדמה המתפוררים ומדבר אליהם, ואומר, 'אני בא בשלום, כחבר.'","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before the quotation mark should be inside the quotation marks in Hebrew.
+```"
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.","נראה שהם לא יכולים לשמוע אותך, לא כל שכן להבין, שכן המתרגם האוניברסלי שלך לא קולט תשובה.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: punctuation - The comma before ""שכן"" should be replaced with a period to separate the clauses more clearly.
+```"
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,אני מתכנן לערבב את זה עם כותנה משובחת בצבע סגול/לילך מגוונת.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The slash between ""סגול/לילך"" should be replaced with a comma for better readability in Hebrew.
+```"
+441,But am not sure I have enough of the purple.,אבל אני לא בטוח שיש לי מספיק מהסגול.,"```
+MQM annotations:
+linguistic conventions errors:
+Critical: no-error
+Major: no-error
+Minor: Grammar - The phrase ""אבל אני לא בטוח"" could be more naturally expressed as ""אני לא בטוח אם יש לי מספיק מהסגול"" to improve the grammatical flow.
+```"
+446,I have literally tried and dropped EVERY SINGLE ONE.,ניסיתי והפסקתי עם כל אחד ואחד מהם.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The Hebrew translation should end with a period to match the punctuation of the English source text.
+```"
+447,"And up until like two years ago, I had no idea until I checked my transcripts.","ועד לפני בערך שנתיים, לא היה לי מושג עד שבדקתי את התמלילים שלי.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""בערך שנתיים"" is unnecessary in Hebrew.
+```"
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.","זה מרגש, מלחיץ, מתוח, וכל הדברים הטובים שאני אוהב בעבודה במשחקים.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""מתוח"" should be replaced with ""ו"" (and) to conform to Hebrew punctuation and conjunction rules.
+```"
+463,Came home on my lunch break to see this sitting outside uwu.,חזרתי הביתה בהפסקת הצהריים שלי וראיתי את זה יושב בחוץ uwu.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The Hebrew translation should have a period or another appropriate punctuation mark at the end of the sentence.
+```"
+475,Had a recent graduate artist take some critique badly tonight.,היה לי אמן שסיים לאחרונה את לימודיו שלקח ביקורת בצורה קשה הערב.,"```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [Word Order] - The phrase ""אמן שסיים לאחרונה את לימודיו"" should be reordered to ""אמן שסיים את לימודיו לאחרונה"" for better flow and clarity.
+[Minor]: [Punctuation] - The sentence lacks a period at the end, which is necessary for proper punctuation.
+```"
+482,"So while composting and bloom scrolling are a wonderful reminder to look up, and be aware of life beyond the screen.",אז בזמן שקומפוסטינג וגלילת פריחה הם תזכורת נפלאה להרים את המבט ולהיות מודעים לחיים מעבר למסך.,"```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [punctuation] - The sentence lacks a period at the end, which disrupts the flow of the text.
+```"
+483,It is as important to explore servers and IP addresses.,זה חשוב באותה מידה לחקור שרתים וכתובות IP.,"```
+MQM annotations:
+linguistic conventions errors:
+no-error
+```"
+491,She did not look back.,היא לא הביטה לאחור.,"```
+MQM annotations:
+linguistic conventions errors:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,הוא חיכה עד שהיה בחושך של חדר המיטות לפני שהוציא את הפתק וקרא אותו באלומת אור שחדרה דרך וילונות ההאפלה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [punctuation] - The sentence lacks a period at the end, which disrupts the flow of the text.
+```"
+493,One block-printed word.,מילה,"```
+MQM annotations:
+linguistic conventions errors:
+Critical: no-error
+Major: no-error
+Minor: capitalization - The word ""מילה"" should be capitalized to match the capitalization of the source text ""One block-printed word.""
+```"
+498,I'd particularly like to connect with more.,אני במיוחד רוצה להתחבר עם יותר.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The sentence structure is slightly awkward in Hebrew. A more natural phrasing would be ""אני רוצה במיוחד להתחבר עם יותר אנשים"" to improve the flow.
+```"
+499,Everyone with their hair on fire about CNN can thank Stephen Colbert for the hard right turn.,כולם עם השיער באש בגלל CNN יכולים להודות לסטיבן קולבר על הפנייה החדה ימינה.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence lacks a period at the end.
+```"

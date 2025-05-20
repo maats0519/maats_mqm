@@ -1,0 +1,407 @@
+index,original,translated,locale_convention_annotation
+8,עוד צוין כי תועדו בתקופה האחרונה פחות מ-20 ברדלסים בשבעה מחוזות שונים במדינה.,It was also noted that fewer than 20 cheetahs have been documented in seven different provinces of the country in recent times.,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""in recent times"" is redundant and sounds a bit unnatural in this context. A more concise phrasing would improve the flow."
+21,"לפני כמה שבועות, קיבלתי הזדמנות ראשונית לנסות את המוצר החדש, שזמין כרגע רק לנסיינים בודדים בארה""ב, כאן בישראל.","A few weeks ago, I received an initial opportunity to try the new product, which is currently only available to a few testers in the US, here in Israel.","MQM annotations:
+minor: unnatural flow - The phrase ""initial opportunity"" sounds slightly awkward. ""First opportunity"" would be more natural.
+minor: unnatural flow - ""currently only available to a few testers in the US, here in Israel"" is a bit clunky. Rephrasing to something like ""currently only available to a limited number of testers in the US, but I had the opportunity to test it here in Israel"" would flow better."
+23,"אחרי שבועיים של השתעשעות, הבנתי כיצד ה-Car Thing יכול להפוך בקלות לחלק בלתי נפרד מהמערכת של אנשים רבים.","After two weeks of playing around, I realized how the Car Thing could easily become an integral part of many people's systems.","MQM annotations:
+minor: style/unnatural flow - ""playing around"" sounds slightly awkward in this context; a more natural phrasing might be ""experimenting"" or ""using""."
+26,"אי שם בשנת 2018, משתמשי ספוטיפיי החלו לקבל הצעה מעניינת בתיבת האימייל שלהם - אפשרות לרכוש מכשיר חדש עם שליטה קולית וחיבוריות דור רביעי, שיהפוך כל מערכת ישנה לרכב לחכמה.","Sometime around 2018, Spotify users began receiving an interesting offer in their email inbox - the option to purchase a new device with voice control and 4G connectivity, that would turn any old car stereo into a smart one.","MQM annotations:
+minor: style/unnatural flow - The phrase ""Sometime around 2018"" feels a bit awkward. ""Around 2018"" or ""In 2018"" would be more natural."
+56,"מסך הבית מוכר לכל המשתמשים באפליקציה, שכן כמו היישום בסמארטפון, הוא שם דגש על תמונות האלבומים ורשימות ההשמעה.","The home screen is familiar to all users of the app, as, like the application on a smartphone, it emphasizes album art and playlists.","MQM annotations:
+minor: style/Unnatural Flow - ""as, like the application on a smartphone,"" is somewhat redundant and could be phrased more concisely."
+60,"באמצעותה, תוכלו להפעיל שירים, פלייליסטים, אלבומים ואפילו לחפש פודקאסטים.","Through it, you can play songs, playlists, albums, and even search for podcasts.","MQM annotations:
+minor: style/unnatural flow - ""Through it"" sounds slightly awkward. A more natural phrasing might be ""With it"" or ""Using it."""
+72,"השאלה הזו מתחזקת בעת התחשבות בכך שמכשירי אייפון ואנדרואיד חזקים בהרבה מזה של ספוטיפיי, וברוב הפעמים יקנו למשתמש הרבה יותר פונקציונליות.","This question becomes stronger when considering that iPhones and Android devices are much more powerful than Spotify's [device/app], and in most cases will provide the user with much more functionality.","MQM annotations:
+minor: unnatural flow - The phrase ""This question becomes stronger"" sounds awkward and could be rephrased for better flow.
+minor: unspecified - ""[device/app]"" The original text does not specify ""device/app"" and this addition makes the target text feel unnatural"
+96,זה לא סוד - שיתוף ומוכנות הארגון |,It's no secret - organizational sharing and readiness.,"MQM annotations:
+minor: Style/Unnatural Flow - ""organizational sharing and readiness"" sounds a bit unnatural. A more natural phrasing might be ""organizational readiness and willingness to share""."
+105,הסקרנות מקדמת |,Curiosity advances.,"MQM annotations:
+minor: style/unnatural flow - The translation is grammatically correct but sounds a bit too literal and could be more naturally expressed."
+114,"העלות הכלכלית בגין אי־סגירת התחנות הפחמיות במועד שנקבע ביוני 2022 מוערכת בכמיליארד שקלים עבור שנת 2022, כך חושף דו""ח של מרכז המחקר והמידע של הכנסת.","The economic cost due to the failure to close the coal-fired power plants by the date set in June 2022 is estimated at approximately one billion shekels for 2022, according to a report by the Knesset Research and Information Center.","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""due to the failure to close"" sounds a bit awkward. A more natural phrasing might be ""because the coal-fired power plants were not closed"".
+minor: register - ""approximately one billion shekels"" could be more formal, like ""an estimated one billion shekels""."
+126,בכמה יתייקר התשלום על המשכנתא?,By how much will the mortgage payment increase?,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""by how much"" sounds slightly awkward in this context. A more natural phrasing might be ""how much more"" or ""what will be the increase in.""
+```"
+132,"זאת, לאחר שבמשך שנים הריבית במשק היתה קרובה לאפס.",This is after the interest rate in the economy was close to zero for years.,"MQM annotations:
+minor: Style/Unnatural Flow - The phrase ""This is after"" sounds slightly awkward and could be rephrased for better flow in English. For example, ""This comes after"" or ""This follows"" might sound more natural."
+137,בכמה התייקרה המשכנתא הממוצעת מתחילת השנה?,By how much has the average mortgage increased since the beginning of the year?,"MQM annotations:
+minor: Style/Unnatural Flow - The phrase ""By how much has... increased"" is grammatically correct, but in a more conversational context, ""How much more expensive has the average mortgage become..."" would be more natural."
+142,מסלול הריבית המשתנה צמודת מדד (26.7% במסלול הזה) ישלים התייקרות של כ־120 שקלים.,"The variable-rate, index-linked track (26.7% in this track) will result in an increase of about 120 shekels.","MQM annotations:
+minor: style/Unnatural Flow - ""The variable-rate, index-linked track (26.7% in this track) will result in an increase of about 120 shekels"" sounds slightly awkward. A more natural phrasing might be ""The variable-rate, index-linked track (at 26.7%) will increase by approximately 120 shekels"" or something similar. The phrase ""(26.7% in this track)"" feels a bit clunky."
+150,לגבי רוכשי דירות מקבלן - צרור ממליץ להקדים תשלומים לקבלן ולקחת משכנתא כעת.,Regarding apartment buyers from a contractor - Tzur recommends expediting payments to the contractor and taking out a mortgage now.,"MQM annotations:
+minor: style/unnatural flow - ""expediting payments"" is a less common way to phrase this idea than ""making payments sooner"" or ""paying earlier"".
+minor: style/unnatural flow - ""taking out a mortgage"" is correct but could be more natural as ""getting a mortgage"" or ""applying for a mortgage."""
+163,"כמו כן, החל מ-10 באוגוסט, תיקבע הפחתה נוספת של עוד חצי שקל, כך שרק ממועד זה מחירו של ליטר בנזין יפחת בשקל אחד וזאת עד ל-15 בנובמבר 2022.","Furthermore, starting August 10th, an additional reduction of another half shekel will be determined, so that only from that date will the price of a liter of gasoline decrease by one shekel, and this is until November 15th, 2022.","MQM annotations:
+Minor: Unnatural Flow - The phrase ""will be determined"" sounds awkward and overly formal. A more natural phrasing could be ""will be implemented"" or ""will take effect"".
+Minor: Unnatural Flow - The phrase ""so that only from that date"" is slightly awkward and could be rephrased for better flow, such as ""meaning that only from that date"".
+Minor: Unnatural Flow - The repetition of ""that date"" is slightly awkward. It could be rephrased as ""from then on""."
+172,"למחיר הדלק יש השפעה דרמטית על יוקר המחיה במשק - משום שהוא משפיע גם על הוצאות משקי הבית וגם על הוצאות העסקים, על מחירי התחבורה הציבורית והטיסות, על עלויות ההובלה ועוד.","The price of fuel has a dramatic impact on the cost of living in the economy - because it affects both household expenses and business expenses, the prices of public transportation and flights, transportation costs, and more.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""the prices of public transportation and flights"" sounds slightly awkward. A more natural phrasing could be ""prices for public transportation and flights"" or ""public transportation and flight prices.""
+```"
+178,אשדוד היא העיר הידידותית ביותר לעסקים קטנים ובינוניים.,Ashdod is the most business-friendly city for small and medium-sized businesses.,"MQM annotations:
+minor: style/Unnatural Flow - While accurate, the phrase ""most business-friendly city"" sounds slightly awkward in this context. A more natural phrasing might be ""best city for businesses"" or ""easiest city to do business in""."
+181,"אחריהן ממוקמות לפי הסדר: אשקלון, ראשון לציון, תל אביב־יפו, חיפה, רמת גן, חולון, באר שבע, ירושלים, בת ים, נתניה ובני ברק.","Following them, in order, are: Ashkelon, Rishon LeZion, Tel Aviv-Yafo, Haifa, Ramat Gan, Holon, Be'er Sheva, Jerusalem, Bat Yam, Netanya, and Bnei Brak.","MQM annotations:
+minor: style/Unnatural Flow - While accurate, the phrase ""Following them, in order, are:"" sounds somewhat awkward and could be rephrased for a more natural flow. A more idiomatic translation might be ""The following cities are next in order:""."
+182,הסוכנות עורכת את מדד הרשויות המקומיות.,The Agency conducts the Local Authorities Index.,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""The Agency conducts"" sounds slightly formal and could be rephrased for a more natural flow in English. While accurate, it could be smoother."
+198,"פיתוח העסקים הקטנים הוא אינטרס ציבורי של כולנו, אולם לרשות המקומית יש השפעה ישירה על העסקים שנמצאים בה.","Developing small businesses is in everyone's public interest, but the local authority has a direct impact on the businesses located within it.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""is in everyone's public interest"" sounds slightly unnatural. A more common phrasing might be ""is in the public interest of everyone"" or ""benefits everyone."""
+199,"הקורונה הדגישה את חשיבותו של השלטון המקומי וראינו כי רשויות שפעלו ועודדו את קידום העסקים הקטנים ומצאו פתרונות יצירתיים עבורם, הפכו לממשק השלטוני הראשון עבורם"".","The coronavirus highlighted the importance of local government, and we saw that authorities that acted and encouraged the promotion of small businesses and found creative solutions for them, became the first governmental interface for them.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""became the first governmental interface for them"" sounds slightly awkward and could be phrased more naturally in English. For instance, ""became their primary point of contact with the government."""
+200,"רן קויתי, מנהל הסוכנות לעסקים קטנים ובינוניים במשרד הכלכלה והתעשייה, מוסיף: ""לרשויות המקומיות חלק מרכזי ומהותי ביכולתם של עסקים בתחומן לשגשג ולפרוח.","Ran Kviti, Director of the Small and Medium Business Agency in the Ministry of Economy and Industry, adds: ""Local authorities have a central and essential role in the ability of businesses within their boundaries to thrive and flourish.""","MQM annotations:
+minor: style/unnatural flow - While the translation is accurate, ""have a central and essential role in the ability of businesses within their boundaries to thrive and flourish"" sounds slightly awkward and could be rephrased for a more natural flow. A more idiomatic phrasing might be ""play a crucial role in enabling businesses..."""
+201,"בשנתיים האחרונות, שבהן אנו מתמודדים עם משבר הקורונה, לרשויות משקל גדול יותר בסיוע לעסקים לשרוד בתחומן ולשרוד בכלל"".","In the last two years, during which we have been dealing with the Corona crisis, the authorities have had a greater weight in helping businesses survive in their field and survive in general.","MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""have had a greater weight"" sounds a bit awkward and could be rephrased for a more natural flow. For example, ""have played a more significant role""."
+217,"יותר חבילות הגיעו בדצמבר מבכל חודש אחר, ככל הנראה בעקבות חגי הקניות של נובמבר, דוגמת יום הרווקים הסיני, בלאק פריידי וסייבר מאנדיי.","More packages arrived in December than in any other month, most likely due to the November shopping holidays, such as Singles' Day in China, Black Friday, and Cyber Monday.","MQM annotations:
+minor: style/Unnatural Flow - While accurate, the phrase ""most likely due to"" sounds slightly awkward. A more natural phrasing could be ""likely due to"" or ""probably because of""."
+220,"לשכירים רבים מגיע כסף מהמדינה, שיכול להגיע לעשרות אלפי שקלים •","Many salaried employees are entitled to money from the state, which can amount to tens of thousands of shekels.","MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While grammatically correct, the phrase ""which can amount to tens of thousands of shekels"" sounds slightly unnatural and could be rephrased for better flow in English. For example, ""potentially reaching tens of thousands of shekels"" or ""amounting to tens of thousands of shekels""."
+221,שיניתם מקום עבודה?,Did you change jobs?,"MQM annotations:
+No style errors found."
+223,עברתם מהעיר ליישוב?,Did you move from the city to a settlement/community?,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""settlement/community"" sounds slightly awkward and could be improved for better flow."
+249,100% מהעוברים לישוב מזכה קיבלו החזר מס על שנת המעבר היות ואישור על תושבות בישוב מזכה ניתנת רק לאחר 12 חודשים מיום הפיכת התושב לתושב מזכה ובכך למעשה השנה הראשונה משולם מס מלא.,"100% of those moving to an eligible locality received a tax refund for the year of the move, since proof of residency in an eligible locality is only given after 12 months from the day the resident becomes an eligible resident, and thus in effect, the first year is taxed in full.","MQM annotations:
+minor: style/unnatural flow - The phrase ""eligible locality"" is repeated unnecessarily, making the sentence sound somewhat awkward. Using ""qualifying locality"" or just ""locality"" in some instances could improve the flow."
+253,שיעור ההחזר יכול להגיע לעשרות אלפי שקלים לאורך 6 שנים.,The return rate can reach tens of thousands of shekels over 6 years.,"MQM annotations:
+Minor: Style/Unnatural Flow - While grammatically correct, the phrase ""return rate"" sounds slightly unnatural in this context. A more common and natural phrasing might be ""returns"" or ""amount returned."""
+255,"מנכ״ל tax:on, טל כרמון: ""משבר הקורונה גרם לכך שציבור השכירים בישראל הפך להרבה יותר אקטיבי.","tax:on CEO, Tal Carmon: ""The Corona crisis caused the salaried public in Israel to become much more active.""","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""salaried public"" sounds unnatural. A more natural phrasing might be ""employees"" or ""wage earners."""
+256,"הוא מתעניין, בודק ודורש את מה שמגיע לו בהחזרים ממס הכנסה.","He's interested, checks, and demands what he's owed in tax refunds.","MQM annotations:
+minor: style/unnatural flow - ""He's interested, checks, and demands"" sounds somewhat unnatural. A more fluent phrasing might be ""He takes an interest in, checks, and demands""."
+264,"לפי הדו""ח, מחפשי העבודה התעניינו בעיקר בתחומים רוויי משרות כמו אדמיניסטרציה ומכירות, שלגביהן נשלחו 1,738,485 קורות חיים.","According to the report, job seekers were mainly interested in saturated fields like administration and sales, for which 1,738,485 resumes were sent.","MQM annotations:
+minor: style/unnatural flow - While accurate, the phrase ""for which 1,738,485 resumes were sent"" sounds a bit awkward and could be phrased more naturally in English. A more fluent option might be ""with 1,738,485 resumes submitted."""
+268,"השכר החודשי בתחום התוכנה היה 17,915 שקלים בממוצע, ובניתוח מערכות מידע הוא עמד על 17,140 שקלים.","The average monthly salary in software was 17,915 shekels, and in information systems analysis it was 17,140 shekels.","MQM annotations:
+Minor: style/Unnatural Flow - While grammatically correct, the sentence could be slightly more fluent in English. For example, ""The average monthly salary in software was 17,915 shekels, while in information systems analysis it was 17,140 shekels"" reads more naturally."
+276,ההיצע הגדול ביותר היה למשרות ללא ניסיון - וכאלה היו יותר מ-58 אלף באתר.,"The largest supply was for entry-level positions - and there were more than 58,000 of them on the site.","MQM annotations:
+Style error:
+Minor: Unnatural Flow - While grammatically correct, the phrase ""The largest supply was for entry-level positions"" sounds slightly unnatural. A more natural phrasing might be ""The most jobs were available for entry-level positions"" or ""There were the most openings for entry-level positions.""
+```"
+286,"במילים אחרות, מדובר ב- 193 אלף לא מועסקים לעומת 180.3 אלף.","In other words, we're talking about 193,000 unemployed compared to 180,300.","MQM annotations:
+minor: style/unnatural flow - While grammatically correct, ""we're talking about"" sounds a bit informal or unnecessary in this context. A more direct phrasing might be more natural."
+289,"מאלה שבכוח העבודה 95.5% המהווים 4,059,700 הם מועסקים והשאר בלתי מועסקים.","Of the workforce, 95.5%, constituting 4,059,700, are employed, and the rest are unemployed.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""constituting 4,059,700"" is slightly awkward and could be rephrased for better flow.
+```"
+295,"הסקר מאפשר מעקב אחר ההתפתחות בכוח העבודה, גודלו ותכונותיו, היקף האבטלה ועוד.","The survey allows for tracking the development of the workforce, its size and characteristics, the scope of unemployment, and more.","MQM annotations:
+minor: style/unnatural flow - The phrase ""allows for tracking"" is slightly less natural than ""allows tracking"" or ""enables tracking."""
+301,הקידוש והמסורת הם שורש מאוד עמוק בנשמה שלי.,Sanctity and tradition are a very deep root in my soul.,"MQM annotations:
+Minor: Unnatural Flow - The phrase ""a very deep root"" sounds slightly awkward in English. A more natural phrasing could be ""deeply rooted""."
+302,"ימי שישי אצלי מוקדשים לילדים, אור (10) ויונתן (8).","Fridays for me are dedicated to the children, Or (10) and Yonatan (8).","MQM annotations:
+Minor: Unnatural Flow - ""Fridays for me are dedicated to the children"" sounds a bit awkward. A more natural phrasing might be ""I dedicate Fridays to the children"" or ""Fridays are for the children."""
+310,"כשאנחנו מגיעים לחמותי, כבר מלובי הבניין עולים ריחות מדהימים מהדירה שלה.","When we arrive at my mother-in-law's, even from the building lobby, amazing smells rise from her apartment.","MQM annotations:
+Style Errors:
+minor: style/unnatural flow - ""rise from her apartment"" sounds slightly unnatural. A more natural phrasing might be ""waft from her apartment"" or ""emanate from her apartment"".
+```"
+316,כל פינה נידחת בארץ עשתה לו גאווה בלב.,Every remote corner of the land filled his heart with pride.,"MQM annotations:
+minor: style/Unnatural Flow - While grammatically correct and understandable, ""filled his heart with pride"" is a slightly less natural or idiomatic way to express the sentiment. A more common phrasing might be ""filled him with pride"" or ""gave him a sense of pride."""
+323,שבוע־שבועיים לפני יום העצמאות כבר הייתי מטפס על עצים וקושר לבית חוטים עם דגלי ישראל.,"A week or two before Independence Day, I would already be climbing trees and tying wires with Israeli flags to the house.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""I would already be climbing trees"" sounds a bit awkward. A more natural phrasing might be ""I would already be up in the trees.""
+```"
+348,"""הייתי פותחת שולחן גדול ומזמינה את 'המתים שלי'.",I would set a large table and invite 'my dead ones.',"MQM annotations:
+minor: style/Unnatural Flow - ""my dead ones"" sounds awkward and literal. A more natural phrasing might be ""my deceased loved ones"" or simply ""my dead."""
+349,"לפעמים אני מדמיינת מה היה אילו אחי דניאל ז""ל היה בחיים, או אם אבא שלי, שניאור ז""ל, היה רואה את הילדים שלי: אוריאל (23) והתאומות תמרה ונעמה (16 וחצי).","Sometimes I imagine what it would be like if my brother Daniel, may his memory be a blessing, was alive, or if my father, Schneur, may his memory be a blessing, could see my children: Uriel (23) and the twins Tamara and Naama (16 and a half).","MQM annotations:
+Style error:
+minor: unnatural flow - The phrase ""may his memory be a blessing"" is repeated verbatim, which, while accurate, can sound slightly unnatural in English. Using it once for the first deceased person and then a simpler ""also deceased"" or similar for the second instance could improve the flow.
+```"
+364,"ביבי תשחק בתפקיד נועה, שאותו גילמה דפנה ארמוני.","Bibi will play the role of Noa, which was played by Dafna Armoni.","MQM annotations:
+minor: style/unnatural flow - The phrase ""which was played by"" sounds slightly awkward and could be rephrased for a more natural flow in English. A more common phrasing might be ""previously played by"" or ""originally played by""."
+371,את הידיעה המשמחת חלקה אתמול בערב (שישי) לופז עם מעריציה באתר הרשמי שלה onthejlo.com,Lopez shared the joyous news yesterday evening (Friday) with her fans on her official website onthejlo.com.,"MQM annotations:
+Styles error:
+minor: style/unnatural flow - While grammatically correct, ""shared the joyous news"" sounds a bit formal and could be rephrased for a more natural flow."
+390,"עכשיו אנחנו יותר חשופות, פונות ישירות למצלמה באופן טבעי, לא רק ריאליטי אלא סדרה דוקומנטרית אותנטית"".","""Now we are more exposed, addressing the camera directly in a natural way, not just reality TV but an authentic documentary series.""","MQM annotations:
+minor: style/Unnatural Flow - ""Now we are more exposed"" sounds slightly awkward. A more natural phrasing might be ""Now we're more open"" or ""Now we're showing more.""
+minor: style/Unnatural Flow - ""addressing the camera directly in a natural way"" could be rephrased for better flow. Perhaps ""speaking directly to the camera, naturally."""
+402,אינדינגב בניחוח בינלאומי: אפגן וויגז מצטרפים אל אביתר בנאי ונגה ארז,IndieNegev with an international flavor: Afghan Whigs join Avitar Banai and Noga Erez.,"MQM annotations:
+minor: style/Unnatural Flow - ""Avitar Banai"" sounds slightly awkward, ""Avitar Benai"" is more natural."
+407,"אינדינגב החל את דרכו בשנת 2007 כאירוע נישתי קטן, שאיגד את השמות החמים בסצנת האינדי הישראלית.","IndieNegev began its journey in 2007 as a small, niche event that brought together the hottest names in the Israeli indie scene.","MQM annotations:
+minor: style/Unnatural Flow - While accurate, the phrase ""IndieNegev began its journey"" is a bit clunky. A more natural phrasing might be ""IndieNegev started in..."" or ""IndieNegev was launched in...""
+```"
+409,אביב גפן ושרית חדד: פסטיבל חוצות היוצר בירושלים בהפתעות חדשות,Aviv Geffen and Sarit Hadad: The Jerusalem Arts and Crafts Fair with new surprises.,"MQM annotations:
+minor: style/Unnatural Flow - ""The Jerusalem Arts and Crafts Fair with new surprises"" sounds slightly awkward. A more natural phrasing might be ""Aviv Geffen and Sarit Hadad at the Jerusalem Arts and Crafts Fair: New Surprises Await"" or similar."
+410,"הפסטיבל הבינלאומי בבירה, שהפך למסורת ויתקיים במספר מוקדים יציג מופעים מוזיקליים של אמנים מקומיים מובילים, וישלב מופעי קרקס ומיצגים אמנותיים חדשניים ומפתיעים","The international festival in the capital, which has become a tradition and will take place in several locations, will present musical performances by leading local artists and incorporate circus performances and innovative and surprising artistic displays.","MQM annotations:
+minor: style/Unnatural Flow - ""will present musical performances by leading local artists and incorporate circus performances and innovative and surprising artistic displays"" could be rephrased for a more natural flow in English. For example, ""will feature musical performances by leading local artists, along with circus acts and innovative artistic displays."""
+417,"SPARKS הוא מופע קרקס, תנועה וריחוף אווירי של קרקס Y, תערוכת צילום אינסטגרמית בהשראת יצירות אמנות מפורסמות.","SPARKS is a circus, movement, and aerial levitation show by Circus Y, an Instagrammable photography exhibition inspired by famous works of art.","MQM annotations:
+Style Errors:
+minor: Style/Unnatural Flow - The phrase ""Instagrammable photography exhibition"" feels slightly unnatural in English. A more common phrasing might be ""an Instagram-worthy photo exhibition"" or ""a photo exhibition perfect for Instagram."""
+418,"The Black Box Gallery – היא גלריית ההצצה של היוצר והמבצע ליאור כלפון, שתוצב ברחבת היריד עם חורי הצצה שיחשפו את הקהל לתערוכת יצירותיו הזרחניות של ליאור כלפון, יצירות אמנות של פסלים מוארים של האמן הרב תחומי אלון בירגר (תיאטרון האור) ועוד.","The Black Box Gallery – is the peepshow gallery of creator and performer Lior Kalfon, which will be placed in the fairground with peepholes that will expose the audience to an exhibition of Lior Kalfon's fluorescent works, artworks of illuminated sculptures by multi-disciplinary artist Alon Birger (Theater of Light), and more.","MQM annotations:
+minor: style/Unnatural Flow - ""peepshow gallery"" sounds awkward and could be rephrased for better flow.
+minor: style/Unnatural Flow - ""will be placed in the fairground"" sounds slightly unnatural; ""will be located at the fairground"" would be more common.
+minor: style/Unnatural Flow - ""with peepholes that will expose the audience to"" is a bit clunky. Consider ""featuring peepholes allowing the audience to view"".
+minor: style/Unnatural Flow - ""artworks of illuminated sculptures"" sounds slightly redundant. Could be ""illuminated sculptures"".
+```"
+444,.,". ,","Okay, I'm ready to analyze the provided source and translation and annotate any style errors. I will use the provided guidelines and template to ensure accurate and consistent annotations.
+
+Since you have not provided a source or translation, I cannot perform the annotation.  Please provide the source and translated text so I can complete the task."
+446,"היא מרוויחה על קמפיינים יותר מוונדר וומן, היא יפה מדי, היא יודעת להעמיד במקום את דנה ויס, וכשצריך - גם לסנגר על השותף העסקי שלה.","She earns more on campaigns than Wonder Woman, she's too beautiful, she knows how to put Dana Weiss in her place, and when needed - also defend her business partner.","MQM annotations:
+minor: style/Unnatural Flow - ""She earns more on campaigns than Wonder Woman"" sounds slightly awkward. A more natural phrasing could be ""She earns more on campaigns than Wonder Woman does.""
+minor: style/Unnatural Flow - ""too beautiful"" is a bit vague and could be phrased more naturally depending on the context. For example, ""exceedingly beautiful"" or ""remarkably beautiful"".
+minor: style/Unnatural Flow - ""knows how to put Dana Weiss in her place"" could be softened depending on the intended tone. Something like ""knows how to handle Dana Weiss"" or ""can effectively respond to Dana Weiss"" might be more appropriate.
+minor: style/Unnatural Flow - ""and when needed - also defend her business partner"" sounds a little stilted. ""And defends her business partner when necessary"" would be more natural."
+457,כאן מחפשים גיבורי־על.,Superheroes wanted here.,"MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""Superheroes wanted here"" sounds a bit abrupt and unnatural in English. More natural phrasing might be ""Looking for Superheroes"" or ""Superheroes Needed""."
+465,"תגידו: ספונג'ה וניקיונות, סירים על הגז וריחות בחדר המדרגות, ירון אילן או אבי כאכון בטלוויזיה, אבל הכי מוזר יהיה אם מישהו יגיד פתאום ""גיל ססובר"".","Say: ""Sponge and cleaning, pots on the stove and smells in the stairwell, Yaron Ilan or Avi Kakun on television,"" but it would be strangest if someone suddenly said ""Gil Sassover.""","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""Sponge and cleaning"" sounds slightly awkward in English. A more natural phrasing might be ""Doing the dishes and cleaning"".
+minor: style/Unnatural Flow - ""Pots on the stove"" could be rephrased for better flow, perhaps as ""Pots cooking on the stove"".
+minor: style/Unnatural Flow - The phrase ""but it would be strangest if someone suddenly said"" is a bit wordy and could be simplified to ""but the strangest thing would be if someone suddenly said""."
+468,לאורך מחצית ממנה - ססובר עומד.,Along half of it - Sassover stands.,"MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - ""Along half of it"" sounds slightly awkward and could be phrased more naturally in English. A more natural phrasing might be ""For half of it"" or ""On one side of it""."
+477,"רותי רוסו בתגובה: ""שמחה שיש מקומות שמשקיעים יותר בקולינריה של אוכלוסייה זו"".","Ruti Russo in response: ""Glad there are places that invest more in the culinary aspect of this population's food.""","MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""culinary aspect of this population's food"" sounds awkward and could be rephrased for better flow. A more natural way to express this would be ""food culture"" or ""cuisine."""
+481,בישראל בשנים האחרונות יותר ויותר משפחות ואנשים מבוגרים מבינים כי בדידות זו המחלה הקשה ביותר בגיל מבוגר ורואים במקומות הקהילתיים כפתרון מוכח למחלה.,"In Israel, in recent years, more and more families and elderly people understand that loneliness is the most difficult disease in old age and see community spaces as a proven solution to the disease.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""community spaces as a proven solution to the disease"" sounds slightly awkward and could be rephrased for better flow."
+483,מרבית בתי הדיור המוגן נעזרים בשפים מקצועיים על מנת לבנות תפריט.,Most assisted living facilities employ professional chefs to create their menus.,"```
+MQM annotations:
+minor: style/unnatural flow - ""employ professional chefs to create their menus"" sounds a bit formal. More natural would be ""hire professional chefs to design the menus"" or ""use professional chefs to develop the menus""
+```"
+487,"אני מכבדת את עבודתם הקשה של טבחים, טבחיות, שפיות ושפים בכל מקום, גם בדיור המוגן"".","I respect the hard work of cooks, female cooks, chefs, and male chefs everywhere, including in assisted living facilities.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - ""female cooks"" is redundant since ""cooks"" can be gender-neutral or encompass both genders. Using ""cooks"" and then explicitly stating ""female cooks"" is unnatural.
+minor: style/unnatural flow - ""male chefs"" is redundant since ""chefs"" can be gender-neutral or encompass both genders. Using ""chefs"" and then explicitly stating ""male chefs"" is unnatural.
+```"
+491,"הזמר בתגובה: ""הפלישה לאוקראינה שונה מאוד מהקונפליקט הישראלי-פלשתיני","The singer, in response: ""The invasion of Ukraine is very different from the Israeli-Palestinian conflict.""","MQM annotations:
+minor: style/unnatural flow - While grammatically correct, the phrase ""The singer, in response:"" sounds slightly awkward in English. A more natural phrasing might be ""In response, the singer said:""."
+518,"לבקשת שר הבריאות ניצן הורוביץ, ימשיך במקביל בתפקידו כפרויקטור.","At the request of the Minister of Health, Nitzan Horowitz, he will continue in his role as project manager in parallel.","MQM annotations:
+minor: style/unnatural flow - ""in parallel"" sounds a bit awkward. A more natural phrasing might be ""concurrently"" or ""at the same time""."
+527,"דו""ח מבקר המדינה: התקציב בפועל ברוב שנות פעילות ועדת סל התרופות – קטן מהתקציב המומלץ",State Comptroller's Report: The actual budget in most years of operation of the drug basket committee – was smaller than the recommended budget.,"MQM annotations:
+minor: style/unnatural flow - ""drug basket committee"" could be rephrased for better flow."
+528,"על פי הדו""ח של מתניהו אנגלמן, במשך יותר מ-20 שנות פעילות הסל – משרד הבריאות לא פיקח על פעילות הוועדה •","According to Matanyahu Engelman's report, for over 20 years of the basket's operation, the Ministry of Health did not oversee the committee's activities.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""for over 20 years of the basket's operation"" sounds slightly awkward and could be rephrased for better flow. A more natural phrasing might be ""for more than 20 years that the basket has been in operation""."
+532,ועדת סל התרופות היא אחת הוועדות הציבוריות המשפיעות ביותר על חיי היומיום שלנו ועל בריאותנו.,The drug basket committee is one of the most influential public committees on our daily lives and our health.,"MQM annotations:
+minor: style/unnatural flow - While grammatically correct, phrasing like ""drug basket committee"" sounds less natural than ""pharmaceutical basket committee"" or similar alternatives that are more common in English for this context."
+535,"על פי הדו""ח של מתניהו אנגלמן, הוא ממליץ ""לבצע בתהליך הרחבת הסל תיקונים ושיפורים, שיביאו למיצוי איכותי יותר של תקציב סל שירותי הבריאות שהציבור זכאי לו"".","According to Matanyahu Englman's report, he recommends ""making corrections and improvements in the process of expanding the basket [of health services], which will lead to a more qualitative realization of the health services basket budget to which the public is entitled.""","MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""more qualitative realization"" sounds awkward and could be rephrased for a more natural flow in English. A more idiomatic expression might be ""better utilization"" or ""more effective use."""
+539,"ברוב שנות פעולת הוועדה (90% מהזמן), גובה התוספת התקציבית היה קטן מ-1.5% של סל הבריאות, שיעור שהומלץ על ידי ועדות שונות כשיעור התוספת הרצוי.","For the majority of the committee's years of operation (90% of the time), the amount of the budget increase was less than 1.5% of the health basket, a rate recommended by various committees as the desired increase rate.","MQM annotations:
+Style error:
+minor: unnatural flow - The phrase ""For the majority of the committee's years of operation"" is a bit awkward and could be rephrased for a more natural flow in English. Perhaps ""For most of the time the committee operated"" or ""During most of the committee's operation""."
+559,אנגלמן ממליץ למשרד הבריאות לעדכן את נהלי עבודת הסל וגם לקבוע האם יש צורך בתוספת כספית נפרדת עבור שירותים אלו.,Engelman recommends that the Ministry of Health update the procedures for the basket of services and also determine whether there is a need for a separate financial supplement for these services.,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""basket of services"" sounds slightly unnatural in this context. A more fluent phrasing might be ""services covered by the national health plan"" or something similar."
+581,"ד""ר נעמה נוס אחראית אפדימיולוגיה לשכת הבריאות בת""א ציינה כי ""אנחנו לא יכולים לקבוע חד משמעית ממה שלושת הידיירים נפטרו.","Dr. Na'ama Nuss, the epidemiology officer at the Tel Aviv Health Bureau, stated that ""We cannot definitively determine what the three victims died from.""","MQM annotations:
+minor: style/unnatural flow - ""the epidemiology officer at the Tel Aviv Health Bureau"" sounds slightly awkward. A more natural phrasing might be ""the epidemiologist at the Tel Aviv District Health Office"" or similar, depending on the precise organizational structure and common terminology.
+```"
+593,"יגאל נחתומי, מנכ""ל בית אקשטיין שמנהל את המעון ואף ניהל את המעון בעצמו אמר ""מאות ואלפי אנשים בכל המערך קמים רק במטרה אחת: לעשות טוב לאנשים.","Yigal Nahtomi, CEO of Beit Ekstein, which manages the residence and even managed the residence himself, said, ""Hundreds and thousands of people throughout the system wake up with only one goal: to do good for people.""","MQM annotations:
+Minor: Unnatural Flow - The phrase ""even managed the residence himself"" sounds slightly awkward and could be rephrased for a more natural flow. For example, ""even personally managed the residence""."
+595,את אחת הדיירות הרדמתי על הידיים.,I lulled one of the residents to sleep in my arms.,"MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""lulled to sleep in my arms"" sounds a bit unnatural in English. A more common phrasing would be ""fell asleep in my arms"" or ""I held her until she fell asleep."""
+604,"זהו ההליך הראשון שביצע ד""ר פראס אבו עכר כמנהל היחידה לניתוחי חזה בבית החולים •",This is the first procedure Dr. Firas Abu Akar performed as the director of the Breast Surgery Unit at Hospital •.,"MQM annotations:
+minor: Unnatural Flow - The phrase ""at Hospital •"" is incomplete and sounds awkward. It needs to be clarified or completed to provide context. The period at the end of the sentence, within the hospital name, is also unnatural."
+619,"לדבריו, הלב היה מרוקן מדם, לחצי הדם היו אפסיים, והגישה הניתוחית היתה שגויה.","According to him, the heart was drained of blood, the blood pressure was negligible, and the surgical approach was incorrect.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""drained of blood"" sounds slightly unnatural in English medical contexts. A more common phrasing might be ""devoid of blood"" or ""empty of blood.""
+minor: style/Unnatural Flow - The phrase ""blood pressure was negligible"" is grammatically correct but could be slightly more natural by saying ""blood pressure was extremely low"" or ""blood pressure was almost nonexistent"".
+minor: style/Unnatural Flow - The phrase ""surgical approach was incorrect"" is understandable but could be improved for flow. Consider ""the surgical approach was flawed"" or ""the surgical approach was inappropriate."""
+622,"עוד ציין: ""מדובר בהליך לא מסובך, שנמשך כמה דקות"", והוסיף: ""לא ניתן שלא להתייחס לתהליך הלקוי של קבלת ד""ר אבו עכר לתפקיד.","He also noted: ""This is a straightforward procedure, that takes a few minutes,"" and added: ""It's impossible not to address the flawed process of Dr. Abu Akar's appointment to the position.""","MQM annotations:
+minor: style/Unnatural Flow - ""It's impossible not to address the flawed process of Dr. Abu Akar's appointment to the position"" sounds slightly awkward and could be rephrased for better flow. A more natural phrasing might be ""The flawed process of Dr. Abu Akar's appointment must be addressed."""
+647,"ד""ר שלומי קודש לא שוכח, גם ממרום תפקידו, את הדחיפה מפרופ' שאול סוקניק ז""ל •","Dr. Shlomi Kodesh doesn't forget, even from his high position, the push from Prof. Shaul Soknik, of blessed memory.","MQM annotations:
+Minor: Unnatural Flow - The phrase ""of blessed memory"" is a common and accepted translation of ז""ל, but it sounds slightly formal and could be rephrased for a more natural flow in some contexts (e.g., ""the late Prof. Shaul Soknik"")."
+674,"על פרופ' שאול סוקניק ז""ל","On Professor Saul Sukenik, of blessed memory.","MQM annotations:
+minor: style/unnatural flow - ""of blessed memory"" is a common and acceptable phrase, but in modern English, it can sound slightly archaic or overly formal. A more contemporary phrasing might be ""On Professor Saul Sukenik, may his memory be a blessing"" or ""On the late Professor Saul Sukenik."""
+676,.,". ,","Okay, I'm ready to analyze the Hebrew source and English translation for style errors. I will await the source and translation to be provided and then use the template to annotate any errors I find."
+684,"כאשר סיימתי את ההתמחות והתלבטתי אם לנסוע לתקופת השתלמות בחו""ל, שאול דחף וכיוון אותי, וסייע לי במכתבי המלצה ובעצות כיצד להתנהל.","When I finished my internship and was debating whether to go for a fellowship abroad, Shaul pushed and guided me, and helped me with recommendation letters and advice on how to proceed.","MQM annotations:
+Minor: Unnatural Flow - The phrase ""pushed and guided me"" sounds a bit awkward and could be phrased more naturally in English. A more idiomatic expression might be ""encouraged and guided me"" or ""strongly encouraged me.""
+```"
+692,הביא לאור: איליה יגורוב,Brought to light by: Ilya Yegorov,"MQM annotations:
+minor: style/unnatural flow - The phrase ""Brought to light by"" sounds slightly awkward in English. A more natural phrasing might be ""Published by"" or ""By""."
+701,אבל למדתי ממנו דברים משמעותיים ועמוקים אף יותר.,But I learned from him things that were even more significant and profound.,"MQM annotations:
+No Style Errors"
+709,זו הסיבה שד״ר טומי שינפלד מהווה עבורי הרבה יותר מדמות מעוררת השראה.,This is why Dr. Tommy Sheinfeld is much more than an inspiring figure for me.,"MQM annotations:
+Style error:
+minor: unnatural flow - While grammatically correct, the sentence ""This is why Dr. Tommy Sheinfeld is much more than an inspiring figure for me"" sounds slightly awkward and could be phrased more naturally in English. A more common phrasing might be ""That's why I find Dr. Tommy Sheinfeld to be so much more than just an inspiration."""
+717,"מגפת האומיקרון משתוללת והעומס כבר מורגש בבתי החולים: 37,847 אלף נדבקים אובחנו אתמול (שני) עם קורונה.","The Omicron epidemic is raging and the burden is already being felt in hospitals: 37,847 new coronavirus cases were diagnosed yesterday (Monday).","MQM annotations:
+minor: style/Unnatural Flow - ""37,847 new coronavirus cases were diagnosed yesterday (Monday)."" sounds a bit clunky. A more natural phrasing might be ""Yesterday (Monday), 37,847 new coronavirus cases were diagnosed."" or ""There were 37,847 new coronavirus cases diagnosed yesterday (Monday)."""
+731,"אנשי צוות רפואי מבודדים, מתוכם 542 רופאים.","Medical staff in isolation, including 542 doctors.","```
+MQM annotations:
+minor: style/unnatural flow - While grammatically correct, ""Medical staff in isolation, including 542 doctors"" sounds slightly awkward. A more natural phrasing might be ""Medical staff in isolation, with 542 doctors among them.""
+```"
+737,"ואולם, למרבה הצער, לעתים מסתיימות לידות בנזקים חמורים הנגרמים ליולדת או ליילוד כתוצאה מהתרשלות הצוות הרפואי.","However, unfortunately, sometimes births end with serious damage caused to the mother or the newborn as a result of medical staff negligence.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""sometimes births end with"" is a bit awkward and could be rephrased for a more natural flow. A more idiomatic expression might be ""births sometimes result in"" or ""births can sometimes lead to""."
+738,"במקרים שבהם הסתיימה הלידה בפגיעה גופנית, ליילוד או לאם, יש מקום לבחון את השתלשלות האירועים אשר הובילו לפגיעה ואף לשקול פנייה לקבלת ייעוץ משפטי.","In cases where the delivery resulted in physical injury to the newborn or the mother, there is reason to examine the sequence of events that led to the injury and even consider seeking legal advice.","MQM annotations:
+Style error:
+minor: unnatural flow - The phrase ""there is reason to examine"" sounds slightly awkward and could be rephrased for a more natural flow in English (e.g., ""it would be prudent to examine"").
+minor: unnatural flow - The phrase ""the sequence of events that led to the injury"" is grammatically correct but could be more concise and natural (e.g., ""the events leading to the injury"")."
+745,שלב הצירים נמשך בממוצע בין 8 ל-14 שעות.,The first stage of labor lasts on average between 8 to 14 hours.,"MQM annotations:
+minor: style/unnatural flow - While accurate, phrasing ""first stage of labor"" is less common than simply ""labor"" in this context."
+766,"במקרים מסוימים, מתפתחת לידה דיספונקציונלית, קרי, חוסר התקדמות של תהליך הלידה האקטיבית.","In some cases, dysfunctional labor develops, meaning a lack of progress in the active labor process.","MQM annotations:
+minor: Unnatural Flow - ""dysfunctional labor develops"" sounds a bit awkward. ""Labor dysfunction develops"" or ""Dysfunctional labor occurs"" might be more natural.
+minor: Unnatural Flow - ""a lack of progress in the active labor process"" could be slightly improved for flow. Perhaps ""lack of progress during active labor"" or ""failure to progress in active labor."""
+778,שיתוק על שם ERB,Erb's palsy,"```
+MQM annotations:
+```"
+781,שיתוק זה נגרם לא פעם בשל קושי בהוצאתו של היילוד בשל התרחשות 'פרע כתפיים' - מצב חירום מיילדותי המרחש כאשר כתפיו של העובר נכלאות בפנים תעלת הלידה לאחר שראשו יצא.,This paralysis is often caused by difficulty in delivering the newborn due to the occurrence of shoulder dystocia - an obstetric emergency that occurs when the baby's shoulders become trapped inside the birth canal after the head has emerged.,"MQM annotations:
+minor: style/unnatural flow - ""This paralysis is often caused by difficulty in delivering the newborn due to the occurrence of shoulder dystocia"" could be phrased more naturally. For example, ""Shoulder dystocia, which is when...""
+minor: style/unnatural flow - ""obstetric emergency that occurs when the baby's shoulders become trapped inside the birth canal after the head has emerged"" could be rephrased for better flow. For example, ""obstetric emergency where the baby's shoulders become trapped in the birth canal after the head is delivered""."
+795,פטירת יולדת במהלך הלידה הינו אירו נדיר למדי.,The death of a woman in childbirth is a fairly rare event.,"MQM annotations:
+Style error:
+minor: unnatural flow - The phrase ""a woman in childbirth"" is slightly awkward. A more natural phrasing could be ""maternal death during childbirth"" or ""death of a mother during childbirth."""
+797,במקרים מסוימים לא מאתר הצוות הרפואי דימום אצל היולדת במועד או מגיב באיחור לדימום כאמור.,"In some cases, the medical team does not detect bleeding in the postpartum woman in time or responds late to the aforementioned bleeding.","MQM annotations:
+minor: style/unnatural flow - ""in the postpartum woman"" is a bit awkward. A more natural phrasing could be ""in the woman after childbirth"" or ""in the mother""."
+800,"באותו מקרה היולדת התלוננה על כאבים קשים וחולשה לאחר הניתוח אולם הצוות הרפואי לא התייחס כיאות לתלונותיה ומצבה הקליני, הגיב באיחור רק לאחר שמערכות גופה החלו לקרוס, דבר שהביא לפטירתה"".","In that case, the woman who had given birth complained of severe pain and weakness after the surgery, but the medical staff did not adequately address her complaints and clinical condition, responding late only after her bodily systems began to collapse, which led to her death.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""woman who had given birth"" is a bit awkward and could be more concise, such as ""new mother"" or ""postpartum woman.""
+minor: style/Unnatural Flow - ""bodily systems began to collapse"" sounds somewhat clinical. A more natural phrasing might be ""organs began to fail"" or ""body started shutting down."""
+805,"פיצוי יילוד בגין פגיעה עקב רשלנות רפואית בלידה כולל רכיבי נזק רבים, כאשר הסכומים המשמעותיים ביותר ניתנים עבור כאב וסבל, סיעוד וטיפול בשכר, הפסדי שכר ופנסיה לנפגע ואף להוריו ורכיבי נזק נוספים.","Compensation for a newborn due to injury resulting from medical negligence during childbirth includes many damage components, with the most significant amounts awarded for pain and suffering, nursing and care wages, loss of wages and pension for the injured party and even their parents, and additional damage components.","MQM annotations:
+Style Errors:
+minor: unnatural flow - ""nursing and care wages"" sounds slightly unnatural. A more common phrasing might be ""costs of nursing and care"".
+minor: unnatural flow - ""loss of wages and pension for the injured party and even their parents"" could be rephrased for better flow, such as ""loss of income and pension benefits for the injured party, and potentially their parents as well."""
+813,מחקר העלה כי קיים קשר בין התפתחות המחלה לנישואי קרובים •,A study found a link between the development of the disease and consanguineous marriages.,"MQM annotations:
+Style error:
+[Minor]: [Unnatural Flow] - The phrase ""consanguineous marriages"" is technically correct but sounds somewhat clinical and unnatural. A more common and natural phrasing would be ""marriages between relatives"" or ""marriages of close relations."""
+830,"הדבר נובע בעיקר משכיחות גבוהה של נישואים בתוך המשפחה (בעיקר במגזר הבדואי) ומאלרגיות שונות, וחוסר מודעות לטיפול נכון בבעיה"".","The issue stems mainly from a high prevalence of consanguineous marriages (especially in the Bedouin sector) and from various allergies, as well as a lack of awareness regarding proper treatment of the problem.","```
+MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""The issue stems mainly from"" is a bit clunky. A more natural phrasing might be ""This is mainly due to"".
+minor: Unnatural Flow - ""as well as a lack of awareness regarding proper treatment of the problem"" could be rephrased for smoother flow, e.g., ""and a lack of awareness about how to properly treat the issue.""
+```"
+855,"עד כיתה ט' למד בבית הספר בכפר חורפיש, ולאחר מכן עבר לפנימייה הצבאית שבבית הספר הריאלי בחיפה.","Until 9th grade, he studied at the school in the village of Hurfeish, and then he moved to the military boarding school at the HaReali School in Haifa.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""at the HaReali School in Haifa"" sounds slightly awkward. A more natural phrasing might be ""of HaReali School in Haifa"" or ""located at HaReali School in Haifa."""
+861,"בשנת 2010 חבר לעמותת ""אחריי"" והתחיל להדריך קבוצה בכפר חורפיש, לאחר שדאג שהעמותה תחל לפעול בכפרים הדרוזיים כדי לעודד את בני הנוער להתגייס.","In 2010, he joined the ""Acharei!"" association and began mentoring a group in the village of Hurfeish, after ensuring that the association would begin operating in Druze villages to encourage youth to enlist in the army.","MQM annotations:
+minor: style/unnatural flow - ""Acharei!"" sounds unnatural in English, it could be rephrased for better flow.
+minor: style/unnatural flow - ""after ensuring that the association would begin operating in Druze villages"" is a bit wordy and could be simplified for better flow. A more concise phrasing might improve readability."
+869,"ראוי שהוא יקבל את המקום המתאים לו"".",He deserves the place that suits him.,"MQM annotations:
+minor: style/unnatural flow - ""He deserves the place that suits him"" sounds a bit awkward in English. A more natural phrasing might be ""He deserves the place he's suited for"" or ""He deserves to be in a place that suits him."""
+876,אך בתקשורת הערבית הוצג בדיעבד ציוד קשר שלדברי הפלשתינים הושאר על ידי הכוחות מאחור.,"However, in Arab media, communication equipment was presented after the fact, which the Palestinians claimed was left behind by the forces.","```
+MQM annotations:
+minor: style/unnatural flow - The phrase ""after the fact"" sounds a bit awkward. A more natural phrasing might be ""later"" or ""subsequently"".
+```"
+877,"לטענת חמאס, המבצע נועד להטמנת מכשירי האזנה.","According to Hamas's claim, the operation was intended to plant listening devices.","MQM annotations:
+Style error:
+minor: unnatural flow - The phrase ""According to Hamas's claim"" is a bit awkward and could be rephrased for better flow in English. A more natural phrasing would be ""Hamas claims that"" or ""Hamas claims""."
+885,"מפקד כוח הלוחמים ולוחם נוסף בצוות קיבלו אף הם צל""ש.",The commander of the fighting force and another fighter on the team also received citations.,"MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""another fighter on the team"" sounds slightly awkward. A more natural phrasing might be ""another member of the team"" or ""an additional fighter""."
+889,"ישראל צריכה לשאול את עצמה, שוב, אם לא נכון לשנות מדיניות מול גזרת ג'נין •","Israel needs to ask itself, again, if it isn't right to change its policy toward the Jenin area.","MQM annotations:
+minor: UNNATURAL FLOW - The phrase ""if it isn't right to change"" is a bit awkward and could be phrased more naturally. A smoother phrasing might be ""whether it should change"" or ""if it's time to change""."
+895,"עדות לכך ניתנה במהלך מבצע המעצרים שבו נהרג שלשום לוחם הימ""מ, רס""ב נעם רז ז""ל.","Evidence of this was given during the arrest operation in which YAMAM fighter, Staff Sergeant Noam Raz, of blessed memory, was killed the day before yesterday.","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""of blessed memory"" sounds slightly unnatural and could be rephrased for a more natural flow in English. For example, ""Staff Sergeant Noam Raz, may his memory be a blessing,"" or ""Staff Sergeant Noam Raz (z""l)"" might be more common."
+896,"לוחמים שהשתתפו בקרב בג'נין העידו כי הם אינם זוכרים היקף כזה של ירי ואלימות - עדות לא רק לכמות האדירה של אמל""ח שיש בשטח, אלא גם לנכונות להשתמש בו.","Fighters who participated in the battle in Jenin testified that they do not remember such a scope of fire and violence - evidence not only of the immense amount of weaponry present in the area, but also of the willingness to use it.","MQM annotations:
+minor: style/Unnatural Flow - ""testified that they do not remember such a scope of fire and violence"" sounds slightly awkward. A more natural phrasing might be ""testified that they had never seen such intense fire and violence."""
+901,"פעילות מבצעית היא עניין מסוכן למי שמשתתף בה, ולמי שנוכח בזירה.",An operational activity is a dangerous matter for those who participate in it and for those who are present in the area.,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""a dangerous matter"" sounds slightly awkward and could be rephrased for better flow. A more natural phrasing might be ""dangerous"" or ""risky""."
+906,"ממילא נראה ששום דבר לא ישכנע את המשוכנעים: העולם כבר הזדרז לגנות את ישראל מבלי שטרח לאזן זאת במילת אמפתיה לקורבנות הטרור הפלשתיני - העילה המקורית שבשמה צה""ל פועל ללא הרף בג'נין.","Anyway, it seems nothing will convince the convinced: the world has already rushed to condemn Israel without bothering to balance it with a word of empathy for the victims of Palestinian terror – the original cause for which the IDF is constantly operating in Jenin.","MQM annotations:
+Style Errors:
+minor: Unnatural Flow - ""Anyway, it seems nothing will convince the convinced"" sounds a bit awkward and could be phrased more naturally.
+minor: Unnatural Flow - ""without bothering to balance it with a word of empathy"" is a bit clunky. A smoother phrasing would improve the flow."
+907,"כתמיד, טבעם של סיפורים כאלה לגווע.","As always, the nature of such stories is to fade away.","MQM annotations:
+minor: style/unnatural flow - ""As always"" feels slightly unnatural and could be rephrased for smoother flow. A more natural phrasing might be ""Typically"" or ""Characteristically""."
+911,האחריות מחייבת: לפעול להרגעת המצב.,Responsibility requires: to act to calm the situation.,"MQM annotations:
+Style Error:
+[Minor]: [Unnatural Flow] - The phrase ""Responsibility requires:"" sounds slightly awkward in English. A more natural phrasing might be ""Responsibility demands:"" or ""We have a responsibility:""."
+919,"ח""כ עופר כסיף הוא הדוגמה האחרונה לכך; אם לא יינקטו כלפיו צעדים - לרבות העמדה לדין על תקיפת שוטר - תעודד המדינה במשתמע את נבחר הציבור הבא להקצין עוד יותר את פעולותיו.",MK Ofer Cassif is the latest example of this; if no action is taken against him - including prosecution for assaulting a police officer - the state will implicitly encourage the next elected official to further radicalize their actions.,"MQM annotations:
+minor: style/unnatural flow - The phrase ""the next elected official to further radicalize their actions"" sounds slightly awkward and could be rephrased for better flow. A more natural phrasing might be ""the next elected official to escalate their behavior""."
+921,"מכל מי ששכל ישר בראשו מצופה להתעלות מעל לכל אלה, ולפעול להרגעת המצב; אחרת, עלולה ישראל לגלוש במהירות להסלמה מול אויבים מבחוץ, וגרוע מכך - מול יריבים מבית.","Anyone with common sense is expected to rise above all this and act to calm the situation; otherwise, Israel could quickly slide into escalation with enemies from abroad, and worse - with rivals from within.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""rise above all this"" sounds a bit awkward and could be rephrased for better flow.
+minor: style/unnatural flow - The phrase ""slide into escalation"" is a bit generic; a more vivid verb might be better.
+```"
+928,"נוסף על כך, בין 100 ל-110 אלף פלשתינים עם היתרי עבודה נכנסים מדי יום לעבודה בישראל דרך 34 מעברים מפוקחים.","In addition, between 100,000 and 110,000 Palestinians with work permits enter Israel daily for work through 34 supervised crossings.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""enter Israel daily for work through 34 supervised crossings"" could be more naturally phrased. For example, ""cross into Israel daily for work via 34 supervised crossings."""
+940,"לעיתים הדבר חוזר על עצמו גם בפעם השנייה, אך רק בפעם השלישית הוא נעצר, נכלא ומוגש נגדו כתב אישום בגין שהייה בלתי חוקית.","Sometimes it repeats itself a second time as well, but only the third time is he stopped, imprisoned, and indicted for illegal stay.","MQM annotations:
+minor: style/Unnatural Flow - ""Sometimes it repeats itself a second time as well"" could be phrased more naturally."
+954,הוא יכול להיות אב למשפחה שנכנס לארץ לעבוד כדי להרוויח כמה שקלים ולחזור.,He could be a family man who entered the country to work in order to earn a few shekels and return.,"MQM annotations:
+minor: style/Unnatural Flow - The phrase ""a few shekels"" sounds slightly unnatural. A more natural phrasing might be ""some money"" or ""a bit of money""."
+968,"חברות רשומות לא עוסקות בזה, מכיוון שאם החברה תיתפס, דינה להיסגר"".","Registered companies do not engage in this, because if the company is caught, its punishment is to be shut down.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""its punishment is to be shut down"" sounds awkward and could be rephrased for a more natural flow. A more natural phrasing might be ""it will be shut down"" or ""it will be closed""."
+971,"לרוב החבר'ה האלה מסיעים עם רכב מצ'וקמק כי הם יודעים שנחרים להם את הרכב אז הם מעדיפים לנסוע ברכב ישן"".","""Most of these guys drive around in beat-up cars because they know their vehicles will be confiscated, so they prefer to drive an old car.""","MQM annotations:
+Minor: Unnatural Flow - The phrase ""drive around in beat-up cars"" is a bit informal and could be phrased more naturally in some contexts. While not incorrect, it might sound slightly awkward.
+```"
+972,תיעוד: הצתת שדות במושב ציפורי,Documentation: Arson of fields in Moshav Tzippori.,"MQM annotations:
+No style errors found."
+979,"נציין כי במוקד זה הוקם ה""שומר החדש"" בניסיון למגר את התופעה הקשה.","We note that the ""New Guard"" was established at this focal point in an attempt to eradicate the severe phenomenon.","MQM annotations:
+minor: style/unnatural flow - ""at this focal point"" reads a bit awkwardly. A more natural wording might be ""here"" or ""in this area."""
+981,"במסגרת התרגיל המטכ""לי ""מרכבות אש"", התרעת צופרים תשמע ביום ראשון, שני ורביעי בכמה מוקדים בישראל •","As part of the general staff exercise ""Chariots of Fire,"" sirens will be heard on Sunday, Monday, and Wednesday in several locations in Israel.","MQM annotations:
+Minor: Unnatural Flow - The phrase ""general staff exercise"" could be more natural. A more common phrase is ""military exercise."""
+999,"בפעילות הלוחמים בעיר ג'נין שבמרחב החטיבה המרחבית מנשה, נעצרו שני מבוקשים החשודים בפעילות טרור.","During the activity of the soldiers in the city of Jenin, in the area of the Menashe Regional Brigade, two wanted individuals suspected of terrorist activity were arrested.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""During the activity of the soldiers"" can be phrased more naturally, such as ""In an operation by soldiers"".
+minor: style/Unnatural Flow - The phrase ""wanted individuals suspected of terrorist activity were arrested"" can be phrased more naturally, such as ""two suspected terrorists were arrested""."
+1029,משרד רואה חשבון יהודה ברלב לא מעוניין להגיב.,The Yehuda Barlev accounting firm is not interested in commenting.,"```
+MQM annotations:
+```"
+1032,"גנץ התייחס בין היתר לתיעוד של אל-סייד בשבי החמאס: ""סרטון שמטרתו סחטנות – על גבה של סוגייה הומניטארית"" •","Gantz addressed, among other things, the documentation of al-Sayed in Hamas captivity: ""A video whose purpose is extortion - at the expense of a humanitarian issue.""","MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""A video whose purpose is extortion"" sounds slightly awkward. A more natural phrasing might be ""A video intended for extortion."""
+1036,"חמאס מחזיק בשבי את ארבעת הבנים בניגוד לחוק הבינלאומי, בניגוד למוסר.","Hamas is holding the four sons captive in violation of international law, in violation of morality.","MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""holding the four sons captive"" sounds somewhat awkward and could be rephrased for a more natural flow in English. A more common phrasing might be ""holding the four sons as hostages."""
+1046,"""'השלוחים החדשים', הם טרוריסטים עם מקלדת שדינם כמו לוחמי ארגוני טרור אחרים.","""The 'new emissaries' are keyboard terrorists whose fate is like that of fighters in other terror organizations.""","MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""whose fate is like that of fighters"" is a bit awkward. A more natural phrasing might be ""who should be treated like fighters"" or ""whose punishment should be the same as for fighters."""
+1047,"אנחנו יודעים מי הם, אנחנו פוגעים בהם ובשולחיהם, וגם היום הם על הכוונת שלנו – ולא רק במימד הקיברנטי.","We know who they are, we are harming them and their senders, and even today they are in our sights – and not only in the cyber dimension.","MQM annotations:
+minor: style/unnatural flow - ""we are harming them and their senders"" sounds slightly awkward. A more natural phrasing might be ""we are harming them and those who send them."""
+1073,"מדריך לחימה בטרור של מג""ב עוטף ירושלים: ""הפיתוח, נותן מענה רלוונטי לאיומי הייחוס ומדמה את המציאות בשטח"" •","Border Police Jerusalem Envelope Counter-Terrorism Training Guide: ""The development provides a relevant response to the designated threats and simulates the reality on the ground.""","MQM annotations:
+minor: Style/Unnatural Flow - The phrase ""Jerusalem Envelope"" sounds unnatural in English. A more common phrasing might be ""surrounding Jerusalem"" or ""perimeter of Jerusalem"".
+minor: Style/Unnatural Flow - ""The development, provides a relevant response"" sounds awkward. A smoother phrasing would be ""This development provides a relevant response""."
+1081,"במסגרת התחרות, וכמענה לצורך בתרגול לוחמי מג""ב ללחימה באימון ירי בתנועה ובמתארים מסוג זה, אסף בן דויד, מדריך לחימה בטרור של מג""ב עוטף ירושלים פיתח את ""מתקן אסף"", המורכב ממטרה דינאמית, שמחוברת למוט טלסקופי עליו מורכב מנשא שניתן לרתום למדריך.","Within the framework of the competition, and in response to the need for Border Police fighters to practice fighting in live-fire exercises while moving and in scenarios of this kind, Asaf Ben David, a counter-terrorism combat instructor for the Border Police of the Jerusalem Envelope, developed the ""Asaf Device,"" which consists of a dynamic target connected to a telescopic pole on which a carrier is mounted that can be harnessed to the instructor.","MQM annotations:
+minor: Unnatural Flow - ""in scenarios of this kind"" sounds a bit awkward. A more natural phrasing might be ""in similar scenarios"" or ""in scenarios like these""."
+1082,"משרתם המדריך את המנשא למותנו, הוא יכול לתרגל את הלוחם שעומד לפניו על ידי שליטה והזזת המטרה לצדדים וטווחים שונים.","Their servant guiding the carrier to our death, can practice the warrior standing before them by controlling and moving the target to different sides and ranges.","MQM annotations:
+minor: style/Unnatural Flow - ""Their servant guiding the carrier to our death"" sounds awkward. A more natural phrasing might be ""The servant guiding the carrier to their death"" or ""The servant who guides the carrier to our demise"".
+minor: style/Unnatural Flow - ""can practice the warrior standing before them"" sounds slightly awkward. A more natural phrasing might be ""can train the warrior facing them"" or ""can hone the skills of the warrior in front of them"".
+minor: style/Unnatural Flow - ""by controlling and moving the target to different sides and ranges"" sounds a bit clunky. A more natural phrasing might be ""by manipulating the target's position and distance"" or ""by controlling the target's movements across various distances and angles""."
+1091,מתניהו אנגלמן התריע בשבוע הסייבר הבינלאומי מפני חוסר המוכנות של ישראל לתקיפות פצחנים •,Matanyahu Englman warned at Cyber Week about Israel's lack of preparedness for hacker attacks.,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""warned at Cyber Week"" sounds slightly unnatural. A more common phrasing might be ""warned during Cyber Week"" or ""warned at the International Cyber Week event."""
+1109,"במקביל לאימונים האינטנסיביים עם הנבחרת, בלייזר עסק בשבוע האחרון גם בעתידו, עד שחתם לשנתיים בהפועל ירושלים.","Alongside the intense training with the national team, Blazer has also been occupied in the last week with his future, until he signed for two years with Hapoel Jerusalem.","MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""Blazer has also been occupied in the last week with his future"" sounds slightly unnatural and could be rephrased for better flow.
+```"
+1112,"לא היית בנבחרת ארבע שנים, עד כמה אתה שמח לחזור, ועד כמה אתה רוצה לשחק בשני המשחקים הקרובים?","You haven't been on the national team for four years, how happy are you to be back, and how much do you want to play in the next two games?","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""how much do you want to play"" sounds a bit awkward. A more natural phrasing could be ""how eager are you to play"".
+```"
+1113,"""קודם כל, אני רוצה ליהנות בנבחרת ואני בא בגישה של לתרום בכל מה שאני יכול, אם זה מהניסיון שלי ואם זה על המגרש.","First of all, I want to enjoy myself in the national team and I'm coming with the attitude of contributing in any way I can, whether it's from my experience or on the field.","MQM annotations:
+No style errors found."
+1123,ברגע שהרגשתי חיבור עם ההנהלה ועם המאמן הבנתי שזה המקום הנכון בשבילי.,"The moment I felt a connection with the management and the coach, I understood this was the right place for me.","MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""The moment I felt a connection"" is grammatically correct but slightly awkward in English. A more natural phrasing might be ""Once I felt a connection"" or ""As soon as I felt a connection."""
+1128,"אני בטוח שתהיה קבוצה מחויבת ומהנה ורציתי להיות חלק מזה"".","I'm sure it will be a committed and enjoyable group, and I wanted to be a part of that.","MQM annotations:
+minor: style/Unnatural Flow - While grammatically correct, the sentence ""I'm sure it will be a committed and enjoyable group, and I wanted to be a part of that"" sounds slightly awkward and could be rephrased for better flow in English. A more natural phrasing might be ""I was sure it would be a committed and enjoyable group, and I wanted to be part of it""."
+1160,רז אדם עשוי להיות מושאל לעירוני נס ציונה •,Raz Adam may be loaned to Ironi Nes Ziona.,"MQM annotations:
+Style error:
+minor: unnatural flow - While grammatically correct, the phrase ""may be loaned to"" sounds a bit unnatural and could be phrased more simply as ""may be lent to""."
+1167,"במכבי ת""א הודיעו: נובאטוס מירושי נמכר לזולטה הבלגית",Maccabi Tel Aviv announced: Novatus Miroshi has been sold to the Belgian team Zulte.,"```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""Belgian team Zulte"" sounds slightly awkward. A more natural phrasing might be ""Zulte, the Belgian team"" or ""the Belgian club Zulte"".
+```"
+1197,"הקבוצה של אריאל בית הלחמי חיברה ניצחון שלישי ברצף, הפעם מרשים במיוחד •","Ariel Beit Halevy's team recorded its third consecutive victory, this time a particularly impressive one.","```
+MQM annotations:
+minor: style/Unnatural Flow - The phrase ""recorded its third consecutive victory"" is grammatically correct but sounds a bit formal and unnatural in this context. A more natural phrasing might be ""won their third game in a row"" or similar.
+```"
+1221,אלה שהפכו לשואבי מים ומנופפי מגבות במשחקים באירופה.,Those who have become water carriers and towel wavers in European games.,"MQM annotations:
+Style error:
+minor: style/unnatural flow - ""Those who have become water carriers and towel wavers"" sounds a bit awkward. A more natural phrasing might be ""Those reduced to being water carriers and towel wavers."""
+1276,לפני המשחק מנהל הקבוצה עמי ביטון נכנס לחדר ההלבשה ונשא דברים מרגשים בפני השחקנים.,"Before the game, the team manager Ami Biton entered the locker room and delivered an emotional speech to the players.","MQM annotations:
+minor: style/Unnatural Flow - While grammatically correct, ""delivered an emotional speech to the players"" sounds a bit formal and unnatural. A more natural phrasing might be ""gave the players an emotional pep talk"" or similar."
+1317,אין פגיעה בחשיבה הביקורתית.,No harm to critical thinking.,"MQM annotations:
+Minor: Style/Unnatural Flow - The translation is grammatically correct but sounds a bit too literal and could be phrased more naturally in English. A more common phrasing might be ""Critical thinking is not harmed"" or ""There is no impairment of critical thinking."""
+1339,"על פי שכלול נתוני המחקר, 84% מהקרקעות המיועדות לחקלאות בעולם יחוו מחסור כבד במי גשמים.","According to the refined research data, 84% of land designated for agriculture worldwide will experience a severe shortage of rainwater.","MQM annotations:
+minor: style/Unnatural Flow - While grammatically correct, ""land designated for agriculture"" sounds slightly awkward. A more natural phrasing might be ""agricultural land"" or ""land used for agriculture""."
+1364,עמלנו חודשים רבים להבאת בסיס להתקנת הסיבים וכעת החזון הופך למציאות.,"We toiled for many months to bring the infrastructure for fiber installation, and now the vision is becoming a reality.","MQM annotations:
+Style error:
+minor: UNNATURAL FLOW - The phrase ""We toiled for many months to bring the infrastructure for fiber installation"" sounds a bit unnatural. A more natural phrasing could be considered.
+```"
+1376,יש קשר בין רמות הנוגדנים שמפתחים לתופעות הלוואי?,Is there a connection between antibody levels developed and side effects?,"MQM annotations:
+minor: style/unnatural flow - The sentence is grammatically correct but sounds slightly unnatural in English. A more natural phrasing could be ""Is there a correlation..."" or ""Is there a link..."""
+1388,יש בכלל אפשרות להעריך חוזק של מערכת חיסון?,Is it even possible to assess the strength of the immune system?,"MQM annotations:
+No style errors found."
+1429,"ובכן, מה דעתכם לצאת לסיורים חינמיים בעקבות גיבורי הסדרות האהובות של נטפליקס?","So, what do you think about going on free tours following in the footsteps of the beloved Netflix series' heroes?","MQM annotations:
+Minor: Unnatural Flow - The phrase ""following in the footsteps of"" sounds a bit unnatural in this context. A more natural phrasing might be ""about"" or ""featuring.""
+```"
+1452,"המחירים השתנו, תנאי הכבודה כבר לא אותו הדבר וישראלים רבים מופתעים כשהם מגיעים לנמל התעופה ומגלים שהם צריכים להוסיף סכומים גבוהים עבור מזוודות שחשבו שכלולות במחיר.","Prices have changed, baggage conditions are no longer the same, and many Israelis are surprised when they arrive at the airport and discover they need to add significant amounts for luggage they thought was included in the price.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""baggage conditions are no longer the same"" sounds slightly awkward. A more natural phrasing could be ""baggage policies have changed"" or ""baggage allowances are different now.""
+minor: style/Unnatural Flow - ""add significant amounts for luggage they thought was included in the price"" can be rephrased for a smoother read, such as ""pay extra for luggage they believed was already covered"" or ""incur unexpected baggage fees."""
+1471,בישראייר המחיר לא כולל כבודה.,"At Israir, the price does not include luggage.","MQM annotations:
+minor: style/unnatural flow - ""At Israir"" sounds slightly unnatural. A more natural phrasing would be ""With Israir"" or ""On Israir flights""."
+1484,"הזמנה של מזוודה נוספת יכולה לעלות בין 90-150 דולרים לכיוון אם תעשו זאת בנמל התעופה, בהזמנה מראש המחיר מעט זול יותר.",Booking an additional suitcase can cost between $90-150 per direction if you do it at the airport; booking in advance is slightly cheaper.,"MQM annotations:
+Style Errors:
+minor: UNNATURAL FLOW - ""per direction"" is a literal translation and sounds slightly awkward. A more natural phrasing would be ""each way"" or ""one way"".
+```"

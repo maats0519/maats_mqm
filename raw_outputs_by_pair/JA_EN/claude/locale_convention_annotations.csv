@@ -1,0 +1,641 @@
+index,original,translated,locale_convention_annotation
+1,助成金ツアー・県民割旅行ならクラブツーリズム！,"Club Tourism! Subsidy tour, prefectural discount travel.","locale conventions:
+
+MQM annotations:
+[Minor]: [CURRENCY FORMAT] - The currency format in the target text does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between."
+2,各都道府県毎の助成を活用したツアーをご紹介。,"Here is the translation from Japanese to English:
+
+We introduce tour packages that utilize subsidies from each prefecture.","locale conventions:
+
+MQM annotations:
+[Minor]: [ADDRESS FORMAT] - The translation does not follow the standard address format in English, which typically places the city and state/province before the postal code."
+6,【比較表】薬剤師転職サイト - 一覧比較表でおすすめ紹介,[Comparison Table] Pharmacist Job Posting Sites - Recommended Introduction with Comparison Table,"Locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The placement of ""【"" and ""】"" around the title is not a standard locale convention in English.
+[Minor]: [number format] - The use of ""【"" and ""】"" around the numbers is not a standard number format in English."
+7,《2022年最新版》薬剤師転職サイトランキング。,The latest 2022 ranking of pharmacist job search websites.,"locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the English translation ""2022"" does not match the Japanese date format conventions."
+14,初めてのフリーランスで不安な集客や確定申告サポートもご用意しています。,We offer support for anxious freelancers with client acquisition and tax filing for the first time.,"Locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency format in the target text does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between."
+16,ルミクス脱毛のサロン紹介サイト - 予約数ランキングTOP5,Lumix Hair Removal Salon Introduction Site - Top 5 Reservation Ranking,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""TOP5"" in the translation should be formatted as ""Top 5"" to match the source text."
+18,早い 短期間 痛くない 熱くないSHR方式のルミクス脱毛サロン予約サイト,"Quick, short-term, painless, non-heating SHR method Lumix hair removal salon reservation site.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not follow the standard Japanese address format.
+[Minor]: [number format] - The numeric values in the target text are not formatted according to Japanese conventions."
+19,月々1760円からできる歯科矯正 - 【公式】ウィスマイル矯正,"Orthodontic treatment starting from 1,760 yen per month - [Official] Wismile Orthodontics","locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency format ""1760円"" does not match the expected format for English, which would be ""1,760 yen""."
+20,【1760円から】低価格ではじめるならウィスマイル矯正。,"Orthodontic treatment with Wismile starts at a low price of 1,760 yen.","locale conventions:
+
+MQM annotations:
+[Major]: [currency format] - The currency format ""1,760 yen"" does not match the expected format in English, which would be ""¥1,760"" or ""1,760 JPY""."
+23,1650円のお試しコース受付中。,$16.50 trial course now available.,"locale conventions:
+
+MQM annotations:
+[Minor]: [CURRENCY FORMAT] - The currency symbol ""$"" should be placed before the numeric value according to English locale conventions."
+25,WEBから24時間予約受付中・格安マウスピース矯正・調整料0円。,"24-hour online reservation available, affordable mouthpiece orthodontics, adjustment fee free.","locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency symbol ""¥"" should be placed before the numeric value according to Japanese convention."
+29,不動産のことなら連合隊 - 北見不動産連合隊,Unified real estate team - Kitami real estate unified team.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The translation ""Kitami real estate unified team"" does not follow the standard Japanese address format, which typically places the location (e.g., Kitami) before the organization name."
+31,賃貸アパート、マンション、一戸建て。,"Rental apartment, condominium, detached house.","Locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the standard Japanese format."
+33,地元に密着・写真は最大30枚・無料の物件査定も実施中。,"Local area-focused, up to 30 photos, and free property appraisals are currently available.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the Japanese locale convention. The address should be presented in the order: city, prefecture, country."
+36,お急ぎ便が使い放題。,Same-day delivery is available unlimited.,"locale conventions:
+
+MQM annotations:
+[Major]: [CURRENCY FORMAT] - The currency format ""使い放題"" does not follow the Japanese locale convention, which typically uses the yen symbol (¥) before the numeric value."
+40,ポイントが貯まる・スマホアプリあり・数億種の品揃え。,"Point accumulation, smartphone app available, over hundreds of millions of product selection.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""hundreds of millions"" is not formatted according to the English locale convention, which typically uses commas to separate thousands (e.g., ""over 200,000,000 product selection"")."
+45,あの人気漫画を今こそ一気読み。,"That popular manga, now is the time to read it all at once.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format ""今こそ"" does not follow the Japanese convention, which typically uses the year-month-day format (e.g., 2023年4月1日)."
+46,全作品試し読みアリ・買うよりお得。,"All works available for sample reading, more affordable than buying.","locale conventions:
+
+MQM annotations:
+[Minor]: [CURRENCY FORMAT] - The currency format in the target text does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between."
+50,クチコミ情報も満載です。,Word-of-mouth information is also full.,"locale conventions:
+
+MQM annotations:
+[Minor]: [WORD-OF-MOUTH FORMAT] - The translation ""Word-of-mouth information is also full"" does not accurately convey the meaning of the source text ""クチコミ情報も満載です"", which suggests that the website provides a lot of word-of-mouth information. The translation could be improved to better reflect the original meaning."
+51,タイムセールや限定プランも。,Time sale and limited plans.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""time sale"" should be formatted according to the locale convention."
+52,自宅で簡単予約・ビジネスホテルが充実・プラン充実・会員登録でポイント貯まる。,"Easy reservation at home, well-equipped business hotels, abundant plans, and accumulate points with membership registration.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""充实"" should be formatted according to Japanese number conventions."
+54,端子台 貫通をこの価格で買える通販モノタロウ。,Terminal block through-hole can be purchased at the online store Monotaro at this price.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""端子台 貫通"" does not follow the standard Japanese address format."
+56,端子台 貫通の通販。,Terminal block through-type online shopping.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""端子台 貫通"" does not follow the typical Japanese address format."
+59,紀伊御坊駅の格安ホテル - 【じゃらん】公式サイト,Affordable hotels near Kii-Gobo Station - Official site of [Jalan],"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""Kii-Gobo Station"" does not match the Japanese locale convention, which typically places the station name after the city name."
+62,【紀伊御坊駅】のホテル・旅館を予約するならじゃらん。,"Here is the translation:
+
+Book hotels and inns near Kii-Gobo Station on Jalan.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The translation uses the English format ""Kii-Gobo Station"" instead of the Japanese format."
+63,じゃらん限定・格安プランも充実。,Abundant discounted plans exclusive to Jalan.,"locale conventions:
+
+MQM annotations:
+[Minor]: [CURRENCY FORMAT] - The currency format in the target text does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between."
+64,会員登録でポイント貯まる・当日予約OKの宿多数・お得なクーポン配布中。,"Many accommodations where you can accumulate points by registering as a member, accept same-day reservations, and distribute discount coupons.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""当日"" should be formatted according to Japanese locale conventions."
+65,入力簡単60秒で無料査定依頼 - 路線価・地価の相場を調べるなら,"Easy input, free appraisal request in 60 seconds - If you want to check the market price and land price.","locale conventions:
+
+MQM annotations:
+Minor: address format - The address format in the English translation does not match the Japanese locale conventions. The order of the elements (route price, land price) is different from the typical Japanese format."
+66,マンション・土地・一戸建ての無料売却査定が可能。,"Possible free real estate appraisal for condominiums, land, and detached houses.","locale conventions:
+
+MQM annotations:
+No locale convention errors found."
+67,エリアから価格相場の把握ができます。,You can grasp the price range from the area.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""把握"" should be formatted according to the locale conventions in English."
+68,不動産売却のお悩みはプロが解決！,Real estate sale worries are solved by professionals!,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the English translation does not match the Japanese locale convention. The address should be presented in the order: building number, street name, city, prefecture, postal code, country."
+71,マンションの売却・査定・最適な売却プランをご提案・売主様へ安心サポート。,"Proposal of the optimal sales plan, assessment, and sale of the condominium. Providing peace of mind support to the seller.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the English translation does not match the Japanese locale convention. The elements of the address are not presented in the expected order."
+75,ダイキン エアコン お客様 センター見つけましょう。,Daikin air conditioning customer center.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the English translation does not match the Japanese locale convention. The translation should present the address elements in the order expected in Japanese, such as placing the company name first, followed by the address."
+78,来場予約キャンペーン実施中 - 都市型狭小3階建てモデルハウス,Come and visit campaign in progress - Urban compact 3-story model home.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""都市型狭小3階建てモデルハウス"" does not follow the typical Japanese address format."
+83,ITツールを駆使し業務コストを削減し、リーズナブルな価格でのサービス提供を実現,Utilizing IT tools to reduce business costs and realize the provision of services at reasonable prices.,"locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency format in the target text does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between."
+92,どうしても今すぐお金が必要 - 【厳選3社】即日キャッシング,I need money urgently right now.,"locale conventions:
+
+MQM annotations:
+[Major]: [currency format] - The currency format in the target text does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between."
+98,レストラン予約するなら一休.com、お店の口コミも掲載。,"Restaurant reservations can be made on Ikyu.com, which also features reviews of the establishments.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""一休.com"" does not match the expected format for a website address in English."
+102,幸せウエディングを叶える情報満載／結婚式準備はゼクシィ。,"""Information-packed for realizing a happy wedding / Prepare for your wedding with Zexy.""","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the standard Japanese address format."
+107,ゴールドカードはメリットばかり！,Gold card is all benefits!,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""ばかり"" (meaning ""only"" or ""just"") should be formatted as a number rather than a word."
+110,自宅用のホームルーターをお探しの方必見！,Home router for home use must-see!,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the locale-specific requirements. The placement of ""用の"" is incorrect in English."
+112,置くだけで使えるWiFiも！,Plug-and-play WiFi too!,"locale conventions:
+
+MQM annotations:
+[Minor]: [NONE] - The translation ""Plug-and-play WiFi too!"" does not contain any locale convention errors."
+115,蒲田イン ソーシャル- トリップアドバイザー,Kamata Inn Social - TripAdvisor,"locale conventions:
+
+MQM annotations:
+[Major]: [address format] - The translation ""Kamata Inn Social"" does not follow the standard Japanese address format, which typically includes the prefecture, city, and specific address details.
+[Minor]: [number format] - The use of a hyphen ""-"" in ""Kamata Inn Social - TripAdvisor"" is not a standard Japanese number format convention."
+119,ショートが似合うか不安な方でもしっかりとカウンセリングして似合わせをいっしょに考えます。,"A person who is unsure if a short hairstyle would suit them can receive thorough counseling, and we will consider together what style would be most suitable.","locale conventions:
+
+MQM annotations:
+[Minor]: [no-error] - There are no locale convention errors in the given translation.
+
+The translation accurately conveys the meaning of the source text and does not contain any issues related to locale-specific formatting or content."
+124,ロハコ限定、くらしになじむデザインが多数。,"Rohaco limited, many designs that fit into your lifestyle.","Source Japanese: ロハコ限定、くらしになじむデザインが多数。
+
+Translation English: Rohaco limited, many designs that fit into your lifestyle.
+
+MQM annotations:
+Locale Conventions Errors:
+
+[Major]: [COMPANY NAME] - The company name ""Rohaco"" in the English translation is incorrect. The correct company name is ""Lohaco"" as mentioned in the Japanese source text.
+
+[Minor]: [SPELLING] - The spelling of ""Rohaco"" in the English translation is incorrect. The correct spelling is ""Lohaco""."
+125,最短翌日お届け、PayPay決済対応。,"Next-day delivery, PayPay payment accepted.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format ""翌日"" (next day) is not translated into the appropriate English format."
+127,都心へのマルチアクセスを叶えるタワーレジデンス。,A tower residence that provides multi-access to the city center.,"locale conventions:
+
+MQM annotations:
+No locale convention errors found."
+128,4路線利用できる‘目黒’駅に誕生。,"Meguro Station, where you can use 4 train lines, has been born.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The translation does not include the word ""station"" which is part of the location name in the source text."
+129,野村不動産グループ×JR東日本グループ開発エリア【MEGURO MARC】の32階建タワー。,"Meguro Marc, a 32-story tower developed by the Nomura Real Estate Group and the JR East Japan Group.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""Meguro Marc"" does not follow the standard Japanese address format."
+132,続くから変われる、人生を変える英会話の力をあなたへ。,"Your life can change through the power of English conversation, because it continues to evolve.","locale conventions:
+
+MQM annotations:
+No locale convention errors found."
+136,クラウド電話を1内線200円から - 【公式】サテライトオフィス,Cloud phone from 200 yen per extension.,"locale conventions:
+
+MQM annotations:
+[Minor]: [CURRENCY FORMAT] - The currency format ""200 yen per extension"" does not match the expected Japanese format, which typically places the currency symbol before the numeric value (e.g., ¥200 per extension)."
+145,glovesdepoを探すなら、日本最大級通販ショップ楽天市場。,"Rakuten Ichiba, Japan's largest online shopping mall, is where you can find glovesdepot.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The translation does not follow the standard Japanese address format, which typically includes the prefecture, city, and more specific location details."
+148,目黒 恵比寿 五反田エリアで顧問弁護士をお探しなら目黒国際法律事務所。,"Meguro, Ebisu, and Gotanda area, if you are looking for a legal counsel, Meguro International Law Office.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""Meguro, Ebisu, and Gotanda area"" does not follow the standard Japanese address format, which typically starts with the largest administrative division (e.g., prefecture) and ends with the smallest (e.g., building number)."
+151,若手弁護士がフットワーク軽く迅速に対応します。,The young lawyer will respond quickly and nimbly.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""若手"" (young) is not formatted according to Japanese locale conventions."
+152,20代～シニアまで申込める保険 - 【生命保険】はなさく生命,Life insurance for ages 20s to seniors - Hanasaku Life.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""【生命保険】はなさく生命"" does not follow the standard Japanese address format."
+161,素肌が喜ぶ、FOOD(食べもの)から生まれた化粧品。,Skincare products born from FOOD.,"locale conventions:
+
+MQM annotations:
+No locale convention errors found."
+162,食べてカラダにいいFOODをお肌にも！,"Eat foods that are good for your body, and also for your skin!","locale conventions:
+
+MQM annotations:
+No locale convention errors found."
+164,特別セールやキャンペーンをお見逃しなく。,Don't miss out on special sales and campaigns.,"locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency symbol ""¥"" should be placed before the numeric value according to Japanese locale conventions."
+165,韓国で人気のスキンフード・韓国コスメのスキンフード・SKINFOOD公式通販。,Skinfood - popular Korean skincare brand. Official Skinfood online store.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the standard Japanese address format."
+166,【広島】ホットヨガTOP3 - 人気No1のホットヨガスタジオ,"Here is the translation from Japanese to English:
+
+【Hiroshima】Top 3 Hot Yoga - The most popular No. 1 Hot Yoga studio","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The translation does not include the locale-specific formatting for the location ""Hiroshima""."
+169,お得なキャンペーン中,Limited-time special offer.,"locale conventions:
+
+MQM annotations:
+[Minor]: [CURRENCY FORMAT] - The currency format in the target text does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between."
+175,活力サポートサプリ・テストフェン配合・スーパーマカ配合。,Vitality support supplement - containing TestoFen - containing Super Maca.,"locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency symbol ""$"" should be placed before the numeric value according to English conventions."
+177,【東京23区】で一戸建て探しならオープンハウス。,Open House for detached house search in the 23 wards of Tokyo.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The translation does not follow the standard address format in English. The Japanese address format ""【東京23区】"" should be translated as ""in the 23 wards of Tokyo"" or a similar expression."
+180,厳選した大泉学園の一戸建てを掲載中。,Detached houses in Oizumi Gakuen are now available for viewing.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""Oizumi Gakuen"" does not follow the standard Japanese address format."
+186,宿泊&航空券をあんしん予約。,Secure reservation for accommodation and airline tickets.,"locale conventions:
+
+MQM annotations:
+[Minor]: [CURRENCY FORMAT] - The currency format in the target text does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between."
+196,モテ髪ヘアカタログ・人気サロンをネット予約・ネット予約でポイントGet。,"Hair catalog for attracting attention, popular salon online reservation, get points by online reservation.","Locale conventions:
+
+MQM annotations:
+Minor: address format - The address format in the English translation does not match the Japanese locale conventions. The address should be presented in the order: street number, street name, city, prefecture, postal code.
+Minor: number format - The ""Get"" in the English translation should be capitalized as ""GET"" to match the Japanese formatting."
+198,クチコミ比較、最安値予約、現地払い。,"Word-for-word translation:
+Word-of-mouth comparison, lowest price reservation, on-site payment.","locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency format in the target text does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between."
+204,全国のビューティーサロンの検索、空席確認、ネット予約。,"Beauty salon search, vacancy check, and online booking across Japan.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the expected locale-specific format. The elements of the address are not structured correctly."
+206,理想の照明がない… - 取扱いブランド数、日本最大級,"""There is no ideal lighting...""","locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The translation does not follow the Japanese convention for presenting the number of brands handled, which is typically written in numerals rather than as text."
+209,各種カード、ポイント還元・日本最大級2万点の品ぞろえ。,"A wide variety of cards, point redemption, and Japan's largest selection of over 20,000 items.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""2万"" (20,000) in the source text should be formatted as ""20,000"" in the English translation to match the locale convention."
+214,"【公式】ヴァージンクリニック - 全身医療脱毛5回88,000円／京都","Virgin Clinic - Full-body medical hair removal 5 times 88,000 yen / Kyoto","locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency format ""88,000 yen"" does not match the Japanese locale convention, which typically uses ""¥88,000"" or ""88,000 円""."
+217,追加料金も0円で安心,"Additional fees are also 0 yen, so you can rest assured.","locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency format ""0円"" does not match the expected format in English, which would be ""0 yen""."
+218,幕張本郷 口コミ第1位の整体院 - 多くの専門家が絶賛する技術,"Makuhari Honcho, the No. 1 osteopathic clinic in word-of-mouth - Highly praised techniques by many experts.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""Makuhari Honcho"" does not follow the standard Japanese address format."
+232,料金も時間も節約しよう。,Save on both cost and time.,"locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The numeric value ""料金も時間も"" should be formatted according to Japanese locale conventions, which typically do not use spaces to separate numbers."
+234,お気に入りの宿を特別料金で。,Your favorite accommodation at a special rate.,"locale conventions:
+
+MQM annotations:
+[Minor]: [ADDRESS FORMAT] - The address format in the target text does not match the Japanese locale conventions."
+238,自分で淹れたおいしい一杯を味わいながら、プロの技をマスター。,Savor a delicious cup that you brewed yourself while mastering the techniques of a professional.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""one"" should be formatted as a number (1) to match the locale conventions."
+244,25歳以下または対象期間内に引越した方でAirターミナル5を購入・契約し、開通後アンケート回答で,"25 years old or younger, or those who have moved within the target period, who have purchased or contracted for AirTerminal 5 and responded to the questionnaire after activation.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""25 years old or younger, or those who have moved within the target period"" does not match the Japanese convention. The expected format would be ""25歳以下または対象期間内に引越した方""."
+246,3層タイプのプリーツマスクで、オメガ形状のプリーツが大きく広がり、鼻や口を圧迫しにくく、呼吸しやすくなっています。,"The pleated mask is of a 3-layer type, with large, wide omega-shaped pleats that do not easily press against the nose or mouth, making it easy to breathe.","locale conventions:
+
+MQM annotations:
+Minor: address format - The address format in the target text does not match the Japanese locale conventions. The order of the address elements should be reversed (e.g., ""〒123-4567 東京都千代田区 1-2-3"")."
+248,10枚/袋×2袋で包装しており、持ち運び便利な仕様です。,"20 sheets per package, packaged for easy portability.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""10枚/袋×2袋"" should be formatted as ""20 sheets per package"" to match the English locale convention."
+249,ゴム紐は6mmの平ゴム形状なので、耳への当たりが柔らかく、よくある耳の痛みも軽減してくれます。,"The rubber band has a flat rubber shape of 6mm, so it is soft on the ears and can reduce the common ear pain.","locale conventions:
+
+MQM annotations:
+Minor: measurement format - The unit ""mm"" should be placed after the numeric value according to the English locale convention."
+263,※A4 5冊入の商品に掲載の画像は新しいパッケージの商品です。,The image shown is of the new package of the product that comes in a set of 5 A4-sized items.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The image shown is of the new package of the product that comes in a set of 5 A4-sized items. The translation does not specify that the image is of the new package, which could be considered a minor locale convention error."
+264,以前のパッケージ商品の用紙と仕様は同一です。,The paper and specifications of the previous packaged product are the same.,"locale conventions:
+
+MQM annotations:
+[Minor]: [no-error] - The translation accurately conveys the meaning of the source text and does not contain any locale convention errors."
+266,箱に記載されている注文コードと500枚入の包装紙記載の注文コードは異なります。,The order code printed on the box is different from the order code printed on the 500-sheet packaging paper.,"locale conventions:
+
+MQM annotations:
+Major: locale_conventions/number_format - The order code printed on the box is different from the order code printed on the 500-sheet packaging paper, which violates the locale convention for consistent formatting of order codes."
+267,(500枚入の1冊で販売するためです),"""It is for sale as a single volume containing 500 sheets.""","locale conventions:
+
+MQM annotations:
+[Major]: [number format] - The numeric value ""500"" should be formatted according to Japanese locale conventions, which typically use commas to separate thousands."
+270,ブレーキライニングやブレーキドラムや機械部品等に付着したオイルやグリース等の汚れをきれいに落としブレーキ装置から発生する様々な粉塵を空気中に飛散させることなく、油脂類やカーボン等の汚れを素早くきれいに落とします。,"The dirt such as oil and grease attached to brake linings, brake drums, and mechanical parts is thoroughly removed, and the various dusts generated from the brake system are prevented from scattering into the air, quickly and cleanly removing oil, grease, and carbon deposits.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not follow the Japanese locale convention. The order of the address elements should be: city, prefecture, street address.
+[Minor]: [measurement format] - The measurement unit ""kmts"" is not the correct format for kilometers in the Japanese locale. The correct unit symbol is ""km""."
+271,又、オゾン層の破壊や環境汚染の原因となるフロン及びトリクロロエタンを一切含まない有機溶剤中毒予防規則適用外の洗浄剤です。,"It is a cleaning agent that is not subject to the Organic Solvent Poisoning Prevention Regulation, and does not contain any chlorofluorocarbons or trichloroethane, which are the causes of ozone layer depletion and environmental pollution.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""one"" should be formatted as a numeral (1) to match the locale convention."
+274,缶の逆さ使用OK。,Upside-down use of the can is okay.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The translation uses ""OK"" instead of the expected ""okay"" in English."
+276,ニトリルゴム手袋 極薄 粉なし ブルー色 100枚入,"Nitrile rubber gloves, ultra-thin, powder-free, blue color, 100 pieces.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""100"" should be formatted with a space or comma as per the English locale convention (e.g., ""100"" or ""100,"")."
+277,柔らかく手にピッタリフィットするので、長時間の細かな作業に適しています。,Fits snugly in the hand and is suitable for long periods of detailed work.,"locale conventions:
+
+MQM annotations:
+[Minor]: [MEASUREMENT FORMAT] - The translation uses ""fits snugly"" instead of the more precise ""fits the hand snugly"", which would better convey the meaning of the source text."
+279,便利な左右兼用タイプのためムダなくお使いいただけます。,You can use it without waste as it is a convenient ambidextrous type.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The translation uses a comma to separate the thousands, which is not the standard format in English. The correct format would be ""without waste as it is a convenient ambidextrous type""."
+283,※体質によっては、かゆみ、かぶれ、発疹等をおこすことがあります。,"May cause itching, rash, or other skin irritations, depending on individual constitution.","locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency symbol ""¥"" should be placed before the numeric value according to Japanese locale conventions."
+286,膨潤、浸透、老化することがあります。,"It may swell, penetrate, and age.","locale conventions:
+
+MQM annotations:
+[Minor]: [MEASUREMENT FORMAT] - The translation uses ""浸透"" which could be interpreted as ""penetrate"" instead of the more appropriate ""permeate"" or ""soak in""."
+289,※爪先、刃物や尖ったもの等で傷をつけないよう注意してください。,"Be careful not to scratch yourself with your fingertips, sharp objects, or pointed items.","Locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The placement of ""St."" is incorrect in English. The correct format should be ""123 Desert Bluff, Canyonlands, AC 12345, United States""."
+290,水漏れの原因になります。,The cause of water leakage.,"locale conventions:
+
+MQM annotations:
+[Major]: [MEASUREMENT FORMAT] - The translation uses ""漏れ"" which is a Japanese word, but the English translation ""water leakage"" would be more appropriate."
+295,サイズが一目瞭然のデザイン。,The design is self-evident in size.,"locale conventions:
+
+MQM annotations:
+[Minor]: [MEASUREMENT FORMAT] - The design is self-evident in size should be expressed as ""The design is self-evident in its size."""
+299,※電池のアルカリ液が目に入ったときは失明などのおそれがあるので、すぐに多量のきれいな水で洗い流し、 医師の治療を受ける。,"If the alkaline battery liquid gets into the eyes, there is a risk of blindness, so immediately rinse with a large amount of clean water and receive medical treatment.","locale conventions:
+
+MQM annotations:
+[Critical]: [no-error] - None
+[Major]: [no-error] - None
+[Minor]: [no-error] - None
+
+The translation provided does not contain any locale convention errors. The translation accurately conveys the meaning of the source text and follows the appropriate formatting conventions."
+306,※この電池は充電式でないので、充電すると液漏れ、発熱、破裂のおそれがある。,"This battery is not rechargeable, so charging it may cause leakage, overheating, or explosion.","locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/address format] - The address format in the English translation does not match the Japanese locale conventions."
+315,着け具合も柔らかくフィット感のある軍手です。,It is a work glove that fits softly and comfortably.,"locale conventions:
+
+MQM annotations:
+[Minor]: [NONE] - The translation does not contain any locale convention errors."
+318,※回転体を伴う機械作業では、使用しないでください。,Do not use for machinery operations involving rotational bodies.,"locale conventions:
+
+MQM annotations:
+[Major]: [locale_conventions/measurement format] - The translation uses ""kmts"" instead of the correct metric unit symbol ""km""."
+321,マスキングテープ 高品質 和紙基材,"Masking tape, high quality, Japanese paper-based.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""高品質"" should be formatted according to Japanese conventions."
+323,のり残りが少なくタテ裂けが起こりにくいです。,The nori (seaweed) residue is minimal and vertical tearing is less likely to occur.,"locale conventions:
+
+MQM annotations:
+[Minor]: [NONE] - No locale convention errors detected in the given translation.
+
+The translation ""The nori (seaweed) residue is minimal and vertical tearing is less likely to occur."" accurately conveys the meaning of the source text without any issues related to locale conventions."
+324,※被着体、塗料の種類によっては貼り跡やのり残りが発生する場合がありますので、問題がないことを確かめてからご使用下さい。,"Please check that there are no issues before use, as adhesive residue or staining may occur depending on the surface and type of paint.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The placement of ""St."" is not in the correct format for Japanese."
+329,※ティシューは水に溶けにくいため、水洗トイレには流さないでください。,"Please do not flush tissues down the water-flushing toilet, as they do not dissolve easily in water.","Locale conventions:
+
+MQM annotations:
+[Minor]: [MEASUREMENT FORMAT] - The translation uses ""kmts"" instead of the correct Spanish unit symbol ""km"" for kilometers."
+331,※引火の原因になりますので、火気の近くに置かないでください。,Do not place it near open flames as it may cause ignition.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the Japanese locale conventions. The phrase ""火気の近くに置かないでください"" should be translated as ""Do not place it near open flames"" instead of ""Do not place it near open flames as it may cause ignition."""
+334,プロユーザーにも安心してご使用いただける品質の、弱粘着タイプ養生テープです。,It is a low-tack masking tape that can be used with confidence by professional users as well.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""弱粘着"" should be formatted according to the locale convention."
+339,手で簡単にカットできる養生用ポリエチレンクロステープで耐候性・耐水性に優れています。,The polyethylene cross tape for protection is easy to cut by hand and has excellent weather and water resistance.,"locale conventions:
+
+MQM annotations:
+[Minor]: [measurement format] - The unit symbol ""ポリエチレン"" should be formatted according to Japanese conventions."
+340,再はくり性が良好です。,Good repeatability.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""再はくり性"" should be formatted according to Japanese locale conventions."
+341,※貼る対象物や使用環境によっては、粘着力等数値通りの値が出ない場合がございます。,"The adhesive strength and other values may not be as indicated, depending on the object to be attached and the usage environment.","locale conventions:
+
+MQM annotations:
+[Minor]: [MEASUREMENT FORMAT] - The adhesive strength and other values may not be as indicated, depending on the object to be attached and the usage environment."
+349,※養生後、テープを早く剥すと破断する恐れがありますので、ゆっくり剥してください。,Remove the tape slowly as there is a risk of tearing if removed too quickly.,"locale conventions:
+
+MQM annotations:
+[Minor]: [style/awkward] - The translation could be more natural and idiomatic."
+350,※粘着剤特有のにおいがありますので、換気の良い所でのご使用をお勧めします。,Please use the product in a well-ventilated area as it has a characteristic adhesive odor.,"locale conventions:
+
+MQM annotations:
+[Minor]: [style/awkward] - The translation uses a more formal and technical phrasing compared to the source text, which has a more conversational tone."
+351,※被着体と養生期間によっては、被着体を汚染・損傷する場合がありますので、ご使用前にお確かめください。,"The surface to be applied and the curing period may cause contamination or damage to the surface, so please check before use.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The placement of ""St."" is incorrect in English. The correct format should be ""123 Desert Bluff, Canyonlands, AC 12345, United States""."
+356,従来品に比べ耐候性がアップしました。,Weatherability has been improved compared to the conventional product.,"locale conventions:
+
+MQM annotations:
+[Minor]: [MEASUREMENT FORMAT] - The conventional product should be expressed in the same measurement format as the improved product for consistency."
+360,保管する場合は密閉することを推奨します。,It is recommended to store in a sealed container.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The placement of ""St."" is incorrect in English. It should be ""123 Desert Bluff, Canyonlands, AC 12345, United States""."
+362,※一度ご使用された製品を再度ご使用にされることで、結束力不足により不具合が発生する可能性があります。,The product may malfunction due to insufficient cohesion if used again after initial use.,"locale conventions:
+
+MQM annotations:
+[Minor]: [LOCALE CONVENTIONS/TERMINOLOGY] - The term ""cohesion"" may not be the most appropriate translation for the Japanese term ""結束力"" in this context. A more natural translation could be ""structural integrity"" or ""strength of the bond""."
+365,※取り付けの際には現車取り付け部に真っ直ぐ取り付け作業を行ってください。,Please install it straight onto the vehicle mounting part.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The translation does not follow the standard Japanese address format, which typically places the location before the street name."
+368,現在販売している商品は品質確認済になりますのでご安心してご使用下さい。,"The products currently on sale have undergone quality inspection, so please use them with confidence.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""現在"" should be formatted according to Japanese locale conventions."
+369,※当製品は交換作業を整備業者へ依頼して行う事をおすすめします。,We recommend that the replacement work be entrusted to a maintenance service provider.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the expected locale-specific format."
+370,個人で交換作業を行った場合は補償出来ない場合もございます。,"In the event that the exchange work is carried out individually, there may be cases where compensation cannot be provided.","locale conventions:
+
+MQM annotations:
+[Major]: [CURRENCY FORMAT] - The translation does not follow the correct currency format for the target locale. The currency symbol should be placed before the numeric value with a space in between."
+371,※ネジ寸法が各オイルフィルターで異なっている為、高さや外径などが同じフィルターに見えても取り付け前に再度、車種とネジ寸法をご確認ください。,"The screw dimensions vary for each oil filter, so even if the height and outer diameter appear to be the same as the filter, please reconfirm the vehicle model and screw dimensions before installation.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The source text mentions that the screw dimensions vary for each oil filter, so the height and outer diameter may appear the same, but the vehicle model and screw dimensions should be reconfirmed before installation. This information is not clearly conveyed in the English translation."
+373,※わずかな違いでも大きなトラブルになる場合がございます。,There may be cases where even a slight difference can lead to a major problem.,"locale conventions:
+
+MQM annotations:
+[Major]: [ADDRESS FORMAT] - The address format in the target text does not match the Japanese locale conventions."
+378,白メリヤスウエス 中古生地,"White knitted fabric, used.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""中古"" (used) should be formatted according to Japanese locale conventions."
+380,ウエス製品の中で優れた製品です。,It is an excellent product among Ues products.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The placement of ""製品"" is not in the correct order for an English address format."
+382,カット済。,Cut.,"Locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""済"" should be formatted according to Japanese locale conventions."
+390,※用途以外に使用しないでください。,Do not use for purposes other than intended.,"locale conventions:
+
+MQM annotations:
+[Minor]: [LOCALE CONVENTIONS/ADDRESS FORMAT] - The address format in the target text does not match the locale-specific requirements. The placement of ""St."" is incorrect in English."
+393,ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,Avoid using chemical products as they may cause color fading.,"locale conventions:
+
+MQM annotations:
+[Minor]: [MEASUREMENT FORMAT] - The translation uses ""ケミカル品"" instead of the standard Japanese measurement unit format."
+395,食品に触れる用途には使用しないでください。,Do not use for applications that come into contact with food.,"locale conventions:
+
+MQM annotations:
+[Minor]: [USAGE] - The translation ""Do not use for applications that come into contact with food"" does not fully capture the nuance of the source text, which is more specific about not using the product for food-related purposes."
+398,※ケミカル製品と接触することによって色落ちが発生する可能性がありますのでケミカル品のご使用をお避けください。,Please avoid using chemical products as they may cause color fading.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The placement of ""St."" is incorrect in English. The correct format should be ""123 Desert Bluff, Canyonlands, AC 12345, United States""."
+399,ハンドクリーナー 工業用 オレンジエキス保湿成分配合 スクラブ入り,"Hand cleaner, industrial, with orange extract moisturizing ingredients, with scrub.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""工業用"" does not follow the standard Japanese address format.
+[Minor]: [measurement format] - The measurement unit ""スクラブ"" is not formatted correctly according to Japanese conventions."
+409,異物感が残る場合は、眼科医にご相談ください。,"If you continue to feel a foreign body sensation, please consult an ophthalmologist.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format ""09-02-2024"" should be in the format ""02.09.2024"" according to Japanese locale conventions."
+421,※使用後の本製品の廃棄は、お住まいの各自治体で定められたゴミ廃棄方法に従ってください。,Please dispose of this product after use according to the waste disposal methods specified by your local municipality.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the English translation does not match the Japanese locale convention. The translation should be ""Please dispose of this product after use according to the waste disposal methods specified by your local municipality."""
+422,※袋を閉じる際は結束バンドでしっかり結んでください。,Please securely tie the bag closed with a cable tie.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The placement of ""袋"" is not necessary in the English translation."
+428,※本来の用途以外には使用しないでください。,Do not use for purposes other than the original intended use.,"Source Japanese:
+※本来の用途以外には使用しないでください。
+
+Translation English:
+Do not use for purposes other than the original intended use.
+
+MQM annotations:
+Locale Conventions Errors:
+
+[Minor]: [ADDRESS FORMAT] - The translation does not follow the standard English address format.
+[Minor]: [NUMBER FORMAT] - The translation does not follow the standard English number formatting."
+434,※フタが開けにくい際はフタを少し潰す様に押すと開けやすくなります。,The lid can be opened more easily by pressing it down slightly as if flattening it.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The placement of ""St."" is incorrect in English. The correct format would be ""123 Desert Bluff, Canyonlands, AC 12345, United States""."
+435,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"When disposing of the contents, cleaning waste liquid, or containers, please entrust it to a specialized waste disposal company that has obtained permission from the prefectural government.","locale conventions:
+
+MQM annotations:
+[Major]: [address format] - The address format in the target text does not match the expected locale-specific format. The components of the address are not presented in the correct order."
+438,透明度があり加工後も封入物の文字をクッキリ読めます。,"The text translates to:
+
+""It has transparency and the text of the encapsulated material can be clearly read even after processing.""","locale conventions:
+
+MQM annotations:
+[Minor]: [clarity/awkward] - The translation is a bit awkward in English, could be rephrased more naturally."
+439,※機器には接着加工してあるシール部分から挿入してください。,Please insert from the adhesive-processed seal portion of the device.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The translation does not follow the standard Japanese address format, which typically places the postal code before the city/town name."
+443,※一度加工したシートは再生不能となります。,The sheet once processed becomes irreparable.,"locale conventions:
+
+MQM annotations:
+[Major]: [terminology/inappropriate for context] - The term ""irreparable"" is not the most appropriate translation for ""再生不能"" in this context. A more suitable term would be ""cannot be reused"" or ""cannot be recycled""."
+450,※工業用の薬品やアルコール、石油製品などには絶対に使用しないで下さい。,"Do not use for industrial chemicals, alcohol, petroleum products, or the like.","locale conventions:
+
+MQM annotations:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+451,※熱湯は入れないで下さい。,Do not pour in hot water.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The placement of ""下さい"" is not in the correct format for an English instruction."
+455,中身が漏れる恐れがございます。,The contents may leak.,"locale conventions:
+
+MQM annotations:
+[Major]: [CURRENCY FORMAT] - The contents may leak.
+
+Explanation: The translation does not include any currency-related information, so the ""CURRENCY FORMAT"" error category is not applicable here. The translation is a direct and accurate rendering of the source text."
+459,店頭でフックなどに吊り下げることができる便利な穴付きです。,It has a convenient hole that can be hung on hooks or the like at the store counter.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The translation does not follow the typical format for presenting address information in English. The ""at the store counter"" part should be presented separately from the description of the hole feature."
+460,フック用穴と本体の間はミシン目入りなので、フックに掛けて本体を引っ張れば穴の下から切れて使える構造になっています。,"The space between the hook hole and the main body is perforated, so you can hook it and pull the main body to cut it from the bottom of the hole, making it usable.","locale conventions:
+
+MQM annotations:
+[Minor]: [ADDRESS FORMAT] - The space between the hook hole and the main body is perforated, so you can hook it and pull the main body to cut it from the bottom of the hole, making it usable."
+461,表面にエンボス加工入り。,Embossed surface.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the English translation does not match the Japanese locale convention. The Japanese address format typically places the city name before the street address."
+464,※幼児や子供がかぶって遊ぶと窒息などの危険がありますのでご注意ください。,Please be careful as there is a risk of suffocation if infants or children play by putting it over their heads.,"locale conventions:
+
+MQM annotations:
+[Major]: [LOCALE CONVENTIONS/ADDRESS FORMAT] - The address format in the target text does not match the locale-specific requirements. The placement of ""St."" is incorrect in English."
+465,※高温多湿を避け、火の気のない場所で保管してください。,"Keep in the place away from high temperature and high humidity, and away from fire.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the English translation does not match the Japanese locale convention. The Japanese format typically places the location before the street address."
+481,OPPテープ 透明色,Transparent color OPP tape.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""テープ"" should be formatted according to Japanese conventions."
+482,梱包用テープとして、価格も安く強度も強い為、良く使われています。,Packing tape is widely used because it is inexpensive and has high strength.,"locale conventions:
+
+MQM annotations:
+No locale convention errors found."
+487,※梱包用途以外の使用は避けてください。,Please avoid using for purposes other than packaging.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The placement of ""用途"" is not in the correct format for English."
+488,貼る面を損傷する場合がございます。,May cause damage to the surface to be applied.,"locale conventions:
+
+MQM annotations:
+[Major]: [MEASUREMENT FORMAT] - The translation uses ""場合がございます"" which is not a standard Japanese measurement format. The correct format would be ""場合があります""."
+492,※物性は測定値であり、規格値或いは保証値でありません。,The physical properties are measured values and not specification values or guaranteed values.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The decimal separator in the source text is a comma, but the translation uses a period, which is the standard number format in English."
+499,※内容物、洗浄廃液や容器を廃棄する場合は、都道府県の許可を受けた専門の廃棄物処理業者に委託してください。,"When disposing of the contents, cleaning waste liquid, or containers, please entrust it to a specialized waste disposal company that has obtained permission from the prefectural government.","locale conventions:
+
+MQM annotations:
+[Major]: [address format] - The address format in the target text does not match the locale-specific requirements. The placement of ""St."" is incorrect in English."

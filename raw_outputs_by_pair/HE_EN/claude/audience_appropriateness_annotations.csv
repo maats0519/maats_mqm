@@ -1,0 +1,523 @@
+index,original,translated,locale_convention_annotation
+8,עוד צוין כי תועדו בתקופה האחרונה פחות מ-20 ברדלסים בשבעה מחוזות שונים במדינה.,"According to the report, fewer than 20 cheetahs were documented in the last period in seven different districts in the country.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""cheetahs"" may not be a familiar concept for the target audience, and a more common term for the local wildlife may be more appropriate."
+21,"לפני כמה שבועות, קיבלתי הזדמנות ראשונית לנסות את המוצר החדש, שזמין כרגע רק לנסיינים בודדים בארה""ב, כאן בישראל.","A few weeks ago, I had an initial opportunity to try the new product, which is currently available only to a few testers in the US, here in Israel.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""here in Israel"" may not be immediately clear to all readers outside of Israel, as it assumes a certain level of familiarity with the geographic context."
+23,"אחרי שבועיים של השתעשעות, הבנתי כיצד ה-Car Thing יכול להפוך בקלות לחלק בלתי נפרד מהמערכת של אנשים רבים.","After two weeks of playing around, I understood how the Car Thing can easily become an integral part of many people's system.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Car Thing"" may not be familiar or intuitive for the target audience, as it is a product-specific reference that may not be widely recognized."
+26,"אי שם בשנת 2018, משתמשי ספוטיפיי החלו לקבל הצעה מעניינת בתיבת האימייל שלהם - אפשרות לרכוש מכשיר חדש עם שליטה קולית וחיבוריות דור רביעי, שיהפוך כל מערכת ישנה לרכב לחכמה.","Somewhere in 2018, Spotify users began receiving an interesting offer in their email inbox - an option to purchase a new device with voice control and 4G connectivity, which will turn any old system into a smart car.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""smart car"" may not be a familiar concept for the target audience, as it is a technology-related term that may not be widely used or understood in the local context."
+56,"מסך הבית מוכר לכל המשתמשים באפליקציה, שכן כמו היישום בסמארטפון, הוא שם דגש על תמונות האלבומים ורשימות ההשמעה.","The home screen is available to all users of the app, as like the mobile app, it emphasizes album photos and playlists.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""home screen"" may not be a familiar concept for all users, and a more culturally appropriate term could be used.
+[Minor]: [WRONG LANGUAGE VARIETY] - The phrase ""as like the mobile app"" may sound unnatural or awkward in the target language context."
+60,"באמצעותה, תוכלו להפעיל שירים, פלייליסטים, אלבומים ואפילו לחפש פודקאסטים.","You can use it to play songs, playlists, albums, and even search for podcasts.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""playlists"" may not be a familiar concept for some target audiences, and a more culturally appropriate term could be used."
+72,"השאלה הזו מתחזקת בעת התחשבות בכך שמכשירי אייפון ואנדרואיד חזקים בהרבה מזה של ספוטיפיי, וברוב הפעמים יקנו למשתמש הרבה יותר פונקציונליות.","The question is strengthened by the fact that iPhone and Android devices are much stronger than Spotify, and in most cases will provide the user with much more functionality.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The comparison of the strength of iPhone/Android devices to Spotify may not be culturally relevant or understandable for all target audiences, as the popularity and usage of these technologies can vary across different regions and demographics."
+96,זה לא סוד - שיתוף ומוכנות הארגון |,This is no secret - the organization's sharing and readiness.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the organization's sharing and readiness"" may not be a common or natural way to express the concept in the target English audience. It sounds more formal or technical than how a native English speaker would typically describe this idea.
+[Minor]: WRONG LANGUAGE VARIETY - The translation uses a more formal or academic style that may not be appropriate for a general audience. A more conversational or plain language style would be more suitable."
+105,הסקרנות מקדמת |,Curiosity promotes.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""promotes"" may not be a natural or idiomatic way to express the intended meaning in the target language and cultural context."
+114,"העלות הכלכלית בגין אי־סגירת התחנות הפחמיות במועד שנקבע ביוני 2022 מוערכת בכמיליארד שקלים עבור שנת 2022, כך חושף דו""ח של מרכז המחקר והמידע של הכנסת.","The economic cost of not closing the coal-fired power stations by the date set in June 2022 is estimated at around one billion shekels for the year 2022, as revealed in a report by the Knesset Research and Information Center.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""shekels"" may not be familiar to all English-speaking audiences and could be replaced with a more universal currency term like ""dollars"" or ""pounds""."
+126,בכמה יתייקר התשלום על המשכנתא?,The payment on the mortgage will increase by how much?,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""the payment on the mortgage"" may not be a common or familiar concept for some target audiences who are not familiar with Western financial systems."
+132,"זאת, לאחר שבמשך שנים הריבית במשק היתה קרובה לאפס.","This, after for years the interest rate in the economy was close to zero.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""close to zero"" may not be a common or intuitive expression for the target audience, as it refers to a specific economic concept that may not be widely understood."
+137,בכמה התייקרה המשכנתא הממוצעת מתחילת השנה?,The average mortgage has increased by how much since the beginning of the year?,"MQM annotations:
+Accuracy Errors
+[Minor]: [culture-specific reference] - The term ""mortgage"" may not be a common financial concept in some cultures, and the audience may be more familiar with alternative home financing arrangements."
+142,מסלול הריבית המשתנה צמודת מדד (26.7% במסלול הזה) ישלים התייקרות של כ־120 שקלים.,The variable interest rate track linked to the index (26.7% in this track) will complete an increase of approximately 120 shekels.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""shekels"" may not be familiar or relevant to the target audience, as it is a currency specific to Israel."
+150,לגבי רוכשי דירות מקבלן - צרור ממליץ להקדים תשלומים לקבלן ולקחת משכנתא כעת.,Regarding apartment buyers from a contractor - it is recommended to make advance payments to the contractor and take a mortgage now.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The recommendation to ""make advance payments to the contractor and take a mortgage now"" may not be culturally appropriate or common practice for the target audience, as the financial practices and norms around home purchases can vary significantly across different regions and cultures.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""it is recommended"" may sound overly formal or impersonal for the intended audience, and a more conversational or colloquial style may be more appropriate."
+163,"כמו כן, החל מ-10 באוגוסט, תיקבע הפחתה נוספת של עוד חצי שקל, כך שרק ממועד זה מחירו של ליטר בנזין יפחת בשקל אחד וזאת עד ל-15 בנובמבר 2022.","Also, starting from August 10, an additional reduction of half a shekel will be set, so that only from that date the price of a liter of gasoline will decrease by one shekel, and this until November 15, 2022.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The use of ""shekel"" as a currency unit may not be familiar to all English-speaking audiences."
+172,"למחיר הדלק יש השפעה דרמטית על יוקר המחיה במשק - משום שהוא משפיע גם על הוצאות משקי הבית וגם על הוצאות העסקים, על מחירי התחבורה הציבורית והטיסות, על עלויות ההובלה ועוד.","The price of fuel has a dramatic impact on the cost of living in the economy - as it affects both household expenses and business expenses, the prices of public transportation and flights, transportation costs, and more.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""public transportation"" may not be a common or familiar concept in the target culture, and a more culturally-relevant term may be more appropriate.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The reference to ""flights"" may not be as relevant or common in the target culture, and a more localized mode of transportation may be more appropriate."
+178,אשדוד היא העיר הידידותית ביותר לעסקים קטנים ובינוניים.,Ashdod is the most business-friendly city for small and medium-sized enterprises.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""small and medium-sized enterprises"" may not be a common or well-understood phrase in the target culture, and a more localized expression may be more appropriate."
+181,"אחריהן ממוקמות לפי הסדר: אשקלון, ראשון לציון, תל אביב־יפו, חיפה, רמת גן, חולון, באר שבע, ירושלים, בת ים, נתניה ובני ברק.","Ashkelon, Rishon LeZion, Tel Aviv-Jaffa, Haifa, Ramat Gan, Holon, Beersheba, Jerusalem, Bat Yam, Netanya, and Bnei Brak.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The list of cities in the target text may not be familiar or relevant to an English-speaking audience, as they are specific to the Israeli context."
+182,הסוכנות עורכת את מדד הרשויות המקומיות.,The agency conducts the index of local authorities.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""local authorities"" may not be a common or familiar concept for some target audiences, and a more culturally appropriate term could be used, such as ""municipal governments"" or ""city administrations""."
+198,"פיתוח העסקים הקטנים הוא אינטרס ציבורי של כולנו, אולם לרשות המקומית יש השפעה ישירה על העסקים שנמצאים בה.","The development of small businesses is a public interest of all of us, but the local authority has a direct influence on the businesses located within it.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""local authority"" may not be a familiar concept for some target audiences and could be better expressed using more common terminology."
+199,"הקורונה הדגישה את חשיבותו של השלטון המקומי וראינו כי רשויות שפעלו ועודדו את קידום העסקים הקטנים ומצאו פתרונות יצירתיים עבורם, הפכו לממשק השלטוני הראשון עבורם"".","The coronavirus has highlighted the importance of local government, and we have seen that authorities that have acted and encouraged the promotion of small businesses and found creative solutions for them have become the primary governmental interface for them.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""small businesses"" may not be a common or well-understood concept in the target culture, and a more culturally-appropriate term may be needed.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""the primary governmental interface for them"" may sound overly formal or bureaucratic for the intended target audience."
+200,"רן קויתי, מנהל הסוכנות לעסקים קטנים ובינוניים במשרד הכלכלה והתעשייה, מוסיף: ""לרשויות המקומיות חלק מרכזי ומהותי ביכולתם של עסקים בתחומן לשגשג ולפרוח.","Ran Kfir, the director of the Small and Medium Business Agency at the Ministry of Economy and Industry, adds: ""Local authorities have a central and essential role in the ability of businesses within their jurisdiction to thrive and flourish.""","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""thrive and flourish"" may be a more formal or literary expression that is not as common in everyday speech, which could make it less natural or accessible for some target audiences."
+201,"בשנתיים האחרונות, שבהן אנו מתמודדים עם משבר הקורונה, לרשויות משקל גדול יותר בסיוע לעסקים לשרוד בתחומן ולשרוד בכלל"".","In the last two years, during which we have been dealing with the coronavirus crisis, the authorities have had a greater weight in assisting businesses to survive within their field and to survive in general.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""to survive in general"" may not be a common expression in the target culture and could be perceived as slightly unusual."
+217,"יותר חבילות הגיעו בדצמבר מבכל חודש אחר, ככל הנראה בעקבות חגי הקניות של נובמבר, דוגמת יום הרווקים הסיני, בלאק פריידי וסייבר מאנדיי.","More packages arrived in December than in any other month, likely due to the November shopping holidays, such as Singles' Day in China, Black Friday, and Cyber Monday.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""Singles' Day in China"" may not be familiar to all target audiences and could be confusing or irrelevant.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The references to ""Black Friday"" and ""Cyber Monday"" are specific to Western shopping holidays and may not be as well-known or relevant to all target audiences."
+220,"לשכירים רבים מגיע כסף מהמדינה, שיכול להגיע לעשרות אלפי שקלים •","For many employees, money from the state is due, which can amount to tens of thousands of shekels.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""tens of thousands of shekels"" may not be immediately understandable to all target audiences, as the shekel is the currency used in Israel. This could be confusing or unfamiliar to readers outside of that cultural context."
+221,שיניתם מקום עבודה?,You changed your job?,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""changed your job"" may not be a common or natural way to express the idea of changing one's workplace in the target culture."
+223,עברתם מהעיר ליישוב?,You moved from the city to the settlement?,"MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""settlement"" may have a different connotation or political/cultural meaning in the target context compared to the source."
+249,100% מהעוברים לישוב מזכה קיבלו החזר מס על שנת המעבר היות ואישור על תושבות בישוב מזכה ניתנת רק לאחר 12 חודשים מיום הפיכת התושב לתושב מזכה ובכך למעשה השנה הראשונה משולם מס מלא.,"100% of the residents who moved to the eligible settlement received a tax refund for the year of the move, since approval for residency in the eligible settlement is only granted after 12 months from the date the resident became an eligible resident, and thus, the first year is paid in full tax.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""eligible settlement"" may not be familiar or relevant to the target audience, as the concept of certain settlements being ""eligible"" for tax benefits may be specific to the source context."
+253,שיעור ההחזר יכול להגיע לעשרות אלפי שקלים לאורך 6 שנים.,The return rate can reach tens of thousands of shekels over 6 years.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""shekels"" as a currency unit may not be familiar or appropriate for some target audiences outside of Israel."
+255,"מנכ״ל tax:on, טל כרמון: ""משבר הקורונה גרם לכך שציבור השכירים בישראל הפך להרבה יותר אקטיבי.","""The COVID-19 crisis has led to the salaried public in Israel becoming much more active.""","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""מנכ״ל"" (CEO) may not be a commonly used term in the target audience's context and could be replaced with a more general term like ""leader"" or ""director""."
+256,"הוא מתעניין, בודק ודורש את מה שמגיע לו בהחזרים ממס הכנסה.","He is interested, checking and demanding what is due to him in tax refunds.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""what is due to him in tax refunds"" may not be a common or intuitive expression for the target audience, as the concept of tax refunds can vary across different cultural and legal contexts."
+264,"לפי הדו""ח, מחפשי העבודה התעניינו בעיקר בתחומים רוויי משרות כמו אדמיניסטרציה ומכירות, שלגביהן נשלחו 1,738,485 קורות חיים.","According to the report, job seekers were primarily interested in fields with abundant job openings, such as administration and sales, for which 1,738,485 resumes were submitted.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""administration and sales"" may not be as culturally relevant or familiar to the target audience compared to more common job fields in the local context."
+268,"השכר החודשי בתחום התוכנה היה 17,915 שקלים בממוצע, ובניתוח מערכות מידע הוא עמד על 17,140 שקלים.","The average monthly salary in the software field was 17,915 shekels, and in the field of information systems analysis it stood at 17,140 shekels.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""shekels"" may not be familiar to all English-speaking audiences and could be replaced with a more universally understood currency term like ""dollars""."
+276,ההיצע הגדול ביותר היה למשרות ללא ניסיון - וכאלה היו יותר מ-58 אלף באתר.,"The largest supply was for positions without experience - and there were more than 58,000 of those on the site.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""site"" may not be a common or natural way to refer to a job board or employment platform in the target language and culture."
+286,"במילים אחרות, מדובר ב- 193 אלף לא מועסקים לעומת 180.3 אלף.","193,000 unemployed compared to 180.3 thousand.","MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The use of ""thousand"" instead of the more common ""thousand"" may be less familiar to the target audience."
+289,"מאלה שבכוח העבודה 95.5% המהווים 4,059,700 הם מועסקים והשאר בלתי מועסקים.","95.5% of the labor force, constituting 4,059,700 people, are employed, and the rest are unemployed.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""labor force"" may not be a common phrase in the target audience's cultural context and could be replaced with a more familiar term."
+295,"הסקר מאפשר מעקב אחר ההתפתחות בכוח העבודה, גודלו ותכונותיו, היקף האבטלה ועוד.","The survey allows for monitoring the development of the labor force, its size and characteristics, the extent of unemployment, and more.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""labor force"" may not be a common or easily understood concept in the target culture, and a more natural equivalent could be used.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""the extent of unemployment"" may sound more formal or technical than typical usage in the target language. A more colloquial expression could be more appropriate."
+301,הקידוש והמסורת הם שורש מאוד עמוק בנשמה שלי.,The sanctity and tradition are a very deep root in my soul.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The use of the term ""sanctity"" may not be a common or natural expression in the target English-speaking audience's cultural context."
+302,"ימי שישי אצלי מוקדשים לילדים, אור (10) ויונתן (8).","Fridays are dedicated to my children, Or (10) and Yonatan (8).","MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The names ""Or"" and ""Yonatan"" may not be familiar or common for some English-speaking audiences."
+310,"כשאנחנו מגיעים לחמותי, כבר מלובי הבניין עולים ריחות מדהימים מהדירה שלה.",The smells from her apartment are amazing even from the building lobby.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""from her apartment"" may not be a common way to refer to a relative's home in the target culture, and could be perceived as unusual or impersonal."
+316,כל פינה נידחת בארץ עשתה לו גאווה בלב.,Every remote corner of the land has made for itself a pride in the heart.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""made for itself a pride in the heart"" is an unusual and non-idiomatic expression that may not be easily understood by the target English audience. A more natural and culturally appropriate translation would be needed."
+323,שבוע־שבועיים לפני יום העצמאות כבר הייתי מטפס על עצים וקושר לבית חוטים עם דגלי ישראל.,"Two weeks before Independence Day, I was already climbing trees and tying strings with Israeli flags to the house.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""climbing trees and tying strings with Israeli flags to the house"" may be unusual or unexpected for some target audiences, as it references specific cultural practices that may not be widely understood.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""two weeks before Independence Day"" may not be the most natural way to express this concept in the target language, and a more idiomatic expression may be more appropriate."
+348,"""הייתי פותחת שולחן גדול ומזמינה את 'המתים שלי'.","""I would set a large table and invite my 'dead ones'.""","MQM annotations:
+audience appropriateness errors:
+
+Major: culture-specific reference - The phrase ""my 'dead ones'"" may be interpreted as referring to deceased family members or friends, which could be considered inappropriate or uncomfortable for some target audiences.
+
+Minor: wrong language variety - The use of the phrase ""set a large table"" may not be a common expression in the target language and culture, potentially sounding slightly unnatural or out of place."
+349,"לפעמים אני מדמיינת מה היה אילו אחי דניאל ז""ל היה בחיים, או אם אבא שלי, שניאור ז""ל, היה רואה את הילדים שלי: אוריאל (23) והתאומות תמרה ונעמה (16 וחצי).","Sometimes I imagine what it would have been like if my brother Daniel, may his memory be a blessing, were still alive, or if my father, Shneur, may his memory be a blessing, had seen my children: Uriel (23) and the twins Tamar and Naama (16 and a half).","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The use of the phrase ""may his memory be a blessing"" when referring to the deceased may not be familiar or appropriate for all target audiences."
+364,"ביבי תשחק בתפקיד נועה, שאותו גילמה דפנה ארמוני.","Bibi will play the role of Noam, which was portrayed by Dafna Armoni.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The name ""Bibi"" is a culture-specific reference to the former Prime Minister of Israel, which may not be widely recognized or understood by the target audience.
+[Major]: WRONG LANGUAGE VARIETY - The name ""Noam"" is a Hebrew name that may not be familiar or appropriate for the target English-speaking audience."
+371,את הידיעה המשמחת חלקה אתמול בערב (שישי) לופז עם מעריציה באתר הרשמי שלה onthejlo.com,The joyful news was shared yesterday evening (Friday) by Lopez with her fans on her official website onthejlo.com.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""onthejlo.com"" may not be familiar or relevant to the target audience, as it is a specific reference to Jennifer Lopez's official website."
+390,"עכשיו אנחנו יותר חשופות, פונות ישירות למצלמה באופן טבעי, לא רק ריאליטי אלא סדרה דוקומנטרית אותנטית"".","""Now we are more exposed, turning directly to the camera in a natural way, not just reality but an authentic documentary series.""","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""turning directly to the camera in a natural way"" may not be a common or natural way of expressing this concept in the target culture, as it may be more associated with reality TV or documentary filming techniques.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the plural ""we are more exposed"" may not be the most natural way to express this in the target language, as the singular form may be more common."
+402,אינדינגב בניחוח בינלאומי: אפגן וויגז מצטרפים אל אביתר בנאי ונגה ארז,In an international scent: Afghan Wigs join Avner Benayoun and Noga Erez.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Afghan Wigs"" may not be familiar or relevant to the target audience, as it refers to a specific musical group that may not be widely known outside of a certain cultural context.
+[Minor]: WRONG LANGUAGE VARIETY - The translation uses the term ""Avner Benayoun"" instead of the more common English spelling ""Avitar Benayoun"", which may be more appropriate for an international audience."
+407,"אינדינגב החל את דרכו בשנת 2007 כאירוע נישתי קטן, שאיגד את השמות החמים בסצנת האינדי הישראלית.","Indignation began its journey in 2007 as a small niche event, which brought together the hot names in the Israeli indie scene.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""indie"" may not be familiar or have the same connotations for the target audience, as the indie music scene may be a more niche concept in the target culture."
+409,אביב גפן ושרית חדד: פסטיבל חוצות היוצר בירושלים בהפתעות חדשות,Aviv Geffen and Sarit Hadad: The Creator's Corners Festival in Jerusalem with new surprises.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The use of the names ""Aviv Geffen"" and ""Sarit Hadad"" may not be familiar to all English-speaking audiences and could require additional context.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""festival"" may not be the most natural choice for an English-speaking audience, and ""event"" or ""celebration"" could be more appropriate."
+410,"הפסטיבל הבינלאומי בבירה, שהפך למסורת ויתקיים במספר מוקדים יציג מופעים מוזיקליים של אמנים מקומיים מובילים, וישלב מופעי קרקס ומיצגים אמנותיים חדשניים ומפתיעים","The international festival in the capital, which has become a tradition and will take place in several focal points, will feature musical performances by leading local artists, and will combine circus acts and innovative and surprising artistic exhibits.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""circus acts"" may not be a common cultural reference in the target audience's context and could be perceived as unusual or unfamiliar.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""artistic exhibits"" may not be a common cultural reference in the target audience's context and could be perceived as unusual or unfamiliar."
+417,"SPARKS הוא מופע קרקס, תנועה וריחוף אווירי של קרקס Y, תערוכת צילום אינסטגרמית בהשראת יצירות אמנות מפורסמות.","SPARKS is a circus performance, a circus Y aerial movement and levitation, an Instagram photo exhibition inspired by famous works of art.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""circus Y"" may not be familiar or meaningful to the target audience, as it is a culture-specific reference to a particular circus troupe or style.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""Instagram"" is an English word that may not be the most appropriate choice for the target language and culture. A more localized term or explanation may be more suitable."
+418,"The Black Box Gallery – היא גלריית ההצצה של היוצר והמבצע ליאור כלפון, שתוצב ברחבת היריד עם חורי הצצה שיחשפו את הקהל לתערוכת יצירותיו הזרחניות של ליאור כלפון, יצירות אמנות של פסלים מוארים של האמן הרב תחומי אלון בירגר (תיאטרון האור) ועוד.","The Black Box Gallery - it is the peephole gallery of the creator and performer Lior Kalfon, which will be placed in the fairground with peepholes that will expose the audience to the fluorescent works of Lior Kalfon, artworks of illuminated sculptures by the multidisciplinary artist Alon Birger (Light Theater) and more.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""peephole gallery"" may not be a familiar concept for the target audience and could be better translated using more common terminology.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The reference to ""Light Theater"" may not be widely known outside of the specific cultural context and could benefit from additional explanation or a more general description."
+444,.,"Here is the translation from Hebrew to English:
+
+The quick brown fox jumps over the lazy dog.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""the quick brown fox jumps over the lazy dog"" is a common English-language idiom that may not be familiar or meaningful to all target audiences."
+446,"היא מרוויחה על קמפיינים יותר מוונדר וומן, היא יפה מדי, היא יודעת להעמיד במקום את דנה ויס, וכשצריך - גם לסנגר על השותף העסקי שלה.","She earns more from campaigns than Wonder Woman, she is too beautiful, she knows how to put Dana Weiss in her place, and when needed - she also defends her business partner.","MQM annotations:
+audience appropriateness errors:
+
+Major: CULTURE-SPECIFIC REFERENCE - The phrase ""Wonder Woman"" may not be widely known or understood by all target audiences, as it refers to a specific American superhero character.
+
+Major: CULTURE-SPECIFIC REFERENCE - The reference to ""Dana Weiss"" is likely to be unfamiliar to many target audiences, as she is a specific Israeli media personality.
+
+Minor: CULTURE-SPECIFIC REFERENCE - The phrase ""to put in her place"" may have different cultural connotations in the target language and could be perceived as inappropriate or offensive."
+457,כאן מחפשים גיבורי־על.,Here we search for superheroes.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""superheroes"" may not be a familiar or culturally relevant concept for the intended target audience."
+465,"תגידו: ספונג'ה וניקיונות, סירים על הגז וריחות בחדר המדרגות, ירון אילן או אבי כאכון בטלוויזיה, אבל הכי מוזר יהיה אם מישהו יגיד פתאום ""גיל ססובר"".","Sponge and cleaning, pots on the stove and smells in the stairwell, Yaron Eilan or Avi Kochavi on television, but the strangest thing would be if someone suddenly said ""Gil Sossover"".","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Gil Sossover"" is a culture-specific reference that may not be understood by the target English-speaking audience."
+468,לאורך מחצית ממנה - ססובר עומד.,Along half of it - Susover stands.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The name ""Susover"" may not be familiar or appropriate for the target English-speaking audience."
+477,"רותי רוסו בתגובה: ""שמחה שיש מקומות שמשקיעים יותר בקולינריה של אוכלוסייה זו"".","""I'm glad there are places that invest more in the cuisine of this population.""","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""cuisine"" may not be a common or natural way to refer to the food of a specific population in the target language context."
+481,בישראל בשנים האחרונות יותר ויותר משפחות ואנשים מבוגרים מבינים כי בדידות זו המחלה הקשה ביותר בגיל מבוגר ורואים במקומות הקהילתיים כפתרון מוכח למחלה.,"In recent years in Israel, more and more families and older people understand that loneliness is the most severe illness in old age, and they see community places as a proven solution to this illness.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""community places"" may not be a common or well-understood concept in the target culture, and a more culturally appropriate term may be needed."
+483,מרבית בתי הדיור המוגן נעזרים בשפים מקצועיים על מנת לבנות תפריט.,Most assisted living facilities rely on professional chefs to build their menu.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""chefs"" may not be a common or familiar term in the context of assisted living facilities in the target audience's cultural context. A more appropriate term like ""food service professionals"" or ""meal preparation staff"" may be more suitable."
+487,"אני מכבדת את עבודתם הקשה של טבחים, טבחיות, שפיות ושפים בכל מקום, גם בדיור המוגן"".","""I respect the hard work of cooks, chefs, and food preparers everywhere, even in assisted living facilities.""","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""assisted living facilities"" may not be a common or well-understood concept in the target culture, and a more culturally appropriate term may be needed."
+491,"הזמר בתגובה: ""הפלישה לאוקראינה שונה מאוד מהקונפליקט הישראלי-פלשתיני","The singer in response: ""The invasion of Ukraine is very different from the Israeli-Palestinian conflict.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the term ""Israeli-Palestinian conflict"" may not be immediately clear or familiar to all target audiences, as it refers to a specific geopolitical situation that may not be widely known or understood outside of certain contexts."
+518,"לבקשת שר הבריאות ניצן הורוביץ, ימשיך במקביל בתפקידו כפרויקטור.","At the request of Health Minister Nitzan Horowitz, he will continue in parallel in his role as a project manager.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""project manager"" may not be a common or well-understood role in the target audience's cultural context."
+527,"דו""ח מבקר המדינה: התקציב בפועל ברוב שנות פעילות ועדת סל התרופות – קטן מהתקציב המומלץ",The State Comptroller's report: The actual budget in most years of the activity of the Drug Basket Committee - is smaller than the recommended budget.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Drug Basket Committee"" may not be a familiar concept for the target audience, and additional context or explanation may be needed.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""State Comptroller's report"" may not be the most common way to refer to this type of government report in the target language and culture."
+528,"על פי הדו""ח של מתניהו אנגלמן, במשך יותר מ-20 שנות פעילות הסל – משרד הבריאות לא פיקח על פעילות הוועדה •","According to the report of Matanyahu Englman, for more than 20 years of activity of the Sal - the Ministry of Health did not supervise the activity of the committee.","MQM annotations:
+audience appropriateness errors:
+[minor]: culture-specific reference - The use of ""Sal"" in the translation may not be immediately clear to the target audience, as it is a specific term referring to the Ministry of Health committee."
+532,ועדת סל התרופות היא אחת הוועדות הציבוריות המשפיעות ביותר על חיי היומיום שלנו ועל בריאותנו.,The Drugs Basket Committee is one of the most influential public committees on our daily lives and our health.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Drugs Basket Committee"" may not be a familiar concept for some English-speaking audiences, who may be more accustomed to the term ""Pharmaceutical Benefits Advisory Committee"" or similar."
+535,"על פי הדו""ח של מתניהו אנגלמן, הוא ממליץ ""לבצע בתהליך הרחבת הסל תיקונים ושיפורים, שיביאו למיצוי איכותי יותר של תקציב סל שירותי הבריאות שהציבור זכאי לו"".","According to the report by Matanyahu Engelmann, he recommends ""to carry out corrections and improvements in the process of expanding the basket, which will lead to a more qualitative realization of the budget for the health services basket to which the public is entitled.""","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""basket"" (referring to the ""health services basket"") may not be a common or intuitive concept for the target English-speaking audience, and could benefit from additional explanation or rephrasing.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""realization"" (as in ""more qualitative realization of the budget"") is not the most natural or idiomatic phrasing in English and may sound slightly formal or technical."
+539,"ברוב שנות פעולת הוועדה (90% מהזמן), גובה התוספת התקציבית היה קטן מ-1.5% של סל הבריאות, שיעור שהומלץ על ידי ועדות שונות כשיעור התוספת הרצוי.","The budgetary supplement was less than 1.5% of the health basket, a rate recommended by various committees as the desired supplement rate.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""health basket"" may not be a familiar concept for some target audiences and could benefit from further explanation or a more culturally relevant term."
+559,אנגלמן ממליץ למשרד הבריאות לעדכן את נהלי עבודת הסל וגם לקבוע האם יש צורך בתוספת כספית נפרדת עבור שירותים אלו.,Angelman recommends to the Ministry of Health to update the basket work procedures and also to determine whether there is a need for a separate financial supplement for these services.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""basket work procedures"" may not be a common or easily understandable phrase for the general target audience and could benefit from a more plain language explanation.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The reference to the ""Ministry of Health"" may not be immediately clear to all readers, and a more general term like ""health authority"" could be more appropriate."
+581,"ד""ר נעמה נוס אחראית אפדימיולוגיה לשכת הבריאות בת""א ציינה כי ""אנחנו לא יכולים לקבוע חד משמעית ממה שלושת הידיירים נפטרו.","Dr. Naama Nus, the epidemiologist at the Tel Aviv Health Office, stated that ""we cannot definitively determine what the three deceased died from.""","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""deceased"" may not be the most appropriate choice for the target audience, as it could be perceived as too formal or clinical. A more culturally suitable term like ""passed away"" or ""died"" may be more suitable."
+593,"יגאל נחתומי, מנכ""ל בית אקשטיין שמנהל את המעון ואף ניהל את המעון בעצמו אמר ""מאות ואלפי אנשים בכל המערך קמים רק במטרה אחת: לעשות טוב לאנשים.","Yigal Nachshoni, CEO of Beit Ekshtein, who manages the shelter and even managed the shelter himself, said ""Hundreds and thousands of people throughout the system are getting up for only one purpose: to do good for people.""","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""Hundreds and thousands of people throughout the system are getting up for only one purpose: to do good for people"" may sound unusual or overly formal for the target English audience, as it does not reflect a natural way of expressing this sentiment."
+595,את אחת הדיירות הרדמתי על הידיים.,I carried one of the tenants on my hands.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""on my hands"" may not be a common or natural way to express the idea of carrying someone in the target culture, and could be misinterpreted."
+604,"זהו ההליך הראשון שביצע ד""ר פראס אבו עכר כמנהל היחידה לניתוחי חזה בבית החולים •",This is the first procedure performed by Dr. Firas Abu Akr as the head of the Chest Surgery Unit at the hospital.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The use of ""Dr. Firas Abu Akr"" may not be familiar or appropriate for the target English-speaking audience, who may be more accustomed to seeing the doctor's name presented in a more Anglicized format."
+619,"לדבריו, הלב היה מרוקן מדם, לחצי הדם היו אפסיים, והגישה הניתוחית היתה שגויה.","According to his words, the heart was drained of blood, half the blood was futile, and the surgical approach was flawed.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""drained of blood"" may not be a common or appropriate way to describe the state of the heart in the target culture.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""half the blood was futile"" uses a metaphorical expression that may not be easily understood or resonate with the target audience."
+622,"עוד ציין: ""מדובר בהליך לא מסובך, שנמשך כמה דקות"", והוסיף: ""לא ניתן שלא להתייחס לתהליך הלקוי של קבלת ד""ר אבו עכר לתפקיד.","""It was also noted: 'This is a simple process that takes a few minutes,' and he added: 'One cannot ignore the flawed process of appointing Dr. Abu Akar to the position.'""","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Dr. Abu Akar"" may not be familiar or meaningful to the target audience, as it refers to a specific person in the source context.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""one cannot ignore"" may sound more formal or literary than the typical language used in the target audience's cultural context."
+647,"ד""ר שלומי קודש לא שוכח, גם ממרום תפקידו, את הדחיפה מפרופ' שאול סוקניק ז""ל •","Dr. Shlomi Kodesh does not forget, even from the height of his position, the push from the late Prof. Saul Sokonik.","MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""from the height of his position"" may not be a common expression in the target culture and could be perceived as overly formal or unfamiliar."
+674,"על פרופ' שאול סוקניק ז""ל","On Professor Shaul Sokonik, may his memory be a blessing.","MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""may his memory be a blessing"" is a culture-specific Jewish expression that may not be familiar to all target audiences."
+676,.,"Here is the translation from Hebrew to English:
+
+The quick brown fox jumps over the lazy dog.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""the quick brown fox jumps over the lazy dog"" is a common English-language idiom that may not be familiar or meaningful to all target audiences."
+684,"כאשר סיימתי את ההתמחות והתלבטתי אם לנסוע לתקופת השתלמות בחו""ל, שאול דחף וכיוון אותי, וסייע לי במכתבי המלצה ובעצות כיצד להתנהל.","When I finished my internship and was undecided whether to go abroad for a training period, Saul pushed and guided me, and helped me with letters of recommendation and advice on how to proceed.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""training period"" may not be a common or well-understood concept in the target culture, and a more culturally appropriate term may be preferable."
+692,הביא לאור: איליה יגורוב,Brought to light: Ilya Igorov,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The name ""Ilya Igorov"" may not be familiar to the target English-speaking audience."
+701,אבל למדתי ממנו דברים משמעותיים ועמוקים אף יותר.,But I learned from him more meaningful and deeper things.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""more meaningful and deeper things"" may sound unusual or overly formal for the target audience, as it does not reflect a natural way of expressing this sentiment in English."
+709,זו הסיבה שד״ר טומי שינפלד מהווה עבורי הרבה יותר מדמות מעוררת השראה.,This is why Dr. Tommy Sheinfeld is much more than an inspiring figure for me.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""Dr. Tommy Sheinfeld"" may not be familiar or appropriate for the target audience, as it refers to a specific person that the source audience is likely more familiar with."
+717,"מגפת האומיקרון משתוללת והעומס כבר מורגש בבתי החולים: 37,847 אלף נדבקים אובחנו אתמול (שני) עם קורונה.","The Omicron epidemic is raging and the burden is already felt in hospitals: 37,847 thousand infected were diagnosed yesterday (Monday) with coronavirus.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""thousand"" in the translation may not be the most appropriate way to express the large number of infected people in the target culture, as it could be perceived as overly formal or technical.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""with coronavirus"" may not be the most common or natural way to express this concept in the target language, and a more idiomatic translation may be more appropriate."
+731,"אנשי צוות רפואי מבודדים, מתוכם 542 רופאים.","Medical staff in isolation, of which 542 are doctors.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""doctors"" may not be the most appropriate term for the target audience, as it may be more common to use ""physicians"" or ""medical doctors"" in some cultural contexts."
+737,"ואולם, למרבה הצער, לעתים מסתיימות לידות בנזקים חמורים הנגרמים ליולדת או ליילוד כתוצאה מהתרשלות הצוות הרפואי.","However, unfortunately, sometimes births end in serious damage caused to the parturient or the newborn as a result of medical staff negligence.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""parturient"" may not be widely understood by the general English-speaking audience and could be replaced with a more common term like ""mother"" or ""birthing person""."
+738,"במקרים שבהם הסתיימה הלידה בפגיעה גופנית, ליילוד או לאם, יש מקום לבחון את השתלשלות האירועים אשר הובילו לפגיעה ואף לשקול פנייה לקבלת ייעוץ משפטי.","In cases where the birth ended in physical injury, to the newborn or the mother, it is appropriate to examine the sequence of events that led to the injury and even consider seeking legal advice.","MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""seeking legal advice"" may not be a common cultural practice in all contexts and could be perceived as unusual or inappropriate for some target audiences."
+745,שלב הצירים נמשך בממוצע בין 8 ל-14 שעות.,The active phase of labor lasts an average of 8 to 14 hours.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""active phase of labor"" may not be familiar or appropriate for all target audiences, as the medical terminology may not be widely understood outside of a healthcare context."
+766,"במקרים מסוימים, מתפתחת לידה דיספונקציונלית, קרי, חוסר התקדמות של תהליך הלידה האקטיבית.","In certain cases, dysfunctional labor develops, that is, lack of progress in the active labor process.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""dysfunctional labor"" may not be a common or easily understandable medical term for the general target audience. A more layman-friendly term would be more appropriate.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""active labor process"" may sound overly technical or clinical for the intended audience. A more conversational phrasing could be more suitable."
+778,שיתוק על שם ERB,Paralysis.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""ERB"" may not be familiar or understandable to the target English audience, as it is a culture-specific reference to the source language."
+781,שיתוק זה נגרם לא פעם בשל קושי בהוצאתו של היילוד בשל התרחשות 'פרע כתפיים' - מצב חירום מיילדותי המרחש כאשר כתפיו של העובר נכלאות בפנים תעלת הלידה לאחר שראשו יצא.,Paralysis is often caused by difficulty in delivering the newborn due to the occurrence of 'shoulder dystocia' - an obstetric emergency that occurs when the baby's shoulders become stuck in the birth canal after the head has been delivered.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The term ""shoulder dystocia"" may not be familiar to the target audience and could benefit from a more common or descriptive explanation."
+795,פטירת יולדת במהלך הלידה הינו אירו נדיר למדי.,The death of a woman in childbirth is a relatively rare event.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""relatively rare event"" may not be a common or natural way to express the rarity of a woman's death in childbirth in the target culture."
+797,במקרים מסוימים לא מאתר הצוות הרפואי דימום אצל היולדת במועד או מגיב באיחור לדימום כאמור.,"In certain cases, the medical team does not detect bleeding in the parturient in a timely manner or responds with a delay to such bleeding.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""parturient"" may not be commonly understood by the general target audience and could be replaced with a more widely recognized term such as ""pregnant woman"" or ""birthing person""."
+800,"באותו מקרה היולדת התלוננה על כאבים קשים וחולשה לאחר הניתוח אולם הצוות הרפואי לא התייחס כיאות לתלונותיה ומצבה הקליני, הגיב באיחור רק לאחר שמערכות גופה החלו לקרוס, דבר שהביא לפטירתה"".","In that case, the parturient complained of severe pain and weakness after the surgery, but the medical staff did not properly address her complaints and clinical condition, only reacting with delay after her body systems began to collapse, which led to her death.","MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The term ""parturient"" may not be commonly understood by the target audience and could be replaced with a more common term like ""the woman giving birth"" or ""the patient"".
+[Minor]: wrong language variety - The term ""clinical condition"" may sound overly formal or medical for the intended audience and could be rephrased in a more accessible way."
+805,"פיצוי יילוד בגין פגיעה עקב רשלנות רפואית בלידה כולל רכיבי נזק רבים, כאשר הסכומים המשמעותיים ביותר ניתנים עבור כאב וסבל, סיעוד וטיפול בשכר, הפסדי שכר ופנסיה לנפגע ואף להוריו ורכיבי נזק נוספים.","Compensation for a newborn due to injury caused by medical negligence during childbirth includes many damage components, with the most significant amounts awarded for pain and suffering, nursing and paid care, lost wages and pension for the injured party and even their parents, and additional damage components.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: culture-specific reference - The term ""pain and suffering"" may not be a common or culturally appropriate way to refer to the consequences of medical negligence in the target culture.
+[Minor]: culture-specific reference - The reference to ""nursing and paid care"" may not be a typical way to describe the required assistance for a newborn injured due to medical negligence in the target culture.
+[Minor]: culture-specific reference - The mention of ""lost wages and pension"" for the injured party and their parents may not be a standard way to convey the financial impact of such an incident in the target culture."
+813,מחקר העלה כי קיים קשר בין התפתחות המחלה לנישואי קרובים •,Research has shown that there is a connection between the development of the disease and consanguineous marriage.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""consanguineous marriage"" may not be widely understood by the target audience and could require additional explanation."
+830,"הדבר נובע בעיקר משכיחות גבוהה של נישואים בתוך המשפחה (בעיקר במגזר הבדואי) ומאלרגיות שונות, וחוסר מודעות לטיפול נכון בבעיה"".","The matter stems primarily from a high incidence of consanguineous marriages (especially in the Bedouin sector) and various allergies, and a lack of awareness of proper treatment of the problem.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Bedouin sector"" may not be widely understood by all target audiences and could benefit from additional context or explanation.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""allergies"" may not be the most appropriate term in the given context, and a more culturally relevant term could be considered."
+855,"עד כיתה ט' למד בבית הספר בכפר חורפיש, ולאחר מכן עבר לפנימייה הצבאית שבבית הספר הריאלי בחיפה.","From 9th grade, he studied at the school in the village of Kfar Kharfesh, and afterwards he transferred to the military boarding school at the Reali School in Haifa.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""military boarding school"" may not be a familiar concept for some English-speaking audiences and could benefit from additional context or explanation."
+861,"בשנת 2010 חבר לעמותת ""אחריי"" והתחיל להדריך קבוצה בכפר חורפיש, לאחר שדאג שהעמותה תחל לפעול בכפרים הדרוזיים כדי לעודד את בני הנוער להתגייס.","In 2010, he joined the ""Acharai"" organization and began to lead a group in the village of Hurfeish, after ensuring that the organization would begin operating in the Druze villages in order to encourage youth to enlist.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Acharai"" may not be familiar to the target audience and could benefit from additional context or explanation."
+869,"ראוי שהוא יקבל את המקום המתאים לו"".","""He deserves the appropriate position for him.""","MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""the appropriate position for him"" may not be a common or natural way of expressing the idea in the target English-speaking culture. A more natural phrasing could be ""the position that best suits him"" or ""the position he deserves""."
+876,אך בתקשורת הערבית הוצג בדיעבד ציוד קשר שלדברי הפלשתינים הושאר על ידי הכוחות מאחור.,"But in the Arab media, communication equipment was presented retrospectively, which according to the Palestinians was left behind by the forces.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""the forces"" may not be clear or appropriate for the target audience, as it could refer to different military or security entities depending on the cultural context.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""in the Arab media"" may not be the most natural or idiomatic way to express this concept in the target language, and could be phrased in a more culturally appropriate manner."
+877,"לטענת חמאס, המבצע נועד להטמנת מכשירי האזנה.","According to Hamas, the operation was intended to plant listening devices.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Hamas"" may not be familiar or well-understood by all target audiences, requiring additional context."
+885,"מפקד כוח הלוחמים ולוחם נוסף בצוות קיבלו אף הם צל""ש.",The commander of the combat force and an additional fighter in the team also received a citation.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""צל""ש"" (Tzalash) is a military citation that may not be widely understood by the general English-speaking audience."
+889,"ישראל צריכה לשאול את עצמה, שוב, אם לא נכון לשנות מדיניות מול גזרת ג'נין •","Israel needs to ask itself, again, whether it is not right to change its policy towards the Jenin district.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""גזרת ג'נין"" (Jenin district) may not be immediately clear to all target audiences outside of the specific regional context."
+895,"עדות לכך ניתנה במהלך מבצע המעצרים שבו נהרג שלשום לוחם הימ""מ, רס""ב נעם רז ז""ל.","The testimony to this was given during the arrest operation in which the Yamam fighter, Master Sergeant Noam Raz, of blessed memory, was killed yesterday.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the term ""Yamam fighter"" may not be familiar or understandable to the target audience.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""Master Sergeant"" is a military rank that may not be commonly used in the target language and culture."
+896,"לוחמים שהשתתפו בקרב בג'נין העידו כי הם אינם זוכרים היקף כזה של ירי ואלימות - עדות לא רק לכמות האדירה של אמל""ח שיש בשטח, אלא גם לנכונות להשתמש בו.","Fighters who participated in the battle in Jenin testified that they do not remember such a scale of fire and violence - evidence not only of the enormous amount of ammunition in the area, but also of the willingness to use it.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""fighters"" may not be the most appropriate or culturally sensitive way to refer to the participants in the battle in Jenin for the target audience."
+901,"פעילות מבצעית היא עניין מסוכן למי שמשתתף בה, ולמי שנוכח בזירה.","Operational activity is a dangerous matter for those who participate in it, and for those who are present at the scene.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""operational activity"" may not be a common or easily understandable term for the general target audience, as it could be perceived as jargon or military terminology.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""those who are present at the scene"" may sound slightly formal or legalistic, which may not align with the expected language style for the target audience."
+906,"ממילא נראה ששום דבר לא ישכנע את המשוכנעים: העולם כבר הזדרז לגנות את ישראל מבלי שטרח לאזן זאת במילת אמפתיה לקורבנות הטרור הפלשתיני - העילה המקורית שבשמה צה""ל פועל ללא הרף בג'נין.","Here is the translation from Hebrew to English:
+
+Inevitably, it seems that nothing will convince the convinced: the world has already rushed to condemn Israel without bothering to balance this with a word of empathy for the victims of Palestinian terror - the original pretext in whose name the IDF operates relentlessly in Jenin.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the victims of Palestinian terror"" may not be understood or resonate well with some target audiences who are not familiar with the Israeli-Palestinian conflict.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The reference to ""the IDF"" (Israel Defense Forces) may not be immediately clear to all target audiences."
+907,"כתמיד, טבעם של סיפורים כאלה לגווע.","As always, the nature of such stories is to fade away.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""the nature of such stories is to fade away"" may not be a common or idiomatic expression in the target English-speaking culture, potentially making it sound slightly unusual or unfamiliar."
+911,האחריות מחייבת: לפעול להרגעת המצב.,The responsibility requires: to act to calm the situation.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""to calm the situation"" may not be a common or natural way to express the idea of resolving a tense situation in the target culture."
+919,"ח""כ עופר כסיף הוא הדוגמה האחרונה לכך; אם לא יינקטו כלפיו צעדים - לרבות העמדה לדין על תקיפת שוטר - תעודד המדינה במשתמע את נבחר הציבור הבא להקצין עוד יותר את פעולותיו.",MK Ofer Cassif is the latest example of this; if steps are not taken against him - including prosecution for assaulting a police officer - the state will implicitly encourage the next elected public representative to further escalate their actions.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""MK"" (Member of Knesset) may not be familiar to the English-speaking audience and could be replaced with a more general term like ""elected official"" or ""representative"".
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""assaulting a police officer"" may have a different connotation or legal implication in the English-speaking context compared to the original Hebrew context."
+921,"מכל מי ששכל ישר בראשו מצופה להתעלות מעל לכל אלה, ולפעול להרגעת המצב; אחרת, עלולה ישראל לגלוש במהירות להסלמה מול אויבים מבחוץ, וגרוע מכך - מול יריבים מבית.","From all those who have common sense, it is expected to rise above all these, and to work to calm the situation; otherwise, Israel may quickly slide into escalation against external enemies, and worse - against internal rivals.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""rise above all these"" may not be a common expression in the target culture and could be perceived as unusual or formal.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""work to calm the situation"" could be phrased in a more natural way for the target audience."
+928,"נוסף על כך, בין 100 ל-110 אלף פלשתינים עם היתרי עבודה נכנסים מדי יום לעבודה בישראל דרך 34 מעברים מפוקחים.","In addition, between 100,000 to 110,000 Palestinians with work permits enter Israel for work through 34 supervised crossings every day.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""work permits"" may not be a familiar concept for some target audiences and could be better explained or rephrased in a more accessible way."
+940,"לעיתים הדבר חוזר על עצמו גם בפעם השנייה, אך רק בפעם השלישית הוא נעצר, נכלא ומוגש נגדו כתב אישום בגין שהייה בלתי חוקית.","Sometimes the matter repeats itself even the second time, but only the third time it is stopped, imprisoned, and an indictment is filed against him for illegal presence.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""stopped, imprisoned, and an indictment is filed against him"" may sound overly formal or legalistic for the intended audience, and could be perceived as an unusual way to describe the consequences of repeated illegal presence."
+954,הוא יכול להיות אב למשפחה שנכנס לארץ לעבוד כדי להרוויח כמה שקלים ולחזור.,He can be a father to a family that enters the country to work in order to earn a few shekels and return.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""a few shekels"" may not be culturally appropriate or understandable for some target audiences, as it refers to a specific currency used in Israel.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""enter the country"" may sound more formal or bureaucratic than the intended casual tone."
+968,"חברות רשומות לא עוסקות בזה, מכיוון שאם החברה תיתפס, דינה להיסגר"".","""Registered companies do not engage in this, because if the company is caught, its fate is to be closed.""","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""its fate is to be closed"" may not be a common or natural way to express the consequence of a company being caught in the target culture.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""registered companies do not engage in this"" may sound more formal or legalistic than typical language used to discuss this topic in the target culture."
+971,"לרוב החבר'ה האלה מסיעים עם רכב מצ'וקמק כי הם יודעים שנחרים להם את הרכב אז הם מעדיפים לנסוע ברכב ישן"".","Most of these guys travel with a crappy vehicle because they know we'll confiscate their vehicle, so they prefer to drive an old car.","MQM annotations:
+audience appropriateness errors:
+
+Major: CULTURE-SPECIFIC REFERENCE - The term ""crappy vehicle"" may not be appropriate or well-understood by the target audience. A more neutral or culturally-sensitive term would be more suitable.
+
+Minor: WRONG LANGUAGE VARIETY - The use of the colloquial term ""the guys"" may not align with the expected formality level for the target audience."
+972,תיעוד: הצתת שדות במושב ציפורי,Documentation: Arson of fields in the Tzipori moshav.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""moshav"" may not be familiar to the target English-speaking audience and could benefit from further explanation or a more common equivalent."
+979,"נציין כי במוקד זה הוקם ה""שומר החדש"" בניסיון למגר את התופעה הקשה.","This center was established as the ""New Guard"" in an attempt to eradicate the severe phenomenon.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""New Guard"" may not be a familiar or appropriate reference for the target audience, as it could have different cultural connotations."
+981,"במסגרת התרגיל המטכ""לי ""מרכבות אש"", התרעת צופרים תשמע ביום ראשון, שני ורביעי בכמה מוקדים בישראל •","In the framework of the General Staff exercise ""Chariots of Fire"", the sounding of sirens will be heard on Sunday, Monday, and Wednesday in several locations in Israel.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Chariots of Fire"" may not be a familiar cultural reference for all English-speaking audiences.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""General Staff"" may not be a common expression in all English-speaking contexts and could be perceived as overly formal or military-oriented."
+999,"בפעילות הלוחמים בעיר ג'נין שבמרחב החטיבה המרחבית מנשה, נעצרו שני מבוקשים החשודים בפעילות טרור.","In the activity of the fighters in the city of Jenin in the area of the Manasseh regional brigade, two wanted suspects suspected of terrorist activity were arrested.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""fighters"" may not be culturally appropriate or understandable for all target audiences, as it could be interpreted as having a militaristic connotation.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""brigade"" may not be the most common or natural way to refer to a regional military unit in the target language and culture."
+1029,משרד רואה חשבון יהודה ברלב לא מעוניין להגיב.,Yehuda Berlev accounting firm is not interested in responding.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the firm name ""Yehuda Berlev accounting firm"" may not be familiar or relevant to the target audience, as it is a culture-specific reference."
+1032,"גנץ התייחס בין היתר לתיעוד של אל-סייד בשבי החמאס: ""סרטון שמטרתו סחטנות – על גבה של סוגייה הומניטארית"" •","Gantz referred, among other things, to the documentation of Al-Sayyid in Hamas captivity: ""A video whose purpose is extortion - on the back of a humanitarian issue"".","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""on the back of a humanitarian issue"" may not be easily understood by the target audience, as it is a metaphorical expression that may not translate well culturally."
+1036,"חמאס מחזיק בשבי את ארבעת הבנים בניגוד לחוק הבינלאומי, בניגוד למוסר.","Hamas is holding the four sons captive in violation of international law, in violation of morality.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""sons"" may not be culturally appropriate in the target context, as it could be interpreted as a reference to male children specifically. A more neutral term like ""captives"" or ""hostages"" may be more appropriate.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""captive"" instead of a more common term like ""hostage"" may sound slightly formal or unusual in the target language context."
+1046,"""'השלוחים החדשים', הם טרוריסטים עם מקלדת שדינם כמו לוחמי ארגוני טרור אחרים.","""The new emissaries"" are keyboard terrorists whose fate is like that of other terrorist organization fighters.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""keyboard terrorists"" may not be culturally appropriate or understandable for some target audiences, as it refers to a specific type of terrorist activity that may not be widely known or recognized.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""whose fate is like that of other terrorist organization fighters"" may sound too formal or technical for some target audiences, and a more colloquial or conversational phrasing may be more appropriate."
+1047,"אנחנו יודעים מי הם, אנחנו פוגעים בהם ובשולחיהם, וגם היום הם על הכוונת שלנו – ולא רק במימד הקיברנטי.","We know who they are, we are hitting them and their senders, and even today they are in our sights - and not just in the cyber dimension.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""on our sights"" may not be culturally appropriate or easily understood by all target audiences, as it could be interpreted as a threatening or militaristic connotation.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the phrase ""and not just in the cyber dimension"" may sound overly formal or technical for some target audiences, and a more natural phrasing may be more appropriate."
+1073,"מדריך לחימה בטרור של מג""ב עוטף ירושלים: ""הפיתוח, נותן מענה רלוונטי לאיומי הייחוס ומדמה את המציאות בשטח"" •","""Border Police Counter-Terrorism Combat Guide for the Jerusalem Envelope: 'The development provides a relevant response to the reference threats and simulates the reality on the ground.'""","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Border Police"" may not be familiar or relevant to the target audience, who may not be familiar with the specific law enforcement organization mentioned in the source text.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""Counter-Terrorism Combat Guide"" uses terminology that may be more common in a military or law enforcement context, which may not be the most appropriate language for a general audience."
+1081,"במסגרת התחרות, וכמענה לצורך בתרגול לוחמי מג""ב ללחימה באימון ירי בתנועה ובמתארים מסוג זה, אסף בן דויד, מדריך לחימה בטרור של מג""ב עוטף ירושלים פיתח את ""מתקן אסף"", המורכב ממטרה דינאמית, שמחוברת למוט טלסקופי עליו מורכב מנשא שניתן לרתום למדריך.","Within the framework of the competition, and in response to the need for Border Police fighters to practice combat training in motion and in such scenarios, Assaf Ben David, a combat instructor in terrorism for the Border Police in the Jerusalem envelope, developed the ""Assaf Device"", which consists of a dynamic target connected to a telescopic pole on which a harness can be mounted that can be harnessed to the instructor.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Border Police"" may not be familiar to all target audiences and could benefit from additional context or explanation.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The reference to the ""Jerusalem envelope"" may not be clear to all readers and could use further clarification."
+1082,"משרתם המדריך את המנשא למותנו, הוא יכול לתרגל את הלוחם שעומד לפניו על ידי שליטה והזזת המטרה לצדדים וטווחים שונים.","The guide leads the bearer to our demise, he can practice the warrior standing before him by controlling and moving the target to different sides and ranges.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""the bearer"" may not be a common or appropriate way to refer to the person in the target audience's cultural context.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""our demise"" has a formal, elevated tone that may not align with the intended target audience's language register."
+1091,מתניהו אנגלמן התריע בשבוע הסייבר הבינלאומי מפני חוסר המוכנות של ישראל לתקיפות פצחנים •,Matthew Engelmann warned during the International Cyber Week of Israel's lack of preparedness for hacker attacks.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the name ""Matthew Engelmann"" instead of the more common Hebrew name ""Matanyahu Engelmann"" may not be culturally appropriate for the intended Israeli audience.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the English name ""Matthew"" instead of the Hebrew name ""Matanyahu"" may not be the preferred language variety for an Israeli audience."
+1109,"במקביל לאימונים האינטנסיביים עם הנבחרת, בלייזר עסק בשבוע האחרון גם בעתידו, עד שחתם לשנתיים בהפועל ירושלים.","In parallel to the intensive training with the national team, Blayzer also dealt with his future last week, until he signed a two-year contract with Hapoel Jerusalem.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Blayzer"" may not be familiar to the target audience, as it is a proper name that is not commonly used in English.
+[Minor]: WRONG LANGUAGE VARIETY - The use of ""Hapoel Jerusalem"" may not be the most appropriate term for the target audience, as it is a Hebrew term that may not be widely recognized in English-speaking contexts."
+1112,"לא היית בנבחרת ארבע שנים, עד כמה אתה שמח לחזור, ועד כמה אתה רוצה לשחק בשני המשחקים הקרובים?","I was not in the national team for four years, how happy are you to return, and how much do you want to play in the next two games?","MQM annotations:
+audience appropriateness errors:
+
+Major: CULTURE-SPECIFIC REFERENCE - The phrase ""how happy are you to return"" may not be a natural or common way to express this sentiment in the target culture.
+
+Minor: WRONG LANGUAGE VARIETY - The phrasing ""how much do you want to play"" may not align with the typical language used in the target culture when discussing participation in national team games."
+1113,"""קודם כל, אני רוצה ליהנות בנבחרת ואני בא בגישה של לתרום בכל מה שאני יכול, אם זה מהניסיון שלי ואם זה על המגרש.","""First of all, I want to enjoy the national team and I come with the approach of contributing in every way I can, whether it's from my experience or on the field.""","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""the national team"" may not be immediately clear to all English-speaking audiences, as the concept of a ""national team"" can vary in different cultural contexts."
+1123,ברגע שהרגשתי חיבור עם ההנהלה ועם המאמן הבנתי שזה המקום הנכון בשבילי.,"The moment I felt a connection with the management and the coach, I understood that this is the right place for me.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""the right place for me"" may not be a common or natural expression in the target culture, and could be perceived as slightly awkward or out of place."
+1128,"אני בטוח שתהיה קבוצה מחויבת ומהנה ורציתי להיות חלק מזה"".","""I'm sure it will be a committed and enjoyable group, and I wanted to be a part of it.""","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""I'm sure it will be a committed and enjoyable group"" may sound slightly unusual or formal in the target English context, as it does not reflect a typical way of expressing this sentiment."
+1160,רז אדם עשוי להיות מושאל לעירוני נס ציונה •,The secret of man may be borrowed for the urban Nes Ziona.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the secret of man"" is a culture-specific reference that may not be easily understood by the target audience in Nes Ziona.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""may be borrowed"" is a more formal expression that may not align with the typical language used in an urban context like Nes Ziona."
+1167,"במכבי ת""א הודיעו: נובאטוס מירושי נמכר לזולטה הבלגית",Maccabi Tel Aviv announced: Novakovic from Jerusalem was sold to Zulte Waregem (Belgian club).,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Zulte Waregem"" may not be familiar to the target audience, as it refers to a Belgian football club that is not well-known outside of the local context."
+1197,"הקבוצה של אריאל בית הלחמי חיברה ניצחון שלישי ברצף, הפעם מרשים במיוחד •","The group of Ariel Beit Halechemi achieved a third consecutive victory, this time particularly impressive.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Ariel Beit Halechemi"" may not be familiar or meaningful to the target audience, as it refers to a specific person or group that may not be widely known outside of the source culture.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""ברצף"" (consecutively) may sound overly formal or technical in the target language, and a more natural phrasing may be more appropriate for the intended audience."
+1221,אלה שהפכו לשואבי מים ומנופפי מגבות במשחקים באירופה.,These who became water carriers and towel wavers in games in Europe.,"MQM annotations:
+audience appropriateness errors:
+
+Major: culture-specific reference - The terms ""water carriers"" and ""towel wavers"" may not be culturally appropriate or easily understood by the target audience in Europe. These terms could be perceived as demeaning or derogatory.
+
+Minor: wrong language variety - The phrase ""in games in Europe"" may not be the most natural or idiomatic way to express this concept in English for a European audience. A more natural phrasing could be ""in European competitions"" or ""in European sporting events""."
+1276,לפני המשחק מנהל הקבוצה עמי ביטון נכנס לחדר ההלבשה ונשא דברים מרגשים בפני השחקנים.,"Before the game, team manager Ami Biton entered the locker room and delivered an emotional speech to the players.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The use of the term ""locker room"" may not be a familiar concept for some target audiences who are not familiar with American sports culture."
+1317,אין פגיעה בחשיבה הביקורתית.,There is no harm in critical thinking.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""critical thinking"" may not be a common or well-understood concept in the target culture, and could benefit from further explanation or contextualization."
+1339,"על פי שכלול נתוני המחקר, 84% מהקרקעות המיועדות לחקלאות בעולם יחוו מחסור כבד במי גשמים.","According to the aggregated research data, 84% of the land designated for agriculture worldwide will experience severe rainfall deficits.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""rainfall deficits"" may not be a common or intuitive phrase for the general target audience, and could benefit from a more plain-language expression."
+1364,עמלנו חודשים רבים להבאת בסיס להתקנת הסיבים וכעת החזון הופך למציאות.,"Our labor for many months has brought a basis for the installation of the fibers, and now the vision is becoming a reality.","MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The phrase ""the vision is becoming a reality"" may not be a common or natural expression in the target culture, and could be perceived as unusual or formal."
+1376,יש קשר בין רמות הנוגדנים שמפתחים לתופעות הלוואי?,There is a connection between the levels of antibodies developed and side effects.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""antibodies"" may not be a commonly understood concept for the general target audience, and a more layman-friendly term could be more appropriate."
+1388,יש בכלל אפשרות להעריך חוזק של מערכת חיסון?,Is it even possible to assess the strength of an immune system?,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""immune system"" may not be a commonly used or understood concept in the target culture, and a more culturally-relevant term or explanation may be more appropriate."
+1429,"ובכן, מה דעתכם לצאת לסיורים חינמיים בעקבות גיבורי הסדרות האהובות של נטפליקס?","And so, what do you think about going on free tours following the beloved heroes of Netflix series?","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Netflix series"" may not be familiar or relevant to the target audience, who may not have access to or be interested in Netflix content.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""what do you think about going on free tours"" may sound more natural in a different regional variety of the target language."
+1452,"המחירים השתנו, תנאי הכבודה כבר לא אותו הדבר וישראלים רבים מופתעים כשהם מגיעים לנמל התעופה ומגלים שהם צריכים להוסיף סכומים גבוהים עבור מזוודות שחשבו שכלולות במחיר.","The prices have changed, the conditions of hospitality are no longer the same, and many Israelis are surprised when they arrive at the airport and discover that they need to add large sums for suitcases that they thought were included in the price.","MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The term ""hospitality"" may not be the most appropriate translation for the Hebrew term ""כבודה"", which likely refers to the general conditions or amenities provided to travelers, rather than just hospitality.
+[Minor]: wrong language variety - The term ""suitcases"" may not be the most natural translation for the Hebrew term ""מזוודות"", as the preferred term in English may vary depending on the target audience (e.g., ""luggage"" may be more common in some contexts)."
+1471,בישראייר המחיר לא כולל כבודה.,The price does not include baggage.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""Israelair"" may not be familiar to the target English-speaking audience, who may be more familiar with the common English term ""Israeli airline""."
+1484,"הזמנה של מזוודה נוספת יכולה לעלות בין 90-150 דולרים לכיוון אם תעשו זאת בנמל התעופה, בהזמנה מראש המחיר מעט זול יותר.","An additional suitcase reservation can cost between $90-$150 per direction if done at the airport, with advance booking the price is slightly cheaper.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""per direction"" may not be a common expression in the target culture and could be replaced with a more natural-sounding alternative.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""suitcase"" may not be the preferred term in the target culture, and a more common term like ""luggage"" or ""bag"" may be more appropriate."

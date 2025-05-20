@@ -1,0 +1,1262 @@
+index,original,translated,locale_convention_annotation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",判明したのは、IDirect3D::CreateViewport()を呼び出すと、IDirect3DViewport3が返されると仮定していたことです。これは、IDirect3DViewportと比較して、末尾に追加のメソッドが付加されているもので、私が実装したものです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation correctly follows locale-specific conventions for the content provided."
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは普遍的に当てはまるわけではありません。その場合、問題のオブジェクトを作成するために使用しているインターフェースが重要です。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+The translation provided does not contain any locale convention errors related to address, currency, date/time, measurement, number, or telephone formats. The Japanese translation correctly adheres to the locale-specific conventions for the content provided."
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",議論のために、科学が少なくとも一部は世界についての客観的な事実のリストから成り立っており、それらが支持するかもしれない理論とは無関係に真実であると仮定しましょう。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+In this case, there are no locale convention errors in the Japanese translation provided. The translation adheres to the locale-specific content and formatting requirements, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,たとえそのような事実が科学に存在することが真実であっても、科学的事実は理論に依存していると主張することは依然として可能です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",この解釈では、実験が事実を生み出すのではなく、どの実験を行うかの選択がどの事実が発見されるかを制御します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation adheres to locale-specific conventions and accurately reflects the source text."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",いくつかの事実、例えば素粒子については、資本主義においてのみ可能な実験の結果としてしか得られません。なぜなら、それらの実験は、他の方法では成し遂げることができないほど多くの資源、多くの組織、多くの強制を必要とするからです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the Japanese translation provided. The translation adheres to Japanese locale-specific content and formatting requirements."
+14,Picking this up this weekend.,今週末にこれを受け取ります。,"```
+locale conventions:
+
+MQM annotations:
+Minor: DATE/TIME FORMAT - The translation ""今週末"" (this weekend) does not specify a date format error, but if the source text had a specific date format, it would need to be checked for locale-specific conventions.
+```"
+16,Already on coil overs and lowered ride height.,すでに車高調を装着し、車高を下げています。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べましたが、この車について何か情報があれば教えてください。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+18,Personal experiences?,個人的な経験？,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+19,I know they're not fast compared,比べると速くないことは知っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation does not involve any address, currency, date/time, measurement, number, or telephone formatting issues that would violate Japanese locale-specific conventions."
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",私、ボードショーツとタンクトップを着て、そしてドメスティックパートナーはタトゥーだらけで、自分で「ネオナチみたいに見える」と言った新しい髪型をしている。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/NUMBER FORMAT] - The translation uses ""ネオナチ"" (neo-nazi) without any quotation marks, which can be considered a minor locale convention error as Japanese typically uses quotation marks for direct quotes or specific terms borrowed from other languages.
+```"
+36,NY is the best hope for accountability,NYは説明責任を果たすための最良の希望です。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The translation correctly adheres to Japanese locale conventions."
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つ信号を送ることに還元できないという重要な証拠があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",文脈依存のコミュニケーションは、状況に応じた多層的な現象であり、文脈の分布などの環境特性に大きく影響されると提案します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The Japanese translation adheres to the locale-specific conventions for the given content."
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒にさまざまなプロジェクトを支援しながら、思い出に残る6か月を過ごすことができて幸運でした。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/date/time format] - None
+[Major]: [locale_conventions/date/time format] - The date format ""2011年"" should be ""2011 年"" with a space between the year and the character ""年"" according to Japanese locale conventions.
+[Minor]: [locale_conventions/date/time format] - None
+```"
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会ったとき、特に植樹と農場支援の進展について聞いて嬉しかったです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation correctly adheres to locale-specific conventions for the given content."
+61,Licht AGREED to an all Republican audience!,リヒトは全員が共和党員の観客に同意しました！,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+There are no locale convention errors in the translation provided. The translation adheres to the locale-specific content and formatting requirements for Japanese."
+65,It can't be repeated.,繰り返すことはできません。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨晩ついにこのルーティンにうんざりして、すべての罠からピーナッツバターを取り除き、ピスタチオをスーパーボンドで貼り付けました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation adheres to the locale-specific conventions for the content provided."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",参考までに、市場に出回っているほとんどすべての「人道的」な罠を試しましたが、ほとんど成功しませんでした。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+74,"They aren't, at least not in Alberta.",彼らはそうではありません、少なくともアルバータでは。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+75,Sure they cut business taxes.,もちろん、彼らは事業税を削減しました。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions - None
+Major: locale_conventions - None
+Minor: locale_conventions - None
+```"
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",「彼をグラスゴーに降ろすだけです」と、私は旅の仲間を指し示しながら説明しようとしました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The translation adheres to Japanese locale conventions, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.",「『彼をグラスゴーに降ろすだけです』なんてあまり聞かないですね」とチケット係が言った。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to Japanese locale conventions appropriately."
+90,And they are truly nuts.,そして彼らは本当に狂っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+95,Yell back at those who would try to talk over us.,私たちの声をかき消そうとする者たちに向かって叫び返せ。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions - None
+Major: locale_conventions - None
+Minor: locale_conventions - None
+```"
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,隣人と私は同時に帰宅しましたが、通りの向こうから彼がコロナの痰を激しく咳き込んでいるのが聞こえました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+In this case, there are no locale convention errors in the translation provided. The Japanese translation adheres to locale-specific conventions and accurately reflects the source text's meaning."
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,彼を避けるために急いでアパートに入ったが、それでも彼は追いついてきて話しかけてきた。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","4,000年の苦悩の後、Ylは愛の場所に自分を見つけ、どうしていいかわからないほどの大きな感情を抱えているので、両方がたくさんあります。","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/number_format] - The number ""4,000"" should be formatted as ""4000"" in Japanese to adhere to locale-specific conventions.
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#マンゴーモロンの大失敗は、非常にひどい失敗でした。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```"
+113,A cold front should arrive by the middle of next week.,来週の半ばまでに寒冷前線が到達するでしょう。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/DATE/TIME FORMAT] - The phrase ""by the middle of next week"" should be translated to reflect a specific date range or format that aligns with Japanese conventions, such as using specific dates or a more precise expression of time.
+```"
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",今朝早く、IR衛星と地上観測により、低層の層雲とまだらな<URL>が拡大していることが示されました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/DATE/TIME FORMAT] - The phrase ""今朝早く"" (this morning) does not specify a time format, but in Japanese, it is common to use a more specific time format, such as including the hour if relevant.
+```"
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけて、その専門知識を活用し、CRM投資の価値を最大化しましょう。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Japanese. The translation adheres to Japanese locale-specific content and formatting requirements."
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーが導入、カスタマイズ、統合、継続的なサポートでどのように役立ち、Salesforceエコシステムでビジネスが繁栄できるかを発見してください。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation adheres to the locale-specific conventions and correctly conveys the meaning of the source text."
+137,But another individual often flies aboard that ship.,しかし、別の人物がしばしばその船に乗って飛ぶ。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation correctly adheres to locale-specific conventions, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+142,The Last of Us is an easy and canonical example of dad-ification.,『The Last of Us』は、父親化の簡単で典型的な例です。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Japanese. The translation correctly adheres to Japanese locale-specific content and formatting requirements."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",ダッドフィケーションは通常、親の立場にある人物が子供やその代わりとなる存在を世話したり守ったりしなければならない状況において、圧倒的な強さが解決策であり、その強さを使って非常に特定の形をした力のダイナミクスを強制することを示唆します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the Japanese translation provided. The translation adheres to the locale-specific content and formatting requirements."
+147,Here's a quick overview of how to make use of our website.,こちらは、当ウェブサイトの利用方法についての簡単な概要です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The translation correctly adheres to Japanese locale conventions, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+148,- We send out notifications when airfare goes on sale.,航空運賃がセールになると通知を送信します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address, currency, date/time, measurement, number, or telephone formats. The Japanese translation correctly follows locale-specific conventions."
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは平和で安全な環境で育つ権利があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+The translation provided does not contain any locale convention errors. The sentence is correctly translated into Japanese, adhering to the locale-specific content and formatting requirements."
+159,Over time dart became my go-to for quick UI.,時間が経つにつれて、ダートは私の迅速なUIの頼りになるものになりました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation adheres to Japanese locale conventions, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+164,Echidna with amethyst and magenta spikes.,アメジストとマゼンタのトゲを持つハリモグラ。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+Explanation: The translation ""アメジストとマゼンタのトゲを持つハリモグラ。"" does not contain any locale convention errors. The formatting and presentation adhere to Japanese language conventions, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+166,Their tail is extremely thick.,彼らの尻尾は非常に太いです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation correctly adheres to Japanese locale conventions."
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目は洋ナシの形をしていて、スカーレットのキャットアイメガネをかけています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The Japanese translation correctly follows locale-specific conventions for describing physical features and accessories, such as the shape of eyes and the type of glasses."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",ブラム・ストーカー、マックス・シュレック、ステファニー・メイヤーの最善の努力にもかかわらず、誰もが...,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```"
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",実生活では、私の母は数年前に私が作ったパズルゲームを気に入ってくれて、ほとんどの秘密を自力で見つけたので、彼女がそれを気に入ったと言ったとき、ただの母親としての言葉ではありませんでした。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: locale_conventions/none - None
+[Major]: locale_conventions/none - None
+[Minor]: locale_conventions/none - None
+```"
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.",それを中国語（標準語）および/または福建語に翻訳する必要がありますが、どちらも全く知りません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```
+
+Explanation: The provided Japanese translation does not contain any locale convention errors related to address, currency, date/time, measurement, number, or telephone formats. The translation accurately reflects the source content without violating any locale-specific formatting rules."
+179,Been toying with this thought for a little while:,しばらくこの考えをいじっていました。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation correctly conveys the meaning of the English source text without violating any locale-specific content or formatting requirements."
+180,"Mental health is often seen as something separate from ""regular"" health.",メンタルヘルスはしばしば「通常の」健康とは別物と見なされます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+The provided translation does not contain any locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to Japanese locale conventions correctly."
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こり、身体の健康よりも目に見えにくいように思えるからです。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+194,Very much worth having a go at.,ぜひ挑戦する価値があります。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions - None
+Major: locale_conventions - None
+Minor: locale_conventions - None
+```
+
+Explanation: The Japanese translation ""ぜひ挑戦する価値があります。"" correctly adheres to locale-specific conventions and does not contain any errors related to address, currency, date/time, measurement, number, or telephone formats. Therefore, there are no locale convention errors to annotate."
+196,Playing around a bit with Flutter.,Flutterで少し遊んでいます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",正直に言うと、自分のビジネスをGoogleの技術に基づかせるのは嫌です。一方で、Googleは説得力のあるクロスプラットフォーム体験を作り出すための本当のインセンティブを持つ数少ない大手企業の一つであり、それが表れています。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```"
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,また、Google/FlutterアプリがiOSやmacOSで使いにくいということは言わないでください。,"```
+locale conventions:
+
+MQM annotations:
+Minor: locale_conventions/none - None
+```"
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームは、うまくやりたいなら難しいです。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions - None
+Major: locale_conventions - None
+Minor: locale_conventions - None
+```"
+201,I know that.,知っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+202,Thank you to those people who have downloaded the latest update to Leasey.,最新のLeaseyアップデートをダウンロードしてくださった皆様、ありがとうございます。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,なぜ私の脳がそれを理解できないのか正確にはわからないのですが、ツールがあまりにも広範で曖昧なために、選択肢が多すぎて脳が固まってしまうのかもしれません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The Japanese translation adheres to locale-specific conventions and accurately reflects the source text."
+211,Grafana looks pretty.,グラファナはきれいに見えます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Japanese. The translation ""グラファナはきれいに見えます。"" correctly adheres to Japanese locale conventions."
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",新しい#FFXIVレイド層が近づいているので、「ちゃんとしたレイドをやってみたいけど、パーティーファインダーは混乱しそうだし、自分を受け入れてくれる固定メンバーは見つからないだろうな」とずっと考えていました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/NUMBER FORMAT] - In Japanese, numbers should be written in full-width characters when used in a context like this, but the hashtag ""#FFXIV"" is correctly left in half-width as it is a common convention for hashtags.
+```"
+214,"So I thought, screw it!",だから、もういいや！,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The expression ""だから、もういいや！"" is an appropriate and natural translation of ""So I thought, screw it!"" in Japanese, and there are no issues related to locale-specific formatting or content."
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",レイドの固定に参加するのを試すのが不安な人々でいっぱいで、全く上手くなる期待はありません！,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+219,I was a voracious reader in my youth.,若い頃、私は貪欲な読書家でした。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```
+
+The translation ""若い頃、私は貪欲な読書家でした。"" does not contain any locale convention errors related to address, currency, date/time, measurement, number, or telephone formats. The translation appropriately conveys the meaning of the source text without violating any Japanese locale-specific conventions."
+227,They're not gonna talk about this on Bloomberg!,彼らはこれについてブルームバーグで話さないだろう！,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```"
+228,"But if Spotify has a good quarter, they will.",しかし、もしSpotifyが良い四半期を迎えれば、彼らはそうするでしょう。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to the locale-specific conventions for Japanese."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,彼らに全国の空洞化し腐敗した都市を再生させましょう。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Japanese. The translation adheres to the appropriate locale-specific content and formatting requirements."
+231,These people want to improve their lives.,これらの人々は自分たちの生活を改善したいと思っています。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to the locale-specific conventions for Japanese."
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは終わった」や「リモートワークは失敗した実験だった」と主張する見出しには本当にうんざりしています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+In this case, there are no locale convention errors in the translation. The Japanese translation correctly adheres to locale-specific conventions for punctuation and formatting, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.",それにより、人々は窮屈で騒がしいオフィスではなく、快適な空間で働くことができます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation adheres to Japanese locale conventions, and there are no issues with address format, currency format, date/time format, measurement format, number format, or telephone format."
+243,To just ignore these facts is wrong.,これらの事実を無視することは間違っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、現代の都市部の女性がキャリアのために子供を持つことを遅らせる衝動について言及した。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, the translation does not contain any locale convention errors related to address, currency, date/time, measurement, number, or telephone format. The translation adheres to Japanese locale conventions."
+255,It took years of changing my life and working hard but finally...,人生を変え、一生懸命働くのに何年もかかりましたが、ついに...,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,サイクルジャケットの裏地をジップで取り付けます。念のために。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/measurement_format] - The translation uses ""ジップで取り付けます"" which is a correct localization for ""zip"" in Japanese, but there is no specific measurement or unit involved in this context. Therefore, there are no measurement format errors.
+```"
+266,This is for Wikipedia's component library (OOUI).,これはWikipediaのコンポーネントライブラリ（OOUI）のためのものです。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親を作成し、そこにMOをインストールし、それが切り離される（つまり、他の場所に接続される）様子を観察します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Japanese. The translation adheres to Japanese locale-specific content and formatting requirements."
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は1日に2回私のオフィスを駆け回っているので、完全に引き締まっています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/NUMBER FORMAT] - The phrase ""1日に2回"" should be written as ""1 日に 2 回"" with spaces around the numbers to adhere to Japanese locale conventions.
+```"
+278,It makes me so happy to see him thriving.,彼が成功しているのを見るととても嬉しいです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+The translation provided does not contain any locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The sentence is correctly translated in terms of locale-specific content and formatting requirements."
+285,Last week got a ton done and feeling much better about field items.,先週はたくさんのことを終えて、フィールドアイテムについてずっと良い気分です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/NUMBER FORMAT] - In Japanese, numbers are often written in full-width characters or with commas for thousands, which is not applied here. However, this is a minor issue as it does not significantly hinder understanding.
+```"
+286,"All collards, kale, chard is transplanted.",すべてのコラード、ケール、チャードは移植されました。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",また、サラダ用の列をそこに植えて、カットグリーンを統合する必要があります。灌漑、ベッドの準備、移植について訓練を受けたクルーがいるので、非収穫スキル項目の90%をカバーしています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/number_format] - The percentage ""90%"" should be written in full-width characters as ""９０％"" in Japanese to adhere to locale conventions.
+[Major]: [locale_conventions/measurement_format] - None
+[Minor]: [locale_conventions/address_format] - None
+```"
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,Apple Mapsと比較してGoogle Mapsでの道順をたどる経験ははるかに優れていました。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+295,Apple Maps wins.,アップルマップが勝利。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+There are no locale convention errors in the translation ""アップルマップが勝利。"" The translation adheres to Japanese locale conventions."
+302,"That said, I'm biased.",とはいえ、私は偏っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+There are no locale convention errors in the translation provided. The translation accurately reflects the source text without violating any locale-specific content or formatting requirements."
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,しかし、政府が私たちの生活するシステムを変えないと考える限り、それが富の良い蓄えとなるのは土地です。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+309,In China you can only lease land.,中国では土地を借りることしかできません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Japanese. The translation correctly conveys the meaning without violating any locale-specific content or formatting requirements."
+311,The government can change these policies whenever it wants.,政府はこれらの政策をいつでも変更することができます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+The translation from English to Japanese does not contain any locale convention errors. The sentence structure and format adhere to Japanese locale-specific conventions."
+312,The land is temporary.,土地は一時的です。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions - None
+Major: locale_conventions - None
+Minor: locale_conventions - None
+```
+
+In this case, there are no locale convention errors in the translation of ""The land is temporary"" to ""土地は一時的です。"" The translation adheres to Japanese locale conventions."
+318,That's why the Chinese only allow leases.,それが中国人が賃貸契約のみを許可する理由です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+Explanation: The translation provided does not contain any locale convention errors. The sentence structure and content are appropriate for Japanese locale conventions, and there are no issues related to address, currency, date/time, measurement, number, or telephone format."
+322,Let us continue to work together towards creating a brighter future for all.,私たち皆のために、より明るい未来を創造するために共に働き続けましょう。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions - None
+Major: locale_conventions - None
+Minor: locale_conventions - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Japanese. The translation adheres to the locale-specific content and formatting requirements."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分に対してこれほどまでに厳しくなれる人間の能力に驚くことがよくありますが、実際の残酷さがどのようなものかを示す証拠がこれほど多くある中で。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The Japanese translation adheres to the locale-specific content and formatting requirements."
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",個人的な失敗や罪悪感に苦しむことは、「成功」が最も非道な行為を行った人々に与えられることが多い世界において…。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation accurately reflects the source text without violating any locale-specific formatting or content requirements."
+332,"or ""Modal editors are useless today"" :morty:",または「モーダルエディターは今日役に立たない」,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Japanese. The translation adheres to the locale-specific content and formatting requirements."
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:",私が#Axumプロジェクトの機能を共有ライブラリに抽出しているとき: 「キーボードを持ってて」 :partyparrot: :helix: :ferrisdance:,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation maintains the intended meaning and adheres to Japanese locale conventions."
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのテーマは「一晩中起きていること」です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+In this case, there are no locale convention errors in the translation. The translation correctly follows Japanese locale conventions for the expression of themes or prompts, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+339,It is definitely more romance than filth.,それは間違いなく汚れよりもロマンスです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+In this case, there are no locale convention errors in the translation. The sentence ""それは間違いなく汚れよりもロマンスです。"" correctly follows Japanese locale conventions and accurately conveys the meaning of the source text."
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",またいつか、マイルハイオーガズムを絶対にやってみるつもりです。ストレートの人とは限りませんが。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: locale_conventions/none - None
+[Major]: locale_conventions/none - None
+[Minor]: locale_conventions/none - None
+```"
+345,"I wish there was a ""who to follow"" recommendation somehow.",「フォローする人」のおすすめがあればいいのに。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",それに取り組むにはもう少し努力が必要で、おそらく#UXを改善するための良いアプリが必要です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/NUMBER FORMAT] - The hashtag ""#UX"" should be formatted as ""＃UX"" in Japanese to adhere to locale-specific conventions for hashtags.
+```"
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",介入：ある程度の信頼範囲内で変化を生み出すためにできることについての知識。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address, currency, date/time, measurement, number, or telephone formats. The translation maintains the appropriate conventions for the Japanese locale."
+360,He's here and he's going to say this stuff no matter what.,彼はここにいて、何があってもこのことを言うつもりです。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+362,It's very underwhelming at the moment.,現時点では非常に期待外れです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+363,"The ""MusicLM Demo"" is mildly interesting.",「MusicLMデモ」はやや興味深いです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+There are no locale convention errors in the translation provided. The translation adheres to Japanese locale conventions appropriately."
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",ウェイトリフティングをしているのに、自分のワンレップマックスが何なのか本当に分からないのは変な感じです。これは進捗を追跡する主要な方法の一つだからです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/MEASUREMENT FORMAT] - The term ""ワンレップマックス"" (one-rep-max) is a measurement in weightlifting and should be formatted according to Japanese conventions, potentially using katakana or providing an explanation for clarity.
+```"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,私は自分の寝室で一人でトレーニングをしており、スポッターやウェイトラックもありません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+370,Just me and a barbell with a bunch of weights.,私とバーベルとたくさんの重りだけ。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/measurement_format] - The translation uses ""重り"" which is a general term for weights, but it does not specify the measurement format (e.g., kilograms or pounds) which might be expected in a locale-specific context.
+```"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",自分のワンレップマックスを計算しようとすると、最大限の重さを持っていないかもしれないし、逆にそれが原因で重傷を負ったり命を落としたりする可能性があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/measurement_format] - The translation uses the term ""ワンレップマックス"" (one rep max) without converting it to a more standard Japanese measurement term or format, which may not be familiar to all Japanese readers.
+```"
+375,I swear burrata didn't exist five years ago,5年前にはブラータなんて存在しなかったと誓います。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/NUMBER FORMAT] - In Japanese, numbers like ""5"" should be written using the full-width character ""５"" to adhere to locale-specific conventions.
+```"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,誰かのお母さんがそれを作るのを見たことも、パーティーで押し付けられたことも、誰かのソース作りや焼き菓子の日にそれが登場するのを見たこともありませんでした。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```
+
+In this case, there are no locale convention errors in the Japanese translation. The translation adheres to the locale-specific conventions for Japanese, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+384,Does anyone have a Linux tablet they love?,誰かお気に入りのLinuxタブレットを持っていますか？,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+There are no locale convention errors in the translation provided. The translation adheres to Japanese locale conventions appropriately."
+385,"This would be mainly for web browsing, occasional email, and some games.",これは主にウェブ閲覧、時々のメール、およびいくつかのゲームのためです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The Japanese translation adheres to the locale-specific conventions for the intended use of the text."
+388,"A bad game is bad forever.""",悪いゲームは永遠に悪い。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```
+
+The translation ""悪いゲームは永遠に悪い。"" does not contain any locale convention errors. The formatting and content adhere to Japanese language conventions, and there are no issues related to address, currency, date/time, measurement, number, or telephone formats."
+389,So was it Epic that originated this?,それを始めたのはエピックですか？,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The translation ""それを始めたのはエピックですか？"" correctly follows Japanese locale conventions for formatting and content."
+390,We can keep going.,続けることができます。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",GamePro 1997年11月号の以前の問題には、はるかに曖昧な引用があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/DATE/TIME FORMAT] - The date format ""1997年11月号"" should be adjusted to match the English source format ""1997-11"" to maintain consistency.
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+401,Esp the carriages with the bigger windows.,特に大きな窓のある車両。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors. The translation correctly adheres to Japanese locale conventions, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+402,There's areas that could use some polish.,磨きをかけるべき部分があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation ""磨きをかけるべき部分があります。"" appropriately conveys the meaning of the English source text ""There's areas that could use some polish,"" and there are no violations of locale-specific content or formatting requirements."
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",すなわち、十分なゴミ箱の不足と、照明の色の意味を説明する標識の不足です。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation adheres to Japanese locale-specific content and formatting requirements."
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMやDDZ株の終わりを見ても悲しくはありません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/NUMBER FORMAT] - In Japanese, stock symbols like ""ICM"" and ""DDZ"" should be presented in full-width characters to adhere to locale-specific conventions.
+```"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,お客様お一人様につき一つまでのルールは、並んでいる全ての方がボードを手に入れられるようにするために維持されています。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: locale_conventions/none - None
+[Major]: locale_conventions/none - None
+[Minor]: locale_conventions/none - None
+```"
+411,Such friendships transcend differences.,そのような友情は違いを超越します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+There are no locale convention errors in the translation provided. The translation accurately reflects the source text without violating any locale-specific content or formatting requirements."
+412,We all have stories to tell.,私たちは皆、語るべき物語を持っています。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+The translation provided does not contain any locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation is appropriate for the Japanese locale."
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",ただ、どういうわけか、この場面をいわば悪いスタートで始めてしまったように感じます。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,ここにもう少し長く留まって、移行すべきかどうか考えます。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+There are no locale convention errors in the translation provided. The Japanese translation correctly adheres to locale-specific conventions."
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,レプニッドが地表の下にトンネルを掘り、あなたはその下の洞窟で数百のレプニッドの体が沸騰する塊に落ち込む。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+In this case, there are no locale convention errors in the translation provided. The translation adheres to Japanese locale conventions, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは迅速であり、いくつもの牙が致命的な毒を注入し、ディスクラの空気があなたの肺を汚染します。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation adheres to the locale-specific content and formatting requirements for Japanese."
+425,Nobody will ever know that you were the first human future traveller.,誰もあなたが最初の人間の未来旅行者であったことを知ることはありません。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+The translation provided does not contain any locale convention errors. The sentence is correctly translated according to Japanese locale conventions, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+426,You land the flyer nose upward on the side of the slag heap and climb out.,あなたはフライヤーを鼻先を上に向けてスラグの山の側面に着陸させ、降りる。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/measurement_format] - The phrase ""鼻先を上に向けて"" (nose upward) is not a measurement format issue, but it could be considered awkward in Japanese. However, there are no specific locale convention errors in terms of measurement format.
+```"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つ目のレプニッドは見ているようですが、あなたに向かって動くことはなく、実際にはあなたがゆっくりと彼らに向かって歩いても動かずにいます。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```"
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",彼らはあなたの声を聞くことができないようです、ましてや理解することもできません。あなたのユニバーサルトランスレーターは何の応答も拾いません。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+In this case, there are no locale convention errors in the Japanese translation provided. The translation adheres to the locale-specific content and formatting requirements."
+430,You decide to use your Psychic Awareness to contact them mentally.,あなたは精神的な意識を使って彼らと心で連絡を取ることに決める。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors present in the translation from English to Japanese. The translation accurately reflects the source text without violating any locale-specific formatting or content requirements."
+436,"#today I have coffee, sunshine and quiet time!",今日はコーヒーと日差しと静かな時間があります！,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/DATE/TIME FORMAT] - The translation uses ""今日は"" which implies ""today"" in a date-specific context. However, the source text ""today"" is more casual and does not require a specific date format. In Japanese, ""今日は"" can imply a more formal or specific date context, which may not align with the casual tone of the source.
+```"
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,私は、主に細かく紡がれているが、所々に塊がある不均一に紡がれた銀灰色の糸を見つけました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation adheres to locale-specific content and formatting requirements."
+441,But am not sure I have enough of the purple.,しかし、紫色が十分あるかどうかはわからない。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+446,I have literally tried and dropped EVERY SINGLE ONE.,私は文字通りすべて試してみて、すべてやめました。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation correctly follows locale-specific conventions and formatting."
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして約2年前まで、自分の成績証明書を確認するまで全く知りませんでした。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/NUMBER FORMAT] - The use of ""2"" in ""約2年前"" should ideally be in kanji as ""二"" to match Japanese locale conventions for numbers in formal writing.
+```"
+448,The literature class hatred is even worse: I love to read.,文学の授業の嫌悪感はさらにひどい：私は読書が大好きです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+Explanation: The translation provided does not contain any locale convention errors. The sentence structure, punctuation, and formatting are appropriate for the Japanese language, and there are no issues related to address, currency, date/time, measurement, number, or telephone formats."
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしく、そこで幸せですが、日中に罪悪感なく小説を読むためには、他の場所にいる必要があります。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The Japanese translation adheres to locale-specific content and formatting requirements."
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,まるで休暇中のようで、だから休暇中にすることをしている。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+There are no locale convention errors in the translation provided. The translation adheres to locale-specific content and formatting requirements."
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",それに加えて、ここではこの2晩、家で寝るほどよく眠れていないし、見知らぬ環境にいるだけでペースを保つのが難しく、物の場所を覚えておかなければならないので、少し#MECFSの症状が出てしまう。,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/NUMBER FORMAT] - The hashtag ""#MECFS"" should be retained in its original format without any changes for consistency with the source text.
+```"
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",ゲーム業界で働くことの興奮や緊張、ストレス、そして私が大好きなすべての良いことです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation correctly conveys the excitement, nervousness, stress, and positive aspects of working in the game industry without any locale-specific formatting issues."
+458,Will a community blossom around the user-generated content piece of the game?,ユーザー生成コンテンツの部分を中心にコミュニティが発展するでしょうか？,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+466,So I finally watched #Heartstopper,ついに「#Heartstopper」を見ました。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```
+
+Explanation: The translation ""ついに「#Heartstopper」を見ました。"" correctly follows Japanese locale conventions for expressing the action of watching a show and using hashtags. There are no locale-specific content or formatting errors in this translation."
+467,Was it overly cute to the point of being twee?,それは甘すぎて、気取りすぎていましたか？,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Japanese. The translation does not involve any locale-specific formatting or content that violates Japanese conventions."
+471,But did I love it?,でも、それを愛していたのか？,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+The translation ""でも、それを愛していたのか？"" does not contain any locale convention errors. The sentence structure and punctuation are appropriate for Japanese, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+476,"In part, because they'd be taught badly.",一部には、彼らが下手に教えられるからです。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題に対して言い訳をせず、ただ修正することが重要です。特に、リードが変更を必要としているときのプロダクションでは。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+479,"Every artist has been there, made the same mistakes.",すべてのアーティストがそこにいて、同じ間違いを犯してきました。,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions - None
+Major: locale_conventions - None
+Minor: locale_conventions - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Japanese. The sentence does not contain any elements like addresses, currency, dates, measurements, numbers, or telephone formats that would require specific locale considerations."
+484,Watch seeds being sown & cultivated (and not randomly scattered) by good peeps.,良い人々によって種が蒔かれ、耕されるのを見守る（無作為にばら撒かれるのではなく）。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Japanese translation correctly adheres to locale-specific content and formatting requirements."
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",ジャミは犬番の直前に道ですれ違ったときに彼にメモを渡した。,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/DATE/TIME FORMAT] - The term ""dog watch"" refers to a specific time period, typically in a maritime context, and should be translated to reflect the appropriate time format or cultural equivalent in Japanese.
+```"

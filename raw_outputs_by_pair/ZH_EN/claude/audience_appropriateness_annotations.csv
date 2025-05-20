@@ -1,0 +1,510 @@
+index,original,translated,locale_convention_annotation
+0,本文件按照 GB/T 1.1 一 202 久标准化工作导则第工部分:标准化文件的结构和起草规则的规定起惠。,This document is prepared in accordance with the provisions of Part 1: Structure and drafting rules of standardization documents in the Standardization Guide GB/T 1.1-2020.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""GB/T 1.1-2020"" may not be familiar to the target audience, as it refers to a specific Chinese standard that may not be widely known outside of China."
+4,"在四字节编码区更改了18 个 GB/T 13000 代码位置(见附录 D,2005 年版的附录D);","Changed 18 GB/T 13000 code positions in the four-byte encoding area (see Appendix D, 2005 edition of Appendix D).","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""GB/T 13000"" may not be familiar to the target audience, as it is a Chinese national standard that may not be widely known outside of China.
+[Minor]: [WRONG LANGUAGE VARIETY] - The use of ""Appendix D"" may not be the most appropriate term for the target audience, as the terminology may differ in the target language and cultural context."
+8,请注意本文件的某些内容可能涉及专利。 本文件的发布机构不承担识别专利的责任。,Please note that some content of this document may involve patents. The issuing organization does not assume responsibility for identifying patents.,"MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The phrase ""本文件的发布机构不承担识别专利的责任"" may not be easily understood by some target audiences, as it refers to a specific legal and organizational context that may not be familiar to them."
+10,本文件及其所代替文件的历次版本发布情况为 :,The release history of this document and its previous versions is:,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""本文件及其所代替文件的历次版本发布情况"" may not be familiar to all English-speaking audiences and could be rephrased in a more accessible way."
+13,信息扩术 ”中文编码字符集,Character encoding.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""character encoding"" may not be immediately clear to the general English-speaking audience, as it is a technical term more commonly used in the context of computer science and programming."
+16,"本文件适用于为具备中文和其他文字图形字符信息化处理及交换功能的技术类产品,包括但不限于以输入法、光学字符识别 (OCR)、编辑 校对、机融翻诺、语音合成、文字转写、乔能写作等为代表的软件产品 , 以及以计算机、通信终端设备、电子书阅读毅、学习机等为代表的便件产品 。","This document applies to technical products with the function of information processing and exchange of Chinese and other language graphic characters, including but not limited to software products represented by input methods, optical character recognition (OCR), editing and proofreading, machine translation, text-to-speech, text transcription, and intelligent writing, as well as hardware products represented by computers, communication terminal devices, e-book readers, and learning machines.","MQM annotations:
+audience appropriateness errors:
+
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""input methods, optical character recognition (OCR), editing and proofreading, machine translation, text-to-speech, text transcription, and intelligent writing"" may not be familiar or relevant to all target audiences, as these are technical terms that may require additional context or explanation.
+
+[Minor]: WRONG LANGUAGE VARIETY - The term ""便件产品"" (which appears to be a typo for ""便携产品"" or ""portable products"") may not be the most appropriate or natural-sounding term in the target English translation."
+20,GB/T 2312 一 1980 ”信息交换用汉字编码字符集 ”基本集,"""Character set of the basic Chinese character set for information interchange"".","MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The term ""GB/T 2312"" may not be familiar to the English-speaking audience and could benefit from additional context or explanation.
+[Minor]: wrong language variety - The use of the term ""character set"" may not be the most natural or common phrasing in English for this context, and a more audience-appropriate term like ""character encoding"" or ""character repertoire"" could be considered."
+21,GB/I 11383 一 1989 信息 处理 ”信息交换用八位代码结构和编码规则,Information processing - Information interchange code structure and coding rules for 8-bit codes.,"MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""information interchange code structure and coding rules for 8-bit codes"" may not be familiar or relevant to a general English-speaking audience."
+25,3.1 字符 character,character,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""character"" may not be the most natural or intuitive translation for the Chinese term ""字符"" in the given context, as it could be interpreted as referring to a person's character or personality rather than a textual character."
+30,使用符合本文件的产品的使用者可以自行规定的区域。,The user can self-determine the area of use for products that comply with this document.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""self-determine the area of use"" may be an unusual or unfamiliar way of expressing the concept for the target audience, as it does not directly align with common language usage in the target culture."
+34,留作未来本文件规定的区 域 。,The reserved area for the future as specified in this document.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the reserved area for the future as specified in this document"" may not be a natural or common way to refer to a reserved area in the target audience's cultural context."
+36,4 字汇,Vocabulary.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""vocabulary"" may not be the most natural or common way to express the concept of ""4 字汇"" in the target English-speaking audience."
+40,4.3 双字节部分,Double-byte portion.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Double-byte portion"" may not be familiar to all English-speaking audiences and could benefit from a more common or descriptive phrase."
+41,双字节部分收录了 GB/T 2312 一 1980 中的全部图形字符 GB/T 13000 中的CJK 统一汉字以及部分图形字符。,"The double-byte part includes all the graphic characters in GB/T 2312-1980 and the CJK Unified Ideographs in GB/T 13000, as well as some additional graphic characters.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""GB/T 2312-1980"" and ""GB/T 13000"" may not be familiar to the target audience and require further explanation or context."
+43,"其中,表意文字描述符的图形、代码位置和功能应符合附录 B 的规定 。","The graphic, code position, and function of the ideographic character descriptor should comply with the provisions of Appendix B.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""ideographic character descriptor"" may not be familiar or intuitive for the target audience, as it is a technical term that may require additional context or explanation."
+45,"具备独有抽象字形的汉字,赋予单独的代码位置;来源不同而抽象字形相同的汉字, 则赋予共用的代码位置。",The Chinese characters with unique abstract character forms are assigned individual code positions. Chinese characters with the same abstract character forms but different origins are assigned shared code positions.,"MQM annotations:
+Accuracy Errors
+[Minor]: [culture-specific reference] - The term ""code positions"" may not be familiar to the target audience and could be replaced with a more common term like ""character encoding"" or ""Unicode assignments""."
+47,4.4 四字节部分,16-bit integer,"MQM annotations:
+audience appropriateness error:
+[Minor]: [WRONG LANGUAGE VARIETY] - The term ""16-bit integer"" may not be the most appropriate terminology for the target audience, as it is a technical computing term that may not be widely understood by a general audience."
+48,四字节部分收录了上述双字节字符之外的 GB/T 13000 中的 66 个CJK统一汉字(9FA6 一 9FEF，不包括 9FB4~9FBB 的8个字符)、CJK 统一汉字扩充 A、CJK 统一汉字扩充 BCJK 统一汉字扩充 C、 CJK 统一汉字扩充 DCJK 统一汉字扩充下 .CJK 统一汉字扩充 F 和已经 在 GB/ 工 13000 中编码的少数民族文字的字符。,"The four-byte section includes 66 CJK unified Han characters (9FA6 - 9FEF, excluding 8 characters from 9FB4 to 9FBB) outside the above two-byte characters in GB/T 13000, CJK Unified Han Extensions A, CJK Unified Han Extensions B, CJK Unified Han Extensions C, CJK Unified Han Extensions D, CJK Unified Han Extensions E, CJK Unified Han Extensions F, and a few minority language characters that have already been encoded in GB/T 13000.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: culture-specific reference - The term ""GB/T 13000"" may not be familiar to the target audience and could benefit from additional context or explanation.
+[Minor]: culture-specific reference - The abbreviations ""CJK"" (Chinese, Japanese, Korean) and the references to ""unified Han characters"" and ""minority language characters"" may not be widely understood by the target audience and could require more explanation."
+52,"附录中凡编码的表示均采用十六进制,其他数字的表示均采用十进制。","The codes in the appendix are represented in hexadecimal, and other numbers are represented in decimal.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The use of ""hexadecimal"" and ""decimal"" may not be familiar or intuitive for some target audiences who are not familiar with technical terminology."
+58,6 字符的排列顺序,The order of arrangement of 6 characters.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""the order of arrangement of 6 characters"" may not be a common or intuitive phrase for the target English audience, as it is a more technical or academic expression."
+59,6.1 单字刷部分字符的排列顺序,character order,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""character order"" may not be a common or intuitive phrase for the target English audience, as it is a more technical term related to Chinese writing systems."
+60,单字记部分字符按照 GB/I 11383 一 1989 中相应字符的顺序排列 。,Single character memorization of partial characters is arranged according to the corresponding character order in GB/T 11383-1989.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""GB/T 11383-1989"" may not be familiar to the target audience, as it refers to a specific Chinese national standard that may not be widely known outside of China."
+67,7 码位分配,7 digit allocation,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""7 digit allocation"" may not be a familiar concept for the target audience and could benefit from further explanation or a more culturally-relevant term."
+71,2.双字部分的码位分配,Code point allocation for two-character components.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""code point"" may not be familiar to the general target audience and could benefit from a more common or explanatory term."
+72,"双字节部分的码位安排分为 0x8140~ 一 0xFE7E 和 0x8180 一 0xFEFE 两部分, 共 23940 个码位。","The arrangement of code positions for the double-byte part is divided into two parts, 0x8140 to 0xFE7E and 0x8180 to 0xFEFE, with a total of 23,940 code positions.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""code positions"" may not be familiar to the target audience and could be replaced with a more common term like ""character codes"" or ""character ranges""."
+75,双字节 1 区 : 846 码位,"4,370 code points.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""4,370 code points"" may not be familiar or meaningful to the target audience, as it is a technical term related to character encoding that may not be commonly understood outside of specialized contexts."
+77,首字节 0xA8~0xA9 双字节 5 区 : 192 码 位,192 character positions,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""192 character positions"" may not be a familiar or intuitive concept for the target audience, as it is a technical term related to character encoding that may not be widely understood outside of specialized contexts."
+78,3.双字蔬部分编码空间结构图,Dual-character vegetable part encoding space structure diagram.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""dual-character vegetable part"" may not be a familiar or intuitive concept for some English-speaking audiences, who may be more accustomed to more common vegetable terminology."
+84,表 3 中没有指明的四字节人码位分配见 6.3。,The four-byte character code assignments not specified in Table 3 are given in 6.3.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""Table 3"" may not be familiar to the target audience and could benefit from additional context or explanation."
+85,表 3 四字闻部分的码位安排,Table 3 Arrangement of code positions for four-character radical components.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""code positions"" may not be immediately clear to a general audience and could benefit from a more accessible explanation."
+88,码位范围码位数字符数,"Code point range, code point count, character count.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The terms ""code point range"", ""code point count"", and ""character count"" may not be familiar or intuitive for some target audiences who are not familiar with technical terminology related to character encoding."
+91,8 部分字符和代码的说明,8 parts of character and code description.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""character and code description"" may not be familiar or appropriate for a general audience, as it is more technical jargon.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""parts"" instead of a more common term like ""sections"" or ""components"" may sound slightly formal or technical for the intended audience."
+97,实现级别 1 文持本文件的单字节编码部分、双季节编码部分和四字下编玛部分的 CJK 统一汉字 ( 即 0x82358F33 一 0x82359636) 和 CJK 统一汉字扩A( 即 0x8139EE39 一 0x82358738) 。,"Level 1 implementation supports the single-byte encoding part, the double-season encoding part, and the four-character encoding part of the CJK Unified Ideographs (i.e., 0x82358F33 - 0x82359636) and CJK Unified Ideographs Extension A (i.e., 0x8139EE39 - 0x82358738).","MQM annotations:
+Audience Appropriateness Errors
+[Major]: [culture-specific reference] - The use of ""CJK Unified Ideographs"" and ""CJK Unified Ideographs Extension A"" may not be familiar or meaningful to the general English-speaking audience.
+[Minor]: [wrong language variety] - The use of technical terms like ""single-byte encoding"", ""double-season encoding"", and ""four-character encoding"" may be too specialized for a general audience."
+102,"此外 ,实现级别 2 还文持《通用 规范 汉字 表 }中的没有包合在实级别 1 之内的编码汉字。","In addition, the implementation of Level 2 includes the encoding of Chinese characters that are not included in Level 1 of the ""General Standard Chinese Character Set"".","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""General Standard Chinese Character Set"" may not be familiar or understandable to the target English-speaking audience."
+104,"系统软件及支撑软件,应满足实现级别 2 的要求 。",System software and supporting software shall meet the requirements of implementation level 2.,"MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""implementation level 2"" may not be familiar or intuitive for the general English-speaking audience, as it is a technical term specific to the context of software development."
+105,"注: 系统软件及文撑软件包括但不限于操作系统,数据库管理系统.中间件( 软件产品分类的信息见 GB/ 工 36475)。","System software and document software include but are not limited to operating systems, database management systems, and middleware (see GB/T 36475 for information on software product classification).","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""operating systems, database management systems, and middleware"" may not be familiar to all readers and could benefit from further explanation or contextualization."
+107,实现级别 3 包含实现级别 2。,Maturity level 3 includes maturity level 2.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""Maturity level 3 includes maturity level 2"" may not be a common or intuitive way to express the concept of hierarchical levels in the target audience's cultural context."
+109,用于政务服务和公共服务的产品应满足实现级卉 3 的要求。,The products used for government services and public services should meet the requirements of achieving Level 3 accessibility.,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Level 3 accessibility"" may not be widely understood by the general public and may require further explanation for the intended audience."
+111,附录 A (规范性 ),Appendix A (Normative).,"MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""Appendix A (Normative)"" may not be a common or intuitive phrase for some target audiences, as it is a technical term more commonly used in formal or legal contexts."
+112,双字字符表,Character set.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Character set"" may not be a commonly used or easily understandable term for the general target audience."
+115,A.2 表的说明,Table description,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""table description"" may not be a common or natural way to refer to this section in the target culture."
+117,第一字节第二字节低位,the first byte the second byte low bit,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""the first byte the second byte low bit"" is a technical term that may not be easily understood by a general audience. It would be more appropriate to use a more user-friendly language to explain the concept.
+[Minor]: WRONG LANGUAGE VARIETY - The translation uses the phrase ""the first byte the second byte low bit"" which may not be the most natural way to express the concept in the target language. A more idiomatic translation would be more appropriate."
+121,表意文字描述符,Ideographic description characters.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""ideographic description characters"" may not be familiar to the general English-speaking audience and could benefit from a more common or descriptive term."
+124,表 B.1 表意文字描述符的图形、代码位置和功能描述,"Graphic, Code Position, and Functional Description of Ideographic Description Characters","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: culture-specific reference - The term ""Ideographic Description Characters"" may not be familiar to the general English-speaking audience and could be replaced with a more accessible term like ""Ideographic Symbols"" or ""Ideographic Representations""."
+125,"本文件的码位 GB/T 13000 的码位功能描述相似而不等,用于借某字表达外字","The code positions of this document are similar but not equal to the code positions of GB/T 13000, used to express external characters by borrowing certain characters.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""GB/T 13000"" may not be familiar or understandable to the target audience, as it is a Chinese standard that may not be widely known outside of China.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""used to express external characters by borrowing certain characters"" may sound overly technical or formal for the intended audience."
+130,全包围结构,Unibody structure.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""unibody structure"" may not be a familiar concept for the target audience and could require additional explanation to be fully understood."
+133,回右包围结构,Encircle and surround.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Encircle and surround"" may not be a common or natural expression in the target English audience, as it sounds more like a military or strategic term rather than everyday language."
+136,回右上包围结构,Surround the upper right structure.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""surround the upper right structure"" may not be clear or natural for the target audience, as it uses a spatial reference that may not be intuitive or common in the target culture.
+[Minor]: WRONG LANGUAGE VARIETY - The translation ""Surround the upper right structure"" may sound overly formal or technical for the intended audience, and a more natural phrasing in the target language may be more appropriate."
+140,C.1 表的内容,The content of the table.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""the content of the table"" may not be a natural or idiomatic way to refer to the information in a table for the target audience."
+145,D.1 调整过的 18 个GB/T 13000 代码位置,Adjusted 18 GB/T 13000 code positions.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""GB/T 13000"" may not be familiar or meaningful to all target audiences, as it refers to a specific Chinese national standard that may not be widely known outside of China."
+148,本文件及 GB 18030 一 2005 的GB 18030 一 2005 对应的本文件对应的GB/T 工 13000 码位,The corresponding GB/T 13000 code positions of this document and GB 18030-2005.,"MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""GB/T 13000"" may not be familiar or understandable to the target audience, as it is a specific technical standard used in China.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""对应的"" may not be the most natural or common expression in English for the target audience."
+149,D.2 在双字闻区删除的 6 个汉字构件,六个汉字构件,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""汉字构件"" (Chinese character components) may not be familiar to all target audiences and could benefit from further explanation or a more general term."
+151,D.3 在双字下区删除的 9 个 CJK 兼容汉字,九个 CJK 兼容汉字,"MQM annotations:
+audience appropriateness error:
+[Minor]: [culture-specific reference] - The term ""CJK compatible Han characters"" may not be familiar to the general English-speaking audience and could benefit from further explanation or a more common term."
+153,表 D.3 删除的 9 个 CJK 兼容汉字和它们的代码位置,Table D.3 Nine CJK Compatibility Ideographs Removed and Their Code Positions,"MQM annotations:
+Accuracy Errors
+[Minor]: [culture-specific reference] - The term ""CJK Compatibility Ideographs"" may not be familiar to the general English-speaking audience and could benefit from a brief explanation."
+154,附录开 (资料性)《通用规范汉字表》 汉字的代码位置,"The code positions of the characters in the ""General Standard Chinese Character Set"" (informative).","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""General Standard Chinese Character Set"" may not be familiar to the target audience and could be better explained or rephrased in a more accessible way."
+155,"本文件收录了 2013 年中华人民共和国国务院批准发布的 4 通用规范汉字表》 中的全部 8105 个规范汉字,它们的代码位置和字形见表1。","This document contains the full 8,105 standard Chinese characters approved and published by the State Council of the People's Republic of China in 2013. Their code positions and character forms are shown in Table 1.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""State Council of the People's Republic of China"" may not be familiar to all target audiences and could be rephrased in a more universally understandable way."
+159,GB/ 工 36475 软件产品分类,Software Product Classification GB/T 36475.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The term ""GB/T 36475"" may not be familiar to the target audience, as it is a Chinese national standard that may not be widely recognized outside of China."
+163,"如果发现手册页和软件之间有所矛盾,请查对Info","If there is a conflict between the manual page and the software, please refer to the Info.","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Info"" may not be a familiar concept for the target audience and could lead to confusion."
+170,源文件后级名指出语言种类以及后期的操作:,source file suffix indicates the language type and subsequent operations,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""source file suffix"" may not be familiar or intuitive for the target audience, as it is a technical term more commonly used in software development contexts.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""indicates the language type and subsequent operations"" may sound overly formal or academic for the intended target audience, who may expect a more conversational style."
+171,".c C 源程序; 预处理, 编译,汇编",".c C source program; preprocessing, compiling, assembling","MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""C source program; preprocessing, compiling, assembling"" may not be familiar to all English-speaking audiences, as it is a technical term specific to the software development context."
+175,".m Objective-C 源程序; 预处理,编译,汇编",".m Objective-C source code; preprocessing, compiling, assembling","MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The term ""Objective-C"" may not be familiar to all target audience members who are not familiar with programming languages.
+[Minor]: wrong language variety - The term ""汇编"" (assembling) may be more commonly used in a technical context in the source language, whereas the target audience may be more familiar with a more general term."
+176,".i 预处理后的 c 文件;编译,汇编","Preprocessed C file; compile, assemble.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""compile, assemble"" may not be familiar or intuitive for some target audiences who are not familiar with software development terminology.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""preprocessed"" may not be the most common or natural way to express the concept of preparing a C file for compilation in the target language."
+182,.a 归档库文件(Archive file),Archive file,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Archive file"" may not be a commonly used or well-understood term for the target audience."
+183,"除非使用了 -cec，-s, 或 -E 选项(或者编译错误阻止了完整的过程),否则连接总是最后的步骤.","Unless the -cec, -s, or -E options are used (or a compilation error prevents the full process), linking is always the final step.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""the final step"" may not be as common or idiomatic in the target audience's cultural context, and a more natural expression could be used."
+185,选项必须分立给出 : de ' 完全不同于 `-d -r '.,separate options,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""de ' "" is a culture-specific reference that may not be easily understood by the target audience.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""完全不同于 `-d -r '"" may not be appropriate for the target audience, as it reflects a language variety that is different from the intended one."
+187,这里只列举不是默认选项的格式.,Here are the listed formats that are not the default options.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""here"" may not be clear to the target audience, as it does not provide enough context about the specific location being referred to."
+190,总体选项 (Overall Option),Overall Option,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Overall Option"" may not be a common or natural way to express the concept in the target English-speaking audience."
+191,明确指出后面输入文件的语言为 language (而不是从文件名后绥得到的默认选择).,Clearly specify that the language of the input file is language (rather than the default selection obtained from the file name).,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""language (rather than the default selection obtained from the file name)"" may not be immediately clear to all target audiences, as it refers to technical concepts related to file processing that may not be familiar to non-technical users.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""明确指出后面输入文件的语言为 language"" uses the term ""language"" in English, which may sound out of place in an otherwise Chinese-language text. A more natural Chinese equivalent would be preferable."
+193,"关闭任何对语种的明确说明, 因此依据文件名后级处理后面的文件 RE AS E ` -x' 选项).","Close any explicit language specification, so process the file based on the file name (use the `-x' option).","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""RE AS E `-x' option"" is a technical command that may not be familiar or appropriate for a general audience.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""file name"" may not be the most natural or idiomatic way to express this concept in the target language, and a more culturally appropriate alternative may exist."
+194,"如果只操作四个阶段( 预处理, 编译, 汇编, 连接)中的一部分, 可以使用 ` -x' 选项 (或文件名后 Ah) 告诉 geo 从哪里开始,用 `~-c' ，`-s' ,或 `-E' 选项告诉 geo 到哪里结束.注意,某些选项组合 (例如 ，`-x cpp-output -E') {i gee MEF =c 编译或汇编源文件, ETER. ERA ATI 缺省情况下， GCC 通过用 ` .o' 蔡换源文件名后级 ` .ec 标文件名. 可以使用-o 选项选择其他名字.GCC忽略 -ec 选项后面任何无法识别的输入文伯 -S F 何事情.","If you only operate on a part of the four stages (preprocessing, compilation, assembly, and linking), you can use the `-x` option (or `Ah` after the file name) to tell GCC where to start, and use the `-c`, `-S`, or `-E` options to tell GCC where to end. Note that some option combinations (such as `-x cpp-output -E`) do not make sense and will result in an error. By default, GCC uses the `.o` extension to replace the source file name with the object file name. You can use the `-o` option to specify a different name. GCC ignores any unrecognized input files after the `-x` option.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: culture-specific reference - The term ""GCC"" may not be familiar to all target audiences and could benefit from an explanation or a more general reference.
+[Minor]: wrong language variety - The use of the term ""geo"" instead of a more common term like ""compiler"" or ""build tool"" may not be appropriate for the intended target audience."
+196,"编译后即停止, 不进行汇编件.","Compilation stops immediately, no assembly is performed.","MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""compilation stops immediately, no assembly is performed"" may not be familiar to all target audiences, as it uses technical terminology related to software development that may not be widely understood."
+197,"在编译过程的不同阶段间使用管道而非临时文件进行工作, 因为那些系统的汇编器不能从管道读取数据，GNU 的汇编器没有这个问题，汇编器能够接受的 C ""方言 "": 支持符合 ANSI 标准的 C 程序.","During the different stages of the compilation process, use pipes instead of temporary files to work, because those system assemblers cannot read data from pipes, but the GNU assembler does not have this problem. The C ""dialect"" that the assembler can accept: supports C programs that conform to the ANSI standard.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""GNU assembler"" may not be familiar to all target audience members who are not familiar with computer programming terminology.
+[Minor]: [wrong language variety] - The phrase ""C 'dialect'"" may not be the most natural way to refer to variations in the C programming language in the target language context."
+200,"正常情况下, 这样的函数 foo 在 C++ 中意味着参数为空.","Normally, a function like foo in C++ means the parameters are empty.","MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""in C++"" may not be familiar or relevant to the intended target audience, who may not have technical knowledge of programming languages."
+202,"详见NU c 手册,我们已经把细节删除, 这样当内容过时后, 人们也不会 HERI.","See the NU c manual for details, we have removed the specifics so that when the content becomes outdated, people will not HERI.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""HERI"" is not a common or understandable term for the target English-speaking audience, and its meaning is unclear in this context."
+204,他和`-Ethis-is-variable' 选项的果一样.,He and the `-Ethis-is-variable' option are the same.,"MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""-Ethis-is-variable"" is an unusual and unfamiliar expression that may not be understood by the target audience."
+205,-traditional-cpp 试图支持传统 Cc 预处理器的某些方面.,The traditional-cpp attempts to support certain aspects of the traditional Cc preprocessor.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""traditional Cc preprocessor"" may not be familiar or relevant to the target audience, who may not have a background in C++ programming."
+216,"相对应的, 如果编译时使用缺省选项 ` -fno-exteznal-templates', 所有模板实例明确的设为内置.","The corresponding, if the default option `-fno-external-templates` is used during compilation, all template instances are explicitly set to be inline.","MQM annotations:
+Accuracy Errors
+[Major]: [culture-specific reference] - The term ""inline"" may not be a familiar concept for the target audience, as it is a programming-specific term that may not be widely understood by non-technical readers."
+219,"有些情况下, 编译器能够判断出可以直接调用某个虚函数; 这时就直接调用.","In some cases, the compiler can determine that a virtual function can be called directly; in such cases, it will call the function directly.","MQM annotations:
+Accuracy Errors
+[Minor]: [culture-specific reference] - The term ""virtual function"" may not be familiar to all target audience members and could benefit from further explanation or a more common equivalent."
+221,这种表达式的值是 Void.-fthis-—is-variable 允许对 this 赋值 (仅对 c++).,The value of this expression is Void.-fthis-—is-variable allows assignment to this (C++ only).,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The expression ""this expression is Void.-fthis-—is-variable"" is not a common or natural way of expressing the concept in English and may be confusing for the target audience.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""allows assignment to this (C++ only)"" uses technical jargon that may not be familiar to the general English-speaking audience."
+229,"这个选项, 和它的反义选项, 使那样的程序工作在对应的默认值上.","This option, and its opposite option, make the program work with the corresponding default values.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""make the program work with the corresponding default values"" may not be easily understood by the target audience, as it uses technical language that may not be familiar to non-technical readers.
+[Minor]: [WRONG LANGUAGE VARIETY] - The term ""option"" may not be the most natural choice in the target language, and a more common term like ""setting"" or ""choice"" may be more appropriate."
+231,"如果没有明确声明 ` signed' 或 ""unsigned'修饰符, 这些选项用来定义有符号位域 (bitfield) 或无符号位域.","If no explicit `signed' or `unsigned' modifier is stated, these options are used to define signed bitfields or unsigned bitfields.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the term ""signed"" and ""unsigned"" to describe bitfields may not be familiar or intuitive for some target audiences, as it is a technical programming concept.
+[Minor]: WRONG LANGUAGE VARIETY - The translation uses the general English term ""bitfield"" instead of a more common target language equivalent that would be more natural for the intended audience."
+234,"这是为了兼容一些老程序,他们算改字符串常量是一个非常糟糕的想法、`-traditional' 选项也有相同效果.","This is to be compatible with some old programs, they think that changing string constants is a very bad idea, the `-traditional' option also has the same effect.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""they think that changing string constants is a very bad idea"" may not be easily understood by the target audience, as it refers to a specific technical concept that may not be familiar to non-technical readers.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the phrase ""the `-traditional' option also has the same effect"" may sound overly formal or technical for the intended audience, and a more conversational tone may be more appropriate."
+237,其影响可能类似于2008年的经济危机,The impact may be similar to the economic crisis of 2008.,"MQM annotations:
+audience appropriateness error:
+[major]: CULTURE-SPECIFIC REFERENCE - The phrase ""economic crisis of 2008"" may not be as widely understood by the target audience, as the impact and significance of that event may vary across different cultural contexts."
+239,在许多国家，这一疾病己使医疗服务机构穷于应付，几近崩溃，各国政府实施的限制措施已在全球经济中造成了严重紊乱。,"In many countries, this disease has overwhelmed medical service institutions, bringing them close to collapse, and the restrictive measures implemented by governments have caused serious disruption in the global economy.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""bringing them close to collapse"" may not be culturally appropriate or easily understood by all target audiences, as the severity of the situation may be perceived differently in different cultural contexts.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""restrictive measures"" may not be the most natural or idiomatic way to express the concept in the target language, and a more culturally appropriate term may be preferable."
+241,一些生产者可能会被迫寻找新的方法来制造毒品，因为限制流动的同时也限制了前体和基本化学品的获取。,"Some producers may be forced to seek new methods to manufacture drugs, as restrictions on mobility also limit access to precursors and basic chemicals.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""new methods to manufacture drugs"" may be interpreted as promoting or normalizing illegal drug production, which could be inappropriate for some target audiences.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""precursors"" may not be a commonly used term in all English-speaking contexts and could be replaced with a more widely understood phrase like ""chemical ingredients""."
+249,一些国家有大量毒品通过商业航班走私，预计这些国家的贩毒活动受到的直接影响最大。,"Some countries have a large amount of drugs smuggled through commercial flights, and it is expected that the drug trafficking activities in these countries will be most directly affected.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""commercial flights"" may not be a common or familiar term for the target audience, and could be better expressed using more culturally appropriate language.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""drug trafficking activities"" may not be the most natural or idiomatic way to express the concept in the target language, and a more natural phrasing may be more appropriate."
+259,世界各地的吸毒现象一直在增多，无论是从总体数字还是从吸毒者在世界人口中所占比例来看都是如此。,"The phenomenon of drug abuse is constantly increasing worldwide, whether in terms of the overall numbers or the proportion of drug users in the world population.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""吸毒现象"" (drug abuse phenomenon) may not be easily understood by some target audiences, as it could be perceived as a sensitive or stigmatized topic. A more neutral or less direct phrasing may be more appropriate.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""worldwide"" may not be the most natural or idiomatic choice in the target language context. A more localized expression could be more appropriate."
+262,"这在一定程度上反映了这一期间总体人口增长的差异、发达国家为7%,发展中国家为28%但也反映了发展中国家年 轻人口增长较快。","This to a certain extent reflects the difference in overall population growth during this period, with developed countries at 7% and developing countries at 28%, but it also reflects the faster growth of the young population in developing countries.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""year young population"" may not be a common or natural way to refer to the young population in the target English-speaking audience."
+263,青少年和年轻成年人在吸毒者中所占比例最大。,The proportion of adolescents and young adults is the highest among drug users.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""adolescents and young adults"" may not be a common or natural way to refer to this age group in the target culture, and could sound overly formal or clinical.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""drug users"" may not be the most appropriate or sensitive way to refer to this population in the target language and cultural context, and a more neutral or person-first phrasing may be preferred."
+266,无论是发达国家还是发展中国家，城市地区的吸毒情况都多于农村地区。,"Regardless of whether it is a developed country or a developing country, the drug abuse situation in urban areas is more serious than in rural areas.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The phrase ""drug abuse situation"" may not be a common or culturally appropriate way to refer to the issue of drug use in some contexts."
+267,吸毒情况总体增多的部分原因是人口从农村向城镇的大规模流动一目前全世界人口有一半以上生活在城市地区，而1960年这一比例为34%。,"The overall increase in drug abuse is partly due to the large-scale migration of the population from rural to urban areas - currently, more than half of the world's population lives in urban areas, compared to 34% in 1960.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""large-scale migration of the population from rural to urban areas"" may not be a common or familiar concept for some target audiences, and could benefit from additional context or explanation."
+268,城市化可能是毒品市场未来动态的一个关键因素，特别是在城市化趋势更为突出的发展中国家。,"City-ization may be a key factor in the future dynamics of the drug market, especially in developing countries where urbanization trends are more pronounced.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""drug market"" may have different connotations or implications in the target culture, and may not be the most appropriate way to refer to this topic.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""city-ization"" is not a commonly used term in English and may sound unusual or technical to the target audience."
+273,来自少数几个国家的数据表明，有害的吸毒模式与病症同低收入之间存在联系。,The data from a few countries indicates that harmful drug use patterns are associated with low-income conditions.,"MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""low-income conditions"" may not be a common or culturally appropriate way to refer to poverty or economic status in the target context.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""harmful drug use patterns"" may sound overly formal or technical for the intended audience."
+274,这些模式在较富裕的社会阶层似乎不太常见。,These patterns seem to be less common among the more affluent social strata.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""more affluent social strata"" may not be a common or natural way to refer to wealthier segments of society in the target culture."
+277,新冠肺炎或将导致毒品市场进一步扩张新冠肺炎的大流行可能会导致更多农民增加或从事非法作物种植，或是因为国家主管机关的控制能力降低，或是因为在经济危机之下可能有更多人不得不铤而走险，从事非法活动。,"The COVID-19 pandemic may lead to further expansion of the drug market. The COVID-19 pandemic may cause more farmers to increase or engage in the cultivation of illegal crops, either due to a decrease in the control capabilities of the competent national authorities, or because more people may be forced to take risks and engage in illegal activities under the economic crisis.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""non-legal crops"" and ""illegal activities"" may not be appropriate or understandable for some target audiences, as it could be seen as promoting or normalizing illegal behavior.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""competent national authorities"" may not be the most natural or common phrasing in the target language, and could be rephrased in a more audience-appropriate way."
+283,会员国的国内市场每年约有500种新型活性物质。,The domestic market of member countries has about 500 new active substances every year.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""member countries"" may not be a familiar concept for some target audiences and could benefit from additional context or explanation."
+286,"在2014年确定的新型精神活性物质种类总数中，类阿片新型精神活性物质仅占2%,但到2018年，这一数字己上升至9%。","In the total number of new psychoactive substances identified in 2014, opioid-type new psychoactive substances accounted for only 2%, but by 2018 this figure had risen to 9%.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""opioid-type new psychoactive substances"" may not be familiar to the general target audience and could benefit from further explanation or a more accessible term."
+287,类阿片新型精神活性物质中有许多是芬太尼的类似物，其药效和危害已得到证明，在北美导致了过量死亡事件，其他区域也有，但程度较轻。,"Many of the novel psychoactive substances in the opioid-like class are fentanyl analogues, whose pharmacological effects and harms have been demonstrated. They have led to overdose deaths in North America, and have also occurred in other regions, though to a lesser extent.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""North America"" may not be familiar or relevant to all target audiences, and could be better localized.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""overdose deaths"" may not be the most appropriate or common phrasing in some cultural contexts, where alternative terminology might be preferred."
+288,在北美，芬太尼有的用作海洛因和其他毒品（包括可卡因和甲基苯丙胺）的掺杂剂，有的用来制造假冒的药用类阿片。,"In North America, fentanyl is used as an adulterant in heroin and other drugs (including cocaine and methamphetamine), and is also used to manufacture counterfeit pharmaceutical opioids.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""heroin"" and ""cocaine"" may not be appropriate for some target audiences, as these are sensitive topics that could be perceived as promoting drug use.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""methamphetamine"" may not be familiar or appropriate for all target audiences, as it is a highly specific and potentially controversial drug reference."
+290,2新型精神活性物质的使用可能会逐渐牢固存在于弱势群体中,The use of new psychoactive substances may gradually become entrenched among vulnerable populations.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""may gradually become entrenched"" may not be a common or natural expression in the target audience's cultural context, potentially causing confusion or a sense of non-belonging."
+295,贩毒者和制毒者一直在寻找替代品一不仅有管制较松的物质，还有专门为规避管制而设计的化学品，即所谓的“特制前体”。,"Drug traffickers and drug manufacturers have been looking for substitutes, not only substances with less stringent controls, but also chemicals specifically designed to circumvent controls, the so-called ""specially designed precursors"".","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""specially designed precursors"" may not be familiar or understandable to the general target audience, as it is a technical term related to drug manufacturing and trafficking.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""substitutes"" may not be the most natural or idiomatic choice in the target language, and a more common term might be more appropriate."
+296,旨在阻止新冠肺炎传播的限制性措施很可能使依赖前体化学品的制毒者受到进一步挤压。,The restrictive measures aimed at preventing the spread of COVID-19 are likely to further squeeze drug manufacturers who rely on precursor chemicals.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""drug manufacturers"" may not be appropriate or easily understood by the general public, as it could be perceived as referring to illegal drug production rather than the pharmaceutical industry.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""precursor chemicals"" is a technical term that may not be familiar to all readers and could benefit from further explanation or a more common-language alternative."
+297,来自墨西哥的证据表明，这已经成为 现实：据报告，2020年3月，从东亚进口的甲基苯丙胺前体短缺促使墨西哥和美国的甲基苯丙胺价格上涨。,"The evidence from Mexico indicates that this has become a reality: According to reports, in March 2020, a shortage of methamphetamine precursors imported from East Asia led to a rise in the price of methamphetamine in Mexico and the United States.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The mention of ""methamphetamine"" and its precursors may be inappropriate or sensitive content for some target audiences, potentially causing confusion or discomfort."
+305,阿富汗和伊拉克甲基苯丙胺市场增长,The Afghan and Iraqi methamphetamine markets are growing.,"MQM annotations:
+Accuracy Errors
+[Major]: [culture-specific reference] - The term ""methamphetamine"" may be considered inappropriate or sensitive content for general audiences and could be perceived as promoting or normalizing the use of illegal drugs.
+[Minor]: [wrong language variety] - The term ""Afghan"" and ""Iraqi"" may not be the most culturally appropriate way to refer to the people or regions, and more neutral or respectful terminology may be preferred."
+309,最近，伊拉克当局发现了多个甲基苯丙胺加工点，麻管局已对伪麻黄碱制剂的大批进口表示关切一甲基苯丙胺加工点将这些制剂用作前体。,"Recently, the Iraqi authorities have discovered multiple methamphetamine production sites, and the drug control agency has expressed concern over the large-scale importation of pseudoephedrine preparations, as these sites are using these preparations as precursors for the production of methamphetamine.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""甲基苯丙胺"" (methamphetamine) may not be widely understood by the general English-speaking audience and could be better explained or rephrased in a more accessible way.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""麻管局"" (drug control agency) may not be a commonly used term in English and could be replaced with a more standard term like ""drug enforcement agency"" or ""narcotics control bureau""."
+311,自那时起，甲基苯丙胺的缉获量一直在稳步上升。,"Since then, the seizure of methamphetamine has been steadily increasing.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""methamphetamine"" may not be familiar or appropriate for all target audiences, and a more general term like ""drug"" or ""substance"" could be more suitable."
+312,但2019年上半年的缉获量一^657公斤——与上一年相比大幅骤增。,But the amount seized in the first half of 2019 was 657 kilograms - a sharp increase compared to the previous year.,"MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""kilograms"" may not be a commonly used unit of measurement in some target cultures, and a more familiar unit like ""pounds"" or ""tons"" may be more appropriate."
+318,在美国最早通过立法的两个州科罗拉多州和华盛顿州，成年人非医疗使用大麻的情况增加，特别是过去一个月以及每天或几乎每天使用的情况增多，自2012年起便已超过了全国平均水平。,"Colorado and Washington were the first two states in the United States to pass legislation allowing for the non-medical use of cannabis by adults. The prevalence of past-month and daily or near-daily cannabis use has increased in these states, exceeding the national average since 2012.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The mention of ""Colorado and Washington"" may not be as familiar or relevant to a general international audience, as these are specific U.S. states."
+323,全球大麻药草缉获量暴跌的背后原因是大麻合法化？,The reason behind the drastic drop in the global seizure of cannabis herbs is the legalization of cannabis?,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""cannabis"" may not be familiar or appropriate for some target audiences, who may be more familiar with the term ""marijuana"".
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""the reason behind the drastic drop in the global seizure of cannabis herbs"" may sound overly formal or technical for some target audiences, who may prefer a more conversational style."
+326,对新型精神活性物质的监管似乎有遏制作用在国内对新型精神活性物质的监管效果仍然很难评估。,"The regulation of new psychoactive substances seems to have a suppressive effect, but the effectiveness of domestic regulation of new psychoactive substances is still difficult to assess.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The regulation of new psychoactive substances is a technical and legal topic that may not be familiar to the general public. The use of the term ""new psychoactive substances"" may not be easily understood by all readers.
+[Minor]: STYLE/AWKWARD - The phrasing ""the effectiveness of domestic regulation of new psychoactive substances is still difficult to assess"" is a bit awkward and could be rephrased in a more natural way."
+327,一些对新型精神活性物质采用不同监管制度的国家显示出不同的新型精神活性物质使用流行率。,Some countries with different regulatory systems for new psychoactive substances show different prevalence rates of new psychoactive substance use.,"MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the term ""new psychoactive substances"" may not be familiar or easily understood by the general target audience.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""new psychoactive substance use"" may sound overly technical or formal for the intended audience."
+328,在另一些国家，通过国内立法后，新型精神活性物质使用情况有所减少。,"In some other countries, the use of new psychoactive substances has decreased after domestic legislation.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The phrase ""new psychoactive substances"" may not be a common or well-understood term for the general target audience, and could benefit from further explanation or a more accessible term."
+333,"据估计，低收入和中等收入国家的人口占全球人口的88%,但消费的药用类阿片却不到10%。","According to estimates, the population of low-income and middle-income countries accounts for 88% of the global population, but they consume less than 10% of the medical opioids.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""medical opioids"" may not be well understood by the general public and could be perceived as too technical or medical-focused.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""consume less than 10%"" may sound more formal or academic than typical for a general audience. A more conversational expression like ""use/take less than 10%"" could be more appropriate."
+334,获取药用类阿片的障碍与许多因素有关，包括立法、文化、卫生系统和处方做法。,"The barriers to accessing medicinal opioids are related to many factors, including legislation, culture, healthcare systems, and prescription practices.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""medicinal opioids"" may not be familiar or have the same cultural connotations for the target audience, potentially causing confusion or misunderstanding.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""healthcare systems"" instead of a more localized equivalent may not align with the target audience's linguistic preferences."
+343,全球范围的有限数据表明，迷醉可能是杀人的一个重要因素。,The limited data available globally suggests that intoxication may be an important factor in homicide.,"MQM annotations:
+Audience Appropriateness Errors
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""intoxication"" may not be a common or culturally appropriate way to refer to drunkenness in the target audience's context."
+351,据估计，2018年使用大麻的有 1.92 亿人，使之成为全球使用最多的毒品。,"According to estimates, in 2018 there were 192 million people using cannabis, making it the most widely used illicit drug globally.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""illicit drug"" may not be the most appropriate way to refer to cannabis in some cultural contexts, where it may be viewed more as a recreational substance than a criminal one."
+354,"在2017年与吸毒病症有关的估计167,000例死亡中，有66%是这类物质造成的，在据信为吸毒导致的残疾或过早死亡而损失的2,100万年寿命中，有50%是这类物质造成的。","In 2017, an estimated 167,000 deaths were related to drug use disorders, of which 66% were caused by these substances. Of the estimated 21 million years of life lost due to disability or premature mortality attributed to drug use, 50% were caused by these substances.","MQM annotations:
+Accuracy Errors
+[Minor]: [culture-specific reference] - The phrase ""these substances"" may not be clear to the target audience without additional context."
+368,兴奋剂领域以可卡因和甲基苯丙胺为主，这两种物质在其主要市场的使用量都在上升。,"Stimulants are mainly represented by cocaine and methamphetamine, and the usage of these two substances is increasing in their major markets.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""cocaine"" and ""methamphetamine"" may be considered inappropriate or insensitive for some target audiences, as these are illegal and potentially harmful substances.
+[Minor]: TERMINOLOGY/INAPPROPRIATE FOR CONTEXT - The term ""stimulants"" may be too technical or clinical for some general audiences, and a more accessible term like ""drugs"" or ""substances"" may be more appropriate."
+372,在一些市场上，可卡因和甲基苯丙胺可以共存，有时是相互替代，这样一种药物的使用量上升时另一种药物的使用量就下降，有时是同时增加和减少以满足同一市场的需求。,"In some markets, cocaine and methamphetamine can coexist, sometimes as substitutes, where an increase in the use of one drug is accompanied by a decrease in the use of the other, and at times they increase and decrease simultaneously to meet the demand of the same market.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the terms ""cocaine"" and ""methamphetamine"" may be inappropriate or sensitive for some target audiences, as they refer to illegal and potentially harmful drugs.
+[Minor]: WRONG LANGUAGE VARIETY - The phrasing ""the use of one drug is accompanied by a decrease in the use of the other"" may sound more formal or technical than typical for a general audience."
+376,2017年，因吸毒死亡的约有 58.5万人，其中一半死于丙型肝炎引起的肝病，而注射吸毒者的丙型肝炎大多仍未得到治疗。,"In 2017, approximately 585,000 people died from drug abuse, with half of them dying from liver disease caused by hepatitis C, and most injection drug users with hepatitis C still have not received treatment.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The statistic of ""approximately 585,000 people died from drug abuse"" may be too specific and technical for a general audience, and the reference to ""injection drug users"" could be seen as insensitive.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""liver disease caused by hepatitis C"" may be more common in a medical or scientific context, and could be rephrased in a more accessible way for a general audience."
+380,使用说明书,Instructions for use.,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""Instructions for use"" may not be a common or natural way to refer to usage instructions in the target culture."
+385,将耳帐斜向下轻轻塞入耳道，以轻摆头部耳机不田动为家。,"Gently insert the earphone into the ear canal at a slight downward angle, and adjust the head slightly to ensure the earphone does not move.","MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The phrase ""for home"" may not be a common or natural way to express the idea of ""ensuring the earphone does not move"" in the target English context."
+388,充电开机使用前，请先撕掉左右耳机充各点处的网几，将充电盒及耳机充满电。,"Before using, please remove the mesh at the charging points of the left and right earphones, and charge the charging case and earphones until they are fully charged.","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""remove the mesh"" may not be a common or intuitive term for the target audience, and could be replaced with a more user-friendly expression.
+[Minor]: WRONG LANGUAGE VARIETY - The use of ""charging case"" instead of a more common term like ""charging box"" or ""charging station"" may not be the preferred language variety for the target audience."
+390,充电盒未充满电充电指示灯红灯长亮，充满电后充电:3 指示灯熄灭。,"The charging box is not fully charged. The red charging indicator light is on. When fully charged, the charging indicator light will turn off.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The phrase ""charging indicator light"" may not be a common term for the target audience and could be replaced with a more familiar expression."
+403,自动连接: 局对移两只耳机从充时盒外十.,Automatic connection: Remove two earphones from the charging case.,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""remove two earphones from the charging case"" may be unusual or confusing for some target audiences who are not familiar with the concept of wireless earphones and charging cases.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""charging case"" may not be the most common or natural way to refer to this device in the target language, and a more localized term may be more appropriate."
+405,随后红和白灯恢六. 左右囊如自过串联 .,The random text you provided does not appear to be a valid Chinese sentence. I am unable to provide a meaningful translation for it.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The text ""随后红和白灯恢六. 左右囊如自过串联"" does not appear to be a valid Chinese sentence and contains unfamiliar references that would be confusing for the target English audience.
+[Major]: WRONG LANGUAGE VARIETY - The translated text ""The random text you provided does not appear to be a valid Chinese sentence. I am unable to provide a meaningful translation for it."" does not match the expected target language variety, as it reads more like a system-generated response rather than natural English."
+406,"待左/右耳机白灯懈 闪时. 打开设备否牙搜索 “RedmIArDots2 ""并点击完连溶。","Connect the left/right earbuds when the white light flashes. Open the device settings and search for ""RedmIArDots2"" and click to connect.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""RedmIArDots2"" may not be familiar or meaningful to the target audience, as it appears to be a specific product name or model that may not be widely recognized outside of the intended context.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""牙搜索"" (which appears to be a literal translation of ""tooth search"") is an unusual or non-standard way of referring to device settings or searching in the target language. A more natural and idiomatic expression would be more appropriate."
+407,首次连接后. 囊志开机可自动回连上一次配对设备(蓝牙需开启)。,First connection after. The device can automatically reconnect to the last paired device (Bluetooth needs to be turned on).,"MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The phrase ""the last paired device"" may not be immediately clear to all target audience members who are not familiar with Bluetooth technology."
+412,"单耳 / 双耳自由切换; 两只耳机连接成功后即为双丁连接; 将任一耳机放回充电盒关机, 另一只耳机进入单耳模式, 重新取出即可自动恢复双耳模式 。","Single-ear / dual-ear free switching; after the two earphones are successfully connected, it becomes a dual-ear connection; when either earphone is placed back in the charging case and turned off, the other earphone enters the single-ear mode, and when taken out again, it automatically restores the dual-ear mode.","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The phrase ""dual-ear connection"" may not be a common term for the target audience and could be rephrased in a more user-friendly way.
+[Minor]: [culture-specific reference] - The term ""charging case"" may not be immediately clear to all readers and could be explained in more common language."
+415,如果耳机无法正常连接使用，请参照以下方式重置,"If the headphones cannot be connected and used normally, please refer to the following method to reset.","MQM annotations:
+audience appropriateness errors:
+[Minor]: culture-specific reference - The phrase ""refer to the following method to reset"" may not be a common or natural way to express the idea of resetting headphones in the target audience's cultural context."
+416,耳机: 将耳机拿出充电盒， 在关机状态下， 分别长按两只耳机多功能键15 秒 ，至红白灯交替闪烁3 次后，松开并放回充电盒即可(清除耳机与手机的连授记录)。,"Earphones: Take the earphones out of the charging case, in the power-off state, long press the multi-function button of both earphones for 15 seconds respectively, until the red and white lights flash 3 times alternately, then release and put them back in the charging case (to clear the pairing record between the earphones and the phone).","MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""multi-function button"" may not be a familiar concept for some target audiences and could be better explained or rephrased in a more user-friendly way.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the phrase ""power-off state"" may sound too technical or formal for some target audiences. A more natural and conversational phrasing could be more appropriate."
+423,本严操的相关信息请查询销售网 : www micom,www.micom,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The URL ""www.micom"" is not a common or recognizable domain name for the target English-speaking audience, which may cause confusion."
+426,"以下功能左右耳机均可操作, 轻按一下来电时，接听电话; 通话或去电中，挂断电话音乐时，播放 /暂停音频 ,长按约1 秒释放","The following functions can be operated on both the left and right earphones: Tap once to answer a call when receiving a call; during a call or outgoing call, tap to hang up the phone; during music playback, tap to play/pause audio, long press for about 1 second to release.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The phrase ""tap to play/pause audio, long press for about 1 second to release"" may not be familiar or intuitive for some target audiences who are not accustomed to using touch-based controls on earphones."
+429,待机时， 开启语音助手(需设备支持语音功能且打开快速唤醒设置),"""While in standby mode, activate the voice assistant (requires device support for voice function and quick wake-up setting enabled).""","MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""voice assistant"" may not be a familiar concept for some target audiences, and a more culturally appropriate term may be needed."
+435,耳机基本参数,Headphone basic parameters,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""headphone"" may not be a common or familiar term in some cultures, and a more culturally appropriate term like ""earphones"" or ""earbuds"" may be preferred."
+438,输入参数:5V 二 100mA,"5V, 100mA","MQM annotations:
+audience appropriateness error:
+[Minor]: [WRONG LANGUAGE VARIETY] - The translation uses the term ""二"" (two) which is not a common way to express the number 2 in English. A more natural translation would be ""5V, 100mA""."
+439,单耳净重: 约 4.1g,Approximately 4.1g.,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The unit of measurement ""g"" (grams) may not be as familiar to some English-speaking audiences, who may be more accustomed to using imperial units like ounces."
+448,"1 请勿以任何理由拆开.维修或改装耳机, 否则可能会导致起火甚至彻底损坏本产品;","Please do not disassemble, repair or modify the headphones for any reason, as this may result in fire or complete damage to the product.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Please do not disassemble, repair or modify the headphones"" may sound overly formal or authoritative for a consumer product manual, which is typically written in a more conversational tone.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the phrase ""for any reason"" is more formal than typical consumer product language, which may not align with the expected style for the target audience."
+451,"4 请勿在雷暴天气下使用该设备, 雷暴可导致设备工作异常, 并增加触电的危险;","Please do not use this device during thunderstorms, as thunderstorms can cause the device to malfunction and increase the risk of electric shock.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""electric shock"" may not be culturally appropriate or easily understood by the target audience. A more common and less technical term could be used."
+453,6 请勿将本产品与液体接触。,Please do not expose this product to liquids.,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""Please do not expose this product to liquids"" may sound overly formal or unusual for the target audience, as it does not use more common language that would be more natural and appropriate."
+454,注意,"注意
+
+Attention.","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""Attention"" may not be a natural or common way to start a message in some cultures, where a more polite or contextual greeting would be more appropriate."
+457,"3 长时间连续使用耳机有损听力,请合理控制使用时间及音量 ;","3 Prolonged continuous use of headphones can damage hearing, please reasonably control usage time and volume.","MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The phrase ""please reasonably control usage time and volume"" may not be a common or natural way of expressing this concept in English. A more audience-appropriate phrasing could be ""we recommend limiting the use of headphones and keeping the volume at a moderate level""."
+471,"2 自您签收次日起 8 日-15日内, 本产品出现《Redmi AirDots 2 ee E 故障表》所列性能故障的情况, 经由小米售后服务中心检测确 定, 可","2 Within 8-15 days from the date of your receipt, if this product exhibits the performance faults listed in the ""Redmi AirDots 2 ee E Fault List"", and it is confirmed by the Xiaomi after-sales service center, you can.","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Redmi AirDots 2 ee E Fault List"" may not be familiar or meaningful to the target audience, as it refers to a specific product name and model that may not be widely recognized outside of the Chinese market.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""service center"" may not be the most appropriate term for the target audience, as it may be more common to use ""customer support"" or ""after-sales support"" in some cultural contexts."
+476,电牙耳机 ”2 通话过程中，对方听不到声音。,wireless earbuds,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""wireless earbuds"" may not be a familiar or common term for the target audience, and could be better translated using more culturally-appropriate terminology."
+480,2 已超过三包有效期;,2 has exceeded the three-warranty period.,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""three-warranty period"" may not be a common or understandable concept for the target English-speaking audience."
+487,欧盟峰会为难民政策争论，欧盟官员：接收过程步步瓶颈-中新网,"The EU summit is debating refugee policies, EU officials: the reception process is facing bottlenecks.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""refugee policies"" may not be a familiar concept for some target audiences and could benefit from additional context or explanation.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""the reception process is facing bottlenecks"" may sound more formal or technical than typical target language usage. A more natural phrasing could be used."
+488,欧盟峰会为难民政策争吵不休，欧盟官员：接收过程每一步都存在瓶颈,"The EU summit is embroiled in heated debates over refugee policies, EU officials: there are bottlenecks at every step of the reception process.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""bottlenecks"" may not be a common or easily understandable phrase for the target audience.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""reception process"" may not be the most natural or idiomatic way to refer to the process of accepting or handling refugees in the target language and cultural context."
+490,据报道，欧盟此举是对欧洲日益增长的非法移民问题关注的回应，如今，欧盟的核心问题在于，最终能被遣返的非法移民人数很少。,"According to reports, this move by the EU is a response to the growing problem of illegal immigration in Europe, as the core issue for the EU is that the number of illegal immigrants who can ultimately be deported is very small.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The core issue for the EU being ""the number of illegal immigrants who can ultimately be deported is very small"" may not be a widely understood concept in the target culture, as the specific challenges faced by the EU in dealing with illegal immigration may not be common knowledge."
+493,冯德莱恩一再表示，欧盟资金不会支付相关费用。,"The European Union's funds will not pay the relevant fees, as Ursula von der Leyen has repeatedly stated.","MQM annotations:
+audience appropriateness errors:
+[minor]: culture-specific reference - The term ""Ursula von der Leyen"" may not be familiar to all target audience members who are not closely following European politics."
+496,据欧盟委员会估计，欧盟的申根国家去年收到超92万份庇护申请，比前一年增加近半。,"According to the European Commission, the Schengen countries of the European Union received over 920,000 asylum applications last year, an increase of nearly 50% compared to the previous year.","MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Schengen countries"" may not be familiar to all target audience members who are not familiar with the European Union context.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""asylum applications"" may not be the most common or natural way to refer to this concept in the target language and cultural context."

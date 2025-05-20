@@ -1,0 +1,645 @@
+index,original,translated,accuracy_annotation
+8,עוד צוין כי תועדו בתקופה האחרונה פחות מ-20 ברדלסים בשבעה מחוזות שונים במדינה.,"According to the report, fewer than 20 cheetahs were documented in the last period in seven different districts in the country.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""cheetahs"" does not accurately reflect the meaning of the source text, which refers to ""ברדלסים"" (bardalsim), a type of animal that is not the same as cheetahs.
+[Minor]: accuracy/omission - The translation does not mention that the animals were ""documented"" in the last period, which is present in the source text."
+21,"לפני כמה שבועות, קיבלתי הזדמנות ראשונית לנסות את המוצר החדש, שזמין כרגע רק לנסיינים בודדים בארה""ב, כאן בישראל.","A few weeks ago, I had an initial opportunity to try the new product, which is currently available only to a few testers in the US, here in Israel.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""A few weeks ago, I had an initial opportunity to try the new product, which is currently available only to a few testers in the US, here in Israel"" does not fully reflect the meaning of the source text, which states that the new product is currently available only to a few testers in the US, but the translation indicates that it is available in Israel as well."
+23,"אחרי שבועיים של השתעשעות, הבנתי כיצד ה-Car Thing יכול להפוך בקלות לחלק בלתי נפרד מהמערכת של אנשים רבים.","After two weeks of playing around, I understood how the Car Thing can easily become an integral part of many people's system.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source Hebrew text. There are no accuracy errors identified."
+26,"אי שם בשנת 2018, משתמשי ספוטיפיי החלו לקבל הצעה מעניינת בתיבת האימייל שלהם - אפשרות לרכוש מכשיר חדש עם שליטה קולית וחיבוריות דור רביעי, שיהפוך כל מערכת ישנה לרכב לחכמה.","Somewhere in 2018, Spotify users began receiving an interesting offer in their email inbox - an option to purchase a new device with voice control and 4G connectivity, which will turn any old system into a smart car.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""turn any old system into a smart car"" does not accurately reflect the meaning of the source text, which is about turning any old system into a smart system with voice control and 4G connectivity.
+[Minor]: accuracy/addition - The translation ""in their email inbox"" adds unnecessary detail that is not present in the source text."
+56,"מסך הבית מוכר לכל המשתמשים באפליקציה, שכן כמו היישום בסמארטפון, הוא שם דגש על תמונות האלבומים ורשימות ההשמעה.","The home screen is available to all users of the app, as like the mobile app, it emphasizes album photos and playlists.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""available to all users"" does not fully capture the meaning of the source text ""מסך הבית מוכר לכל המשתמשים"", which implies that the home screen is familiar or known to all users, rather than just being available to them.
+[Minor]: accuracy/addition - The phrase ""as like the mobile app"" is not present in the source text and does not significantly improve the translation."
+60,"באמצעותה, תוכלו להפעיל שירים, פלייליסטים, אלבומים ואפילו לחפש פודקאסטים.","You can use it to play songs, playlists, albums, and even search for podcasts.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""You can use it to play songs, playlists, albums, and even search for podcasts"" does not fully capture the meaning of the source text ""באמצעותה, תוכלו להפעיל שירים, פלייליסטים, אלבומים ואפילו לחפש פודקאסטים."" The source text suggests that the ""it"" refers to a specific device or platform that can be used to perform those actions, while the translation does not convey this context.
+[Minor]: none"
+72,"השאלה הזו מתחזקת בעת התחשבות בכך שמכשירי אייפון ואנדרואיד חזקים בהרבה מזה של ספוטיפיי, וברוב הפעמים יקנו למשתמש הרבה יותר פונקציונליות.","The question is strengthened by the fact that iPhone and Android devices are much stronger than Spotify, and in most cases will provide the user with much more functionality.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""iPhone and Android devices are much stronger than Spotify"" does not accurately reflect the meaning of the source text, which states that these devices are ""much stronger"" in terms of functionality compared to Spotify.
+[Minor]: accuracy/addition - The phrase ""in most cases will provide the user with much more functionality"" is not present in the source text and is an addition by the translator."
+96,זה לא סוד - שיתוף ומוכנות הארגון |,This is no secret - the organization's sharing and readiness.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""the organization's sharing and readiness"" does not fully capture the meaning of the source text ""שיתוף ומוכנות הארגון"", which is more accurately translated as ""the organization's cooperation and preparedness"".
+[Minor]: none"
+105,הסקרנות מקדמת |,Curiosity promotes.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Curiosity promotes"" does not fully capture the meaning of the source text ""הסקרנות מקדמת"", which could be more accurately translated as ""Curiosity advances"" or ""Curiosity furthers"".
+[Minor]: none"
+114,"העלות הכלכלית בגין אי־סגירת התחנות הפחמיות במועד שנקבע ביוני 2022 מוערכת בכמיליארד שקלים עבור שנת 2022, כך חושף דו""ח של מרכז המחקר והמידע של הכנסת.","The economic cost of not closing the coal-fired power stations by the date set in June 2022 is estimated at around one billion shekels for the year 2022, as revealed in a report by the Knesset Research and Information Center.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds the phrase ""around one billion shekels"" which is not present in the source text.
+[Minor]: [accuracy/mistranslation] - The translation uses ""coal-fired power stations"" instead of the more precise ""coal power stations"" used in the source text.
+[Minor]: [accuracy/mistranslation] - The translation uses ""the date set in June 2022"" instead of the more precise ""the date set in June 2022"" used in the source text."
+126,בכמה יתייקר התשלום על המשכנתא?,The payment on the mortgage will increase by how much?,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""The payment on the mortgage will increase by how much?"" does not precisely reflect the meaning of the source text ""בכמה יתייקר התשלום על המשכנתא?"", which asks about the amount by which the mortgage payment will increase, rather than the amount of the increase.
+[Minor]: none"
+132,"זאת, לאחר שבמשך שנים הריבית במשק היתה קרובה לאפס.","This, after for years the interest rate in the economy was close to zero.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""This, after for years the interest rate in the economy was close to zero"" does not fully capture the meaning of the source text ""זאת, לאחר שבמשך שנים הריבית במשק היתה קרובה לאפס."" The translation misses the nuance that the interest rate was close to zero for years.
+[Minor]: none"
+137,בכמה התייקרה המשכנתא הממוצעת מתחילת השנה?,The average mortgage has increased by how much since the beginning of the year?,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""The average mortgage has increased by how much since the beginning of the year?"" does not fully reflect the meaning of the source text ""בכמה התייקרה המשכנתא הממוצעת מתחילת השנה?"", which asks about the amount by which the average mortgage has increased since the beginning of the year.
+[Minor]: none"
+142,מסלול הריבית המשתנה צמודת מדד (26.7% במסלול הזה) ישלים התייקרות של כ־120 שקלים.,The variable interest rate track linked to the index (26.7% in this track) will complete an increase of approximately 120 shekels.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""will complete an increase of approximately 120 shekels"" does not fully reflect the meaning of the source text, which indicates that the variable interest rate track linked to the index will increase by approximately 120 shekels.
+[Minor]: accuracy/addition - The translation includes the phrase ""in this track"", which is not present in the source text."
+150,לגבי רוכשי דירות מקבלן - צרור ממליץ להקדים תשלומים לקבלן ולקחת משכנתא כעת.,Regarding apartment buyers from a contractor - it is recommended to make advance payments to the contractor and take a mortgage now.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""make advance payments to the contractor and take a mortgage now"" does not fully reflect the meaning of the source text, which recommends making advance payments to the contractor and taking a mortgage at the present time.
+[Minor]: none"
+163,"כמו כן, החל מ-10 באוגוסט, תיקבע הפחתה נוספת של עוד חצי שקל, כך שרק ממועד זה מחירו של ליטר בנזין יפחת בשקל אחד וזאת עד ל-15 בנובמבר 2022.","Also, starting from August 10, an additional reduction of half a shekel will be set, so that only from that date the price of a liter of gasoline will decrease by one shekel, and this until November 15, 2022.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/omission] - The translation omits the information about the additional reduction of half a shekel in the price of gasoline starting from August 10.
+[Minor]: [accuracy/mistranslation] - The translation ""the price of a liter of gasoline will decrease by one shekel"" does not precisely reflect the meaning of the source text, which states that the price will decrease by one shekel from the date of the additional reduction (August 10).
+[Minor]: [accuracy/mistranslation] - The translation ""until November 15, 2022"" does not fully capture the meaning of the source text, which specifies ""until November 15, 2022."""
+172,"למחיר הדלק יש השפעה דרמטית על יוקר המחיה במשק - משום שהוא משפיע גם על הוצאות משקי הבית וגם על הוצאות העסקים, על מחירי התחבורה הציבורית והטיסות, על עלויות ההובלה ועוד.","The price of fuel has a dramatic impact on the cost of living in the economy - as it affects both household expenses and business expenses, the prices of public transportation and flights, transportation costs, and more.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""the prices of public transportation and flights"" does not fully capture the meaning of the source text, which mentions the impact on ""the prices of public transportation and flights"" as well as ""transportation costs"".
+[Minor]: [accuracy/addition] - The translation ""on the cost of living in the economy"" adds the phrase ""in the economy"", which is not present in the source text."
+178,אשדוד היא העיר הידידותית ביותר לעסקים קטנים ובינוניים.,Ashdod is the most business-friendly city for small and medium-sized enterprises.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""the most business-friendly city for small and medium-sized enterprises"" does not fully capture the meaning of the source text, which states that Ashdod is ""the most friendly city for small and medium-sized businesses.""
+[Minor]: none"
+181,"אחריהן ממוקמות לפי הסדר: אשקלון, ראשון לציון, תל אביב־יפו, חיפה, רמת גן, חולון, באר שבע, ירושלים, בת ים, נתניה ובני ברק.","Ashkelon, Rishon LeZion, Tel Aviv-Jaffa, Haifa, Ramat Gan, Holon, Beersheba, Jerusalem, Bat Yam, Netanya, and Bnei Brak.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/omission] - The translation omits the order of the cities listed in the source text."
+182,הסוכנות עורכת את מדד הרשויות המקומיות.,The agency conducts the index of local authorities.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""conducts the index of local authorities"" does not fully capture the meaning of the source text, which is that the agency ""compiles/publishes the index of local authorities"".
+[Minor]: none"
+198,"פיתוח העסקים הקטנים הוא אינטרס ציבורי של כולנו, אולם לרשות המקומית יש השפעה ישירה על העסקים שנמצאים בה.","The development of small businesses is a public interest of all of us, but the local authority has a direct influence on the businesses located within it.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""the local authority has a direct influence on the businesses located within it"" does not fully capture the meaning of the source text, which states that the local authority has a direct influence on the businesses located within its jurisdiction.
+[Minor]: none"
+199,"הקורונה הדגישה את חשיבותו של השלטון המקומי וראינו כי רשויות שפעלו ועודדו את קידום העסקים הקטנים ומצאו פתרונות יצירתיים עבורם, הפכו לממשק השלטוני הראשון עבורם"".","The coronavirus has highlighted the importance of local government, and we have seen that authorities that have acted and encouraged the promotion of small businesses and found creative solutions for them have become the primary governmental interface for them.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""the primary governmental interface for them"" does not fully capture the meaning of the source text, which states that the authorities that have acted and encouraged small businesses have become ""the primary governmental interface for them"".
+[Minor]: [accuracy/addition] - The translation ""and we have seen that"" is an addition not present in the source text."
+200,"רן קויתי, מנהל הסוכנות לעסקים קטנים ובינוניים במשרד הכלכלה והתעשייה, מוסיף: ""לרשויות המקומיות חלק מרכזי ומהותי ביכולתם של עסקים בתחומן לשגשג ולפרוח.","Ran Kfir, the director of the Small and Medium Business Agency at the Ministry of Economy and Industry, adds: ""Local authorities have a central and essential role in the ability of businesses within their jurisdiction to thrive and flourish.""","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Local authorities have a central and essential role in the ability of businesses within their jurisdiction to thrive and flourish"" does not fully capture the meaning of the source text, which states that local authorities have a ""central and essential"" role in the ability of businesses within their jurisdiction to ""thrive and flourish"".
+[Minor]: None"
+201,"בשנתיים האחרונות, שבהן אנו מתמודדים עם משבר הקורונה, לרשויות משקל גדול יותר בסיוע לעסקים לשרוד בתחומן ולשרוד בכלל"".","In the last two years, during which we have been dealing with the coronavirus crisis, the authorities have had a greater weight in assisting businesses to survive within their field and to survive in general.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""the authorities have had a greater weight in assisting businesses to survive within their field and to survive in general"" does not fully capture the meaning of the source text, which states that the authorities have had a greater role in assisting businesses to survive the coronavirus crisis.
+[Minor]: [accuracy/addition] - The translation adds the phrase ""in general"" which is not present in the source text."
+217,"יותר חבילות הגיעו בדצמבר מבכל חודש אחר, ככל הנראה בעקבות חגי הקניות של נובמבר, דוגמת יום הרווקים הסיני, בלאק פריידי וסייבר מאנדיי.","More packages arrived in December than in any other month, likely due to the November shopping holidays, such as Singles' Day in China, Black Friday, and Cyber Monday.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""More packages arrived in December than in any other month, likely due to the November shopping holidays, such as Singles' Day in China, Black Friday, and Cyber Monday"" does not fully reflect the meaning of the source text. The source mentions that more packages arrived in December compared to any other month, likely due to the November shopping holidays, but the translation does not specify that the increase in packages was ""more"" compared to other months.
+[Minor]: [accuracy/addition] - The translation adds the phrase ""in any other"" which is not present in the source text."
+220,"לשכירים רבים מגיע כסף מהמדינה, שיכול להגיע לעשרות אלפי שקלים •","For many employees, money from the state is due, which can amount to tens of thousands of shekels.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""money from the state is due"" does not fully capture the meaning of the source text, which indicates that many employees are entitled to receive money from the state, which can amount to tens of thousands of shekels.
+[Minor]: none"
+221,שיניתם מקום עבודה?,You changed your job?,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""You changed your job?"" does not accurately reflect the meaning of the source text ""שיניתם מקום עבודה?"", which is asking if the person has changed their workplace, not necessarily their job.
+[Minor]: none"
+223,עברתם מהעיר ליישוב?,You moved from the city to the settlement?,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""settlement"" does not accurately reflect the meaning of the Hebrew word ""יישוב"", which refers to a type of rural community or village, rather than a ""settlement"" which has political connotations."
+249,100% מהעוברים לישוב מזכה קיבלו החזר מס על שנת המעבר היות ואישור על תושבות בישוב מזכה ניתנת רק לאחר 12 חודשים מיום הפיכת התושב לתושב מזכה ובכך למעשה השנה הראשונה משולם מס מלא.,"100% of the residents who moved to the eligible settlement received a tax refund for the year of the move, since approval for residency in the eligible settlement is only granted after 12 months from the date the resident became an eligible resident, and thus, the first year is paid in full tax.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""100% of the residents who moved to the eligible settlement received a tax refund for the year of the move"" does not fully capture the meaning of the source text, which states that 100% of the residents who moved to the eligible settlement received a tax refund for the year of the move because approval for residency in the eligible settlement is only granted after 12 months.
+[Minor]: accuracy/omission - The translation does not mention that the first year is paid in full tax, which is present in the source text."
+253,שיעור ההחזר יכול להגיע לעשרות אלפי שקלים לאורך 6 שנים.,The return rate can reach tens of thousands of shekels over 6 years.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The return rate can reach tens of thousands of shekels over 6 years"" does not fully capture the meaning of the source text, which states that the return rate ""can reach tens of thousands of shekels over 6 years"". The translation does not convey the idea of the return rate reaching that level.
+[Minor]: none"
+255,"מנכ״ל tax:on, טל כרמון: ""משבר הקורונה גרם לכך שציבור השכירים בישראל הפך להרבה יותר אקטיבי.","""The COVID-19 crisis has led to the salaried public in Israel becoming much more active.""","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""The COVID-19 crisis has led to the salaried public in Israel becoming much more active"" does not fully reflect the meaning of the source text, which states that the COVID-19 crisis has made the salaried public in Israel more active.
+[Minor]: none"
+256,"הוא מתעניין, בודק ודורש את מה שמגיע לו בהחזרים ממס הכנסה.","He is interested, checking and demanding what is due to him in tax refunds.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""checking and demanding"" does not fully capture the nuance of the source text, which indicates that the person is ""interested, examining and inquiring about"" what is due to him in tax refunds.
+[Minor]: none"
+264,"לפי הדו""ח, מחפשי העבודה התעניינו בעיקר בתחומים רוויי משרות כמו אדמיניסטרציה ומכירות, שלגביהן נשלחו 1,738,485 קורות חיים.","According to the report, job seekers were primarily interested in fields with abundant job openings, such as administration and sales, for which 1,738,485 resumes were submitted.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""fields with abundant job openings"" does not fully capture the meaning of the source text ""רוויי משרות"", which refers to fields that are saturated or oversaturated with job openings.
+[Minor]: none"
+268,"השכר החודשי בתחום התוכנה היה 17,915 שקלים בממוצע, ובניתוח מערכות מידע הוא עמד על 17,140 שקלים.","The average monthly salary in the software field was 17,915 shekels, and in the field of information systems analysis it stood at 17,140 shekels.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately reflects the meaning of the source text. There are no accuracy errors in the translation."
+276,ההיצע הגדול ביותר היה למשרות ללא ניסיון - וכאלה היו יותר מ-58 אלף באתר.,"The largest supply was for positions without experience - and there were more than 58,000 of those on the site.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""the largest supply was for positions without experience"" does not fully capture the meaning of the source text, which states that ""the largest supply was for positions without experience - and there were more than 58,000 of those on the site."" The translation omits the specific details about the number of positions without experience.
+[Minor]: [accuracy/addition] - The translation ""the largest supply was for positions without experience"" adds the word ""the"" which is not present in the source text.
+[Minor]: [accuracy/addition] - The translation ""and there were more than 58,000 of those on the site"" adds the phrase ""on the site"" which is not explicitly stated in the source text."
+286,"במילים אחרות, מדובר ב- 193 אלף לא מועסקים לעומת 180.3 אלף.","193,000 unemployed compared to 180.3 thousand.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""193,000 unemployed compared to 180.3 thousand"" does not accurately reflect the meaning of the source text ""במילים אחרות, מדובר ב- 193 אלף לא מועסקים לעומת 180.3 אלף."" The source text is stating that there are 193,000 unemployed compared to 180.3 thousand, not that the numbers are 193,000 and 180.3 thousand."
+289,"מאלה שבכוח העבודה 95.5% המהווים 4,059,700 הם מועסקים והשאר בלתי מועסקים.","95.5% of the labor force, constituting 4,059,700 people, are employed, and the rest are unemployed.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""95.5% of the labor force, constituting 4,059,700 people, are employed, and the rest are unemployed"" does not precisely reflect the meaning of the source text ""מאלה שבכוח העבודה 95.5% המהווים 4,059,700 הם מועסקים והשאר בלתי מועסקים."" The source text indicates that 95.5% of the labor force, which is 4,059,700 people, are employed, and the rest are unemployed. The translation does not clearly convey that the 95.5% figure refers to the employed portion of the labor force.
+[Minor]: no-error"
+295,"הסקר מאפשר מעקב אחר ההתפתחות בכוח העבודה, גודלו ותכונותיו, היקף האבטלה ועוד.","The survey allows for monitoring the development of the labor force, its size and characteristics, the extent of unemployment, and more.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source Hebrew text. There are no accuracy errors identified."
+301,הקידוש והמסורת הם שורש מאוד עמוק בנשמה שלי.,The sanctity and tradition are a very deep root in my soul.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""The sanctity and tradition are a very deep root in my soul"" does not fully capture the meaning of the source text, which is more accurately translated as ""The sanctity and tradition are a very deep root in my soul.""
+
+[Minor]: None
+
+The translation accurately conveys the meaning of the source text, with no significant accuracy errors."
+302,"ימי שישי אצלי מוקדשים לילדים, אור (10) ויונתן (8).","Fridays are dedicated to my children, Or (10) and Yonatan (8).","MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source Hebrew text. There are no accuracy errors identified."
+310,"כשאנחנו מגיעים לחמותי, כבר מלובי הבניין עולים ריחות מדהימים מהדירה שלה.",The smells from her apartment are amazing even from the building lobby.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The smells from her apartment are amazing even from the building lobby"" does not fully capture the meaning of the source text, which indicates that the amazing smells can be detected even from the building lobby, suggesting they are very strong or pervasive.
+[Minor]: none"
+316,כל פינה נידחת בארץ עשתה לו גאווה בלב.,Every remote corner of the land has made for itself a pride in the heart.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""has made for itself a pride in the heart"" does not fully capture the meaning of the source text ""עשתה לו גאווה בלב"", which conveys the idea that every remote corner of the land has developed a sense of pride or importance within itself.
+[Minor]: accuracy/addition - The translation ""Every remote corner of the land"" adds the word ""Every"" which is not present in the source text ""כל פינה נידחת בארץ""."
+323,שבוע־שבועיים לפני יום העצמאות כבר הייתי מטפס על עצים וקושר לבית חוטים עם דגלי ישראל.,"Two weeks before Independence Day, I was already climbing trees and tying strings with Israeli flags to the house.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""Two weeks before Independence Day"" is translated as ""שבוע־שבועיים לפני יום העצמאות"" which means ""One week to two weeks before Independence Day"", not precisely reflecting the meaning of the source text.
+[Minor]: accuracy/addition - ""already"" is added in the translation, which is not present in the source text."
+348,"""הייתי פותחת שולחן גדול ומזמינה את 'המתים שלי'.","""I would set a large table and invite my 'dead ones'.""","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""my 'dead ones'"" does not accurately reflect the meaning of the source text ""את 'המתים שלי'"", which refers to the speaker inviting their deceased loved ones.
+[Minor]: none"
+349,"לפעמים אני מדמיינת מה היה אילו אחי דניאל ז""ל היה בחיים, או אם אבא שלי, שניאור ז""ל, היה רואה את הילדים שלי: אוריאל (23) והתאומות תמרה ונעמה (16 וחצי).","Sometimes I imagine what it would have been like if my brother Daniel, may his memory be a blessing, were still alive, or if my father, Shneur, may his memory be a blessing, had seen my children: Uriel (23) and the twins Tamar and Naama (16 and a half).","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""may his memory be a blessing"" does not accurately reflect the meaning of the Hebrew phrase ""ז""ל"" which is a common abbreviation for ""zichrono livracha"" meaning ""may his memory be a blessing"".
+[Minor]: [accuracy/mistranslation] - The translation ""the twins Tamar and Naama (16 and a half)"" does not accurately reflect the meaning of the Hebrew ""התאומות תמרה ונעמה (16 וחצי)"" which refers to the twins Tamar and Naama who are 16 and a half years old."
+364,"ביבי תשחק בתפקיד נועה, שאותו גילמה דפנה ארמוני.","Bibi will play the role of Noam, which was portrayed by Dafna Armoni.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The name ""Noam"" is incorrectly translated as the name ""Noea"", which was portrayed by Dafna Armoni in the source text.
+[Minor]: accuracy/mistranslation - The name ""Bibi"" is used in the translation, but it is unclear if this refers to the same person as in the source text."
+371,את הידיעה המשמחת חלקה אתמול בערב (שישי) לופז עם מעריציה באתר הרשמי שלה onthejlo.com,The joyful news was shared yesterday evening (Friday) by Lopez with her fans on her official website onthejlo.com.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""The joyful news"" does not accurately reflect the meaning of ""את הידיעה המשמחת"" which is more accurately translated as ""The happy/good news"".
+[Minor]: accuracy/addition - ""by Lopez with her fans"" is an addition not present in the source text."
+390,"עכשיו אנחנו יותר חשופות, פונות ישירות למצלמה באופן טבעי, לא רק ריאליטי אלא סדרה דוקומנטרית אותנטית"".","""Now we are more exposed, turning directly to the camera in a natural way, not just reality but an authentic documentary series.""","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""now we are more exposed, turning directly to the camera in a natural way, not just reality but an authentic documentary series"" does not fully reflect the meaning of the source text, which states that ""now we are more exposed, turning directly to the camera in a natural way, not just reality but an authentic documentary series"".
+[Minor]: none"
+402,אינדינגב בניחוח בינלאומי: אפגן וויגז מצטרפים אל אביתר בנאי ונגה ארז,In an international scent: Afghan Wigs join Avner Benayoun and Noga Erez.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""Afghan Wigs"" is a mistranslation of ""אפגן וויגז"", which should be translated as ""Afghan Rugs"".
+[Minor]: accuracy/addition - The addition of ""join"" is not present in the source text.
+[Minor]: accuracy/mistranslation - ""Avner Benayoun"" should be translated as ""Avitar Banai""."
+407,"אינדינגב החל את דרכו בשנת 2007 כאירוע נישתי קטן, שאיגד את השמות החמים בסצנת האינדי הישראלית.","Indignation began its journey in 2007 as a small niche event, which brought together the hot names in the Israeli indie scene.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""began its journey"" does not fully capture the meaning of the source text ""החל את דרכו"", which implies the start or origin of Indignation.
+[Minor]: accuracy/addition - The translation ""brought together the hot names"" adds the word ""hot"" which is not present in the source text."
+409,אביב גפן ושרית חדד: פסטיבל חוצות היוצר בירושלים בהפתעות חדשות,Aviv Geffen and Sarit Hadad: The Creator's Corners Festival in Jerusalem with new surprises.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""The Creator's Corners Festival in Jerusalem"" does not fully capture the meaning of the source text, which refers to the ""Creator's Corners Festival in Jerusalem with new surprises.""
+[Minor]: [accuracy/addition] - The translation adds the word ""with"" which is not present in the source text."
+410,"הפסטיבל הבינלאומי בבירה, שהפך למסורת ויתקיים במספר מוקדים יציג מופעים מוזיקליים של אמנים מקומיים מובילים, וישלב מופעי קרקס ומיצגים אמנותיים חדשניים ומפתיעים","The international festival in the capital, which has become a tradition and will take place in several focal points, will feature musical performances by leading local artists, and will combine circus acts and innovative and surprising artistic exhibits.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""will feature musical performances by leading local artists"" does not fully capture the meaning of the source text, which states that the festival ""will feature musical performances of leading local artists"".
+[Minor]: [accuracy/addition] - The translation ""and will combine circus acts and innovative and surprising artistic exhibits"" adds the word ""and"" which is not present in the source text."
+417,"SPARKS הוא מופע קרקס, תנועה וריחוף אווירי של קרקס Y, תערוכת צילום אינסטגרמית בהשראת יצירות אמנות מפורסמות.","SPARKS is a circus performance, a circus Y aerial movement and levitation, an Instagram photo exhibition inspired by famous works of art.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""a circus Y aerial movement and levitation"" does not accurately reflect the meaning of the source text ""תנועה וריחוף אווירי של קרקס Y"", which refers to an aerial performance or act of the circus Y.
+[Minor]: accuracy/addition - The translation ""an Instagram photo exhibition"" adds the detail ""Instagram"" which is not present in the source text."
+418,"The Black Box Gallery – היא גלריית ההצצה של היוצר והמבצע ליאור כלפון, שתוצב ברחבת היריד עם חורי הצצה שיחשפו את הקהל לתערוכת יצירותיו הזרחניות של ליאור כלפון, יצירות אמנות של פסלים מוארים של האמן הרב תחומי אלון בירגר (תיאטרון האור) ועוד.","The Black Box Gallery - it is the peephole gallery of the creator and performer Lior Kalfon, which will be placed in the fairground with peepholes that will expose the audience to the fluorescent works of Lior Kalfon, artworks of illuminated sculptures by the multidisciplinary artist Alon Birger (Light Theater) and more.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The translation accurately conveys the meaning of the source text. There are no significant accuracy errors."
+444,.,"Here is the translation from Hebrew to English:
+
+The quick brown fox jumps over the lazy dog.","MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The translation ""The quick brown fox jumps over the lazy dog"" accurately reflects the meaning of the source text in Hebrew. There are no accuracy errors in this translation."
+446,"היא מרוויחה על קמפיינים יותר מוונדר וומן, היא יפה מדי, היא יודעת להעמיד במקום את דנה ויס, וכשצריך - גם לסנגר על השותף העסקי שלה.","She earns more from campaigns than Wonder Woman, she is too beautiful, she knows how to put Dana Weiss in her place, and when needed - she also defends her business partner.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""She earns more from campaigns than Wonder Woman"" does not accurately reflect the meaning of the source text, which states that she earns more than Wonder Woman from campaigns.
+[Minor]: accuracy/mistranslation - ""she is too beautiful"" is a more literal translation of ""היא יפה מדי"", which could be better translated as ""she is overly beautiful"".
+[Minor]: accuracy/mistranslation - ""she knows how to put Dana Weiss in her place"" does not fully capture the meaning of ""היא יודעת להעמיד במקום את דנה ויס"", which suggests a more assertive or confrontational action towards Dana Weiss.
+[Minor]: accuracy/mistranslation - ""she also defends her business partner"" is a slightly different interpretation of ""וכשצריך - גם לסנגר על השותף העסקי שלה"", which implies that she defends her business partner when necessary."
+457,כאן מחפשים גיבורי־על.,Here we search for superheroes.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The translation ""superheroes"" does not precisely reflect the meaning of the source text ""גיבורי־על"" which refers to ""superheroes"" or ""heroes"" in a more general sense."
+465,"תגידו: ספונג'ה וניקיונות, סירים על הגז וריחות בחדר המדרגות, ירון אילן או אבי כאכון בטלוויזיה, אבל הכי מוזר יהיה אם מישהו יגיד פתאום ""גיל ססובר"".","Sponge and cleaning, pots on the stove and smells in the stairwell, Yaron Eilan or Avi Kochavi on television, but the strangest thing would be if someone suddenly said ""Gil Sossover"".","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - ""Sponge and cleaning, pots on the stove and smells in the stairwell"" does not fully capture the meaning of the source text ""תגידו: ספונג'ה וניקיונות, סירים על הגז וריחות בחדר המדרגות"".
+[Minor]: [accuracy/mistranslation] - ""Yaron Eilan or Avi Kochavi on television"" is a slightly different phrasing compared to the source ""ירון אילן או אבי כאכון בטלוויזיה"".
+[Major]: [accuracy/mistranslation] - ""the strangest thing would be if someone suddenly said 'Gil Sossover'"" does not accurately reflect the meaning of the source ""אבל הכי מוזר יהיה אם מישהו יגיד פתאום ""גיל ססובר""""."
+468,לאורך מחצית ממנה - ססובר עומד.,Along half of it - Susover stands.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Susover stands"" does not accurately reflect the meaning of the source text ""ססובר עומד"" (Susover is standing).
+[Minor]: [accuracy/omission] - The translation does not include the full meaning of the source text ""לאורך מחצית ממנה"" (Along half of it)."
+477,"רותי רוסו בתגובה: ""שמחה שיש מקומות שמשקיעים יותר בקולינריה של אוכלוסייה זו"".","""I'm glad there are places that invest more in the cuisine of this population.""","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""I'm glad there are places that invest more in the cuisine of this population"" does not fully capture the meaning of the source text, which is more positive and expresses gladness that there are places investing more in the cuisine of this particular population.
+[Minor]: none"
+481,בישראל בשנים האחרונות יותר ויותר משפחות ואנשים מבוגרים מבינים כי בדידות זו המחלה הקשה ביותר בגיל מבוגר ורואים במקומות הקהילתיים כפתרון מוכח למחלה.,"In recent years in Israel, more and more families and older people understand that loneliness is the most severe illness in old age, and they see community places as a proven solution to this illness.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""understand that loneliness is the most severe illness in old age"" does not fully capture the meaning of the source text, which states that more and more families and older people in Israel understand that loneliness is the most severe illness in old age.
+[Minor]: [accuracy/addition] - The translation ""they see community places as a proven solution to this illness"" adds the word ""proven"" which is not present in the source text."
+483,מרבית בתי הדיור המוגן נעזרים בשפים מקצועיים על מנת לבנות תפריט.,Most assisted living facilities rely on professional chefs to build their menu.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""assisted living facilities"" does not fully capture the meaning of ""בתי הדיור המוגן"" (sheltered housing/protected housing), which refers to a specific type of housing for the elderly in Israel.
+[Minor]: [accuracy/addition] - The translation ""rely on professional chefs to build their menu"" adds the detail of ""professional chefs"" which is not present in the source text."
+487,"אני מכבדת את עבודתם הקשה של טבחים, טבחיות, שפיות ושפים בכל מקום, גם בדיור המוגן"".","""I respect the hard work of cooks, chefs, and food preparers everywhere, even in assisted living facilities.""","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source Hebrew text. There are no accuracy errors identified."
+491,"הזמר בתגובה: ""הפלישה לאוקראינה שונה מאוד מהקונפליקט הישראלי-פלשתיני","The singer in response: ""The invasion of Ukraine is very different from the Israeli-Palestinian conflict.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The invasion of Ukraine is very different from the Israeli-Palestinian conflict"" does not fully reflect the meaning of the source text, which states that ""The singer in response: 'The invasion of Ukraine is very different from the Israeli-Palestinian conflict'"". The translation omits the fact that this is a response from a singer."
+518,"לבקשת שר הבריאות ניצן הורוביץ, ימשיך במקביל בתפקידו כפרויקטור.","At the request of Health Minister Nitzan Horowitz, he will continue in parallel in his role as a project manager.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""he will continue in parallel in his role as a project manager"" does not fully reflect the meaning of the source text, which states that Nitzan Horowitz will continue in his role as a ""project manager"" (פרויקטור).
+[Minor]: none"
+527,"דו""ח מבקר המדינה: התקציב בפועל ברוב שנות פעילות ועדת סל התרופות – קטן מהתקציב המומלץ",The State Comptroller's report: The actual budget in most years of the activity of the Drug Basket Committee - is smaller than the recommended budget.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/omission - The actual budget in most years of the activity of the Drug Basket Committee is not mentioned in the translation.
+[Minor]: no-error
+
+The translation accurately conveys the meaning of the source text, with the exception of omitting the information about the actual budget being smaller than the recommended budget. This is a major accuracy error as it leaves out a key detail from the source."
+528,"על פי הדו""ח של מתניהו אנגלמן, במשך יותר מ-20 שנות פעילות הסל – משרד הבריאות לא פיקח על פעילות הוועדה •","According to the report of Matanyahu Englman, for more than 20 years of activity of the Sal - the Ministry of Health did not supervise the activity of the committee.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/omission] - The translation omits the mention of ""the Sal - the Ministry of Health"" from the source text, which is an important detail.
+[Minor]: [accuracy/mistranslation] - The translation uses ""the committee"" instead of ""the Sal - the Ministry of Health"", which does not precisely reflect the meaning of the source text."
+532,ועדת סל התרופות היא אחת הוועדות הציבוריות המשפיעות ביותר על חיי היומיום שלנו ועל בריאותנו.,The Drugs Basket Committee is one of the most influential public committees on our daily lives and our health.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source Hebrew text. There are no significant accuracy errors identified."
+535,"על פי הדו""ח של מתניהו אנגלמן, הוא ממליץ ""לבצע בתהליך הרחבת הסל תיקונים ושיפורים, שיביאו למיצוי איכותי יותר של תקציב סל שירותי הבריאות שהציבור זכאי לו"".","According to the report by Matanyahu Engelmann, he recommends ""to carry out corrections and improvements in the process of expanding the basket, which will lead to a more qualitative realization of the budget for the health services basket to which the public is entitled.""","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""to carry out corrections and improvements in the process of expanding the basket"" does not fully capture the meaning of the source text, which is recommending ""to carry out corrections and improvements in the process of expanding the basket, which will lead to a more qualitative realization of the budget for the health services basket to which the public is entitled.""
+[Minor]: accuracy/addition - The translation ""which will lead to a more qualitative realization of the budget"" adds additional information that is not present in the source text."
+539,"ברוב שנות פעולת הוועדה (90% מהזמן), גובה התוספת התקציבית היה קטן מ-1.5% של סל הבריאות, שיעור שהומלץ על ידי ועדות שונות כשיעור התוספת הרצוי.","The budgetary supplement was less than 1.5% of the health basket, a rate recommended by various committees as the desired supplement rate.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""The budgetary supplement was less than 1.5% of the health basket"" does not fully reflect the meaning of the source text, which states that the budgetary supplement was ""small"" (קטן) compared to the recommended 1.5% rate.
+[Minor]: no-error"
+559,אנגלמן ממליץ למשרד הבריאות לעדכן את נהלי עבודת הסל וגם לקבוע האם יש צורך בתוספת כספית נפרדת עבור שירותים אלו.,Angelman recommends to the Ministry of Health to update the basket work procedures and also to determine whether there is a need for a separate financial supplement for these services.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Angelman recommends to the Ministry of Health to update the basket work procedures and also to determine whether there is a need for a separate financial supplement for these services"" does not fully capture the meaning of the source text, which states that Angelman recommends updating the procedures for the ""basket"" (of health services) and determining if a separate financial supplement is needed for these services.
+[Minor]: [accuracy/addition] - The translation adds the word ""work"" to ""basket procedures"", which is not present in the source text."
+581,"ד""ר נעמה נוס אחראית אפדימיולוגיה לשכת הבריאות בת""א ציינה כי ""אנחנו לא יכולים לקבוע חד משמעית ממה שלושת הידיירים נפטרו.","Dr. Naama Nus, the epidemiologist at the Tel Aviv Health Office, stated that ""we cannot definitively determine what the three deceased died from.""","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""we cannot definitively determine what the three deceased died from"" does not fully reflect the meaning of the source text, which states that the epidemiologist ""cannot determine definitively what the three deceased died from.""
+[Minor]: None"
+593,"יגאל נחתומי, מנכ""ל בית אקשטיין שמנהל את המעון ואף ניהל את המעון בעצמו אמר ""מאות ואלפי אנשים בכל המערך קמים רק במטרה אחת: לעשות טוב לאנשים.","Yigal Nachshoni, CEO of Beit Ekshtein, who manages the shelter and even managed the shelter himself, said ""Hundreds and thousands of people throughout the system are getting up for only one purpose: to do good for people.""","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Yigal Nachshoni"" does not accurately reflect the source text ""יגאל נחתומי"". The name should be translated as ""Yigal Nachshomi"" to match the source.
+[Minor]: [accuracy/addition] - The translation ""who manages the shelter and even managed the shelter himself"" adds additional details not present in the source text."
+595,את אחת הדיירות הרדמתי על הידיים.,I carried one of the tenants on my hands.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""I carried one of the tenants on my hands"" does not accurately reflect the meaning of the source text ""את אחת הדיירות הרדמתי על הידיים"", which means ""I put one of the tenants to sleep on my hands""."
+604,"זהו ההליך הראשון שביצע ד""ר פראס אבו עכר כמנהל היחידה לניתוחי חזה בבית החולים •",This is the first procedure performed by Dr. Firas Abu Akr as the head of the Chest Surgery Unit at the hospital.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""This is the first procedure performed by Dr. Firas Abu Akr as the head of the Chest Surgery Unit at the hospital"" does not fully reflect the meaning of the source text, which states that this was the first procedure performed by Dr. Firas Abu Akr as the head of the Chest Surgery Unit at the hospital.
+[Minor]: none"
+619,"לדבריו, הלב היה מרוקן מדם, לחצי הדם היו אפסיים, והגישה הניתוחית היתה שגויה.","According to his words, the heart was drained of blood, half the blood was futile, and the surgical approach was flawed.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""drained of blood"" does not accurately reflect the meaning of ""מרוקן מדם"" which means ""emptied of blood"".
+[Major]: accuracy/mistranslation - ""futile"" does not accurately convey the meaning of ""אפסיים"" which suggests the blood was useless or worthless.
+[Minor]: accuracy/mistranslation - ""flawed"" does not fully capture the nuance of ""שגויה"" which suggests the surgical approach was incorrect or erroneous."
+622,"עוד ציין: ""מדובר בהליך לא מסובך, שנמשך כמה דקות"", והוסיף: ""לא ניתן שלא להתייחס לתהליך הלקוי של קבלת ד""ר אבו עכר לתפקיד.","""It was also noted: 'This is a simple process that takes a few minutes,' and he added: 'One cannot ignore the flawed process of appointing Dr. Abu Akar to the position.'""","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""This is a simple process that takes a few minutes"" does not fully capture the meaning of the source text, which states that the process ""takes a few minutes"". The translation omits the word ""few"" which changes the meaning.
+[Major]: [accuracy/mistranslation] - The translation ""One cannot ignore the flawed process of appointing Dr. Abu Akar to the position"" does not accurately reflect the source text, which states ""the flawed process of receiving Dr. Abu Akar to the position"". The translation uses ""appointing"" instead of ""receiving"".
+[Minor]: [no-error] - The rest of the translation accurately conveys the meaning of the source text."
+647,"ד""ר שלומי קודש לא שוכח, גם ממרום תפקידו, את הדחיפה מפרופ' שאול סוקניק ז""ל •","Dr. Shlomi Kodesh does not forget, even from the height of his position, the push from the late Prof. Saul Sokonik.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""the push from the late Prof. Saul Sokonik"" does not fully capture the meaning of the source text, which indicates that Dr. Shlomi Kodesh does not forget the push/encouragement from the late Prof. Saul Sokonik, even from the height of his position.
+[Minor]: none"
+674,"על פרופ' שאול סוקניק ז""ל","On Professor Shaul Sokonik, may his memory be a blessing.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/omission] - The translation omits the phrase ""may his memory be a blessing"" which is present in the source text."
+676,.,"Here is the translation from Hebrew to English:
+
+The quick brown fox jumps over the lazy dog.","MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source Hebrew text: ""The quick brown fox jumps over the lazy dog."" There are no accuracy errors in this translation."
+684,"כאשר סיימתי את ההתמחות והתלבטתי אם לנסוע לתקופת השתלמות בחו""ל, שאול דחף וכיוון אותי, וסייע לי במכתבי המלצה ובעצות כיצד להתנהל.","When I finished my internship and was undecided whether to go abroad for a training period, Saul pushed and guided me, and helped me with letters of recommendation and advice on how to proceed.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/omission] - The translation omits the phrase ""and advised me on how to proceed"", which is present in the source text.
+[Minor]: none"
+692,הביא לאור: איליה יגורוב,Brought to light: Ilya Igorov,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/mistranslation] - The name ""Ilya Igorov"" is a mistranslation of the Hebrew name ""איליה יגורוב""."
+701,אבל למדתי ממנו דברים משמעותיים ועמוקים אף יותר.,But I learned from him more meaningful and deeper things.,"MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds the word ""more"" which is not present in the source text."
+709,זו הסיבה שד״ר טומי שינפלד מהווה עבורי הרבה יותר מדמות מעוררת השראה.,This is why Dr. Tommy Sheinfeld is much more than an inspiring figure for me.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""is much more than an inspiring figure for me"" does not fully capture the meaning of the source text, which indicates that Dr. Tommy Sheinfeld is ""much more"" than just an inspiring figure."
+717,"מגפת האומיקרון משתוללת והעומס כבר מורגש בבתי החולים: 37,847 אלף נדבקים אובחנו אתמול (שני) עם קורונה.","The Omicron epidemic is raging and the burden is already felt in hospitals: 37,847 thousand infected were diagnosed yesterday (Monday) with coronavirus.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""37,847 thousand infected"" does not accurately reflect the meaning of the source text, which states ""37,847 infected were diagnosed"". The use of ""thousand"" is incorrect.
+[Minor]: accuracy/addition - The translation includes the phrase ""with coronavirus"", which is not explicitly stated in the source text but is implied."
+731,"אנשי צוות רפואי מבודדים, מתוכם 542 רופאים.","Medical staff in isolation, of which 542 are doctors.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/omission] - The translation omits the information that the medical staff in isolation includes 542 doctors."
+737,"ואולם, למרבה הצער, לעתים מסתיימות לידות בנזקים חמורים הנגרמים ליולדת או ליילוד כתוצאה מהתרשלות הצוות הרפואי.","However, unfortunately, sometimes births end in serious damage caused to the parturient or the newborn as a result of medical staff negligence.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""parturient"" does not accurately reflect the meaning of the Hebrew term ""יולדת"" which refers to the ""woman giving birth"" or ""birthing woman"".
+[Minor]: accuracy/mistranslation - The translation ""newborn"" does not fully capture the meaning of the Hebrew term ""יילוד"" which refers to the ""newborn baby"" or ""neonate""."
+738,"במקרים שבהם הסתיימה הלידה בפגיעה גופנית, ליילוד או לאם, יש מקום לבחון את השתלשלות האירועים אשר הובילו לפגיעה ואף לשקול פנייה לקבלת ייעוץ משפטי.","In cases where the birth ended in physical injury, to the newborn or the mother, it is appropriate to examine the sequence of events that led to the injury and even consider seeking legal advice.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/omission] - The translation omits the phrase ""to the newborn or the mother"", which is present in the source text and important for conveying the full meaning.
+[Minor]: none"
+745,שלב הצירים נמשך בממוצע בין 8 ל-14 שעות.,The active phase of labor lasts an average of 8 to 14 hours.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""The active phase of labor lasts an average of 8 to 14 hours"" does not fully capture the meaning of the source text ""שלב הצירים נמשך בממוצע בין 8 ל-14 שעות"", which refers to the duration of the contraction phase, not the entire active labor.
+[Minor]: none"
+766,"במקרים מסוימים, מתפתחת לידה דיספונקציונלית, קרי, חוסר התקדמות של תהליך הלידה האקטיבית.","In certain cases, dysfunctional labor develops, that is, lack of progress in the active labor process.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""lack of progress in the active labor process"" does not fully capture the meaning of the source text ""חוסר התקדמות של תהליך הלידה האקטיבית"", which refers to a dysfunctional labor process, not just a lack of progress.
+[Minor]: none"
+778,שיתוק על שם ERB,Paralysis.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Paralysis"" does not accurately reflect the meaning of the source text ""שיתוק על שם ERB"", which refers to a specific type of paralysis named after ERB."
+781,שיתוק זה נגרם לא פעם בשל קושי בהוצאתו של היילוד בשל התרחשות 'פרע כתפיים' - מצב חירום מיילדותי המרחש כאשר כתפיו של העובר נכלאות בפנים תעלת הלידה לאחר שראשו יצא.,Paralysis is often caused by difficulty in delivering the newborn due to the occurrence of 'shoulder dystocia' - an obstetric emergency that occurs when the baby's shoulders become stuck in the birth canal after the head has been delivered.,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source Hebrew text. There are no significant accuracy errors."
+795,פטירת יולדת במהלך הלידה הינו אירו נדיר למדי.,The death of a woman in childbirth is a relatively rare event.,"MQM annotations:
+Accuracy Errors
+[Minor]: accuracy/mistranslation - The translation ""the death of a woman in childbirth"" does not fully capture the nuance of the source text, which states that this is a ""relatively rare event""."
+797,במקרים מסוימים לא מאתר הצוות הרפואי דימום אצל היולדת במועד או מגיב באיחור לדימום כאמור.,"In certain cases, the medical team does not detect bleeding in the parturient in a timely manner or responds with a delay to such bleeding.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""does not detect bleeding in the parturient in a timely manner"" does not fully reflect the meaning of the source text, which states that the medical team ""does not detect bleeding in the parturient in a timely manner"".
+[Minor]: accuracy/omission - The translation omits the phrase ""or responds with a delay to such bleeding"" which is present in the source text."
+800,"באותו מקרה היולדת התלוננה על כאבים קשים וחולשה לאחר הניתוח אולם הצוות הרפואי לא התייחס כיאות לתלונותיה ומצבה הקליני, הגיב באיחור רק לאחר שמערכות גופה החלו לקרוס, דבר שהביא לפטירתה"".","In that case, the parturient complained of severe pain and weakness after the surgery, but the medical staff did not properly address her complaints and clinical condition, only reacting with delay after her body systems began to collapse, which led to her death.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""parturient"" does not accurately reflect the meaning of the Hebrew term ""היולדת"", which refers to the woman giving birth.
+[Minor]: accuracy/addition - The translation adds the phrase ""after the surgery"", which is not explicitly stated in the source text.
+[Minor]: accuracy/omission - The translation omits the phrase ""לאחר הניתוח"" (after the surgery), which is present in the source text.
+[Minor]: accuracy/omission - The translation omits the phrase ""דבר שהביא לפטירתה"" (which led to her death), which is present in the source text."
+805,"פיצוי יילוד בגין פגיעה עקב רשלנות רפואית בלידה כולל רכיבי נזק רבים, כאשר הסכומים המשמעותיים ביותר ניתנים עבור כאב וסבל, סיעוד וטיפול בשכר, הפסדי שכר ופנסיה לנפגע ואף להוריו ורכיבי נזק נוספים.","Compensation for a newborn due to injury caused by medical negligence during childbirth includes many damage components, with the most significant amounts awarded for pain and suffering, nursing and paid care, lost wages and pension for the injured party and even their parents, and additional damage components.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""nursing and paid care"" does not fully capture the meaning of the source text ""סיעוד וטיפול בשכר"", which refers to the cost of care and assistance provided to the injured party.
+[Minor]: accuracy/addition - The translation ""and even their parents"" adds information that is not present in the source text."
+813,מחקר העלה כי קיים קשר בין התפתחות המחלה לנישואי קרובים •,Research has shown that there is a connection between the development of the disease and consanguineous marriage.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""there is a connection between the development of the disease and consanguineous marriage"" does not fully capture the meaning of the source text, which states that ""research has shown that there is a connection between the development of the disease and consanguineous marriage.""
+[Minor]: none"
+830,"הדבר נובע בעיקר משכיחות גבוהה של נישואים בתוך המשפחה (בעיקר במגזר הבדואי) ומאלרגיות שונות, וחוסר מודעות לטיפול נכון בבעיה"".","The matter stems primarily from a high incidence of consanguineous marriages (especially in the Bedouin sector) and various allergies, and a lack of awareness of proper treatment of the problem.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The matter stems primarily from a high incidence of consanguineous marriages (especially in the Bedouin sector) and various allergies, and a lack of awareness of proper treatment of the problem"" does not fully capture the meaning of the source text, which states that the issue stems primarily from the high incidence of consanguineous marriages (especially in the Bedouin sector) and various allergies, as well as a lack of awareness of proper treatment of the problem.
+[Minor]: no-error"
+855,"עד כיתה ט' למד בבית הספר בכפר חורפיש, ולאחר מכן עבר לפנימייה הצבאית שבבית הספר הריאלי בחיפה.","From 9th grade, he studied at the school in the village of Kfar Kharfesh, and afterwards he transferred to the military boarding school at the Reali School in Haifa.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/omission] - The translation omits ""למד"" (studied) from the source text.
+[Minor]: [accuracy/mistranslation] - The translation ""transferred"" does not fully capture the meaning of ""עבר"" (moved/went) in the source text."
+861,"בשנת 2010 חבר לעמותת ""אחריי"" והתחיל להדריך קבוצה בכפר חורפיש, לאחר שדאג שהעמותה תחל לפעול בכפרים הדרוזיים כדי לעודד את בני הנוער להתגייס.","In 2010, he joined the ""Acharai"" organization and began to lead a group in the village of Hurfeish, after ensuring that the organization would begin operating in the Druze villages in order to encourage youth to enlist.","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds the phrase ""in order to encourage youth to enlist"" which is not explicitly present in the source text, but can be inferred from the context.
+[Minor]: [accuracy/mistranslation] - The translation uses the phrase ""began to lead a group"" which does not fully capture the meaning of the source text, which states that he ""began to guide a group""."
+869,"ראוי שהוא יקבל את המקום המתאים לו"".","""He deserves the appropriate position for him.""","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""He deserves the appropriate position for him"" does not fully capture the meaning of the source text ""ראוי שהוא יקבל את המקום המתאים לו"", which suggests that ""he deserves to receive the position that is suitable for him""."
+876,אך בתקשורת הערבית הוצג בדיעבד ציוד קשר שלדברי הפלשתינים הושאר על ידי הכוחות מאחור.,"But in the Arab media, communication equipment was presented retrospectively, which according to the Palestinians was left behind by the forces.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The phrase ""communication equipment was presented retrospectively"" does not accurately convey the meaning of the source text, which states that the communication equipment ""was left behind by the forces.""
+[Minor]: accuracy/addition - The phrase ""which according to the Palestinians"" is an addition that is not present in the source text."
+877,"לטענת חמאס, המבצע נועד להטמנת מכשירי האזנה.","According to Hamas, the operation was intended to plant listening devices.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""the operation was intended to plant listening devices"" does not fully reflect the meaning of the source text, which states that according to Hamas, the operation was intended to plant listening devices.
+[Minor]: none"
+885,"מפקד כוח הלוחמים ולוחם נוסף בצוות קיבלו אף הם צל""ש.",The commander of the combat force and an additional fighter in the team also received a citation.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""an additional fighter in the team"" does not fully capture the meaning of ""לוחם נוסף בצוות"" which refers to an additional combatant or warrior in the team, rather than just a generic ""fighter"".
+[Minor]: [accuracy/addition] - The translation ""also received a citation"" adds the word ""also"" which is not present in the source text."
+889,"ישראל צריכה לשאול את עצמה, שוב, אם לא נכון לשנות מדיניות מול גזרת ג'נין •","Israel needs to ask itself, again, whether it is not right to change its policy towards the Jenin district.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""Israel needs to ask itself, again, whether it is not right to change its policy towards the Jenin district"" does not fully capture the meaning of the source text, which suggests that Israel should consider changing its policy towards the Jenin district.
+[Minor]: none"
+895,"עדות לכך ניתנה במהלך מבצע המעצרים שבו נהרג שלשום לוחם הימ""מ, רס""ב נעם רז ז""ל.","The testimony to this was given during the arrest operation in which the Yamam fighter, Master Sergeant Noam Raz, of blessed memory, was killed yesterday.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""the Yamam fighter, Master Sergeant Noam Raz, of blessed memory, was killed yesterday"" does not fully reflect the meaning of the source text, which states that Noam Raz was killed during the arrest operation, not yesterday.
+[Minor]: no-error"
+896,"לוחמים שהשתתפו בקרב בג'נין העידו כי הם אינם זוכרים היקף כזה של ירי ואלימות - עדות לא רק לכמות האדירה של אמל""ח שיש בשטח, אלא גם לנכונות להשתמש בו.","Fighters who participated in the battle in Jenin testified that they do not remember such a scale of fire and violence - evidence not only of the enormous amount of ammunition in the area, but also of the willingness to use it.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Fighters who participated in the battle in Jenin testified that they do not remember such a scale of fire and violence"" does not fully capture the meaning of the source text, which indicates that the fighters testified that they have not witnessed such a level of fire and violence before, implying that the level of violence was unprecedented.
+[Minor]: [accuracy/addition] - The translation ""evidence not only of the enormous amount of ammunition in the area, but also of the willingness to use it"" adds the phrase ""in the area"" which is not present in the source text."
+901,"פעילות מבצעית היא עניין מסוכן למי שמשתתף בה, ולמי שנוכח בזירה.","Operational activity is a dangerous matter for those who participate in it, and for those who are present at the scene.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""operational activity is a dangerous matter for those who participate in it, and for those who are present at the scene"" does not fully capture the meaning of the source text, which refers to the danger of participating in or being present at the scene of operational activities.
+[Minor]: none"
+906,"ממילא נראה ששום דבר לא ישכנע את המשוכנעים: העולם כבר הזדרז לגנות את ישראל מבלי שטרח לאזן זאת במילת אמפתיה לקורבנות הטרור הפלשתיני - העילה המקורית שבשמה צה""ל פועל ללא הרף בג'נין.","Here is the translation from Hebrew to English:
+
+Inevitably, it seems that nothing will convince the convinced: the world has already rushed to condemn Israel without bothering to balance this with a word of empathy for the victims of Palestinian terror - the original pretext in whose name the IDF operates relentlessly in Jenin.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""the world has already rushed to condemn Israel without bothering to balance this with a word of empathy for the victims of Palestinian terror"" does not fully capture the meaning of the source text, which states that ""the world has already rushed to condemn Israel without bothering to balance this with a word of empathy for the victims of Palestinian terror - the original pretext in whose name the IDF operates relentlessly in Jenin."" The translation omits the reference to the ""original pretext"" for the IDF's operations in Jenin.
+[Minor]: accuracy/addition - The translation adds the phrase ""the victims of"" which is not present in the source text."
+907,"כתמיד, טבעם של סיפורים כאלה לגווע.","As always, the nature of such stories is to fade away.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""the nature of such stories is to fade away"" does not fully capture the meaning of the source text ""כתמיד, טבעם של סיפורים כאלה לגווע"", which suggests that such stories naturally tend to disappear or be forgotten over time."
+911,האחריות מחייבת: לפעול להרגעת המצב.,The responsibility requires: to act to calm the situation.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""to act to calm the situation"" does not fully capture the meaning of the source text ""לפעול להרגעת המצב"", which implies a more active responsibility to work towards calming the situation.
+[Minor]: none"
+919,"ח""כ עופר כסיף הוא הדוגמה האחרונה לכך; אם לא יינקטו כלפיו צעדים - לרבות העמדה לדין על תקיפת שוטר - תעודד המדינה במשתמע את נבחר הציבור הבא להקצין עוד יותר את פעולותיו.",MK Ofer Cassif is the latest example of this; if steps are not taken against him - including prosecution for assaulting a police officer - the state will implicitly encourage the next elected public representative to further escalate their actions.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""if steps are not taken against him - including prosecution for assaulting a police officer"" does not fully capture the meaning of the source text, which suggests that if no action is taken against MK Ofer Cassif, it will encourage the next elected public representative to further escalate their actions.
+[Minor]: accuracy/addition - The translation ""the state will implicitly encourage the next elected public representative to further escalate their actions"" adds the phrase ""the state will"" which is not present in the source text."
+921,"מכל מי ששכל ישר בראשו מצופה להתעלות מעל לכל אלה, ולפעול להרגעת המצב; אחרת, עלולה ישראל לגלוש במהירות להסלמה מול אויבים מבחוץ, וגרוע מכך - מול יריבים מבית.","From all those who have common sense, it is expected to rise above all these, and to work to calm the situation; otherwise, Israel may quickly slide into escalation against external enemies, and worse - against internal rivals.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""From all those who have common sense"" does not fully capture the meaning of the source text ""מכל מי ששכל ישר בראשו"", which implies ""from all those who have sound judgment/reason in their heads"".
+[Minor]: [accuracy/addition] - The translation ""and to work to calm the situation"" adds the phrase ""to work"" which is not present in the source text.
+[Minor]: [accuracy/omission] - The translation omits the phrase ""מעל לכל אלה"" (above all these) from the source text."
+928,"נוסף על כך, בין 100 ל-110 אלף פלשתינים עם היתרי עבודה נכנסים מדי יום לעבודה בישראל דרך 34 מעברים מפוקחים.","In addition, between 100,000 to 110,000 Palestinians with work permits enter Israel for work through 34 supervised crossings every day.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The English translation accurately conveys the meaning of the source text. There are no accuracy errors identified."
+940,"לעיתים הדבר חוזר על עצמו גם בפעם השנייה, אך רק בפעם השלישית הוא נעצר, נכלא ומוגש נגדו כתב אישום בגין שהייה בלתי חוקית.","Sometimes the matter repeats itself even the second time, but only the third time it is stopped, imprisoned, and an indictment is filed against him for illegal presence.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""imprisoned"" does not fully capture the meaning of the source text ""נכלא"" which implies being detained or held, rather than being imprisoned.
+[Minor]: accuracy/mistranslation - The translation ""illegal presence"" does not precisely match the meaning of the source text ""שהייה בלתי חוקית"" which refers more broadly to an unlawful stay or presence, not necessarily an ""illegal presence""."
+954,הוא יכול להיות אב למשפחה שנכנס לארץ לעבוד כדי להרוויח כמה שקלים ולחזור.,He can be a father to a family that enters the country to work in order to earn a few shekels and return.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""He can be a father to a family that enters the country to work in order to earn a few shekels and return"" does not fully capture the meaning of the source text, which suggests that the person can be a father to a family that comes to the country to work and earn some money, and then return. The translation does not convey the idea of the person being a ""father"" to the family.
+[Minor]: accuracy/addition - The translation adds the phrase ""in order to"" which is not present in the source text."
+968,"חברות רשומות לא עוסקות בזה, מכיוון שאם החברה תיתפס, דינה להיסגר"".","""Registered companies do not engage in this, because if the company is caught, its fate is to be closed.""","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""Registered companies do not engage in this"" does not fully reflect the meaning of the source text, which states that registered companies do not engage in this because if the company is caught, it will be closed.
+[Minor]: accuracy/omission - The translation omits the reason why registered companies do not engage in this, which is ""because if the company is caught, its fate is to be closed."""
+971,"לרוב החבר'ה האלה מסיעים עם רכב מצ'וקמק כי הם יודעים שנחרים להם את הרכב אז הם מעדיפים לנסוע ברכב ישן"".","Most of these guys travel with a crappy vehicle because they know we'll confiscate their vehicle, so they prefer to drive an old car.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""confiscate their vehicle"" does not accurately reflect the meaning of the source text, which is that the vehicles will be ""impounded"" or ""seized"" rather than confiscated.
+[Minor]: accuracy/addition - The translation adds the phrase ""so they prefer to drive an old car"", which is not explicitly stated in the source text."
+972,תיעוד: הצתת שדות במושב ציפורי,Documentation: Arson of fields in the Tzipori moshav.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Arson of fields in the Tzipori moshav"" does not fully capture the meaning of the source text ""הצתת שדות במושב ציפורי"", which is more accurately translated as ""Arson of fields in the Tzipori settlement"".
+
+[Minor]: [accuracy/addition] - The translation adds the word ""Documentation:"" which is not present in the source text."
+979,"נציין כי במוקד זה הוקם ה""שומר החדש"" בניסיון למגר את התופעה הקשה.","This center was established as the ""New Guard"" in an attempt to eradicate the severe phenomenon.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""This center was established as the 'New Guard' in an attempt to eradicate the severe phenomenon"" does not fully reflect the meaning of the source text, which states that the ""New Guard"" was established at this center in an attempt to combat the severe phenomenon.
+[Minor]: none"
+981,"במסגרת התרגיל המטכ""לי ""מרכבות אש"", התרעת צופרים תשמע ביום ראשון, שני ורביעי בכמה מוקדים בישראל •","In the framework of the General Staff exercise ""Chariots of Fire"", the sounding of sirens will be heard on Sunday, Monday, and Wednesday in several locations in Israel.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""sounding of sirens"" does not fully capture the meaning of the source text ""התרעת צופרים"", which refers to the sounding of warning sirens or alarms.
+[Minor]: accuracy/addition - The translation ""in several locations in Israel"" adds additional detail that is not present in the source text."
+999,"בפעילות הלוחמים בעיר ג'נין שבמרחב החטיבה המרחבית מנשה, נעצרו שני מבוקשים החשודים בפעילות טרור.","In the activity of the fighters in the city of Jenin in the area of the Manasseh regional brigade, two wanted suspects suspected of terrorist activity were arrested.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""fighters"" does not accurately reflect the meaning of the source text ""לוחמים"" which refers to combatants or militants, not necessarily fighters.
+[Minor]: accuracy/addition - The phrase ""in the activity of"" is not present in the source text and is an unnecessary addition."
+1029,משרד רואה חשבון יהודה ברלב לא מעוניין להגיב.,Yehuda Berlev accounting firm is not interested in responding.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Yehuda Berlev accounting firm is not interested in responding"" does not fully reflect the meaning of the source text ""משרד רואה חשבון יהודה ברלב לא מעוניין להגיב"", which indicates that the accounting firm of Yehuda Berlev is not interested in responding.
+[Minor]: none"
+1032,"גנץ התייחס בין היתר לתיעוד של אל-סייד בשבי החמאס: ""סרטון שמטרתו סחטנות – על גבה של סוגייה הומניטארית"" •","Gantz referred, among other things, to the documentation of Al-Sayyid in Hamas captivity: ""A video whose purpose is extortion - on the back of a humanitarian issue"".","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""A video whose purpose is extortion - on the back of a humanitarian issue"" does not fully capture the meaning of the source text, which states that the video's purpose is ""extortion - on the back of a humanitarian issue"".
+[Minor]: [accuracy/addition] - The translation adds the phrase ""among other things"" which is not present in the source text."
+1036,"חמאס מחזיק בשבי את ארבעת הבנים בניגוד לחוק הבינלאומי, בניגוד למוסר.","Hamas is holding the four sons captive in violation of international law, in violation of morality.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""holding the four sons captive"" does not accurately reflect the meaning of the source text, which states that Hamas is holding the four sons in violation of international law and morality.
+[Minor]: no-error"
+1046,"""'השלוחים החדשים', הם טרוריסטים עם מקלדת שדינם כמו לוחמי ארגוני טרור אחרים.","""The new emissaries"" are keyboard terrorists whose fate is like that of other terrorist organization fighters.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""keyboard terrorists"" does not accurately reflect the meaning of the source text, which refers to ""new emissaries"" as a term used to describe them.
+[Minor]: accuracy/addition - The phrase ""whose fate is like that of other terrorist organization fighters"" is not present in the source text and adds additional meaning not conveyed in the original."
+1047,"אנחנו יודעים מי הם, אנחנו פוגעים בהם ובשולחיהם, וגם היום הם על הכוונת שלנו – ולא רק במימד הקיברנטי.","We know who they are, we are hitting them and their senders, and even today they are in our sights - and not just in the cyber dimension.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+The translation accurately conveys the meaning of the source text. There are no accuracy errors identified."
+1073,"מדריך לחימה בטרור של מג""ב עוטף ירושלים: ""הפיתוח, נותן מענה רלוונטי לאיומי הייחוס ומדמה את המציאות בשטח"" •","""Border Police Counter-Terrorism Combat Guide for the Jerusalem Envelope: 'The development provides a relevant response to the reference threats and simulates the reality on the ground.'""","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""provides a relevant response to the reference threats and simulates the reality on the ground"" does not fully capture the meaning of the source text, which states that the ""development provides a relevant response to the reference threats and simulates the reality on the ground.""
+[Minor]: [no-error]"
+1081,"במסגרת התחרות, וכמענה לצורך בתרגול לוחמי מג""ב ללחימה באימון ירי בתנועה ובמתארים מסוג זה, אסף בן דויד, מדריך לחימה בטרור של מג""ב עוטף ירושלים פיתח את ""מתקן אסף"", המורכב ממטרה דינאמית, שמחוברת למוט טלסקופי עליו מורכב מנשא שניתן לרתום למדריך.","Within the framework of the competition, and in response to the need for Border Police fighters to practice combat training in motion and in such scenarios, Assaf Ben David, a combat instructor in terrorism for the Border Police in the Jerusalem envelope, developed the ""Assaf Device"", which consists of a dynamic target connected to a telescopic pole on which a harness can be mounted that can be harnessed to the instructor.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""the 'Assaf Device', which consists of a dynamic target connected to a telescopic pole on which a harness can be mounted that can be harnessed to the instructor"" does not fully capture the meaning of the source text, which describes the ""Assaf Device"" as a dynamic target connected to a telescopic pole with a harness that can be attached to the instructor.
+[Minor]: accuracy/addition - The translation ""that can be harnessed to the instructor"" adds additional information not present in the source text."
+1082,"משרתם המדריך את המנשא למותנו, הוא יכול לתרגל את הלוחם שעומד לפניו על ידי שליטה והזזת המטרה לצדדים וטווחים שונים.","The guide leads the bearer to our demise, he can practice the warrior standing before him by controlling and moving the target to different sides and ranges.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - ""The guide leads the bearer to our demise"" does not accurately reflect the meaning of ""המדריך את המנשא למותנו"" which means ""the guide leads the bearer to our death/destruction"".
+[Minor]: accuracy/mistranslation - ""he can practice the warrior standing before him"" does not accurately reflect the meaning of ""הוא יכול לתרגל את הלוחם שעומד לפניו"" which means ""he can practice the fighter/combatant who stands before him""."
+1091,מתניהו אנגלמן התריע בשבוע הסייבר הבינלאומי מפני חוסר המוכנות של ישראל לתקיפות פצחנים •,Matthew Engelmann warned during the International Cyber Week of Israel's lack of preparedness for hacker attacks.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - ""Matthew Engelmann"" instead of ""Matanyahu Englman"" for the name ""מתניהו אנגלמן"".
+[Minor]: accuracy/mistranslation - ""hacker attacks"" instead of ""cyberattacks"" for ""תקיפות פצחנים""."
+1109,"במקביל לאימונים האינטנסיביים עם הנבחרת, בלייזר עסק בשבוע האחרון גם בעתידו, עד שחתם לשנתיים בהפועל ירושלים.","In parallel to the intensive training with the national team, Blayzer also dealt with his future last week, until he signed a two-year contract with Hapoel Jerusalem.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""In parallel to the intensive training with the national team, Blayzer also dealt with his future last week, until he signed a two-year contract with Hapoel Jerusalem"" does not fully reflect the meaning of the source text, which states that Blayzer was engaged in intensive training with the national team in parallel to dealing with his future, which led to him signing a two-year contract with Hapoel Jerusalem.
+[Minor]: [accuracy/addition] - The translation adds the phrase ""last week"" which is not present in the source text."
+1112,"לא היית בנבחרת ארבע שנים, עד כמה אתה שמח לחזור, ועד כמה אתה רוצה לשחק בשני המשחקים הקרובים?","I was not in the national team for four years, how happy are you to return, and how much do you want to play in the next two games?","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""I was not in the national team for four years"" does not fully capture the meaning of the source text, which indicates that the person was not in the national team for four years until now.
+[Minor]: accuracy/addition - The translation ""how happy are you to return"" adds the word ""you"" which is not present in the source text.
+[Minor]: accuracy/omission - The translation does not include the part ""and how much do you want to play in the next two games?"" from the source text."
+1113,"""קודם כל, אני רוצה ליהנות בנבחרת ואני בא בגישה של לתרום בכל מה שאני יכול, אם זה מהניסיון שלי ואם זה על המגרש.","""First of all, I want to enjoy the national team and I come with the approach of contributing in every way I can, whether it's from my experience or on the field.""","MQM annotations:
+Accuracy Errors
+[Minor]: [accuracy/addition] - The translation adds the phrase ""whether it's from my experience or on the field"", which is not present in the source text.
+[Minor]: [accuracy/mistranslation] - The translation uses ""contribute"" instead of ""contributing"" which slightly changes the meaning."
+1123,ברגע שהרגשתי חיבור עם ההנהלה ועם המאמן הבנתי שזה המקום הנכון בשבילי.,"The moment I felt a connection with the management and the coach, I understood that this is the right place for me.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""the moment I felt a connection with the management and the coach"" does not fully capture the meaning of the source text ""ברגע שהרגשתי חיבור עם ההנהלה ועם המאמן"", which suggests a stronger sense of connection or bond.
+[Minor]: [accuracy/addition] - The translation ""I understood that this is the right place for me"" adds the word ""for me"" which is not present in the source text ""הבנתי שזה המקום הנכון""."
+1128,"אני בטוח שתהיה קבוצה מחויבת ומהנה ורציתי להיות חלק מזה"".","""I'm sure it will be a committed and enjoyable group, and I wanted to be a part of it.""","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""I'm sure it will be a committed and enjoyable group, and I wanted to be a part of it"" does not fully capture the meaning of the source text ""אני בטוח שתהיה קבוצה מחויבת ומהנה ורציתי להיות חלק מזה"". The source text expresses a stronger sense of certainty and desire to be part of the group.
+[Minor]: [no-error] - The translation accurately conveys the overall meaning of the source text."
+1160,רז אדם עשוי להיות מושאל לעירוני נס ציונה •,The secret of man may be borrowed for the urban Nes Ziona.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""the secret of man may be borrowed for the urban Nes Ziona"" does not accurately reflect the meaning of the source text ""רז אדם עשוי להיות מושאל לעירוני נס ציונה"", which seems to be referring to something that is characteristic or representative of the city of Nes Ziona.
+[Minor]: [accuracy/omission] - The translation does not convey the full meaning of the source text, as it omits the implication that the ""secret of man"" is somehow associated with or representative of the city of Nes Ziona."
+1167,"במכבי ת""א הודיעו: נובאטוס מירושי נמכר לזולטה הבלגית",Maccabi Tel Aviv announced: Novakovic from Jerusalem was sold to Zulte Waregem (Belgian club).,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Novakovic from Jerusalem"" does not accurately reflect the source text, which states ""Novakovic from Jerusalem was sold to Zulte Waregem (Belgian club)"".
+[Minor]: [accuracy/omission] - The translation omits the information that Novakovic was sold to the Belgian club Zulte Waregem."
+1197,"הקבוצה של אריאל בית הלחמי חיברה ניצחון שלישי ברצף, הפעם מרשים במיוחד •","The group of Ariel Beit Halechemi achieved a third consecutive victory, this time particularly impressive.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""The group of Ariel Beit Halechemi"" does not accurately reflect the meaning of the source text, which refers to ""the group of Ariel Beit Halechemi"". The translation should be more literal, such as ""The group of Ariel Beit Halehemi"".
+[Minor]: [accuracy/addition] - The translation ""achieved a third consecutive victory"" adds the word ""achieved"" which is not present in the source text.
+[Minor]: [accuracy/addition] - The translation ""this time particularly impressive"" adds the word ""particularly"" which is not present in the source text."
+1221,אלה שהפכו לשואבי מים ומנופפי מגבות במשחקים באירופה.,These who became water carriers and towel wavers in games in Europe.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The phrase ""water carriers and towel wavers"" does not accurately reflect the meaning of the source text, which refers to people who became ""water carriers and waving towels"" in games in Europe.
+[Minor]: accuracy/addition - The phrase ""in games"" is not present in the source text but is added in the translation."
+1276,לפני המשחק מנהל הקבוצה עמי ביטון נכנס לחדר ההלבשה ונשא דברים מרגשים בפני השחקנים.,"Before the game, team manager Ami Biton entered the locker room and delivered an emotional speech to the players.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""team manager Ami Biton"" does not fully reflect the meaning of the source text ""מנהל הקבוצה עמי ביטון"", which could be more accurately translated as ""the team's manager, Ami Biton"".
+[Minor]: [accuracy/addition] - The translation ""delivered an emotional speech to the players"" adds the word ""emotional"" which is not present in the source text."
+1317,אין פגיעה בחשיבה הביקורתית.,There is no harm in critical thinking.,"MQM annotations:
+Accuracy Errors
+[Minor]: None
+
+The provided English translation ""There is no harm in critical thinking"" accurately conveys the meaning of the source Hebrew text ""אין פגיעה בחשיבה הביקורתית"". There are no accuracy errors in this translation."
+1339,"על פי שכלול נתוני המחקר, 84% מהקרקעות המיועדות לחקלאות בעולם יחוו מחסור כבד במי גשמים.","According to the aggregated research data, 84% of the land designated for agriculture worldwide will experience severe rainfall deficits.","MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: accuracy/mistranslation - The translation ""severe rainfall deficits"" does not fully capture the meaning of ""מחסור כבד במי גשמים"" (heavy rainfall shortage) in the source text.
+[Minor]: None"
+1364,עמלנו חודשים רבים להבאת בסיס להתקנת הסיבים וכעת החזון הופך למציאות.,"Our labor for many months has brought a basis for the installation of the fibers, and now the vision is becoming a reality.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Our labor for many months has brought a basis for the installation of the fibers, and now the vision is becoming a reality"" does not fully capture the meaning of the source text, which states that the vision is now becoming a reality after months of work to establish the basis for installing the fibers.
+
+[Minor]: [accuracy/addition] - The translation adds the word ""has"" which is not present in the source text."
+1376,יש קשר בין רמות הנוגדנים שמפתחים לתופעות הלוואי?,There is a connection between the levels of antibodies developed and side effects.,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""There is a connection between the levels of antibodies developed and side effects"" does not fully capture the meaning of the source text, which is asking about the relationship between the levels of antibodies developed and the side effects.
+[Minor]: none"
+1388,יש בכלל אפשרות להעריך חוזק של מערכת חיסון?,Is it even possible to assess the strength of an immune system?,"MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""Is it even possible to assess the strength of an immune system?"" does not fully capture the meaning of the source text ""יש בכלל אפשרות להעריך חוזק של מערכת חיסון?"", which is asking whether it is possible to evaluate or assess the strength of an immune system.
+[Minor]: none"
+1429,"ובכן, מה דעתכם לצאת לסיורים חינמיים בעקבות גיבורי הסדרות האהובות של נטפליקס?","And so, what do you think about going on free tours following the beloved heroes of Netflix series?","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The translation ""going on free tours following the beloved heroes of Netflix series"" does not accurately reflect the meaning of the source text, which is about going on free tours related to the beloved characters from Netflix series.
+[Minor]: [accuracy/addition] - The translation includes the phrase ""what do you think about"", which is not present in the source text."
+1452,"המחירים השתנו, תנאי הכבודה כבר לא אותו הדבר וישראלים רבים מופתעים כשהם מגיעים לנמל התעופה ומגלים שהם צריכים להוסיף סכומים גבוהים עבור מזוודות שחשבו שכלולות במחיר.","The prices have changed, the conditions of hospitality are no longer the same, and many Israelis are surprised when they arrive at the airport and discover that they need to add large sums for suitcases that they thought were included in the price.","MQM annotations:
+Accuracy Errors
+[Major]: [accuracy/mistranslation] - The phrase ""conditions of hospitality"" does not accurately reflect the meaning of ""תנאי הכבודה"" in the source text, which refers to the general conditions or terms of service.
+[Minor]: [accuracy/addition] - The phrase ""large sums"" is an addition that is not present in the source text."
+1471,בישראייר המחיר לא כולל כבודה.,The price does not include baggage.,"MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""The price does not include baggage"" does not fully reflect the meaning of the source text ""בישראייר המחיר לא כולל כבודה"", which is more accurately translated as ""At Israir, the price does not include baggage.""
+[Minor]: none"
+1484,"הזמנה של מזוודה נוספת יכולה לעלות בין 90-150 דולרים לכיוון אם תעשו זאת בנמל התעופה, בהזמנה מראש המחיר מעט זול יותר.","An additional suitcase reservation can cost between $90-$150 per direction if done at the airport, with advance booking the price is slightly cheaper.","MQM annotations:
+Accuracy Errors
+[Major]: accuracy/mistranslation - The translation ""An additional suitcase reservation can cost between $90-$150 per direction if done at the airport, with advance booking the price is slightly cheaper"" does not fully reflect the meaning of the source text. The source text mentions that the price is ""a bit cheaper"" with advance booking, while the translation says it is ""slightly cheaper"".
+[Minor]: no-error"

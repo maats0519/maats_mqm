@@ -1,0 +1,2698 @@
+index,original,zero_shot_translation,annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.","对我来说,这是一个相当大的假设,因为它只使用了Direct3D对象,而不是Direct3D3对象来创建视口。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""Direct3D3 object"" is not accurate, as the source text refers to a ""Direct3D object"", not a ""Direct3D3 object"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""因为它只使用了Direct3D对象,而不是Direct3D3对象来创建视口"" could be improved by using a more natural grammar structure, such as ""因为它只使用了Direct3D对象而不是Direct3D3对象来创建视口"".
+
+Overall, the translation is generally accurate and understandable, with only minor errors that do not significantly impact the meaning or flow of the text."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.","一些事实,例如关于亚原子粒子的事实,只能通过实验来获得,而这些实验本身只有在资本主义体系下才能进行,因为它们需要太多的资源、太多的组织和太多的强制手段才能完成。","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the phrase ""e.g. about subatomic particles"" from the original text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""一些事实,例如关于亚原子粒子的事实"" which is grammatically correct but could be improved to ""一些事实,例如关于亚原子粒子的事实,只能通过实验来获得"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The translation uses the term ""资本主义体系"" which may not be the most appropriate term in this context.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+14,Picking this up this weekend.,这个周末拿到它。,"MQM annotations:
+
+Accuracy Errors
+[Minor]: Mistranslation - The translation ""拿到它"" does not accurately convey the meaning of ""Picking this up"" in the source text.
+
+Fluency Errors
+[Minor]: Grammar - The translation ""这个周末拿到它"" has a slightly unnatural word order compared to the more natural Chinese phrasing ""这个周末拿到它"".
+
+Terminology Errors
+[Minor]: Inappropriate for context - The translation ""拿到它"" does not capture the nuance of ""Picking this up"" in the source text, which suggests an action of retrieving or obtaining the item.
+
+Overall, the translation is generally understandable, but there are some minor errors in accuracy, fluency, and terminology that could be improved to better convey the meaning of the source text."
+15,I was looking for a good first car guy car; and I really love the 80s aesthetic.,我正在寻找一辆好的初级汽车;我真的很喜欢80年代的美学。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""初级汽车"" (entry-level car) does not accurately convey the meaning of ""first car guy car"" in the source text, which refers to a car suitable for a first-time car buyer.
+
+Fluency Errors
+[Minor]: [grammar] - The grammar in the translation is slightly awkward, and could be improved by rephrasing the sentence as ""我正在寻找一辆适合初次购车者的好车;我真的很喜欢80年代的美学。""
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""美学"" (aesthetics) may not be the most natural choice to describe one's preference for the design of a car from the 1980s. A more common term like ""风格"" (style) or ""设计"" (design) may be more appropriate.
+
+Overall, the translation conveys the main meaning of the source text, but could be improved in terms of accuracy, fluency, and terminology to better reflect the intended message."
+19,I know they're not fast compared,我知道他们相比之下不快。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the original English sentence. The original sentence suggests that the ""they"" are not fast, while the Chinese translation says ""they are not fast in comparison"".
+
+Fluency Errors
+[Minor]: [grammar] - The Chinese translation uses the structure ""相比之下不快"" which is grammatically correct but sounds a bit unnatural. A more natural phrasing would be ""他们不快"" or ""他们的速度不快"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""不快"" is a bit vague and could mean ""not fast"" or ""not happy/pleased"". A more specific term like ""速度慢"" would be more appropriate in this context.
+
+Overall, the translation conveys the general meaning of the original sentence, but there are some minor errors in accuracy, fluency, and terminology that could be improved."
+20,#Venting into the Fediverse time.,#向联邦宇宙发泄时间。,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""向联邦宇宙发泄时间"" does not accurately convey the meaning of the original English phrase ""#Venting into the Fediverse time."" The translation suggests a more literal interpretation of ""venting"" and ""Fediverse"" rather than the intended meaning of expressing oneself on a decentralized social media platform.
+
+Fluency Errors
+[Minor]: [Grammar] - The Chinese translation lacks a subject, making the sentence structure less natural and fluent.
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The term ""联邦宇宙"" (Fediverse) may not be a widely recognized or commonly used term in the Chinese context, and a more familiar or descriptive term may be more appropriate.
+
+Overall, the translation conveys the general meaning of the original text, but there are some minor errors in accuracy, fluency, and terminology that could be improved to enhance the quality of the translation."
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,我和同居伴侣今晚去了酒店买了一些啤酒和一瓶起泡酒。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text refers to a ""liquor store"", which is a store that sells alcoholic beverages, but the translation uses ""酒店"" which means ""hotel"" in Chinese.
+[Minor]: [untranslated text] - The term ""bub"" in the source text is not translated into the target text.
+
+Fluency Errors
+[Minor]: [register] - The translation uses a more formal register (""同居伴侣"") compared to the more casual tone of the source text (""Domestic Partner"").
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","当我们去结账时,收银员显然是一位跨性别女性。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""跨性别女性"" (transgender woman) does not accurately convey the meaning of ""fairly obvious #trans woman"" in the source text, which suggests the cashier was a transgender woman.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with a minor mistranslation that does not significantly impact the overall meaning."
+25,And then we just... paid for our stuff.,然后我们就...付了钱。,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""our"" from the original sentence.
+
+Fluency Errors
+[Minor]: [punctuation] - The translation uses an ellipsis (...) instead of a period (.) at the end of the sentence.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,"她脸上的解脱微笑是一种很好的感觉,但她先前感到害怕的事实真他妈的糟糕,我讨厌它。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""感到害怕的事实真他妈的糟糕"" does not fully capture the nuance of the original English text, which expresses a mix of relief and frustration.
+[Minor]: [Untranslated text] - The expletive ""FUCKING"" was not translated.
+
+Fluency Errors
+[Minor]: [Register] - The use of the expletive ""他妈的"" in the translation is slightly more informal than the original English text.
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The translation ""解脱微笑"" for ""smile of relief"" is a bit too literal and does not capture the full meaning.
+
+Overall, the translation conveys the general meaning of the source text, but could be improved to better reflect the nuanced emotional state expressed in the original."
+29,This is the stupidest timeline and I hate it dot com.,"这是最愚蠢的时间线,我讨厌它。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""这是最愚蠢的时间线,我讨厌它。"" does not fully capture the meaning of the original English phrase ""This is the stupidest timeline and I hate it dot com."", which has a more sarcastic and humorous tone.
+
+Fluency Errors
+[Minor]: [register] - The translation uses a more formal and serious tone compared to the casual and sarcastic tone of the original English phrase.
+
+Overall, the translation conveys the general meaning of the source text, but the nuances and tone are not fully captured. The errors are minor and do not significantly disrupt the comprehension of the text."
+32,But he can't pardon himself out of state prison.,但是他不能赦免自己脱离州监狱。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the original sentence. The original sentence suggests that the person cannot pardon themselves from state prison, while the translation implies that the person can pardon themselves and leave state prison.
+
+Fluency Errors
+[Minor]: [grammar] - The grammar in the translation is not entirely natural, as the phrase ""脱离州监狱"" is not a common way to express the idea of being pardoned from state prison in Chinese.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation has a few minor errors that affect the accuracy and fluency, but the overall meaning is still understandable."
+33,It takes the state's governor.,州长需要。,"MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The source text ""It takes the state's governor"" is not fully captured in the translation ""州长需要"", which only conveys the idea of ""the state's governor needs"" but does not accurately reflect the original meaning.
+
+Fluency Errors
+[Minor]: Grammar - The translation lacks a verb to complete the sentence, making it grammatically incomplete.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.","我们建议,依情境而定的交流是一种多层面的现象,受环境特性(如情境分布)的关键影响。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""我们建议,依情境而定的交流是一种多层面的现象,受环境特性(如情境分布)的关键影响"" does not fully capture the meaning of the original English sentence, which suggests that context-dependent communication is a situated multilayered phenomenon influenced by the distribution of contexts.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""受环境特性(如情境分布)的关键影响"" which could be improved to ""受诸如情境分布等环境特性的关键影响"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""情境"" used in the translation may not be the most appropriate terminology in this context, and ""context"" or ""contextual"" may be a better choice.
+
+Overall, the translation conveys the main idea of the original sentence, but could be improved in terms of accuracy, fluency, and terminology to better reflect the meaning of the source text."
+47,Communities gain the knowledge to embed and support their own development.,社区获得嵌入和支持自身发展的知识。,"MQM annotations:
+
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""嵌入"" does not accurately convey the meaning of ""embed"" in the source text, which refers to the community gaining the knowledge to incorporate and support their own development.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation error that does not significantly impact the overall meaning. The translation is acceptable."
+50,Thousands of trees have been established and farmers have seen increased crop yields through a range of interventions from support with equipment purchases to training.,"通过各种干预措施,从设备购买支持到培训,已经建立了数千棵树,农民看到了作物产量的增加。","MQM annotations:
+Accuracy Errors
+[Minor]: Mistranslation - The source text mentions ""a range of interventions"" which is translated as ""各种干预措施"" in the target text, which is a slightly more general translation.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality with only a minor accuracy error. The translation conveys the main meaning of the source text accurately and fluently."
+53,The UPS store near me won't allow me to write a label or write on the box.,附近的UPS商店不允许我在标签或箱子上写字。,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""store"" in the phrase ""The UPS store near me"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""不允许我在标签或箱子上写字"" which is grammatically correct but could be more natural and idiomatic.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to omission and grammar. The translation conveys the meaning of the source text effectively."
+55,They won't allow me to tell them the address it's going to and who is shipping it.,他们不会允许我告诉他们它要去的地址和谁在发货。,"MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The translation does not accurately convey the meaning of the original text. The original text indicates that the speaker is not allowed to provide the address and shipper information, but the translation suggests that the speaker is not allowed to tell them this information.
+[Minor]: [Omission] - The translation omits the personal pronoun ""me"" from the original text.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""他们不会允许"" which is grammatically correct but sounds slightly unnatural. A more natural phrasing could be ""他们不允许我"".
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The term ""发货"" (shipping) is technically correct but may not be the most natural or idiomatic way to express the concept of ""who is shipping it"" in this context.
+
+Overall, the translation conveys the general meaning of the original text, but there are some minor accuracy and fluency issues that could be improved."
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.","这是一种愤怒的行为,就像一个象征性的1月6日反民主狂欢节,充满谎言和不满,由美国媒体自毁性地主办。","MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The translation does not accurately convey the meaning of the original text. The phrase ""anti-democratic festivus of lies & grievance"" is not well translated as ""反民主狂欢节,充满谎言和不满"".
+[Minor]: [omission] - The translation omits the phrase ""like a symbolic Jan 6"", which is an important part of the original meaning.
+
+Fluency Errors
+[Minor]: [grammar] - The translation has some grammatical issues, such as the use of ""一种愤怒的行为"" instead of a more natural phrasing.
+
+Style Errors
+[Minor]: [awkward] - The translation sounds a bit awkward and does not flow as naturally as the original English text.
+
+Overall, the translation captures the general meaning of the original text, but there are some accuracy and fluency issues that could be improved."
+61,Licht AGREED to an all Republican audience!,同意,"MQM annotations:
+Accuracy Errors
+[Critical]: Mistranslation - The source text ""Licht AGREED to an all Republican audience!"" is not accurately translated into the target text ""同意"". The source text indicates that Licht agreed to something in front of a Republican audience, but the translation simply says ""agreed"" without any context.
+[Major]: Omission - The translation omits important details from the source text, such as the fact that the audience was all Republican.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+64,The ratings--seeking delusional irresponsibility of it all.,收视率追求的妄想不负责任。,"MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The translation does not accurately convey the meaning of the original English text. The phrase ""delusional irresponsibility"" has been translated as ""妄想不负责任"" which does not capture the full nuance of the original.
+
+Fluency Errors
+[Minor]: [grammar] - The Chinese translation has a slightly awkward grammatical structure compared to natural Chinese phrasing.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""收视率"" (ratings) may not be the most appropriate choice in this context, as the original text seems to be using ""ratings"" in a more figurative sense rather than referring to actual TV/media ratings.
+
+Overall, the translation conveys the general meaning of the original text, but there are some issues with accuracy and fluency that could be improved."
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","我有一个非常通风的地下室,这实际上意味着我可能会有很多啮齿动物来寻求庇护。","MQM annotations:
+Accuracy Errors
+[Minor]: Mistranslation - The translation ""啮齿动物"" (rodents) is a more specific term than the source ""rodents"", which could include other small mammals.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is of good quality and accurately conveys the meaning of the source text, with only a minor mistranslation in the term used for ""rodents""."
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.","我昨晚终于对这个日常感到厌烦,清理了所有陷阱上的花生酱,并在上面粘上了一颗开心果。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""pistachio"" should be ""peanut"" to accurately reflect the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""清理了所有陷阱上的花生酱"" which is grammatically correct but could be more natural and idiomatic.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""开心果"" (pistachio) is not the most appropriate translation for the context, as the source text mentions ""peanut butter"".
+
+Overall, the translation conveys the main meaning of the source text, with only minor errors that do not significantly impact comprehension."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.","对不起,我无法提供任何额外的文本。以下是您要求的翻译:
+
+(fwiw, 我几乎尝试了市面上所有的""人道""捕捉器,但成功率很低。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""对不起,我无法提供任何额外的文本"" does not accurately convey the meaning of the original English text, which is discussing the author's experience with ""humane"" traps.
+[Minor]: [Omission] - The translation omits the abbreviation ""fwiw"" (for what it's worth) from the original text.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation ""我几乎尝试了市面上所有的""人道""捕捉器,但成功率很低"" could be improved by using a more natural grammatical structure, such as ""我几乎尝试了市面上所有的'人道'捕捉器,但成功率很低。""
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: [Awkward] - The translation reads a bit awkwardly and could be improved to sound more natural.
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation conveys the general meaning of the original text, but could be improved in terms of accuracy, fluency, and style."
+73,I'm tired of conservative parties and governments wrapping themselves in the brand of pro-business.,我厌倦了保守党和政府将自己包装成亲商的品牌。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not fully capture the meaning of the original text. The source text expresses a general criticism of conservative parties and governments claiming to be pro-business, while the translation focuses more on the parties/governments ""wrapping themselves"" in this brand.
+
+Fluency Errors
+[No errors]
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[No errors]
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation that does not significantly impact the meaning. The translation is acceptable with some room for improvement."
+74,"They aren't, at least not in Alberta.","他们不是,至少在阿尔伯塔省不是。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation does not accurately convey the meaning of the original English sentence. The English sentence suggests that ""they"" (referring to something or someone) are not something, at least not in Alberta. The Chinese translation simply states that ""they are not, at least in Alberta"", which does not fully capture the intended meaning.
+
+Fluency Errors
+[Minor]: [Grammar] - The Chinese translation uses the phrase ""至少在阿尔伯塔省不是"" which is grammatically correct but could be more natural and idiomatic.
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The translation uses the formal term ""阿尔伯塔省"" (Alberta Province) instead of the more common ""阿尔伯塔"" (Alberta).
+
+Overall, the translation is generally understandable, but there are some minor issues with accuracy, fluency, and terminology that could be improved to better convey the original meaning."
+75,Sure they cut business taxes.,他们确实降低了企业税率。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The source text ""Sure they cut business taxes"" is translated as ""They did indeed lower the corporate tax rate"", which is a slightly different meaning.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation error that does not significantly impact the meaning."
+78,"Discovered the hard way that in 2023, local TV station web sites are the absolute worst experience on the internet.","2023年,发现本地电视台网站是互联网上最糟糕的体验,这是一个艰难的教训。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""发现本地电视台网站是互联网上最糟糕的体验"" does not fully capture the nuance of the original English text, which suggests that the author ""discovered the hard way"" that local TV station websites are the worst experience on the internet.
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""这是一个艰难的教训"" could be improved to be more natural, such as ""这是一个艰难的教训所得出的结论"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."
+79,"Popups, auto-play videos, animations, popovers, and ads, ads, ads.",弹窗、自动播放视频、动画、弹出窗口和广告、广告、广告。,"MQM annotations:
+Accuracy Errors
+[Minor]: [no-error] - The translation accurately conveys the meaning of the source text.
+
+Fluency Errors
+[Minor]: [punctuation] - The translation uses more commas than necessary, which makes the text slightly less fluent.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality, with only minor fluency issues related to punctuation. The meaning is accurately conveyed, and the text is generally easy to understand."
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","即使现在 goatse.cx 已经不存在了,这仍然是真的,不过 goatse 和 khou.com 之间的竞争可能会很激烈,我曾试图在 khou.com 上观看温迪发给我的视频。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""温迪"" (Wendy) does not accurately reflect the original ""the Wendy"" in the source text.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation ""即使现在 goatse.cx 已经不存在了,这仍然是真的"" could be improved by using a more natural grammar structure, such as ""即使 goatse.cx 现在已经不存在了,这仍然是真的"".
+
+Style Errors
+[Minor]: [Awkward] - The translation ""不过 goatse 和 khou.com 之间的竞争可能会很激烈"" sounds a bit awkward compared to the more natural-sounding source text.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",我只是把他送到格拉斯哥。,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation does not fully capture the meaning of the original sentence. The original sentence indicates that the speaker is ""dropping him off"" in Glasgow, which suggests the speaker is driving the companion to Glasgow. The Chinese translation simply states ""I'm just sending him to Glasgow,"" which does not convey the same meaning.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is mostly accurate, with a minor error in the mistranslation of the phrase ""dropping him off."" The translation is generally fluent and does not have any other significant issues."
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,昨晚让我深信我们需要准备好与特朗普主义抗争。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not fully capture the meaning of the original text. The phrase ""fight back against Trumpism"" is translated as ""抗争与特朗普主义"", which does not convey the same sense of actively resisting or opposing Trumpism.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,贴一些反特朗普的汽车贴纸到处张贴。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""反特朗普"" (anti-Trump) does not fully capture the meaning of ""anti-Trump"" in the source text, which suggests a more active and aggressive stance against Trump.
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""贴一些反特朗普的汽车贴纸到处张贴"" has a slightly awkward grammar structure compared to the more natural English phrasing.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[Minor]: [awkward] - The translation sounds a bit awkward and could be phrased in a more natural way in Chinese.
+
+Terminology Errors
+[No Error]
+
+Non-translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and understandable, with a few minor issues related to fluency and style. The meaning is conveyed, but the translation could be improved to sound more natural and capture the intended tone of the source text."
+95,Yell back at those who would try to talk over us.,对那些试图压制我们声音的人大声回应。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""对那些试图压制我们声音的人大声回应"" does not fully capture the meaning of the original English sentence ""Yell back at those who would try to talk over us."" The translation focuses more on ""yelling back"" rather than the idea of not letting others ""talk over us.""
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,"所以我急忙回到公寓想避开他,但他还是设法追上我聊天。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""设法追上我聊天"" does not accurately convey the meaning of the original ""he still managed to catch up to me to chat"". The translation implies that the person intentionally caught up to the speaker to chat, while the original suggests that the person caught up to the speaker despite the speaker's efforts to avoid him.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation ""所以我急忙回到公寓想避开他"" uses the verb ""想"" (to want) which is not necessary in this context. A more natural translation would be ""所以我急忙回到公寓避开他"".
+
+Overall, the translation conveys the main meaning of the original text, but there are minor errors in accuracy and fluency that could be improved."
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,我重复一遍。到处传播你的新冠病毒粘液风暴是不可接受的社会行为!!!,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""新冠病毒粘液风暴"" (COVID-19 mucus storm) does not accurately convey the meaning of ""your covid mucus storm"" in the source text, which has a more negative and accusatory tone.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the formal ""我重复一遍"" (I repeat) instead of a more natural phrasing like ""我再说一遍"" (Let me say it again).
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""新冠病毒"" (COVID-19 virus) is appropriate, but ""粘液风暴"" (mucus storm) is an unusual and overly technical way to refer to the spread of COVID-19.
+
+Overall, the translation conveys the main meaning of the source text, but could be improved to better match the tone and style of the original."
+104,Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.,"阿部把他的悲伤隐藏起来,很容易笑,而汤姆不怕哭泣,但对粗俗的幽默不太感兴趣。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The name ""Abe"" is mistranslated as ""阿部"" in the Chinese translation.
+
+Fluency Errors
+[Minor]: [grammar] - The grammar in the Chinese translation is slightly awkward, e.g. ""把他的悲伤隐藏起来"" could be more natural as ""隐藏起他的悲伤"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""rude humor"" is translated as ""粗俗的幽默"", which may not fully capture the nuance of the original English term.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+106,Mio knows that sorrow is life's constant companion.,"缪知道,悲伤是生命永恒的伴侣。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The name ""Mio"" is mistranslated as ""缪"" in the target text.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is of good quality with only a minor error in the name translation. The meaning of the source text is accurately conveyed in the target text."
+108,#CNN needs to just close down.,#CNN需要关闭。,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""just"" from the original English text.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨天与#MangoMoron的灾难性事件是一场令人发指的灾难。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""灾难性事件"" does not fully capture the nuance of ""fiasco"" in the source text, which implies a more embarrassing or outrageous situation.
+
+Fluency Errors
+[Minor]: [register] - The translation uses a more formal register (""灾难性事件"") compared to the more colloquial tone of the source text (""fiasco"").
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The use of ""MangoMoron"" is a specific reference that may not be well-known or understood in the target language context.
+
+Overall, the translation conveys the general meaning of the source text, but some minor errors in accuracy, fluency, and terminology affect the quality and nuance of the translation."
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.","书呆子学生阿尼·坎宁安迷恋上了一辆1958年普利茅斯·富瑞的旧车,并沉迷于将这辆经典汽车修复到昔日的辉煌。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""书呆子学生"" (geeky student) does not fully capture the nuance of ""Geeky student"" in the source text.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation ""并沉迷于将这辆经典汽车修复到昔日的辉煌"" could be improved by using a more natural grammar structure, such as ""并沉迷于将这辆经典汽车修复至昔日的辉煌状态"".
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The translation ""普利茅斯·富瑞"" for ""Plymouth Fury"" may not be the most common or recognizable term for this car model in the Chinese context.
+
+Overall, the translation conveys the main meaning of the source text accurately, with only minor errors that do not significantly disrupt the flow or hinder comprehension."
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","随着汽车的变化,阿尼也发生了变化,他新发现的自信在驾驶他那辆异域美车时变成了傲慢。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""随着汽车的变化,阿尼也发生了变化"" does not accurately convey the meaning of the source text, which is that as the car changes, so does Arnie's personality.
+[Minor]: [mistranslation] - The translation ""他新发现的自信在驾驶他那辆异域美车时变成了傲慢"" does not fully capture the nuance that Arnie's newfound confidence turns to arrogance behind the wheel of his exotic car.
+
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by using a more natural sentence structure, such as ""随着汽车的变化,阿尼的性格也发生了变化,他新发现的自信在驾驶他那辆异域美车时变成了傲慢。""
+
+Terminology Errors
+[No Errors]
+
+Overall, the translation conveys the main idea of the source text, but could be improved in terms of accuracy and fluency."
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,"我邻居反对我,这其中最疯狂的部分就是想到要付出多大的努力才能表现出敌意。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""反对"" (oppose) does not accurately convey the meaning of ""turning against"" in the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation could be improved by using a more natural grammar structure, such as ""我邻居反对我,其中最疯狂的部分就是想到要付出多大的努力才能表现出敌意。""
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""表现出敌意"" (express hostility) may not be the most natural way to convey the idea of ""being hostile"" in this context.
+
+Overall, the translation is generally accurate and understandable, with only minor errors that do not significantly impact the meaning or flow of the text."
+126,It hurts but you gotta do you.,痛苦但你必须做你自己。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""痛苦但你必须做你自己"" does not fully capture the meaning of the original English phrase ""It hurts but you gotta do you."" The Chinese translation focuses more on the pain aspect, while the original English emphasizes the need to be true to oneself.
+
+Fluency Errors
+[Minor]: [grammar] - The Chinese translation uses the phrase ""你必须做你自己"" which is grammatically correct, but a more natural phrasing would be ""你必须做你自己的事"" to better match the English idiom.
+
+Overall, the translation conveys the general meaning, but could be improved to better reflect the nuance and idiomatic nature of the original English phrase."
+127,But at this point the open hostility and violence is getting worse.,"但在这一点上,公开的敌意和暴力正在变得更加严重。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not fully capture the meaning of the original text. The phrase ""at this point"" is not clearly conveyed in the Chinese translation.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only a minor issue in accurately conveying the meaning of ""at this point"". The translation is understandable and captures the main idea of the original text."
+128,That takes effort.,那需要努力。,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation does not fully capture the meaning of the original English sentence. The Chinese translation ""那需要努力"" (That requires effort) does not convey the same nuance as the original ""That takes effort.""
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, but it could be improved to better capture the nuance of the original English sentence."
+132,They had keys to my apartment for 6+ years.,他们有我公寓的钥匙超过6年。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the original text. The original text indicates that the ""they"" had keys to the speaker's apartment for over 6 years, but the translation only states that ""they have the keys to my apartment for over 6 years"", which does not clearly convey the duration.
+
+Fluency Errors
+[Minor]: [grammar] - The grammar in the translation is not entirely natural, as the phrase ""超过6年"" would be more naturally expressed as ""6年多"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+134,I am aware of your hatred of Organa.,我知道你对奥加纳的仇恨。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation correctly conveys the meaning of the source text, but the name ""Organa"" is mistranslated as ""奥加纳"" instead of the more common English transliteration ""奥加纳"".
+
+Fluency Errors
+[No errors]
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[No errors]
+
+Terminology Errors
+[No errors]
+
+Non-Translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is of good quality, with only a minor mistranslation error that does not significantly impact the comprehension of the text."
+142,The Last of Us is an easy and canonical example of dad-ification.,最后的我们是父亲化的简单和典范例子。,"MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The translation does not accurately convey the meaning of the source text. ""The Last of Us"" is a video game title, not a reference to ""dad-ification"".
+[Minor]: [Untranslated text] - The term ""dad-ification"" is not translated and remains in the target text.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation has grammatical errors, such as the incorrect use of ""父亲化的"" (which should be ""父亲化"" or ""父亲化的"").
+
+Terminology Errors
+[Major]: [Inappropriate for context] - The translation does not use appropriate terminology to convey the meaning of ""dad-ification"" in the context of video games."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.","父亲化通常认为,当一个父母角色必须照顾或保护一个孩子或孩子替代品的情况下,解决方案是压倒性的力量,并利用这种力量来强制一个非常特定形状的权力动态。","MQM annotations:
+Accuracy Errors
+[Major]: [mistranslation] - The translation does not accurately convey the meaning of the original text. The phrase ""Dad-ification"" is not accurately translated as ""父亲化"" (which means ""fatherhood"").
+[Minor]: [omission] - The translation omits the phrase ""or child stand-in"" from the original text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""一个父母角色"" (a parent role), which is not grammatically correct in this context. A more natural phrasing would be ""一个父母"" (a parent).
+
+Style Errors
+[Minor]: [awkward] - The translation is a bit awkward and could be phrased more naturally in Chinese.
+
+Overall, the translation conveys the general meaning of the original text, but there are some accuracy and fluency issues that could be improved."
+149,- We provide links to where you can book the fare.,我们提供预订车票的链接。,"MQM annotations:
+Accuracy Errors
+[Minor]: Omission - The source text mentions ""the fare"", but the translation only mentions ""car tickets"", which is a slightly different concept.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+151,- More details are in the full blog post.,更多详情请见完整博客文章。,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The source text mentions ""full blog post"" which is not present in the translation.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality with only a minor omission error that does not significantly impact the comprehension of the text."
+159,Over time dart became my go-to for quick UI.,"随着时间的推移,Dart 成为了我快速开发 UI 的首选。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""随着时间的推移,Dart 成为了我快速开发 UI 的首选"" is a slightly more literal translation of the source text, while the original English text conveys a more casual and colloquial tone.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is accurate and fluent, with only a minor mistranslation in the tone and register compared to the source text."
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter 是一种很棒的工作体验,他们有 #mobx 来轻松管理数据仓库。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""他们有 #mobx 来轻松管理数据仓库"" does not fully capture the meaning of the original ""and they have #mobx for easy store management"". The translation focuses more on the store management aspect rather than the ease of use.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""很棒的工作体验"" which is grammatically correct but could be more natural as ""很棒的工作体验"".
+
+Terminology Errors
+[Minor]: [Inconsistent use] - The translation uses ""数据仓库"" to refer to ""store management"", which is a slightly different concept than the original ""store management"".
+
+Overall, the translation conveys the main idea of the source text, with some minor issues in accuracy, fluency, and terminology. The translation is generally understandable and does not significantly disrupt the flow of the text."
+164,Echidna with amethyst and magenta spikes.,紫晶和品红色刺的针鼹,"MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The translation ""紫晶和品红色刺的针鼹"" does not accurately convey the meaning of the source text ""Echidna with amethyst and magenta spikes."" The translation refers to ""amethyst and magenta spikes"" as if they are part of the echidna, when the source text is describing the color of the echidna's spikes.
+[Minor]: [Untranslated Text] - The term ""Echidna"" is not translated in the target text.
+
+Fluency Errors
+[Minor]: [Spelling] - The term ""针鼹"" in the translation is a misspelling of the correct term ""刺猬.""
+
+Terminology Errors
+[Major]: [Inappropriate for Context] - The term ""紫晶"" (amethyst) is not an appropriate translation for the color ""amethyst"" in the context of describing the spikes of an echidna."
+167,"Their hair is raspberry, short and curly.","他们的头发是树莓色的,短而卷曲。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""树莓色"" (raspberry color) does not accurately convey the meaning of ""raspberry"" as a type of hair color.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation in the description of the hair color."
+169,Their most interesting feature is their good deeds.,他们最有趣的特点是他们的善行。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not fully capture the meaning of the original text. The phrase ""their good deeds"" is translated as ""their good actions"", which is a slightly different nuance.
+
+Fluency Errors
+[No errors]
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[No errors]
+
+Terminology Errors
+[No errors]
+
+Non-translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation is accurate and fluent, with only a minor mistranslation that does not significantly impact the meaning. The translation is generally of good quality."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...","即使布拉姆·斯托克、马克斯·施雷克和斯蒂芬妮·梅耶尽了最大努力让他们看起来很糟糕,每个人都...","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The name ""Max Schreck"" is mistranslated as ""马克斯·施雷克"".
+[Minor]: [Omission] - The name ""Bram Stoker"" is omitted in the translation.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""每个人都..."" which is grammatically correct but could be improved to ""所有人都..."" for better fluency.
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The term ""布拉姆·斯托克"" is a literal translation of ""Bram Stoker"" and may not be the most appropriate terminology in this context.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","我需要翻译成中文普通话和/或福建话,我完全不懂这两种语言。","MQM annotations:
+
+Accuracy Errors
+[Minor]: [Omission] - The translation does not include the phrase ""neither of which I know at all"" from the source text.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""我完全不懂这两种语言"" which is grammatically correct but could be more natural and idiomatic.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+179,Been toying with this thought for a little while:,我一直在思考这个想法一段时间了。,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""我一直在思考这个想法一段时间了"" does not fully capture the nuance of the original English phrase ""Been toying with this thought for a little while"", which suggests a more casual, exploratory process of considering the idea.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation that does not significantly impact the meaning. The translation is acceptable and conveys the main idea of the source text."
+182,Because it happens in the mind and seems less tangible than physical health.,心理健康,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the full explanation of why mental health is less tangible than physical health.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+189,"My sex is non-binary, my gender is female.","我的性别是非二元性别,我的性别认同是女性。","MQM annotations:
+Accuracy Errors
+[Minor]: Mistranslation - The source text states that the speaker's sex is non-binary, but the translation incorrectly states that their sex is ""non-binary"" rather than their gender.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,"像泡菜心情和其他世俗流行音乐,以及电台工作室等各种。","MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The phrase ""krauty moods"" is not accurately translated as ""泡菜心情"" (pickled cabbage moods). The original meaning is not conveyed.
+[Minor]: [Omission] - The phrase ""and all sorts"" is not fully translated in the target text.
+
+Fluency Errors
+[Minor]: [Grammar] - The sentence structure in the target text is not as natural as the source text.
+
+Overall, the translation conveys the general meaning of the source text, but there are some accuracy and fluency issues that could be improved."
+196,Playing around a bit with Flutter.,玩玩 Flutter。,"MQM annotations:
+Accuracy Errors
+[Minor]: [Omission] - The translation omits the word ""a"" before ""bit"".
+
+Fluency Errors
+[Minor]: [Spelling] - The translation uses the simplified Chinese character ""玩"" instead of the traditional Chinese character ""玩"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors in spelling and omission. The translation conveys the meaning of the source text effectively."
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.","我不想以谷歌的技术为基础来经营我的业务,说实话。另一方面,谷歌是为数不多的大公司之一,它有真正的动力去创造一个引人入胜的跨平台体验,这一点很明显。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""我不想以谷歌的技术为基础来经营我的业务"" does not fully capture the nuance of the original ""I'd hate to base my business on tech from Google"". The translation is a bit more direct and lacks the subtle hesitation expressed in the original.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation that does not significantly impact the meaning or comprehension of the text."
+203,A few very small difficulties have come to light.,一些非常小的困难浮现出来。,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""一些非常小的困难浮现出来"" does not fully capture the nuance of the original English phrase ""A few very small difficulties have come to light"", which suggests that the difficulties were not previously known or obvious.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]"
+204,Nothing to set alarm bells ringing but nevertheless they are being addressed.,"没有引起警报的必要,但仍在解决这些问题。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""没有引起警报的必要"" does not fully capture the meaning of the original ""Nothing to set alarm bells ringing"". The original implies that there is no urgent or serious issue, while the translation is more literal and does not convey the same nuance.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor issue in capturing the nuance of the original. The translation is still understandable and conveys the main meaning."
+205,A small update will be produced next week to correct them.,下周将生产一个小更新来纠正它们。,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The pronoun ""them"" in the source text is not translated in the target text.
+
+Fluency Errors
+[Minor]: [grammar] - The phrase ""下周将生产一个小更新来纠正它们"" could be improved grammatically to ""下周将生产一个小更新来纠正这些错误"".
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,"我不确切知道为什么我的大脑无法解决这个问题;可能是因为工具太广泛和模糊,以至于我的大脑因""选择太多""而陷入僵局。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""为什么我的大脑无法解决这个问题"" does not fully capture the meaning of the original ""why my brain can't figure it out"".
+[Minor]: [omission] - The phrase ""it might be that"" is omitted in the translation.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""因为选择太多而陷入僵局"", which is grammatically correct but could be improved to be more natural, such as ""因为选择太多而陷入困境"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""大脑"" (brain) is used in the translation, which is technically correct but may not be the most natural or idiomatic way to express the concept in this context.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the overall meaning or comprehension of the text."
+217,"There's... no way that would work, probably!","那根本行不通,可能!","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the original English sentence. The Chinese translation ""那根本行不通,可能!"" (That wouldn't work at all, possibly!) does not fully capture the nuance and uncertainty expressed in the English ""There's... no way that would work, probably!""
+
+Fluency Errors
+[Minor]: [grammar] - The Chinese translation lacks a subject pronoun, which is more natural in English but not required in Chinese.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[Minor]: [awkward] - The Chinese translation sounds a bit awkward and could be phrased more naturally.
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally understandable, but could be improved to better capture the nuance and flow of the original English sentence."
+219,I was a voracious reader in my youth.,我年轻时是个贪婪的读者。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Chinese translation ""贪婪的读者"" (greedy reader) does not accurately convey the meaning of ""voracious reader"" in the source text, which suggests an enthusiastic and avid reader rather than a greedy one.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation that does not significantly impact the overall meaning."
+228,"But if Spotify has a good quarter, they will.","但如果 Spotify 有一个好的季度,他们就会。","MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The translation does not accurately convey the meaning of the original sentence. The original sentence suggests that if Spotify has a good quarter, they will do something, but the translation does not specify what they will do.
+[Minor]: Omission - The translation omits the second part of the original sentence, which is essential for understanding the complete meaning.
+
+Fluency Errors
+[Minor]: Grammar - The translation has grammatical errors, such as the lack of a verb after ""他们就会.""
+
+Locale Convention Errors
+[No errors]
+
+Style Errors
+[Minor]: Awkward - The translation sounds unnatural and does not flow well in Chinese.
+
+Terminology Errors
+[No errors]
+
+Non-translation Errors
+[No errors]
+
+Other Errors
+[No errors]
+
+Overall, the translation has some major and minor errors that affect the accuracy and fluency of the text, making it difficult to fully understand the original meaning."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,让他们修复遍布全国的空心化和衰败的城市。,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""again"" at the end of the source sentence.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""修复遍布全国的空心化和衰败的城市"" which is grammatically correct but could be more natural and idiomatic.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors in omission and grammar. The translation conveys the meaning of the source text effectively."
+235,These headlines and articles usually reference one CEO at one large company.,这些标题和文章通常只提及一家大公司的一位CEO。,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""reference"" in the source text.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,"这些都是点击诱饵,但这确实让我担心那些阅读这些文章的高管和经理。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""点击诱饵"" (clickbait) does not fully capture the meaning of ""clickbait"" in the source text, which refers to content designed to attract attention and encourage clicks, rather than providing substantive information.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only a minor issue in the translation of ""clickbait"". The translation conveys the main meaning of the source text effectively."
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,"它使人们能够避免耗费时间的长途通勤,从而有更多时间与家人在一起。","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the phrase ""that take time away from their day"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""有更多时间与家人在一起"" which is grammatically correct but could be more natural and idiomatic.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error] 
+
+Terminology Errors
+[No Error]
+
+Non-translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors detected. The omission of a short phrase and the slightly unnatural grammar do not significantly impact the overall meaning and comprehension of the translation."
+247,"""This is a war between the pro-humans and anti-humans,"" he said.","""这是人类支持者和反人类之间的战争,""他说。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""反人类"" (anti-humans) does not accurately convey the meaning of ""anti-humans"" in the source text, which should be more accurately translated as ""反对人类"" (against humans).
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,他还认为，新民主党和进步派想要为了环境的缘故而减少人口。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the original text. The source text states that the NDP and progressives ""want to depopulate society"", while the translation says they ""want to reduce the population"" for the sake of the environment.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""为了环境的缘故"" which is grammatically correct but sounds a bit unnatural. A more natural phrasing would be ""为了环境考虑"" or ""为了环境目的"".
+
+Overall, the translation conveys the main meaning of the source text, but there are some minor issues with accuracy and fluency that could be improved."
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,"每当五月来临,我就害怕庆祝我的生日。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation accurately conveys the meaning of the source text, but the phrasing ""每当五月来临"" is a bit more literal than the source text's ""Whenever May would pop up"".
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality and accurately conveys the meaning of the source text, with only a minor issue in the phrasing."
+258,Winter is 30 days away in this little part of the Great Southern World.,冬季距离这个大南方世界的这个小部分还有30天。,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""is"" in the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""距离还有"" instead of a more natural phrasing like ""还有 30 天就是冬季"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation conveys the meaning of the source text accurately, with only minor grammatical and omission errors that do not significantly impact comprehension."
+261,"The rain is falling and whilst/while it is not frozen, you ain't going dancing in it!","雨正在下落,虽然它没有冻结,你也不会在雨中跳舞!","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""虽然它没有冻结"" does not accurately convey the meaning of ""whilst/while it is not frozen"" in the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""你也不会在雨中跳舞!"" uses an awkward grammar structure compared to the more natural English phrasing in the source text.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The translation uses the formal term ""落"" (to fall) for ""falling"" which sounds a bit unnatural in this casual context.
+
+Overall, the translation conveys the main meaning of the source text, but there are some minor errors in accuracy, fluency, and terminology that could be improved to make the translation more natural and idiomatic."
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,您知道网页组件在被添加/移除文档时响应的高性能方法吗?,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""do"" in the source sentence.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses ""您"" (formal ""you"") instead of the more natural ""你"" (informal ""you"") in this context.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor grammatical and omission errors that do not significantly impact the meaning or comprehension of the text."
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",我们创建一个分离的临时父级，在那里安装 MO，并观察它变得分离(因此附着在其他地方)。,"MQM annotations:
+
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""thus"" in the original text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""变得分离"" which is not a natural way to express the idea of becoming detached in Chinese.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation conveys the main idea of the source text, but there are some minor errors in accuracy and fluency that could be improved."
+276,He's just absolutely ripped from tearing around my office twice a day.,"他每天在我办公室里来回跑两次,身材绝对健壮。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""身材绝对健壮"" does not fully capture the meaning of ""ripped"" in the source text, which implies that the person is very muscular or physically fit.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation that does not significantly impact the overall meaning."
+277,"I don't have a scale to weigh him, but he feels like he's well over a pound.","我没有秤来称他的重量,但我感觉他的重量远远超过一磅。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""well over a pound"" is not accurately conveyed in the Chinese translation, which says ""far exceeds one pound"".
+
+Fluency Errors
+[Minor]: [grammar] - The Chinese translation uses the phrase ""感觉他的重量"" which is grammatically correct but could be more natural as ""感觉他很重"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error] 
+
+Terminology Errors
+[No Error]
+
+Non-translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or comprehension of the text."
+278,It makes me so happy to see him thriving.,"看到他蒸蒸日上,我感到非常高兴。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""蒸蒸日上"" (thriving) does not fully capture the meaning of the source text ""thriving"", which conveys a sense of joy and happiness.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation conveys the general meaning of the source text, but the specific nuance of happiness and joy is not fully captured. The translation is mostly fluent and natural, with no major errors."
+280,1) Slight modifications to the Hel's Fighters map layout.,轻微修改赫尔战士地图布局。,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""赫尔战士"" does not accurately convey the meaning of ""Hel's Fighters"" in the source text.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation ""轻微修改赫尔战士地图布局"" has a slightly unnatural grammatical structure compared to the source text.
+
+Overall, the translation conveys the main meaning of the source text, but there are minor issues with accuracy and fluency that could be improved."
+286,"All collards, kale, chard is transplanted.",所有的羽衣甘蓝、羽衣甘蓝和瑞士甜菜都是移植的。,"MQM annotations:
+Accuracy Errors
+[Minor]: Mistranslation - The source text mentions ""collards, kale, chard"" as the types of plants that are transplanted, but the translation incorrectly repeats ""羽衣甘蓝"" (kale) twice.
+[Minor]: Omission - The source text mentions three types of plants, but the translation only lists two (羽衣甘蓝 and 瑞士甜菜).
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]"
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,"春季豌豆在吉尔平出现,需要设置支架。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""春季豌豆在吉尔平出现"" does not accurately convey the meaning of the original ""Spring peas at Gilpin are showing up"". The translation focuses on the location ""吉尔平"" rather than the fact that the spring peas are appearing.
+[Minor]: [Omission] - The translation omits the information that ""the trellise needs to be set"" which is an important part of the original sentence.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]"
+291,"Apple Maps comes default with iOS, and yet people would go out of their way to download and install Google Maps onto their iPhones.","蘋果地圖預設隨 iOS 而來,但人們還是會特意下載並安裝谷歌地圖到他們的 iPhone 上。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""蘋果地圖預設隨 iOS 而來"" does not fully capture the meaning of the original ""Apple Maps comes default with iOS"". The translation implies that Apple Maps is pre-installed on iOS devices, while the original text suggests that it is the default mapping app on iOS.
+[Minor]: [omission] - The translation omits the phrase ""and yet"" which conveys the contrast between Apple Maps being the default and people still choosing to use Google Maps.
+
+Fluency Errors
+[No errors detected]
+
+Locale Convention Errors
+[No errors detected]
+
+Style Errors
+[No errors detected]
+
+Terminology Errors
+[No errors detected]
+
+Non-Translation Errors
+[No errors detected]
+
+Other Errors
+[No errors detected]
+
+Overall, the translation is generally accurate and fluent, with only minor issues related to the translation of the first part of the sentence and the omission of the contrastive phrase. The translation is still understandable and conveys the main idea of the original text."
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","好奇心驱使我保持开放的心态,比较谷歌地图和苹果地图在我的测试 iPhone 设备上的表现。(我的日常使用设备是 Android 设备,所以很少使用 iPhone。)","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the phrase ""on my test iPhone device"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""保持开放的心态"" which is a direct translation from English and does not sound natural in Chinese.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and understandable, with only minor fluency and accuracy issues that do not significantly impact the meaning. The translation could be improved by rephrasing the opening sentence to sound more natural in Chinese."
+297,No idea.,没有主意。,"MQM annotations:
+
+Accuracy Errors
+[Minor]: [Omission] - The source text ""No idea."" is not fully translated in the target text.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+300,Could it be that Google Search is integrated with Google Maps?,是否谷歌搜索与谷歌地图集成?,"MQM annotations:
+
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the original English sentence. The English sentence is asking if Google Search is integrated with Google Maps, while the Chinese translation is simply asking if Google Search and Google Maps are integrated.
+
+Fluency Errors
+[Minor]: [grammar] - The Chinese translation lacks a subject, making the sentence structure less natural and fluent.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","我偏向于不向最终用户发布垃圾,而苹果公司在2012年推出的苹果地图上犯了严重的错误。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""犯了严重的错误"" does not accurately convey the meaning of ""royally fucked up"" in the source text, which is a more colloquial and stronger expression.
+
+Fluency Errors
+[Minor]: [register] - The translation uses a more formal register compared to the more casual tone of the source text.
+
+Overall, the translation is generally accurate and fluent, with only minor issues in conveying the tone and register of the source text."
+306,The house itself declines in value because it loses its condition and needs to be replaced.,"房子本身的价值下降,因为它失去了状况,需要被替换。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""被替换"" (to be replaced) does not accurately convey the meaning of the original ""needs to be replaced"".
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the passive voice ""被替换"" (to be replaced) instead of the active voice ""需要被替换"" (needs to be replaced), which is more natural in Chinese.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+310,They're not stupid enough to sell the sell forever.,他们不够愚蠢到永远出售。,"MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The original English sentence is a negation of the idea that ""they are stupid enough to sell forever"", but the Chinese translation has changed the meaning to ""they are not stupid enough to sell forever"".
+[Minor]: Omission - The repeated use of the word ""sell"" in the original English sentence is not captured in the Chinese translation.
+
+Fluency Errors
+[Minor]: Grammar - The Chinese translation uses the phrase ""不够愚蠢到"" which is grammatically correct but could be more natural as ""不会那么愚蠢到""."
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,"看起来难以想象,当你观看澳大利亚和美国媒体频道时,土地可能会被夺走,但这是因为富人整天在那里确保你的思维方式是某种特定的方式。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not fully capture the meaning of the original text. The original text suggests that the media portrayal of land ownership issues is misleading, whereas the translation simply states that it is hard to imagine land being taken away.
+
+Fluency Errors
+[Minor]: [grammar] - The translation has some grammatical issues, such as the use of ""当你观看"" instead of ""当你观看时"".
+
+Style Errors
+[Minor]: [awkward] - The translation sounds a bit awkward and does not flow as naturally as the original text.
+
+Overall, the translation conveys the main idea of the original text, but there are some minor issues with accuracy, fluency, and style that could be improved."
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.","致所有投资者,我为您的成功和梦想实现而干杯。","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the phrase ""out there"" from the original English text.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is accurate and fluent, with only a minor omission error. The translation conveys the meaning of the original text effectively."
+322,Let us continue to work together towards creating a brighter future for all.,让我们继续携手共创美好的未来。,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The source text ""for all"" is not translated in the target text.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,"我常常惊讶于人类如此自我贬低,却又被如此多残酷的证据所淹没。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""自我贬低"" does not fully capture the nuance of ""down on oneself"" in the original English text.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality, with only a minor accuracy error that does not significantly impact the overall meaning. The translation is generally fluent and follows the conventions of the target language."
+327,We're all such messy critters.,我们都是如此凌乱的生物。,"MQM annotations:
+
+Accuracy Errors
+[Minor]: Mistranslation - The translation ""凌乱的生物"" (messy creatures) does not fully capture the nuance of ""critters"" which has a more informal, colloquial connotation.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor issue in capturing the informal tone of the source text."
+332,"or ""Modal editors are useless today"" :morty:",模态编辑器今天毫无用处,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""模态编辑器今天毫无用处"" does not accurately convey the meaning of the original English phrase ""Modal editors are useless today"". The translation is a bit too literal and does not capture the intended tone or context.
+
+Fluency Errors
+[Minor]: [register] - The translation uses a more formal and technical register compared to the more casual and colloquial tone of the original English phrase.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""模态编辑器"" may not be the most appropriate or common terminology to use in this context.
+
+Overall, the translation is understandable, but there are some minor errors that affect the accuracy and fluency of the translation. The quality of the translation is acceptable, but could be improved."
+336,How would you share personal libraries?,如何分享个人图书馆?,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The Chinese translation ""个人图书馆"" (personal library) does not accurately convey the meaning of ""personal libraries"" in the source text, which refers to a collection of personal books or digital content, not a physical library.
+
+Fluency Errors
+[Minor]: [grammar] - The Chinese translation uses a grammatically correct structure, but it could be improved by using a more natural phrasing, such as ""如何分享个人的图书馆/藏书"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""图书馆"" (library) may not be the most appropriate choice in this context, as the source text is referring to personal collections of books or digital content, rather than a public or institutional library.
+
+Overall, the translation is generally understandable, but could be improved to better match the meaning and context of the source text."
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str","我也有一天会在高空中达到高潮,也许不会是和一个陌生人。","MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The source text mentions ""the mile high orgasm"", which is a sexual act performed on an airplane. The translation does not accurately convey this meaning and instead uses a more general phrase about reaching orgasm in the air.
+[Minor]: Omission - The source text mentions ""maybe not with a stranger"", but this part is not included in the translation.
+
+Fluency Errors
+[Minor]: Grammar - The translation uses the phrase ""也有一天会"" which is grammatically correct but could be improved to sound more natural, such as ""有一天我也会"".
+
+Terminology Errors
+[Major]: Inappropriate for context - The term ""高潮"" (orgasm) is too explicit and inappropriate for the context of the source text, which is discussing a sexual act in a more subtle manner.
+
+Overall, the translation has some significant errors in accurately conveying the meaning of the source text, as well as some minor fluency issues. The terminology used is also not well-suited for the context."
+342,I don't agree that #Mastodon is difficult to setup.,我不同意#Mastodon很难设置。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation does not accurately convey the meaning of the original text. The source text expresses disagreement with the notion that Mastodon is difficult to set up, while the translation simply states that the user does not agree without the context of the difficulty of setup.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the incorrect grammar structure ""我不同意#Mastodon很难设置"" instead of a more natural phrasing like ""我不同意#Mastodon是很难设置的.""
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+345,"I wish there was a ""who to follow"" recommendation somehow.","我希望能有一个""谁值得关注""的推荐系统。","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""somehow"" from the original English sentence.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+347,If you stick to the default web interface it doesn't look and feel good (imho).,"如果你坚持使用默认的网页界面,它看起来和感觉都不太好(在我看来)。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""在我看来"" (in my opinion) is a more literal translation of ""imho"" (in my humble opinion), which is a slightly different nuance.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality and accurately conveys the meaning of the source text. The only minor issue is the slightly different nuance in the translation of the abbreviation ""imho""."
+352,Explanation: account for both sides of mutual influence,相互影响的双方,"MQM annotations:
+Accuracy Errors
+[Minor]: [Omission] - The translation does not fully capture the meaning of the source text, which mentions ""account for both sides of mutual influence"". The translation only covers one side of the mutual influence.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error] 
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.","即使他在镇政厅期间没有说出这些话,但在2024年11月之前,美国的每个人都会一遍又一遍地听到这些话。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""镇政厅"" (town hall) does not accurately convey the meaning of ""town hall"" in the source text, which refers to a public meeting or forum, not a specific physical location.
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""美国的每个人都会一遍又一遍地听到这些话"" could be improved by using a more natural grammatical structure, such as ""美国的每个人都会反复听到这些话"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""镇政厅"" (town hall) may not be the most appropriate translation for the context, as it does not convey the meaning of a public forum or meeting.
+
+Overall, the translation is generally accurate and understandable, with only minor errors that do not significantly impact the comprehension of the text."
+366,Throwing everything you've got over the fence in response to GPT is not it.,对GPT的回应不应该是把所有的东西都扔过篱笆。,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation does not fully capture the meaning of the original English sentence. The phrase ""throwing everything you've got over the fence"" is not directly translated as ""把所有的东西都扔过篱笆"".
+
+Fluency Errors
+[Minor]: [Grammar] - The grammar in the Chinese translation is slightly awkward, and could be improved to sound more natural.
+
+Overall, the translation conveys the main idea of the original English sentence, but could be improved in terms of accuracy and fluency. The errors are minor and do not significantly impact the comprehension of the text."
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.","如果我试图找出我的一次最大重复次数,我可能没有足够的重量来达到最大值,或者相反,这可能会严重伤害/杀死我。","MQM annotations:
+Accuracy Errors
+[Major]: [Mistranslation] - The translation does not accurately convey the meaning of the source text. The source text is discussing the risks of trying to determine one's one-rep max, but the translation focuses more on the lack of weights or the potential for serious injury/death.
+[Minor]: [Omission] - The translation omits the phrase ""figure out"" from the source text.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses the phrase ""一次最大重复次数"" which is not idiomatic Chinese. A more natural phrasing would be ""一次最大重量"" or ""一次最大举重量"".
+
+Style Errors
+[Minor]: [Awkward] - The translation sounds a bit awkward and unnatural in places, such as the use of ""达到最大值"" instead of a more natural phrasing."
+375,I swear burrata didn't exist five years ago,我发誓五年前没有布拉塔奶酪。,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""burrata"" which is the main subject of the source sentence.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""没有布拉塔奶酪"" which is grammatically correct but does not sound natural in Chinese. A more natural phrasing would be ""布拉塔奶酪五年前还不存在"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""布拉塔奶酪"" is a direct translation of ""burrata"" but may not be the most commonly used term in Chinese. A more natural term like ""布拉塔芝士"" may be more appropriate.
+
+Overall, the translation conveys the main meaning of the source sentence, but there are some minor errors in accuracy, fluency, and terminology that could be improved."
+376,This is my personal Mandela effect thing.,这是我个人的曼德拉效应。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation accurately conveys the meaning of the source text, but the phrasing could be improved to sound more natural in the target language.
+
+Fluency Errors
+[Minor]: [grammar] - The translation has a minor grammatical error, but it does not significantly impact the overall comprehension of the text.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is of good quality and accurately conveys the meaning of the source text, with only minor fluency and accuracy issues that do not significantly impact the comprehension of the text."
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,"我从未见过任何人的妈妈做过它,也从未在派对上被人强迫吃过它,也从未见过它与任何人的酱料制作或烘焙活动有关。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation does not accurately convey the meaning of the original text. The original text refers to the speaker never having seen anyone's mom make the dish or having it forced upon them at a party, or seeing it in relation to someone's sauce-making or baking activities. The translation does not capture the nuance of ""shoved at me"" and the connection to someone's saucemaking or baking.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses a slightly awkward grammatical structure in the last part of the sentence, ""也从未见过它与任何人的酱料制作或烘焙活动有关.""
+
+Style Errors
+[Minor]: [Awkward] - The translation, while understandable, has a slightly awkward phrasing compared to the more natural flow of the original English text.
+
+Overall, the translation conveys the main meaning of the original text, but there are some minor accuracy, fluency, and style issues that could be improved."
+380,It just appeared one day and suddenly it was available everywhere.,"它就在某一天突然出现,随后迅速普及。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""突然出现"" does not fully capture the nuance of ""just appeared one day"" in the source text.
+[Minor]: [omission] - The translation omits the phrase ""and suddenly it was available everywhere"" from the source text.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation conveys the main idea of the source text, but some minor accuracy and fluency issues are present. The translation is generally understandable, with no critical or major errors."
+385,"This would be mainly for web browsing, occasional email, and some games.",这主要用于网页浏览、偶尔收发电子邮件和一些游戏。,"MQM annotations:
+
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""这主要用于网页浏览、偶尔收发电子邮件和一些游戏"" does not fully capture the meaning of the original English sentence, which suggests that the device would be used mainly for web browsing, occasional email, and some games.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation that does not significantly impact the meaning of the original text."
+387,"""A good game is only late until it ships.",一款好游戏只要最终发布即可。,"MQM annotations:
+
+Accuracy Errors
+[Minor]: Mistranslation - The translation does not fully capture the meaning of the original English phrase ""A good game is only late until it ships."" The Chinese translation focuses on the final release of the game, but does not convey the idea that a game can be considered ""late"" during development, as long as it is eventually released.
+
+Fluency Errors
+[Minor]: Grammar - The Chinese translation uses a simple sentence structure that may not fully capture the nuance of the original English phrasing.
+
+Terminology Errors
+[Minor]: Inappropriate for context - The Chinese translation uses a more generic term for ""game"" rather than a more specific term that might be more appropriate for the context of game development.
+
+Overall, the translation is generally understandable, but there are some minor issues with accuracy, fluency, and terminology that could be improved to better capture the meaning and nuance of the original English text."
+392,"""Or, as an industry catch phrase goes: A late game is only late until it ships.","一款游戏迟到只是迟到,直到它发布。","MQM annotations:
+
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation does not fully capture the meaning of the original phrase ""A late game is only late until it ships"". The Chinese translation focuses more on the game being late, rather than the idea that a late game is still considered on time once it is released.
+
+Fluency Errors
+[Minor]: [Grammar] - The Chinese translation uses a slightly awkward grammatical structure, ""一款游戏迟到只是迟到,直到它发布。"" A more natural phrasing could be ""一款游戏即使迟到,只要最终发布就算及时。""
+
+Style Errors
+[Minor]: [Awkward] - The Chinese translation, while understandable, sounds a bit awkward and does not flow as naturally as the original English phrase.
+
+Overall, the translation conveys the general meaning of the source text, but could be improved to better capture the nuance and style of the original. The errors identified are mostly minor and do not significantly impact the comprehension of the translation."
+394,Is it so ephemeral then?,那么它是如此短暂吗?,"MQM annotations:
+
+Accuracy Errors
+[Minor]: [mistranslation] - The translation accurately conveys the meaning of the source text, but the phrasing could be more natural.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is of good quality and accurately conveys the meaning of the source text, with only a minor issue in the phrasing."
+397,"He carries it in his mouth proudly all over the house, and I just have to laugh inwardly.","他骄傲地在房子里到处叼着它,我只能在内心偷偷地笑。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""叼着它"" (carrying it in the mouth) does not accurately convey the meaning of the source text, which is that the person is carrying the object proudly in their mouth.
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""我只能在内心偷偷地笑"" (I can only secretly laugh in my heart) could be improved to be more natural, such as ""我只能在内心偷笑"" (I can only laugh inwardly).
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""叼着"" (carrying in the mouth) is not the most appropriate choice for describing how a person carries an object, as it is more commonly used for animals.
+
+Overall, the translation conveys the general meaning of the source text, but could be improved in terms of accuracy and fluency to better reflect the nuances of the original."
+399,Have now done a full round trip on the new ICNG train.,我已经完成了新型 ICNG 列车的全程往返旅行。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""我已经完成了新型 ICNG 列车的全程往返旅行"" does not fully capture the meaning of the original English sentence ""Have now done a full round trip on the new ICNG train."" The translation implies that the action has been completed, while the original sentence suggests an ongoing or recent experience.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor mistranslation that does not significantly impact the overall meaning."
+400,I really like it.,我很喜欢它。,"MQM annotations:
+Accuracy Errors
+[Minor]: None
+Fluency Errors
+[Minor]: None
+Locale Convention Errors
+[Minor]: None
+Style Errors
+[Minor]: None
+Terminology Errors
+[Minor]: None
+Non-Translation Errors
+[Minor]: None
+Other Errors
+[Minor]: None
+Overall, the translation is accurate and fluent. There are no errors detected."
+402,There's areas that could use some polish.,需要加以改善的地方。,"MQM annotations:
+
+Accuracy Errors
+[Minor]: Omission - The source text mentions ""areas"" that could use some polish, but this is not reflected in the translation.
+
+Fluency Errors
+[Minor]: Grammar - The translation uses the phrase ""需要加以改善的地方"" which is grammatically correct but could be more natural and idiomatic.
+
+Terminology Errors
+[Minor]: Inappropriate for context - The translation uses the term ""改善"" (improve) which is a bit formal and doesn't fully capture the nuance of ""polish"" in the source text.
+
+Overall, the translation conveys the main meaning of the source text, but there are some minor issues with accuracy, fluency, and terminology that could be improved to make the translation more natural and idiomatic."
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.","缺乏足够的垃圾桶,以及缺乏解释照明颜色意义的标志。","MQM annotations:
+Accuracy Errors
+[Minor]: Omission - The source text mentions ""the lack of signs to explain the significance of the lighting colours"", but this is not included in the translation.
+
+Fluency Errors
+[Minor]: Grammar - The translation uses ""缺乏"" twice in a row, which sounds a bit awkward in Chinese. A more natural phrasing could be ""垃圾桶不足,且缺乏解释照明颜色意义的标志"".
+
+Terminology Errors
+[Minor]: Inappropriate for context - The term ""垃圾桶"" (trash can) is used, but ""bins"" in the source text likely refers to recycling or waste collection bins, which have a more specific meaning.
+
+Overall, the translation conveys the main meaning of the source text, but there are some minor issues with omission, grammar, and terminology that could be improved."
+404,"Fix those minor issues, and then can we have more of these please?","修复这些小问题,然后我们可以再来一些吗?","MQM annotations:
+Accuracy Errors
+[Minor]: No errors detected.
+
+Fluency Errors
+[Minor]: No errors detected.
+
+Locale Convention Errors
+[Minor]: No errors detected.
+
+Style Errors
+[Minor]: No errors detected.
+
+Terminology Errors
+[Minor]: No errors detected.
+
+Non-Translation Errors
+[Minor]: No errors detected.
+
+Other Errors
+[Minor]: No errors detected.
+
+Overall, the translation is accurate and fluent, with no major or critical errors detected. The translation effectively conveys the meaning of the source text."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,"每位顾客限购一件规则仍然存在,我们努力确保每个排队的人都能买到板子。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""板子"" (board) does not accurately convey the meaning of ""a board"" in the original English text, which refers to a product or item being purchased.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""每位顾客限购一件规则"" which is grammatically incorrect. A more natural phrasing would be ""每位顾客限购一件"" or ""实行每位顾客限购一件的规则"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally understandable, with only minor errors that do not significantly impact the meaning or flow of the text."
+407,"You can buy ONE of the boards listed above, not one of each.","您可以购买上述列出的其中一块板子,而不是每种都买一块。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""其中一块板子"" is a bit more specific than the original ""one of the boards"", which could be interpreted as either one board or one of each board.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality and accurately conveys the meaning of the source text, with only a minor mistranslation that does not significantly impact the comprehension of the text."
+409,Yesterday I had the best time with my friend and former rabbi colleague.,昨天我和我的朋友以及前任拉比同事度过了美好的时光。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""拉比"" (rabbi) is a bit too specific and formal compared to the more casual ""friend and former colleague"" in the source text.
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only a minor issue in the translation of ""friend and former colleague"". The translation conveys the meaning of the source text effectively."
+410,We visited for a couple hours on my porch.,我们在我的门廊上待了几个小时。,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation accurately conveys the meaning of the source text.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of high quality and accurately conveys the meaning of the source text with no significant errors."
+412,We all have stories to tell.,我们都有故事要讲。,"MQM annotations:
+
+Accuracy Errors
+[No Errors]
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors] 
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is accurate and fluent. There are no major errors detected."
+415,I quite like akkoma the software and the domain name I got for my instance.,"我很喜欢 akkoma 这个软件,以及我为我的实例获得的域名。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation accurately conveys the meaning of the source text.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of high quality and accurately conveys the meaning of the source text with no major errors detected."
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",但是我感觉我以某种方式开始了这个实例的错误步伐。,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""实例"" does not accurately convey the meaning of ""instance"" in the original English text, which refers to a specific occurrence or example, not a computer program instance.
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""我以某种方式开始了这个实例的错误步伐"" has a slightly unnatural grammatical structure compared to the original English.
+
+Overall, the translation conveys the general meaning of the source text, but there are some minor errors in accuracy and fluency that could be improved."
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,"爬行动物已经在地表下挖掘隧道,你掉入了一个洞穴中,里面有数百只爬行动物的沸腾的身体。","MQM annotations:
+
+Accuracy Errors
+[Major]: Mistranslation - The source text refers to ""Repnids"", which are likely a fictional creature, but the translation uses the generic term ""爬行动物"" (reptiles) instead.
+[Minor]: Omission - The source text mentions that the Repnids are in a ""boiling mass"", but this detail is not included in the translation.
+
+Fluency Errors
+[Minor]: Grammar - The translation uses the passive voice ""已经在地表下挖掘隧道"" which is not as natural as the active voice in the source text.
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[Minor]: Awkward - The translation sounds a bit awkward and could be phrased more naturally.
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation conveys the main meaning of the source text, but there are some minor issues with accuracy, fluency, and style that could be improved."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","结局迅速,几对尖牙注入致命毒液,Dyskra的空气污染你的肺部。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""几对尖牙注入致命毒液"" does not accurately convey the meaning of ""several pairs of fangs inject their deadly venom"" in the source text.
+[Minor]: [omission] - The translation omits the phrase ""the air of Dyskra"" from the source text.
+
+Fluency Errors
+[Minor]: [grammar] - The translation ""结局迅速,几对尖牙注入致命毒液,Dyskra的空气污染你的肺部"" has a slightly awkward grammatical structure compared to the source text.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""Dyskra"" is not a common or familiar term in the Chinese context and may be unclear to the target audience."
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.","八眼的Repnids似乎在观察着你,但他们没有向你移动,事实上当你缓慢地走向他们时,他们保持静止不动。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation correctly conveys the meaning of the source text, but the term ""Repnids"" is not translated and left as is in the target text.
+
+Fluency Errors
+[Minor]: [Spelling] - The term ""Repnids"" is spelled correctly in the source text, but the capitalization is inconsistent in the translation.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[Minor]: [Inappropriate for context] - The term ""Repnids"" is not a common term and may be unfamiliar to the target audience.
+
+Non-Translation Errors
+[Minor]: [Untranslated text] - The term ""Repnids"" is not translated.
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the comprehension of the text."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.","你决定再次建立联系会很危险,于是返回到你的飞船上,但这次经历使你的思维变得清晰,此前你跳入未来后一直处于困惑之中。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The source text mentions ""flyer"" which refers to the spacecraft, but the translation uses ""飞船"" which means spacecraft. This is a minor mistranslation.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation uses ""于是"" (therefore) which is not entirely natural in this context. A more natural phrasing would be ""你决定不再建立联系,因为这很危险,于是返回到你的飞船上"".
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is of good quality with only minor errors that do not significantly impact the comprehension of the text."
+437,I started a new shawl.,我开始了一件新的披肩。,"MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""一件新的披肩"" (a new shawl) is a slightly more specific translation than the original ""a new shawl"".
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is accurate and fluent, with only a minor mistranslation that does not significantly impact the meaning."
+442,I am using a H hook with a similar double crochet pattern as I have done before.,"我正在使用一个H钩,采用与之前相似的双钩针图案。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""H钩"" (H hook) does not accurately convey the meaning of ""a H hook"" in the source text.
+
+Fluency Errors
+[Minor]: [Grammar] - The translation ""采用与之前相似的双钩针图案"" (using a similar double crochet pattern as before) has a slightly awkward grammar structure compared to the source text.
+
+Overall, the translation conveys the main meaning of the source text, with only minor errors that do not significantly impact comprehension."
+448,The literature class hatred is even worse: I love to read.,文学课的仇恨更加严重:我热爱阅读。,"MQM annotations:
+Accuracy Errors
+[Major]: Mistranslation - The source text ""The literature class hatred is even worse"" is mistranslated as ""文学课的仇恨更加严重"" (The hatred in the literature class is even worse), which does not accurately convey the meaning of the original.
+[Minor]: Omission - The phrase ""I love to read"" is omitted in the translation.
+
+Fluency Errors
+[Minor]: Grammar - The translation has a grammatical error in the phrase ""我热爱阅读"" (I love to read), which should be ""我喜欢阅读"" to be more natural.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[Minor]: Awkward - The translation sounds a bit awkward and does not flow as naturally as the original English.
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+454,Humanity is out in 5 days.,人类将在5天内走向终结。,"MQM annotations:
+
+Accuracy Errors
+[Minor]: [mistranslation] - The source text ""Humanity is out in 5 days"" is not accurately translated as ""人类将在5天内走向终结"" (Humanity will come to an end in 5 days). The original meaning of the source text is not fully captured in the translation.
+
+Fluency Errors
+[Minor]: [grammar] - The grammar in the translation is not entirely natural, as the phrase ""将在5天内走向终结"" (will come to an end in 5 days) sounds a bit awkward in Chinese.
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""终结"" (end) used in the translation has a stronger connotation of ""destruction"" or ""annihilation"" than the original English text, which does not necessarily imply such a drastic outcome.
+
+Overall, the translation conveys the general meaning of the source text, but there are some minor issues with accuracy, fluency, and terminology that could be improved to better reflect the original intent."
+456,What will people think of it?,人们会怎么想它?,"MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""它"" (it) does not clearly refer to the same subject as the source text ""it"".
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with only a minor issue related to the pronoun reference. The translation conveys the meaning of the source text effectively."
+463,Came home on my lunch break to see this sitting outside uwu.,"在午休时回到家里,看到这个坐在外面 uwu。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation ""看到这个坐在外面 uwu"" does not accurately convey the meaning of the original English sentence ""Came home on my lunch break to see this sitting outside uwu.""
+
+Fluency Errors
+[Minor]: [Spelling] - The use of ""uwu"" in the translation is an informal internet slang term that may not be appropriate in a formal translation.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[Minor]: [Awkward] - The translation sounds a bit awkward and does not flow as naturally as the original English sentence.
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is mostly accurate but could be improved in terms of fluency and style to sound more natural and idiomatic."
+464,Wish I could take it back to work with me to setup more.,希望我能把它带回工作中设置更多。,"MQM annotations:
+
+Accuracy Errors
+[Major]: Mistranslation - The source text ""take it back to work with me to setup more"" is not accurately translated as ""把它带回工作中设置更多"". The translation does not convey the meaning of setting up or configuring more at work.
+
+Fluency Errors
+[Minor]: Grammar - The translation ""把它带回工作中设置更多"" has a grammatical error, as the structure ""把...设置更多"" is not idiomatic Chinese.
+
+Style Errors
+[Minor]: Awkward - The translation sounds a bit awkward and unnatural, as the phrasing is not typical of how a native Chinese speaker would express this idea.
+
+Overall, the translation has some major and minor issues that affect the accuracy and fluency of the text. The meaning is still understandable, but the translation could be improved."
+466,So I finally watched #Heartstopper,所以我终于看了《心动》,"MQM annotations:
+
+Accuracy Errors
+[Minor]: [Mistranslation] - The original title ""Heartstopper"" has been translated as ""Heartstopper"" in Chinese, which does not fully capture the meaning of the original title.
+
+Fluency Errors
+[Minor]: [Spelling] - The Chinese translation uses the simplified Chinese character ""动"" instead of the traditional Chinese character ""動"", which is more commonly used in Taiwan.
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor errors related to the translation of the title and the use of simplified Chinese characters. The translation does not have any critical or major errors that would significantly impact the comprehension of the text."
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.","但是重要的是不要为问题找借口,而是直接解决它们,特别是在生产环境中,当您的主管需要进行更改时。","MQM annotations:
+
+Accuracy Errors
+[Minor]: Mistranslation - The phrase ""not make excuses for issues"" is translated as ""不要为问题找借口"", which is a slightly different nuance than the original English.
+
+Fluency Errors
+[Minor]: Grammar - The translation uses the phrase ""当您的主管需要进行更改时"" which is grammatically correct but could be more natural and concise, such as ""当主管需要进行更改时"".
+
+Overall, the translation conveys the main meaning of the source text accurately, with only minor issues in terms of nuance and grammar. The translation is generally fluent and easy to understand."
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.","好的批评是为了快速纠正问题,并不针对你的能力。","MQM annotations:
+Accuracy Errors
+[Minor]: [Mistranslation] - The translation does not fully capture the meaning of the original text. The phrase ""Good critique is there to correct the problem quickly"" is translated as ""好的批评是为了快速纠正问题"", which does not convey the idea that the critique is meant to help, not to criticize the person's ability.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with a minor mistranslation that does not significantly impact the overall meaning."
+485,These roots are hidden.,这些根是隐藏的。,"MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the definite article ""the"" before ""roots"".
+
+Fluency Errors
+[No Error]
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error]
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]"
+486,Work is not visible.,工作是看不见的。,"MQM annotations:
+
+Accuracy Errors
+[Minor]: [omission] - The original English sentence ""Work is not visible"" is translated as ""工作是看不见的"" in Chinese, which omits the negation ""not"" in the original.
+
+Fluency Errors
+[No Errors]
+
+Locale Convention Errors
+[No Errors]
+
+Style Errors
+[No Errors]
+
+Terminology Errors
+[No Errors]
+
+Non-Translation Errors
+[No Errors]
+
+Other Errors
+[No Errors]
+
+Overall, the translation is generally accurate and fluent, with a minor omission error that does not significantly impact the meaning or comprehension of the text."
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,"他等到在宿舍的黑暗中,才拿出那张纸条,在遮光窗帘透进来的一束光线中读了它。","MQM annotations:
+Accuracy Errors
+[Minor]: [omission] - The translation omits the word ""bunk"" when describing the room.
+
+Fluency Errors
+[Minor]: [grammar] - The translation uses the phrase ""遮光窗帘透进来的一束光线"" which is a bit awkward. A more natural phrasing would be ""透过遮光窗帘的一束光线"".
+
+Locale Convention Errors
+[No Error]
+
+Style Errors
+[No Error] 
+
+Terminology Errors
+[No Error]
+
+Non-Translation Errors
+[No Error]
+
+Other Errors
+[No Error]
+
+Overall, the translation is generally accurate and fluent, with only minor grammatical issues. The meaning of the source text is well conveyed in the target language."
+495,I've met some marvelous new #Mastodon mates lately and want to maintain the trend.,"我最近遇到了一些了不起的新#Mastodon朋友,我想保持这种趋势。","MQM annotations:
+Accuracy Errors
+[Minor]: [mistranslation] - The translation ""遇到了一些了不起的新#Mastodon朋友"" does not fully capture the meaning of ""I've met some marvelous new #Mastodon mates lately"". The Chinese translation is more literal and does not convey the same level of enthusiasm and positivity as the original English.
+
+Fluency Errors
+[Minor]: [grammar] - The Chinese translation uses ""我想保持这种趋势"" which is grammatically correct but could be more natural as ""我希望能保持这种趋势"".
+
+Terminology Errors
+[Minor]: [inappropriate for context] - The term ""#Mastodon"" is a proper noun referring to a social media platform, and it may be better to keep it as-is in the translation rather than translating it as ""朋友"" (friends).
+
+Overall, the translation is generally accurate and fluent, with only minor errors that do not significantly impact the meaning or readability of the text."

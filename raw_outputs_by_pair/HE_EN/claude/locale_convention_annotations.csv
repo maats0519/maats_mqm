@@ -1,0 +1,624 @@
+index,original,translated,locale_convention_annotation
+8,עוד צוין כי תועדו בתקופה האחרונה פחות מ-20 ברדלסים בשבעה מחוזות שונים במדינה.,"According to the report, fewer than 20 cheetahs were documented in the last period in seven different districts in the country.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""20"" should be formatted with a non-breaking space between the thousands separator, as per the locale conventions in English (e.g., ""fewer than 20 cheetahs"")."
+21,"לפני כמה שבועות, קיבלתי הזדמנות ראשונית לנסות את המוצר החדש, שזמין כרגע רק לנסיינים בודדים בארה""ב, כאן בישראל.","A few weeks ago, I had an initial opportunity to try the new product, which is currently available only to a few testers in the US, here in Israel.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""09.02.2024"" does not match the format used in the source text ""09-02-2024"". The target text uses the European date format ""dd.mm.yyyy"" instead of the American format ""mm-dd-yyyy""."
+23,"אחרי שבועיים של השתעשעות, הבנתי כיצד ה-Car Thing יכול להפוך בקלות לחלק בלתי נפרד מהמערכת של אנשים רבים.","After two weeks of playing around, I understood how the Car Thing can easily become an integral part of many people's system.","locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The numeric value ""two weeks"" should be formatted as ""2 weeks"" to match the locale conventions."
+26,"אי שם בשנת 2018, משתמשי ספוטיפיי החלו לקבל הצעה מעניינת בתיבת האימייל שלהם - אפשרות לרכוש מכשיר חדש עם שליטה קולית וחיבוריות דור רביעי, שיהפוך כל מערכת ישנה לרכב לחכמה.","Somewhere in 2018, Spotify users began receiving an interesting offer in their email inbox - an option to purchase a new device with voice control and 4G connectivity, which will turn any old system into a smart car.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""2018"" does not match the expected locale-specific format.
+[Minor]: [MEASUREMENT FORMAT] - The measurement unit ""4G"" should be formatted as ""4G"" according to the locale conventions."
+56,"מסך הבית מוכר לכל המשתמשים באפליקציה, שכן כמו היישום בסמארטפון, הוא שם דגש על תמונות האלבומים ורשימות ההשמעה.","The home screen is available to all users of the app, as like the mobile app, it emphasizes album photos and playlists.","locale conventions:
+
+MQM annotations:
+No locale convention errors found in the given translation."
+60,"באמצעותה, תוכלו להפעיל שירים, פלייליסטים, אלבומים ואפילו לחפש פודקאסטים.","You can use it to play songs, playlists, albums, and even search for podcasts.","locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The translation does not follow the standard Hebrew number format, which typically uses spaces to group digits (e.g., 1 234)."
+72,"השאלה הזו מתחזקת בעת התחשבות בכך שמכשירי אייפון ואנדרואיד חזקים בהרבה מזה של ספוטיפיי, וברוב הפעמים יקנו למשתמש הרבה יותר פונקציונליות.","The question is strengthened by the fact that iPhone and Android devices are much stronger than Spotify, and in most cases will provide the user with much more functionality.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric values in the target text do not follow the standard formatting conventions for the target language. For example, the use of a period instead of a comma as the decimal separator."
+96,זה לא סוד - שיתוף ומוכנות הארגון |,This is no secret - the organization's sharing and readiness.,"locale conventions:
+
+MQM annotations:
+No locale convention errors found."
+105,הסקרנות מקדמת |,Curiosity promotes.,"locale conventions:
+
+MQM annotations:
+[Minor]: [WORD ORDER] - The translation does not follow the natural word order of the source text. The source text ""הסקרנות מקדמת"" translates to ""Curiosity promotes"", but the translation ""Curiosity promotes."" has a different word order."
+114,"העלות הכלכלית בגין אי־סגירת התחנות הפחמיות במועד שנקבע ביוני 2022 מוערכת בכמיליארד שקלים עבור שנת 2022, כך חושף דו""ח של מרכז המחקר והמידע של הכנסת.","The economic cost of not closing the coal-fired power stations by the date set in June 2022 is estimated at around one billion shekels for the year 2022, as revealed in a report by the Knesset Research and Information Center.","locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency symbol ""שקלים"" (shekels) should be placed before the numeric value, as per the Hebrew locale convention."
+126,בכמה יתייקר התשלום על המשכנתא?,The payment on the mortgage will increase by how much?,"locale conventions:
+
+MQM annotations:
+[Major]: [currency format] - The payment on the mortgage will increase by how much? The currency format in the target text does not match the locale-specific requirements."
+132,"זאת, לאחר שבמשך שנים הריבית במשק היתה קרובה לאפס.","This, after for years the interest rate in the economy was close to zero.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The decimal separator in the target text is a comma instead of a period, which is the standard format in English."
+137,בכמה התייקרה המשכנתא הממוצעת מתחילת השנה?,The average mortgage has increased by how much since the beginning of the year?,"locale conventions:
+
+MQM annotations:
+[Major]: [CURRENCY FORMAT] - The translation does not follow the locale-specific currency format. In Hebrew, the currency symbol (₪) should be placed before the numeric value."
+142,מסלול הריבית המשתנה צמודת מדד (26.7% במסלול הזה) ישלים התייקרות של כ־120 שקלים.,The variable interest rate track linked to the index (26.7% in this track) will complete an increase of approximately 120 shekels.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""120"" should be formatted with a space or comma separator according to Hebrew locale conventions."
+150,לגבי רוכשי דירות מקבלן - צרור ממליץ להקדים תשלומים לקבלן ולקחת משכנתא כעת.,Regarding apartment buyers from a contractor - it is recommended to make advance payments to the contractor and take a mortgage now.,"locale conventions:
+
+MQM annotations:
+Minor: currency format - The translation does not follow the locale-specific currency format. In English, the currency symbol ($) should be placed before the numeric value."
+163,"כמו כן, החל מ-10 באוגוסט, תיקבע הפחתה נוספת של עוד חצי שקל, כך שרק ממועד זה מחירו של ליטר בנזין יפחת בשקל אחד וזאת עד ל-15 בנובמבר 2022.","Also, starting from August 10, an additional reduction of half a shekel will be set, so that only from that date the price of a liter of gasoline will decrease by one shekel, and this until November 15, 2022.","locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency symbol ""שקל"" (shekel) should be placed before the numeric value according to the Hebrew locale convention.
+[Minor]: [date/time format] - The date format ""15 בנובמבר 2022"" (15 in November 2022) should be written as ""15 בנובמבר, 2022"" to match the Hebrew locale convention."
+172,"למחיר הדלק יש השפעה דרמטית על יוקר המחיה במשק - משום שהוא משפיע גם על הוצאות משקי הבית וגם על הוצאות העסקים, על מחירי התחבורה הציבורית והטיסות, על עלויות ההובלה ועוד.","The price of fuel has a dramatic impact on the cost of living in the economy - as it affects both household expenses and business expenses, the prices of public transportation and flights, transportation costs, and more.","locale conventions:
+
+MQM annotations:
+[Minor]: [CURRENCY FORMAT] - The currency symbol (₪) should be placed before the numeric value according to the Hebrew locale convention.
+[Minor]: [NUMBER FORMAT] - The thousands separator (,) is missing in the numeric values."
+178,אשדוד היא העיר הידידותית ביותר לעסקים קטנים ובינוניים.,Ashdod is the most business-friendly city for small and medium-sized enterprises.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the standard format used in English. The city name ""Ashdod"" should be followed by a comma."
+181,"אחריהן ממוקמות לפי הסדר: אשקלון, ראשון לציון, תל אביב־יפו, חיפה, רמת גן, חולון, באר שבע, ירושלים, בת ים, נתניה ובני ברק.","Ashkelon, Rishon LeZion, Tel Aviv-Jaffa, Haifa, Ramat Gan, Holon, Beersheba, Jerusalem, Bat Yam, Netanya, and Bnei Brak.","locale conventions:
+
+MQM annotations:
+[Minor]: [ADDRESS FORMAT] - The address format in the target text does not follow the standard English format. The order of the city names should be Ashkelon, Rishon LeZion, Tel Aviv-Jaffa, Haifa, Ramat Gan, Holon, Beersheba, Jerusalem, Bat Yam, Netanya, and Bnei Brak."
+182,הסוכנות עורכת את מדד הרשויות המקומיות.,The agency conducts the index of local authorities.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the locale-specific conventions. In English, the address should be formatted as ""123 Desert Bluff St., Canyonlands, AC 12345, United States""."
+198,"פיתוח העסקים הקטנים הוא אינטרס ציבורי של כולנו, אולם לרשות המקומית יש השפעה ישירה על העסקים שנמצאים בה.","The development of small businesses is a public interest of all of us, but the local authority has a direct influence on the businesses located within it.","locale conventions:
+
+MQM annotations:
+No locale convention errors found in the given translation."
+199,"הקורונה הדגישה את חשיבותו של השלטון המקומי וראינו כי רשויות שפעלו ועודדו את קידום העסקים הקטנים ומצאו פתרונות יצירתיים עבורם, הפכו לממשק השלטוני הראשון עבורם"".","The coronavirus has highlighted the importance of local government, and we have seen that authorities that have acted and encouraged the promotion of small businesses and found creative solutions for them have become the primary governmental interface for them.","locale conventions:
+
+MQM annotations:
+[Minor]: [ADDRESS FORMAT] - The address format in the target text does not match the locale-specific conventions. The placement of ""St."" is incorrect in English."
+200,"רן קויתי, מנהל הסוכנות לעסקים קטנים ובינוניים במשרד הכלכלה והתעשייה, מוסיף: ""לרשויות המקומיות חלק מרכזי ומהותי ביכולתם של עסקים בתחומן לשגשג ולפרוח.","Ran Kfir, the director of the Small and Medium Business Agency at the Ministry of Economy and Industry, adds: ""Local authorities have a central and essential role in the ability of businesses within their jurisdiction to thrive and flourish.""","locale conventions:
+
+MQM annotations:
+[Minor]: [ADDRESS FORMAT] - The address format in the target text does not match the expected locale-specific format.
+[Minor]: [NUMBER FORMAT] - The numeric value in the target text is not formatted according to the locale conventions."
+201,"בשנתיים האחרונות, שבהן אנו מתמודדים עם משבר הקורונה, לרשויות משקל גדול יותר בסיוע לעסקים לשרוד בתחומן ולשרוד בכלל"".","In the last two years, during which we have been dealing with the coronavirus crisis, the authorities have had a greater weight in assisting businesses to survive within their field and to survive in general.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""2"" in ""2 years"" should be formatted according to the target language's conventions."
+217,"יותר חבילות הגיעו בדצמבר מבכל חודש אחר, ככל הנראה בעקבות חגי הקניות של נובמבר, דוגמת יום הרווקים הסיני, בלאק פריידי וסייבר מאנדיי.","More packages arrived in December than in any other month, likely due to the November shopping holidays, such as Singles' Day in China, Black Friday, and Cyber Monday.","locale conventions:
+
+MQM annotations:
+[Minor]: [date/time format] - The date format in the target text ""בדצמבר"" does not match the expected format in English, which would be ""in December""."
+220,"לשכירים רבים מגיע כסף מהמדינה, שיכול להגיע לעשרות אלפי שקלים •","For many employees, money from the state is due, which can amount to tens of thousands of shekels.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""tens of thousands"" is not formatted according to the locale convention, which typically uses a space or comma to separate thousands."
+221,שיניתם מקום עבודה?,You changed your job?,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""מקום"" should be formatted according to Hebrew locale conventions."
+223,עברתם מהעיר ליישוב?,You moved from the city to the settlement?,"locale conventions:
+
+MQM annotations:
+[Major]: [ADDRESS FORMAT] - The translation does not accurately convey the distinction between ""the city"" and ""the settlement"" in the source text."
+249,100% מהעוברים לישוב מזכה קיבלו החזר מס על שנת המעבר היות ואישור על תושבות בישוב מזכה ניתנת רק לאחר 12 חודשים מיום הפיכת התושב לתושב מזכה ובכך למעשה השנה הראשונה משולם מס מלא.,"100% of the residents who moved to the eligible settlement received a tax refund for the year of the move, since approval for residency in the eligible settlement is only granted after 12 months from the date the resident became an eligible resident, and thus, the first year is paid in full tax.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""12 חודשים"" does not match the expected format in English, which is typically ""12 months""."
+253,שיעור ההחזר יכול להגיע לעשרות אלפי שקלים לאורך 6 שנים.,The return rate can reach tens of thousands of shekels over 6 years.,"locale conventions:
+
+MQM annotations:
+[Major]: [currency format] - The translation does not follow the correct currency format for the target language. The currency symbol should be placed before the numeric value with a space in between.
+
+The corrected translation should be:
+""The return rate can reach [tens of thousands of shekels]CURRENCY FORMAT over 6 years."""
+255,"מנכ״ל tax:on, טל כרמון: ""משבר הקורונה גרם לכך שציבור השכירים בישראל הפך להרבה יותר אקטיבי.","""The COVID-19 crisis has led to the salaried public in Israel becoming much more active.""","locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The numeric value ""on"" in the name ""tax:on"" is not formatted according to the locale convention."
+256,"הוא מתעניין, בודק ודורש את מה שמגיע לו בהחזרים ממס הכנסה.","He is interested, checking and demanding what is due to him in tax refunds.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""הכנסה"" (income) is not formatted correctly in the target text."
+264,"לפי הדו""ח, מחפשי העבודה התעניינו בעיקר בתחומים רוויי משרות כמו אדמיניסטרציה ומכירות, שלגביהן נשלחו 1,738,485 קורות חיים.","According to the report, job seekers were primarily interested in fields with abundant job openings, such as administration and sales, for which 1,738,485 resumes were submitted.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""1,738,485"" should be formatted as ""1 738 485"" according to the locale conventions in the target language."
+268,"השכר החודשי בתחום התוכנה היה 17,915 שקלים בממוצע, ובניתוח מערכות מידע הוא עמד על 17,140 שקלים.","The average monthly salary in the software field was 17,915 shekels, and in the field of information systems analysis it stood at 17,140 shekels.","locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency symbol ""shekels"" should be placed before the numeric value according to the locale conventions in English."
+276,ההיצע הגדול ביותר היה למשרות ללא ניסיון - וכאלה היו יותר מ-58 אלף באתר.,"The largest supply was for positions without experience - and there were more than 58,000 of those on the site.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""58,000"" should be formatted as ""58 000"" according to Hebrew locale conventions."
+286,"במילים אחרות, מדובר ב- 193 אלף לא מועסקים לעומת 180.3 אלף.","193,000 unemployed compared to 180.3 thousand.","locale conventions:
+
+MQM annotations:
+[Major]: [number format] - The numeric values in the target text are not formatted according to the locale conventions. The comma should be used as the thousands separator instead of a space."
+289,"מאלה שבכוח העבודה 95.5% המהווים 4,059,700 הם מועסקים והשאר בלתי מועסקים.","95.5% of the labor force, constituting 4,059,700 people, are employed, and the rest are unemployed.","locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The decimal separator used in the target text (4,059,700) does not match the locale convention of the source text, which uses a period (4.059.700)."
+295,"הסקר מאפשר מעקב אחר ההתפתחות בכוח העבודה, גודלו ותכונותיו, היקף האבטלה ועוד.","The survey allows for monitoring the development of the labor force, its size and characteristics, the extent of unemployment, and more.","locale conventions:
+
+MQM annotations:
+No locale convention errors found in the given translation."
+301,הקידוש והמסורת הם שורש מאוד עמוק בנשמה שלי.,The sanctity and tradition are a very deep root in my soul.,"locale conventions:
+
+MQM annotations:
+No locale convention errors found in the given translation."
+302,"ימי שישי אצלי מוקדשים לילדים, אור (10) ויונתן (8).","Fridays are dedicated to my children, Or (10) and Yonatan (8).","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The age of the children Or (10) and Yonatan (8) should be formatted according to the locale conventions, which typically do not include parentheses around the numeric values."
+310,"כשאנחנו מגיעים לחמותי, כבר מלובי הבניין עולים ריחות מדהימים מהדירה שלה.",The smells from her apartment are amazing even from the building lobby.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the locale-specific requirements. The building lobby should be mentioned before the apartment smells."
+316,כל פינה נידחת בארץ עשתה לו גאווה בלב.,Every remote corner of the land has made for itself a pride in the heart.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""בלב"" (in the heart) is not formatted correctly in the target text."
+323,שבוע־שבועיים לפני יום העצמאות כבר הייתי מטפס על עצים וקושר לבית חוטים עם דגלי ישראל.,"Two weeks before Independence Day, I was already climbing trees and tying strings with Israeli flags to the house.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format ""שבוע־שבועיים"" (two weeks) should be expressed in a more standard date format in the target language."
+348,"""הייתי פותחת שולחן גדול ומזמינה את 'המתים שלי'.","""I would set a large table and invite my 'dead ones'.""","locale conventions:
+
+MQM annotations:
+[Major]: [ADDRESS FORMAT] - The translation does not follow the correct address format conventions. In English, the address should be presented as ""123 Desert Bluff St., Canyonlands, AC 12345, United States""."
+349,"לפעמים אני מדמיינת מה היה אילו אחי דניאל ז""ל היה בחיים, או אם אבא שלי, שניאור ז""ל, היה רואה את הילדים שלי: אוריאל (23) והתאומות תמרה ונעמה (16 וחצי).","Sometimes I imagine what it would have been like if my brother Daniel, may his memory be a blessing, were still alive, or if my father, Shneur, may his memory be a blessing, had seen my children: Uriel (23) and the twins Tamar and Naama (16 and a half).","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format ""16 וחצי"" (16 and a half) does not follow the standard date format conventions."
+364,"ביבי תשחק בתפקיד נועה, שאותו גילמה דפנה ארמוני.","Bibi will play the role of Noam, which was portrayed by Dafna Armoni.","locale conventions:
+
+MQM annotations:
+[Major]: [PERSON NAME] - The name ""Noam"" in the target text should be ""Noea"" to match the source text, which mentions the character ""Noea"" portrayed by Dafna Armoni."
+371,את הידיעה המשמחת חלקה אתמול בערב (שישי) לופז עם מעריציה באתר הרשמי שלה onthejlo.com,The joyful news was shared yesterday evening (Friday) by Lopez with her fans on her official website onthejlo.com.,"locale conventions:
+
+MQM annotations:
+Minor: date/time format - The date format ""שישי"" (Friday) in the source text is not translated correctly in the target text."
+390,"עכשיו אנחנו יותר חשופות, פונות ישירות למצלמה באופן טבעי, לא רק ריאליטי אלא סדרה דוקומנטרית אותנטית"".","""Now we are more exposed, turning directly to the camera in a natural way, not just reality but an authentic documentary series.""","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the standard format in English. The order of the address elements is incorrect."
+402,אינדינגב בניחוח בינלאומי: אפגן וויגז מצטרפים אל אביתר בנאי ונגה ארז,In an international scent: Afghan Wigs join Avner Benayoun and Noga Erez.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the source text. The order and formatting of the address elements are different.
+[Minor]: [number format] - The numeric value in the target text (e.g., ""Afghan Wigs"") is not formatted according to the locale conventions."
+407,"אינדינגב החל את דרכו בשנת 2007 כאירוע נישתי קטן, שאיגד את השמות החמים בסצנת האינדי הישראלית.","Indignation began its journey in 2007 as a small niche event, which brought together the hot names in the Israeli indie scene.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""2007"" does not match the expected format in English, which is typically ""YYYY""."
+409,אביב גפן ושרית חדד: פסטיבל חוצות היוצר בירושלים בהפתעות חדשות,Aviv Geffen and Sarit Hadad: The Creator's Corners Festival in Jerusalem with new surprises.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""Jerusalem"" does not follow the standard locale conventions."
+410,"הפסטיבל הבינלאומי בבירה, שהפך למסורת ויתקיים במספר מוקדים יציג מופעים מוזיקליים של אמנים מקומיים מובילים, וישלב מופעי קרקס ומיצגים אמנותיים חדשניים ומפתיעים","The international festival in the capital, which has become a tradition and will take place in several focal points, will feature musical performances by leading local artists, and will combine circus acts and innovative and surprising artistic exhibits.","locale conventions:
+
+MQM annotations:
+[Minor]: [ADDRESS FORMAT] - The address format in the target text does not follow the standard conventions. The placement of ""St."" is incorrect in English.
+[Minor]: [NUMBER FORMAT] - The numeric value in the target text is not formatted according to the expected locale conventions."
+417,"SPARKS הוא מופע קרקס, תנועה וריחוף אווירי של קרקס Y, תערוכת צילום אינסטגרמית בהשראת יצירות אמנות מפורסמות.","SPARKS is a circus performance, a circus Y aerial movement and levitation, an Instagram photo exhibition inspired by famous works of art.","locale conventions:
+
+MQM annotations:
+[Minor]: [ADDRESS FORMAT] - The address format in the target text does not match the locale-specific requirements. The placement of ""St."" is incorrect in English.
+[Minor]: [MEASUREMENT FORMAT] - The formatting of the measurement unit ""kmts"" in the target text does not meet the locale-specific guidelines. The correct symbol for kilometers in English is ""km""."
+418,"The Black Box Gallery – היא גלריית ההצצה של היוצר והמבצע ליאור כלפון, שתוצב ברחבת היריד עם חורי הצצה שיחשפו את הקהל לתערוכת יצירותיו הזרחניות של ליאור כלפון, יצירות אמנות של פסלים מוארים של האמן הרב תחומי אלון בירגר (תיאטרון האור) ועוד.","The Black Box Gallery - it is the peephole gallery of the creator and performer Lior Kalfon, which will be placed in the fairground with peepholes that will expose the audience to the fluorescent works of Lior Kalfon, artworks of illuminated sculptures by the multidisciplinary artist Alon Birger (Light Theater) and more.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the locale-specific requirements. The placement of ""היריד"" (the fairground) in the address is incorrect.
+[Minor]: [measurement format] - The measurement unit ""זרחניות"" (fluorescent) is not formatted correctly according to the locale conventions."
+444,.,"Here is the translation from Hebrew to English:
+
+The quick brown fox jumps over the lazy dog.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""the quick brown fox jumps over the lazy dog"" does not follow the expected number format in English."
+446,"היא מרוויחה על קמפיינים יותר מוונדר וומן, היא יפה מדי, היא יודעת להעמיד במקום את דנה ויס, וכשצריך - גם לסנגר על השותף העסקי שלה.","She earns more from campaigns than Wonder Woman, she is too beautiful, she knows how to put Dana Weiss in her place, and when needed - she also defends her business partner.","locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency format in the target text does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between.
+[Minor]: [number format] - The numeric values in the target text are not formatted according to the locale conventions. The thousands separator should be a comma or a space, not a period."
+457,כאן מחפשים גיבורי־על.,Here we search for superheroes.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""על"" should be formatted according to the locale conventions for Hebrew."
+465,"תגידו: ספונג'ה וניקיונות, סירים על הגז וריחות בחדר המדרגות, ירון אילן או אבי כאכון בטלוויזיה, אבל הכי מוזר יהיה אם מישהו יגיד פתאום ""גיל ססובר"".","Sponge and cleaning, pots on the stove and smells in the stairwell, Yaron Eilan or Avi Kochavi on television, but the strangest thing would be if someone suddenly said ""Gil Sossover"".","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""גיל ססובר"" should be formatted according to the Hebrew locale conventions."
+468,לאורך מחצית ממנה - ססובר עומד.,Along half of it - Susover stands.,"locale conventions:
+
+MQM annotations:
+[Major]: [ADDRESS FORMAT] - The translation does not follow the correct address format for the target language. The elements of the address are not presented in the expected order."
+477,"רותי רוסו בתגובה: ""שמחה שיש מקומות שמשקיעים יותר בקולינריה של אוכלוסייה זו"".","""I'm glad there are places that invest more in the cuisine of this population.""","locale conventions:
+
+MQM annotations:
+[Minor]: [LOCALE CONVENTIONS/NONE] - There are no locale convention errors in the given translation. The translation accurately reflects the source text."
+481,בישראל בשנים האחרונות יותר ויותר משפחות ואנשים מבוגרים מבינים כי בדידות זו המחלה הקשה ביותר בגיל מבוגר ורואים במקומות הקהילתיים כפתרון מוכח למחלה.,"In recent years in Israel, more and more families and older people understand that loneliness is the most severe illness in old age, and they see community places as a proven solution to this illness.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""בשנים האחרונות"" does not match the source text ""in recent years""."
+483,מרבית בתי הדיור המוגן נעזרים בשפים מקצועיים על מנת לבנות תפריט.,Most assisted living facilities rely on professional chefs to build their menu.,"locale conventions:
+
+MQM annotations:
+No locale convention errors detected."
+487,"אני מכבדת את עבודתם הקשה של טבחים, טבחיות, שפיות ושפים בכל מקום, גם בדיור המוגן"".","""I respect the hard work of cooks, chefs, and food preparers everywhere, even in assisted living facilities.""","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""המוגן"" should be formatted according to the Hebrew locale conventions."
+491,"הזמר בתגובה: ""הפלישה לאוקראינה שונה מאוד מהקונפליקט הישראלי-פלשתיני","The singer in response: ""The invasion of Ukraine is very different from the Israeli-Palestinian conflict.","locale conventions:
+
+MQM annotations:
+[Major]: [accuracy/mistranslation] - The translation ""The invasion of Ukraine is very different from the Israeli-Palestinian conflict"" does not accurately convey the meaning of the source text, which states that the singer's response is that the invasion of Ukraine is very different from the Israeli-Palestinian conflict."
+518,"לבקשת שר הבריאות ניצן הורוביץ, ימשיך במקביל בתפקידו כפרויקטור.","At the request of Health Minister Nitzan Horowitz, he will continue in parallel in his role as a project manager.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""במקביל"" should be formatted according to the locale conventions in English."
+527,"דו""ח מבקר המדינה: התקציב בפועל ברוב שנות פעילות ועדת סל התרופות – קטן מהתקציב המומלץ",The State Comptroller's report: The actual budget in most years of the activity of the Drug Basket Committee - is smaller than the recommended budget.,"locale conventions:
+
+MQM annotations:
+Major: currency format - The currency format in the target text does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between."
+528,"על פי הדו""ח של מתניהו אנגלמן, במשך יותר מ-20 שנות פעילות הסל – משרד הבריאות לא פיקח על פעילות הוועדה •","According to the report of Matanyahu Englman, for more than 20 years of activity of the Sal - the Ministry of Health did not supervise the activity of the committee.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""20 שנות פעילות"" does not match the expected format in English, which would be ""more than 20 years of activity""."
+532,ועדת סל התרופות היא אחת הוועדות הציבוריות המשפיעות ביותר על חיי היומיום שלנו ועל בריאותנו.,The Drugs Basket Committee is one of the most influential public committees on our daily lives and our health.,"locale conventions:
+
+MQM annotations:
+No locale convention errors found in the given translation."
+535,"על פי הדו""ח של מתניהו אנגלמן, הוא ממליץ ""לבצע בתהליך הרחבת הסל תיקונים ושיפורים, שיביאו למיצוי איכותי יותר של תקציב סל שירותי הבריאות שהציבור זכאי לו"".","According to the report by Matanyahu Engelmann, he recommends ""to carry out corrections and improvements in the process of expanding the basket, which will lead to a more qualitative realization of the budget for the health services basket to which the public is entitled.""","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""2024"" should be formatted as ""2.024"" according to the German locale convention."
+539,"ברוב שנות פעולת הוועדה (90% מהזמן), גובה התוספת התקציבית היה קטן מ-1.5% של סל הבריאות, שיעור שהומלץ על ידי ועדות שונות כשיעור התוספת הרצוי.","The budgetary supplement was less than 1.5% of the health basket, a rate recommended by various committees as the desired supplement rate.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""1.5%"" should be formatted according to the English locale convention, which typically uses a period as the decimal separator."
+559,אנגלמן ממליץ למשרד הבריאות לעדכן את נהלי עבודת הסל וגם לקבוע האם יש צורך בתוספת כספית נפרדת עבור שירותים אלו.,Angelman recommends to the Ministry of Health to update the basket work procedures and also to determine whether there is a need for a separate financial supplement for these services.,"locale conventions:
+
+MQM annotations:
+No locale convention errors found in the given translation."
+581,"ד""ר נעמה נוס אחראית אפדימיולוגיה לשכת הבריאות בת""א ציינה כי ""אנחנו לא יכולים לקבוע חד משמעית ממה שלושת הידיירים נפטרו.","Dr. Naama Nus, the epidemiologist at the Tel Aviv Health Office, stated that ""we cannot definitively determine what the three deceased died from.""","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""09.02.2024"" does not match the source format ""09-02-2024""."
+593,"יגאל נחתומי, מנכ""ל בית אקשטיין שמנהל את המעון ואף ניהל את המעון בעצמו אמר ""מאות ואלפי אנשים בכל המערך קמים רק במטרה אחת: לעשות טוב לאנשים.","Yigal Nachshoni, CEO of Beit Ekshtein, who manages the shelter and even managed the shelter himself, said ""Hundreds and thousands of people throughout the system are getting up for only one purpose: to do good for people.""","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""מאות ואלפי"" (hundreds and thousands) is not formatted according to the expected number format in English."
+595,את אחת הדיירות הרדמתי על הידיים.,I carried one of the tenants on my hands.,"locale conventions:
+
+MQM annotations:
+[Major]: [address format] - The translation ""I carried one of the tenants on my hands"" does not correctly convey the meaning of the source text ""את אחת הדיירות הרדמתי על הידיים"" which means ""I put one of the tenants to sleep in my arms""."
+604,"זהו ההליך הראשון שביצע ד""ר פראס אבו עכר כמנהל היחידה לניתוחי חזה בבית החולים •",This is the first procedure performed by Dr. Firas Abu Akr as the head of the Chest Surgery Unit at the hospital.,"locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""09.02.2024"" does not match the format used in the source text ""09-02-2024""."
+619,"לדבריו, הלב היה מרוקן מדם, לחצי הדם היו אפסיים, והגישה הניתוחית היתה שגויה.","According to his words, the heart was drained of blood, half the blood was futile, and the surgical approach was flawed.","locale conventions:
+
+MQM annotations:
+[Minor]: [CURRENCY FORMAT] - The currency format in the target text does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between."
+622,"עוד ציין: ""מדובר בהליך לא מסובך, שנמשך כמה דקות"", והוסיף: ""לא ניתן שלא להתייחס לתהליך הלקוי של קבלת ד""ר אבו עכר לתפקיד.","""It was also noted: 'This is a simple process that takes a few minutes,' and he added: 'One cannot ignore the flawed process of appointing Dr. Abu Akar to the position.'""","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""09.02.2024"" does not match the source format ""09-02-2024""."
+647,"ד""ר שלומי קודש לא שוכח, גם ממרום תפקידו, את הדחיפה מפרופ' שאול סוקניק ז""ל •","Dr. Shlomi Kodesh does not forget, even from the height of his position, the push from the late Prof. Saul Sokonik.","locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The numeric value ""ז""ל"" (of blessed memory) is not formatted according to the Hebrew locale conventions."
+674,"על פרופ' שאול סוקניק ז""ל","On Professor Shaul Sokonik, may his memory be a blessing.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format ""ז""ל"" (may his memory be a blessing) is not a standard date/time format and may not be recognized by all readers."
+676,.,"Here is the translation from Hebrew to English:
+
+The quick brown fox jumps over the lazy dog.","locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The numeric values in the translation do not follow the English locale convention of using a comma to separate thousands."
+684,"כאשר סיימתי את ההתמחות והתלבטתי אם לנסוע לתקופת השתלמות בחו""ל, שאול דחף וכיוון אותי, וסייע לי במכתבי המלצה ובעצות כיצד להתנהל.","When I finished my internship and was undecided whether to go abroad for a training period, Saul pushed and guided me, and helped me with letters of recommendation and advice on how to proceed.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""09.02.2024"" does not match the format used in the source text ""09-02-2024"". The target text uses the European date format ""dd.mm.yyyy"" instead of the American format ""mm-dd-yyyy""."
+692,הביא לאור: איליה יגורוב,Brought to light: Ilya Igorov,"locale conventions:
+
+MQM annotations:
+[Minor]: [name_format] - The name ""Ilya Igorov"" should be formatted according to the English locale convention, which typically places the given name before the surname."
+701,אבל למדתי ממנו דברים משמעותיים ועמוקים אף יותר.,But I learned from him more meaningful and deeper things.,"locale conventions:
+
+MQM annotations:
+[Minor]: [no-error] - There are no locale convention errors in the given translation."
+709,זו הסיבה שד״ר טומי שינפלד מהווה עבורי הרבה יותר מדמות מעוררת השראה.,This is why Dr. Tommy Sheinfeld is much more than an inspiring figure for me.,"locale conventions:
+
+MQM annotations:
+[Minor]: [no-error] - There are no locale convention errors in the translation."
+717,"מגפת האומיקרון משתוללת והעומס כבר מורגש בבתי החולים: 37,847 אלף נדבקים אובחנו אתמול (שני) עם קורונה.","The Omicron epidemic is raging and the burden is already felt in hospitals: 37,847 thousand infected were diagnosed yesterday (Monday) with coronavirus.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The number ""37,847"" should be formatted as ""37,847"" in English to follow the standard number format."
+731,"אנשי צוות רפואי מבודדים, מתוכם 542 רופאים.","Medical staff in isolation, of which 542 are doctors.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The number ""542"" should be formatted with a space or comma as per the locale convention (e.g., ""542"" or ""542,"")."
+737,"ואולם, למרבה הצער, לעתים מסתיימות לידות בנזקים חמורים הנגרמים ליולדת או ליילוד כתוצאה מהתרשלות הצוות הרפואי.","However, unfortunately, sometimes births end in serious damage caused to the parturient or the newborn as a result of medical staff negligence.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""09.02.2024"" does not match the source format ""09-02-2024""."
+738,"במקרים שבהם הסתיימה הלידה בפגיעה גופנית, ליילוד או לאם, יש מקום לבחון את השתלשלות האירועים אשר הובילו לפגיעה ואף לשקול פנייה לקבלת ייעוץ משפטי.","In cases where the birth ended in physical injury, to the newborn or the mother, it is appropriate to examine the sequence of events that led to the injury and even consider seeking legal advice.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""09.02.2024"" does not match the format used in the source text ""09-02-2024"". The German format should be used."
+745,שלב הצירים נמשך בממוצע בין 8 ל-14 שעות.,The active phase of labor lasts an average of 8 to 14 hours.,"locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""8 to 14 hours"" does not match the locale-specific convention of the source text ""בין 8 ל-14 שעות""."
+766,"במקרים מסוימים, מתפתחת לידה דיספונקציונלית, קרי, חוסר התקדמות של תהליך הלידה האקטיבית.","In certain cases, dysfunctional labor develops, that is, lack of progress in the active labor process.","locale conventions:
+
+MQM annotations:
+No locale convention errors found in the given translation."
+778,שיתוק על שם ERB,Paralysis.,"locale conventions:
+
+MQM annotations:
+[Minor]: [terminology/inappropriate for context] - The term ""paralysis"" may not be the most appropriate translation for the Hebrew term ""שיתוק"", which could be better translated as ""paralysis"" or ""palsy""."
+781,שיתוק זה נגרם לא פעם בשל קושי בהוצאתו של היילוד בשל התרחשות 'פרע כתפיים' - מצב חירום מיילדותי המרחש כאשר כתפיו של העובר נכלאות בפנים תעלת הלידה לאחר שראשו יצא.,Paralysis is often caused by difficulty in delivering the newborn due to the occurrence of 'shoulder dystocia' - an obstetric emergency that occurs when the baby's shoulders become stuck in the birth canal after the head has been delivered.,"locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""09.02.2024"" does not match the format used in the source text ""09-02-2024""."
+795,פטירת יולדת במהלך הלידה הינו אירו נדיר למדי.,The death of a woman in childbirth is a relatively rare event.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The translation uses the English number format ""relatively rare"" instead of the more common Hebrew format for numbers."
+797,במקרים מסוימים לא מאתר הצוות הרפואי דימום אצל היולדת במועד או מגיב באיחור לדימום כאמור.,"In certain cases, the medical team does not detect bleeding in the parturient in a timely manner or responds with a delay to such bleeding.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""במועד"" does not match the expected locale-specific format in English. The correct format would be ""in a timely manner""."
+800,"באותו מקרה היולדת התלוננה על כאבים קשים וחולשה לאחר הניתוח אולם הצוות הרפואי לא התייחס כיאות לתלונותיה ומצבה הקליני, הגיב באיחור רק לאחר שמערכות גופה החלו לקרוס, דבר שהביא לפטירתה"".","In that case, the parturient complained of severe pain and weakness after the surgery, but the medical staff did not properly address her complaints and clinical condition, only reacting with delay after her body systems began to collapse, which led to her death.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""09.02.2024"" does not match the source format ""09-02-2024""."
+805,"פיצוי יילוד בגין פגיעה עקב רשלנות רפואית בלידה כולל רכיבי נזק רבים, כאשר הסכומים המשמעותיים ביותר ניתנים עבור כאב וסבל, סיעוד וטיפול בשכר, הפסדי שכר ופנסיה לנפגע ואף להוריו ורכיבי נזק נוספים.","Compensation for a newborn due to injury caused by medical negligence during childbirth includes many damage components, with the most significant amounts awarded for pain and suffering, nursing and paid care, lost wages and pension for the injured party and even their parents, and additional damage components.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric values in the target text do not follow the expected locale-specific formatting conventions. For example, the use of a period instead of a comma as the decimal separator."
+813,מחקר העלה כי קיים קשר בין התפתחות המחלה לנישואי קרובים •,Research has shown that there is a connection between the development of the disease and consanguineous marriage.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""קיים"" should be formatted according to the Hebrew locale conventions."
+830,"הדבר נובע בעיקר משכיחות גבוהה של נישואים בתוך המשפחה (בעיקר במגזר הבדואי) ומאלרגיות שונות, וחוסר מודעות לטיפול נכון בבעיה"".","The matter stems primarily from a high incidence of consanguineous marriages (especially in the Bedouin sector) and various allergies, and a lack of awareness of proper treatment of the problem.","locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The numeric value ""12345"" should be formatted with a space or comma as per the English locale convention (e.g., ""12,345"" or ""12 345"")."
+855,"עד כיתה ט' למד בבית הספר בכפר חורפיש, ולאחר מכן עבר לפנימייה הצבאית שבבית הספר הריאלי בחיפה.","From 9th grade, he studied at the school in the village of Kfar Kharfesh, and afterwards he transferred to the military boarding school at the Reali School in Haifa.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""09.02.2024"" does not match the format used in the source text ""09-02-2024"". The target text should use the format ""09-02-2024"" to match the source."
+861,"בשנת 2010 חבר לעמותת ""אחריי"" והתחיל להדריך קבוצה בכפר חורפיש, לאחר שדאג שהעמותה תחל לפעול בכפרים הדרוזיים כדי לעודד את בני הנוער להתגייס.","In 2010, he joined the ""Acharai"" organization and began to lead a group in the village of Hurfeish, after ensuring that the organization would begin operating in the Druze villages in order to encourage youth to enlist.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""2010"" does not match the expected format in English, which is typically ""YYYY""."
+869,"ראוי שהוא יקבל את המקום המתאים לו"".","""He deserves the appropriate position for him.""","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""המקום"" should be formatted according to the locale conventions in English."
+876,אך בתקשורת הערבית הוצג בדיעבד ציוד קשר שלדברי הפלשתינים הושאר על ידי הכוחות מאחור.,"But in the Arab media, communication equipment was presented retrospectively, which according to the Palestinians was left behind by the forces.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""retrospectively"" does not match the source text ""בדיעבד""."
+877,"לטענת חמאס, המבצע נועד להטמנת מכשירי האזנה.","According to Hamas, the operation was intended to plant listening devices.","locale conventions:
+
+MQM annotations:
+No locale convention errors found in the given translation."
+885,"מפקד כוח הלוחמים ולוחם נוסף בצוות קיבלו אף הם צל""ש.",The commander of the combat force and an additional fighter in the team also received a citation.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""נוסף"" (additional) should be formatted according to the Hebrew locale conventions."
+889,"ישראל צריכה לשאול את עצמה, שוב, אם לא נכון לשנות מדיניות מול גזרת ג'נין •","Israel needs to ask itself, again, whether it is not right to change its policy towards the Jenin district.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The translation does not follow the standard address format in English, which typically places the city before the state/province abbreviation."
+895,"עדות לכך ניתנה במהלך מבצע המעצרים שבו נהרג שלשום לוחם הימ""מ, רס""ב נעם רז ז""ל.","The testimony to this was given during the arrest operation in which the Yamam fighter, Master Sergeant Noam Raz, of blessed memory, was killed yesterday.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""yesterday"" does not match the source text ""שלשום"" (the day before yesterday)."
+896,"לוחמים שהשתתפו בקרב בג'נין העידו כי הם אינם זוכרים היקף כזה של ירי ואלימות - עדות לא רק לכמות האדירה של אמל""ח שיש בשטח, אלא גם לנכונות להשתמש בו.","Fighters who participated in the battle in Jenin testified that they do not remember such a scale of fire and violence - evidence not only of the enormous amount of ammunition in the area, but also of the willingness to use it.","locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The numeric value ""כזה"" (such) is not formatted correctly in the target text."
+901,"פעילות מבצעית היא עניין מסוכן למי שמשתתף בה, ולמי שנוכח בזירה.","Operational activity is a dangerous matter for those who participate in it, and for those who are present at the scene.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""מבצעית"" should be formatted according to the locale conventions in English."
+906,"ממילא נראה ששום דבר לא ישכנע את המשוכנעים: העולם כבר הזדרז לגנות את ישראל מבלי שטרח לאזן זאת במילת אמפתיה לקורבנות הטרור הפלשתיני - העילה המקורית שבשמה צה""ל פועל ללא הרף בג'נין.","Here is the translation from Hebrew to English:
+
+Inevitably, it seems that nothing will convince the convinced: the world has already rushed to condemn Israel without bothering to balance this with a word of empathy for the victims of Palestinian terror - the original pretext in whose name the IDF operates relentlessly in Jenin.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""12345"" in the address should be formatted with a space or comma separator (e.g., ""12 345"" or ""12,345"") according to the locale conventions."
+907,"כתמיד, טבעם של סיפורים כאלה לגווע.","As always, the nature of such stories is to fade away.","locale conventions:
+
+MQM annotations:
+No locale convention errors detected."
+911,האחריות מחייבת: לפעול להרגעת המצב.,The responsibility requires: to act to calm the situation.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""1"" should be formatted according to the locale conventions in English."
+919,"ח""כ עופר כסיף הוא הדוגמה האחרונה לכך; אם לא יינקטו כלפיו צעדים - לרבות העמדה לדין על תקיפת שוטר - תעודד המדינה במשתמע את נבחר הציבור הבא להקצין עוד יותר את פעולותיו.",MK Ofer Cassif is the latest example of this; if steps are not taken against him - including prosecution for assaulting a police officer - the state will implicitly encourage the next elected public representative to further escalate their actions.,"locale conventions:
+
+MQM annotations:
+[Minor]: [ADDRESS FORMAT] - The address format in the target text does not match the locale-specific conventions. The placement of ""St."" is incorrect in English.
+[Minor]: [NUMBER FORMAT] - The numeric value in the target text is not formatted according to the locale conventions. The space between the number groups is missing."
+921,"מכל מי ששכל ישר בראשו מצופה להתעלות מעל לכל אלה, ולפעול להרגעת המצב; אחרת, עלולה ישראל לגלוש במהירות להסלמה מול אויבים מבחוץ, וגרוע מכך - מול יריבים מבית.","From all those who have common sense, it is expected to rise above all these, and to work to calm the situation; otherwise, Israel may quickly slide into escalation against external enemies, and worse - against internal rivals.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""12345"" in the target text should be formatted with a space separator as ""12 345"" to match the locale convention."
+928,"נוסף על כך, בין 100 ל-110 אלף פלשתינים עם היתרי עבודה נכנסים מדי יום לעבודה בישראל דרך 34 מעברים מפוקחים.","In addition, between 100,000 to 110,000 Palestinians with work permits enter Israel for work through 34 supervised crossings every day.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric range ""100 to 110 thousand"" should be formatted as ""100,000 to 110,000"" to match the English locale convention."
+940,"לעיתים הדבר חוזר על עצמו גם בפעם השנייה, אך רק בפעם השלישית הוא נעצר, נכלא ומוגש נגדו כתב אישום בגין שהייה בלתי חוקית.","Sometimes the matter repeats itself even the second time, but only the third time it is stopped, imprisoned, and an indictment is filed against him for illegal presence.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""09.02.2024"" does not match the source format ""09-02-2024"". The target format should be ""02.09.2024"" to adhere to the local conventions in the target language."
+954,הוא יכול להיות אב למשפחה שנכנס לארץ לעבוד כדי להרוויח כמה שקלים ולחזור.,He can be a father to a family that enters the country to work in order to earn a few shekels and return.,"locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The numeric value ""כמה שקלים"" (a few shekels) is not formatted according to the English locale convention."
+968,"חברות רשומות לא עוסקות בזה, מכיוון שאם החברה תיתפס, דינה להיסגר"".","""Registered companies do not engage in this, because if the company is caught, its fate is to be closed.""","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""דינה"" should be formatted according to the Hebrew locale convention."
+971,"לרוב החבר'ה האלה מסיעים עם רכב מצ'וקמק כי הם יודעים שנחרים להם את הרכב אז הם מעדיפים לנסוע ברכב ישן"".","Most of these guys travel with a crappy vehicle because they know we'll confiscate their vehicle, so they prefer to drive an old car.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""מצ'וקמק"" should be formatted according to the Hebrew number conventions."
+972,תיעוד: הצתת שדות במושב ציפורי,Documentation: Arson of fields in the Tzipori moshav.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format ""במושב ציפורי"" does not follow the standard English address format."
+979,"נציין כי במוקד זה הוקם ה""שומר החדש"" בניסיון למגר את התופעה הקשה.","This center was established as the ""New Guard"" in an attempt to eradicate the severe phenomenon.","locale conventions:
+
+MQM annotations:
+[Minor]: [LOCALE CONVENTIONS/ADDRESS FORMAT] - The address format in the target text does not match the locale-specific requirements. The placement of ""the"" before the address is not necessary in English."
+981,"במסגרת התרגיל המטכ""לי ""מרכבות אש"", התרעת צופרים תשמע ביום ראשון, שני ורביעי בכמה מוקדים בישראל •","In the framework of the General Staff exercise ""Chariots of Fire"", the sounding of sirens will be heard on Sunday, Monday, and Wednesday in several locations in Israel.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""Sunday, Monday, and Wednesday"" does not match the locale-specific convention in Hebrew, which typically uses the Hebrew calendar."
+999,"בפעילות הלוחמים בעיר ג'נין שבמרחב החטיבה המרחבית מנשה, נעצרו שני מבוקשים החשודים בפעילות טרור.","In the activity of the fighters in the city of Jenin in the area of the Manasseh regional brigade, two wanted suspects suspected of terrorist activity were arrested.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the locale-specific conventions. The order and placement of the address elements are incorrect."
+1029,משרד רואה חשבון יהודה ברלב לא מעוניין להגיב.,Yehuda Berlev accounting firm is not interested in responding.,"locale conventions:
+
+MQM annotations:
+[Minor]: [no-error] - There are no locale convention errors in the given translation."
+1032,"גנץ התייחס בין היתר לתיעוד של אל-סייד בשבי החמאס: ""סרטון שמטרתו סחטנות – על גבה של סוגייה הומניטארית"" •","Gantz referred, among other things, to the documentation of Al-Sayyid in Hamas captivity: ""A video whose purpose is extortion - on the back of a humanitarian issue"".","locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The numeric value ""12345"" should be formatted with a space or comma separator (e.g., ""12 345"" or ""12,345"") according to the locale conventions."
+1036,"חמאס מחזיק בשבי את ארבעת הבנים בניגוד לחוק הבינלאומי, בניגוד למוסר.","Hamas is holding the four sons captive in violation of international law, in violation of morality.","locale conventions:
+
+MQM annotations:
+[Major]: [address format] - The address format in the target text does not match the expected format in English. The elements of the address are not presented in the correct order."
+1046,"""'השלוחים החדשים', הם טרוריסטים עם מקלדת שדינם כמו לוחמי ארגוני טרור אחרים.","""The new emissaries"" are keyboard terrorists whose fate is like that of other terrorist organization fighters.","locale conventions:
+
+MQM annotations:
+[Major]: [terminology/inappropriate for context] - The term ""keyboard terrorists"" is a strong and potentially inflammatory term that may not be the most appropriate way to refer to the ""new emissaries"" in this context.
+[Minor]: [number format] - The use of the word ""their"" in the translation is not necessary and makes the sentence slightly awkward."
+1047,"אנחנו יודעים מי הם, אנחנו פוגעים בהם ובשולחיהם, וגם היום הם על הכוונת שלנו – ולא רק במימד הקיברנטי.","We know who they are, we are hitting them and their senders, and even today they are in our sights - and not just in the cyber dimension.","locale conventions:
+
+MQM annotations:
+No locale convention errors found in the given translation."
+1073,"מדריך לחימה בטרור של מג""ב עוטף ירושלים: ""הפיתוח, נותן מענה רלוונטי לאיומי הייחוס ומדמה את המציאות בשטח"" •","""Border Police Counter-Terrorism Combat Guide for the Jerusalem Envelope: 'The development provides a relevant response to the reference threats and simulates the reality on the ground.'""","locale conventions:
+
+MQM annotations:
+[Minor]: [ADDRESS FORMAT] - The address format in the target text does not match the locale-specific conventions. The address should be presented in the correct order and format for the target language."
+1081,"במסגרת התחרות, וכמענה לצורך בתרגול לוחמי מג""ב ללחימה באימון ירי בתנועה ובמתארים מסוג זה, אסף בן דויד, מדריך לחימה בטרור של מג""ב עוטף ירושלים פיתח את ""מתקן אסף"", המורכב ממטרה דינאמית, שמחוברת למוט טלסקופי עליו מורכב מנשא שניתן לרתום למדריך.","Within the framework of the competition, and in response to the need for Border Police fighters to practice combat training in motion and in such scenarios, Assaf Ben David, a combat instructor in terrorism for the Border Police in the Jerusalem envelope, developed the ""Assaf Device"", which consists of a dynamic target connected to a telescopic pole on which a harness can be mounted that can be harnessed to the instructor.","locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the expected format in the source language. The placement of ""St."" is incorrect in English."
+1082,"משרתם המדריך את המנשא למותנו, הוא יכול לתרגל את הלוחם שעומד לפניו על ידי שליטה והזזת המטרה לצדדים וטווחים שונים.","The guide leads the bearer to our demise, he can practice the warrior standing before him by controlling and moving the target to different sides and ranges.","locale conventions:
+
+MQM annotations:
+[Minor]: [MEASUREMENT FORMAT] - The translation uses ""למותנו"" (to our demise) instead of the more appropriate ""למטרה"" (to the target).
+[Minor]: [NUMBER FORMAT] - The translation uses ""שונים"" (different) instead of ""שונים"" (various)."
+1091,מתניהו אנגלמן התריע בשבוע הסייבר הבינלאומי מפני חוסר המוכנות של ישראל לתקיפות פצחנים •,Matthew Engelmann warned during the International Cyber Week of Israel's lack of preparedness for hacker attacks.,"locale conventions:
+
+MQM annotations:
+[Minor]: [name_format] - The source name ""מתניהו אנגלמן"" is translated as ""Matthew Engelmann"" instead of maintaining the original Hebrew name format."
+1109,"במקביל לאימונים האינטנסיביים עם הנבחרת, בלייזר עסק בשבוע האחרון גם בעתידו, עד שחתם לשנתיים בהפועל ירושלים.","In parallel to the intensive training with the national team, Blayzer also dealt with his future last week, until he signed a two-year contract with Hapoel Jerusalem.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""09.02.2024"" does not match the format used in the source text ""09-02-2024""."
+1112,"לא היית בנבחרת ארבע שנים, עד כמה אתה שמח לחזור, ועד כמה אתה רוצה לשחק בשני המשחקים הקרובים?","I was not in the national team for four years, how happy are you to return, and how much do you want to play in the next two games?","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""vier Jahre"" does not match the expected format in English of ""four years"".
+[Minor]: [NUMBER FORMAT] - The numeric value ""zwei"" should be formatted as ""two"" to match the English locale convention."
+1113,"""קודם כל, אני רוצה ליהנות בנבחרת ואני בא בגישה של לתרום בכל מה שאני יכול, אם זה מהניסיון שלי ואם זה על המגרש.","""First of all, I want to enjoy the national team and I come with the approach of contributing in every way I can, whether it's from my experience or on the field.""","locale conventions:
+
+MQM annotations:
+No locale convention errors found in the given translation."
+1123,ברגע שהרגשתי חיבור עם ההנהלה ועם המאמן הבנתי שזה המקום הנכון בשבילי.,"The moment I felt a connection with the management and the coach, I understood that this is the right place for me.","locale conventions:
+
+MQM annotations:
+No locale convention errors found in the given translation."
+1128,"אני בטוח שתהיה קבוצה מחויבת ומהנה ורציתי להיות חלק מזה"".","""I'm sure it will be a committed and enjoyable group, and I wanted to be a part of it.""","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""מחויבת"" should be formatted according to the Hebrew locale convention, which typically uses commas as thousands separators (e.g., ""1,000"")."
+1160,רז אדם עשוי להיות מושאל לעירוני נס ציונה •,The secret of man may be borrowed for the urban Nes Ziona.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The translation does not follow the standard address format for the target language. The phrase ""עירוני נס ציונה"" should be formatted as a proper address."
+1167,"במכבי ת""א הודיעו: נובאטוס מירושי נמכר לזולטה הבלגית",Maccabi Tel Aviv announced: Novakovic from Jerusalem was sold to Zulte Waregem (Belgian club).,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""ת""א"" (Tel Aviv) is not formatted correctly in the target text."
+1197,"הקבוצה של אריאל בית הלחמי חיברה ניצחון שלישי ברצף, הפעם מרשים במיוחד •","The group of Ariel Beit Halechemi achieved a third consecutive victory, this time particularly impressive.","locale conventions:
+
+MQM annotations:
+[Minor]: [NUMBER FORMAT] - The numeric value ""שלישי"" (third) should be formatted according to the locale convention for numbers in Hebrew."
+1221,אלה שהפכו לשואבי מים ומנופפי מגבות במשחקים באירופה.,These who became water carriers and towel wavers in games in Europe.,"locale conventions:
+
+MQM annotations:
+[Minor]: [address format] - The address format in the target text does not match the locale-specific conventions. The order and placement of the address elements are not appropriate for the target language."
+1276,לפני המשחק מנהל הקבוצה עמי ביטון נכנס לחדר ההלבשה ונשא דברים מרגשים בפני השחקנים.,"Before the game, team manager Ami Biton entered the locker room and delivered an emotional speech to the players.","locale conventions:
+
+MQM annotations:
+No locale convention errors found in the given translation."
+1317,אין פגיעה בחשיבה הביקורתית.,There is no harm in critical thinking.,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""12345"" should be formatted with a space or comma as per the English locale convention (e.g., ""12,345"" or ""12 345"")."
+1339,"על פי שכלול נתוני המחקר, 84% מהקרקעות המיועדות לחקלאות בעולם יחוו מחסור כבד במי גשמים.","According to the aggregated research data, 84% of the land designated for agriculture worldwide will experience severe rainfall deficits.","locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""84%"" should be formatted according to the locale conventions in English (e.g., ""84%"")."
+1364,עמלנו חודשים רבים להבאת בסיס להתקנת הסיבים וכעת החזון הופך למציאות.,"Our labor for many months has brought a basis for the installation of the fibers, and now the vision is becoming a reality.","locale conventions:
+
+MQM annotations:
+[Minor]: [DATE/TIME FORMAT] - The date format in the target text ""many months"" does not match the source text ""חודשים רבים""."
+1376,יש קשר בין רמות הנוגדנים שמפתחים לתופעות הלוואי?,There is a connection between the levels of antibodies developed and side effects.,"locale conventions:
+
+MQM annotations:
+[Major]: [CURRENCY FORMAT] - The translation does not follow the correct currency format for the target language. The currency symbol should be placed before the numeric value with a space in between."
+1388,יש בכלל אפשרות להעריך חוזק של מערכת חיסון?,Is it even possible to assess the strength of an immune system?,"locale conventions:
+
+MQM annotations:
+[Minor]: [number format] - The numeric value ""בכלל"" should be formatted according to the Hebrew locale conventions."
+1429,"ובכן, מה דעתכם לצאת לסיורים חינמיים בעקבות גיבורי הסדרות האהובות של נטפליקס?","And so, what do you think about going on free tours following the beloved heroes of Netflix series?","locale conventions:
+
+MQM annotations:
+Minor: address format - The address format in the target text does not match the locale-specific conventions. In English, the address should be formatted as ""123 Desert Bluff St., Canyonlands, AC 12345, United States""."
+1452,"המחירים השתנו, תנאי הכבודה כבר לא אותו הדבר וישראלים רבים מופתעים כשהם מגיעים לנמל התעופה ומגלים שהם צריכים להוסיף סכומים גבוהים עבור מזוודות שחשבו שכלולות במחיר.","The prices have changed, the conditions of hospitality are no longer the same, and many Israelis are surprised when they arrive at the airport and discover that they need to add large sums for suitcases that they thought were included in the price.","locale conventions:
+
+MQM annotations:
+[Major]: [currency format] - The currency format does not match the locale-specific requirements. The currency symbol should be placed before the numeric value with a space in between.
+[Minor]: [number format] - The numeric value for the suitcase fees should have a thousands separator (e.g., 1,000) to follow the locale conventions."
+1471,בישראייר המחיר לא כולל כבודה.,The price does not include baggage.,"locale conventions:
+
+MQM annotations:
+[Minor]: [currency format] - The currency format in the target text does not match the locale-specific requirements. The price should be formatted as ""₪"" followed by the numeric value."
+1484,"הזמנה של מזוודה נוספת יכולה לעלות בין 90-150 דולרים לכיוון אם תעשו זאת בנמל התעופה, בהזמנה מראש המחיר מעט זול יותר.","An additional suitcase reservation can cost between $90-$150 per direction if done at the airport, with advance booking the price is slightly cheaper.","locale conventions:
+
+MQM annotations:
+[Minor]: [CURRENCY FORMAT] - The currency format in the target text does not match the locale-specific requirements. The price range should be formatted as ""$90-$150"" instead of ""90-150 dollars""."

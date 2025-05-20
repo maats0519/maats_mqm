@@ -1,0 +1,764 @@
+index,original,translated,terminology_annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.","עבורי, זו הנחה די גדולה כי היא יוצרת את חלון התצוגה רק באמצעות אובייקט Direct3D, ולא אובייקט Direct3D3.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""Direct3D3"" should be translated as ""Direct3D3"" in Hebrew, but it is missing in the translation.
+```"
+3,"Now, I get that in practice, IDirectXObject2 is typically a proper superset of IDirectXObject, with no changed function signatures, and new methods only added to the end.","עכשיו, אני מבין שבפועל, IDirectXObject2 הוא בדרך כלל על-קבוצה נכונה של IDirectXObject, ללא שינוי חתימות פונקציות, ורק שיטות חדשות נוספות בסוף.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""IDirectXObject2"" should be translated as ""אובייקט IDirectX2"" according to the glossary.
+Minor: TERM NOT APPLIED - The term ""IDirectXObject"" should be translated as ""אובייקט IDirectX"" according to the glossary.
+```"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","נניח לצורך הדיון שהמדע לפחות בחלקו מורכב מרשימות של הצהרות עובדתיות אובייקטיביות על העולם, נכונות ללא קשר לכל תיאוריה שהן עשויות לתמוך בה.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","הניסויים לא יוצרים את העובדות בקריאה זו, אך הבחירה באילו ניסויים לערוך שולטת באילו עובדות מתגלות.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.","כמה עובדות, למשל על חלקיקים תת-אטומיים, יכולות לנבוע רק מניסויים שאפשריים רק בקפיטליזם, משום שהם דורשים יותר מדי משאבים, יותר מדי ארגון, יותר מדי כפייה, כדי להצליח בדרך אחרת.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""subatomic particles"" was translated as ""חלקיקים תת-אטומיים"" but should be checked against the glossary to ensure compliance.
+Minor: TERM NOT APPLIED - The term ""capitalism"" was translated as ""קפיטליזם"" but should be checked against the glossary to ensure compliance.
+```"
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,זהו תיאור קצר מאוד של טיעון סביר לפיו תיאוריות של קפיטליזם המשפיעות על התוכן הממשי של המדע עולות בקנה אחד עם תיאוריות הטוענות לקיומם של עובדות מדעיות אובייקטיביות.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+13,Going to be my first project car.,יהיה רכב הפרויקט הראשון שלי.,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""project car"" should be translated according to the glossary, but it is not applied in the translation.
+```"
+14,Picking this up this weekend.,אאסוף את זה בסוף השבוע.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+16,Already on coil overs and lowered ride height.,כבר על קוילאוברים והנמכת גובה נסיעה.,"```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - The term ""קוילאוברים"" is a transliteration of ""coil overs"" and may not be the most appropriate term in Hebrew. A more accurate term could be used if available in the glossary.
+```"
+20,#Venting into the Fediverse time.,#משחרר קיטור לפדיברס זמן.,"```
+MQM annotations:
+Terminology errors:
+major: TERM NOT APPLIED - The term ""Fediverse"" was not translated according to the glossary specification.
+```"
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,בן הזוג ואני הלכנו לחנות המשקאות הערב לקנות כמה בירות ובקבוק שמפניה.,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""bub"" should have been translated as ""שמפניה"" (champagne) in Hebrew, but it was not applied correctly in the translation.
+```"
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","כשהלכנו לשלם, הקופאית היא אישה טרנסג'נדרית די ברורה.","```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - The term ""trans woman"" should be translated as ""אישה טרנסית"" according to the glossary, but ""אישה טרנסג'נדרית"" was used instead.
+```"
+27,And I said her nails looked cool.,ואמרתי שהציפורניים שלה נראות מגניבות.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,החיוך של ההקלה על פניה היה תחושה נהדרת אבל העובדה שהיא הייתה מפוחדת קודם פשוט חרא ואני שונא את זה.,"```
+MQM annotations:
+Terminology errors:
+none
+```
+
+In this case, there are no terminology errors in the translation provided. The translation accurately reflects the source text, and there are no issues with glossary terms."
+33,It takes the state's governor.,זה לוקח את מושל המדינה.,"```
+MQM annotations:
+Terminology errors:
+major: TERM NOT APPLIED - The term ""state's governor"" should be translated according to the glossary, but ""מושל המדינה"" is used instead.
+```"
+38,"In this work, based on a variant of the classical Lewis (1969) signaling model, we explore the conditions for the emergence of context-dependent communication in a situated scenario.","בעבודה זו, המבוססת על גרסה של מודל האיתות הקלאסי של לואיס (1969), אנו בוחנים את התנאים להופעת תקשורת התלויה בהקשר בתרחיש ממוקם.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""context-dependent communication"" should have been translated as ""תקשורת תלויה בהקשר"" according to the glossary.
+```"
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","במקביל, אנו חוקרים את התנאים הסביבתיים והיכולות הקוגניטיביות המאפשרים הבהרת הקשר של משמעויות סמלים.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+41,"We show that environmental constraints on the receiver's referent choice can be unilaterally exploited by the sender, without disambiguation capabilities on the receiver's end.","אנו מראים כי מגבלות סביבתיות על בחירת המושא של המקבל יכולות להיות מנוצלות באופן חד-צדדי על ידי השולח, ללא יכולות הבהרה מצד המקבל.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""referent"" should have been translated using a specific term from the glossary if available, rather than ""מושא"" which is a general term.
+```"
+46,"Ashanti Development has been working with an ever-expanding number of communities in the Ashanti region of Ghana for approaching 20 years, engaging with communities and providing support with water and sanitation, education, healthcare, tree planting and farming.","ארגון פיתוח אשנטי עובד עם מספר הולך וגדל של קהילות באזור אשנטי בגאנה במשך קרוב ל-20 שנה, תוך מעורבות עם הקהילות ומתן תמיכה במים ותברואה, חינוך, בריאות, נטיעת עצים וחקלאות.","```
+MQM annotations:
+Terminology errors:
+none
+```"
+47,Communities gain the knowledge to embed and support their own development.,קהילות רוכשות את הידע לשלב ולתמוך בפיתוח שלהן.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+52,Photos from my visit to Ghana in 2011.,תמונות מהביקור שלי בגאנה ב-2011.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+55,They won't allow me to tell them the address it's going to and who is shipping it.,הם לא יאפשרו לי להגיד להם לאן זה נשלח ומי שולח את זה.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+58,The next morning and I can't get past Chris Licht's disgraceful pretense of public service journalism on CNN last night.,למחרת בבוקר ואני לא יכול להתגבר על ההעמדת הפנים המבישה של כריס ליכט בעיתונות שירות ציבורי ב-CNN אמש.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.","זה היה שערורייה, כמו פסטיבל אנטי-דמוקרטי סמלי של שקרים וטענות מ-6 בינואר, שהתקיים בהרס עצמי על ידי התקשורת האמריקאית.","```
+MQM annotations:
+Terminology errors:
+Major: TERM NOT APPLIED - The term ""Jan 6"" should be translated as ""6 בינואר"" in Hebrew, but it is not highlighted as a glossary entry.
+```"
+60,THE SHAMEFUL AUDIENCE.,הקהל המביש.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+61,Licht AGREED to an all Republican audience!,ליכט הסכים לקהל שכולו רפובליקנים!,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""Republican"" should have been translated as ""רפובליקני"" in Hebrew according to the glossary.
+```"
+63,There's a story to be reported there.,יש שם סיפור לדווח עליו.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+64,The ratings--seeking delusional irresponsibility of it all.,החוסר אחריות ההזייתי לשם הרייטינג של כל זה.,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""ratings"" was not translated according to the glossary specification. The translation should have used the specific term for ""ratings"" if it exists in the glossary.
+```"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","יש לי מרתף עם הרבה טיוטות, מה שבעצם אומר שאני יכול לקבל הרבה מכרסמים שמוצאים בו מקלט.","```
+MQM annotations:
+Terminology errors:
+Major: TERM NOT APPLIED - The term ""drafty"" was translated as ""טיוטות"" (drafts) instead of using a term that conveys the meaning of ""drafty"" in the context of a basement, which should relate to air leaks or cold air.
+```"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.","לבסוף נמאס לי מהשגרה הזו אתמול בלילה, ניקיתי את כל המלכודות מחמאת בוטנים והדבקתי פיסטוק עליהן עם דבק חזק.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+76,But they also cut grants and tax credits that encourage more business activity.,אבל הם גם קיצצו במענקים ובזיכויי מס שמעודדים פעילות עסקית נוספת.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""tax credits"" should have been translated as ""זיכויי מס"" according to the glossary.
+```"
+77,"I own a business. It's successful in spite of the provincial government, not because of it.","אני בעל עסק. הוא מצליח למרות הממשלה המחוזית, לא בזכותה.","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""provincial government"" was not translated according to the glossary specification.
+```"
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","זה נכון גם עכשיו כש-goatse.cx איננו, אם כי זו הייתה תחרות צמודה לתחתית בין goatse ובין, נאמר, khou.com, שם ניסיתי לצפות בסרטון שוונדי שלחה לי.","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""video"" should have been translated as ""וידאו"" in Hebrew according to the glossary.
+```"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,קנה כמה מדבקות פגוש שהן נגד טראמפ והדבק אותן בכל מקום.,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""bumper sticker"" should have been translated according to the glossary specification.
+```"
+95,Yell back at those who would try to talk over us.,צעק בחזרה על אלה שינסו לדבר מעלינו.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,זה לא מקובל חברתית לצאת בציבור או למהר לאנשים כשאתה משתעל ומפיץ ליחה.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,אני חוזר. זה לא מקובל חברתית להפיץ את סערת הריר של הקורונה שלך בכל מקום!!!,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+106,Mio knows that sorrow is life's constant companion.,מיו יודעת שהעצב הוא בן לוויה קבוע של החיים.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","לאחר 4,000 של מצוקה, יל מוצאת את עצמה במקום של אהבה ויש לה רגשות עזים שהיא לא יודעת מה לעשות איתם, אז יש הרבה משניהם.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,הפיאסקו של אתמול עם #מנגו_אידיוט היה פיאסקו מזעזע.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The hashtag ""#MangoMoron"" should have been translated as ""#מנגו_אידיוט"" according to the glossary specification.
+```"
+111,"Which cable news ""executive"" made the call to give the fat, lying criminal this much air-time?","איזה ""מנהל"" חדשות בכבלים קיבל את ההחלטה לתת לפושע השמן והשקרן כל כך הרבה זמן שידור?","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""executive"" should have been translated as ""מנהל בכיר"" in Hebrew, but it was translated as ""מנהל,"" which does not fully capture the intended meaning of ""executive.""
+```"
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","כשהמכונית משתנה, כך גם ארני, שהביטחון החדש שלו הופך ליהירות מאחורי ההגה של יופיו האקזוטי.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+118,Codleo is one of the best Salesforce Partner offering best Salesforce services tailored to your company needs.,קודלאו היא אחת השותפות הטובות ביותר של Salesforce המציעה את שירותי Salesforce הטובים ביותר המותאמים לצרכי החברה שלך.,"```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - The term ""Salesforce"" should be capitalized consistently throughout the translation to match the source text.
+```"
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,אחד החלקים המטורפים ביותר בכך שהשכנים שלי הפכו נגדי הוא לחשוב על כמה מאמץ זה דורש להיות עוין.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+124,"Forget me, fine.","שכח אותי, בסדר.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+125,"Ignore me, fine.","התעלם ממני, בסדר.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+129,Slamming a door in my face takes effort.,לטרוק דלת בפרצופי דורש מאמץ.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+133,That vessel is off-limits.,הכלי הזה אסור לגישה.,"```
+MQM annotations:
+Terminology errors:
+major: TERM NOT APPLIED - The term ""vessel"" should have been translated as ""ספינה"" in Hebrew according to the glossary, but ""הכלי"" was used instead.
+```"
+137,But another individual often flies aboard that ship.,אבל אדם נוסף לעיתים קרובות טס על הספינה ההיא.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+138,If he were to die... the consequences would be... significant.,אם הוא היה מת... ההשלכות היו... משמעותיות.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"הנה קורס התרסקות (קצת יותר ארוך מאורך ציוץ) למה שאני מתכוון ב""הפיכת אבא"":","```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - The term ""toot"" should have been translated according to the glossary specification, but it was translated as ""ציוץ"" (tweet) instead.
+```"
+142,The Last of Us is an easy and canonical example of dad-ification.,האחרונים שבינינו הוא דוגמה פשוטה וקנונית להפיכת דמות אב.,"```
+MQM annotations:
+Terminology errors:
+Major: TERM NOT APPLIED - The term ""The Last of Us"" should have been translated as ""האחרון מאיתנו"" according to the glossary specification.
+```"
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.",הפיכת האב לשלטון שוחקת את האפשרות לפתרונות קהילתיים ולעיתים קרובות מתעלמת לחלוטין או מחלישה כל סוכנות שיש לילד.,"```
+MQM annotations:
+Terminology errors:
+Major: WRONG TERM - The term ""Dad-ification"" was translated as ""הפיכת האב לשלטון,"" which does not accurately convey the meaning of the original term. The translation implies a more authoritarian or governance-related transformation, which may disrupt the flow of the text.
+```"
+146,"In this way, Dad-ification is a stand in for a lot of neoliberal ideals; especially ideas like bootstrapping and self-sufficiency as being an ultimate goal/indicator for success.","בדרך זו, הפיכת אבא היא תחליף להרבה אידיאלים ניאו-ליברליים; במיוחד רעיונות כמו הסתמכות עצמית והיכולת להצליח בכוחות עצמך כיעד/מדד להצלחה.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""Dad-ification"" should be translated as ""הפיכת אבא"" according to the glossary, but it is not highlighted in the target text.
+```"
+148,- We send out notifications when airfare goes on sale.,אנו שולחים התראות כאשר מחירי הטיסות יורדים.,"```
+MQM annotations:
+Terminology errors:
+major: TERM NOT APPLIED - The term ""airfare"" should be translated as ""מחירי כרטיסי טיסה"" according to the glossary, but ""מחירי הטיסות"" was used instead.
+```"
+150,"- We don't sell tickets, or charge a subscription.",- אנחנו לא מוכרים כרטיסים או גובים מנוי.,"```
+MQM annotations:
+Terminology errors:
+Major: TERM NOT APPLIED - The term ""subscription"" was not translated according to the glossary specification.
+```"
+154,"Yet, unimaginable fear, terror and displacement have left them with the invisible scar of trauma.","ובכל זאת, פחד בלתי נתפס, אימה ועקירה הותירו בהם את הצלקת הבלתי נראית של הטראומה.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+159,Over time dart became my go-to for quick UI.,עם הזמן דארט הפך להיות הבחירה שלי ל-UI מהיר.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""UI"" should be capitalized in the Hebrew translation to match the source.
+```"
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter זה תענוג לעבוד איתו, ויש להם #mobx לניהול חנויות בקלות.","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""store"" should be translated as ""חנות"" according to the glossary, but ""חנויות"" (stores) was used instead.
+```"
+161,"The dependency story is less insane than nodejs, too.",סיפור התלות פחות מטורף מאשר ב-nodejs.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""nodejs"" should be capitalized as ""Node.js"" to match the standard terminology.
+```"
+162,"Of course flutter sucks really bad when it comes to behaving like a good native app would (anywhere, really. Even flutter web target sucks).","כמובן שפלאטר גרוע מאוד בכל הנוגע להתנהגות כמו אפליקציה מקורית טובה (בכל מקום, באמת. אפילו היעד של פלאטר ווב גרוע).","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""flutter"" should have been translated as ""פלאטר"" according to the glossary.
+Major: TERM NOT APPLIED - The term ""flutter web"" should have been translated as ""פלאטר ווב"" according to the glossary.
+```"
+182,Because it happens in the mind and seems less tangible than physical health.,מכיוון שזה קורה במחשבה ונראה פחות מוחשי מאשר בריאות פיזית.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","באותו אופן שבו בריאות הנפש נתפסת כפחות ""אמיתית"" מבריאות הגוף על ידי רבים, אני מרגיש שבמידה מסוימת להיות טרנס זה כמו להיות אינטרסקס של הנפש.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+188,"I feel that to be trans is to be ""biologically non-binary"".","אני מרגיש שלהיות טרנס זה להיות ""ביולוגית לא בינארי"".","```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - The term ""טרנס"" should be checked for capitalization as it is a proper noun in this context.
+```"
+198,"(And also: The Web is now largely a Google thing, unfortunately)","(וגם: הרשת היא עכשיו בעיקר דבר של גוגל, למרבה הצער)","```
+MQM annotations:
+Terminology errors:
+None
+```"
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,"בנוסף, אנא הימנע מלספר לי שאפליקציות של גוגל/פלאטר גרועות ב-iOS וב-macOS.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""Flutter"" should be capitalized in Hebrew as ""פלאטר"" to match the source text's capitalization.
+```"
+200,Cross platform is hard if you want to do it well.,פלטפורמות חוצות זה קשה אם אתה רוצה לעשות את זה טוב.,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""Cross platform"" should be translated according to the glossary specification, but it is not applied in the translation.
+```"
+202,Thank you to those people who have downloaded the latest update to Leasey.,תודה לאנשים שהורידו את העדכון האחרון ל-Leasey.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+203,A few very small difficulties have come to light.,כמה קשיים קטנים מאוד התגלו.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,אני לא יודע בדיוק למה המוח שלי לא מצליח להבין את זה; יכול להיות שהכלים פשוט כל כך רחבים ומעורפלים שהמוח שלי פשוט נתקע בגלל 'יותר מדי אפשרויות'.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+211,Grafana looks pretty.,גרפנה נראית יפה.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+218,...And that's how I found myself having to sort out a raid group roster.,...וכך מצאתי את עצמי צריך לסדר רשימת קבוצה לפשיטה.,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""raid group"" should have been translated as ""קבוצת פשיטה"" according to the glossary, but it was not applied in the translation.
+```"
+220,"Then, life crushed my soul and I lost all my passion for fiction and great storytelling.","ואז, החיים ריסקו את נשמתי ואיבדתי את כל התשוקה שלי לסיפורת ולסיפור סיפורים גדולים.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+222,I'm now on book # 31 and it's only May.,אני עכשיו בספר מספר 31 ורק מאי.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+224,I haven't really achieved anything.,לא באמת השגתי שום דבר.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,תנו להם לשקם את הערים החלולות והמתפוררות ברחבי המדינה.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+233,Deport the white supremacists.,לגרש את העליונות הלבנה.,"```
+MQM annotations
+Terminology errors:
+Major: TERM NOT APPLIED - The term ""white supremacists"" was not correctly translated to ""עליונות לבנה"" which means ""white supremacy"" instead of referring to the people (supremacists).
+```"
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""","נמאס לי מהכותרות שטוענות ש""עבודה מרחוק מתה."" או ש""עבודה מרחוק הייתה ניסוי כושל.""","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""Remote work"" should have been translated as ""עבודה מרחוק"" in Hebrew, but it was not applied correctly in the translation.
+```"
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,"הכל קליקבייט, אבל זה מדאיג אותי לגבי המנהלים והבכירים שקוראים את המאמרים האלה.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,זה מאפשר לאנשים להימנע מנסיעות ארוכות שגוזלות זמן מהיום שלהם ומהמשפחות שלהם.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+243,To just ignore these facts is wrong.,להתעלם מהעובדות הללו זה לא נכון.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",פארקר התייחסה להפלות ולנטייתן של נשים עירוניות מודרניות לדחות את הבאת הילדים לטובת הקריירה שלהן.,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""abortion"" should be translated as ""הפלה"" in Hebrew, but it is not highlighted or specified as a glossary entry in the translation.
+```"
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,הוא גם טוען כי המפלגה הדמוקרטית החדשה והפרוגרסיבים רוצים לדלל את האוכלוסייה למען איכות הסביבה.,"```
+MQM annotations:
+Terminology errors:
+Major: TERM NOT APPLIED - The term ""NDP"" was not translated as per the glossary specification. It should have been translated as ""המפלגה הדמוקרטית החדשה"" in Hebrew.
+```"
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,"בכל פעם שמאי היה מגיע, חששתי לנסות לחגוג את יום ההולדת שלי.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+254,I fought over the years to get out of that mindset and to have better bdays.,נאבקתי במשך השנים כדי לצאת מהלך הרוח הזה ולחגוג ימי הולדת טובים יותר.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,האם אתה יודע על דרך יעילה עבור רכיב אינטרנט להגיב להוספה/הסרה ממסמך?,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""web component"" should be translated as ""רכיב רשת"" instead of ""רכיב אינטרנט"" according to the glossary.
+```"
+268,We currently use a MutationObserver hack.,אנו משתמשים כעת בהאק של MutationObserver.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""MutationObserver"" should have been translated according to the glossary specification if it exists. If it is a proper noun or technical term that should remain in English, this should be noted.
+```"
+285,Last week got a ton done and feeling much better about field items.,בשבוע שעבר הספקתי המון ומרגיש הרבה יותר טוב לגבי הפריטים בשטח.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","בנוסף צריך לזרוע שורת סלט שם כדי לשלב ירקות חתוכים בשני המקומות יש צוות מאומן על השקיה, הכנת ערוגות, והשתלה שזה 90% מהמיומנויות שאינן קציר.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""salad row"" should have been translated according to the glossary specification.
+```"
+290,It's 2023 and I still see people with iPhones actively avoid using Apple Maps.,זה 2023 ואני עדיין רואה אנשים עם אייפונים נמנעים באופן פעיל משימוש באפל מפות.,"```
+MQM annotations:
+Terminology errors:
+Major: TERM NOT APPLIED - The term ""Apple Maps"" should be translated as ""אפל מפות"" according to the glossary, but it is not highlighted as a glossary entry in the translation.
+```"
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","סקרן, שמרתי על ראש פתוח כדי להשוות כיצד גוגל מפות ואפל מפות משווים, על מכשיר האייפון שלי לבדיקה (המכשיר היומי שלי הוא מכשיר אנדרואיד, כך שזה נדיר שאני משתמש באייפון).","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""Google Maps"" should be translated as ""גוגל מפות"" in Hebrew, which is correct in the translation.
+Minor: TERM NOT APPLIED - The term ""Apple Maps"" should be translated as ""אפל מפות"" in Hebrew, which is correct in the translation.
+```
+
+In this case, there are no terminology errors in the translation. The terms ""Google Maps"" and ""Apple Maps"" are correctly translated as ""גוגל מפות"" and ""אפל מפות"" respectively, in accordance with the glossary."
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,החוויה של הצורך לעקוב אחר הוראות הייתה הרבה יותר טובה ב-Apple Maps בהשוואה ל-Google Maps.,"```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - ""Apple Maps"" and ""Google Maps"" should be consistently capitalized in Hebrew as they are proper nouns and brand names.
+```"
+298,Could it be that Google Maps got to market first?,האם ייתכן ש-Google Maps הגיע לשוק ראשון?,"```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - The term ""Google Maps"" should be capitalized as ""Google Maps"" in Hebrew, matching the source text's capitalization.
+```"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","אני נוטה לטובת אי שחרור זבל למשתמשי הקצה, ואפל פישלו בגדול עם אפל מפות כשהיא יצאה ב-2012.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,אבל זו האדמה שהופכת אותה לשומרת טובה של עושר כל עוד אתה חושב שהממשלה לא עומדת לשנות את המערכת שבה אנחנו חיים.,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""storer of wealth"" was not applied according to the glossary specification.
+```"
+307,A lot of ppl think that they literally own the earth when they buy a piece.,הרבה אנשים חושבים שהם ממש בעלים של כדור הארץ כשהם קונים חלק ממנו.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+312,The land is temporary.,הארץ היא זמנית.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,האדמה נלקחת בקלות ובמהירות על ידי הממשלה ביום אחד אם הם רוצים לעשות זאת.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+317,It has to be taken away one day.,זה צריך להילקח יום אחד.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+318,That's why the Chinese only allow leases.,לכן הסינים מאפשרים רק חכירות.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""leases"" should have been translated according to the glossary specification, if applicable.
+```"
+319,They already ran out of land.,הם כבר נגמרו מהקרקע.,"```
+MQM annotations:
+Terminology errors:
+Critical: WRONG TERM - The translation ""הם כבר נגמרו מהקרקע"" does not correctly convey the meaning of ""ran out of land."" The term ""נגמרו"" (ran out) is incorrectly applied to ""הם"" (they) instead of ""land,"" leading to a misunderstanding of the sentence. The correct translation should reflect that ""land"" is what has run out, not ""they.""
+```"
+320,"To success, the realization of dreams, friendship, to the simple but true!!","להצלחה, להגשמת חלומות, לחברות, לפשוט אך האמיתי!!","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""success"" was not translated as specified in the glossary.
+Critical: TERM NOT APPLIED - The term ""realization of dreams"" was not translated as specified in the glossary.
+Critical: TERM NOT APPLIED - The term ""friendship"" was not translated as specified in the glossary.
+Critical: TERM NOT APPLIED - The term ""simple but true"" was not translated as specified in the glossary.
+```"
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.","לכל המשקיעים שם בחוץ, אני מרים כוסית להצלחתכם ולהגשמת חלומותיכם.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+323,"And to all my friends, new and old, let us cherish the simple but true things in life that bring us joy and fulfillment.","ולכל חבריי, חדשים וותיקים, נשמור על הדברים הפשוטים אך האמיתיים בחיים שמביאים לנו שמחה וסיפוק.","```
+MQM annotations:
+Terminology errors:
+None
+```"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,אני לעיתים קרובות תוהה על היכולת האנושית להיות *כל כך* קשה עם עצמנו בעודנו מוצפים בכל כך הרבה ראיות למה אכזריות אמיתית נראית.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,אבל להרגיע את הייאוש מהבלגן שלנו זה קריטי - כי זה נותן לנו יותר מרחב להתמודד עם ההריסות שמסביב.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+331,"Some programmers: ""Typing speed does not matter!""","חלק מהמתכנתים: ""מהירות הקלדה לא משנה!""","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""Typing speed"" should have been translated according to the glossary, but it was not applied in the translation.
+```"
+339,It is definitely more romance than filth.,זה בהחלט יותר רומנטיקה מאשר זוהמה.,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""romance"" in the source text should be translated according to the glossary specification, which might not be ""רומנטיקה"" in Hebrew.
+```"
+342,I don't agree that #Mastodon is difficult to setup.,אני לא מסכים ש-#Mastodon קשה להתקנה.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+343,"Common, it's really not that hard.",זה באמת לא כל כך קשה.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+347,If you stick to the default web interface it doesn't look and feel good (imho).,אם תדבק בממשק האינטרנט המוגדר כברירת מחדל זה לא נראה ומרגיש טוב (לדעתי).,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""web interface"" should be translated according to the glossary specification.
+```"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.","אז, זה דורש קצת יותר מאמץ להיכנס לזה ואתה כנראה צריך אפליקציה טובה כדי לשפר את #UX.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""#UX"" should have been translated as ""#חוויית משתמש"" according to the glossary specification.
+```"
+353,Forecasting: anticipating harms before they happen (even if by minutes),חיזוי: צפי לנזקים לפני שהם מתרחשים (אפילו אם זה בדקות).,"```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - The term ""Forecasting"" should be translated as ""תחזית"" instead of ""חיזוי"" according to the glossary.
+```"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,אני מתאמן לבד בחדר השינה שלי בלי שותף או אפילו מתקן משקולות.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+370,Just me and a barbell with a bunch of weights.,רק אני ומוט משקולות עם ערימה של משקולות.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""barbell"" is not translated according to the glossary specification. It should be translated as ""מוט משקולות"" in Hebrew, which is correctly applied in the translation.
+```"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.","אם אנסה לחשב את המשקל המקסימלי שאני יכול להרים בחזרה אחת, ייתכן שלא יהיו לי מספיק משקולות כדי להגיע למקסימום, או לחלופין זה עלול לפצוע אותי קשה/להרוג אותי.","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""one rep max"" was not translated according to the glossary specification. The translation should have used a specific term if provided in the glossary.
+```"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,מעולם לא ראיתי אמא של מישהו מכינה את זה או שזה נדחף אליי במסיבה או שראיתי את זה מופיע יחד עם הרפתקאות הכנת רטבים של מישהו או ימי אפייה.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","לאחר שעברנו רדיקליזציה כאן, אנחנו מהססים לקנות מכונת FAANG חדשה.","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""FAANG"" should have been translated using the glossary specification, but it was not applied in the Hebrew translation.
+```"
+389,So was it Epic that originated this?,אז האם זה היה אפיק שהתחיל את זה?,"```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - The term ""Epic"" should be translated as ""Epic Games"" according to the glossary.
+```"
+394,Is it so ephemeral then?,האם זה כל כך חולף אז?,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+395,"Merely a ""catchphrase"" with no clear originator?","רק ""סיסמה"" ללא מחבר ברור?","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+399,Have now done a full round trip on the new ICNG train.,כעת עשיתי נסיעה הלוך ושוב מלאה על רכבת ה-ICNG החדשה.,"```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM - The term ""ICNG"" should be capitalized as ""ICNG"" in Hebrew to match the source and maintain consistency with the glossary specification.
+```"
+402,There's areas that could use some polish.,ישנם תחומים שיכולים להיעזר בליטוש.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.","כלומר, היעדר מספיק פחים והיעדר שלטים שמסבירים את משמעות צבעי התאורה.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+404,"Fix those minor issues, and then can we have more of these please?","תקן את הבעיות הקטנות האלה, ואז נוכל לקבל עוד כאלה בבקשה?","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,כללים של אחד ללקוח נשארים בתוקף כשאנו מנסים להבטיח שכל מי שעומד בתור יוכל להשיג לוח.,"```
+MQM annotations:
+Terminology errors:
+critical: TERM NOT APPLIED - The term ""board"" should have been translated as ""לוח אם"" (motherboard) if referring to a specific type of board, or another specific term if referring to a different type of board, depending on the context. The translation ""לוח"" (board) is too generic and doesn't apply the specific glossary term.
+```"
+407,"You can buy ONE of the boards listed above, not one of each.","אתה יכול לקנות לוח אחד מהרשומים למעלה, לא אחד מכל אחד.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+409,Yesterday I had the best time with my friend and former rabbi colleague.,אתמול היה לי הזמן הכי טוב עם חברי ועמיתי לשעבר הרב.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""former rabbi colleague"" should be translated using the glossary term ""רב לשעבר"" instead of ""עמיתי לשעבר הרב"".
+```"
+419,#FalconGameBooks,#פלקוןספרי־משחק,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation ""#פלקוןספרי־משחק"" should have been ""#פלקוןספרי-משחק"" without the hyphen being a special character.
+```"
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","בעלי שמונה העיניים נראים כצופים בך כשאתה מנחית את המעופף על האדמה האדומה, אך הם אינם נעים לעברך, למעשה הם חסרי תנועה כשאתה יוצא מהמעופף וצועד לאט לעברם.","```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""Repnids"" should have been translated according to the glossary, but it was not applied in the Hebrew translation.
+```"
+422,The rock beneath you gives way suddenly.,הסלע שמתחתיך מתמוטט פתאום.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","הסוף מהיר, כאשר מספר זוגות של ניבים מזריקים את הארס הקטלני שלהם והאוויר של דיסקרה מזהם את ריאותיך.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+425,Nobody will ever know that you were the first human future traveller.,אף אחד לעולם לא ידע שהיית האדם הראשון שנסע לעתיד.,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""future traveller"" was not translated using a specific glossary term, if it exists, and should be checked against the glossary for compliance.
+```"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.","בעלי שמונה העיניים נראים כמתבוננים, אך הם אינם נעים לעברך, למעשה הם חסרי תנועה כשאתה הולך לאט לעברם.","```
+MQM annotations:
+Terminology errors:
+Major: TERM NOT APPLIED - The term ""Repnids"" was not applied in the translation. It should have been transliterated or translated according to the glossary specification if available.
+```"
+428,"You halt while still on the mound of crumbled rock and soil and speak to them, saying, 'I come in peace, as a friend.'","אתה עוצר בעודך על תל האבנים והאדמה המתפוררים ומדבר אליהם, ואומר, 'אני בא בשלום, כחבר.'","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""mound"" should be translated according to the glossary specification, but it is not highlighted as a glossary entry in the Hebrew translation.
+```"
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.","נראה שהם לא יכולים לשמוע אותך, לא כל שכן להבין, שכן המתרגם האוניברסלי שלך לא קולט תשובה.","```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""Universal Translator"" should be translated according to the glossary specification if it exists. If no specific glossary term exists, this might not be an error.
+```"
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,אני מתכנן לערבב את זה עם כותנה משובחת בצבע סגול/לילך מגוונת.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""variegated"" should be translated according to the glossary, but it is not applied in the translation.
+```"
+441,But am not sure I have enough of the purple.,אבל אני לא בטוח שיש לי מספיק מהסגול.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+446,I have literally tried and dropped EVERY SINGLE ONE.,ניסיתי והפסקתי עם כל אחד ואחד מהם.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""literally"" was not translated in the Hebrew text.
+```"
+447,"And up until like two years ago, I had no idea until I checked my transcripts.","ועד לפני בערך שנתיים, לא היה לי מושג עד שבדקתי את התמלילים שלי.","```
+MQM annotations:
+Terminology errors:
+minor: TERM NOT APPLIED - The term ""transcripts"" should be translated as ""גיליונות ציונים"" instead of ""תמלילים"" according to the glossary.
+```"
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.","זה מרגש, מלחיץ, מתוח, וכל הדברים הטובים שאני אוהב בעבודה במשחקים.","```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+463,Came home on my lunch break to see this sitting outside uwu.,חזרתי הביתה בהפסקת הצהריים שלי וראיתי את זה יושב בחוץ uwu.,"```
+MQM annotations:
+Terminology errors:
+no-error
+```"
+475,Had a recent graduate artist take some critique badly tonight.,היה לי אמן שסיים לאחרונה את לימודיו שלקח ביקורת בצורה קשה הערב.,"```
+MQM annotations:
+Terminology errors:
+None
+```
+
+In this translation segment, there are no terminology errors related to glossary entries. The translation accurately reflects the source text, and the terminology used is appropriate and consistent with the context."
+482,"So while composting and bloom scrolling are a wonderful reminder to look up, and be aware of life beyond the screen.",אז בזמן שקומפוסטינג וגלילת פריחה הם תזכורת נפלאה להרים את המבט ולהיות מודעים לחיים מעבר למסך.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""bloom scrolling"" was not translated according to the glossary specification.
+```"
+483,It is as important to explore servers and IP addresses.,זה חשוב באותה מידה לחקור שרתים וכתובות IP.,"```
+MQM annotations:
+Terminology errors:
+Minor: TERM NOT APPLIED - The term ""IP addresses"" should be translated as ""כתובות אייפי"" according to the glossary, but it was translated as ""כתובות IP"".
+```"
+491,She did not look back.,היא לא הביטה לאחור.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,הוא חיכה עד שהיה בחושך של חדר המיטות לפני שהוציא את הפתק וקרא אותו באלומת אור שחדרה דרך וילונות ההאפלה.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+493,One block-printed word.,מילה,"```
+MQM annotations:
+Terminology errors:
+critical: TERM NOT APPLIED - The translation ""מילה"" does not reflect the glossary term ""block-printed word.""
+```"
+498,I'd particularly like to connect with more.,אני במיוחד רוצה להתחבר עם יותר.,"```
+MQM annotations:
+Terminology errors:
+None
+```"
+499,Everyone with their hair on fire about CNN can thank Stephen Colbert for the hard right turn.,כולם עם השיער באש בגלל CNN יכולים להודות לסטיבן קולבר על הפנייה החדה ימינה.,"```
+MQM annotations:
+Terminology errors:
+Critical: TERM NOT APPLIED - The term ""CNN"" should remain as ""CNN"" in Hebrew, as it is a proper noun and does not require translation or transliteration.
+```"

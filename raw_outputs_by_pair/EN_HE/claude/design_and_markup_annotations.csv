@@ -1,0 +1,579 @@
+index,original,translated,design_and_markup_annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.","בשבילי, זו הנחה די גדולה כי זה רק יוצר את תצוגת המבט באמצעות אובייקט Direct3D, לא אובייקט Direct3D3.","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The escaped HTML characters in the target text contain extra whitespaces, making them malformed."
+3,"Now, I get that in practice, IDirectXObject2 is typically a proper superset of IDirectXObject, with no changed function signatures, and new methods only added to the end.","עכשיו, אני מבין שבפועל, IDirectXObject2 הוא בדרך כלל על-קבוצה תקינה של IDirectXObject, ללא חתימות פונקציה ששונו, ושיטות חדשות נוספות רק בסוף.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","נניח לצורך הדיון שמדע, לפחות בחלקו, מורכב מרשימות של אמירות עובדתיות אובייקטיביות על העולם, נכונות בנפרד מכל תיאוריה שהן עשויות לתמוך בה.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","הניסויים אינם יוצרים את העובדות על פי קריאה זו, אך הבחירה באילו ניסויים לערוך קובעת אילו עובדות יתגלו.","MQM annotations:
+design and markup errors:
+[minor]: markup tag - The Hebrew translation contains some malformed HTML entities, such as extra whitespaces within the escaped characters (e.g., `[& gt ;]` instead of `&gt;`)."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.","להלן התרגום לעברית:
+
+ישנן עובדות, למשל לגבי חלקיקים תת-אטומיים, שיכולות להיות תוצאה רק של ניסויים שאפשריים רק בקפיטליזם, מכיוון שהם דורשים יותר מדי משאבים, יותר מדי ארגון, יותר מדי כפייה, מכדי להתממש אחרת.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,"להלן תרגום מאנגלית לעברית של המשפט שסיפקת, ללא טקסט נוסף:
+
+זהו תיאור תמציתי ביותר של טיעון סביר לפיו תאוריות של הקפיטליזם המשפיעות על התוכן בפועל של המדע עקביות עם תאוריות הטוענות לקיומן של עובדות מדעיות אובייקטיביות.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+13,Going to be my first project car.,הולך להיות הפרויקט הראשון שלי לרכב.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains extra whitespaces within the escaped HTML character `&#1492;` (the Hebrew letter ""heh""), making it malformed.
+
+The annotated translation would be:
+
+הולך להיות הפרויקט הראשון שלי ל[&#1512;]MARKUP TAG כב."
+14,Picking this up this weekend.,מרים את זה בסוף השבוע.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation uses square brackets `[ ]` to enclose the emoji, which is different from the source text format."
+16,Already on coil overs and lowered ride height.,כבר על קפיצים ומורידים את גובה הנסיעה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed.
+
+The annotated translation would be:
+
+כבר על קפיצים ומורידים את גובה ה[נסיעה]MARKUP TAG."
+20,#Venting into the Fediverse time.,#התפרצות_לפדיברס_הגיע_הזמן.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The hashtag symbol ""#"" is not properly formatted in the target text. It should be displayed as a standard hashtag symbol without the additional text.
+
+The annotated translation is as follows:
+
+#התפרצות_לפדיברס_הגיע_הזמן."
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,בן הזוג ואני הלכנו הערב לחנות המשקאות לקנות כמה בירות ובקבוק תוסס.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","כשהלכנו לשלם בקופה, הקופאית הייתה אישה טרנסית די ברורה.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+27,And I said her nails looked cool.,.ואמרתי לה שהציפורניים שלה נראות מגניבות,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains a malformed HTML entity with extra whitespace: "".ואמרתי לה שהציפורניים שלה נראות [ מגניבות]MARKUP TAG""."
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,החיוך של הקלה על פניה היה הרגשה נהדרת אבל העובדה שהיא פחדה קודם זה מחורבן לגמרי ואני שונא את זה.,"MQM annotations:
+design and markup errors:
+[minor]: markup tag - The Hebrew translation contains malformed HTML entities, with extra whitespaces inserted within the escaped characters.
+
+The source text:
+""The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.""
+
+The Hebrew translation:
+""החיוך של הקלה על פניה היה הרגשה נהדרת אבל העובדה שהיא פחדה קודם זה מחורבן לגמרי ואני שונא את זה."""
+33,It takes the state's governor.,לוקח את המושל של המדינה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains malformed HTML entities with extra whitespaces, such as ""[ ]"" around the greater-than symbol."
+38,"In this work, based on a variant of the classical Lewis (1969) signaling model, we explore the conditions for the emergence of context-dependent communication in a situated scenario.","במחקר זה, המבוסס על וריאנט של מודל האיתות הקלאסי של לואיס (1969), אנו חוקרים את התנאים להופעת תקשורת תלוית הקשר בתרחיש ממוקם.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed."
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","בו זמנית, אנו חוקרים את התנאים הסביבתיים ואת היכולות הקוגניטיביות המאפשרים פענוח הקשרי של משמעויות סמלים.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `בו זמנית, אנו חוקרים את התנאים הסביבתיים ואת היכולות הקוגניטיביות המאפשרים [פענוח הקשרי]MARKUP TAG של משמעויות סמלים.`"
+41,"We show that environmental constraints on the receiver's referent choice can be unilaterally exploited by the sender, without disambiguation capabilities on the receiver's end.","אנו מראים שאילוצים סביבתיים על בחירת הנמען של המקבל יכולים להיות מנוצלים באופן חד-צדדי על ידי השולח, ללא יכולות פענוח מצד המקבל.","Source (English):
+We show that environmental constraints on the receiver's referent choice can be unilaterally exploited by the sender, without disambiguation capabilities on the receiver's end.
+
+Translation (Hebrew):
+אנו מראים שאילוצים סביבתיים על בחירת הנמען של המקבל יכולים להיות מנוצלים באופן חד-צדדי על ידי השולח, ללא יכולות פענוח מצד המקבל.
+
+MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation does not contain any design or markup errors. The Hebrew text is well-formed and does not have any issues with escaped HTML characters or emoji formats."
+46,"Ashanti Development has been working with an ever-expanding number of communities in the Ashanti region of Ghana for approaching 20 years, engaging with communities and providing support with water and sanitation, education, healthcare, tree planting and farming.","אשנטי דבלופמנט עובדת עם מספר הולך וגדל של קהילות באזור אשנטי בגאנה במשך קרוב ל-20 שנה, מתקשרת עם הקהילות ומספקת תמיכה במים ותברואה, חינוך, שירותי בריאות, נטיעת עצים וחקלאות.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+47,Communities gain the knowledge to embed and support their own development.,הקהילות רוכשות את הידע להטמיע ולתמוך בפיתוח שלהן.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains a malformed HTML entity with extra whitespace around the `>` character, which should be `&gt;` instead of `& gt ;`.
+
+The annotated translation is as follows:
+
+הקהילות רוכשות את הידע להטמיע ולתמוך ב[פיתוח שלהן]MARKUP TAG."
+52,Photos from my visit to Ghana in 2011.,תמונות מהביקור שלי בגאנה ב-2011.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+55,They won't allow me to tell them the address it's going to and who is shipping it.,הם לא יאפשרו לי להגיד להם לאיזו כתובת זה הולך ומי שולח את זה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `להגיד להם לאיזו כתובת זה הולך ומי שולח את זה.` cause them to be malformed."
+58,The next morning and I can't get past Chris Licht's disgraceful pretense of public service journalism on CNN last night.,בוקר למחרת ואני לא מצליח להתגבר על ההתחזות המחפירה של כריס ליכט לעיתונות שירות הציבור ב-CNN אמש.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#39;` cause them to be malformed."
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.","זו הייתה שערורייה, כמו פסטיבל סמלי נגד דמוקרטיה של שקרים ותלונות ב-6 בינואר, שאורגן באופן הרסני על ידי התקשורת האמריקאית.","Source (English):
+It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.
+
+Translation (Hebrew):
+זו הייתה שערורייה, כמו פסטיבל סמלי נגד דמוקרטיה של שקרים ותלונות ב-6 בינואר, שאורגן באופן הרסני על ידי התקשורת האמריקאית.
+
+MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The date ""6 בינואר"" (January 6) is not marked up in the same way as the source text (""Jan 6"")."
+60,THE SHAMEFUL AUDIENCE.,הקהל המביש.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation uses square brackets `[]` to enclose the English word ""The"", which is not present in the source text."
+61,Licht AGREED to an all Republican audience!,ליכט הסכים לקהל רפובליקני בלבד!,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The Hebrew translation contains a malformed HTML entity `[& gt ;]` instead of the correct `&gt;`."
+63,There's a story to be reported there.,יש סיפור שצריך לדווח עליו שם.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains a malformed HTML entity with extra whitespace, e.g., ""שם[& gt ;]MARKUP TAG""."
+64,The ratings--seeking delusional irresponsibility of it all.,"הבלתי-אחריות המדומיינת וחסרת-האחריות של כל זה, המחפשת דירוגים.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed."
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","יש לי מרתף מאוד מאווורר, מה שבעצם אומר שאני יכול לקבל הרבה מכרסמים שמוצאים בו מקלט.","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.","לבסוף נמאס לי מהשגרה הזאת אמש, ניקיתי את כל המלכודות מחמאת בוטנים, והדבקתי להן פיסטוק בדבק סופר.","Source (English): I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.
+
+Translation (Hebrew): לבסוף נמאס לי מהשגרה הזאת אמש, ניקיתי את כל המלכודות מחמאת בוטנים, והדבקתי להן פיסטוק בדבק סופר.
+
+MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation does not contain any markup tags or emoji, so there are no design and markup errors."
+76,But they also cut grants and tax credits that encourage more business activity.,אבל הם גם קיצצו מענקים וזיכויי מס שמעודדים פעילות עסקית רבה יותר.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` causing it to be malformed."
+77,"I own a business. It's successful in spite of the provincial government, not because of it.","אני בעלים של עסק. הוא מצליח למרות הממשלה המחוזית, לא בגללה.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` in the target text, causing it to be malformed."
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","זה נכון גם עכשיו כש-goatse.cx נעלם, למרות שזה יהיה מרוץ צמוד לתחתית בין goatse ל, נגיד, khou.com, שם ניסיתי לצפות בסרטון ש-Wendy שלחה לי.","MQM annotations:
+design and markup errors:
+[Minor]: [MARKUP TAG] - The Hebrew translation contains malformed HTML entities with extra whitespaces, such as ""& gt ;"" instead of ""&gt;""."
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,השג כמה מדבקות פגוש שהן נגד טראמפ והדבק אותן בכל מקום.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+95,Yell back at those who would try to talk over us.,צעק בחזרה לאלה שינסו לדבר מעלינו.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `צעק בחזרה לאלה שינסו לדבר מע[לינו]MARKUP TAG.`."
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,זה לא מקובל חברתית לצאת החוצה או להתנפל על אנשים כשאתה משתעל סערת ליחה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#91;` and `&gt;` cause them to be malformed."
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,אני חוזר. זה לא מקובל חברתית להפיץ את סערת הנזלת של הקוביד שלך לכל מקום!!!,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The escaped HTML character `&gt;` has extra whitespace inserted, making it malformed."
+106,Mio knows that sorrow is life's constant companion.,"העצב הוא בן לוויה קבוע של החיים, מיו יודעת זאת.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&#gt;` in the target text, causing it to be malformed."
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","לאחר 4,000 של מצוקה, ייל מוצאת את עצמה במקום של אהבה ויש לה הרגשות עצומות שהיא לא יודעת מה לעשות איתן אז יש הרבה משניהם.","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The Hebrew translation contains malformed HTML entities with extra whitespaces, such as ""[ & gt ;]"" instead of the correct ""&gt;""."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,פיאסקו האתמול עם #מנגומורון היה פיאסקו מזעזע.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `#MangoMorón` causing it to be malformed."
+111,"Which cable news ""executive"" made the call to give the fat, lying criminal this much air-time?","איזה ""מנהל"" של ערוץ חדשות כבלים קיבל את ההחלטה לתת לפושע השמן והשקרן הזה כל כך הרבה זמן שידור?","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains malformed HTML entities with extra whitespaces, such as ""[ & gt ;]"" instead of the correct ""&gt;""."
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","ככל שהמכונית משתנה, כך גם ארני, שהביטחון העצמי החדש שלו הופך לשחצנות מאחורי ההגה של היפהפייה האקזוטית שלו.","Source (English):
+As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.
+
+Translation (Hebrew):
+ככל שהמכונית משתנה, כך גם ארני, שהביטחון העצמי החדש שלו הופך לשחצנות מאחורי ההגה של היפהפייה האקזוטית שלו.
+
+MQM annotations:
+design and markup errors:
+None
+
+The provided Hebrew translation does not contain any design or markup errors. The translation accurately represents the source text without any issues related to markup tags, HTML characters, or emoji formats."
+118,Codleo is one of the best Salesforce Partner offering best Salesforce services tailored to your company needs.,קודליאו היא אחת משותפות ה-Salesforce המובילות המציעה את שירותי ה-Salesforce הטובים ביותר המותאמים לצרכי החברה שלך.,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The escaped HTML character `&gt;` is malformed due to the inserted whitespace."
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,אחד הדברים המטורפים ביותר בנוגע לשכנים שלי שפונים נגדי הוא לחשוב כמה מאמץ צריך להשקיע כדי להיות עוין.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#91;` and `&#62;` cause them to be malformed."
+124,"Forget me, fine.","שכח ממני, בסדר.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation uses square brackets `[ ]` to enclose the emoji, which is different from the source text format."
+125,"Ignore me, fine.","התעלם ממני, בסדר., פשוט תספק את התרגום ללא טקסט נוסף.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#91;` and `&gt;` cause them to be malformed."
+129,Slamming a door in my face takes effort.,טריקת דלת בפרצופי דורשת מאמץ.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains extra whitespaces within the escaped HTML character `&#1496;` (טריקת)."
+133,That vessel is off-limits.,.כלי השיט הזה אסור בשימוש,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains a malformed HTML entity with extra whitespace: "".כלי השיט הזה אסור בשימוש[.]MARKUP TAG"""
+137,But another individual often flies aboard that ship.,אבל לעתים קרובות עוד אדם טס על אותה ספינה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The target text contains an extra whitespace within the escaped HTML character `&#91;`, making it malformed."
+138,If he were to die... the consequences would be... significant.,אם הוא ימות... התוצאות יהיו... משמעותיות.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` in the target text, causing it to be malformed."
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"Here is the Hebrew translation:
+
+הנה קורס מזורז (מעט ארוך יותר מ) אורך ציוץ במה שאני מתכוון באבא-יפיקציה:","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The Hebrew translation contains malformed HTML entities with extra whitespaces, such as ""[ & gt ;]"" instead of the correct ""&gt;""."
+142,The Last of Us is an easy and canonical example of dad-ification.,"המשחק ""The Last of Us"" הוא דוגמה קלה וקנונית לאבהות.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation uses square brackets `[]` to enclose the emoji, which differs from the source text format."
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.","דאדיפיקציה שוחקת את האפשרות לפתרונות קהילתיים, ולעתים קרובות מתעלמת לחלוטין, או חותרת תחת כל סוכנות שיש לילד.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+146,"In this way, Dad-ification is a stand in for a lot of neoliberal ideals; especially ideas like bootstrapping and self-sufficiency as being an ultimate goal/indicator for success.","בדרך זו, ""אבאיזציה"" מייצגת הרבה אידיאלים נאו-ליברליים; במיוחד רעיונות כמו ""משיכה בשרוכי הנעליים"" ועצמאות כמטרה/אינדיקטור עליון להצלחה.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed."
+148,- We send out notifications when airfare goes on sale.,אנו שולחים התראות כאשר מחירי הטיסות יורדים.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `יורדים.` causing it to be malformed."
+150,"- We don't sell tickets, or charge a subscription.",אנחנו לא מוכרים כרטיסים או גובים דמי מנוי.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation uses square brackets `[]` to enclose the text, which is not present in the English source."
+154,"Yet, unimaginable fear, terror and displacement have left them with the invisible scar of trauma.","עם זאת, פחד בלתי נתפס, טרור ועקירה הותירו בהם את הצלקת הבלתי נראית של הטראומה.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+159,Over time dart became my go-to for quick UI.,"עם הזמן, דארט הפך לבחירה שלי ליצירת ממשקים במהירות.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains an extra whitespace within the escaped HTML character `&gt;`, making it malformed.
+
+The annotated translation is as follows:
+
+עם הזמן, דארט הפך לבחירה שלי ליצירת ממשקים [במהירות]MARKUP TAG."
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter הוא תענוג לעבוד איתו, ויש להם #mobx לניהול חנות קל.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation uses the hashtag symbol ""#"" for both ""flutter"" and ""mobx"", which is not consistent with the English source text that uses the hashtag symbol only for ""flutter""."
+161,"The dependency story is less insane than nodejs, too.","סיפור התלות פחות מטורף מ-nodejs, גם.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The target text contains malformed HTML entities with extra whitespaces, such as ""[ & gt ;]"" instead of the correct ""&gt;""."
+162,"Of course flutter sucks really bad when it comes to behaving like a good native app would (anywhere, really. Even flutter web target sucks).","כמובן שפלאטר גרוע ממש כשמדובר בהתנהגות כמו אפליקציה טובה (בכל מקום, באמת. אפילו פלאטר עם מטרת אינטרנט גרוע).","Source (English):
+Of course flutter sucks really bad when it comes to behaving like a good native app would (anywhere, really. Even flutter web target sucks).
+
+Translation (Hebrew):
+כמובן שפלאטר גרוע ממש כשמדובר בהתנהגות כמו אפליקציה טובה (בכל מקום, באמת. אפילו פלאטר עם מטרת אינטרנט גרוע).
+
+MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoticon format has changed relative to the source text."
+182,Because it happens in the mind and seems less tangible than physical health.,מכיוון שזה קורה בנפש ונראה פחות מוחשי מאשר בריאות פיזית.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","בדיוק כפי שבריאות הנפש נתפסת כפחות ""אמיתית"" מבריאות הגוף על ידי רבים, אני מרגיש במידת מה שלהיות טרנס זה פשוט להיות אינטרסקס של המוח.","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The escaped HTML character `&gt;` is malformed due to the inserted whitespace."
+188,"I feel that to be trans is to be ""biologically non-binary"".","אני מרגיש שלהיות טרנס זה להיות ""ביולוגית לא בינארי"".","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation uses square brackets `[]` to enclose the word ""biologically non-binary"", which is not present in the English source text."
+198,"(And also: The Web is now largely a Google thing, unfortunately)","וגם: הרשת כיום היא בעיקר עניין של גוגל, למרבה הצער","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,"בנוסף, אנא הימנע מלומר לי שאפליקציות google/flutter גרועות ב-iOS וב-macOS.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+200,Cross platform is hard if you want to do it well.,תצוגה בין פלטפורמות זה קשה אם אתה רוצה לעשות את זה טוב.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `תצוגה בין פלטפורמות זה קשה אם אתה רוצה לעשות את זה טוב.`."
+202,Thank you to those people who have downloaded the latest update to Leasey.,.תודה לאותם אנשים שהורידו את העדכון האחרון של Leasey,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` cause it to be malformed."
+203,A few very small difficulties have come to light.,כמה קשיים קטנים מאוד צצו.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains a malformed HTML entity with extra whitespace: ""צצו[.]MARKUP TAG"""
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,"אני לא יודע בדיוק למה המוח שלי לא מצליח להבין את זה; זה יכול להיות שהכלים פשוט רחבים ומעורפלים מדי, עד שהמוח שלי פשוט נתקע בגלל 'יותר מדי אפשרויות'.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed."
+211,Grafana looks pretty.,גרפנה נראית די יפה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains a malformed HTML entity, with extra whitespace inserted within the `&gt;` entity.
+
+The source text ""Grafana looks pretty."" is translated to Hebrew as ""גרפנה נראית די יפה."" The translation contains the following markup error:
+
+""גרפנה נראית די יפה[& gt ;]MARKUP TAG""
+
+The extra whitespace inserted within the `&gt;` HTML entity causes it to be malformed."
+218,...And that's how I found myself having to sort out a raid group roster.,...וככה מצאתי את עצמי צריך לסדר את הרשימה של קבוצת הפשיטה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` causing it to be malformed."
+220,"Then, life crushed my soul and I lost all my passion for fiction and great storytelling.","אז, החיים רמסו את נשמתי ואיבדתי את כל התשוקה שלי לבדיון ולסיפור סיפורים נהדר.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#91;` and `&#62;` cause them to be malformed."
+222,I'm now on book # 31 and it's only May.,אני כבר בספר מספר 31 וזה רק מאי.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` causing it to be malformed."
+224,I haven't really achieved anything.,לא ממש השגתי שום דבר.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains extra whitespaces within the escaped HTML character `&#1500;&#1500;`."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,תנו להם לשקם את הערים החלולות והרעועות ברחבי המדינה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` cause it to be malformed."
+233,Deport the white supremacists.,גרשו את תומכי העליונות הלבנה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains extra whitespaces within the escaped HTML characters, causing them to be malformed.
+
+The source text ""Deport the white supremacists."" is translated to Hebrew as ""גרשו את תומכי העליונות הלבנה."". The translation appears to be accurate, but the markup for the translation contains extra whitespaces within the escaped HTML characters, which is a minor design and markup error."
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""","אני כל כך עייף מהכותרות הטוענות ש""העבודה מרחוק מתה"" או ש""העבודה מרחוק הייתה ניסוי כושל"".","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,"כולם רק מחפשים כותרות מושכות, אבל זה מדאיג אותי לגבי המנהלים הבכירים והמנהלים שקוראים את המאמרים האלה.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,הוא מאפשר לאנשים להימנע מנסיעות ארוכות הגוזלות זמן מהיום שלהם ומהמשפחות שלהם.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#91;` and `&#62;` cause them to be malformed."
+243,To just ignore these facts is wrong.,להתעלם מעובדות אלה פשוט זה לא נכון.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains an extra whitespace within the HTML entity `&#gt;`, making it malformed."
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.","פרקר התייחס להפלות, ולדחף של נשים עירוניות מודרניות לדחות את הולדת ילדיהן למען הקריירה שלהן.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,הוא גם טוען שמפלגת ה-NDP והפרוגרסיבים רוצים לצמצם את אוכלוסיית החברה למען איכות הסביבה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains malformed HTML entities with extra whitespaces, such as ""[ & gt ;]"" instead of the correct ""&gt;""."
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,"בכל פעם שמאי היה מגיע, פחדתי לנסות לחגוג את יום ההולדת שלי.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `בכל פעם שמאי היה מגיע, פחדתי לנסות לחגוג את יום ההולדת שלי.`."
+254,I fought over the years to get out of that mindset and to have better bdays.,נלחמתי במשך השנים לצאת מהמיינדסט הזה וכדי שיהיו לי ימי הולדת טובים יותר.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `וכדי שיהיו לי ימי הולדת טובים יותר.` cause them to be malformed."
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,האם אתה מכיר דרך יעילה עבור רכיב אינטרנט להגיב להוספה/הסרה ממסמך?,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+268,We currently use a MutationObserver hack.,אנחנו משתמשים כרגע בפתרון עוקף של MutationObserver.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` causing it to be malformed."
+285,Last week got a ton done and feeling much better about field items.,בשבוע שעבר הספקתי המון ומרגיש הרבה יותר טוב לגבי פריטי השטח.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `בשבוע שעבר הספקתי המון ומרגיש הרבה יותר טוב לגבי פריטי [השטח]MARKUP TAG.`."
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","גם צריך לזרוע שורת סלט שם כדי לשלב ירקות חתוכים בשניהם יש צוות מיומן בהשקיה, הכנת ערוגות ושתילה שהם 90% מפריטי המיומנות שאינם קציר","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#91;` and `&#62;` cause them to be malformed."
+290,It's 2023 and I still see people with iPhones actively avoid using Apple Maps.,עדיין 2023 ואני עדיין רואה אנשים עם אייפונים נמנעים באופן אקטיבי משימוש ב-Apple Maps.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","סקרן, שמרתי על ראש פתוח כדי להשוות כיצד Google Maps ו-Apple Maps משתווים, במכשיר ה-iPhone הניסיוני שלי (מכשיר הנהיגה היומי שלי הוא מכשיר Android, אז זה נדיר שאני משתמש ב-iPhone).","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,החוויה של מעקב אחר הוראות הנסיעה הייתה עדיפה בהרבה ב-Apple Maps בהשוואה ל-Google Maps.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+298,Could it be that Google Maps got to market first?,ייתכן שגוגל מפות הגיעו לשוק ראשונות?,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters ""&#62;"" cause them to be malformed."
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","אני משוחד לטובת לא לשחרר זבל למשתמשים הסופיים, ואפל פישלה בענק עם מפות Apple שלהם כשזה יצא ב-2012.","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed.
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,אבל זו הקרקע שהופכת אותה לאמצעי טוב לאחסון עושר כל עוד אתה חושב שהממשלה לא הולכת לשנות את המערכת שבה אנו חיים.,"Source (English):
+But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.
+
+Translation (Hebrew):
+אבל זו הקרקע שהופכת אותה לאמצעי טוב לאחסון עושר כל עוד אתה חושב שהממשלה לא הולכת לשנות את המערכת שבה אנו חיים.
+
+MQM annotations:
+design and markup errors:
+[None]: [design_and_markup/error_subcategory] - None.
+
+The provided Hebrew translation does not contain any design or markup errors. The translation accurately represents the source text without any issues related to markup tags, HTML characters, or emoji formats."
+307,A lot of ppl think that they literally own the earth when they buy a piece.,הרבה אנשים חושבים שהם ממש הבעלים של כדור הארץ כשהם קונים חלקה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&#91;` in the target text, causing it to be malformed."
+312,The land is temporary.,האדמה זמנית.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation uses the standard Hebrew character for ""the"" (ה) instead of the English word ""the"" in the source text."
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,הקרקע יכולה להילקח בקלות ובמהירות על ידי הממשלה יום אחד אם הם ירצו לעשות זאת.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains extra whitespaces within the escaped HTML character `&#91;`, making it malformed."
+317,It has to be taken away one day.,.זה חייב להילקח יום אחד,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains an extra whitespace within the HTML entity `&#91;`, making it malformed."
+318,That's why the Chinese only allow leases.,לכן הסינים מאפשרים רק חכירות.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains an extra whitespace within the HTML entity `&#gt;`, making it malformed."
+319,They already ran out of land.,הם כבר נגמרו מהקרקע.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains a malformed HTML entity `&#gt;` with an extra whitespace, which should be `&gt;`."
+320,"To success, the realization of dreams, friendship, to the simple but true!!","לְהַצלָחָה, לְהַגשָמַת הַחֲלוֹמוֹת, לִידִידוּת, לַפָּשוּט אֲבָל הָאֲמִיתִי!!","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains malformed HTML entities with extra whitespaces, such as ""[ ]"" around the escaped characters."
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.","לכל המשקיעים שנמצאים שם בחוץ, אני מרים כוסית לכבוד ההצלחה שלכם ולהגשמת החלומות שלכם.","MQM annotations:
+design and markup errors:
+[minor]: markup tag - The Hebrew translation contains some malformed HTML entities, such as extra whitespaces within the escaped characters."
+323,"And to all my friends, new and old, let us cherish the simple but true things in life that bring us joy and fulfillment.","ולכל חבריי, חדשים וותיקים, הבה נוקיר את הדברים הפשוטים אך האמיתיים בחיים המביאים לנו שמחה וסיפוק.","Source (English):
+And to all my friends, new and old, let us cherish the simple but true things in life that bring us joy and fulfillment.
+
+Translation (Hebrew):
+ולכל חבריי, חדשים וותיקים, הבה נוקיר את הדברים הפשוטים אך האמיתיים בחיים המביאים לנו שמחה וסיפוק.
+
+MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation does not contain any markup errors or issues with the formatting of emojis or special characters."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,אני תוהה לעתים קרובות על היכולת האנושית להיות *כל כך* קשה כלפי עצמך בזמן שמוצף בכל כך הרבה ראיות למראה של אכזריות אמיתית.,"Source (English): I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.
+
+Translation (Hebrew): אני תוהה לעתים קרובות על היכולת האנושית להיות *כל כך* קשה כלפי עצמך בזמן שמוצף בכל כך הרבה ראיות למראה של אכזריות אמיתית.
+
+MQM annotations:
+design and markup errors:
+No design or markup errors found."
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,אבל להרגיע את הייאוש מהבלגן שלנו הוא קריטי - כי הוא נותן לנו יותר מרחב להתמודד עם ההריסות מסביב.,"MQM annotations:
+design and markup errors:
+[minor]: markup tag - The Hebrew translation contains a malformed HTML entity, with extra whitespace inserted within the `&gt;` entity.
+
+The annotated translation is as follows:
+
+אבל להרגיע את הייאוש מהבלגן שלנו הוא קריטי - כי הוא נותן לנו יותר מרחב להתמודד עם ההריסות מ[סביב]MARKUP TAG."
+331,"Some programmers: ""Typing speed does not matter!""","כמה מתכנתים: ""מהירות ההקלדה לא משנה!""","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `""כמה מתכנתים: ""מהירות ההקלדה לא משנה!""` cause them to be malformed."
+339,It is definitely more romance than filth.,זה בהחלט יותר רומנטיקה מאשר זוהמה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+342,I don't agree that #Mastodon is difficult to setup.,אני לא מסכים ש-#Mastodon קשה להתקנה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The hashtag symbol ""#"" in the source text is not properly formatted in the target text."
+343,"Common, it's really not that hard.","נו, באמת שזה לא כל כך קשה., פשוט תספק את התרגום בלי טקסט נוסף.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters cause them to be malformed.
+[Major]: MARKUP TAG - The emoji format in the target text does not match the source text.
+[Minor]: MARKUP TAG - The emoticon format has changed relative to the source text."
+347,If you stick to the default web interface it doesn't look and feel good (imho).,"אם אתה נצמד לממשק האינטרנט המוגדר כברירת מחדל, זה לא נראה ומרגיש טוב (לדעתי הצנועה).","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed.
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.","אז, זה דורש קצת יותר מאמץ כדי להיכנס לזה ואתה כנראה צריך אפליקציה טובה כדי לשפר את חווית המשתמש.","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The Hebrew translation contains malformed HTML entities with extra whitespaces, such as ""[ & gt ;]"" instead of the correct ""&gt;""."
+353,Forecasting: anticipating harms before they happen (even if by minutes),חיזוי: צפייה מראש של נזקים לפני שהם מתרחשים (גם אם מדובר בדקות בודדות),"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+369,I work out alone in my bedroom without a spotter or even a weight rack.,אני מתאמן לבד בחדר השינה שלי בלי מאבטח או אפילו מתקן משקולות.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#91;` and `&gt;` cause them to be malformed."
+370,Just me and a barbell with a bunch of weights.,רק אני ומוט עם חבילה של משקולות.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains an extra whitespace within the HTML entity `&#91;` for the opening square bracket, making it malformed."
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.","אם אנסה לברר מהו המשקל המרבי שאני יכול להרים בחזרה אחת, יתכן שלא יהיו לי מספיק משקולות כדי להגיע למקסימום, או לחלופין זה עלול לפצוע אותי קשה או להרוג אותי.","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The escaped HTML character `&gt;` is malformed due to the insertion of whitespace."
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,מעולם לא ראיתי את אמא של מישהו מכינה את זה או שדחפו לי את זה במסיבה או ראיתי את זה מופיע בהקשר של הרפתקאות הכנת הרטבים או ימי האפייה של מישהו.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","לאחר שעברנו כאן הקצנה, אנו מהססים לקנות מכונת פאנג* חדשה.","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The escaped HTML character ""&#91;"" is malformed due to the inserted whitespace.
+[Minor]: MARKUP TAG - The emoji format in the target text ""[⚙]"" does not match the source text ""⚙️""."
+389,So was it Epic that originated this?,אז האם אפיק הם אלה שיצרו את זה במקור?,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+394,Is it so ephemeral then?,האם זה כל כך חמקמק אם כן?,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains extra whitespaces within the escaped HTML character `&gt;`, making it malformed."
+395,"Merely a ""catchphrase"" with no clear originator?","סתם ""סיסמה"" ללא יוצר ברור?","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains a malformed HTML entity with extra whitespace: ""סתם ""סיסמה"" ללא [יוצר]MARKUP TAG ברור?"""
+399,Have now done a full round trip on the new ICNG train.,עשיתי עכשיו נסיעה הלוך ושוב מלאה ברכבת החדשה ICNG.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+402,There's areas that could use some polish.,יש אזורים שיכולים להשתמש בקצת ליטוש.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains whitespaces inserted within the escaped HTML character `&gt;`, causing the markup to be malformed."
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.","בעיקר המחסור בפחים מספיקים, וחוסר השילוט להסביר את משמעות צבעי התאורה.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+404,"Fix those minor issues, and then can we have more of these please?","תקן את הבעיות הקטנות האלה, ואז אפשר לקבל עוד מאלה בבקשה?","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,"כללי ""אחד ללקוח"" נשארים בתוקף בזמן שאנו מנסים להבטיח שכל מי שעומד בתור יוכל לשים את ידיו על גלשן.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` cause it to be malformed."
+407,"You can buy ONE of the boards listed above, not one of each.","אתה יכול לקנות אחד מהלוחות המפורטים למעלה, לא אחד מכל אחד.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&gt;` cause them to be malformed."
+409,Yesterday I had the best time with my friend and former rabbi colleague.,אתמול היה לי הזמן הכי טוב עם החבר שלי ועמית לשעבר לרבנות.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` in the target text, causing it to be malformed."
+419,#FalconGameBooks,#ספריהמשחקיםשלפלקון,"MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The Hebrew translation uses square brackets `[ ]` to enclose the hashtag symbol `#`, which is not consistent with the source text format."
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","הרפנידים בעלי שמונה העיניים נראים כאילו הם צופים בך בזמן שאתה מנחית את המעופף על האדמה האדומה, אך הם לא זזים לכיוונך, למעשה הם נשארים ללא תנועה כשאתה יוצא מהמעופף והולך לאט לכיוונם.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#91;` and `&#62;` cause them to be malformed."
+422,The rock beneath you gives way suddenly.,הסלע מתחתיך מתמוטט לפתע.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains an extra whitespace within the HTML entity `&#gt;`, making it malformed."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","הסוף מהיר, כאשר מספר זוגות של ניבים מזריקים את הארס הקטלני שלהם והאוויר של דיסקרה מזהם את ריאותיך.","Source (English):
+The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.
+
+Translation (Hebrew):
+הסוף מהיר, כאשר מספר זוגות של ניבים מזריקים את הארס הקטלני שלהם והאוויר של דיסקרה מזהם את ריאותיך.
+
+MQM annotations:
+design and markup errors:
+[minor]: markup_tag - The target text does not contain any markup tags or characters that differ from the source text."
+425,Nobody will ever know that you were the first human future traveller.,אף אחד לעולם לא ידע שאתה היית הנוסע בזמן האנושי הראשון.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The escaped HTML character `&#91;` in the target text contains an extra whitespace, making it malformed."
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.","הרפנידים בעלי שמונה העיניים נראים כאילו הם צופים, אך הם לא זזים לכיוונך, למעשה הם נשארים ללא תנועה בזמן שאתה צועד לאיטך לעברם.","Source (English):
+The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.
+
+Translation (Hebrew):
+הרפנידים בעלי שמונה העיניים נראים כאילו הם צופים, אך הם לא זזים לכיוונך, למעשה הם נשארים ללא תנועה בזמן שאתה צועד לאיטך לעברם.
+
+MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation does not contain any design or markup errors."
+428,"You halt while still on the mound of crumbled rock and soil and speak to them, saying, 'I come in peace, as a friend.'","אתה עוצר בעודך על גבעת הסלעים והאדמה המתפוררת ופונה אליהם באומרך, ""אני בא בשלום, כידיד.""","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains a malformed HTML entity `&#91;` with an extra whitespace, which should be `&#91;`."
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.","נראה שהם לא יכולים לשמוע אותך, ובטח שלא להבין, מכיוון שמתרגם האוניברסלי שלך לא קולט שום תשובה.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,אני מתכנן לערבב את זה עם כותנה מגוונת סגולה/לילך משובחת.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#91;` and `&#62;` cause them to be malformed."
+441,But am not sure I have enough of the purple.,אבל אני לא בטוח שיש לי מספיק מהסגול.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains an extra whitespace within the escaped HTML character `&#91;`, making it malformed."
+446,I have literally tried and dropped EVERY SINGLE ONE.,ניסיתי בפועל ועזבתי את כל אחד ואחד מהם.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The translation contains a malformed HTML entity with extra whitespace: ""ניסיתי בפועל ועזבתי את כל אחד ואחד מהם[ ]MARKUP TAG""."
+447,"And up until like two years ago, I had no idea until I checked my transcripts.","וַעֲד לִפְנֵי כִּשְׁנָתַיִם, לֹא הָיָה לִי מֻשָּׂג עַד שֶׁבָּדַקְתִּי אֶת הַתְּעוּדוֹת שֶׁלִּי.","Source (English): And up until like two years ago, I had no idea until I checked my transcripts.
+
+Translation (Hebrew): וַעֲד לִפְנֵי כִּשְׁנָתַיִם, לֹא הָיָה לִי מֻשָּׂג עַד שֶׁבָּדַקְתִּי אֶת הַתְּעוּדוֹת שֶׁלִּי.
+
+MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation does not contain any markup tags or special characters that differ from the source text."
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.","זה מרגש, מלחיץ, מלחיץ, וכל הדברים הטובים שאני אוהב בעבודה במשחקים.","MQM annotations:
+design and markup errors:
+[Major]: MARKUP TAG - The target text contains malformed HTML entities with extra whitespaces, such as ""[& gt ;]"" instead of the correct ""&gt;"".
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text, with the emoji being enclosed in square brackets instead of the original format."
+463,Came home on my lunch break to see this sitting outside uwu.,חזרתי הביתה בהפסקת הצהריים שלי וראיתי את זה יושב בחוץ אוווו.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoticon format has changed relative to the source text."
+475,Had a recent graduate artist take some critique badly tonight.,היה לי אמן בוגר טרי שלקח ביקורת בצורה לא טובה הלילה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains a malformed HTML entity `[& gt ;]` instead of the correct `&gt;`."
+482,"So while composting and bloom scrolling are a wonderful reminder to look up, and be aware of life beyond the screen.","אז בזמן שקומפוסטינג וגלילת פריחה הם תזכורת נפלאה להסתכל למעלה, ולהיות מודעים לחיים מעבר למסך.","MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."
+483,It is as important to explore servers and IP addresses.,חשוב באותה מידה לחקור שרתים וכתובות IP.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML characters `&#91;` and `&#62;` cause them to be malformed."
+491,She did not look back.,.היא לא הסתכלה לאחור,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation contains an extra whitespace within the escaped HTML character `&#1500;`.
+
+The source text is:
+""She did not look back.""
+
+The Hebrew translation is:
+"".היא לא הסתכלה לאחור""
+
+The error is in the extra whitespace within the closing bracket of the Hebrew text, which should be "".היא לא הסתכלה לאחור"" without any whitespace."
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,הוא חיכה עד שהיה בחשכת חדר הדרגשים לפני ששלף את הפתק וקרא אותו בקרן אור שחדרה מבעד לווילונות האפלה.,"Source (English):
+He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.
+
+Translation (Hebrew):
+הוא חיכה עד שהיה בחשכת חדר הדרגשים לפני ששלף את הפתק וקרא אותו בקרן אור שחדרה מבעד לווילונות האפלה.
+
+MQM annotations:
+design and markup errors:
+[None]: No design or markup errors detected."
+493,One block-printed word.,דפוס,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The Hebrew translation ""דפוס"" does not have any markup tags, while the English source text ""One block-printed word"" contains one word. The lack of markup in the translation may affect the visual representation of the content."
+498,I'd particularly like to connect with more.,אני מעוניין במיוחד ליצור קשר עם עוד אנשים.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - Whitespaces inserted within the escaped HTML character `&gt;` cause it to be malformed."
+499,Everyone with their hair on fire about CNN can thank Stephen Colbert for the hard right turn.,כולם עם השיער שלהם בוער לגבי CNN יכולים להודות לסטיבן קולבר על הפנייה החדה ימינה.,"MQM annotations:
+design and markup errors:
+[Minor]: MARKUP TAG - The emoji format in the target text does not match the source text."

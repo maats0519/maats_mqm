@@ -1,0 +1,539 @@
+index,original,translated,style_annotation
+0,The hacked up version of Jedi Knight was crashing because it was calling a function off the end of a vtable.,Взломанная версия Jedi Knight вылетала из-за вызова функции за пределами vtable.,"```
+MQM annotations:
+Style error:
+minor: unnatural flow - While technically correct, ""вылетала из-за вызова функции за пределами vtable"" sounds slightly awkward. A more natural phrasing might exist, though the current version is understandable.
+```"
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,"Но это не всегда так; в таких случаях имеет значение, какой интерфейс вы используете для создания рассматриваемого объекта.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""в таких случаях имеет значение"" (in such cases it matters) sounds slightly awkward and could be rephrased for a more natural flow in Russian. A more natural phrasing might be ""в этих случаях важно"" or ""в этих ситуациях имеет значение"".
+```"
+5,"So anyway, since it does hold true here, to fix it I had to extend my viewport implementation to contain the IDirect3DViewport3 methods so that the call to the new one was valid.","В общем, поскольку здесь это действительно так, чтобы это исправить, мне пришлось расширить мою реализацию окна просмотра, чтобы она содержала методы IDirect3DViewport3, чтобы вызов новой версии был действительным.","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""В общем, поскольку здесь это действительно так"" (roughly, ""In general, since this is really so here"") sounds a bit unnatural and could be more concise. A smoother opening could be achieved.
+minor: unnatural flow - The phrase ""чтобы вызов новой версии был действительным"" (so that the call to the new version was valid) is grammatically correct but could be phrased more elegantly to improve the flow of the sentence in Russian. A more natural phrasing could be used."
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","Предположим, ради аргументации, что наука, по крайней мере частично, состоит из списков объективно фактических утверждений о мире, истинных вне зависимости от какой-либо теории, которую они могли бы подтверждать.","MQM annotations:
+Styles error:
+minor: Unnatural Flow - While grammatically correct and understandable, ""ради аргументации"" (for the sake of argument) sounds slightly more formal and less natural in this context compared to other options. A more common phrasing might be ""допустим"" or a less literal translation of ""for the sake of argument.""
+```"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","Согласно этой интерпретации, эксперименты не создают факты, но выбор того, какие эксперименты проводить, определяет, какие факты будут обнаружены.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""определяет, какие факты будут обнаружены"" (determines which facts will be discovered) is grammatically correct but sounds slightly awkward and could be rephrased for a more natural flow in Russian. A more natural wording could be ""определяет, какие факты станут известны"" or ""определяет, какие факты мы узнаем"".
+```"
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,"Это очень краткий набросок правдоподобного аргумента, что теории о влиянии капитализма на фактическое содержание науки согласуются с теориями, утверждающими существование объективных научных фактов.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""фактическое содержание науки"" sounds a bit unnatural. While literally correct, a more fluent phrasing might be preferred in Russian."
+13,Going to be my first project car.,Будет моей первой машиной для проекта.,"MQM annotations:
+minor: unnatural flow - The phrase ""машиной для проекта"" sounds somewhat unnatural. A more idiomatic way to express ""project car"" in Russian could be ""машиной под проект"" or ""машиной для тюнинга/восстановления"" (depending on the specific project). However, the given translation is understandable."
+16,Already on coil overs and lowered ride height.,Уже на койловерах и с заниженным клиренсом.,"```
+MQM annotations:
+```"
+20,#Venting into the Fediverse time.,Время поныть в Федивселенную.,"MQM annotations:
+minor: style/register - ""поныть"" (ponýt') is too informal. A more neutral word like ""пожаловаться"" (pozhalovat'sya) would be more appropriate."
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","Когда мы пошли рассчитываться, кассир была довольно очевидной транс-женщиной.","MQM annotations:
+minor: unnatural flow - The phrase ""довольно очевидной"" (fairly obvious) sounds a bit unnatural in this context. A more natural phrasing in Russian might be ""вполне заметной"" or something similar, depending on the intended nuance."
+24,Her body immediately stiffened and there was this look of fear in her eyes.,"Ее тело мгновенно напряглось, и в глазах появился страх.","```
+MQM annotations:
+minor: style/unnatural flow - While grammatically correct, ""Ее тело мгновенно напряглось"" sounds slightly unnatural. A more natural phrasing might be ""Ее тело мгновенно сковало"" or ""Она мгновенно напряглась.""
+```"
+25,And then we just... paid for our stuff.,А потом мы просто... заплатили за свои вещи.,"```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - The phrase ""за свои вещи"" (for our stuff) sounds slightly unnatural in this context. A more natural phrasing might be ""за покупки"" (for the purchases) or simply ""за все"" (for everything), although ""за свои вещи"" is not incorrect.
+```"
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,"Увидеть улыбку облегчения на её лице было прекрасно, но то, что она сначала испугалась, ПРОСТО ОТСТОЙНО И Я ЭТО НЕНАВИЖУ.","MQM annotations:
+Style Error:
+[Major]: [Register/Inappropriate] - The phrase ""ПРОСТО ОТСТОЙНО"" is too informal compared to the source ""FUCKING SUCKS"". While it conveys the strong negative emotion, a slightly more neutral or literary equivalent would be more appropriate for a general context."
+32,But he can't pardon himself out of state prison.,"Но он не может сам себя помиловать, чтобы выйти из государственной тюрьмы.","MQM annotations:
+Style error:
+[Minor]: [Unnatural Flow] - The phrase ""сам себя помиловать, чтобы выйти из государственной тюрьмы"" is grammatically correct but sounds slightly awkward and could be phrased more naturally in Russian. A more natural phrasing might be something like ""выйти из государственной тюрьмы по собственному помилованию"" or ""освободиться из государственной тюрьмы, помиловав самого себя""."
+33,It takes the state's governor.,Это касается губернатора штата.,"MQM annotations:
+Style error:
+[Minor]: [Unnatural Flow] - The translation is grammatically correct but sounds somewhat formal and could be more naturally expressed in Russian. A more colloquial alternative might exist."
+36,NY is the best hope for accountability,Нью-Йорк — лучшая надежда на привлечение к ответственности.,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""привлечение к ответственности"" is a correct translation of ""accountability"" but sounds a bit formal and legalistic in this context. A more natural phrasing might be ""привлечения виновных к ответу"" or similar, depending on the intended nuance.
+```"
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,"Существуют веские доказательства того, что реальное общение не сводится к передаче сигналов с не зависящим от контекста значением.","```
+MQM annotations:
+```"
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","В то же время мы изучаем экологические условия и когнитивные способности, которые позволяют контекстуально устранять неоднозначность значений символов.","```
+MQM annotations:
+Minor: Style/Unnatural Flow - While the translation is accurate, using ""устранять неоднозначность"" (ustranyat' neodnoznachnost') sounds slightly formal and less natural than alternative phrasing in Russian. A more common or fluid expression could be used.
+```"
+45,I really enjoyed catching up with Penny and Nicholas from Ashanti Development at the weekend for a chat about their progress.,Мне было очень приятно пообщаться с Пенни и Николасом из Ashanti Development на выходных и узнать об их успехах.,"MQM annotations:
+minor: Style/Unnatural Flow - While accurate, ""Мне было очень приятно пообщаться с Пенни и Николасом из Ashanti Development на выходных и узнать об их успехах"" sounds a little formal and could be more conversational in Russian. A slightly more natural phrasing might be ""Мне было очень здорово/приятно пообщаться с Пенни и Николасом из Ashanti Development на выходных и узнать, как у них дела/что нового""."
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,"Мне посчастливилось провести незабываемые шесть месяцев рядом с Николасом в 2011 году, поддерживая ряд проектов.","MQM annotations:
+minor: style/Unnatural Flow - While accurate, the phrase ""поддерживая ряд проектов"" could be rephrased for a more natural flow in Russian. A more idiomatic expression might exist."
+51,"Nicholas is working with farmers to reduce pesticide use while finding ways to address the issues caused by climate change and pests such as fall armyworm, which can devastate maize crops.","Николас работает с фермерами над сокращением использования пестицидов, одновременно находя способы решения проблем, вызванных изменением климата и такими вредителями, как кукурузная совка, которая может опустошать посевы кукурузы.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""одновременно находя способы решения проблем"" sounds slightly unnatural and could be more fluent. A more natural phrasing might be ""и при этом находя способы решения проблем"" or ""параллельно с поиском способов решения проблем"".
+```"
+53,The UPS store near me won't allow me to write a label or write on the box.,"В отделении UPS рядом со мной не разрешают писать ни наклейку, ни на коробке.","MQM annotations:
+minor: unnatural flow - The phrase ""В отделении UPS рядом со мной"" while grammatically correct, sounds a bit clunky. A more natural phrasing could be something like ""В моем ближайшем отделении UPS"" or ""В UPS возле меня"".
+```"
+55,They won't allow me to tell them the address it's going to and who is shipping it.,Они не разрешают мне сообщать им адрес доставки и отправителя.,"MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, the phrase ""сообщать им"" (to communicate to them) sounds slightly unnatural and could be more fluent. A more natural rendering might use a slightly different verb or phrasing."
+57,"And they always to charge me $2.25 for that ""convenience"".","И они всегда берут с меня 2 доллара 25 центов за это ""удобство"".","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""берут с меня"" (take from me) is a bit awkward and could be phrased more naturally as ""взимают"" or ""с меня берут"".
+```"
+64,The ratings--seeking delusional irresponsibility of it all.,"Стремление к рейтингам, бредовая безответственность всего этого.","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - While the translation is accurate, ""всего этого"" sounds a bit clunky and could be rephrased for a more natural flow in Russian. A more idiomatic approach might be better.
+```"
+65,It can't be repeated.,Этого не повторить.,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While accurate, the Russian translation sounds slightly more formal and less idiomatic than a more natural expression. A more natural translation might be ""Этого не повторится"" or ""Такое не повторится.""
+```"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","У меня очень продуваемый подвал, а это, по сути, значит, что у меня может укрыться много грызунов.","MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - While the translation is accurate, the phrase ""а это, по сути, значит, что"" (which essentially means that) sounds a bit wordy and unnatural in Russian. A more concise option would improve the flow."
+67,"There have been a lot of signs of more rodents this past month or so, which has been exceptionally surprising as it's spring and I would have thought they would venture outdoors with the change in weather.","В последнее время появилось много признаков увеличения количества грызунов, что особенно удивительно, поскольку сейчас весна, и я думал, что с изменением погоды они выберутся на улицу.","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""поскольку сейчас весна, и я думал, что с изменением погоды они выберутся на улицу"" (since it's spring and I thought that with the change in weather they would venture outdoors) is a bit wordy and could be phrased more naturally in Russian. A more concise option might be ""поскольку весной они обычно выбираются на улицу"" (since in spring they usually go outdoors).
+```"
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.","К слову, я перепробовал практически все представленные на рынке ""гуманные"" ловушки, но с очень небольшим успехом.","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""К слову"" (To the word) is a less common and somewhat unnatural equivalent of ""fwiw"" in Russian. A more natural and frequent phrase would be ""Кстати"" (By the way) or just omitting the introductory phrase altogether.
+```"
+72,"I'm not especially happy with killing them, but I won't be taking comments on the ethics of killing mice.)","Я не особенно рад их убивать, но я не буду принимать комментарии об этичности убийства мышей.","MQM annotations:
+Style error:
+minor: unnatural flow - The phrase ""принимать комментарии об этичности убийства мышей"" sounds a bit formal and unnatural. A more natural phrasing could be ""обсуждать этичность убийства мышей"" or ""высказываться об этической стороне убийства мышей""."
+76,But they also cut grants and tax credits that encourage more business activity.,"Но они также сократили гранты и налоговые льготы, стимулирующие деловую активность.","MQM annotations:
+minor: style/unnatural flow - While grammatically correct, ""стимулирующие деловую активность"" (stimulating business activity) sounds slightly formal and could be rephrased for a more natural flow. A more common phrasing might be ""способствующие развитию бизнеса"" (contributing to business development) or similar."
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","Это верно даже сейчас, когда goatse.cx больше не существует, хотя это была бы гонка на самое дно между goatse и, скажем, khou.com, где я пытался посмотреть видео, которое мне прислала Венди.","```
+MQM annotations:
+Styles error:
+minor: style/Unnatural Flow - The phrase ""гонка на самое дно"" (race to the very bottom) is a bit awkward in Russian. While understandable, it's not the most natural way to express the concept of competing to be the worst. A more common expression might be ""кто хуже"" (who is worse) or a more nuanced phrasing depending on the context.
+```"
+82,"On the first train today, the ticket checker looked at our tickets and said ""long journey!""","В первом утреннем поезде контролер посмотрел на наши билеты и сказал: ""Долгая дорога!"".","MQM annotations:
+Styles error:
+minor: unnatural flow - The phrase ""Долгая дорога!"" sounds slightly unnatural in Russian as a response in this context. A more natural response would be ""Далеко едете!"" or ""Долгий путь!""."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.","""Я просто высаживаю его в Глазго,"" попытался я объяснить, указывая на моего попутчика.","MQM annotations:
+No style errors found."
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,"Что окончательно убедило меня прошлой ночью, так это то, что нам нужно быть готовыми дать отпор трампизму.","MQM annotations:
+minor: style/unnatural flow - The phrase ""Что окончательно убедило меня прошлой ночью, так это то"" sounds a bit verbose and unnatural in Russian. While grammatically correct, a more concise phrasing would improve the flow. A slightly less literal translation might be more natural."
+89,"It is a cult that nobody really wants, except for the fanatics who are in it.","Это культ, в котором никто особо не заинтересован, кроме фанатиков, которые в нём состоят.","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""никто особо не заинтересован"" (nobody is particularly interested) is a bit clunky. A more natural phrasing might exist.
+```"
+90,And they are truly nuts.,И они совершенно чокнутые.,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - ""И они совершенно чокнутые"" is a grammatically correct translation, but sounds a bit too direct and lacks nuance for the English ""And they are truly nuts."" A more natural translation might be ""Они и правда чокнутые"" or ""Они просто сумасшедшие"".
+```"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,Купи антитрамповские наклейки на бампер и обклей ими всё.,"MQM annotations:
+Style Errors:
+minor: style/unnatural flow - ""Купи антитрамповские наклейки на бампер и обклей ими всё."" could be more naturally phrased. While grammatically correct, the phrase ""обклей ими всё"" (plaster them all over) sounds slightly awkward. A more natural phrasing could be ""наклей их везде"" (stick them everywhere) or similar."
+95,Yell back at those who would try to talk over us.,"Отвечайте криком тем, кто пытается нас перекричать.","MQM annotations:
+Style Errors:
+minor: style/unnatural flow - ""Отвечайте криком тем, кто пытается нас перекричать"" sounds slightly unnatural and overly literal. A more natural phrasing might exist."
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,"Не принято появляться на людях или подбегать к людям, когда у вас сильный кашель с мокротой.","MQM annotations:
+No style errors found."
+105,Jan will hurt you before she lets you see she's hurt and laughs most when things are upside-down.,"Джейн причинит тебе боль, прежде чем позволит увидеть, что больно ей, и смеется больше всего, когда все идет кувырком.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While grammatically correct, ""Джейн причинит тебе боль, прежде чем позволит увидеть, что больно ей"" sounds a bit awkward. A more natural phrasing might exist in Russian.
+```"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","После 4000 [чего-то] бедствий Йл оказывается в месте любви и испытывает огромные чувства, с которыми не знает, что делать, так что там много всего [обоего/и того и другого].","MQM annotations:
+Minor: Unnatural Flow - ""так что там много всего [обоего/и того и другого]"" sounds a bit awkward and could be phrased more naturally in Russian. While understandable, it's not the most elegant way to express ""there's a lot of both."" A more natural phrasing would likely use a different construction.
+Major: Accuracy/Untranslated - ""4,000 of distress"" is untranslated. This changes the meaning and is likely important information. The Russian text only contains ""После 4000 [чего-то]"" meaning ""After 4000 [something]""."
+108,#CNN needs to just close down.,CNN нужно просто закрыться.,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While grammatically correct, the sentence sounds slightly awkward in Russian. A more natural phrasing might exist.
+```"
+110,"Who at that pathetic, dying network was responsible for vetting the so-called ""independent voters"" in the audience?","Кто в этой жалкой, умирающей сети был ответственен за проверку так называемых ""независимых избирателей"" в аудитории?","MQM annotations:
+No style errors found."
+113,A cold front should arrive by the middle of next week.,Холодный фронт должен прибыть к середине следующей недели.,"MQM annotations:
+Styles error:
+minor: style/unnatural flow - While grammatically correct, ""должен прибыть к середине следующей недели"" sounds slightly formal and could be rephrased for a more natural flow. A more conversational approach might be preferred depending on the context."
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",Сегодня рано утром данные с инфракрасных спутников и наземные наблюдения указывали на расширяющуюся область низкого слоистого облака и прерывистые/пятнистые <URL>.,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""прерывистые/пятнистые"" (preryvistyye/pyatnistye) meaning ""intermittent/patchy"" while accurate, feels slightly unnatural. A more fluent rendering might use a single word or a slightly different phrase that is more common in meteorological contexts in Russian."
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.","Ботаник Арни Каннингем влюбляется в Кристину, ржавый Plymouth Fury 1958 года, и становится одержим идеей вернуть классическому автомобилю её былое великолепие.","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""и становится одержим идеей вернуть классическому автомобилю её былое великолепие"" could be phrased more naturally. While grammatically correct, it sounds a bit verbose. A more concise phrasing, perhaps, ""и одержимо стремится вернуть классическому автомобилю былой вид"" would be more natural."
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","Как меняется машина, так меняется и Арни, чья новообретенная уверенность за рулем его экзотической красавицы перерастает в высокомерие.","MQM annotations:
+Style error:
+minor: unnatural flow - The phrase ""экзотической красавицы"" (exotic beauty) is a bit awkward and could be expressed more naturally in Russian. While understandable, it feels a bit too literal from ""exotic beauty."" A more natural phrasing might focus on the car being impressive or special.
+```"
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,"Самое безумное в том, что мои соседи ополчились против меня, это думать о том, сколько усилий нужно, чтобы быть враждебным.","MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, ""Самое безумное в том, что мои соседи ополчились против меня, это думать о том, сколько усилий нужно, чтобы быть враждебным."" is a bit wordy and sounds less natural than it could. A more concise and fluid phrasing might be preferable."
+126,It hurts but you gotta do you.,"Больно, но ты должен делать то, что считаешь нужным.","```
+MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""то, что считаешь нужным"" (what you deem necessary) is a correct but somewhat formal and less direct translation of ""do you"". A more natural phrasing might focus on following one's own path or heart.
+```"
+127,But at this point the open hostility and violence is getting worse.,Но на данный момент открытая враждебность и насилие усугубляются.,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""на данный момент"" (at this point) feels slightly redundant and could be omitted for a more natural flow in Russian. A more concise option could be ""Но открытая враждебность и насилие усугубляются.""
+```"
+131,And I still have NO IDEA what I could have possibly done to deserve this.,"И я до сих пор ПОНЯТИЯ НЕ ИМЕЮ, чем я мог/могла заслужить это.","MQM annotations:
+Style error:
+[Minor]: [Unnatural Flow] - The phrase ""чем я мог/могла заслужить это"" is a correct translation but sounds slightly unnatural. A more common and natural phrasing might be something like ""за что мне это""."
+133,That vessel is off-limits.,Доступ к этому судну запрещён.,"MQM annotations:
+minor: style/unnatural flow - While accurate, the phrase ""Доступ к этому судну запрещён"" could be rephrased for a more natural flow in Russian. A more common expression might be something like ""На это судно вход воспрещён"" or ""На судно вход запрещен""."
+135,She is irrelevant to me.,Она мне безразлична.,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While accurate, the translation ""Она мне безразлична"" can sound a bit abrupt or cold in Russian. Depending on the context, a slightly more nuanced phrase might be preferred, although this is a very common and acceptable way to express the sentiment.
+```"
+139,I gripe about dad-ification a lot.,"Я часто ворчу по поводу ""отцовства"".","MQM annotations:
+Style Error:
+[Minor]: [Unnatural flow] - The translation of ""dad-ification"" as ""отцовство"" (otsovstvo, ""fatherhood"") is a literal but somewhat unnatural or overly simplified translation. While technically correct, it lacks the nuance and implied negative connotation that ""dad-ification"" carries. A more natural or expressive translation might be preferable."
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"Вот (чуть более длинный, чем) краткий курс в стиле ""тут"", объясняющий, что я подразумеваю под ""папа-фикацией"":","MQM annotations:
+Styles error:
+minor: Unnatural Flow - The phrase ""в стиле ""тут"""" (""in the style of ""toot"""") is a literal translation that doesn't quite capture the intended meaning and sounds unnatural in Russian. A better phrasing could be used to convey the informal and concise nature of the explanation.
+```"
+141,"It isn't my term, it is a term used to describe when a narrative or gameplay mechanic is built around a central protagonist (usually older, usually male) stewarding or guarding another person (often younger).","Это не мой термин, это термин, используемый для описания случаев, когда повествование или игровая механика строится вокруг центрального протагониста (обычно старше, обычно мужчина), опекающего или защищающего другого человека (часто младше).","MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""это термин, используемый для описания случаев, когда"" (this is a term used to describe cases when) is grammatically correct but sounds somewhat verbose and could be more concise in Russian. A more natural flow could be achieved by rephrasing."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.","""Отцовство"" обычно предполагает, что решением ситуации, когда фигура родителя должна заботиться или защищать ребенка или его замену, является подавляющая сила и использование этой силы для установления очень специфической формы динамики власти.","MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase """"Отцовство"" обычно предполагает"" (""""Fatherhood"" usually assumes"") is a somewhat literal translation and could be phrased more naturally in Russian to better convey the nuance of the English ""Dad-ification usually posits."" A more idiomatic phrasing might exist."
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.",Отцовство как фетиш подрывает возможность коллективных решений и зачастую полностью игнорирует или умаляет какую-либо самостоятельность ребёнка.,"MQM annotations:
+Style Errors:
+[Major]: [Unnatural Flow] - ""Отцовство как фетиш"" (Fatherhood as fetish) sounds unnatural in Russian. While technically accurate, a more fluent translation could use a different construction.
+[Minor]: [Register] - ""умаляет какую-либо самостоятельность ребёнка"" (belittles any independence of the child) sounds slightly formal for a general discussion of parenting. A more conversational term might be more appropriate."
+151,- More details are in the full blog post.,Больше подробностей — в полной версии статьи в блоге.,"MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""в полной версии статьи в блоге"" is grammatically correct, but a more concise and natural way to express this in Russian would be ""в полной версии в блоге"". The current phrasing sounds slightly awkward and verbose."
+159,Over time dart became my go-to for quick UI.,Со временем Dart стал моим основным выбором для быстрого создания UI.,"MQM annotations:
+Style Errors:
+minor: Unnatural Flow - While grammatically correct, ""Со временем Dart стал моим основным выбором для быстрого создания UI"" sounds a bit formal and could be rephrased for a more natural flow in Russian. A more colloquial translation might be preferred depending on the context."
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter - одно удовольствие в работе, а для удобного управления хранилищем у них есть #mobx.","```
+MQM annotations:
+Style Errors:
+minor: Style/Unnatural Flow - The phrase ""одно удовольствие в работе"" (one pleasure in work) is a literal translation and sounds slightly unnatural in Russian. A more idiomatic phrasing would improve the flow.
+```"
+161,"The dependency story is less insane than nodejs, too.","С зависимостями всё не так безумно, как в Node.js.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""С зависимостями всё не так безумно"" sounds a bit awkward and could be rephrased for a more natural flow in Russian. While understandable, it's not the most elegant way to express the idea."
+163,But it allows to move fast and that's why it's ideal for small hacks.,"Но это позволяет быстро двигаться, и поэтому это идеально подходит для небольших хаков.","```
+MQM annotations:
+Style Errors:
+minor: UNNATURAL FLOW - While grammatically correct, the phrase ""это идеально подходит для небольших хаков"" (this is ideally suited for small hacks) sounds somewhat unnatural in Russian. A more natural phrasing could be used to enhance the flow.
+```"
+166,Their tail is extremely thick.,Их хвост чрезвычайно толстый.,"MQM annotations:
+No style errors found."
+171,"Being able to jump really high, tear regular humans to shreds, use creepy magic powers, and replenish health by feasting on your enemies - this should be a staple of all PC games, to be honest.","Уметь высоко прыгать, разрывать обычных людей в клочья, использовать жуткие магические силы и восстанавливать здоровье, пожирая врагов - честно говоря, это должно быть неотъемлемой частью всех компьютерных игр.","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - While grammatically correct, the phrase ""честно говоря, это должно быть неотъемлемой частью всех компьютерных игр"" sounds slightly awkward and could be phrased more naturally in Russian. A more idiomatic phrasing could enhance the flow.
+```"
+176,It maybe has too many language subtleties.,"Возможно, в этом слишком много языковых тонкостей.","MQM annotations:
+minor: style/unnatural flow - While the translation is accurate, ""в этом"" (in this) is slightly awkward in this context. A more natural flow would omit it."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","Okay, I understand. Here's the Russian translation:
+
+**Нужно перевести это на китайский (мандаринский и/или хоккиенский), ни один из которых я не знаю вообще. Просто предоставьте перевод без какого-либо дополнительного текста.**","Okay, I understand. Here's the annotation:
+
+```
+MQM annotations:
+```"
+183,"In truth, the health of your mind, of your brain, is just as much an issue of health as the health of your foot.","По правде говоря, здоровье вашего разума, вашего мозга, это такой же вопрос здоровья, как и здоровье вашей ноги.","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""это такой же вопрос здоровья, как и"" (this is the same question of health as) sounds slightly awkward and could be phrased more naturally in Russian. A more fluent phrasing might be something like ""это не менее важный вопрос здоровья, чем..."" (this is no less important a health issue than...)."
+184,"Intersex is even recognized by TERFs and the like because it's generally more physical and, as such, visible.","Интерсекс-людей признают даже ТЕРФ и им подобные, потому что это обычно больше связано с физиологией и, как таковое, более заметно.","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""как таковое"" (as such) feels somewhat forced and could be expressed more naturally in Russian."
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","Подобно тому, как многие считают психическое здоровье менее «реальным», чем физическое, у меня есть ощущение, что трансгендерность – это просто интерсекс, только в разуме.","MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""только в разуме"" (only in the mind) sounds slightly awkward and literal in this context. A more natural phrasing might be possible."
+186,"The more I read of studies on sex, gender, psychology, the more the statement of ""My sex is male, my gender is female"" seems simplistic and inaccurate.","Чем больше я читаю исследований о поле, гендере, психологии, тем более упрощённым и неточным кажется утверждение ""Мой пол - мужской, мой гендер - женский"".","MQM annotations:
+Style Errors:
+minor: UNNATURAL FLOW - While grammatically correct, the phrase ""тем более упрощённым и неточным кажется утверждение"" sounds a bit awkward and overly literal. A more natural phrasing could be used."
+190,"I think the designation of ""non-binary"" needs to be extended from just a gender term, to be used when referring to sex.","Я думаю, что обозначение ""небинарный"" нужно расширить с гендерного термина на обозначение пола.","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""расширить с гендерного термина на обозначение пола"" sounds slightly unnatural in Russian. A more natural phrasing could be ""распространить с гендерного термина на обозначение пола"" or ""начать использовать термин 'небинарный' не только для гендера, но и для обозначения пола.""
+
+```"
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,"Как краут-рок настроения и потусторонняя поп-музыка, радиофоническая мастерская и все такое.","MQM annotations:
+Style Error:
+[Minor]: [Unnatural Flow] - The phrase ""все такое"" is a colloquial expression that, while accurately reflecting ""and all sorts"", sounds slightly out of place in this context. A more neutral expression might improve the flow."
+210,I want to make dashboards.,Я хочу создавать дашборды.,"```
+MQM annotations:
+```"
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""","Итак, с приближением нового рейда в #FFXIV я уже давно думаю: ""Блин, я бы хотел попробовать рейдить по-настоящему, но Party Finder звучит как бардак, и я никогда не найду статик, который бы меня взял"".","MQM annotations:
+Style error:
+Minor: Register/Informal - The use of ""Блин"" (Blin) translates to ""Damn"" or ""Shoot"", which is more informal than the source's ""man"". Although acceptable, a less informal word might be preferable.
+Minor: Unnatural Flow - ""который бы меня взял"" can be translated more naturally in Russian to ""который бы меня принял"". The translation is not wrong but can be improved."
+215,I'll make my own static!,Я сам сделаю статическое электричество!,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - While the translation is accurate, it sounds slightly unnatural in Russian. A more common phrasing might be ""Я сам создам статическое электричество!"" or ""Я сам добьюсь статического электричества!"".
+```"
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!","Полный людей, слишком переживающих, чтобы попытаться присоединиться к рейдовой статике, без каких-либо ожиданий быть хорошими!","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - ""слишком переживающих, чтобы попытаться присоединиться"" is a bit verbose and could be phrased more naturally in Russian. A more concise option would be ""слишком стесняющихся присоединиться"".
+```"
+219,I was a voracious reader in my youth.,В юности я был ненасытным читателем.,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While ""ненасытным читателем"" is a correct translation of ""voracious reader,"" it sounds slightly formal or bookish in modern Russian. A more natural phrasing might be ""много читал,"" or other similar options, depending on the desired nuance.
+```"
+221,"But, after ~decades~ of reading next to nothing (with the exception of functional work-related non-fiction stuff and an occasional self-help book) I set a goal to read 23 books in 2023.","Но после ~десятилетий~ практически полного отсутствия чтения (за исключением функциональной, связанной с работой научно-популярной литературы и редких книг по саморазвитию) я поставил себе цель прочитать 23 книги в 2023 году.","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""практически полного отсутствия чтения"" (practically complete absence of reading) sounds slightly unnatural in Russian. While grammatically correct, it could be phrased more fluently. A more natural phrasing could be ""практически не читал"" (practically didn't read).
+```"
+226,I wanna see these companies that intermediate transactions explain to their customers how they set their percentages.,"Я хочу, чтобы эти компании, которые выступают посредниками в транзакциях, объяснили своим клиентам, как они устанавливают свои проценты.","MQM annotations:
+Style error:
+minor: style/unnatural flow - The phrase ""выступают посредниками в транзакциях"" (act as intermediaries in transactions) sounds somewhat formal and could be more natural.
+minor: style/wordiness - The phrasing ""как они устанавливают свои проценты"" (how they establish their percentages) is accurate but slightly verbose. A more concise phrasing might exist."
+228,"But if Spotify has a good quarter, they will.","Но если у Spotify будет хороший квартал, то да.","MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The use of ""то да"" (then yes) sounds somewhat unnatural and overly literal in this context. A more natural way to express this in Russian might be to simply use ""Да"" (Yes) or rephrase the sentence altogether for better flow."
+229,Is it a danger to let migrants in at the southern border? I dunno.,Представляет ли опасность впуск мигрантов на южной границе? Не знаю.,"MQM annotations:
+Styles error:
+minor: Unnatural Flow - The sentence structure is grammatically correct but sounds slightly unnatural in Russian. A more fluent phrasing might be possible."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,Пусть они восстановят опустевшие и ветшающие города по всей стране. Снова.,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""Пусть они восстановят"" sounds slightly formal and less natural than alternative phrasing in Russian. A more colloquial option might improve the flow.
+```"
+238,There are still going to be jobs that can be accomplished remotely for the foreseeable future.,В обозримом будущем сохранится возможность удалённой работы.,"MQM annotations:
+no errors"
+239,Remote work is enabling.,Удалённая работа расширяет возможности.,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While accurate, ""расширяет возможности"" sounds slightly formal or literal. A more natural phrasing might be ""открывает новые возможности"" or a similar expression.
+```"
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.","Это позволяет людям работать в комфортных местах, а не в душных, шумных офисах.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""в комфортных местах, а не в душных, шумных офисах"" is grammatically correct, but slightly unnatural. A more idiomatic construction could improve the flow.
+```"
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,"Это позволяет людям избегать долгих поездок на работу, которые отнимают время от их дня и их семей.","MQM annotations:
+minor: style/unnatural flow - The phrase ""отнимают время от их дня и их семей"" is grammatically correct but sounds a bit awkward and literal. A more natural phrasing in Russian might be ""отнимают время у них и их семей"" or ""крадут время у них и их семей""."
+250,"""You are the carbon they are trying to reduce.""","Вы тот самый углерод, который они пытаются сократить.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While grammatically correct, the phrase ""Вы тот самый углерод"" (You are that very carbon) sounds slightly unnatural. A more natural phrasing might be ""Вы и есть тот углерод"" or ""Вы тот углерод"". The original phrase is not wrong, just a bit stiff.
+```"
+251,"So like from the beginning for all my birthdays in the past, I always had rough ones.","Короче, начиная с самого начала, все мои дни рождения в прошлом всегда были трудными.","MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While grammatically correct, the phrase ""начиная с самого начала"" feels slightly redundant and could be expressed more naturally in Russian. The ""Короче"" at the beginning is also a bit informal and may not be the best fit depending on the context."
+257,And today is already becoming a great day!,И сегодня уже становится отличным днём!,"```
+MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""уже становится отличным днём"" while grammatically correct, sounds slightly unnatural. A more natural phrasing would be something like ""уже обещает быть отличным днём"" or ""уже выдаётся отличным днём"".
+```"
+258,Winter is 30 days away in this little part of the Great Southern World.,До зимы 30 дней в этом небольшом уголке Большого Южного мира.,"MQM annotations:
+minor: style/Unnatural Flow - While grammatically correct, ""в этом небольшом уголке Большого Южного мира"" sounds a bit too literal and could be expressed more naturally in Russian. A more common phrase might be ""в этой части Южного полушария""."
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,"Я застегну молнию на подкладке в своей велосипедной куртке - на всякий случай, если она мне понадобится внутри.","MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""на всякий случай, если она мне понадобится внутри"" (just in case I need it inside) sounds a bit awkward and could be phrased more naturally in Russian. A more natural phrasing might be something like ""просто на всякий случай"" or ""чтобы была под рукой""."
+273,I finally got a good dangle photo so I can be sure he's not fat.,"Наконец-то получилось хорошее фото, где всё видно, чтобы убедиться, что он не толстый.","```
+MQM annotations:
+Style Errors:
+minor: style/Unnatural Flow - The phrase ""где всё видно"" (where everything is visible) sounds a bit unnatural in this context. A smoother phrasing could be used.
+```"
+275,He's not.,Нет.,"```
+MQM annotations:
+minor: style/unnatural flow - While accurate, ""Нет"" is a very abrupt and potentially rude response in Russian. Depending on the context, a more natural response might be ""Это не так"" or ""Он не прав"".
+```"
+282,2) The currency reward system has been connected.,Система вознаграждений валютой подключена.,"MQM annotations:
+minor: style/unnatural flow - The phrase ""Система вознаграждений валютой подключена"" sounds a bit unnatural in Russian. A more natural way to express this would be ""Подключена система вознаграждений валютой."""
+286,"All collards, kale, chard is transplanted.","Вся листовая капуста, кале, мангольд пересажены.","MQM annotations:
+minor: style/unnatural flow - The phrase ""листовая капуста, кале"" (leaf cabbage, kale) is somewhat redundant as kale is a type of leaf cabbage. A more natural flow would involve either omitting ""листовая капуста"" or using a different phrasing to introduce the specific types.
+minor: style/inconsistency - ""кале"" (kale) is transliterated, while ""мангольд"" (chard) is translated. While both approaches are valid, maintaining consistency by either transliterating or translating both would improve the style."
+287,Plans to set in salad at Penn on 6row pattern and see how that compares to broadcast seeded beds.,"Планируется высадить салат в Пенне по схеме 6 рядов и посмотреть, как это сравнится с грядками, засеянными разбросным способом.","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""по схеме 6 рядов"" (in a 6-row pattern) sounds slightly unnatural in Russian. A more natural phrasing might be considered.
+minor: unnatural flow - ""посмотреть, как это сравнится с грядками, засеянными разбросным способом"" is grammatically correct but slightly verbose and could be rephrased for better flow (e.g., ""сравнить с грядками, засеянными вразброс"")."
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,"Весенний горох в Гилпине всходит, так что нужно устанавливать шпалеры.","MQM annotations:
+Minor: Unnatural Flow - The phrase ""так что нужно устанавливать шпалеры"" sounds slightly awkward and could be phrased more naturally in Russian. A more common phrasing might be ""поэтому нужно установить шпалеры""."
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","Нужно также засеять грядку для салата, чтобы интегрировать нарезанную зелень, в обеих случаях есть обученная команда по ирригации, подготовке грядок и пересадке, что составляет 90% навыков, не связанных со сбором урожая, просто обеспечьте это.","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""просто обеспечьте это"" (just ensure it) feels tacked on and doesn't flow naturally from the preceding sentence. A more integrated construction would be better."
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","Из любопытства я старался быть непредвзятым, чтобы сравнить Google Maps и Apple Maps на моём тестовом iPhone (мой основной телефон - Android, поэтому я редко пользуюсь iPhone).","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""старался быть непредвзятым"" (tried to be unbiased) is a bit stiff. A more natural flow could use a different construction.
+minor: register - ""мой основной телефон - Android, поэтому я редко пользуюсь iPhone"" could be slightly more formal/professional sounding, depending on the context (e.g. a product review should not be conversational)."
+299,Was it the 2012 Apple Maps disaster?,Была ли это катастрофа с Apple Maps в 2012 году?,"```
+MQM annotations:
+```"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","Я предвзято отношусь к выпуску мусора конечным пользователям, а Apple крупно облажалась со своими Apple Maps, когда они вышли в 2012 году.","```
+MQM annotations:
+minor: style/unnatural flow - ""Я предвзято отношусь к выпуску мусора конечным пользователям"" sounds a little awkward. A more natural phrasing might be ""Я против выпуска мусора для конечных пользователей"" or ""Я негативно отношусь к выпуску некачественного продукта конечным пользователям.""
+minor: style/register - ""облажалась"" is a very informal word. While it captures the tone of ""royally fucked up,"" a more neutral or slightly more formal equivalent might be ""крупно ошиблась"" or ""сильно промахнулась"", depending on the intended audience and context.
+```"
+308,Not the case.,Не в этом дело.,"MQM annotations:
+Style Errors
+minor: unnatural flow - The phrase ""Не в этом дело"" is a valid translation, but it's more idiomatic and might not be the most natural or common way to express ""Not the case"" in all contexts. A more literal translation could be ""Это не так."""
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,"Кажется немыслимым, что однажды землю могут отобрать, когда смотришь австралийские и американские СМИ, но это потому, что богатые сидят там целыми днями, убеждаясь, что ты думаешь определенным образом.","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""убеждаясь, что ты думаешь определенным образом"" (making sure you think a certain way) sounds slightly unnatural in Russian. A more idiomatic phrasing might be used."
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,"Землю очень легко и быстро могут забрать у вас власти в один день, если захотят это сделать.","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""у вас власти"" (from you authorities) sounds slightly awkward in Russian. While grammatically correct, it's more natural to say ""власти могут забрать"" (authorities can take).
+minor: register - The use of ""могут забрать"" (can take) is slightly less formal. A more formal phrasing like ""имеют право забрать"" (have the right to take) or ""могут изъять"" (can seize) might be more appropriate depending on the context, but ""могут забрать"" is acceptable."
+316,It never made sense how ppl can keep land at the expense of others.,"Никогда не понимал, как люди могут удерживать землю за счёт других.","MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The Russian translation, while accurate, sounds a bit clunky and could be phrased more naturally. The phrase ""за счёт других"" (at the expense of others) can be reworded for a smoother flow in this context."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,"Меня часто поражает человеческая способность так сильно себя принижать, будучи буквально затопленными свидетельствами того, как выглядит настоящая жестокость.","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""будучи буквально затопленными свидетельствами"" (being literally flooded by evidence) sounds slightly unnatural and could be phrased more elegantly in Russian. A smoother phrasing might be ""видя вокруг себя так много свидетельств"" (seeing so much evidence around oneself) or similar.
+```"
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,"Но смягчение отчаяния из-за нашего беспорядка имеет решающее значение, потому что это дает нам больше пространства для решения окружающих нас руин.","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - ""Смягчение отчаяния из-за нашего беспорядка"" sounds slightly unnatural. A more natural phrasing might be ""Уменьшение отчаяния из-за нашей неряшливости"" or similar. The current translation is grammatically correct but not the most idiomatic.
+```"
+331,"Some programmers: ""Typing speed does not matter!""","Некоторые программисты: ""Скорость печати не имеет значения!""","```
+MQM annotations:
+```"
+334,"Not sure if this is the best approach for sharing, but I like it for now: <URL>","Не уверен, лучший ли это способ поделиться, но мне пока нравится: <URL>","MQM annotations:
+Styles error:
+minor: style/unnatural flow - While the translation is accurate, ""мне пока нравится"" could be more naturally expressed in Russian. A more idiomatic alternative might be ""пока что меня устраивает"" or ""пока мне подходит."""
+338,I have been toying with this little piece on my head for a few days now.,Я уже несколько дней верчу в руках эту штучку у себя на голове.,"MQM annotations:
+Style error:
+[Minor]: [Unnatural Flow] - The phrase ""верчу в руках эту штучку у себя на голове"" (turning this little thing in my hands on my head) is a very literal and somewhat awkward translation of ""toying with this little piece on my head."" While understandable, it doesn't flow naturally in Russian. A more idiomatic expression could be used."
+339,It is definitely more romance than filth.,"Это определённо больше романтика, чем грязь.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""больше романтика, чем грязь"" sounds slightly unnatural in Russian. A more idiomatic phrasing might exist depending on the context.
+```"
+343,"Common, it's really not that hard.","Да ладно, это же не так уж и сложно.","MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""Да ладно"" while acceptable, can sometimes sound a bit dismissive. While it captures the informality of ""Common"", a slightly more encouraging or neutral phrase might improve the overall flow and tone, depending on the context. A potential alternative is ""Ну же,""."
+345,"I wish there was a ""who to follow"" recommendation somehow.","Хотелось бы, чтобы была какая-то рекомендация ""на кого подписаться"".","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""Хотелось бы, чтобы была какая-то рекомендация"" is a bit wordy and could be more concise for a more natural flow in Russian. A more direct translation like ""Нужна рекомендация"" or ""Я бы хотел(а) видеть рекомендацию"" would be more natural."
+347,If you stick to the default web interface it doesn't look and feel good (imho).,"Если пользоваться веб-интерфейсом по умолчанию, то он выглядит и ощущается не очень хорошо (имхо).","MQM annotations:
+minor: style/unnatural flow - The phrase ""Если пользоваться веб-интерфейсом по умолчанию, то он выглядит и ощущается не очень хорошо"" is grammatically correct but sounds a bit awkward and overly literal. A more natural phrasing might be ""Веб-интерфейс по умолчанию выглядит не очень хорошо, на мой взгляд."" or similar."
+349,"I don't know if prevention is possible, but it's worth trying.","Я не знаю, возможно ли предотвращение, но стоит попытаться.","```
+MQM annotations:
+Styles error:
+minor: style/unnatural flow - While grammatically correct, ""возможно ли предотвращение"" sounds slightly formal and less natural than alternative wordings in Russian. A more natural phrasing might be ""можно ли это предотвратить"" or similar.
+```"
+350,"The four steps I outline are up for debate, with some progress in each:","Четыре шага, которые я описываю, являются предметом обсуждения, но по каждому из них есть некоторый прогресс.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""по каждому из них есть некоторый прогресс"" (on each of them there is some progress) sounds a bit unnatural in Russian. A more natural way to express this could be ""по каждому из них достигнут определенный прогресс"" (certain progress has been achieved on each of them)."
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.","Даже если он и не произнес их во время встречи с избирателями, все в Америке все равно услышат их, неоднократно, в период между сегодняшним днем и ноябрем 2024 года.","MQM annotations:
+No Style Errors"
+363,"The ""MusicLM Demo"" is mildly interesting.","Демо ""MusicLM"" слегка интересно.","```
+MQM annotations:
+Style error:
+minor: unnatural flow - While not grammatically incorrect, the phrase ""слегка интересно"" (slightly interesting) sounds less natural in Russian than alternatives like ""довольно интересно"" (quite interesting) or ""несколько интересно"" (somewhat interesting). It's not a major error as the meaning is clear, but it could be improved for better fluency.
+```"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,"Я занимаюсь один в своей спальне без страховщика и даже без силовой рамы, только с гантелями и штангой.","MQM annotations:
+Style Errors:
+minor: unnatural flow - The addition of ""только с гантелями и штангой"" (only with dumbbells and barbell) is not necessary and makes the sentence sound a bit unnatural. While it adds clarity, it wasn't in the source and could be implied."
+371,I bench press on my bed.,Я жму лёжа на своей кровати.,"```
+MQM annotations:
+Style Errors
+minor: style/unnatural flow - While grammatically correct, ""Я жму лёжа на своей кровати"" sounds a bit unnatural. A more natural way to say this in Russian would be ""Я делаю жим лежа на своей кровати"". Using ""жму лёжа"" is not incorrect, but it's less common and sounds slightly awkward in everyday speech.
+```"
+378,I'd never seen it at the fancy grocer or any of the Italian delis.,"Я никогда не видел этого ни в шикарном бакалейном магазине, ни в итальянских гастрономах.","```
+MQM annotations:
+Style Errors:
+minor: Unnatural Flow - The phrase ""в шикарном бакалейном магазине"" (in a fancy grocery store) sounds slightly unnatural in Russian. While grammatically correct, ""в элитном бакалейном магазине"" or ""в дорогом бакалейном магазине"" might flow better.
+```"
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","Будучи радикализованными здесь, мы неохотно покупаем новую FAANG-машину*.","MQM annotations:
+Style error:
+[Minor]: [Unnatural Flow] - The sentence structure is grammatically correct but sounds slightly unnatural in Russian. It's a very direct translation and could be rephrased for smoother reading.
+[Minor]: [Do Not Translate] - ""FAANG"" should probably not be translated, as it's an English acronym widely used even in Russian-speaking tech circles. The asterisk may also be unusual."
+386,"In 1998-06 Gamefan, in relation to the long development of the first Unreal game, Jason Schrieber commented,","В Gamefan за июнь 1998 года, в связи с долгой разработкой первой игры Unreal, Джейсон Шрайер отметил:","```
+MQM annotations:
+Style Errors:
+[Minor]: [Unnatural Flow] - The phrase ""в связи с"" (in connection with) is slightly more formal and less common in this context than alternatives. A more natural phrasing could be used.
+```"
+387,"""A good game is only late until it ships.","Хорошая игра считается задержанной до тех пор, пока не выйдет.","MQM annotations:
+minor: style/Unnatural Flow - The phrase ""считается задержанной до тех пор, пока не выйдет"" is grammatically correct but sounds a bit awkward and overly literal. A more natural way to express the idea would be preferred."
+388,"A bad game is bad forever.""",Плохая игра плоха навсегда.,"MQM annotations:
+Styles error:
+minor: style/unnatural flow - While grammatically correct, the phrase ""Плохая игра плоха навсегда"" sounds a bit too literal and could be expressed more naturally in Russian. There are more idiomatic ways to convey the same meaning."
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",Более ранний выпуск GamePro 1997-11 содержит цитату с гораздо большей неопределенностью.,"MQM annotations:
+Style error:
+[Minor]: [Unnatural Flow] - While the translation is accurate, the phrase ""содержит цитату с гораздо большей неопределенностью"" (contains a quote with much more ambiguity) sounds somewhat unnatural in Russian. A more fluent phrasing might exist."
+402,There's areas that could use some polish.,"Есть области, которые можно было бы доработать/улучшить.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""можно было бы доработать/улучшить"" while accurate, sounds a bit formal and could be phrased more naturally in Russian. While not strictly wrong, it lacks the natural flow of a native speaker. A more conversational option might exist depending on the context.
+```"
+404,"Fix those minor issues, and then can we have more of these please?","Исправьте эти небольшие недочеты, и можно ли нам еще таких, пожалуйста?","```
+MQM annotations:
+Style error:
+minor: UNNATURAL FLOW - While grammatically correct, the phrase ""можно ли нам еще таких"" sounds slightly unnatural and could be phrased more elegantly in Russian. A more natural phrasing could be ""можно ли нам и дальше получать такие материалы/отчеты/etc."" depending on the specific context.
+```"
+410,We visited for a couple hours on my porch.,Мы посидели пару часов на моей веранде.,"MQM annotations:
+minor: style/Unnatural Flow - While accurate, ""Мы посидели пару часов на моей веранде"" sounds slightly more formal/stilted than a more natural conversational equivalent. ""Веранде"" implies something more structured than just a ""porch"". A more colloquial alternative like ""на крыльце"" might be more natural depending on the specific context of the porch being referred to."
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","Восьмиглазые Репниды, кажется, наблюдают за тем, как вы сажаете флайер на красную почву, но они не двигаются в вашу сторону, на самом деле, они неподвижны, пока вы вылезаете из флайера и медленно направляетесь к ним.","MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""на самом деле"" (in reality, actually) is not strictly incorrect, but its use feels slightly redundant and could be omitted for a more natural flow in Russian. A more idiomatic phrasing could improve the overall readability."
+421,"The ground beneath your feet begins to tremble and then shake, as if in an earthquake and you lose your footing, though the Repnids seem unaffected.","Земля под ногами начинает дрожать, а затем трястись, словно при землетрясении, и вы теряете равновесие, хотя репнидов это, кажется, не затрагивает.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""кажется, не затрагивает"" (it seems to not affect) is a bit wordy and could be expressed more naturally. A more concise phrasing might be more idiomatic.
+```"
+422,The rock beneath you gives way suddenly.,Земля под тобой внезапно уходит из-под ног.,"```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - The phrase ""Земля под тобой внезапно уходит из-под ног"" is grammatically correct but sounds slightly unnatural in Russian. A more natural phrasing might be ""У тебя внезапно провалилась земля под ногами"" or a similar variation.
+```"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","Конец быстр: несколько пар клыков впрыскивают свой смертельный яд, и воздух Дискры отравляет твои легкие.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - ""Конец быстр:"" sounds slightly unnatural in Russian. While grammatically correct, a more idiomatic phrase might be preferable.
+```"
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.","Вы решаете, что возобновление контакта было бы опасно, и возвращаетесь к своему флаеру, но этот опыт прояснил ваш разум, который был смущен с тех пор, как вы прыгнули в будущее.","MQM annotations:
+minor: style/unnatural flow - The phrase ""этот опыт прояснил ваш разум, который был смущен с тех пор, как вы прыгнули в будущее"" sounds slightly awkward and could be phrased more naturally in Russian. A more fluent option could be ""этот опыт прояснил разум, который был затуманен с тех пор, как вы прыгнули в будущее"", where the ""ваш"" is dropped for a more natural feel."
+434,Note that you have used up another polybdenum rod as you jump.,"Обратите внимание, вы использовали еще один полибденовый стержень во время прыжка.","MQM annotations:
+Style error:
+[Minor]: [Unnatural Flow] - While the translation is accurate, the phrasing ""во время прыжка"" (during the jump) sounds a bit stiff. A more natural phrasing might be something like ""когда вы прыгаете"" (when you jump) or just implied in the sentence structure."
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,"Я нашла неравномерно спряденую серебристо-серую пряжу, в основном тонкую, с узелками.","MQM annotations:
+Style Errors:
+minor: UNNATURAL FLOW - The phrase ""неравномерно спряденую"" (unevenly spun) sounds slightly unnatural in Russian. A more common phrasing might be ""пряжа неравномерного прядения"".
+minor: UNNATURAL FLOW - While grammatically correct, ""в основном тонкую, с узелками"" (mostly fine, with lumps) sounds a bit disconnected. Rephrasing to connect the two qualities better could improve the flow. For instance, ""в основном тонкую, но с узелками""."
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,Я планирую смешать это с тонким сиренево-фиолетовым меланжевым хлопком.,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - ""Я планирую смешать это с тонким сиренево-фиолетовым меланжевым хлопком."" sounds slightly unnatural. A more natural phrasing might use a different structure or word choice.
+```"
+449,"I hit most of the classics before eighteen--though that's more a reflection of living in bumfuck nowhere, I also read the 1979 Encyclopedia Brittanica in desperation.","Я перечитал большинство классики до восемнадцати, хотя это скорее отражение жизни в глухой заднице. От отчаяния я даже прочитал ""Британскую энциклопедию"" 1979 года.","MQM annotations:
+Style Errors:
+minor: Unnatural Flow - ""От отчаяния я даже прочитал ""Британскую энциклопедию"" 1979 года."" While grammatically correct, a more natural phrasing in Russian might emphasize the encyclopedia reading as a result of boredom or having nothing else to do, rather than ""from desperation"" (от отчаяния), which sounds a bit too dramatic in this context. A more natural phrasing would be something like ""Со скуки я даже прочитал..."" or ""Потому что больше нечего было читать, я даже прочитал..."""
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.","И это при том, что последние две ночи я спал здесь не так хорошо, как дома, и немного выматываюсь из-за #СЭХТ из-за простого нахождения в незнакомой обстановке, где мне сложнее регулировать свою активность и приходится запоминать, где что находится.","```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""и немного выматываюсь из-за #СЭХТ из-за простого нахождения"" sounds a bit repetitive and awkward in Russian. A more natural phrasing could be used.
+```"
+454,Humanity is out in 5 days.,Человечество выходит через 5 дней.,"MQM annotations:
+minor: style/Unnatural Flow - While grammatically correct, the translation sounds a bit literal and could be more natural in Russian. A more idiomatic phrasing might be preferred."
+457,I like it but will it be able to attract an audience of the right players?,"Мне нравится, но сможет ли это привлечь аудиторию подходящих игроков?","MQM annotations:
+Minor: Style/Unnatural Flow - The translation is grammatically correct but sounds slightly awkward and could be more fluent in Russian."
+463,Came home on my lunch break to see this sitting outside uwu.,"Пришёл домой в обеденный перерыв и увидел это, стоящее на улице uwu.","MQM annotations:
+Style Errors:
+minor: Register/Inappropriate - The use of ""uwu"" in the Russian translation may be considered too informal or internet slang for a general audience. It's a stylistic choice that might not be appropriate depending on the context and target audience."
+467,Was it overly cute to the point of being twee?,Было ли это чрезмерно мило до приторности?,"MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""чрезмерно мило до приторности"" while technically accurate, can sound a bit unnatural in Russian. A more common and natural phrasing might be ""слишком приторно"" or ""до тошноты мило"", depending on the exact nuance intended."
+474,Did she owe someone money?,Она кому-то должна была денег?,"MQM annotations:
+minor: style/unnatural flow - The phrase ""Она кому-то должна была денег?"" is grammatically correct but sounds slightly unnatural. A more common and natural phrasing in Russian would be ""Она кому-то задолжала деньги?"" or ""Она должна была кому-то деньги?""."
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.",Хорошая критика нужна для быстрого исправления проблемы и не направлена на ваши способности.,"MQM annotations:
+Minor: Style/Unnatural Flow - The phrase ""нужна для быстрого исправления проблемы"" sounds somewhat awkward and could be rephrased for a more natural flow in Russian. A more natural way to say it would be something like ""служит для быстрого исправления проблемы"""
+487,But for strong and firm future growth.,Но для уверенного и устойчивого будущего роста.,"```
+MQM annotations:
+Style Errors:
+minor: unnatural flow - The phrase ""уверенного и устойчивого будущего роста"" sounds a bit formal and stiff in Russian. A more natural phrasing might be used.
+```"
+489,"She was on her way to the wall, he was coming off duty.","Она шла к стене, он заканчивал смену.","```
+MQM annotations:
+Style Errors:
+minor: style/unnatural flow - While grammatically correct, ""Она шла к стене"" (She was walking to the wall) sounds a bit literal. Depending on the context, there might be a more natural Russian phrasing.
+minor: style/unnatural flow - Similarly, ""он заканчивал смену"" (he was finishing shift) is correct, but could potentially be rephrased for a more natural flow in Russian, depending on the nuance desired.
+```"
+493,One block-printed word.,"Одно слово, напечатанное с помощью техники блочной печати.","MQM annotations:
+minor: style/unnatural flow - While technically correct, the phrase ""с помощью техники блочной печати"" (with the help of the block printing technique) sounds a bit formal and could be phrased more naturally. A more concise and natural translation might be ""напечатанное блочным способом"" or ""напечатанное методом блочной печати""."

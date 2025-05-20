@@ -1,0 +1,635 @@
+index,original,translated,terminology_annotation
+0,The hacked up version of Jedi Knight was crashing because it was calling a function off the end of a vtable.,Взломанная версия Jedi Knight вылетала из-за вызова функции за пределами vtable.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""vtable"" is transliterated, but should be translated to its Russian equivalent (""таблица виртуальных методов"" or ""VMT"") for better readability and understanding in a technical context.
+```"
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,"Но это не всегда так; в таких случаях имеет значение, какой интерфейс вы используете для создания рассматриваемого объекта.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""интерфейс"" (interface) is correctly translated and compliant with the termbase, but its usage might be slightly unnatural in this specific context. A more common phrasing might use a different word for ""interface,"" although the current translation is not incorrect.
+```"
+5,"So anyway, since it does hold true here, to fix it I had to extend my viewport implementation to contain the IDirect3DViewport3 methods so that the call to the new one was valid.","В общем, поскольку здесь это действительно так, чтобы это исправить, мне пришлось расширить мою реализацию окна просмотра, чтобы она содержала методы IDirect3DViewport3, чтобы вызов новой версии был действительным.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""окна просмотра"" (window of viewing) is a valid translation of ""viewport"", but given the context of DirectX and graphics programming, a more precise and standard translation would be ""видовой экран"" or ""окно вывода"". While ""окна просмотра"" isn't technically incorrect, it lacks the precision expected in technical documentation, making it a minor issue.
+minor: WRONG TERM - The translation of ""IDirect3DViewport3"" as ""IDirect3DViewport3"" is correct in that the identifier of an API doesn't need to be translated. However, this glossary entry should be flagged to confirm that the text ""IDirect3DViewport3"" refers to the DirectX interface name and is a technical term.
+```"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","Предположим, ради аргументации, что наука, по крайней мере частично, состоит из списков объективно фактических утверждений о мире, истинных вне зависимости от какой-либо теории, которую они могли бы подтверждать.","```
+MQM annotations:
+```"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","Согласно этой интерпретации, эксперименты не создают факты, но выбор того, какие эксперименты проводить, определяет, какие факты будут обнаружены.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The word ""интерпретации"" is a valid translation of ""reading,"" but it's slightly more formal and less common in this context. A more common and natural translation might be ""толкования"" or ""понимания."" While understandable, it's not the most natural choice.
+```"
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,"Это очень краткий набросок правдоподобного аргумента, что теории о влиянии капитализма на фактическое содержание науки согласуются с теориями, утверждающими существование объективных научных фактов.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - ""фактическое содержание науки"" is a valid translation of ""actual content of science,"" but ""фактическое"" could be seen as redundant in this context, making the phrase slightly less natural. While not strictly incorrect, a more concise option might be preferable."
+13,Going to be my first project car.,Будет моей первой машиной для проекта.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""машиной для проекта"" is a grammatically correct translation of ""project car"", but the more common term in Russian for this concept, especially in the context of hobbyist car modification, would be ""проект"". This makes the translation slightly less idiomatic.
+```"
+16,Already on coil overs and lowered ride height.,Уже на койловерах и с заниженным клиренсом.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The Russian translation ""клиренсом"" is not a direct translation of ""ride height"" but refers to ground clearance. While related, it's not a perfect term in this context, although understandable.
+```"
+20,#Venting into the Fediverse time.,Время поныть в Федивселенную.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Федивселенную"" should be in the dative case: ""в Федивселенной"".
+```"
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","Когда мы пошли рассчитываться, кассир была довольно очевидной транс-женщиной.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""транс-женщиной"" is not the most appropriate translation for ""#trans woman"" in this context. While grammatically correct, it could be considered insensitive. A more neutral translation might be ""трансгендерной женщиной"" or simply ""трансгендерной женщиной"".
+```"
+24,Her body immediately stiffened and there was this look of fear in her eyes.,"Ее тело мгновенно напряглось, и в глазах появился страх.","```
+MQM annotations:
+```"
+25,And then we just... paid for our stuff.,А потом мы просто... заплатили за свои вещи.,"```
+MQM annotations:
+```"
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,"Увидеть улыбку облегчения на её лице было прекрасно, но то, что она сначала испугалась, ПРОСТО ОТСТОЙНО И Я ЭТО НЕНАВИЖУ.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The capitalization of ""ПРОСТО ОТСТОЙНО И Я ЭТО НЕНАВИЖУ"" is incorrect. It should be ""просто отстойно и я это ненавижу"".
+```"
+32,But he can't pardon himself out of state prison.,"Но он не может сам себя помиловать, чтобы выйти из государственной тюрьмы.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""государственной тюрьмы"" is unnecessarily verbose. A more natural and concise translation would be ""тюрьмы"". Although technically not incorrect, it is stylistically less preferable in this context.
+```"
+33,It takes the state's governor.,Это касается губернатора штата.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translated term ""губернатора штата"" (governor of the state) is a valid translation of ""the state's governor"", but it sounds a bit generic. A more specific translation using the name of the state (if known) would be more appropriate in some contexts. While not strictly *wrong*, it's less natural.
+```"
+36,NY is the best hope for accountability,Нью-Йорк — лучшая надежда на привлечение к ответственности.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/typo - ""Нью-Йорк"" should be ""Нью-Йорке"" to agree with the prepositional phrase ""на привлечение к ответственности"".
+```"
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,"Существуют веские доказательства того, что реальное общение не сводится к передаче сигналов с не зависящим от контекста значением.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The capitalization of ""не зависящим от контекста значением"" is incorrect. It should be ""не зависящим от контекста Значением"" to align with the glossary entry's case.
+```"
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","В то же время мы изучаем экологические условия и когнитивные способности, которые позволяют контекстуально устранять неоднозначность значений символов.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Grammatical error - The term ""устранять неоднозначность"" (ustranyat' neodnoznachnost') is not grammatically correct in this context. The reflexive form ""устранять"" (ustranyat') is typically used to indicate that the subject is performing the action on itself. In this case, the ambiguity is being eliminated from something, not by something. A better option would be ""устранение неоднозначности"" (ustraneniye neodnoznachnosti), or using a different verb construct altogether."
+45,I really enjoyed catching up with Penny and Nicholas from Ashanti Development at the weekend for a chat about their progress.,Мне было очень приятно пообщаться с Пенни и Николасом из Ashanti Development на выходных и узнать об их успехах.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Ashanti Development"" should be in Russian genitive case to agree with ""из"" (from). So, it should be ""Ashanti Development'а"".
+```"
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,"Мне посчастливилось провести незабываемые шесть месяцев рядом с Николасом в 2011 году, поддерживая ряд проектов.","```
+MQM annotations:
+```"
+51,"Nicholas is working with farmers to reduce pesticide use while finding ways to address the issues caused by climate change and pests such as fall armyworm, which can devastate maize crops.","Николас работает с фермерами над сокращением использования пестицидов, одновременно находя способы решения проблем, вызванных изменением климата и такими вредителями, как кукурузная совка, которая может опустошать посевы кукурузы.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""кукурузная совка"" (corn earworm) is too specific. Fall armyworm is a different pest and should be translated more generally as ""армейский червь"" or ""осенняя совка"". While ""кукурузная совка"" might be *a* type of armyworm, it doesn't accurately represent the specific pest being discussed.
+```"
+53,The UPS store near me won't allow me to write a label or write on the box.,"В отделении UPS рядом со мной не разрешают писать ни наклейку, ни на коробке.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/grammatical error - The phrase ""В отделении UPS"" requires a preposition like ""в"" or ""из"" to properly connect it to the rest of the sentence. Although understandable, it disrupts the flow and sounds slightly awkward. A better option would be: ""В отделении UPS рядом со мной"". However, it's worth noting that ""В отделении UPS"" is not a perfect translation for ""The UPS store""."
+55,They won't allow me to tell them the address it's going to and who is shipping it.,Они не разрешают мне сообщать им адрес доставки и отправителя.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""адрес доставки"" should be ""адрес назначения""."
+57,"And they always to charge me $2.25 for that ""convenience"".","И они всегда берут с меня 2 доллара 25 центов за это ""удобство"".","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation of ""convenience"" as ""удобство"" is technically correct, but the quotation marks suggest sarcasm or irony in the original English which isn't conveyed strongly enough in the Russian translation. A more nuanced term might be better to convey the implied tone, though ""удобство"" isn't strictly incorrect.
+```"
+64,The ratings--seeking delusional irresponsibility of it all.,"Стремление к рейтингам, бредовая безответственность всего этого.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""стремление к рейтингам"" is a valid translation of ""ratings-seeking"", but it is not the established glossary term.
+```"
+65,It can't be repeated.,Этого не повторить.,"```
+MQM annotations:
+```"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","У меня очень продуваемый подвал, а это, по сути, значит, что у меня может укрыться много грызунов.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""продуваемый"" is a grammatically correct form, but it sounds unnatural in this context. A better word choice would be ""сквозной""."
+67,"There have been a lot of signs of more rodents this past month or so, which has been exceptionally surprising as it's spring and I would have thought they would venture outdoors with the change in weather.","В последнее время появилось много признаков увеличения количества грызунов, что особенно удивительно, поскольку сейчас весна, и я думал, что с изменением погоды они выберутся на улицу.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Grammatical error - The word ""грызунов"" (rodents) is in the genitive plural case, which is grammatically correct but sounds slightly awkward in this context. A more natural phrasing might involve using a different grammatical construction to indicate the increasing presence of rodents.
+```"
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.","К слову, я перепробовал практически все представленные на рынке ""гуманные"" ловушки, но с очень небольшим успехом.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""гуманные"" is used with quotation marks in the target, which suggests skepticism or irony, but this is not directly reflected in the source text. While not strictly incorrect, it adds a layer of interpretation that wasn't necessarily present in the original."
+72,"I'm not especially happy with killing them, but I won't be taking comments on the ethics of killing mice.)","Я не особенно рад их убивать, но я не буду принимать комментарии об этичности убийства мышей.","MQM annotations:
+No errors found."
+76,But they also cut grants and tax credits that encourage more business activity.,"Но они также сократили гранты и налоговые льготы, стимулирующие деловую активность.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""деловую активность"" (business activity) is a generally acceptable translation, but in this specific context, ""предпринимательскую деятельность"" might be a slightly more accurate and natural-sounding choice, representing a subtle stylistic nuance. However, this doesn't significantly hinder comprehension."
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","Это верно даже сейчас, когда goatse.cx больше не существует, хотя это была бы гонка на самое дно между goatse и, скажем, khou.com, где я пытался посмотреть видео, которое мне прислала Венди.","```
+MQM annotations:
+```"
+82,"On the first train today, the ticket checker looked at our tickets and said ""long journey!""","В первом утреннем поезде контролер посмотрел на наши билеты и сказал: ""Долгая дорога!"".","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The Russian translation of ""long journey!"" as ""Долгая дорога!"" is grammatically correct but stylistically less common and less idiomatic than alternatives. While ""Долгая дорога!"" is understandable, it sounds somewhat formal or poetic. A more common and natural expression in this context would be something like ""Вам далеко ехать!"" or ""Долгий путь впереди!"". However, this is a minor issue because the meaning is still conveyed, even if not in the most natural way.
+```"
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.","""Я просто высаживаю его в Глазго,"" попытался я объяснить, указывая на моего попутчика.","```
+MQM annotations:
+```"
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,"Что окончательно убедило меня прошлой ночью, так это то, что нам нужно быть готовыми дать отпор трампизму.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""трампизму"" is a transliteration of ""Trumpism"" and while understandable, it's arguably not the most natural or appropriate term in Russian political discourse. A more descriptive phrase might be preferable depending on the specific context.
+```"
+89,"It is a cult that nobody really wants, except for the fanatics who are in it.","Это культ, в котором никто особо не заинтересован, кроме фанатиков, которые в нём состоят.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - ""в нём состоят"" is grammatically correct, but stylistically less natural than ""в нём находятся"" in this context. Although it doesn't directly violate a glossary definition, it represents a slightly suboptimal phrasing.
+```"
+90,And they are truly nuts.,И они совершенно чокнутые.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""чокнутые"" is an informal and somewhat offensive term. While it captures the general sense of ""nuts,"" a more neutral and appropriate term might be ""сумасшедшие"" or ""ненормальные,"" depending on the context.
+```"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,Купи антитрамповские наклейки на бампер и обклей ими всё.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""антитрамповские наклейки на бампер"" is grammatically correct but could be slightly more natural in Russian. A more common phrasing might be ""наклейки против Трампа на бампер"". However, this is a minor stylistic issue, not a critical error.
+```"
+95,Yell back at those who would try to talk over us.,"Отвечайте криком тем, кто пытается нас перекричать.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/inflection - The term ""Отвечайте криком"" needs to be adjusted to fit the context better grammatically."
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,"Не принято появляться на людях или подбегать к людям, когда у вас сильный кашель с мокротой.","```
+MQM annotations:
+```"
+105,Jan will hurt you before she lets you see she's hurt and laughs most when things are upside-down.,"Джейн причинит тебе боль, прежде чем позволит увидеть, что больно ей, и смеется больше всего, когда все идет кувырком.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The name ""Jan"" has been translated to ""Джейн"" (Jane), which is a different name. It should remain ""Jan"" or be transliterated.
+```"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","После 4000 [чего-то] бедствий Йл оказывается в месте любви и испытывает огромные чувства, с которыми не знает, что делать, так что там много всего [обоего/и того и другого].","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation ""[чего-то]"" for ""of distress"" is too vague and doesn't convey the intended meaning. A more specific term related to suffering or hardship would be more appropriate.
+minor: WRONG TERM - ""обоего/и того и другого"" is unnecessarily verbose and slightly awkward. While the general idea of ""both"" is conveyed, a more concise term like ""и того, и другого"" would be more natural.
+```"
+108,#CNN needs to just close down.,CNN нужно просто закрыться.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""нужно просто закрыться"" translates to ""just needs to close down"" or ""should just close down."" While technically correct, the more natural translation for ""close down"" in this context would be a verb like ""ликвидировать"" (to liquidate) or ""закрыть"" (to close). Using ""закрыться"" sounds a bit awkward in this context."
+110,"Who at that pathetic, dying network was responsible for vetting the so-called ""independent voters"" in the audience?","Кто в этой жалкой, умирающей сети был ответственен за проверку так называемых ""независимых избирателей"" в аудитории?","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Grammatical error - The term ""независимых избирателей"" should be in the genitive case, agreeing with the preposition ""за"". It should be ""независимых избирателей"" to correctly reflect the phrase ""vetting of independent voters.""
+
+```"
+113,A cold front should arrive by the middle of next week.,Холодный фронт должен прибыть к середине следующей недели.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The Russian translation of ""cold front"" (Холодный фронт) is a correct and established term, however, in this context (talking about something that *should* arrive), it sounds slightly unnatural. A more natural phrasing would be ""приближение холодного фронта"" or similar, but the current translation isn't incorrect enough to warrant a higher severity level.
+
+```"
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",Сегодня рано утром данные с инфракрасных спутников и наземные наблюдения указывали на расширяющуюся область низкого слоистого облака и прерывистые/пятнистые <URL>.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The URL placeholder <URL> should not be translated. It should remain as <URL>.
+```"
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.","Ботаник Арни Каннингем влюбляется в Кристину, ржавый Plymouth Fury 1958 года, и становится одержим идеей вернуть классическому автомобилю её былое великолепие.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Plymouth Fury"" should be in Cyrillic as ""Плимут Фурия"" to maintain consistency in transliterating the car model name.
+```"
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","Как меняется машина, так меняется и Арни, чья новообретенная уверенность за рулем его экзотической красавицы перерастает в высокомерие.","```
+MQM annotations:
+```"
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,"Самое безумное в том, что мои соседи ополчились против меня, это думать о том, сколько усилий нужно, чтобы быть враждебным.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - ""ополчились против меня"" is a possible translation of ""turning against me"", but it implies a more organized and active opposition than the English phrase suggests. A more neutral translation might be more appropriate depending on the specific context.
+```"
+126,It hurts but you gotta do you.,"Больно, но ты должен делать то, что считаешь нужным.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - The phrase ""то, что считаешь нужным"" is a valid, but less common and slightly weaker translation of ""do you"" in this context. A more natural and stronger translation would be ""как знаешь"" or ""что должен""."
+127,But at this point the open hostility and violence is getting worse.,Но на данный момент открытая враждебность и насилие усугубляются.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""усугубляются"" doesn't precisely capture the progressive and worsening nature of the violence as implied by ""is getting worse."" While not incorrect, a stronger verb like ""обостряются"" might be more appropriate.
+```"
+131,And I still have NO IDEA what I could have possibly done to deserve this.,"И я до сих пор ПОНЯТИЯ НЕ ИМЕЮ, чем я мог/могла заслужить это.","```
+MQM annotations:
+```"
+133,That vessel is off-limits.,Доступ к этому судну запрещён.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""Доступ к этому судну запрещён"" is a correct translation of ""That vessel is off-limits."" but it lacks the emphasis that ""off-limits"" provides. A better option would be ""Это судно - запретная зона.""
+```"
+135,She is irrelevant to me.,Она мне безразлична.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation ""Она мне безразлична"" is a valid and common translation of ""She is irrelevant to me"", but ""безразлична"" can also mean ""indifferent"". Depending on the intended nuance, other translations like ""Она для меня не важна"" (she is not important to me) could be considered. While ""безразлична"" isn't necessarily wrong, the broader context might require a different term to better convey the intended meaning of ""irrelevant"".
+```"
+139,I gripe about dad-ification a lot.,"Я часто ворчу по поводу ""отцовства"".","MQM annotations:
+Terminology errors:
+major: WRONG TERM - ""отцовства"" is a compliant glossary term but does not fit the context as a translation of ""dad-ification"". It should be something more akin to ""обабление"" or a similar neologism reflecting the concept of becoming like a dad."
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"Вот (чуть более длинный, чем) краткий курс в стиле ""тут"", объясняющий, что я подразумеваю под ""папа-фикацией"":","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""тут"" is a transliteration of ""toot,"" which is not appropriate in this context as it's a social media term that might not be understood by all Russian speakers. A more appropriate translation or explanation might be required."
+141,"It isn't my term, it is a term used to describe when a narrative or gameplay mechanic is built around a central protagonist (usually older, usually male) stewarding or guarding another person (often younger).","Это не мой термин, это термин, используемый для описания случаев, когда повествование или игровая механика строится вокруг центрального протагониста (обычно старше, обычно мужчина), опекающего или защищающего другого человека (часто младше).","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""опекающего"" should be ""опекуна"" to fit the grammatical context of the sentence. While understandable, it's grammatically awkward.
+```"
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.","""Отцовство"" обычно предполагает, что решением ситуации, когда фигура родителя должна заботиться или защищать ребенка или его замену, является подавляющая сила и использование этой силы для установления очень специфической формы динамики власти.","MQM annotations
+Terminology errors:
+minor: WRONG TERM/Grammatical error - ""Отцовство"" is a noun and doesn't fit as a direct translation of ""Dad-ification"", which is closer to the process of becoming a dad or adopting dad-like qualities. While it conveys a related concept, it's not a precise equivalent in this context. A more fitting term may be closer to 'опапивание' (though informal) or a descriptive phrase depending on context.
+```"
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.",Отцовство как фетиш подрывает возможность коллективных решений и зачастую полностью игнорирует или умаляет какую-либо самостоятельность ребёнка.,"MQM annotations:
+Terminology errors:
+major: WRONG TERM - ""Отцовство как фетиш"" doesn't accurately capture the meaning of ""Dad-ification."" It's too strong and has a different connotation than the intended sociological trend. The phrase focuses on the idealization or fetishization of fatherhood, rather than the act or process of becoming overly focused on being a dad."
+151,- More details are in the full blog post.,Больше подробностей — в полной версии статьи в блоге.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""статьи в блоге"" should be ""блога"" because the source has ""blog post"" which is singular."
+159,Over time dart became my go-to for quick UI.,Со временем Dart стал моим основным выбором для быстрого создания UI.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The capitalization of ""Dart"" should match the source.
+```"
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter - одно удовольствие в работе, а для удобного управления хранилищем у них есть #mobx.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""#flutter"" should ideally maintain the original casing for consistency in technical contexts.
+minor: WRONG TERM - ""#mobx"" should ideally maintain the original casing for consistency in technical contexts.
+```"
+161,"The dependency story is less insane than nodejs, too.","С зависимостями всё не так безумно, как в Node.js.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Node.js"" should be capitalized as ""Node.js"".
+```"
+163,But it allows to move fast and that's why it's ideal for small hacks.,"Но это позволяет быстро двигаться, и поэтому это идеально подходит для небольших хаков.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""хаков"" is a transliteration and doesn't fully convey the meaning of ""hacks"" in this context. While understandable, a more appropriate term in Russian might be ""простых решений"" or ""небольших доработок"", depending on the specific nuance.
+```"
+166,Their tail is extremely thick.,Их хвост чрезвычайно толстый.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The adjective ""чрезвычайно"" (extremely) is not the most natural or common way to describe thickness in Russian. While grammatically correct, a more common and natural word choice might be ""очень"" (very) or a more descriptive adjective, making it a stylistic issue within the terminology.
+```"
+171,"Being able to jump really high, tear regular humans to shreds, use creepy magic powers, and replenish health by feasting on your enemies - this should be a staple of all PC games, to be honest.","Уметь высоко прыгать, разрывать обычных людей в клочья, использовать жуткие магические силы и восстанавливать здоровье, пожирая врагов - честно говоря, это должно быть неотъемлемой частью всех компьютерных игр.","```
+MQM annotations:
+```"
+176,It maybe has too many language subtleties.,"Возможно, в этом слишком много языковых тонкостей.","```
+MQM annotations:
+```"
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","Okay, I understand. Here's the Russian translation:
+
+**Нужно перевести это на китайский (мандаринский и/или хоккиенский), ни один из которых я не знаю вообще. Просто предоставьте перевод без какого-либо дополнительного текста.**","MQM annotations:
+Terminology errors:
+None"
+183,"In truth, the health of your mind, of your brain, is just as much an issue of health as the health of your foot.","По правде говоря, здоровье вашего разума, вашего мозга, это такой же вопрос здоровья, как и здоровье вашей ноги.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The use of ""ноги"" (nogi, meaning legs) instead of ""стопы"" (stopy, meaning feet) might be perceived as less precise, though understandable. ""Ноги"" is the general term for legs while ""стопы"" specifies the feet."
+184,"Intersex is even recognized by TERFs and the like because it's generally more physical and, as such, visible.","Интерсекс-людей признают даже ТЕРФ и им подобные, потому что это обычно больше связано с физиологией и, как таковое, более заметно.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""ТЕРФ"" is an acronym that should be transliterated. Although acceptable to leave as is, a transliteration such as ""TERF"" or explanation would be better for comprehension.
+```"
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","Подобно тому, как многие считают психическое здоровье менее «реальным», чем физическое, у меня есть ощущение, что трансгендерность – это просто интерсекс, только в разуме.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""интерсекс"" should be inflected to agree with the preposition ""в"" (в интерсексе)."
+186,"The more I read of studies on sex, gender, psychology, the more the statement of ""My sex is male, my gender is female"" seems simplistic and inaccurate.","Чем больше я читаю исследований о поле, гендере, психологии, тем более упрощённым и неточным кажется утверждение ""Мой пол - мужской, мой гендер - женский"".","MQM annotations:
+Terminology errors:
+minor: WRONG TERM/wrong capitalization - ""Мой пол - мужской, мой гендер - женский"" should be ""Мой пол — мужской, мой гендер — женский"" with em dashes instead of hyphens.
+```"
+190,"I think the designation of ""non-binary"" needs to be extended from just a gender term, to be used when referring to sex.","Я думаю, что обозначение ""небинарный"" нужно расширить с гендерного термина на обозначение пола.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - ""небинарный"" should be inflected (небинарного) to agree grammatically with the preposition ""с"".
+```"
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,"Как краут-рок настроения и потусторонняя поп-музыка, радиофоническая мастерская и все такое.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""радиофоническая мастерская"" (radiofonicheskaya masterskaya) is a literal translation of ""radiophonic workshop"" and while technically correct, it sounds unnatural in Russian. A more natural and idiomatic translation would be ""студия электронной музыки"" or ""лаборатория электронной музыки"", depending on the specific context.
+```"
+210,I want to make dashboards.,Я хочу создавать дашборды.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""дашборды"" is a transliteration and might not be the most natural or preferred term in all contexts. A more natural term may exist depending on the specific field.
+```"
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""","Итак, с приближением нового рейда в #FFXIV я уже давно думаю: ""Блин, я бы хотел попробовать рейдить по-настоящему, но Party Finder звучит как бардак, и я никогда не найду статик, который бы меня взял"".","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""Party Finder"" should be translated more literally as ""Поиск группы"" or ""Система поиска группы"" in this context, rather than left as ""Party Finder"". While leaving it untranslated is understandable given the context and audience, it technically deviates from a full Russian translation.
+minor: WRONG TERM - The term ""статик"" is an acceptable transliteration of ""static"" into Russian within the FFXIV community, but a more literal translation like ""постоянная группа"" or ""слаженная группа"" would be more fitting for a general audience. The error is minor because it is understandable within the game's community.
+```"
+215,I'll make my own static!,Я сам сделаю статическое электричество!,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong term - The term ""статическое электричество"" is a more technical term, while a more colloquial phrasing might be more appropriate here.
+```"
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!","Полный людей, слишком переживающих, чтобы попытаться присоединиться к рейдовой статике, без каких-либо ожиданий быть хорошими!","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""рейдовой статике"" should be ""рейд-статике"" (or ""рейд статик""), as it's a compound noun and the original uses a hyphen.
+```"
+219,I was a voracious reader in my youth.,В юности я был ненасытным читателем.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""ненасытным"" could be argued to be more appropriately translated as ""жадным"" in this context, although ""ненасытным"" is not incorrect. It depends on the nuance desired."
+221,"But, after ~decades~ of reading next to nothing (with the exception of functional work-related non-fiction stuff and an occasional self-help book) I set a goal to read 23 books in 2023.","Но после ~десятилетий~ практически полного отсутствия чтения (за исключением функциональной, связанной с работой научно-популярной литературы и редких книг по саморазвитию) я поставил себе цель прочитать 23 книги в 2023 году.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""научно-популярной литературы"" (non-fiction stuff) is a correct translation but sounds awkward in this context. A more natural phrasing would be ""научно-популярной литературой"". While technically correct, it's a minor stylistic issue.
+```"
+226,I wanna see these companies that intermediate transactions explain to their customers how they set their percentages.,"Я хочу, чтобы эти компании, которые выступают посредниками в транзакциях, объяснили своим клиентам, как они устанавливают свои проценты.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""выступают посредниками"" could be translated in different form ""являются посредниками"".
+```"
+228,"But if Spotify has a good quarter, they will.","Но если у Spotify будет хороший квартал, то да.","```
+MQM annotations:
+```"
+229,Is it a danger to let migrants in at the southern border? I dunno.,Представляет ли опасность впуск мигрантов на южной границе? Не знаю.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The capitalization of ""Представляет ли опасность"" is incorrect in this context. Since it is not the beginning of a sentence, it should not be capitalized.
+```"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,Пусть они восстановят опустевшие и ветшающие города по всей стране. Снова.,"```
+MQM annotations:
+```"
+238,There are still going to be jobs that can be accomplished remotely for the foreseeable future.,В обозримом будущем сохранится возможность удалённой работы.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - Удалённой should be удаленная to agree with the gender of работа."
+239,Remote work is enabling.,Удалённая работа расширяет возможности.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Удалённая работа"" should be ""Удаленная работа"" (no 'ё' is preferred in modern Russian).
+```"
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.","Это позволяет людям работать в комфортных местах, а не в душных, шумных офисах.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""ду́шных"" should be ""душных"" (capitalization error).
+```"
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,"Это позволяет людям избегать долгих поездок на работу, которые отнимают время от их дня и их семей.","```
+MQM annotations:
+```"
+250,"""You are the carbon they are trying to reduce.""","Вы тот самый углерод, который они пытаются сократить.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""углерод"" should be capitalized as it is emphasized by ""тот самый"" (the very one).
+```"
+251,"So like from the beginning for all my birthdays in the past, I always had rough ones.","Короче, начиная с самого начала, все мои дни рождения в прошлом всегда были трудными.","```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM - ""дни рождения"" should be in the genitive plural form to agree with ""все мои"", resulting in ""дней рождений"".
+```"
+257,And today is already becoming a great day!,И сегодня уже становится отличным днём!,"```
+MQM annotations:
+```"
+258,Winter is 30 days away in this little part of the Great Southern World.,До зимы 30 дней в этом небольшом уголке Большого Южного мира.,"```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM/Wrong term - ""Большого Южного мира"" should likely be ""Южного полушария"" for ""Great Southern World"" to align more closely with the hemisphere concept. Although Большой Южный мир isn't strictly wrong, it's less idiomatic.
+```"
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,"Я застегну молнию на подкладке в своей велосипедной куртке - на всякий случай, если она мне понадобится внутри.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The Russian translation uses ""на подкладке"" which translates back to ""on the lining."" While not strictly incorrect, it would be more natural to say ""подкладку"" (accusative case) which directly translates to ""the lining"". The whole glossary entry must be annotated because the error changes the meaning of the whole sentence.
+```"
+273,I finally got a good dangle photo so I can be sure he's not fat.,"Наконец-то получилось хорошее фото, где всё видно, чтобы убедиться, что он не толстый.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""где всё видно"" is a bit too colloquial and vague for a neutral context. While not strictly incorrect, a more precise and less conversational option might be preferable.
+```"
+275,He's not.,Нет.,"MQM annotations:
+No errors found."
+282,2) The currency reward system has been connected.,Система вознаграждений валютой подключена.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""валютой"" should be in the dative case: ""валютой"" -> ""валюте"".
+```"
+286,"All collards, kale, chard is transplanted.","Вся листовая капуста, кале, мангольд пересажены.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""кале"" is a transliteration of ""kale"" and is acceptable, but it would be more natural to use the established Russian word ""кейл"".
+minor: WRONG TERM - The term ""мангольд"" is a transliteration of ""chard"" and is acceptable, but it would be more natural to use the established Russian word ""листовая свёкла"" or ""швейцарский мангольд"".
+```"
+287,Plans to set in salad at Penn on 6row pattern and see how that compares to broadcast seeded beds.,"Планируется высадить салат в Пенне по схеме 6 рядов и посмотреть, как это сравнится с грядками, засеянными разбросным способом.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - ""в Пенне"" should likely be translated or transliterated in a more standard way, as it seems to be a place name, but it's currently translated as if it were a common noun. The error is minor because the sentence is still understandable.
+```"
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,"Весенний горох в Гилпине всходит, так что нужно устанавливать шпалеры.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""шпалеры"" is plural, but the English source does not explicitly indicate whether one or more trellises are needed. Although semantically acceptable, a singular form like ""шпалеру"" might be more accurate to mirror the English wording. The term itself is correct.
+```"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","Нужно также засеять грядку для салата, чтобы интегрировать нарезанную зелень, в обеих случаях есть обученная команда по ирригации, подготовке грядок и пересадке, что составляет 90% навыков, не связанных со сбором урожая, просто обеспечьте это.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""грядку"" should be in plural ""грядки"" to match ""обеих случаях"" (both cases).
+```"
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","Из любопытства я старался быть непредвзятым, чтобы сравнить Google Maps и Apple Maps на моём тестовом iPhone (мой основной телефон - Android, поэтому я редко пользуюсь iPhone).","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Google Maps"" should be inflected to match the case of the word it modifies.
+minor: WRONG TERM - ""Apple Maps"" should be inflected to match the case of the word it modifies.
+```"
+299,Was it the 2012 Apple Maps disaster?,Была ли это катастрофа с Apple Maps в 2012 году?,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""катастрофа с Apple Maps"" is grammatically correct, but ""катастрофа Apple Maps"" would be more concise and natural in Russian.
+```"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","Я предвзято отношусь к выпуску мусора конечным пользователям, а Apple крупно облажалась со своими Apple Maps, когда они вышли в 2012 году.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Apple Maps"" should be склоняться in Russian to agree with the preposition ""со своими"".
+```"
+308,Not the case.,Не в этом дело.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Не в этом дело"" is a possible translation, but it's not the most direct or natural translation of ""Not the case."" A better translation might be ""Это не так."" or ""Это неправда.""
+```"
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,"Кажется немыслимым, что однажды землю могут отобрать, когда смотришь австралийские и американские СМИ, но это потому, что богатые сидят там целыми днями, убеждаясь, что ты думаешь определенным образом.","```
+MQM annotations:
+```"
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,"Землю очень легко и быстро могут забрать у вас власти в один день, если захотят это сделать.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""власти"" should be ""правительство"" to match the glossary entry for ""government"".
+```"
+316,It never made sense how ppl can keep land at the expense of others.,"Никогда не понимал, как люди могут удерживать землю за счёт других.","```
+MQM annotations:
+Terminology errors:
+Minor: WRONG TERM/Wrong Term - The phrase ""за счёт других"" implies a direct taking from others, which is not necessarily present in the original English phrase. A more neutral translation could be considered, such as ""в ущерб другим"" or a phrasing that focuses on the inequality rather than direct dispossession.
+```"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,"Меня часто поражает человеческая способность так сильно себя принижать, будучи буквально затопленными свидетельствами того, как выглядит настоящая жестокость.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The capitalization of ""себя принижать"" is inconsistent with the glossary entry.
+```"
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,"Но смягчение отчаяния из-за нашего беспорядка имеет решающее значение, потому что это дает нам больше пространства для решения окружающих нас руин.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""смягчение отчаяния"" is a literal translation of ""gentling despair"" but sounds unnatural in Russian. A more natural phrasing would be ""уменьшение отчаяния"" or ""смягчение чувства отчаяния"". Although understandable, the current translation is awkward.
+```"
+331,"Some programmers: ""Typing speed does not matter!""","Некоторые программисты: ""Скорость печати не имеет значения!""","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/capitalization - ""Скорость печати"" should be ""скорость печати"" (lowercase) as it is not the beginning of a sentence.
+```"
+334,"Not sure if this is the best approach for sharing, but I like it for now: <URL>","Не уверен, лучший ли это способ поделиться, но мне пока нравится: <URL>","```
+MQM annotations:
+```"
+338,I have been toying with this little piece on my head for a few days now.,Я уже несколько дней верчу в руках эту штучку у себя на голове.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""верчу в руках эту штучку у себя на голове"" is a more literal translation of ""toying with"" as in physically manipulating something. It misses the sense of mentally pondering or considering something, which is the more likely meaning in this context, making ""верчу в руках"" an awkward choice. It should be translated in a way that reflects that the person has been thinking about it.
+```"
+339,It is definitely more romance than filth.,"Это определённо больше романтика, чем грязь.","```
+MQM annotations:
+```"
+343,"Common, it's really not that hard.","Да ладно, это же не так уж и сложно.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Да ладно"" is a more colloquial expression that might not be appropriate in all contexts. While it captures the dismissive tone of ""Come on"", it depends on the overall tone and register required."
+345,"I wish there was a ""who to follow"" recommendation somehow.","Хотелось бы, чтобы была какая-то рекомендация ""на кого подписаться"".","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The use of ""на кого подписаться"" is acceptable but less common and slightly less natural than ""кого читать"" in this context. While technically correct as a literal translation of ""who to follow,"" it sounds slightly clunky in Russian."
+347,If you stick to the default web interface it doesn't look and feel good (imho).,"Если пользоваться веб-интерфейсом по умолчанию, то он выглядит и ощущается не очень хорошо (имхо).","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""веб-интерфейсом"" should likely be ""веб-интерфейс"" in the target segment, because the source segment is talking about ""the default web interface"", it should use nominative case in Russian, not instrumental case.
+```"
+349,"I don't know if prevention is possible, but it's worth trying.","Я не знаю, возможно ли предотвращение, но стоит попытаться.","```
+MQM annotations:
+```"
+350,"The four steps I outline are up for debate, with some progress in each:","Четыре шага, которые я описываю, являются предметом обсуждения, но по каждому из них есть некоторый прогресс.","```
+MQM annotations:
+```"
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.","Даже если он и не произнес их во время встречи с избирателями, все в Америке все равно услышат их, неоднократно, в период между сегодняшним днем и ноябрем 2024 года.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""встречи с избирателями"" is a grammatically correct translation of ""town hall"", but in this context, a more natural phrasing would be ""во время дебатов"" or similar, depending on the specific nuances of the town hall event being described. While not technically incorrect, it sounds slightly less idiomatic.
+```"
+363,"The ""MusicLM Demo"" is mildly interesting.","Демо ""MusicLM"" слегка интересно.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Демо"" should be ""Demo"" to match the original term and common usage.
+```"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,"Я занимаюсь один в своей спальне без страховщика и даже без силовой рамы, только с гантелями и штангой.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation includes ""только с гантелями и штангой"" which translates to ""only with dumbbells and barbell"" implying that these are the only equipment used, which is an addition not present in the source. This makes the entry for ""силовой рамы"" (weight rack) slightly off, though not critically."
+371,I bench press on my bed.,Я жму лёжа на своей кровати.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Я жму лёжа на своей кровати"" should be ""Я делаю жим лежа на своей кровати."" or ""Я выжимаю штангу лежа на своей кровати."", because ""жать лёжа"" is not correct in this context.
+```"
+378,I'd never seen it at the fancy grocer or any of the Italian delis.,"Я никогда не видел этого ни в шикарном бакалейном магазине, ни в итальянских гастрономах.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Grammatical error - ""бакалейном магазине"" should be ""бакалейном магазине"" (prepositional case).
+minor: WRONG TERM/Grammatical error - ""в итальянских гастрономах"" should be ""в итальянских гастрономах"" (prepositional case).
+```"
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","Будучи радикализованными здесь, мы неохотно покупаем новую FAANG-машину*.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The asterisk (*) is included within the glossary entry in both the source and target, but the translated text doesn't explain what the asterisk means in the Russian context, if anything. While not strictly incorrect, it might be helpful to provide a footnote or explanation in the Russian version as well. If the asterisk doesn't have the same significance in Russian context, it might need to be adapted."
+386,"In 1998-06 Gamefan, in relation to the long development of the first Unreal game, Jason Schrieber commented,","В Gamefan за июнь 1998 года, в связи с долгой разработкой первой игры Unreal, Джейсон Шрайер отметил:","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/inflection - The preposition ""в"" should be ""в связи"" to correctly reflect the English phrase ""in relation to."" The noun ""связи"" requires a prepositional case (в связи), not a genitive (в связи).
+```"
+387,"""A good game is only late until it ships.","Хорошая игра считается задержанной до тех пор, пока не выйдет.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Хорошая игра считается задержанной"" is a grammatically correct but stylistically awkward translation of ""A good game is only late."" While ""считается задержанной"" conveys the idea of being considered delayed, it's not the most natural way to express the sentiment in Russian. ""Хорошая игра не считается выпущенной, пока не выйдет"" would be a better option, but the current translation isn't incorrect enough to warrant a higher severity level.
+```"
+388,"A bad game is bad forever.""",Плохая игра плоха навсегда.,"```
+MQM annotations:
+```"
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",Более ранний выпуск GamePro 1997-11 содержит цитату с гораздо большей неопределенностью.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""GamePro 1997-11"" should not be translated as it is a proper noun/title of a magazine.
+```"
+402,There's areas that could use some polish.,"Есть области, которые можно было бы доработать/улучшить.","```
+MQM annotations:
+```"
+404,"Fix those minor issues, and then can we have more of these please?","Исправьте эти небольшие недочеты, и можно ли нам еще таких, пожалуйста?","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""таких"" should be inflected to agree with ""еще"" (ещё таких). The glossary entry should have considered this inflection."
+410,We visited for a couple hours on my porch.,Мы посидели пару часов на моей веранде.,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""веранде"" (veranda) might not be the most accurate translation of ""porch"" in this context. ""Porch"" can refer to different types of structures, and depending on the specific porch being described, a more accurate translation might be ""крыльцо"" (kryltso - a small porch or stoop) or ""терраса"" (terrasa - terrace/patio) if it's a larger, open area. While ""веранде"" isn't strictly incorrect, it has a slightly different connotation and could be less precise."
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","Восьмиглазые Репниды, кажется, наблюдают за тем, как вы сажаете флайер на красную почву, но они не двигаются в вашу сторону, на самом деле, они неподвижны, пока вы вылезаете из флайера и медленно направляетесь к ним.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""флайер"" is a transliteration of the English word ""flyer."" While understandable, it may not be the most appropriate or natural-sounding translation in Russian, depending on the context. A more idiomatic translation might exist, but this is a minor issue.
+```"
+421,"The ground beneath your feet begins to tremble and then shake, as if in an earthquake and you lose your footing, though the Repnids seem unaffected.","Земля под ногами начинает дрожать, а затем трястись, словно при землетрясении, и вы теряете равновесие, хотя репнидов это, кажется, не затрагивает.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong term - The term ""репнидов"" is a transliteration and should be adapted to Russian morphology (plural genitive case). It should be ""репнидов"".
+```"
+422,The rock beneath you gives way suddenly.,Земля под тобой внезапно уходит из-под ног.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Земля"" is too general a term compared to ""rock"". While not critically impacting comprehension, it is not the most accurate term in this context.
+```"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","Конец быстр: несколько пар клыков впрыскивают свой смертельный яд, и воздух Дискры отравляет твои легкие.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Дискры"" should be in the genitive case: ""Дискры""."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.","Вы решаете, что возобновление контакта было бы опасно, и возвращаетесь к своему флаеру, но этот опыт прояснил ваш разум, который был смущен с тех пор, как вы прыгнули в будущее.","```
+MQM annotations:
+```"
+434,Note that you have used up another polybdenum rod as you jump.,"Обратите внимание, вы использовали еще один полибденовый стержень во время прыжка.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""полибденовый"" should be ""полимолибденовый"" to match the glossary entry for ""polybdenum.""
+```"
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,"Я нашла неравномерно спряденую серебристо-серую пряжу, в основном тонкую, с узелками.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""с узелками"" is a grammatically valid translation of ""with lumps"", but it is a less common and potentially less precise term than alternatives that specify the *type* of lump, relevant in yarn description. The term is not incorrect, but could be improved for context."
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,Я планирую смешать это с тонким сиренево-фиолетовым меланжевым хлопком.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""меланжевый хлопок"" The term ""меланжевый"" is generally accepted, but ""variegated"" in this context usually refers to a color effect, which can also be expressed using ""пестрый"" or ""разноцветный"" depending on the specific effect intended. Therefore, while not strictly incorrect, ""меланжевый"" isn't the most precise translation.
+```"
+449,"I hit most of the classics before eighteen--though that's more a reflection of living in bumfuck nowhere, I also read the 1979 Encyclopedia Brittanica in desperation.","Я перечитал большинство классики до восемнадцати, хотя это скорее отражение жизни в глухой заднице. От отчаяния я даже прочитал ""Британскую энциклопедию"" 1979 года.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Британскую энциклопедию"" should be ""Британской энциклопедии"" (genitive case) to agree with the verb ""прочитал.""
+
+```"
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.","И это при том, что последние две ночи я спал здесь не так хорошо, как дома, и немного выматываюсь из-за #СЭХТ из-за простого нахождения в незнакомой обстановке, где мне сложнее регулировать свою активность и приходится запоминать, где что находится.","MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The abbreviation ""#СЭХТ"" is not appropriate in this context. While it's technically the Russian abbreviation for ME/CFS, it sounds unnatural and is not commonly used in casual conversation like in the source text. A more natural translation would be ""чувствую себя немного хуже из-за ME/CFS""."
+454,Humanity is out in 5 days.,Человечество выходит через 5 дней.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong term - The translation of ""Humanity"" as ""Человечество"" is generally correct. However, without further context, it's impossible to determine if it's the best fit. It's a bit formal.
+```"
+457,I like it but will it be able to attract an audience of the right players?,"Мне нравится, но сможет ли это привлечь аудиторию подходящих игроков?","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - ""подходящих игроков"" should be ""целевых игроков"" or similar depending on glossary definition of ""right players"". While ""подходящих"" is not incorrect, it isn't the most natural or common way to translate ""right"" in this context.
+```"
+463,Came home on my lunch break to see this sitting outside uwu.,"Пришёл домой в обеденный перерыв и увидел это, стоящее на улице uwu.","```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The ""uwu"" should either be transliterated or translated. Keeping it in the original form may not be suitable for all Russian readers and could be considered a style issue.
+```"
+467,Was it overly cute to the point of being twee?,Было ли это чрезмерно мило до приторности?,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""приторности"" is not the most accurate translation of ""twee"" in this context. While it captures the excessive sweetness, ""twee"" also encompasses a cloying, precious, and overly sentimental quality. A better alternative might be ""слащавости"" or a similar term that better conveys the specific nuance of ""twee""."
+474,Did she owe someone money?,Она кому-то должна была денег?,"```
+MQM annotations:
+```"
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.",Хорошая критика нужна для быстрого исправления проблемы и не направлена на ваши способности.,"```
+MQM annotations:
+```"
+487,But for strong and firm future growth.,Но для уверенного и устойчивого будущего роста.,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""уверенного"" should be ""уверенного"" to agree with the gender of the noun it modifies, ""роста"".
+```"
+489,"She was on her way to the wall, he was coming off duty.","Она шла к стене, он заканчивал смену.","```
+MQM annotations:
+```"
+493,One block-printed word.,"Одно слово, напечатанное с помощью техники блочной печати.","```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM/None - ""с помощью техники блочной печати"" is too verbose. A more concise translation like ""блочной печатью"" would be better.
+```"

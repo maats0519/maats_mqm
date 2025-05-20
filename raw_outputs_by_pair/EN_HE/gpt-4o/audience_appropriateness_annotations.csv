@@ -1,0 +1,961 @@
+index,original,translated,audience_appropriateness_annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.","עבורי, זו הנחה די גדולה כי היא יוצרת את חלון התצוגה רק באמצעות אובייקט Direct3D, ולא אובייקט Direct3D3.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+3,"Now, I get that in practice, IDirectXObject2 is typically a proper superset of IDirectXObject, with no changed function signatures, and new methods only added to the end.","עכשיו, אני מבין שבפועל, IDirectXObject2 הוא בדרך כלל על-קבוצה נכונה של IDirectXObject, ללא שינוי חתימות פונקציות, ורק שיטות חדשות נוספות בסוף.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+The translation from English to Hebrew does not contain any audience appropriateness errors. The content is culturally and linguistically appropriate for the intended Hebrew-speaking audience."
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","נניח לצורך הדיון שהמדע לפחות בחלקו מורכב מרשימות של הצהרות עובדתיות אובייקטיביות על העולם, נכונות ללא קשר לכל תיאוריה שהן עשויות לתמוך בה.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","הניסויים לא יוצרים את העובדות בקריאה זו, אך הבחירה באילו ניסויים לערוך שולטת באילו עובדות מתגלות.","```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation from English to Hebrew does not contain any audience appropriateness errors. The content is culturally and linguistically appropriate for the target audience, and there are no issues with culture-specific references or wrong language variety."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.","כמה עובדות, למשל על חלקיקים תת-אטומיים, יכולות לנבוע רק מניסויים שאפשריים רק בקפיטליזם, משום שהם דורשים יותר מדי משאבים, יותר מדי ארגון, יותר מדי כפייה, כדי להצליח בדרך אחרת.","```
+MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```
+
+The translation from English to Hebrew does not contain any audience appropriateness errors. The content is culturally and linguistically appropriate for the target audience."
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,זהו תיאור קצר מאוד של טיעון סביר לפיו תיאוריות של קפיטליזם המשפיעות על התוכן הממשי של המדע עולות בקנה אחד עם תיאוריות הטוענות לקיומם של עובדות מדעיות אובייקטיביות.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation from English to Hebrew does not contain any audience appropriateness errors. The content is culturally and linguistically appropriate for the Hebrew-speaking audience, and there are no issues with cultural references or language variety."
+13,Going to be my first project car.,יהיה רכב הפרויקט הראשון שלי.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: culture-specific reference - The concept of a ""project car"" may not be immediately understood by all Hebrew speakers, as it is a term commonly used in car enthusiast communities to refer to a vehicle that is purchased with the intention of modifying or restoring it as a hobby. This term may require additional context or explanation for clarity.
+```"
+14,Picking this up this weekend.,אאסוף את זה בסוף השבוע.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+16,Already on coil overs and lowered ride height.,כבר על קוילאוברים והנמכת גובה נסיעה.,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""coil overs"" is a technical term related to car suspension systems and may not be widely understood by a general Hebrew-speaking audience without additional context or explanation.
+[Minor]: no-error
+```"
+20,#Venting into the Fediverse time.,#משחרר קיטור לפדיברס זמן.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""Fediverse"" is a specific reference to a decentralized social network that may not be widely recognized or understood in Hebrew-speaking cultures. It may cause confusion for the target audience if they are not familiar with this concept.
+```"
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,בן הזוג ואני הלכנו לחנות המשקאות הערב לקנות כמה בירות ובקבוק שמפניה.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""bub"" in the source refers to ""bubbly"" or ""champagne"" in a colloquial manner. The translation uses ""שמפניה"" (champagne), which is correct, but the casual tone of ""bub"" is lost, potentially affecting the cultural tone for the target audience.
+```"
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","כשהלכנו לשלם, הקופאית היא אישה טרנסג'נדרית די ברורה.","```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The phrase ""די ברורה"" (fairly obvious) might not be culturally sensitive or appropriate when describing a trans woman, as it could be perceived as reducing a person's identity to their appearance. A more culturally sensitive translation could avoid emphasizing the visibility of the cashier's transgender identity.
+```"
+27,And I said her nails looked cool.,ואמרתי שהציפורניים שלה נראות מגניבות.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,החיוך של ההקלה על פניה היה תחושה נהדרת אבל העובדה שהיא הייתה מפוחדת קודם פשוט חרא ואני שונא את זה.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [Culture-specific Reference] - The use of the term ""פשוט חרא"" (simply shit) in Hebrew may be considered more vulgar or offensive than the English equivalent ""FUCKING SUCKS,"" which can be perceived as less harsh in certain contexts. This could disrupt the intended cultural tone for a Hebrew-speaking audience.
+```"
+33,It takes the state's governor.,זה לוקח את מושל המדינה.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: culture-specific reference - The phrase ""It takes the state's governor"" is translated literally, which may not convey the intended meaning or cultural context to a Hebrew-speaking audience. The phrase could imply a specific cultural or political nuance that is not captured in the translation.
+```"
+38,"In this work, based on a variant of the classical Lewis (1969) signaling model, we explore the conditions for the emergence of context-dependent communication in a situated scenario.","בעבודה זו, המבוססת על גרסה של מודל האיתות הקלאסי של לואיס (1969), אנו בוחנים את התנאים להופעת תקשורת התלויה בהקשר בתרחיש ממוקם.","```
+MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```
+
+The translation provided does not contain any audience appropriateness issues. The text is culturally and linguistically appropriate for a Hebrew-speaking audience, maintaining the intended meaning and context of the original English source."
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","במקביל, אנו חוקרים את התנאים הסביבתיים והיכולות הקוגניטיביות המאפשרים הבהרת הקשר של משמעויות סמלים.","```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""הבהרת הקשר"" (clarification of context) might not fully convey the nuanced meaning of ""contextual disambiguation"" in a scientific or academic context, which could lead to a slight misunderstanding for a specialized audience.
+```"
+41,"We show that environmental constraints on the receiver's referent choice can be unilaterally exploited by the sender, without disambiguation capabilities on the receiver's end.","אנו מראים כי מגבלות סביבתיות על בחירת המושא של המקבל יכולות להיות מנוצלות באופן חד-צדדי על ידי השולח, ללא יכולות הבהרה מצד המקבל.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+The translation from English to Hebrew does not contain any audience appropriateness errors. The content is culturally and linguistically appropriate for the target audience."
+46,"Ashanti Development has been working with an ever-expanding number of communities in the Ashanti region of Ghana for approaching 20 years, engaging with communities and providing support with water and sanitation, education, healthcare, tree planting and farming.","ארגון פיתוח אשנטי עובד עם מספר הולך וגדל של קהילות באזור אשנטי בגאנה במשך קרוב ל-20 שנה, תוך מעורבות עם הקהילות ומתן תמיכה במים ותברואה, חינוך, בריאות, נטיעת עצים וחקלאות.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+47,Communities gain the knowledge to embed and support their own development.,קהילות רוכשות את הידע לשלב ולתמוך בפיתוח שלהן.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: WRONG LANGUAGE VARIETY - The translation uses the term ""לשלב"" (to integrate), which is more commonly used in Modern Hebrew. However, for a more formal or traditional audience, a term like ""להטמיע"" (to embed) might be more culturally appropriate.
+```"
+52,Photos from my visit to Ghana in 2011.,תמונות מהביקור שלי בגאנה ב-2011.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+55,They won't allow me to tell them the address it's going to and who is shipping it.,הם לא יאפשרו לי להגיד להם לאן זה נשלח ומי שולח את זה.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+58,The next morning and I can't get past Chris Licht's disgraceful pretense of public service journalism on CNN last night.,למחרת בבוקר ואני לא יכול להתגבר על ההעמדת הפנים המבישה של כריס ליכט בעיתונות שירות ציבורי ב-CNN אמש.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.","זה היה שערורייה, כמו פסטיבל אנטי-דמוקרטי סמלי של שקרים וטענות מ-6 בינואר, שהתקיים בהרס עצמי על ידי התקשורת האמריקאית.","```
+MQM annotations:
+audience appropriateness error:
+Major: culture-specific reference - The reference to ""Jan 6"" may not be immediately understood by a Hebrew-speaking audience unfamiliar with the specific events of January 6, 2021, in the United States. This could lead to confusion or a lack of context for the intended meaning.
+```"
+60,THE SHAMEFUL AUDIENCE.,הקהל המביש.,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""THE SHAMEFUL AUDIENCE"" may not carry the same cultural connotations or impact in Hebrew as it does in English. The translation ""הקהל המביש"" might not fully convey the intended tone or cultural nuance of the original phrase.
+```"
+61,Licht AGREED to an all Republican audience!,ליכט הסכים לקהל שכולו רפובליקנים!,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+``` 
+
+In this case, the translation from English to Hebrew is culturally appropriate and does not contain any audience appropriateness errors. The translation accurately conveys the meaning of the source text without introducing any cultural misunderstandings or inappropriate content for the target audience."
+63,There's a story to be reported there.,יש שם סיפור לדווח עליו.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+64,The ratings--seeking delusional irresponsibility of it all.,החוסר אחריות ההזייתי לשם הרייטינג של כל זה.,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [culture-specific reference] - The phrase ""החוסר אחריות ההזייתי לשם הרייטינג"" may not fully capture the cultural nuance of ""ratings--seeking delusional irresponsibility"" as understood in English, potentially leading to a slight loss of cultural context for Hebrew speakers.
+```"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","יש לי מרתף עם הרבה טיוטות, מה שבעצם אומר שאני יכול לקבל הרבה מכרסמים שמוצאים בו מקלט.","```
+MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The Hebrew translation ""מרתף עם הרבה טיוטות"" translates back to ""basement with a lot of drafts,"" which is a literal translation of ""drafty basement."" However, the word ""טיוטות"" is more commonly understood as ""drafts"" in the context of documents or writing, rather than air drafts. This could confuse the target audience as it does not convey the intended meaning of a basement with air drafts, which is more likely to attract rodents.
+```"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.","לבסוף נמאס לי מהשגרה הזו אתמול בלילה, ניקיתי את כל המלכודות מחמאת בוטנים והדבקתי פיסטוק עליהן עם דבק חזק.","```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The use of ""superglued"" translated as ""הדבקתי עם דבק חזק"" may not fully convey the specific cultural context of using ""superglue"" as a humorous or exaggerated action in Hebrew, which might slightly detract from the intended tone.
+```"
+76,But they also cut grants and tax credits that encourage more business activity.,אבל הם גם קיצצו במענקים ובזיכויי מס שמעודדים פעילות עסקית נוספת.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: WRONG LANGUAGE VARIETY - The translation uses the term ""זיכויי מס"" which is more common in Israeli Hebrew. Depending on the intended audience, a different term might be more appropriate if the target audience is not familiar with Israeli Hebrew terminology.
+```"
+77,"I own a business. It's successful in spite of the provincial government, not because of it.","אני בעל עסק. הוא מצליח למרות הממשלה המחוזית, לא בזכותה.","```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The term ""provincial government"" may not directly translate to a culturally equivalent concept in Hebrew, as the structure and terminology of government can vary between regions and cultures. The translation might not fully convey the intended political nuance to a Hebrew-speaking audience.
+```"
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","זה נכון גם עכשיו כש-goatse.cx איננו, אם כי זו הייתה תחרות צמודה לתחתית בין goatse ובין, נאמר, khou.com, שם ניסיתי לצפות בסרטון שוונדי שלחה לי.","```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The reference to ""goatse.cx"" is a specific cultural reference that may not be understood or appropriate for all Hebrew-speaking audiences, as it refers to a notorious shock site that might not be widely recognized or suitable for all cultural contexts.
+```"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,קנה כמה מדבקות פגוש שהן נגד טראמפ והדבק אותן בכל מקום.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""plaster them all over"" may not culturally resonate or be interpreted in the same way in Hebrew, as it suggests a level of activism or protest that might not align with cultural norms or expressions in the target audience's context.
+```"
+95,Yell back at those who would try to talk over us.,צעק בחזרה על אלה שינסו לדבר מעלינו.,"```
+MQM annotations:
+audience appropriateness error:
+Major: Culture-specific Reference - The phrase ""צעק בחזרה"" (yell back) might be perceived as aggressive or confrontational in certain cultural contexts, which may not align with the intended tone of assertiveness without aggression in the original English text.
+```"
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,זה לא מקובל חברתית לצאת בציבור או למהר לאנשים כשאתה משתעל ומפיץ ליחה.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""coughing up a mucus storm"" is a metaphorical expression that may not translate well culturally into Hebrew, potentially causing confusion for the target audience.
+```"
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,אני חוזר. זה לא מקובל חברתית להפיץ את סערת הריר של הקורונה שלך בכל מקום!!!,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The phrase ""covid mucus storm"" is a metaphorical expression that may not be culturally or linguistically familiar to the Hebrew-speaking audience, potentially causing confusion.
+```"
+106,Mio knows that sorrow is life's constant companion.,מיו יודעת שהעצב הוא בן לוויה קבוע של החיים.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","לאחר 4,000 של מצוקה, יל מוצאת את עצמה במקום של אהבה ויש לה רגשות עזים שהיא לא יודעת מה לעשות איתם, אז יש הרבה משניהם.","```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+Explanation: The translation from English to Hebrew does not contain any audience appropriateness errors. The content is culturally and linguistically appropriate for the target audience, with no unusual or inappropriate references that could cause confusion or a sense of non-belonging."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,הפיאסקו של אתמול עם #מנגו_אידיוט היה פיאסקו מזעזע.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The term ""#MangoMoron"" is a culture-specific reference that may not be understood by the Hebrew-speaking audience. The translation retains the hashtag and term without adaptation or explanation, which could lead to confusion.
+```"
+111,"Which cable news ""executive"" made the call to give the fat, lying criminal this much air-time?","איזה ""מנהל"" חדשות בכבלים קיבל את ההחלטה לתת לפושע השמן והשקרן כל כך הרבה זמן שידור?","```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The phrase ""fat, lying criminal"" may be culturally sensitive and offensive. While it is directly translated, it may not be appropriate for all audiences in the Hebrew-speaking context, as it can be perceived as disrespectful or inflammatory.
+```"
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","כשהמכונית משתנה, כך גם ארני, שהביטחון החדש שלו הופך ליהירות מאחורי ההגה של יופיו האקזוטי.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: CULTURE-SPECIFIC REFERENCE - The phrase ""exotic beauty"" in the source text may not have the same cultural connotation in Hebrew. The translation ""יופיו האקזוטי"" might not fully capture the intended nuance of the original phrase for the Hebrew-speaking audience.
+```"
+118,Codleo is one of the best Salesforce Partner offering best Salesforce services tailored to your company needs.,קודלאו היא אחת השותפות הטובות ביותר של Salesforce המציעה את שירותי Salesforce הטובים ביותר המותאמים לצרכי החברה שלך.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,אחד החלקים המטורפים ביותר בכך שהשכנים שלי הפכו נגדי הוא לחשוב על כמה מאמץ זה דורש להיות עוין.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+124,"Forget me, fine.","שכח אותי, בסדר.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+125,"Ignore me, fine.","התעלם ממני, בסדר.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+129,Slamming a door in my face takes effort.,לטרוק דלת בפרצופי דורש מאמץ.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+The translation ""לטרוק דלת בפרצופי דורש מאמץ"" is culturally and linguistically appropriate for a Hebrew-speaking audience. There are no issues with cultural references or language variety that would cause confusion or a sense of non-belonging."
+133,That vessel is off-limits.,הכלי הזה אסור לגישה.,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```
+
+The translation ""הכלי הזה אסור לגישה"" is appropriate for the target audience in terms of cultural and linguistic context. There are no audience appropriateness issues in this translation."
+137,But another individual often flies aboard that ship.,אבל אדם נוסף לעיתים קרובות טס על הספינה ההיא.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+138,If he were to die... the consequences would be... significant.,אם הוא היה מת... ההשלכות היו... משמעותיות.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"הנה קורס התרסקות (קצת יותר ארוך מאורך ציוץ) למה שאני מתכוון ב""הפיכת אבא"":","```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The term ""dad-ification"" is a culture-specific concept that may not be fully understood by the Hebrew-speaking audience without additional context or explanation.
+```"
+142,The Last of Us is an easy and canonical example of dad-ification.,האחרונים שבינינו הוא דוגמה פשוטה וקנונית להפיכת דמות אב.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""dad-ification"" is a culture-specific concept that may not be fully understood by a Hebrew-speaking audience without additional context or explanation.
+```"
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.",הפיכת האב לשלטון שוחקת את האפשרות לפתרונות קהילתיים ולעיתים קרובות מתעלמת לחלוטין או מחלישה כל סוכנות שיש לילד.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""Dad-ification"" is a culture-specific concept that may not be directly understood in Hebrew without additional context or explanation.
+```"
+146,"In this way, Dad-ification is a stand in for a lot of neoliberal ideals; especially ideas like bootstrapping and self-sufficiency as being an ultimate goal/indicator for success.","בדרך זו, הפיכת אבא היא תחליף להרבה אידיאלים ניאו-ליברליים; במיוחד רעיונות כמו הסתמכות עצמית והיכולת להצליח בכוחות עצמך כיעד/מדד להצלחה.","```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The term ""Dad-ification"" is a culture-specific concept that may not be readily understood by a Hebrew-speaking audience without additional context or explanation.
+```"
+148,- We send out notifications when airfare goes on sale.,אנו שולחים התראות כאשר מחירי הטיסות יורדים.,"```
+MQM annotations:
+audience appropriateness error:
+Major: CULTURE-SPECIFIC REFERENCE - The translation uses ""כאשר מחירי הטיסות יורדים"" (when airfare prices drop), which may imply a broader context than just sales notifications. The original intent of notifying about sales is not fully captured, potentially confusing the audience about the nature of the notifications.
+```"
+150,"- We don't sell tickets, or charge a subscription.",- אנחנו לא מוכרים כרטיסים או גובים מנוי.,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [WRONG LANGUAGE VARIETY] - The term ""מנוי"" is more commonly used in Modern Hebrew, while ""דמי מנוי"" might be more appropriate for certain audiences to denote a subscription fee.
+```"
+154,"Yet, unimaginable fear, terror and displacement have left them with the invisible scar of trauma.","ובכל זאת, פחד בלתי נתפס, אימה ועקירה הותירו בהם את הצלקת הבלתי נראית של הטראומה.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+159,Over time dart became my go-to for quick UI.,עם הזמן דארט הפך להיות הבחירה שלי ל-UI מהיר.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: CULTURE-SPECIFIC REFERENCE - The term ""דארט"" (Dart) may not be immediately recognized by all Hebrew-speaking audiences as a programming language or framework for UI development. Providing additional context or explanation could improve cultural appropriateness.
+```"
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter זה תענוג לעבוד איתו, ויש להם #mobx לניהול חנויות בקלות.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+161,"The dependency story is less insane than nodejs, too.",סיפור התלות פחות מטורף מאשר ב-nodejs.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: CULTURE-SPECIFIC REFERENCE - The term ""nodejs"" is a technical term that may not be familiar to all Hebrew-speaking audiences, especially those not involved in software development or IT.
+```"
+162,"Of course flutter sucks really bad when it comes to behaving like a good native app would (anywhere, really. Even flutter web target sucks).","כמובן שפלאטר גרוע מאוד בכל הנוגע להתנהגות כמו אפליקציה מקורית טובה (בכל מקום, באמת. אפילו היעד של פלאטר ווב גרוע).","```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The use of ""פלאטר"" (Flutter) may not be universally recognized among all Hebrew-speaking audiences, especially those unfamiliar with software development or technology terms. However, this is a minor issue as the term is a proper noun and widely used in tech contexts.
+```"
+182,Because it happens in the mind and seems less tangible than physical health.,מכיוון שזה קורה במחשבה ונראה פחות מוחשי מאשר בריאות פיזית.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","באותו אופן שבו בריאות הנפש נתפסת כפחות ""אמיתית"" מבריאות הגוף על ידי רבים, אני מרגיש שבמידה מסוימת להיות טרנס זה כמו להיות אינטרסקס של הנפש.","```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""intersex of the mind"" may not be culturally or conceptually clear to a Hebrew-speaking audience, as it relies on specific cultural understandings of gender and mental health that may not directly translate.
+```"
+188,"I feel that to be trans is to be ""biologically non-binary"".","אני מרגיש שלהיות טרנס זה להיות ""ביולוגית לא בינארי"".","```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [Culture-specific Reference] - The concept of ""biologically non-binary"" may not be fully understood or accepted in all cultural contexts within the Hebrew-speaking audience. The translation retains the English phrase in quotes, which might not convey the intended meaning clearly to all readers.
+```"
+198,"(And also: The Web is now largely a Google thing, unfortunately)","(וגם: הרשת היא עכשיו בעיקר דבר של גוגל, למרבה הצער)","```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [culture-specific reference] - The phrase ""דבר של גוגל"" (thing of Google) might not fully convey the cultural nuance of ""a Google thing"" as understood in English, which implies a broader cultural dominance or influence.
+```"
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,"בנוסף, אנא הימנע מלספר לי שאפליקציות של גוגל/פלאטר גרועות ב-iOS וב-macOS.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+200,Cross platform is hard if you want to do it well.,פלטפורמות חוצות זה קשה אם אתה רוצה לעשות את זה טוב.,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+202,Thank you to those people who have downloaded the latest update to Leasey.,תודה לאנשים שהורידו את העדכון האחרון ל-Leasey.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+203,A few very small difficulties have come to light.,כמה קשיים קטנים מאוד התגלו.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: audience_appropriateness/error_subcategory - None
+[Major]: audience_appropriateness/error_subcategory - None
+[Minor]: audience_appropriateness/error_subcategory - None
+```"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,אני לא יודע בדיוק למה המוח שלי לא מצליח להבין את זה; יכול להיות שהכלים פשוט כל כך רחבים ומעורפלים שהמוח שלי פשוט נתקע בגלל 'יותר מדי אפשרויות'.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""hardlocks"" is a technical term that may not be familiar to all Hebrew-speaking audiences, potentially causing confusion.
+```"
+211,Grafana looks pretty.,גרפנה נראית יפה.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+218,...And that's how I found myself having to sort out a raid group roster.,...וכך מצאתי את עצמי צריך לסדר רשימת קבוצה לפשיטה.,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""raid group roster"" is a gaming-specific reference that may not be familiar to all Hebrew-speaking audiences, potentially causing confusion for those not familiar with gaming terminology.
+```"
+220,"Then, life crushed my soul and I lost all my passion for fiction and great storytelling.","ואז, החיים ריסקו את נשמתי ואיבדתי את כל התשוקה שלי לסיפורת ולסיפור סיפורים גדולים.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+The translation from English to Hebrew does not contain any audience appropriateness errors. The cultural context and linguistic expressions are appropriate and understandable for the target audience."
+222,I'm now on book # 31 and it's only May.,אני עכשיו בספר מספר 31 ורק מאי.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+224,I haven't really achieved anything.,לא באמת השגתי שום דבר.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+The translation from English to Hebrew is culturally appropriate and does not contain any audience appropriateness errors. The phrase ""לא באמת השגתי שום דבר"" is a direct and culturally neutral translation of ""I haven't really achieved anything,"" and it is suitable for the intended audience."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,תנו להם לשקם את הערים החלולות והמתפוררות ברחבי המדינה.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+233,Deport the white supremacists.,לגרש את העליונות הלבנה.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: culture-specific reference - The translation ""לגרש את העליונות הלבנה"" translates to ""Deport the white supremacy,"" which is not an accurate representation of the source phrase ""Deport the white supremacists."" The term ""עליונות לבנה"" refers to the concept of white supremacy rather than individuals who are white supremacists. This could lead to confusion or misinterpretation for the target audience.
+```"
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""","נמאס לי מהכותרות שטוענות ש""עבודה מרחוק מתה."" או ש""עבודה מרחוק הייתה ניסוי כושל.""","```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""Remote work is dead"" and ""Remote work was a failed experiment"" are translated literally. While the translation is accurate, the cultural context of discussing remote work as a ""failed experiment"" might not resonate the same way in Hebrew-speaking cultures, where the discourse around remote work might differ slightly in tone or emphasis.
+```"
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,"הכל קליקבייט, אבל זה מדאיג אותי לגבי המנהלים והבכירים שקוראים את המאמרים האלה.","```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""קליקבייט"" (clickbait) is a direct transliteration from English and may not be fully understood by all Hebrew speakers, particularly those who are not familiar with internet jargon.
+```"
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,זה מאפשר לאנשים להימנע מנסיעות ארוכות שגוזלות זמן מהיום שלהם ומהמשפחות שלהם.,"```
+MQM annotations:
+Audience Appropriateness Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation from English to Hebrew is appropriate for the target audience, with no cultural or linguistic issues detected. The content is clear and culturally relevant, maintaining the intended meaning without any inappropriate references or language variety issues."
+243,To just ignore these facts is wrong.,להתעלם מהעובדות הללו זה לא נכון.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",פארקר התייחסה להפלות ולנטייתן של נשים עירוניות מודרניות לדחות את הבאת הילדים לטובת הקריירה שלהן.,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""הפלות"" (abortions) may be a sensitive topic in certain cultural contexts and could be perceived differently by various audiences. However, it does not significantly impede understanding or cause major cultural misunderstandings in this context.
+```"
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,הוא גם טוען כי המפלגה הדמוקרטית החדשה והפרוגרסיבים רוצים לדלל את האוכלוסייה למען איכות הסביבה.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The translation uses ""המפלגה הדמוקרטית החדשה"" (the New Democratic Party), which is a specific political party in Canada. If the target audience is not familiar with Canadian politics, this reference may not be understood or may cause confusion.
+```"
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,"בכל פעם שמאי היה מגיע, חששתי לנסות לחגוג את יום ההולדת שלי.","```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The translation uses ""שמאי"" (Shamai) which could be interpreted as a name rather than the month ""May,"" potentially causing confusion for Hebrew speakers who might not immediately associate it with the month.
+```"
+254,I fought over the years to get out of that mindset and to have better bdays.,נאבקתי במשך השנים כדי לצאת מהלך הרוח הזה ולחגוג ימי הולדת טובים יותר.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""to have better bdays"" in the source text is a casual, informal way of saying ""to celebrate better birthdays."" The Hebrew translation uses a more formal tone with ""לחגוג ימי הולדת טובים יותר,"" which may not fully capture the casual tone intended in the source. This could slightly detract from the cultural appropriateness for an audience expecting a more informal expression.
+```"
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,האם אתה יודע על דרך יעילה עבור רכיב אינטרנט להגיב להוספה/הסרה ממסמך?,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [WRONG LANGUAGE VARIETY] - The use of ""האם אתה יודע"" is more typical of formal or traditional Hebrew. A more neutral or modern phrasing might be ""האם אתה מכיר"" to better suit a broader audience.
+```"
+268,We currently use a MutationObserver hack.,אנו משתמשים כעת בהאק של MutationObserver.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""האק"" (hack) is an English loanword that may not be fully understood by all Hebrew speakers, especially those not familiar with technical jargon.
+```"
+285,Last week got a ton done and feeling much better about field items.,בשבוע שעבר הספקתי המון ומרגיש הרבה יותר טוב לגבי הפריטים בשטח.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation from English to Hebrew does not contain any audience appropriateness errors. The content is culturally and linguistically appropriate for the target audience."
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","בנוסף צריך לזרוע שורת סלט שם כדי לשלב ירקות חתוכים בשני המקומות יש צוות מאומן על השקיה, הכנת ערוגות, והשתלה שזה 90% מהמיומנויות שאינן קציר.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+290,It's 2023 and I still see people with iPhones actively avoid using Apple Maps.,זה 2023 ואני עדיין רואה אנשים עם אייפונים נמנעים באופן פעיל משימוש באפל מפות.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: WRONG LANGUAGE VARIETY - The term ""אייפונים"" is a transliteration from English. While it is commonly understood, using the Hebrew equivalent ""אייפון"" might be more culturally appropriate for a Hebrew-speaking audience.
+```"
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","סקרן, שמרתי על ראש פתוח כדי להשוות כיצד גוגל מפות ואפל מפות משווים, על מכשיר האייפון שלי לבדיקה (המכשיר היומי שלי הוא מכשיר אנדרואיד, כך שזה נדיר שאני משתמש באייפון).","```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""daily driver"" is a colloquial term commonly used in English-speaking tech communities to refer to a primary device. This term may not be as commonly understood in Hebrew, potentially leading to a slight cultural disconnect.
+```"
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,החוויה של הצורך לעקוב אחר הוראות הייתה הרבה יותר טובה ב-Apple Maps בהשוואה ל-Google Maps.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: WRONG LANGUAGE VARIETY - The use of the term ""Apple Maps"" and ""Google Maps"" in English may not be fully adapted to Hebrew-speaking audiences who might expect these terms to be transliterated or localized in some contexts. However, this is a minor issue as these brand names are widely recognized globally.
+```"
+298,Could it be that Google Maps got to market first?,האם ייתכן ש-Google Maps הגיע לשוק ראשון?,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","אני נוטה לטובת אי שחרור זבל למשתמשי הקצה, ואפל פישלו בגדול עם אפל מפות כשהיא יצאה ב-2012.","```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""אפל פישלו בגדול"" uses a colloquial expression that may not be appropriate for all audiences, as it translates to ""Apple royally messed up,"" which might be considered informal or slightly vulgar in certain contexts.
+```"
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,אבל זו האדמה שהופכת אותה לשומרת טובה של עושר כל עוד אתה חושב שהממשלה לא עומדת לשנות את המערכת שבה אנחנו חיים.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+The translation provided is appropriate for the target audience and does not contain any culture-specific references or language variety issues that would cause confusion or a sense of non-belonging."
+307,A lot of ppl think that they literally own the earth when they buy a piece.,הרבה אנשים חושבים שהם ממש בעלים של כדור הארץ כשהם קונים חלק ממנו.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The term ""literally"" in the source text is often used in English to emphasize a point, but its direct translation to Hebrew as ""ממש"" might not carry the same cultural emphasis or nuance. The translation could slightly detract from the intended tone for Hebrew speakers.
+```"
+312,The land is temporary.,הארץ היא זמנית.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+Explanation: The translation ""הארץ היא זמנית"" accurately reflects the source text ""The land is temporary"" without any cultural or linguistic issues that would affect audience appropriateness. The phrase is straightforward and does not contain any culture-specific references or language variety issues."
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,האדמה נלקחת בקלות ובמהירות על ידי הממשלה ביום אחד אם הם רוצים לעשות זאת.,"```
+MQM annotations:
+Audience Appropriateness Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation from English to Hebrew does not contain any audience appropriateness issues. The content is culturally and linguistically appropriate for the target audience, and there are no elements that would cause confusion or a sense of non-belonging."
+317,It has to be taken away one day.,זה צריך להילקח יום אחד.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+318,That's why the Chinese only allow leases.,לכן הסינים מאפשרים רק חכירות.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the Chinese"" in the source text may carry cultural connotations that could be perceived as generalizing or stereotyping when translated directly into Hebrew. It lacks the nuance that might be necessary for cultural sensitivity in the target language.
+```"
+319,They already ran out of land.,הם כבר נגמרו מהקרקע.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: culture-specific reference - The phrase ""ran out of land"" in English typically refers to a shortage of available land for use or development. The Hebrew translation ""הם כבר נגמרו מהקרקע"" is not idiomatic and may confuse the target audience as it suggests that ""they"" are somehow exhausted from the land, which is not the intended meaning.
+```"
+320,"To success, the realization of dreams, friendship, to the simple but true!!","להצלחה, להגשמת חלומות, לחברות, לפשוט אך האמיתי!!","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.","לכל המשקיעים שם בחוץ, אני מרים כוסית להצלחתכם ולהגשמת חלומותיכם.","```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [culture-specific reference] - The phrase ""raise a toast"" is a culture-specific reference that may not have the same cultural resonance in Hebrew, where toasting is less common in everyday language compared to English-speaking cultures.
+```"
+323,"And to all my friends, new and old, let us cherish the simple but true things in life that bring us joy and fulfillment.","ולכל חבריי, חדשים וותיקים, נשמור על הדברים הפשוטים אך האמיתיים בחיים שמביאים לנו שמחה וסיפוק.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+The translation from English to Hebrew does not contain any audience appropriateness errors. The message is culturally neutral and appropriate for the target audience, maintaining the intended meaning and tone of the original text."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,אני לעיתים קרובות תוהה על היכולת האנושית להיות *כל כך* קשה עם עצמנו בעודנו מוצפים בכל כך הרבה ראיות למה אכזריות אמיתית נראית.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: culture-specific reference - The phrase ""down on oneself"" in the source text is a colloquial expression that may not have a direct equivalent in Hebrew, potentially leading to a slight loss of cultural nuance in the translation.
+```"
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,אבל להרגיע את הייאוש מהבלגן שלנו זה קריטי - כי זה נותן לנו יותר מרחב להתמודד עם ההריסות שמסביב.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: CULTURE-SPECIFIC REFERENCE - The phrase ""gentling despair"" is metaphorical and may not be directly understood in Hebrew culture as it is in English. A more culturally adapted expression could enhance understanding.
+```"
+331,"Some programmers: ""Typing speed does not matter!""","חלק מהמתכנתים: ""מהירות הקלדה לא משנה!""","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+339,It is definitely more romance than filth.,זה בהחלט יותר רומנטיקה מאשר זוהמה.,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [culture-specific reference] - The term ""filth"" in the source text has been translated to ""זוהמה"" in Hebrew, which can be understood as ""dirt"" or ""grime."" While it is a correct translation, the cultural connotation of ""filth"" in English might carry a slightly different nuance, often implying something morally or socially unclean, which may not be fully captured by ""זוהמה."" This could subtly detract from the intended cultural tone.
+```"
+342,I don't agree that #Mastodon is difficult to setup.,אני לא מסכים ש-#Mastodon קשה להתקנה.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The use of the hashtag symbol ""#"" before ""Mastodon"" may not be as commonly understood or used in Hebrew as it is in English-speaking contexts, potentially leading to a slight cultural disconnect.
+```"
+343,"Common, it's really not that hard.",זה באמת לא כל כך קשה.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The use of ""Common"" in the source text is an informal and colloquial expression that may not directly translate to the same cultural tone in Hebrew. The translation could consider using a culturally equivalent expression to maintain the informal tone.
+```"
+347,If you stick to the default web interface it doesn't look and feel good (imho).,אם תדבק בממשק האינטרנט המוגדר כברירת מחדל זה לא נראה ומרגיש טוב (לדעתי).,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The use of ""imho"" (in my humble opinion) is an English internet slang that may not be as commonly recognized or used in Hebrew, potentially leading to a slight cultural disconnect.
+```"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.","אז, זה דורש קצת יותר מאמץ להיכנס לזה ואתה כנראה צריך אפליקציה טובה כדי לשפר את #UX.","```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The use of ""#UX"" may not be fully understood by all Hebrew-speaking audiences, as it is an English abbreviation for ""User Experience"" and might not be as commonly recognized in Hebrew contexts.
+```"
+353,Forecasting: anticipating harms before they happen (even if by minutes),חיזוי: צפי לנזקים לפני שהם מתרחשים (אפילו אם זה בדקות).,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,אני מתאמן לבד בחדר השינה שלי בלי שותף או אפילו מתקן משקולות.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+The translation from English to Hebrew is appropriate for the target audience and does not contain any cultural or linguistic elements that would cause confusion or a sense of non-belonging. The content is straightforward and does not include any culture-specific references or inappropriate language variety issues."
+370,Just me and a barbell with a bunch of weights.,רק אני ומוט משקולות עם ערימה של משקולות.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""a barbell with a bunch of weights"" is translated literally, which is understandable but might not fully convey the casual tone intended in the original English phrase. The Hebrew translation is technically correct, but it may lack the informal nuance present in the source text.
+```"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.","אם אנסה לחשב את המשקל המקסימלי שאני יכול להרים בחזרה אחת, ייתכן שלא יהיו לי מספיק משקולות כדי להגיע למקסימום, או לחלופין זה עלול לפצוע אותי קשה/להרוג אותי.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,מעולם לא ראיתי אמא של מישהו מכינה את זה או שזה נדחף אליי במסיבה או שראיתי את זה מופיע יחד עם הרפתקאות הכנת רטבים של מישהו או ימי אפייה.,"```
+MQM annotations:
+audience appropriateness error:
+[Minor]: [culture-specific reference] - The phrase ""saucemaking escapades"" might not be culturally familiar or resonate with Hebrew-speaking audiences, as it uses a playful and informal tone that may not translate well culturally.
+```"
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","לאחר שעברנו רדיקליזציה כאן, אנחנו מהססים לקנות מכונת FAANG חדשה.","```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The term ""FAANG machine"" may not be widely understood by the Hebrew-speaking audience as it is a specific reference to major American technology companies (Facebook, Apple, Amazon, Netflix, Google). This could lead to confusion as the term is not culturally adapted or explained in the translation.
+```"
+389,So was it Epic that originated this?,אז האם זה היה אפיק שהתחיל את זה?,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+394,Is it so ephemeral then?,האם זה כל כך חולף אז?,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+395,"Merely a ""catchphrase"" with no clear originator?","רק ""סיסמה"" ללא מחבר ברור?","```
+MQM annotations:
+audience appropriateness error:
+Minor: CULTURE-SPECIFIC REFERENCE - The term ""catchphrase"" may not have a direct cultural equivalent in Hebrew, potentially leading to a slight loss of nuance for the target audience.
+```"
+399,Have now done a full round trip on the new ICNG train.,כעת עשיתי נסיעה הלוך ושוב מלאה על רכבת ה-ICNG החדשה.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+402,There's areas that could use some polish.,ישנם תחומים שיכולים להיעזר בליטוש.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""areas that could use some polish"" is an idiomatic expression in English that may not fully convey the intended nuance to a Hebrew-speaking audience. The translation ""תחומים שיכולים להיעזר בליטוש"" is generally understandable but may lack the idiomatic subtlety of the original.
+```"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.","כלומר, היעדר מספיק פחים והיעדר שלטים שמסבירים את משמעות צבעי התאורה.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+404,"Fix those minor issues, and then can we have more of these please?","תקן את הבעיות הקטנות האלה, ואז נוכל לקבל עוד כאלה בבקשה?","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,כללים של אחד ללקוח נשארים בתוקף כשאנו מנסים להבטיח שכל מי שעומד בתור יוכל להשיג לוח.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+407,"You can buy ONE of the boards listed above, not one of each.","אתה יכול לקנות לוח אחד מהרשומים למעלה, לא אחד מכל אחד.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+409,Yesterday I had the best time with my friend and former rabbi colleague.,אתמול היה לי הזמן הכי טוב עם חברי ועמיתי לשעבר הרב.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""former rabbi colleague"" may not be fully understood in the cultural context of Hebrew-speaking audiences, as the concept of a ""rabbi colleague"" might differ in cultural significance or interpretation.
+```"
+419,#FalconGameBooks,#פלקוןספרי־משחק,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: CULTURE-SPECIFIC REFERENCE - The translation of ""FalconGameBooks"" to ""פלקוןספרי־משחק"" may not fully convey the cultural or brand-specific nuances associated with the original term ""FalconGameBooks"" to a Hebrew-speaking audience. The term ""Falcon"" might have specific connotations or branding significance that could be lost in translation.
+```"
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","בעלי שמונה העיניים נראים כצופים בך כשאתה מנחית את המעופף על האדמה האדומה, אך הם אינם נעים לעברך, למעשה הם חסרי תנועה כשאתה יוצא מהמעופף וצועד לאט לעברם.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+422,The rock beneath you gives way suddenly.,הסלע שמתחתיך מתמוטט פתאום.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+The translation from English to Hebrew is culturally appropriate and does not contain any audience appropriateness errors. The phrase ""הסלע שמתחתיך מתמוטט פתאום"" is a direct and culturally neutral translation of ""The rock beneath you gives way suddenly,"" and it does not include any culture-specific references or inappropriate language variety issues."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","הסוף מהיר, כאשר מספר זוגות של ניבים מזריקים את הארס הקטלני שלהם והאוויר של דיסקרה מזהם את ריאותיך.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+The translation from English to Hebrew does not contain any audience appropriateness errors. The content is culturally and linguistically appropriate for the target audience, and there are no instances of culture-specific references or wrong language variety issues."
+425,Nobody will ever know that you were the first human future traveller.,אף אחד לעולם לא ידע שהיית האדם הראשון שנסע לעתיד.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```
+
+The translation from English to Hebrew is culturally appropriate and does not contain any audience appropriateness errors. The content is suitable for the intended target audience without any cultural misunderstandings or inappropriate references."
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.","בעלי שמונה העיניים נראים כמתבוננים, אך הם אינם נעים לעברך, למעשה הם חסרי תנועה כשאתה הולך לאט לעברם.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+428,"You halt while still on the mound of crumbled rock and soil and speak to them, saying, 'I come in peace, as a friend.'","אתה עוצר בעודך על תל האבנים והאדמה המתפוררים ומדבר אליהם, ואומר, 'אני בא בשלום, כחבר.'","```
+MQM annotations:
+audience appropriateness error:
+Critical: None
+Major: None
+Minor: None
+```
+
+The translation from English to Hebrew does not contain any audience appropriateness errors. The content is culturally neutral and does not include any culture-specific references or inappropriate language varieties for the target audience."
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.","נראה שהם לא יכולים לשמוע אותך, לא כל שכן להבין, שכן המתרגם האוניברסלי שלך לא קולט תשובה.","```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: CULTURE-SPECIFIC REFERENCE - The phrase ""let alone"" in the source text is translated as ""לא כל שכן"" in Hebrew, which is a direct translation but might not be as commonly used or understood in everyday Hebrew conversation. This could slightly detract from the overall cultural appropriateness of the text.
+```"
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,אני מתכנן לערבב את זה עם כותנה משובחת בצבע סגול/לילך מגוונת.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: CULTURE-SPECIFIC REFERENCE - The term ""fine"" in the context of textiles may not directly translate to ""משובחת"" in Hebrew, which often implies high quality rather than the intended meaning of ""thin"" or ""delicate"" in this context. This could slightly detract from the cultural appropriateness for an audience familiar with textile terminology.
+```"
+441,But am not sure I have enough of the purple.,אבל אני לא בטוח שיש לי מספיק מהסגול.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+446,I have literally tried and dropped EVERY SINGLE ONE.,ניסיתי והפסקתי עם כל אחד ואחד מהם.,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+447,"And up until like two years ago, I had no idea until I checked my transcripts.","ועד לפני בערך שנתיים, לא היה לי מושג עד שבדקתי את התמלילים שלי.","```
+MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""transcripts"" is translated as ""תמלילים"" which can be understood as ""transcriptions"" in Hebrew, potentially leading to confusion. A more culturally appropriate term would be ""גיליונות ציונים"" (grade sheets) or ""רשומות אקדמיות"" (academic records).
+```"
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.","זה מרגש, מלחיץ, מתוח, וכל הדברים הטובים שאני אוהב בעבודה במשחקים.","```
+MQM annotations:
+audience appropriateness error:
+Minor: Culture-specific Reference - The phrase ""working in games"" might be interpreted differently in Hebrew. The translation ""עבודה במשחקים"" is correct, but the cultural context of ""working in games"" as a professional industry (video game development) might not be as immediately clear to all Hebrew speakers without additional context.
+```"
+463,Came home on my lunch break to see this sitting outside uwu.,חזרתי הביתה בהפסקת הצהריים שלי וראיתי את זה יושב בחוץ uwu.,"```
+MQM annotations:
+audience appropriateness error:
+Minor: CULTURE-SPECIFIC REFERENCE - The term ""uwu"" is an internet slang expression often used to convey a feeling of cuteness or affection. It may not be widely understood by all Hebrew-speaking audiences, potentially causing confusion.
+```"
+475,Had a recent graduate artist take some critique badly tonight.,היה לי אמן שסיים לאחרונה את לימודיו שלקח ביקורת בצורה קשה הערב.,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""take some critique badly"" is translated literally, which may not convey the same cultural nuance in Hebrew. A more culturally adapted phrase could enhance understanding.
+```"
+482,"So while composting and bloom scrolling are a wonderful reminder to look up, and be aware of life beyond the screen.",אז בזמן שקומפוסטינג וגלילת פריחה הם תזכורת נפלאה להרים את המבט ולהיות מודעים לחיים מעבר למסך.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [culture-specific reference] - The term ""bloom scrolling"" is a culture-specific reference that may not be understood by the Hebrew-speaking audience, as it is a relatively new concept related to digital detox and mindfulness, which might not have a direct equivalent or widespread recognition in Hebrew culture.
+```"
+483,It is as important to explore servers and IP addresses.,זה חשוב באותה מידה לחקור שרתים וכתובות IP.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+``` 
+
+The translation from English to Hebrew is culturally appropriate and does not contain any audience appropriateness issues. The content is straightforward and does not include any culture-specific references or language variety issues that would be inappropriate or confusing for the target audience."
+491,She did not look back.,היא לא הביטה לאחור.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,הוא חיכה עד שהיה בחושך של חדר המיטות לפני שהוציא את הפתק וקרא אותו באלומת אור שחדרה דרך וילונות ההאפלה.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+493,One block-printed word.,מילה,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+498,I'd particularly like to connect with more.,אני במיוחד רוצה להתחבר עם יותר.,"```
+MQM annotations:
+audience appropriateness error:
+Critical: no-error
+Major: no-error
+Minor: no-error
+```"
+499,Everyone with their hair on fire about CNN can thank Stephen Colbert for the hard right turn.,כולם עם השיער באש בגלל CNN יכולים להודות לסטיבן קולבר על הפנייה החדה ימינה.,"```
+MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""עם השיער באש"" (with their hair on fire) is a direct translation of an English idiom that may not be culturally appropriate or easily understood in Hebrew. It refers to someone being extremely agitated or panicked, but this imagery may not convey the same meaning in Hebrew culture.
+```"

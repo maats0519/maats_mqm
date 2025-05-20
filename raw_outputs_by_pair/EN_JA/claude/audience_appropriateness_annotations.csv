@@ -1,0 +1,478 @@
+index,original,translated,audience_appropriateness_annotation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",それが IDirect3DViewport3 を返すと推定していたことが判明しましたが、実際に実装しているのは IDirect3DViewport で、その末尾にはさらにメソッドが追加されています。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""IDirect3DViewport3"" is a technical term related to DirectX graphics programming, which may not be familiar to the general Japanese audience."
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは必ずしも当てはまるわけではない。問題のオブジェクトを作成するために使用するインターフェイスによって、状況が異なる。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""matters what interface you are using"" may not be easily understood by the Japanese audience, as it refers to a technical concept that may not be familiar to the general public."
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",仮に議論のために、科学は少なくとも部分的に、理論を支持するかどうかに関わらず真実である、客観的な事実に関する一覧表で構成されているとする。,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""for the sake of argument"" may not be a common expression in the Japanese cultural context and could be less natural or intuitive for the target audience."
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,科学的事実は理論に依存していると主張することは可能である。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""such facts exist in science"" may not be a common expression in Japanese and could be perceived as unusual or academic."
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",実験は、この読み取りの事実を作り出すのではなく、どの実験を行うかを選択することで、発見される事実を制御する。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The term ""実験"" (experiments) may not be a common or intuitive concept for the Japanese audience, as the focus on scientific experimentation may not be as prevalent in everyday discourse."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",一部の事実(例えば、サブアトミック粒子に関するものなど)は、資源、組織、強制力が十分でなければ実現できない実験からしか得られません。そのような実験は資本主義体制でなければ不可能です。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The reference to ""capitalism"" may not be easily understood or relevant for the Japanese audience, as the concept of capitalism and its relationship to scientific research may be interpreted differently in the Japanese cultural context."
+14,Picking this up this weekend.,この週末に取り上げる。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""picking this up"" may not be a common expression in Japanese culture and could be confusing for the target audience."
+16,Already on coil overs and lowered ride height.,エアサスペンションに変更し、車高を下げています。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""coil overs"" is a technical automotive term that may not be widely understood by the Japanese audience.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""エアサスペンションに変更し"" uses a more formal language variety that may not be appropriate for the context."
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べましたが、この車に関する情報があれば教えていただきたいです。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""I've done a little research"" may not be a common expression in Japanese culture, and could be perceived as slightly informal or casual."
+18,Personal experiences?,個人的な経験,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""Personal experiences"" may not be a common or natural way to express this concept in Japanese culture, and could sound slightly awkward or unfamiliar to the target audience."
+19,I know they're not fast compared,遅いと比べると、分かっています。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""遅いと比べると"" may not be a natural or common way to express the intended meaning in Japanese, as it lacks the cultural context of the English source text."
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",私はボードショーツとワイフビーターを着て、彼はタトゥーだらけで、自分で「ネオナチみたいに見える」と表現した新しい髪型をしている。,"MQM annotations:
+audience appropriateness errors:
+
+Major: culture-specific reference - The use of the term ""wife beater"" in the translation may be inappropriate or offensive in the Japanese cultural context, as it refers to a type of sleeveless undershirt associated with domestic violence.
+
+Minor: culture-specific reference - The description of the new haircut as ""making me look like a neo-nazi"" may not be well understood or have the same cultural connotations in the Japanese context."
+36,NY is the best hope for accountability,ニューヨークが説明責任の最良の希望です。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""best hope for accountability"" may not be easily understood by the Japanese audience, as the concept of ""accountability"" can have different cultural connotations."
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つシグナルを送ることに還元できないという重要な証拠がある。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""文脈に依存しない意味を持つシグナルを送ること"" may not be a common or natural way of expressing the concept of ""sending signals with context-independent meaning"" in the Japanese cultural context.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""重要な証拠がある"" could be more natural and appropriate in the target Japanese audience if expressed as ""強い証拠がある"" or ""明確な証拠がある""."
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",コンテキスト依存的なコミュニケーションは、環境特性(コンテキストの分布など)に大きく影響される、多層的な状況的現象であると提案する。,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The term ""コンテキスト"" may not be a common or easily understandable term for the general Japanese audience, and a more familiar Japanese equivalent could be more appropriate."
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒に様々なプロジェクトをサポートする6か月間を過ごせたことは幸運でした。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""alongside Nicholas"" may not be a common or natural way to refer to a person in the Japanese cultural context."
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会ったときは、特に植林や農場支援の進捗を聞いて嬉しかったです。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""chuffed"" may not be familiar to the Japanese audience and could be replaced with a more common expression."
+61,Licht AGREED to an all Republican audience!,賛成しました。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""an all Republican audience"" is a culture-specific reference that may not be easily understood by a Japanese audience, as the political landscape and party affiliations may differ significantly between the US and Japan."
+65,It can't be repeated.,それを繰り返すことはできません。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""it can't be repeated"" may not be a common or natural expression in Japanese, and could be perceived as slightly awkward or unfamiliar to the target audience."
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨晩、このルーティンに嫌気がさしたので、全てのトラップからピーナッツバターを取り除き、ピスタチオをスーパーグルーで固定しました。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""superglued a pistachio"" may not be a common or understandable practice for the Japanese audience, as the cultural context of using pistachio in this manner is not clear.
+[Minor]: WRONG LANGUAGE VARIETY - The translation uses formal language (""取り除き"", ""固定しました"") which may not align with the more casual or colloquial tone of the source text."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",私はこれまでほとんどすべての「人道的」な罠を試してきましたが、あまり成功していません。,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""fwiw"" (for what it's worth) may not be familiar to the Japanese audience."
+74,"They aren't, at least not in Alberta.",それらはそうではありません、少なくともアルバータでは。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""at least not in Alberta"" may not be easily understood by a Japanese audience, as it refers to a specific region in Canada that may not be familiar to them."
+75,Sure they cut business taxes.,はい、彼らは企業税を削減しました。,"MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""cut business taxes"" may not be a common or easily understandable concept for the Japanese audience, as the cultural context around taxation policies may differ."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",グラスゴーに彼を降ろすだけです。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""dropping him off in Glasgow"" may not be immediately clear to a Japanese audience, as the cultural context of dropping someone off at a specific location may not be as common in Japan."
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.","""グラスゴーに彼を降ろすだけです""と、チケット販売員は言った。","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""I'm just dropping him off in Glasgow"" may not be a common or natural way of expressing the idea in the Japanese cultural context, where the direct translation may sound slightly unusual."
+90,And they are truly nuts.,そして、彼らは本当にナッツです。,"MQM annotations:
+audience appropriateness error:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""they are truly nuts"" is a culture-specific idiom that may not be easily understood by the Japanese audience. A more direct translation or an explanation of the meaning would be more appropriate."
+95,Yell back at those who would try to talk over us.,怒鳴り返せ、私たちを押し黙らせようとする者たちに。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""Yell back at those who would try to talk over us"" may be perceived as too confrontational or aggressive for some Japanese audiences, who may prefer a more indirect or polite approach to addressing disagreements.
+[Minor]: WRONG LANGUAGE VARIETY - The translation ""怒鳴り返せ"" uses a more informal or colloquial language variety that may not be appropriate for all Japanese contexts, where a more formal or respectful tone may be expected."
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,私の隣人と私は同時に家に着き、私は通りを隔てた向こうから彼がCOVID-19の痰を激しく咳き上げているのが聞こえました。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""COVID-19 mucus storm"" may be considered too graphic or inappropriate for some Japanese audiences.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""痰"" (phlegm) to describe the coughing may not be the most natural or common way to express this in the Japanese context."
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,そのため私は彼を避けるために急いでアパートに入ろうとしましたが、彼はまだ私と話をするために追いついてきました。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""to chat"" may not be a common or natural way to express the intended meaning in the Japanese cultural context."
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","4,000の苦しみの後、Ylは愛の場所に自分を見出し、どうしていいかわからない大きな感情に満ちています。","MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""huge feels"" may not be culturally appropriate or easily understandable for the Japanese audience."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#マンゴーモロンとの騒動は、はなはだしい大失態でした。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the term ""#MangoMoron"" may not be understood or appropriate for the Japanese audience, as it is a culture-specific reference that could be seen as offensive or inappropriate."
+113,A cold front should arrive by the middle of next week.,来週の中旬までに寒冷前線が到着するはずです。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""middle of next week"" may not be a common way to refer to time in Japanese culture, where more specific references to days of the week or dates are typically used."
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",早朝、赤外線衛星と地上観測により、低層ストラタスと散在する<URL>の範囲が拡大していることが示されました。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""<URL>"" may not be familiar or understandable to the Japanese audience, as it is a specific reference to an English-language website."
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけ、その専門知識を活用してCRMへの投資の価値を最大化する。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""CRM"" may not be familiar to all Japanese readers and could benefit from further explanation or a more common Japanese equivalent."
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーが実装、カスタマイズ、統合、継続的なサポートを通じてあなたの事業がSalesforceのエコシステムで繁栄できるよう支援することを発見してください。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""enabling your business to thrive in the Salesforce ecosystem"" may not be easily understood by the Japanese audience, as the concept of a ""Salesforce ecosystem"" is specific to the Salesforce platform and its business context.
+[Minor]: WRONG LANGUAGE VARIETY - The translation ""発見してください"" (Hakken shite kudasai) is a more formal expression in Japanese, which may not align with the more casual tone of the source text."
+137,But another individual often flies aboard that ship.,その船に別の個人がしばしば乗っている。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""another individual"" may not be a natural or common way to refer to a person in the Japanese cultural context, where more relational or contextual terms are often used."
+142,The Last of Us is an easy and canonical example of dad-ification.,最後のわれわれは、父親化の簡単で典型的な例です。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""dad-ification"" may not be easily understood by the Japanese audience, as it is a culture-specific reference to a Western concept."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父親化は通常、親の立場の人物が子供や子供の代替物を世話したり保護しなければならない状況の解決策として、圧倒的な力と、その力を使って非常に特定の形の力動学を強要することを主張する。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Dad-ification"" may not be easily understood by the Japanese audience, as it is a culture-specific concept that may not have a direct equivalent in the target language.
+[Minor]: WRONG LANGUAGE VARIETY - The translation uses formal and technical language that may not be appropriate for the intended audience. A more conversational and accessible style would be more suitable."
+147,Here's a quick overview of how to make use of our website.,ウェブサイトの使い方の概要はこちらです。,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The term ""quick overview"" may not be a common phrase in Japanese and could be perceived as too informal or casual for the intended audience."
+148,- We send out notifications when airfare goes on sale.,航空券が値下がりした際に通知を送信します。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""when airfare goes on sale"" may not be a common expression in Japanese culture, and the translation ""航空券が値下がりした際に"" may not convey the same meaning."
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは平和で安全な環境で育つ権利がある。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""平和で安全な環境"" may not be a common way to express the concept of a ""peaceful and secure environment"" in the Japanese cultural context."
+159,Over time dart became my go-to for quick UI.,ダートは時間とともに私のクイックUIの定番になりました。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""dart"" may not be a familiar concept for the Japanese audience, as it is more commonly associated with the English-speaking culture."
+164,Echidna with amethyst and magenta spikes.,エキドナ、アメジストとマゼンタのトゲ,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""amethyst"" and ""magenta"" may not be familiar or commonly used to describe the spikes of an echidna in the Japanese cultural context."
+166,Their tail is extremely thick.,しっぽはとてもふさふさです。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""しっぽはとてもふさふさです"" may be an unusual or unfamiliar way to describe a tail in the target Japanese culture, as it uses a more colloquial and subjective term (""ふさふさ"") rather than a more neutral descriptor."
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目は梨色で、緋色のキャットアイグラスを着用しています。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""pear"" to describe the color of their eyes may not be a common or intuitive color reference for the Japanese audience.
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""scarlet cateye glasses"" may not be a familiar or common fashion item for the Japanese audience."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",愛吸血鬼,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""愛吸血鬼"" (Ai Kyūketsuki) may not be the most appropriate translation for ""everyone"" in the given context, as it specifically refers to ""vampire lovers"" or ""vampire enthusiasts"", which may not accurately represent the intended meaning."
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",現実生活では、私が何年も前に作った謎解きゲームを、私の母は好きだと言っていました。そして、ほとんどの秘密を自分で見つけ出したので、単に母親としての立場から言っているのではありませんでした。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""on her own"" may not be a common expression in Japanese culture and could be interpreted differently by the target audience."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.",我需要把这个从英语翻译成中文和福建话。,"MQM annotations:
+Accuracy Errors
+[Major]: [culture-specific reference] - The Japanese translation ""我需要把这个从英语翻译成中文和福建话"" may not be appropriate for an English-speaking audience, as it references languages (Mandarin Chinese and Hokkien) that may not be familiar to them.
+[Minor]: [wrong language variety] - The Japanese translation ""我需要把这个从英语翻译成中文和福建话"" uses the term ""中文"" (Zhongwen) which is a general term for the Chinese language, whereas the target audience may be more familiar with the term ""Mandarin"" to refer to the specific language variety."
+179,Been toying with this thought for a little while:,少し前からこの考えを遊んでいます。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""遊んでいます"" (to play with) is not a common way to express ""toying with a thought"" in Japanese and may sound unusual or informal to the target audience."
+180,"Mental health is often seen as something separate from ""regular"" health.",精神的健康は、「通常の」健康とは別のものと見なされることが多い。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""regular health"" may not be a common or well-understood concept in the Japanese cultural context, where the distinction between mental and physical health may be viewed differently."
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こるため、身体的な健康よりも目に見えにくいです。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""seems less tangible than physical health"" may not be as culturally relevant or understandable for a Japanese audience, as the concept of mental health being less tangible than physical health may not be as widely recognized in the target culture."
+194,Very much worth having a go at.,とても挑戦する価値があります。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""have a go at"" may not be a common expression in Japanese culture, and could be less natural or understandable for the target audience."
+196,Playing around a bit with Flutter.,フラッターで少し遊んでいます。,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The term ""playing around"" may not be a common or natural expression in Japanese culture and could be perceived as too casual or informal."
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",私は正直に言って、Googleのテクノロジーをベースにしてビジネスを行うのは嫌です。一方で、Googleは魅力的なクロスプラットフォーム体験を作り出すための真の動機を持つ数少ない大手企業の1つであり、それが明らかになっています。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""to be honest"" may not have the same cultural connotation in Japanese as it does in English, potentially sounding more direct or blunt.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the phrase ""it shows"" may not be a natural expression in Japanese, and a more idiomatic translation would be preferred."
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,私はそのようなコメントを控えさせていただきます。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""google/flutter apps suck on iOS and macOS"" may not be understood or resonate well with the Japanese audience, as it references a specific technical context that may not be familiar to them."
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームは、うまくやりたい場合は難しい。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""うまくやりたい場合は"" may not be a natural or idiomatic way to express the idea of ""doing it well"" in Japanese. The translation does not fully capture the nuance of the English source."
+201,I know that.,私はそれを知っています。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""私はそれを知っています"" may sound more formal or distant compared to the casual tone of the English source ""I know that."""
+202,Thank you to those people who have downloaded the latest update to Leasey.,ありがとうございます。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""Thank you to those people who have downloaded the latest update to Leasey"" may not be culturally appropriate for a Japanese audience, as the reference to ""Leasey"" is likely a culture-specific term that may not be familiar or relevant to them."
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,私の脳がそれを解き明かすことができないのはなぜかよくわかりません。ツールが非常に広範囲で曖昧であるため、選択肢が多すぎて脳がハードロックしてしまうのかもしれません。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""hardlock"" may not be a commonly understood concept for the Japanese audience, as it is a technical term more familiar in an English-speaking context."
+211,Grafana looks pretty.,グラファナはきれいです。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""Grafana"" may not be familiar to all Japanese readers, as it is a specific software product name."
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",そして新しい#FFXIV レイド層が近づいてきたので、「本格的なレイドに挑戦したいけど、パーティファインダーは大混乱そうだし、自分を受け入れてくれるスタティックは見つからないだろう」と長い間考えていました。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Party Finder"" may not be familiar to the Japanese audience and could benefit from additional context or explanation.
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""static"" (referring to a fixed raiding group) may not be commonly understood by the Japanese audience and could be clarified."
+214,"So I thought, screw it!",そうだな、構わないよ!,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""screw it"" is a colloquial English expression that may not translate well or be appropriate in the Japanese cultural context."
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",人々で溢れており、レイド固定に参加することに不安を感じているが、全く上手くできるとは期待していない。,"MQM annotations:
+Audience Appropriateness Errors
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""レイド固定"" (raid static) may not be familiar or understandable to all Japanese readers, as it is a term specific to the gaming context.
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""上手くできる"" (be good at) may sound more casual or informal than the intended tone."
+219,I was a voracious reader in my youth.,私は若い頃、貪欲な読書家でした。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""voracious reader"" may not be a common expression in Japanese culture and could be perceived as unusual or exaggerated."
+227,They're not gonna talk about this on Bloomberg!,彼らはこれについてBloombergで話すつもりはありません。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""They're not gonna talk about this on Bloomberg!"" may not be easily understood by the Japanese audience, as it references a specific media outlet (Bloomberg) that may not be as well-known or relevant in the Japanese context."
+228,"But if Spotify has a good quarter, they will.",しかし、Spotifyが良い四半期を過ごせば、彼らは。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The translation ""しかし、Spotifyが良い四半期を過ごせば、彼らは"" does not provide a complete sentence, leaving the audience to infer the intended meaning. The abrupt ending may be confusing or inappropriate for the target Japanese audience."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,彼らにその国中の空洞化し、朽ち果てた都市を再生させるよう任せなさい。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""rehabilitate the hollowed out and decaying cities"" may not be a common or easily understandable expression in the Japanese cultural context."
+231,These people want to improve their lives.,これらの人々は自分の生活を改善したいと考えています。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""自分の生活を改善したいと考えています"" may not be a natural or common way for Japanese people to express the desire to improve their lives. A more natural phrasing would be preferred."
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは死んだ」や「リモートワークは失敗した実験だった」と主張するヘッドラインに疲れてしまいました。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""リモートワークは死んだ"" (Remote work is dead) may be interpreted as an overly dramatic or hyperbolic statement that does not align well with the more neutral and factual tone typically expected in Japanese business or news reporting."
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.",快適な空間で仕事ができ、窒息するような騒々しい事務所ではなくて済むようにしてくれる。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""窒息するような"" (suffocating) may not be culturally appropriate or easily understood by the target audience, as it could be seen as an exaggerated or dramatic description of the office environment."
+243,To just ignore these facts is wrong.,事実を無視するのは間違っています。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""to just ignore these facts"" may not be a common or natural way of expressing the idea in Japanese culture, where it may be more common to use a more indirect or nuanced phrasing."
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、キャリアのために子供を遅らせる現代の都市女性の衝動について言及した。,"MQM annotations:
+Accuracy Errors
+[Major]: [culture-specific reference] - The reference to ""abortion"" and ""urban women's impulse to delay having children for their careers' sake"" may be sensitive or inappropriate for some Japanese audiences, as cultural attitudes towards these topics can vary.
+[Minor]: [wrong language variety] - The translation uses formal language that may not match the tone or register expected by the target Japanese audience."
+255,It took years of changing my life and working hard but finally...,人生を変え、懸命に働いた年月の末に、ついに...,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""working hard"" may not have the same cultural connotations in Japanese as it does in English, potentially sounding overly direct or intense for the target audience."
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,私のサイクルジャケットの裏地にファスナーをつけます - 必要になった場合に備えて。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""cycle jacket"" may not be a common or familiar term in the Japanese context, and a more culturally appropriate term may be preferable."
+266,This is for Wikipedia's component library (OOUI).,これはウィキペディアのコンポーネントライブラリ(OOUI)のためのものです。,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The term ""OOUI"" may not be familiar to the Japanese audience and could benefit from further explanation."
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親要素を作成し、そこにMOをインストールし、それが分離されていくのを観察する。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""detached"" may not be immediately clear to the Japanese audience and could benefit from further explanation or a more culturally-relevant term.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""temp parent"" may not be a common expression in Japanese and could be rephrased using more natural language."
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は1日2回私の事務所を走り回ることで完全に引き締まっている。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""ripped from tearing around"" is a colloquial expression that may not be easily understood by the Japanese audience. It refers to the physical appearance of being muscular or fit, which may not translate well culturally."
+278,It makes me so happy to see him thriving.,それを見て私はとても幸せです。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""to see him thriving"" may not be a common expression in Japanese culture, and could be perceived as slightly unusual or unfamiliar."
+285,Last week got a ton done and feeling much better about field items.,先週は大量の仕事を完了し、フィールド項目についてもずっと良い気分になっています。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""a ton done"" may not be a common expression in Japanese culture and could be perceived as unusual or informal."
+286,"All collards, kale, chard is transplanted.",全てのコラード、ケール、チャードは移植されます。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""collards, kale, chard"" may not be familiar to the Japanese audience, as these are vegetables more commonly used in Western cuisines."
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",そこにサラダの列を播種する必要もあり、両方に切り込んだグリーンを統合する。灌漑、ベッド準備、移植の訓練を受けた乗組員がいる。収穫以外のスキル項目の90%がこれらです。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""trained crew"" may not be a common or appropriate reference for the Japanese audience, as it could be interpreted as referring to a specialized or professional team, rather than general agricultural workers.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the term ""乗組員"" (crew) may not be the most natural or common way to refer to agricultural workers in the Japanese context, and a more colloquial or industry-specific term may be more appropriate."
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,アップルマップスではグーグルマップスに比べて、指示に従う必要があった経験がはるかに優れていた。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""グーグルマップス"" may not be familiar or appropriate for the Japanese audience, as it uses the English brand name ""Google Maps"" instead of the more common Japanese term ""グーグルマップ""."
+295,Apple Maps wins.,アップルマップスが勝った。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Apple Maps"" may not be familiar or immediately understandable to all Japanese readers, as it refers to a specific Apple product."
+302,"That said, I'm biased.",それでも、私は偏っています。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""I'm biased"" may not be a common or natural way to express this sentiment in Japanese culture, where more indirect or nuanced language is often preferred."
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,それは、政府が私たちが生活しているシステムを変更しないと考えている限り、富を長期的に保管する良い場所であるということです。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the government isn't going to change the system we live in"" may not be easily understood by the Japanese audience, as it refers to a specific political and social context that may not be familiar to them."
+309,In China you can only lease land.,中国では土地を借りることしかできません。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The statement ""you can only lease land"" may not be immediately understandable to a Japanese audience, as the concept of land ownership and leasing can vary significantly between Chinese and Japanese cultural contexts."
+311,The government can change these policies whenever it wants.,政府はいつでもこれらの政策を変更することができます。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""can change these policies whenever it wants"" may not be as culturally appropriate in the Japanese context, as it could be perceived as the government having too much power over policy changes."
+312,The land is temporary.,土地は一時的です。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""土地は一時的です"" may not convey the same nuance or cultural meaning as the English source ""The land is temporary."" The Japanese translation may not resonate as strongly with the target audience."
+318,That's why the Chinese only allow leases.,それが中国人が賃貸のみを許可する理由です。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The statement ""the Chinese only allow leases"" may not be well understood by the Japanese audience, as the cultural context around real estate ownership and leasing practices may differ between China and Japan."
+322,Let us continue to work together towards creating a brighter future for all.,私たちは全ての人のためのより良い未来を創造するために、これからも協力し続けましょう。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""towards creating a brighter future for all"" may not be a common expression in Japanese culture and could sound slightly unusual or formal."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分に対してあまりにも厳しくなりながら、実際の残酷さがどのようなものかを示す多くの証拠に溢れていることに、私はしばしば驚嘆する。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""so down on oneself"" may not be a common expression in Japanese culture and could be difficult for the target audience to understand."
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",個人の失敗や罪悪感に苦しむことは、最も非難されるべき行為の責任者に「成功」が与えられることの多い世界においては...,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""success"" may have different cultural connotations in the Japanese context compared to the English source."
+332,"or ""Modal editors are useless today"" :morty:",モーダルエディターは今日無用です,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Morty"" may not be familiar or appropriate for a Japanese audience, as it is a character from the American animated series ""Rick and Morty""."
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:","私のAxumプロジェクトの機能を共有ライブラリに抽出する: ""キーボードを持ってて"" :partyparrot: :helix: :ferrisdance:","MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of the English phrase ""Hold my keyboard"" may not be easily understood by the Japanese audience, as it is a culture-specific reference that is more common in English-speaking contexts.
+[Minor]: WRONG LANGUAGE VARIETY - The use of the Japanese word ""キーボード"" (keyboard) may not be the most natural or common way to express the concept in the given context. A more natural Japanese expression may have been more appropriate."
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのプロンプトは「一晩中起きていろ」です。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""stay up all night"" may not be a common or natural expression in Japanese culture, and could be perceived as unusual or inappropriate."
+339,It is definitely more romance than filth.,それは間違いなくより多くのロマンスであり、汚れではありません。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""more romance than filth"" may not be a common or natural expression in Japanese culture, and could be perceived as unusual or inappropriate."
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",空中でイキたいと思っています。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""the mile high orgasm"" is a very explicit sexual reference that is likely to be inappropriate or uncomfortable for many Japanese readers. This could be seen as too sexually explicit for the intended audience."
+345,"I wish there was a ""who to follow"" recommendation somehow.",「フォローすべき人」のおすすめがあればいいのに。,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""who to follow"" may not be a common or intuitive concept for the Japanese audience, as the idea of following specific people on social media may not be as prevalent in Japanese culture."
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",それには少し多くの努力が必要で、良いアプリを使う必要があるでしょう。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""#UX"" may not be familiar or commonly used by the Japanese audience, who may not be as familiar with the concept of ""user experience"" in the context of software and app design."
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",介入策: 何かを変えるために行うことについての知識、ある程度の確信の範囲内で。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""things we can do to create change"" may not be a common or natural expression in the Japanese context, and could be perceived as unusual or unfamiliar."
+360,He's here and he's going to say this stuff no matter what.,彼はここにいて、何があっても、この内容を言うつもりです。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""no matter what"" may not have a direct cultural equivalent in Japanese and could be interpreted differently by the target audience."
+362,It's very underwhelming at the moment.,今のところとてもがっかりしています。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""がっかりしています"" may not convey the same level of disappointment or underwhelming feeling as the English ""very underwhelming"" for the target Japanese audience."
+363,"The ""MusicLM Demo"" is mildly interesting.",「MusicLM デモ」はやや興味深いです。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""MusicLM"" may not be familiar to the Japanese audience, as it is a specific reference to a machine learning model."
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",重量挙げをするのは変だが、自分の1回限りの最大重量がわからないのも変だ。それは人々が進歩を追跡する主要な方法の1つだからだ。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""one-rep-max"" is a specific weightlifting term that may not be widely understood by the Japanese audience.
+[Minor]: WRONG LANGUAGE VARIETY - The translation uses the term ""重量挙げ"" which is more commonly used in the context of competitive weightlifting. A more general term like ""筋力トレーニング"" may be more appropriate for the intended audience."
+369,I work out alone in my bedroom without a spotter or even a weight rack.,私は寝室で一人で運動しています。スポッターやウェイトラックはありません。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""without a spotter or even a weight rack"" may not be familiar or relevant to the Japanese audience, as the cultural context around home workout equipment and practices may differ."
+370,Just me and a barbell with a bunch of weights.,私とバーベルと重り,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""barbell"" may not be a common or familiar piece of equipment for some Japanese audiences, who may be more accustomed to traditional Japanese fitness practices."
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",最大1回挙上重量を把握しようとすると、重量が不足していたり、逆に重傷や死亡につながる可能性があります。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""maximum 1 rep weight"" may not be easily understood by the Japanese audience, as it is a term more commonly used in the context of weightlifting and fitness training.
+[Minor]: WRONG LANGUAGE VARIETY - The translation uses the term ""重傷"" which is more commonly used in formal or medical contexts. A more natural expression in Japanese for the intended audience may be ""大けが"" or ""重大な怪我""."
+375,I swear burrata didn't exist five years ago,ブラータはたった5年前には存在しなかったと誓います。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""burrata"" may not be familiar to the Japanese audience, as it is a type of Italian cheese that is not commonly known in Japan."
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,私はこれまで誰かのお母さんがそれを作るのを見たことがなく、パーティーで押し付けられたこともなく、誰かのソース作りやベーキングの日に登場するのを見たこともありません。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""shoved at me at a party"" may not be a common or natural expression in the Japanese cultural context."
+384,Does anyone have a Linux tablet they love?,Linux タブレットを愛用している人はいますか?,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""Linux tablet"" may not be a common or familiar concept for the Japanese audience, who may be more accustomed to referring to such devices as ""tablet PCs"" or ""tablet computers"" running the Linux operating system."
+385,"This would be mainly for web browsing, occasional email, and some games.",これは主にウェブブラウジング、時折のメール、そして一部のゲームのためのものです。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""email"" may not be a common term in Japanese culture and could be replaced with a more culturally appropriate term."
+388,"A bad game is bad forever.""",悪いゲームは永遠に悪い。,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""bad game is bad forever"" may not be a common or idiomatic expression in Japanese culture, which could make it less natural or understandable for the target audience."
+389,So was it Epic that originated this?,それがエピックが始めたものだったのですか?,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The term ""Epic"" may not be widely recognized or understood by the Japanese audience, as it is a proper noun referring to a specific company."
+390,We can keep going.,行けるよ。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""行けるよ"" may not be a natural or common way to express the sentiment of ""We can keep going"" in the target Japanese culture."
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",ゲームプロ1997年11月号にはより曖昧な引用文がある。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""GamePro 1997-11"" may not be familiar or meaningful to the Japanese audience, as it refers to a specific English-language gaming magazine issue."
+401,Esp the carriages with the bigger windows.,大きな窓のある客車に乗ってください。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""carriages"" may not be a common reference for Japanese audiences, who may be more familiar with the term ""train cars"" or ""passenger cars""."
+402,There's areas that could use some polish.,そこには少し磨く必要のある部分があります。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""could use some polish"" may not be a common expression in Japanese, and the literal translation of ""磨く"" (polish) may not convey the intended meaning of improving or refining something."
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",主に、十分なごみ箱の不足と、照明色の意味を説明する標識の不足です。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""bins"" may not be a common term for garbage/trash receptacles in the Japanese context, and the lack of explanation for the lighting colors may be confusing for the target audience."
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMまたはDDZの株式の終了を見るのは悲しくありません。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""I won't be sad to see the end of the ICM or DDZ stock"" may not be easily understood by the Japanese audience, as it refers to specific stock tickers that may not be familiar to them."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,1人1枚の規則が継続されます。これにより、列に並ぶ全ての人が確実に入手できるようにしています。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""1 per customer"" may not be a common or well-understood concept in the Japanese cultural context, as the typical customer behavior and expectations around purchasing limits may differ."
+411,Such friendships transcend differences.,そのような友情は違いを超越する。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""transcend differences"" may not be a common or natural expression in the Japanese language and cultural context."
+412,We all have stories to tell.,私たち全員に語る物語がある。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""私たち全員に語る物語がある"" may not be as natural or idiomatic as the source text ""We all have stories to tell"" for the target Japanese audience."
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",しかし、私はどこかで間違った足で始めてしまったような気がします。,"MQM annotations:
+audience appropriateness error:
+[minor]: [culture-specific reference] - The phrase ""on the wrong foot"" may not be a common idiomatic expression in Japanese culture, and could be less understandable for the target audience."
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,まだしばらくここに留まり、移住するかどうかを考えてみます。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""linger a bit longer"" may not be a common expression in the Japanese cultural context, and could be perceived as slightly unusual or awkward."
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,地下に潜り込んだレプニッドの群れに落ち込み、地下の洞窟の中で数百匹のレプニッドの体が煮えたぎる中に落ちた。,"MQM annotations:
+audience appropriateness errors:
+
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Repnid"" may not be familiar to the Japanese audience, as it is a made-up creature name that is not part of common Japanese cultural references.
+
+[Minor]: WRONG LANGUAGE VARIETY - The phrase ""煮えたぎる"" is a more formal and literary expression that may not align with the intended casual or conversational tone for the target audience."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは迅速です。何組ものキバが致死的な毒を注入し、ディスクラの空気があなたの肺を汚染します。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""Dyskra"" is a culture-specific reference that may not be familiar to the Japanese audience and could cause confusion."
+425,Nobody will ever know that you were the first human future traveller.,未来の人類の旅行者として、あなたが最初の人間だったことを誰も知らないでしょう。,"MQM annotations:
+audience appropriateness error:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""future traveller"" may not be a common or easily understandable concept for the Japanese audience."
+426,You land the flyer nose upward on the side of the slag heap and climb out.,機体の鼻を上に向けて、スラグ山の側面に着陸し、外に出る。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""slag heap"" may not be a familiar concept for the Japanese audience and could require additional context."
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つ目のレプニッドが見つめているようだが、あなたに向かって動くことはない。実際、あなたがゆっくりと近づいていくにつれ、彼らは動きを止めたままだ。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: CULTURE-SPECIFIC REFERENCE - The term ""Repnids"" may not be familiar to the Japanese audience and could be confusing."
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",彼らはあなたの声を聞くことができないだけでなく、理解することもできないようです。ユニバーサル・トランスレーターはどんな答えも拾っていません。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The use of ""ユニバーサル・トランスレーター"" (Universal Translator) may not be a familiar concept for the Japanese audience and could cause confusion."
+430,You decide to use your Psychic Awareness to contact them mentally.,あなたは精神的に彼らと連絡を取るために、あなたの霊的な覚醒を使うことにしました。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The term ""精神的な覚醒"" may not be a common or well-understood concept for the target Japanese audience, and could be perceived as unusual or inappropriate."
+436,"#today I have coffee, sunshine and quiet time!",今日は、コーヒー、日差し、そして静かな時間があります!,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""coffee, sunshine and quiet time"" may not be a common or natural expression in Japanese culture, and could sound slightly unusual or out of place."
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,不均一に紡がれた銀灰色の糸で、ほとんどが細く紡がれているが、ところどころに塊がある。,"MQM annotations:
+Audience Appropriateness Errors
+[Minor]: [culture-specific reference] - The term ""lumps"" may not be a common or intuitive description of the yarn texture for the Japanese audience."
+441,But am not sure I have enough of the purple.,紫色は十分ではないかもしれません。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""am not sure I have enough of the purple"" may not be easily understood by a Japanese audience, as the cultural reference to the color ""purple"" may not be as common or have the same connotations."
+446,I have literally tried and dropped EVERY SINGLE ONE.,私は文字通り試して、すべてのものを手放しました。,"MQM annotations:
+audience appropriateness errors:
+[Major]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""hand over"" may not be a common idiomatic expression in Japanese culture, and could be perceived as too direct or informal."
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして2年ほど前まで、私は成績を確認するまで全く知らなかった。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""checked my transcripts"" may not be a common or well-understood concept in the Japanese cultural context, as the process of obtaining and reviewing one's academic records may differ."
+448,The literature class hatred is even worse: I love to read.,文学クラスの嫌悪感はさらに悪化しています。私は読書が大好きです。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""I love to read"" may not convey the same cultural meaning or sentiment in the Japanese context as it does in English. The Japanese translation could be perceived as more neutral or matter-of-fact, rather than expressing a strong personal preference."
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしく、そこにいるときは幸せですが、小説を読むためにリラックスするには、別の場所にいる必要があります。,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""リラックスするには"" may not be a natural way to express the idea of ""chilling enough to read fiction"" in the Japanese cultural context."
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,休暇のように感じられ、そのため休暇中にするようなことをしています。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""on holidays"" may not be a common expression in Japanese culture, and a more natural translation could be ""during my vacation"" or ""while on vacation""."
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",そして、ここの最近の2晩は自宅のように良く眠れていないし、奇異な環境にいるため自分のペースを保つことが難しく、物の場所を覚えなければならないので、少し#MECFS疲れもしています。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The term ""#MECFS"" (Myalgic Encephalomyelitis/Chronic Fatigue Syndrome) may not be widely recognized or understood by the Japanese audience."
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",それは興奮させ、神経を逼迫させ、ストレスを感じさせるが、私がゲーム業界で働くことを愛する良いことすべてでもある。,"MQM annotations:
+audience appropriateness errors:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""神経を逼迫させる"" (literally ""to put the nerves under pressure"") may not be a common or natural expression in the target Japanese culture, and could be perceived as overly dramatic or intense.
+[Minor]: WRONG LANGUAGE VARIETY - The term ""ストレス"" (stress) is a loanword from English that is commonly used in Japanese, but there may be more natural or idiomatic ways to express the concept of stress in the target language and cultural context."
+458,Will a community blossom around the user-generated content piece of the game?,コミュニティはゲームのユーザー生成コンテンツを中心に花開くだろうか?,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""blossom around"" may not be a common or natural expression in the Japanese language and cultural context."
+466,So I finally watched #Heartstopper,"はい、ご要望の翻訳は以下の通りです:
+
+ついに#ハーツトッパーを見ました。","MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The term ""#Heartstopper"" may not be familiar to the Japanese audience, as it refers to a specific TV series that may not be widely known in Japan."
+467,Was it overly cute to the point of being twee?,かわいすぎるほどかわいかったか?,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""to the point of being twee"" may not be easily understood by the Japanese audience, as it refers to a cultural concept of excessively cute or precious that may not have a direct equivalent in Japanese culture."
+471,But did I love it?,それでも、私はそれを愛していたのだろうか?,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""それでも、私はそれを愛していたのだろうか?"" may not be a natural or common way for a Japanese audience to express the sentiment of the English source ""But did I love it?"". The translation could be more idiomatic or conversational for the target culture."
+476,"In part, because they'd be taught badly.",部分的に、うまく教えられないからです。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""部分的に"" may not be a natural or idiomatic way to express the meaning of ""in part"" in the Japanese target text, as it may sound too literal or formal for the intended audience."
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題に対して言い訳をするのではなく、それらを修正することが重要です。特に、リードの変更が必要な本番環境においては、そうすることが大切です。,"MQM annotations:
+audience appropriateness error:
+[minor]: CULTURE-SPECIFIC REFERENCE - The phrase ""especially in production when your lead needs changes"" may not be easily understood by the Japanese audience, as the concept of ""production"" and ""lead"" may have different cultural connotations."
+479,"Every artist has been there, made the same mistakes.",全ての芸術家がそこにいた、同じ間違いを犯した。,"MQM annotations:
+audience appropriateness error:
+[Major]: CULTURE-SPECIFIC REFERENCE - The phrase ""同じ間違いを犯した"" may not be a natural or idiomatic way to express the idea of ""making the same mistakes"" in the Japanese cultural context."
+484,Watch seeds being sown & cultivated (and not randomly scattered) by good peeps.,良い人々によって播かれ、育てられる (ランダムに散らばるのではなく) 種子を見る。,"MQM annotations:
+audience appropriateness errors:
+[Minor]: [culture-specific reference] - The phrase ""good peeps"" may not be a common or natural expression in the Japanese cultural context."
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",彼らが小道で通り過ぎる際、ジャミはその手紙を彼に渡した。,"MQM annotations:
+audience appropriateness error:
+[minor]: culture-specific reference - The phrase ""dog watch"" may not be familiar to the Japanese audience, as it is a naval term referring to a specific watch schedule."

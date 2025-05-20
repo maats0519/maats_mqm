@@ -1,0 +1,513 @@
+index,original,translated,linguistic_convention_annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.","对我来说,这是一个相当大的假设,因为它只使用了Direct3D对象,而不是Direct3D3对象来创建视口。","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The order of the words ""Direct3D object"" and ""Direct3D3 object"" is incorrect compared to the source text."
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.","一些事实,例如关于亚原子粒子的事实,只能通过实验来获得,而这些实验本身只有在资本主义体系下才能进行,因为它们需要太多的资源、太多的组织和太多的强制手段才能完成。","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural and does not follow the typical structure of the target language. The sentence structure should be rearranged to improve the flow and readability."
+14,Picking this up this weekend.,这个周末拿到它。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation ""这个周末拿到它"" does not match the source text ""Picking this up this weekend."""
+15,I was looking for a good first car guy car; and I really love the 80s aesthetic.,我正在寻找一辆好的初级汽车;我真的很喜欢80年代的美学。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The translation ""我"" should be capitalized as ""我"" to follow the capitalization conventions in Chinese.
+[Minor]: punctuation - The translation is missing a period at the end of the sentence."
+19,I know they're not fast compared,我知道他们相比之下不快。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation is slightly different from the source text, but the meaning is still clear."
+20,#Venting into the Fediverse time.,#向联邦宇宙发泄时间。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation uses ""向联邦宇宙"" instead of the more common capitalization ""向联邦宇宙""."
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,我和同居伴侣今晚去了酒店买了一些啤酒和一瓶起泡酒。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""bub"" should be capitalized as ""Bub"" to follow standard capitalization conventions."
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","当我们去结账时,收银员显然是一位跨性别女性。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""trans"" should be capitalized as ""Trans"" to follow the convention of capitalizing proper nouns."
+25,And then we just... paid for our stuff.,然后我们就...付了钱。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The translation is missing a period at the end of the sentence."
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,"她脸上的解脱微笑是一种很好的感觉,但她先前感到害怕的事实真他妈的糟糕,我讨厌它。","MQM annotations:
+linguistic conventions errors:
+[Major]: [punctuation] - The punctuation usage in the translation is inconsistent with the source text. The source text uses an exclamation mark, but the translation uses a period.
+[Minor]: [spelling] - The translation uses ""他妈的"" (a vulgar expression) instead of the more neutral ""真的"" (really) as in the source text."
+29,This is the stupidest timeline and I hate it dot com.,"这是最愚蠢的时间线,我讨厌它。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The phrase ""dot com"" should not be capitalized."
+32,But he can't pardon himself out of state prison.,但是他不能赦免自己脱离州监狱。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation ""但是他不能赦免自己脱离州监狱"" is not natural compared to the source text ""But he can't pardon himself out of state prison."""
+33,It takes the state's governor.,州长需要。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation is missing a verb. The source text ""It takes the state's governor"" implies an action, but the translation ""州长需要"" (The governor needs) does not convey the same meaning."
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.","我们建议,依情境而定的交流是一种多层面的现象,受环境特性(如情境分布)的关键影响。","MQM annotations:
+linguistic conventions errors:
+[Minor]: grammar - The sentence structure ""我们建议,依情境而定的交流是一种多层面的现象,受环境特性(如情境分布)的关键影响"" is slightly awkward compared to the source text. A more natural translation could be ""我们认为,依情境而定的交流是一种多层面的现象,其关键受环境特性(如情境分布)的影响。"""
+47,Communities gain the knowledge to embed and support their own development.,社区获得嵌入和支持自身发展的知识。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""Communities"" should be lowercase to match the source text.
+[Minor]: [Punctuation] - The period at the end of the sentence is missing."
+50,Thousands of trees have been established and farmers have seen increased crop yields through a range of interventions from support with equipment purchases to training.,"通过各种干预措施,从设备购买支持到培训,已经建立了数千棵树,农民看到了作物产量的增加。","MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - Missing comma after ""to training""."
+53,The UPS store near me won't allow me to write a label or write on the box.,附近的UPS商店不允许我在标签或箱子上写字。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation uses ""附近的UPS商店"" instead of the more conventional ""附近的 UPS 商店"" with a space between ""UPS"" and ""商店"".
+[Minor]: [punctuation] - The translation uses a period ""。"" at the end of the sentence, which is not necessary as the source text does not end with a period."
+55,They won't allow me to tell them the address it's going to and who is shipping it.,他们不会允许我告诉他们它要去的地址和谁在发货。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is unnatural and does not flow well. The translation should be more idiomatic.
+[Minor]: [punctuation] - The comma after ""发货"" should be removed to follow the punctuation conventions of the target language."
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.","这是一种愤怒的行为,就像一个象征性的1月6日反民主狂欢节,充满谎言和不满,由美国媒体自毁性地主办。","MQM annotations:
+linguistic conventions errors:
+[Major]: [capitalization] - The phrase ""Jan 6"" should be capitalized as ""Jan. 6"" to follow standard capitalization conventions.
+[Major]: [punctuation] - The phrase ""self-destructively hosted by American media"" should have a comma after ""grievance"" to improve the flow of the sentence.
+[Minor]: [word order] - The phrase ""self-destructively hosted by American media"" could be rearranged to ""hosted self-destructively by American media"" to better match the word order of the source text."
+61,Licht AGREED to an all Republican audience!,同意,"MQM annotations:
+linguistic conventions errors:
+[Major]: [capitalization] - The name ""Licht"" should be capitalized.
+[Major]: [grammar] - The phrase ""an all Republican audience"" is grammatically incorrect. It should be ""a Republican audience""."
+64,The ratings--seeking delusional irresponsibility of it all.,收视率追求的妄想不负责任。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural and does not match the flow of the source text. The translation should be restructured to better reflect the original phrasing."
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","我有一个非常通风的地下室,这实际上意味着我可能会有很多啮齿动物来寻求庇护。","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation ""我可能会有很多啮齿动物来寻求庇护"" uses the modal verb ""可能"" which is not necessary in this context. The correct grammar would be ""我会有很多啮齿动物来寻求庇护""."
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.","我昨晚终于对这个日常感到厌烦,清理了所有陷阱上的花生酱,并在上面粘上了一颗开心果。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""superglued"" should be capitalized.
+[Minor]: [punctuation] - A period should be added at the end of the sentence."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.","对不起,我无法提供任何额外的文本。以下是您要求的翻译:
+
+(fwiw, 我几乎尝试了市面上所有的""人道""捕捉器,但成功率很低。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing comma after ""fwiw""."
+73,I'm tired of conservative parties and governments wrapping themselves in the brand of pro-business.,我厌倦了保守党和政府将自己包装成亲商的品牌。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The phrase ""保守党和政府"" should be capitalized as ""保守党和政府"" to follow standard capitalization conventions.
+[Minor]: punctuation - The period at the end of the sentence is missing."
+74,"They aren't, at least not in Alberta.","他们不是,至少在阿尔伯塔省不是。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The translation ""他们不是,至少在阿尔伯塔省不是"" does not match the grammatical structure of the source text ""They aren't, at least not in Alberta."" The translation uses a more direct and literal structure compared to the more idiomatic phrasing in the source."
+75,Sure they cut business taxes.,他们确实降低了企业税率。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The translation ""他们确实降低了企业税率。"" should have the first character capitalized as ""他们确实降低了企业税率。""."
+78,"Discovered the hard way that in 2023, local TV station web sites are the absolute worst experience on the internet.","2023年,发现本地电视台网站是互联网上最糟糕的体验,这是一个艰难的教训。","MQM annotations:
+linguistic conventions errors:
+[Major]: [Capitalization] - The first letter of the first word in the translation should be capitalized.
+[Minor]: [Punctuation] - The period at the end of the sentence is missing."
+79,"Popups, auto-play videos, animations, popovers, and ads, ads, ads.",弹窗、自动播放视频、动画、弹出窗口和广告、广告、广告。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The translation uses inconsistent capitalization compared to the source text. For example, ""Popups"" is capitalized in the source but not in the translation.
+[Minor]: punctuation - The translation uses commas to separate the list items, while the source uses commas and the conjunction ""and"" to separate the last two items."
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","即使现在 goatse.cx 已经不存在了,这仍然是真的,不过 goatse 和 khou.com 之间的竞争可能会很激烈,我曾试图在 khou.com 上观看温迪发给我的视频。","MQM annotations:
+linguistic conventions errors:
+[Major]: [Punctuation] - The comma after ""though"" is unnecessary.
+[Minor]: [Capitalization] - ""khou.com"" should be capitalized as ""Khou.com""."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",我只是把他送到格拉斯哥。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing comma after ""Glasgow"".
+
+The translation is generally accurate, with only a minor punctuation error. The sentence structure and word choice are correct, but a comma should have been added after ""Glasgow"" to match the punctuation in the source text."
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,昨晚让我深信我们需要准备好与特朗普主义抗争。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first word ""昨晚"" should be capitalized."
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,贴一些反特朗普的汽车贴纸到处张贴。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The translation ""贴一些反特朗普的汽车贴纸到处张贴"" should capitalize the first letter of the sentence.
+[Minor]: [Punctuation] - The translation lacks a period at the end of the sentence."
+95,Yell back at those who would try to talk over us.,对那些试图压制我们声音的人大声回应。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural compared to the source text. The translation should be rearranged to better match the natural flow of the target language.
+
+The corrected translation could be:
+对那些试图压制我们声音的人,大声回应。"
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,"所以我急忙回到公寓想避开他,但他还是设法追上我聊天。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The comma after ""聊天"" should be a period to end the sentence properly."
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,我重复一遍。到处传播你的新冠病毒粘液风暴是不可接受的社会行为!!!,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The translation should capitalize ""Covid"" as it is a proper noun.
+[Minor]: [Punctuation] - The translation uses three exclamation marks, which is excessive and not necessary."
+104,Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.,"阿部把他的悲伤隐藏起来,很容易笑,而汤姆不怕哭泣,但对粗俗的幽默不太感兴趣。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The name ""Abe"" should be capitalized.
+[Minor]: [capitalization] - The name ""Tom"" should be capitalized.
+[Minor]: [punctuation] - The comma after ""while"" should be removed."
+106,Mio knows that sorrow is life's constant companion.,"缪知道,悲伤是生命永恒的伴侣。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first word ""缪"" should be capitalized as ""Mio"" in the translation."
+108,#CNN needs to just close down.,#CNN需要关闭。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation should be ""#CNN需要关闭。"" instead of ""#CNN需要关闭。"" to follow the capitalization conventions of the Chinese language."
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨天与#MangoMoron的灾难性事件是一场令人发指的灾难。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [capitalization] - The word ""#MangoMoron"" should not be capitalized in the translation.
+[Minor]: [punctuation] - The translation uses a comma after ""灾难性事件"" instead of a period to end the sentence."
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.","书呆子学生阿尼·坎宁安迷恋上了一辆1958年普利茅斯·富瑞的旧车,并沉迷于将这辆经典汽车修复到昔日的辉煌。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The proper noun ""Arnie Cunningham"" should be capitalized.
+[Minor]: [punctuation] - The comma after ""1958 Plymouth Fury"" should be removed."
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","随着汽车的变化,阿尼也发生了变化,他新发现的自信在驾驶他那辆异域美车时变成了傲慢。","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural compared to the source text. The phrase ""whose newfound confidence turns to arrogance"" should be placed closer to the subject ""Arnie"".
+[Minor]: [punctuation] - The comma after ""so does Arnie"" is not necessary."
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,"我邻居反对我,这其中最疯狂的部分就是想到要付出多大的努力才能表现出敌意。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""One"" should be capitalized in the source text.
+[Minor]: [Punctuation] - The period at the end of the source text is missing."
+126,It hurts but you gotta do you.,痛苦但你必须做你自己。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation ""痛苦但你必须做你自己"" is grammatically incorrect. The correct grammar should be ""痛苦但你必须做你自己的事""."
+127,But at this point the open hostility and violence is getting worse.,"但在这一点上,公开的敌意和暴力正在变得更加严重。","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural, the phrase ""正在变得更加严重"" should be placed at the end of the sentence to match the source text structure."
+128,That takes effort.,那需要努力。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""那需要努力。"" should have the first character capitalized as ""那需要努力。""."
+132,They had keys to my apartment for 6+ years.,他们有我公寓的钥匙超过6年。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation is slightly different from the source text. The original source text is ""They had keys to my apartment for 6+ years."", while the translation is ""他们有我公寓的钥匙超过6年。"". The order of ""my apartment"" and ""keys"" is reversed."
+134,I am aware of your hatred of Organa.,我知道你对奥加纳的仇恨。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The name ""Organa"" should be capitalized according to English conventions."
+142,The Last of Us is an easy and canonical example of dad-ification.,最后的我们是父亲化的简单和典范例子。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation ""最后的我们是父亲化的简单和典范例子"" is not natural compared to the source text ""The Last of Us is an easy and canonical example of dad-ification."""
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.","父亲化通常认为,当一个父母角色必须照顾或保护一个孩子或孩子替代品的情况下,解决方案是压倒性的力量,并利用这种力量来强制一个非常特定形状的权力动态。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""Dad-ification"" should be capitalized.
+[Minor]: [Punctuation] - The period at the end of the sentence is missing."
+149,- We provide links to where you can book the fare.,我们提供预订车票的链接。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Whitespace] - The translation has an extra space between ""预订"" and ""车票""."
+151,- More details are in the full blog post.,更多详情请见完整博客文章。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of ""More"" should be lowercase to match the conventions of the target language."
+159,Over time dart became my go-to for quick UI.,"随着时间的推移,Dart 成为了我快速开发 UI 的首选。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""Dart"" should be capitalized as it is a proper noun."
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter 是一种很棒的工作体验,他们有 #mobx 来轻松管理数据仓库。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""#mobx"" should be capitalized as ""#MobX"" to follow the standard capitalization convention for the library name."
+164,Echidna with amethyst and magenta spikes.,紫晶和品红色刺的针鼹,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [spelling] - The Chinese translation ""紫晶和品红色刺的针鼹"" contains a spelling error. The correct spelling should be ""紫晶和品红色刺的针鼹猪""."
+167,"Their hair is raspberry, short and curly.","他们的头发是树莓色的,短而卷曲。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation incorrectly capitalizes ""树莓色的"" as ""树莓色的""."
+169,Their most interesting feature is their good deeds.,他们最有趣的特点是他们的善行。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation uses ""他们"" (they) instead of capitalizing the first letter to match the capitalization of ""Their"" in the source text."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...","即使布拉姆·斯托克、马克斯·施雷克和斯蒂芬妮·梅耶尽了最大努力让他们看起来很糟糕,每个人都...","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural compared to the source text. The sentence structure should be rearranged to match the natural flow of the target language."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","我需要翻译成中文普通话和/或福建话,我完全不懂这两种语言。","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation contains grammatical errors, such as incorrect verb tenses or missing function words, that disrupt the flow of the text.
+[Minor]: [capitalization] - The translation does not consistently follow the capitalization conventions of the target language.
+[Minor]: [punctuation] - The translation has some issues with punctuation, such as missing or incorrect use of commas, periods, or other punctuation marks."
+179,Been toying with this thought for a little while:,我一直在思考这个想法一段时间了。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first word ""我"" should be capitalized."
+182,Because it happens in the mind and seems less tangible than physical health.,心理健康,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""心理健康"" should be capitalized as ""心理健康"" to follow the capitalization conventions of the Chinese language."
+189,"My sex is non-binary, my gender is female.","我的性别是非二元性别,我的性别认同是女性。","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The phrase ""我的性别是非二元性别"" is grammatically incorrect. The correct phrasing would be ""我的性别认同是非二元性别"".
+[Minor]: [capitalization] - The word ""女性"" should be capitalized as ""女性"" to follow standard capitalization conventions."
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,"像泡菜心情和其他世俗流行音乐,以及电台工作室等各种。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The phrase ""泡菜心情"" should be capitalized as ""泡菜心情"" to follow the capitalization conventions in Chinese.
+[Minor]: punctuation - The comma after ""以及"" should be replaced with a period to properly separate the clauses.
+[Minor]: word order - The phrase ""各种等"" should be moved to the end of the sentence to match the natural word order in Chinese."
+196,Playing around a bit with Flutter.,玩玩 Flutter。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""玩玩 Flutter"" should be capitalized as ""玩玩 Flutter。""."
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.","我不想以谷歌的技术为基础来经营我的业务,说实话。另一方面,谷歌是为数不多的大公司之一,它有真正的动力去创造一个引人入胜的跨平台体验,这一点很明显。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of the first word in the second sentence ""Another"" should be capitalized."
+203,A few very small difficulties have come to light.,一些非常小的困难浮现出来。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first word ""一些"" should be capitalized to follow the standard capitalization rules in Chinese."
+204,Nothing to set alarm bells ringing but nevertheless they are being addressed.,"没有引起警报的必要,但仍在解决这些问题。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The Chinese translation is missing a period at the end of the sentence."
+205,A small update will be produced next week to correct them.,下周将生产一个小更新来纠正它们。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first word ""下"" should be capitalized to follow standard capitalization conventions."
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,"我不确切知道为什么我的大脑无法解决这个问题;可能是因为工具太广泛和模糊,以至于我的大脑因""选择太多""而陷入僵局。","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural, with the phrase ""it might be that"" interrupting the flow of the sentence.
+[Minor]: [punctuation] - The comma after ""exactly"" is unnecessary."
+217,"There's... no way that would work, probably!","那根本行不通,可能!","MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The Chinese translation is missing a period at the end of the sentence."
+219,I was a voracious reader in my youth.,我年轻时是个贪婪的读者。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The translation ""我年轻时是个贪婪的读者"" has a slightly different word order compared to the source ""I was a voracious reader in my youth."""
+228,"But if Spotify has a good quarter, they will.","但如果 Spotify 有一个好的季度,他们就会。","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translated sentence ""但如果 Spotify 有一个好的季度,他们就会"" is grammatically incorrect. The ending ""他们就会"" is incomplete and does not convey the intended meaning."
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,让他们修复遍布全国的空心化和衰败的城市。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""again"" should be capitalized."
+235,These headlines and articles usually reference one CEO at one large company.,这些标题和文章通常只提及一家大公司的一位CEO。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""CEO"" should be capitalized in the translation to follow the conventions of the English language."
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,"这些都是点击诱饵,但这确实让我担心那些阅读这些文章的高管和经理。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first word ""这些"" should be capitalized in the translation.
+[Minor]: punctuation - The comma after ""但这确实"" should be a period."
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,"它使人们能够避免耗费时间的长途通勤,从而有更多时间与家人在一起。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The comma after ""家人在一起"" should be a period to end the sentence properly."
+247,"""This is a war between the pro-humans and anti-humans,"" he said.","""这是人类支持者和反人类之间的战争,""他说。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The phrase ""人类支持者"" should be capitalized as ""人类支持者"" to follow the capitalization conventions in Chinese."
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,他还认为，新民主党和进步派想要为了环境的缘故而减少人口。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""New"" in ""New Democratic Party"" should be capitalized.
+[Minor]: [grammar] - The phrase ""want to depopulate society"" should be ""want to depopulate the society""."
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,"每当五月来临,我就害怕庆祝我的生日。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation uses ""每当五月来临"" instead of ""每当五月来临"" to capitalize the month."
+258,Winter is 30 days away in this little part of the Great Southern World.,冬季距离这个大南方世界的这个小部分还有30天。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The phrase ""Winter is"" should be capitalized at the beginning of the sentence.
+[Minor]: punctuation - The sentence should end with a period."
+261,"The rain is falling and whilst/while it is not frozen, you ain't going dancing in it!","雨正在下落,虽然它没有冻结,你也不会在雨中跳舞!","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing comma after ""while""."
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,您知道网页组件在被添加/移除文档时响应的高性能方法吗?,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The first letter of ""you"" should be capitalized at the beginning of the sentence."
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",我们创建一个分离的临时父级，在那里安装 MO，并观察它变得分离(因此附着在其他地方)。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - ""MO"" should be capitalized as ""Mo"" according to the conventions of the target language.
+[Minor]: [Punctuation] - The parentheses around ""thus attached elsewhere"" should be removed, as they are not necessary in the target language."
+276,He's just absolutely ripped from tearing around my office twice a day.,"他每天在我办公室里来回跑两次,身材绝对健壮。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation is slightly different from the source, making the flow of the sentence a bit unnatural."
+277,"I don't have a scale to weigh him, but he feels like he's well over a pound.","我没有秤来称他的重量,但我感觉他的重量远远超过一磅。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - The punctuation mark ""。"" is missing at the end of the sentence."
+278,It makes me so happy to see him thriving.,"看到他蒸蒸日上,我感到非常高兴。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The phrase ""蒸蒸日上"" should be capitalized according to Chinese writing conventions."
+280,1) Slight modifications to the Hel's Fighters map layout.,轻微修改赫尔战士地图布局。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The translation ""轻微修改赫尔战士地图布局"" should have the proper noun ""Hel's"" capitalized as ""Hel's Fighters""."
+286,"All collards, kale, chard is transplanted.",所有的羽衣甘蓝、羽衣甘蓝和瑞士甜菜都是移植的。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The translation uses ""羽衣甘蓝"" instead of the more common capitalization ""羽衣甘蓝"" for the term ""kale"".
+[Minor]: punctuation - The translation uses a period ""。"" at the end of the sentence, which is not necessary for this type of list."
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,"春季豌豆在吉尔平出现,需要设置支架。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The translation ""春季豌豆在吉尔平出现,需要设置支架。"" should have the proper noun ""Gilpin"" capitalized as ""吉尔平""."
+291,"Apple Maps comes default with iOS, and yet people would go out of their way to download and install Google Maps onto their iPhones.","蘋果地圖預設隨 iOS 而來,但人們還是會特意下載並安裝谷歌地圖到他們的 iPhone 上。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""iPhone"" should be capitalized."
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","好奇心驱使我保持开放的心态,比较谷歌地图和苹果地图在我的测试 iPhone 设备上的表现。(我的日常使用设备是 Android 设备,所以很少使用 iPhone。)","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of ""iPhone"" should be capitalized.
+[Minor]: whitespace - There should be no space between ""iPhone"" and ""device""."
+297,No idea.,没有主意。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The translation ""没有主意。"" should have the first letter capitalized as ""没有主意。""."
+300,Could it be that Google Search is integrated with Google Maps?,是否谷歌搜索与谷歌地图集成?,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""是否谷歌搜索与谷歌地图集成?"" should have the proper capitalization for ""Google Search"" and ""Google Maps""."
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","我偏向于不向最终用户发布垃圾,而苹果公司在2012年推出的苹果地图上犯了严重的错误。","MQM annotations:
+linguistic conventions errors:
+[Major]: [capitalization] - The word ""Apple"" should be capitalized as it is a proper noun.
+[Major]: [punctuation] - The phrase ""Apple Maps"" should be enclosed in quotation marks to maintain consistency with the source text."
+306,The house itself declines in value because it loses its condition and needs to be replaced.,"房子本身的价值下降,因为它失去了状况,需要被替换。","MQM annotations:
+linguistic conventions errors:
+[Minor]: grammar - The sentence structure ""房子本身的价值下降,因为它失去了状况,需要被替换"" is slightly awkward compared to the more natural English phrasing ""The house itself declines in value because it loses its condition and needs to be replaced."""
+310,They're not stupid enough to sell the sell forever.,他们不够愚蠢到永远出售。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is incorrect compared to the source text. The correct order should be ""They're not stupid enough to sell forever."""
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,"看起来难以想象,当你观看澳大利亚和美国媒体频道时,土地可能会被夺走,但这是因为富人整天在那里确保你的思维方式是某种特定的方式。","MQM annotations:
+linguistic conventions errors:
+[Major]: [capitalization] - The first letter of ""Australian"" and ""United States"" should be capitalized.
+[Minor]: [punctuation] - The comma after ""but"" should be a period to end the sentence."
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.","致所有投资者,我为您的成功和梦想实现而干杯。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of ""To"" should be capitalized to follow standard English capitalization rules.
+[Minor]: punctuation - The period at the end of the sentence is missing."
+322,Let us continue to work together towards creating a brighter future for all.,让我们继续携手共创美好的未来。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation does not capitalize the first letter of the sentence, which is a linguistic convention error in Chinese."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,"我常常惊讶于人类如此自我贬低,却又被如此多残酷的证据所淹没。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The phrase ""so"" should not be capitalized in the translation."
+327,We're all such messy critters.,我们都是如此凌乱的生物。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""我们都是如此凌乱的生物"" should have the first letter capitalized as ""我们都是如此凌乱的生物。""."
+332,"or ""Modal editors are useless today"" :morty:",模态编辑器今天毫无用处,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The phrase ""Modal editors"" should be in lowercase.
+[Minor]: [punctuation] - The smiley face "":morty:"" should be removed as it is not a standard punctuation mark."
+336,How would you share personal libraries?,如何分享个人图书馆?,"MQM annotations:
+linguistic conventions errors:
+[Major]: [Whitespace] - The phrase ""个人图书馆"" should be separated as ""个人 图书馆""."
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str","我也有一天会在高空中达到高潮,也许不会是和一个陌生人。","MQM annotations:
+linguistic conventions errors:
+[Major]: [punctuation] - Missing punctuation at the end of the sentence."
+342,I don't agree that #Mastodon is difficult to setup.,我不同意#Mastodon很难设置。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The hashtag ""#Mastodon"" should not be capitalized in the translation."
+345,"I wish there was a ""who to follow"" recommendation somehow.","我希望能有一个""谁值得关注""的推荐系统。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The phrase ""who to follow"" should not be capitalized in the translation."
+347,If you stick to the default web interface it doesn't look and feel good (imho).,"如果你坚持使用默认的网页界面,它看起来和感觉都不太好(在我看来)。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation uses ""在我看来"" instead of the more natural ""在我看来(imho)""."
+352,Explanation: account for both sides of mutual influence,相互影响的双方,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The translation does not accurately reflect the order of the original source text, which is ""account for both sides of mutual influence""."
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.","即使他在镇政厅期间没有说出这些话,但在2024年11月之前,美国的每个人都会一遍又一遍地听到这些话。","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural and does not match the flow of the source text.
+
+The translation reads: ""即使他在镇政厅期间没有说出这些话,但在2024年11月之前,美国的每个人都会一遍又一遍地听到这些话。""
+
+A more natural word order would be: ""即使他在镇政厅期间没有说出这些话,但在2024年11月之前,这些话美国的每个人都会一遍又一遍地听到。"""
+366,Throwing everything you've got over the fence in response to GPT is not it.,对GPT的回应不应该是把所有的东西都扔过篱笆。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: word order - The word order in the translation ""对GPT的回应不应该是把所有的东西都扔过篱笆"" is slightly different from the source text ""Throwing everything you've got over the fence in response to GPT is not it."""
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.","如果我试图找出我的一次最大重复次数,我可能没有足够的重量来达到最大值,或者相反,这可能会严重伤害/杀死我。","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation ""如果我试图找出我的一次最大重复次数,我可能没有足够的重量来达到最大值,或者相反,这可能会严重伤害/杀死我"" is grammatically incorrect. The sentence structure should be more natural and fluent.
+[Minor]: [punctuation] - The translation uses a comma after ""或者相反"", which is not necessary in this context."
+375,I swear burrata didn't exist five years ago,我发誓五年前没有布拉塔奶酪。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - ""布拉塔奶酪"" should be capitalized as ""布拉塔奶酪""."
+376,This is my personal Mandela effect thing.,这是我个人的曼德拉效应。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""曼德拉"" should be capitalized."
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,"我从未见过任何人的妈妈做过它,也从未在派对上被人强迫吃过它,也从未见过它与任何人的酱料制作或烘焙活动有关。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation uses capitalization inconsistently, with some words capitalized that should not be (e.g., ""妈妈"").
+[Minor]: [punctuation] - The translation uses commas and periods inconsistently compared to the source text.
+[Minor]: [word order] - The word order in the translation is slightly different from the source, affecting the natural flow of the language."
+380,It just appeared one day and suddenly it was available everywhere.,"它就在某一天突然出现,随后迅速普及。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The translation ""它"" should be capitalized as ""它"" to follow the capitalization conventions in Chinese.
+[Minor]: [Punctuation] - The translation is missing a period at the end of the sentence."
+385,"This would be mainly for web browsing, occasional email, and some games.",这主要用于网页浏览、偶尔收发电子邮件和一些游戏。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of ""This"" should be capitalized to follow standard English capitalization rules.
+[Minor]: punctuation - The period at the end of the sentence is missing."
+387,"""A good game is only late until it ships.",一款好游戏只要最终发布即可。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""一款好游戏只要最终发布即可"" should capitalize the first word ""一款"" according to Chinese language conventions."
+392,"""Or, as an industry catch phrase goes: A late game is only late until it ships.","一款游戏迟到只是迟到,直到它发布。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The phrase ""A late game is only late until it ships"" should be capitalized according to English conventions.
+[Minor]: [Punctuation] - The source text uses a colon (:) after the phrase ""as an industry catch phrase goes"", but the translation uses a comma (,) instead."
+394,Is it so ephemeral then?,那么它是如此短暂吗?,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""那么它是如此短暂吗?"" should have the first letter capitalized as ""那么它是如此短暂吗?"""
+397,"He carries it in his mouth proudly all over the house, and I just have to laugh inwardly.","他骄傲地在房子里到处叼着它,我只能在内心偷偷地笑。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The translation uses ""房子里"" instead of ""房子里"" which should be capitalized according to Chinese writing conventions.
+[Minor]: [Punctuation] - The translation uses ""。"" at the end of the sentence, which is correct, but the source text does not have any punctuation at the end."
+399,Have now done a full round trip on the new ICNG train.,我已经完成了新型 ICNG 列车的全程往返旅行。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""我已经完成了新型 ICNG 列车的全程往返旅行"" should have ""ICNG"" capitalized as ""ICNG"" to match the capitalization in the source text."
+400,I really like it.,我很喜欢它。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""我很喜欢它。"" should start with a capital letter as it is the beginning of a sentence."
+402,There's areas that could use some polish.,需要加以改善的地方。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation ""需要加以改善的地方"" does not match the source text ""There's areas that could use some polish."""
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.","缺乏足够的垃圾桶,以及缺乏解释照明颜色意义的标志。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing punctuation at the end of the sentence."
+404,"Fix those minor issues, and then can we have more of these please?","修复这些小问题,然后我们可以再来一些吗?","MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The Chinese translation is missing a question mark at the end of the sentence."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,"每位顾客限购一件规则仍然存在,我们努力确保每个排队的人都能买到板子。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""board"" should be capitalized as ""Board"" to follow standard capitalization conventions."
+407,"You can buy ONE of the boards listed above, not one of each.","您可以购买上述列出的其中一块板子,而不是每种都买一块。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Whitespace] - There should be a space between ""您"" and ""可以""."
+409,Yesterday I had the best time with my friend and former rabbi colleague.,昨天我和我的朋友以及前任拉比同事度过了美好的时光。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""rabbi"" should be capitalized as it is a title."
+410,We visited for a couple hours on my porch.,我们在我的门廊上待了几个小时。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation is slightly different from the source text, but the meaning is still clear."
+412,We all have stories to tell.,我们都有故事要讲。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first word ""我们"" should be capitalized."
+415,I quite like akkoma the software and the domain name I got for my instance.,"我很喜欢 akkoma 这个软件,以及我为我的实例获得的域名。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first letter of ""akkoma"" should be capitalized.
+[Minor]: punctuation - The period at the end of the sentence is missing."
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",但是我感觉我以某种方式开始了这个实例的错误步伐。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation ""但是我感觉我以某种方式开始了这个实例的错误步伐"" is not natural compared to the source text ""But I feel somehow I started this instance on the wrong foot, so to speak."""
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,"爬行动物已经在地表下挖掘隧道,你掉入了一个洞穴中,里面有数百只爬行动物的沸腾的身体。","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The translation ""爬行动物已经在地表下挖掘隧道,你掉入了一个洞穴中,里面有数百只爬行动物的沸腾的身体"" is grammatically incorrect. The sentence structure is awkward and does not flow naturally.
+[Minor]: [capitalization] - The word ""Repnid"" should be capitalized in the translation to maintain consistency with the source text.
+[Minor]: [spelling] - The word ""爬行动物"" should be ""爬虫"" to accurately translate ""Repnids"" from the source text."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","结局迅速,几对尖牙注入致命毒液,Dyskra的空气污染你的肺部。","MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is not natural, the phrase ""几对尖牙注入致命毒液"" should be rearranged to ""几对尖牙注入了致命毒液"".
+[Minor]: [punctuation] - The translation lacks a period at the end of the sentence."
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.","八眼的Repnids似乎在观察着你,但他们没有向你移动,事实上当你缓慢地走向他们时,他们保持静止不动。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""Repnids"" should be capitalized as ""Repnids"" according to the source text."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.","你决定再次建立联系会很危险,于是返回到你的飞船上,但这次经历使你的思维变得清晰,此前你跳入未来后一直处于困惑之中。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first letter of ""flyer"" should be capitalized.
+[Minor]: [grammar] - The phrase ""此前你跳入未来后一直处于困惑之中"" could be improved to ""此前你跳入未来后一直处于困惑状态""."
+437,I started a new shawl.,我开始了一件新的披肩。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""我开始了一件新的披肩"" should have the first word ""我"" capitalized as it is the start of a sentence."
+442,I am using a H hook with a similar double crochet pattern as I have done before.,"我正在使用一个H钩,采用与之前相似的双钩针图案。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Capitalization] - The word ""H"" should be capitalized as it refers to a specific type of crochet hook.
+[Minor]: [Punctuation] - The comma after ""与之前相似的"" should be removed as it is not necessary in this context."
+448,The literature class hatred is even worse: I love to read.,文学课的仇恨更加严重:我热爱阅读。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation is incorrect compared to the source text. The correct order should be: ""文学课的仇恨更加严重,我热爱阅读。"""
+454,Humanity is out in 5 days.,人类将在5天内走向终结。,"MQM annotations:
+linguistic conventions errors:
+[Major]: [word order] - The word order in the translation ""人类将在5天内走向终结"" does not match the source text ""Humanity is out in 5 days."""
+456,What will people think of it?,人们会怎么想它?,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the Chinese translation ""人们会怎么想它?"" does not match the natural word order of the English source ""What will people think of it?""."
+463,Came home on my lunch break to see this sitting outside uwu.,"在午休时回到家里,看到这个坐在外面 uwu。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The use of ""uwu"" at the end of the sentence is not a standard punctuation mark in English."
+464,Wish I could take it back to work with me to setup more.,希望我能把它带回工作中设置更多。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [word order] - The word order in the translation ""希望我能把它带回工作中设置更多"" is slightly different from the source text ""Wish I could take it back to work with me to setup more."""
+466,So I finally watched #Heartstopper,所以我终于看了《心动》,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The translation ""《心动》"" should be capitalized as ""《Heartstopper》"" to match the capitalization of the source text ""#Heartstopper""."
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.","但是重要的是不要为问题找借口,而是直接解决它们,特别是在生产环境中,当您的主管需要进行更改时。","MQM annotations:
+linguistic conventions errors:
+[Major]: [grammar] - The sentence structure is not natural in Chinese. The translation should be more concise and direct, such as ""但重要的是要解决问题,而不是找借口,尤其是在生产环境中,当您的主管需要进行更改时。"""
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.","好的批评是为了快速纠正问题,并不针对你的能力。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The first word ""好的"" should be capitalized as ""好的"" to follow the standard capitalization rules in Chinese."
+485,These roots are hidden.,这些根是隐藏的。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The first word ""这些"" should be capitalized in Chinese."
+486,Work is not visible.,工作是看不见的。,"MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The translation ""工作是看不见的"" does not follow the natural grammar structure of the source text ""Work is not visible."""
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,"他等到在宿舍的黑暗中,才拿出那张纸条,在遮光窗帘透进来的一束光线中读了它。","MQM annotations:
+linguistic conventions errors:
+[Minor]: [Punctuation] - Missing comma after ""before he pulled the note out""."
+495,I've met some marvelous new #Mastodon mates lately and want to maintain the trend.,"我最近遇到了一些了不起的新#Mastodon朋友,我想保持这种趋势。","MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - The word ""#Mastodon"" should be capitalized consistently with the source text."

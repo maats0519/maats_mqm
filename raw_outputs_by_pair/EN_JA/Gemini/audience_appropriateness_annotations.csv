@@ -1,0 +1,386 @@
+index,original,translated,audience_appropriateness_annotation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",実は、IDirect3D::CreateViewport() を呼び出すと IDirect3DViewport ではなく、IDirect3DViewport にメソッドを追加した IDirect3DViewport3 が返ってくると思い込んでいた。私が実装したのは IDirect3DViewport だった。,"MQM annotations:
+audience appropriateness error: None"
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは普遍的に正しいわけではなく、該当のオブジェクトを生成する際に使用しているインターフェースによって事情が変わる場合がある。,"MQM annotations:
+audience appropriateness error: None"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",議論のために仮に、科学が少なくとも部分的には、世界に関する客観的に事実な記述のリストで構成され、それらが支持するかもしれないいかなる理論とも無関係に真であると仮定しよう。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,科学にそのような事実が存在するというのが真実だとしても、科学的事実が理論負荷的であると主張することは依然として可能だ。,"MQM annotations:
+no-error"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",この解釈では、実験が事実を作り出すのではなく、どの実験を行うかの選択が、どの事実が発見されるかを左右する。,"MQM annotations:
+audience appropriateness error: None"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",亜原子粒子に関する事実など、資本主義においてのみ可能な実験からしか得られない事実がある。なぜなら、そのような実験はあまりに多くの資源、組織、そして強制力を必要とし、資本主義以外では実現不可能だからだ。,"MQM annotations:
+major: audience_appropriateness/culture-specific reference - The statement implies a specific political/economic viewpoint (criticism of capitalism) that may not be universally accepted or understood in Japan without further context. While Japanese readers may be familiar with capitalism and its criticisms, the direct link between specific scientific experiments and capitalism's necessity could be seen as a political statement that requires careful consideration of the audience's background and potential biases."
+14,Picking this up this weekend.,週末に引き取ります。,"MQM annotations:
+minor: style/awkward - The translation is grammatically correct and conveys the general meaning, but it lacks context regarding what exactly is being ""picked up."" This could be confusing for the reader. While not strictly an audience appropriateness issue, a more natural translation would be beneficial."
+16,Already on coil overs and lowered ride height.,車高調済み、ローダウン済み。,"MQM annotations:
+minor: no-error
+major: no-error
+critical: no-error"
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べてみたのですが、もしこの車について何か情報をお持ちの方がいらっしゃいましたら教えていただけると嬉しいです。,"MQM annotations:
+audience appropriateness error:
+None"
+18,Personal experiences?,個人的な経験？,"MQM annotations:
+audience appropriateness error: no-error"
+19,I know they're not fast compared,それに比べて速くないのは分かっています。,"MQM annotations:
+audience appropriateness error: None"
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",俺はボードショーツにランニングシャツ姿、そして連れ合いは全身タトゥーで、自分で「ネオナチみたい」って言ってた新しい髪型。,"MQM annotations:
+minor: audience_appropriateness/culture-specific reference - While ""neo-nazi"" is a globally understood term, its impact and connotations can vary significantly across cultures. In Japan, the association might be less direct and immediate compared to Western contexts, potentially lessening the intended impact or shock value. However, given the limited context and the speaker explicitly using the term, it's not a critical error."
+36,NY is the best hope for accountability,ニューヨークこそが説明責任を果たすための最良の希望だ。,"MQM annotations:
+no-error"
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つ信号の送受信に還元できないという重要な証拠がある。,"MQM annotations:
+minor: style/awkward - The Japanese translation is grammatically correct and conveys the meaning of the source text, but it is slightly formal and academic in tone. While not inappropriate, a less formal wording could be used depending on the intended audience (e.g., for a general readership)."
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",文脈依存的なコミュニケーションは、文脈の分布といった環境特性に大きく影響される、状況依存的な多層現象であると考えられます。,"```
+MQM annotations:
+audience appropriateness error: None
+```"
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒に、様々なプロジェクトを支援する貴重な半年間を過ごすことができました。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - While grammatically correct, the phrase ""貴重な半年間を過ごすことができました"" (kichō na hantoshikan o sugosu koto ga dekimashita) is a very polite and somewhat formal way of saying ""I was able to spend a valuable six months."" While appropriate in many contexts, depending on the intended audience and the overall tone of the document (which is not provided), a slightly less formal expression might be more natural."
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会った時、進捗状況、特に植林と農家支援について聞けて嬉しかったよ。,"MQM annotations:
+minor: style/awkward - The phrase ""聞けて嬉しかったよ"" (kikete ureshikatta yo) is very casual. While appropriate in some contexts, it might be too informal depending on the relationship between the speaker and listener, and the overall tone required. A more polite or formal equivalent might be more appropriate."
+61,Licht AGREED to an all Republican audience!,リヒトは共和党支持者のみの聴衆に同意しました！,"MQM annotations:
+audience appropriateness error:
+minor: culture-specific reference - While the translation is accurate, the context of ""all Republican audience"" is politically charged and specific to the American political landscape. A Japanese audience might not fully grasp the implications or significance of this statement without additional context. This could lead to a misunderstanding or a lack of engagement with the translated content."
+65,It can't be repeated.,繰り返せません。,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨夜、ついにこの繰り返しにうんざりして、ねり消しについてたピーナッツバターを全部取り除いて、罠にピスタチオを瞬間接着剤でくっつけた。,"MQM annotations:
+minor: culture-specific reference/idiom - The phrase ""ねり消しについてたピーナッツバター"" (peanut butter that was on kneaded eraser) is awkward. It seems the MT mistranslated ""traps of peanut butter"" to something related to kneaded eraser and peanut butter."
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",ちなみに、市販のほぼ全ての「人道的な」罠を試しましたが、ほとんど効果がありませんでした。,"MQM annotations:
+minor: style/awkward - The phrase ""ちなみに"" (chichinami ni) is a common way to start a sentence in Japanese, similar to ""by the way"" or ""for what it's worth"" in English. While not strictly inappropriate, starting with ""ちなみに"" might sound a bit too casual or informal depending on the specific context and desired tone."
+74,"They aren't, at least not in Alberta.",少なくとも、アルバータ州ではね。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [CULTURE-SPECIFIC REFERENCE] - The phrase ""at least not in Alberta"" refers to a specific geographical location (Alberta, Canada). While not inherently problematic, without context, this reference might be less relatable or understandable to a Japanese audience who may not be familiar with Canadian provinces. The translation is accurate but could benefit from additional contextualization if the intended audience is unfamiliar with Alberta. The added ""ね"" at the end adds a touch of colloquialism but doesn't fundamentally alter the audience appropriateness."
+75,Sure they cut business taxes.,確かに彼らは法人税を減税した。,"MQM annotations:
+audience appropriateness error: None"
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",「グラスゴーまで彼を送っていくだけなんです」と私は説明しようとした、旅の連れを指さしながら。,"MQM annotations:
+minor: style/awkward - While grammatically correct, the phrase 「グラスゴーまで彼を送っていくだけなんです」 sounds a bit overly polite or formal. A more natural phrasing might be 「グラスゴーまで彼を送り届けるだけなんです」 or even 「グラスゴーに送るだけなんです」depending on the context and the speaker's relationship with the listener. While not strictly inappropriate, the chosen phrasing might sound slightly unnatural to a native speaker."
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.",「グラスゴーにちょっと彼を降ろしてくるだけなんです、なんてあんまり聞かないセリフだな」と切符売り場の人は言った。,"MQM annotations:
+minor: style/awkward - The phrase ""なんてあんまり聞かないセリフだな"" (nante anmari kikanai serifu da na) is a very literal translation of ""There's not something you hear a lot."" While technically accurate, it's a somewhat unnatural-sounding expression in Japanese. A more natural phrasing might have been more idiomatic, perhaps focusing on the unusualness of the request directly, but this isn't strictly incorrect."
+90,And they are truly nuts.,彼らは本当に頭がおかしい。,"MQM annotations:
+minor: culture-specific reference/idiom - The phrase ""頭がおかしい"" (atama ga okashii) literally translates to ""their head is strange,"" which while understandable, is a slightly less common and potentially more clinical way of saying ""nuts"" or ""crazy"" compared to other options. While not inherently inappropriate, it might not be the most natural or idiomatic choice depending on the context and desired tone. A more colloquial expression might be more fitting."
+95,Yell back at those who would try to talk over us.,私たちを言い負かそうとする人たちには、言い返してやりなさい。,"MQM annotations:
+no-error"
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,私の隣人と私が同時に帰宅したんだけど、向かい側から彼の咳と、コロナの痰が嵐のように吹き上がる音が聞こえてきた。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,彼を避けるために急いでアパートに入ったのに、結局追いつかれて話しかけられちゃった。,"MQM annotations:
+no-error"
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.",4000もの苦難の末、Ylは愛に満ちた場所にたどり着き、どうしていいかわからないほどの大きな感情に戸惑っている。だから、その両方がたくさんある。,"```
+MQM annotations:
+audience appropriateness error:
+minor: style/awkward - The phrase ""どうしていいかわからないほどの大きな感情に戸惑っている。だから、その両方がたくさんある"" is somewhat awkward and vague. While understandable, it doesn't flow naturally and might require more context for a smoother, more natural-sounding translation in Japanese. The last sentence ""だから、その両方がたくさんある"" (Therefore, there's a lot of both) is vague and could be interpreted in various ways. It relies heavily on understanding the implied context, which might be lost or confusing for some Japanese readers.
+```"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#MangoMoronの大失敗は、とんでもない大失敗だった。,"MQM annotations:
+minor: culture-specific reference/use of hashtags - While hashtags are used in Japanese, using the exact same hashtag from the English source might not resonate with the Japanese audience or be as effective in Japanese social media. It might have been better to adapt it to a Japanese equivalent."
+113,A cold front should arrive by the middle of next week.,来週の半ばまでに寒冷前線が到来するでしょう。,"MQM annotations:
+audience appropriateness error: None"
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",今朝早く、IR衛星と地上観測により、低層の層雲が拡大しており、まだらな<URL>が確認されました。,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけて、その専門知識を活用し、CRM投資の価値を最大化しましょう。,"MQM annotations:
+minor: style/awkward - The phrase ""その専門知識を活用し、CRM投資の価値を最大化しましょう"" sounds a bit too formal/business-like for a general audience. While not incorrect, it could be softened for broader appeal. A more casual phrasing might resonate better."
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーがどのように実装、カスタマイズ、インテグレーション、継続的なサポートで貴社を支援し、Salesforceエコシステムでビジネスを成功に導くかをご紹介します。,"MQM annotations:
+minor: style/awkward - The phrase ""Salesforceエコシステムでビジネスを成功に導くかをご紹介します"" is grammatically correct but sounds slightly unnatural. A more natural phrasing would be ""Salesforceエコシステムでのビジネスの成功を支援する方法をご紹介します"". It's not incorrect, just not the most elegant."
+137,But another individual often flies aboard that ship.,しかし、その船にはもう一人の人物がよく搭乗している。,"MQM annotations:
+audience appropriateness error: None"
+142,The Last of Us is an easy and canonical example of dad-ification.,The Last of Usは、ダッド化の分かりやすく典型的な例だ。,"MQM annotations:
+minor: culture-specific reference/unclear - The term ""ダッド化 (daddo-ka)"" which is a direct transliteration of ""dad-ification"", might not be widely understood by all Japanese speakers. While increasingly used, it still has a niche usage and might require additional explanation or context for some audiences."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父性化とは、親のような立場の者が子供や子供の代わりとなる者を世話したり保護したりしなければならない状況に対する解決策が、圧倒的な力であり、その力を使って非常に特異な形の力関係を強制することであると通常仮定する。,"MQM annotations:
+no-error"
+147,Here's a quick overview of how to make use of our website.,当ウェブサイトのご利用方法の簡単な概要です。,"MQM annotations:
+no-error"
+148,- We send out notifications when airfare goes on sale.,航空券がセールになった際にお知らせを送信します。,"MQM annotations:
+minor: style/awkward - While grammatically correct, the phrase ""航空券がセールになった際にお知らせを送信します"" sounds slightly formal. A more casual or conversational phrasing might be more appropriate for a general audience receiving notifications, depending on the brand's tone. No major issue, but slightly stilted."
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは、平和で安全な環境で成長する権利を有します。,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+159,Over time dart became my go-to for quick UI.,時間の経過とともに、dartは手軽なUIに最適な選択肢になった。,"MQM annotations:
+minor: style/awkward - The phrase ""手軽なUI"" (tegaru na UI) while literally ""easy/simple UI,"" sounds slightly less natural than other options. While understandable, a more common or polished phrase might be preferred in a professional context."
+164,Echidna with amethyst and magenta spikes.,アメジストとマゼンタのトゲを持つハリモグラ,"MQM annotations:
+minor: no-error
+major: no-error
+critical: no-error"
+166,Their tail is extremely thick.,彼らの尻尾は非常に太いです。,"MQM annotations:
+no-error"
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目はナシのようで、真っ赤なキャッツアイの眼鏡をかけている。,"MQM annotations:
+minor: culture-specific reference/literal translation - While ""ナシのよう"" (nashi no you) literally translates to ""like a pear,"" it might not be a common idiom to describe the shape of eyes in Japanese. A more natural and idiomatic expression might be preferred for a Japanese audience."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",ブラム・ストーカー、マックス・シュレック、ステファニー・メイヤーが彼らを悪く見せようと最大限の努力をしたにもかかわらず、皆…,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",現実では、母が何年も前に私が作ったパズルゲームを気に入って、ほとんどの隠し要素を自力で見つけたので、褒め言葉がお母さん目線だけのものではなかったんです。,"MQM annotations:
+minor: style/awkward - The phrase ""褒め言葉がお母さん目線だけのものではなかったんです"" is grammatically correct but could be phrased more naturally in Japanese. While not strictly inappropriate, it sounds a bit verbose and stiff for casual conversation. A more natural phrasing might be ""親バカじゃなかったってことです"" or similar."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","Here's the Japanese translation:
+
+**北京語（標準中国語）もしくは福建語に翻訳する必要があり、どちらも全く分からないので、翻訳のみを提供してください。**","Okay, I understand. Since I don't have the Mandarin or Hokkien translation, I will provide a template response indicating no audience appropriateness errors, as I cannot evaluate the cultural or linguistic suitability of a translation that isn't provided.
+
+```
+MQM annotations:
+audience appropriateness error:
+None
+```"
+179,Been toying with this thought for a little while:,この考えをしばらくの間、弄んでいる。,"MQM annotations:
+minor: style/awkward - While grammatically correct, the translation 「この考えをしばらくの間、弄んでいる」 sounds a bit formal and literary for a casual expression like ""toying with this thought."" In Japanese, ""弄ぶ (irobusu)"" can carry a nuance of playing with something in a way that's not necessarily productive or even a bit cruel, depending on the context. It's not a *major* issue, but a more natural and common way to express this thought in casual conversation would be ""この考えをしばらくの間、あれこれ考えている"" or ""この考えをしばらくの間、頭の中でいじっている."""
+180,"Mental health is often seen as something separate from ""regular"" health.",メンタルヘルスは、しばしば「普通の」健康とは別のものとして見なされる。,"MQM annotations:
+minor: style/awkward - While technically accurate, the phrase ""普通の"" (futsū no) for ""regular"" can sound slightly unnatural in this context. A more common and natural phrasing might be ""通常の"" (tsūjō no). This is a minor issue because it doesn't impede understanding, but affects the overall smoothness."
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こり、身体的な健康よりも実体がなさそうに見えるから。,"MQM annotations:
+minor: style/awkward - While grammatically correct, the phrase ""実体がなさそうに見えるから"" (jittai ga nasa sou ni mieru kara) could be considered slightly abstract or philosophical for a general audience, particularly if the original English sentence aims for a more straightforward explanation. A more common or simpler phrasing could enhance audience appropriateness."
+194,Very much worth having a go at.,ぜひ挑戦する価値あり。,"MQM annotations:
+minor: style/register - The phrase ""ぜひ挑戦する価値あり"" (zehi chousen suru kachi ari) is quite direct and could be perceived as slightly informal or forceful depending on the context and audience. While not strictly incorrect, a more nuanced or polite phrasing might be more appropriate in certain situations. This depends heavily on the target audience and the overall tone of the document or conversation. If the context requires a very formal tone, this could be a minor issue. In many common scenarios, it's perfectly acceptable."
+196,Playing around a bit with Flutter.,Flutterを少し触ってみています。,"MQM annotations:
+minor: style/awkward - While grammatically correct, ""Flutterを少し触ってみています"" is a very direct translation and could be slightly softened depending on the desired level of formality. A more natural phrasing might be ""Flutterを少し試しています"" or ""Flutterを少し使ってみています,"" but the original is not incorrect. No significant audience inappropriateness issues."
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",正直に言うと、グーグルの技術に事業の基盤を置きたくはない。一方で、グーグルは魅力的なクロスプラットフォーム体験を生み出す本当のインセンティブを持っている数少ない大企業の一つであり、それは明らかだ。,"MQM annotations:
+minor: style/awkward - While technically accurate, the phrase ""それは明らかだ"" (""that is obvious/clear"") might sound slightly more assertive or direct in Japanese than intended by the original English. A more nuanced or softer phrasing could potentially be more appropriate depending on the specific context. However, this is a very minor point."
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,また、GoogleやFlutter製のアプリがiOSやmacOSでは使い物にならないといった話はしないで、翻訳だけを提供してください。,"MQM annotations:
+minor: style/awkward - The phrase ""使い物にならないといった話はしないで"" sounds slightly strong or overly direct for general politeness in Japanese. A more polite phrasing could be considered, although it's not strictly incorrect."
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームをきちんとやるのは難しい。,"MQM annotations:
+minor: style/awkward - The phrase ""きちんとやる"" (kichinto yaru) while meaning ""to do well"" or ""properly"" is a bit informal and could be considered slightly less appropriate depending on the context. A more formal phrasing might be better suited for certain audiences."
+201,I know that.,知ってるよ。,"MQM annotations:
+audience appropriateness error:
+[Minor]: [style/register] - ""知ってるよ"" (shitteru yo) is a casual way of saying ""I know that."" While not inherently inappropriate, it may be too informal depending on the context and the relationship between the speaker and the listener. A more formal version like ""知っています"" (shitte imasu) might be preferable in certain situations. The appropriateness depends entirely on the unstated context, so it's a minor issue."
+202,Thank you to those people who have downloaded the latest update to Leasey.,Leaseyの最新アップデートをダウンロードしてくださった皆様、ありがとうございます。,"MQM annotations:
+no-error"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,なぜ私の脳が理解できないのか正確にはわからない。ツールが広範かつ曖昧すぎて、「選択肢が多すぎる」せいで脳がフリーズしてしまうのかもしれない。,"MQM annotations:
+minor: style/awkward - The phrase ""脳がフリーズしてしまう"" (nou ga furiizu shite shimau) which translates to ""brain freezes"" is not strictly wrong, but using the English loanword ""フリーズ"" (furiizu - freeze) in this context might sound slightly less formal or intellectual than the surrounding text, depending on the target audience's expectations. A more traditional Japanese expression could be used for heightened formality. While acceptable, it's a stylistic choice that may marginally affect the perceived formality."
+211,Grafana looks pretty.,Grafanaは見栄えが良いですね。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",新しい #FFXIV のレイド tier が近づいてきて、「ちゃんとレイドに挑戦してみたいなあ、でもパーティ募集は荒れてそうだし、固定なんて見つかるわけないよなあ」ってずっと考えてた。,"MQM annotations:
+minor: style/awkward - The phrase ""パーティ募集は荒れてそうだし、固定なんて見つかるわけないよなあ"" is grammatically correct but sounds a bit too casual and internally-focused for a general audience. While appropriate for the original, it might benefit from a slightly more polished and less self-deprecating tone for broader appeal."
+214,"So I thought, screw it!",くそくらえ！,"MQM annotations:
+minor: audience_appropriateness/culture-specific reference - ""くそくらえ！"" (Kuso kurae!) is a very strong and vulgar expression in Japanese. While it translates the general sentiment of ""screw it!"", it's significantly more offensive than the English phrase. Depending on the context and target audience, it might be inappropriate. A more neutral alternative could be considered."
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",レイド固定に入るのを試すのをためらうほど不安で、上手くなろうという期待は全くない人たちでいっぱい！,"```
+MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+219,I was a voracious reader in my youth.,若い頃は、本の虫だった。,"MQM annotations:
+minor: culture-specific reference/idiom - ""本の虫"" (hon no mushi), literally ""bookworm,"" is a common Japanese idiom for a voracious reader. While accurate, using an idiom where a more direct translation might suffice could be considered slightly less appropriate depending on the desired register and audience familiarity with Japanese idioms. However, it's a very common and acceptable phrase."
+227,They're not gonna talk about this on Bloomberg!,ブルームバーグじゃ報道されないだろうな！,"MQM annotations:
+minor: style/awkward - The Japanese translation is a bit literal. A more natural translation might be ""ブルームバーグは報道しないだろうけどね"" or ""ブルームバーグは報道しないでしょう"". The given translation is not incorrect, but sounds slightly stiff."
+228,"But if Spotify has a good quarter, they will.",しかし、もしスポティファイの業績が良ければ、そうなるでしょう。,"MQM annotations:
+no-error"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,全国の空洞化し荒廃した都市を再建させよう。,"MQM annotations:
+no-error"
+231,These people want to improve their lives.,これらの人々は、生活を向上させたいと思っています。,"MQM annotations:
+audience appropriateness error: None"
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは終わった」とか「リモートワークは失敗だった」という見出しには、もううんざりだ。,"MQM annotations:
+minor: style/awkward - The phrase ""もううんざりだ"" (mou unzari da) meaning ""I'm so tired of it"" or ""I'm fed up with it"" is perfectly acceptable in Japanese, but depending on the context and desired level of politeness, it might be considered slightly informal or blunt. If the target audience is a formal business setting or requires a higher level of politeness, a more softened expression might be preferable. However, without more context, it's difficult to say whether it's inappropriate, and this is a minor consideration."
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.",人々が、息苦しい騒がしいオフィスではなく、快適な空間で働けるようにする。,"MQM annotations:
+audience appropriateness error:
+None"
+243,To just ignore these facts is wrong.,これらの事実を無視するのは間違っている。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - While grammatically correct, the translation is quite literal and sounds a bit stiff or formal in Japanese. A more natural phrasing might be used depending on the context and target audience. This isn't a major error, but it affects the naturalness of the Japanese."
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、現代の都市に住む女性がキャリアのために出産を遅らせようとする傾向について言及した。,"MQM annotations:
+minor: style/awkward - The phrase ""現代の都市に住む女性"" (modern urban women) sounds slightly redundant in Japanese. It's not incorrect, but it could be more concise and natural."
+255,It took years of changing my life and working hard but finally...,何年も生活を変え、努力した結果、ついに…,"MQM annotations:
+minor: style/awkward - While grammatically correct, ""何年も生活を変え、努力した結果、ついに…"" (Nan-nen mo seikatsu o kae, doryoku shita kekka, tsuini…) is a very general and common phrasing. It lacks the specific nuance that would make it truly impactful and resonate with the audience. Depending on the context and what comes *after* the ""ついに…"" (tsuini...), a more tailored phrase or word choice might be more appropriate and engaging for a Japanese audience. For example, using a more formal or informal expression depending on the intended readership, or choosing a word that emphasizes either the hardship endured or the sense of achievement."
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,念のため、サイクリングジャケットにライナーをファスナーで取り付けます。,"MQM annotations:
+minor: style/awkward - The phrase ""ライナーをファスナーで取り付けます"" (rainer o fasunaa de toritsukemasu) is grammatically correct but sounds a bit stiff and formal for everyday conversation. A more natural phrasing might be ""ライナーをジャケットにチャックでつける"" (rainer o jaketto ni chakku de tsukeru). While not technically wrong, the MT output is less conversational than expected."
+266,This is for Wikipedia's component library (OOUI).,これは、ウィキペディアのコンポーネントライブラリ（OOUI）のためのものです。,"```
+MQM annotations:
+audience appropriateness error:
+minor: no-error - The translation is appropriate for the target audience.
+```"
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親オブジェクトを分離して作成し、そこにMOをインストールし、それが分離される（つまり、別の場所にアタッチされる）のを観察します。,"MQM annotations:
+minor: style/awkward - The phrase ""MOをインストールし、それが分離される（つまり、別の場所にアタッチされる）のを観察します"" sounds slightly technical and unnatural in Japanese. A more fluent phrasing might be better suited for a general audience."
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は毎日私のオフィスを2往復も走り回っているから、完全に筋肉ムキムキになっているんだ。,"MQM annotations:
+minor: style/awkward - The translation ""筋肉ムキムキになっているんだ"" (kinniku mukimuki ni natteiru nda) while accurately conveying the meaning of ""ripped,"" uses a very colloquial and slightly childish expression for muscular. While not inherently inappropriate, it might not suit all audiences, especially in a formal or professional context. A more neutral term like ""筋肉質"" (kinshitsu) might be preferable depending on the intended audience and tone."
+278,It makes me so happy to see him thriving.,彼が活躍しているのを見ると、とても嬉しいです。,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error - None
+[Major]: no-error - None
+[Minor]: no-error - None"
+285,Last week got a ton done and feeling much better about field items.,先週はたくさん終わらせることができて、現場の件もだいぶ良くなった気がする。,"MQM annotations:
+no-error"
+286,"All collards, kale, chard is transplanted.",すべてのコラード、ケール、スイスチャードは移植済みです。,"MQM annotations:
+minor: no-error
+major: no-error
+critical: no-error"
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",また、サラダ菜をそこに播種して、カット野菜を組み込む必要があります。灌漑、畝作り、移植については訓練されたクルーがおり、これは収穫以外のスキルの90％を占めます。,"MQM annotations:
+minor: style/awkward - The phrase ""カット野菜を組み込む必要があります"" (katto yasai o kumikomu hitsuyou ga arimasu) could be phrased more naturally. A slightly more common and less stiff phrasing might be 「カット野菜を混ぜてサラダに使うと良いでしょう」. While not strictly incorrect, it reads slightly formal or technical. It might benefit from a softer phrasing, depending on the intended audience. Also, ""畝作り"" is a literal translation of ""bed prep"" which might be ok in this context but could be more approachable with a slightly more detailed explanation in some contexts."
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,Apple Maps の方が Google Maps よりも、ナビゲーションの指示に従う体験がはるかに優れていた。,"MQM annotations:
+minor: style/awkward - The phrase ""ナビゲーションの指示に従う体験がはるかに優れていた"" (nabigēshon no shiji ni shitagau taiken ga haruka ni sugureteita) is grammatically correct but sounds somewhat formal and stiff. A more natural phrasing might be ""ナビゲーションの使いやすさがずっと良かった"" (nabigēshon no tsukaiyasusa ga zutto yokatta) or ""ナビゲーションがずっと使いやすかった"" (nabigēshon ga zutto tsukaiyasukatta). While not incorrect, the current translation could be slightly improved for a more natural and audience-appropriate feel."
+295,Apple Maps wins.,Apple Maps の勝ち。,"MQM annotations:
+no-error"
+302,"That said, I'm biased.",そうは言っても、私は偏っています。,"MQM annotations:
+minor: style/awkward - While the translation is accurate, the phrase ""私は偏っています"" (watashi wa katayotte imasu) in Japanese, while literally meaning ""I am biased,"" sounds a bit stiff and formal in everyday conversation. A more natural and audience-appropriate phrasing might be something like ""ちょっと偏ってるかも"" (chotto katayotteru kamo) or ""ひいき目に見ているかも"" (hiikime ni miteiru kamo), which are more casual ways of saying ""I might be biased."" Therefore, while not incorrect, the given translation lacks nuance for common use."
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,しかし、政府が今の制度を変えないと考える限り、富の貯蔵庫として優れているのは土地だからです。,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error"
+309,In China you can only lease land.,中国では土地はリースしかできません。,"MQM annotations:
+minor: style/awkward - The sentence structure is a bit unnatural in Japanese. A more natural phrasing might be used depending on the specific context. While not strictly inappropriate, it could be smoother for a Japanese audience."
+311,The government can change these policies whenever it wants.,政府は、これらの政策をいつでも変更できます。,"MQM annotations:
+minor: style/awkward - While grammatically correct, the translation ""政府は、これらの政策をいつでも変更できます"" is very direct and could be softened depending on the context and intended audience (e.g., adding ""...ことが可能です"" or ""...ことができます""). This is a subtle issue of politeness and tone which could be improved."
+312,The land is temporary.,土地は一時的なもの。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+318,That's why the Chinese only allow leases.,だから中国はリースしか認めていない。,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error - None
+[Major]: no-error - None
+[Minor]: no-error - None"
+322,Let us continue to work together towards creating a brighter future for all.,すべての人々にとって、より明るい未来を創造するために、共に努力し続けましょう。,"MQM annotations:
+minor: style/awkward - While grammatically correct, the Japanese translation ""すべての人々にとって、より明るい未来を創造するために、共に努力し続けましょう"" is slightly more formal than the English source ""Let us continue to work together towards creating a brighter future for all."" Depending on the context, a more conversational phrasing might be more appropriate for a general audience. However, this is a very minor point and doesn't significantly impact understanding."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分をひどく卑下する人間の能力を、実際の残酷さを示す証拠がこれほど多くあるにもかかわらず、不思議に思うことがよくある。,"MQM annotations:
+minor: style/awkward - The phrase ""不思議に思うことがよくある"" (fushigi ni omou koto ga yoku aru) while grammatically correct, can sound slightly formal or bookish for everyday conversation. A more natural phrasing might be something like ""よく不思議に思う"" (yoku fushigi ni omou) or ""いつも不思議に思う"" (itsumo fushigi ni omou), which are slightly more conversational. This is a subtle difference and doesn't impede understanding, but affects the naturalness of the text."
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",「成功」が最も非難されるべき行為の責任者たちにしばしば与えられる世界で、個人の失敗と罪悪感に苦悩すること…。,"MQM annotations:
+audience appropriateness error: None"
+332,"or ""Modal editors are useless today"" :morty:",もしくは「モーダルエディタは今や無用」:morty:,"MQM annotations:
+minor: culture-specific reference/unexplained slang - The use of "":morty:"" assumes the target audience is familiar with the Rick and Morty character and its associated internet slang/meme usage. While becoming more globally recognized, it's still a culture-specific reference that might not resonate with all Japanese speakers."
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:",俺の#Axumプロジェクトの機能を共有ライブラリに抽出する作業: 「ちょっとキーボード貸して」:partyparrot: :helix: :ferrisdance:,"MQM annotations:
+minor: culture-specific reference/emoticons - The use of "":partyparrot: :helix: :ferrisdance:"" might not be universally understood or appreciated by all Japanese audiences. While emoticons are common, these specific ones might be unfamiliar."
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのお題は、徹夜。,"MQM annotations:
+minor: culture-specific reference/general - While ""Revelations"" might be understood as a title or name in English, without further context, it might not be immediately clear to a Japanese audience. It might be perceived as overly religious or simply confusing. A more culturally neutral term or explanation might be better depending on the context. This isn't a major error as it could still be understood, but it detracts slightly from immediate clarity."
+339,It is definitely more romance than filth.,どちらかと言えば、エロよりロマンスです。,"MQM annotations:
+minor: style/register - ""エロ"" (ero) in Japanese can be a bit crude. While it accurately conveys the ""filth"" aspect, in this context, a slightly more refined term might be preferred, depending on the audience. However, it's not a major issue."
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",いつか絶対、飛行機の中でオーガズムを体験してやる。相手は知らない人じゃないかもしれないけど。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+345,"I wish there was a ""who to follow"" recommendation somehow.",フォローすべき人のレコメンデーション機能みたいなのがあればいいのに。,"MQM annotations:
+minor: style/awkward - The phrase ""機能みたいなのがあればいいのに"" is a very casual and colloquial way of expressing a desire for a feature. While grammatically correct, it might sound a little too informal for some contexts. A more formal expression would improve audience appropriateness."
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",つまり、始めるにはもう少し手間がかかり、#UXを向上させるには優れたアプリが必要になるでしょう。,"MQM annotations:
+minor: style/awkward - The phrase ""つまり"" (tsumari) at the beginning, while grammatically correct, can sometimes sound a bit abrupt or overly explanatory depending on the context and the desired tone. While not strictly *inappropriate*, it might be perceived as slightly less smooth or natural in some conversational contexts than a more subtle introduction. This depends a lot on the broader context, but is a potential minor issue for audience appropriateness regarding tone."
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",変化を生み出すためにできることに関する知識（ある程度の信頼区間内で）。,"MQM annotations:
+minor: style/awkward - The phrase ""ある程度の信頼区間内で (aru teido no shinrai kukan nai de)"" which translates to ""within some confidence bounds"" is a very technical and statistical term. While accurate, it might not be easily understood by a general audience, making the sentence slightly less accessible than the original English. A more common phrase might improve audience appropriateness."
+360,He's here and he's going to say this stuff no matter what.,彼はここにいるし、何があってもこれを言うつもりだ。,"MQM annotations:
+minor: style/awkward - The translation is grammatically correct and conveys the meaning, but it's slightly formal and could be more natural in everyday Japanese. More casual alternatives exist for ""～つもりだ"" (tsumori da), which conveys ""intend to"" or ""going to."" It's not inappropriate, but slightly less conversational."
+362,It's very underwhelming at the moment.,今は期待外れだ。,"MQM annotations:
+minor: style/awkward - The Japanese translation ""今は期待外れだ"" (Ima wa kitai hazure da) is a very direct translation that is understandable. However, depending on the specific context, it could be considered slightly blunt or direct for some Japanese audiences. A more nuanced or indirect phrasing might be preferred in certain situations. While not strictly inappropriate, it lacks a certain level of cultural sensitivity to indirect communication styles often valued in Japanese culture."
+363,"The ""MusicLM Demo"" is mildly interesting.",MusicLM Demo は、まあまあ面白いです。,"```
+MQM annotations:
+audience appropriateness error:
+minor: style/register - Using ""まあまあ"" (maa maa) is slightly informal. While not strictly inappropriate, a more formal or neutral phrasing might be preferred depending on the context where this translation would be used. A more neutral alternative could be ""そこそこ"" (soko soko).
+```"
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",筋トレしてるのに、自分の最大挙上重量がどれくらいか全然知らないのって変な感じだよね。だって、それって進捗を把握する上でめっちゃ重要な指標の一つじゃん。,"MQM annotations:
+minor: style/awkward - The translation ""筋トレしてるのに、自分の最大挙上重量がどれくらいか全然知らないのって変な感じだよね"" sounds very casual and informal. While appropriate for certain audiences, it may be too informal for a general audience or a professional context related to weightlifting. A slightly more formal tone might be preferred depending on the intended readership.
+minor: culture-specific reference - The use of ""めっちゃ"" (meccha) is a very colloquial way of saying ""very"" or ""extremely."" While common in informal Japanese, it's not universally used and may sound a bit slangy to some Japanese speakers, especially older generations or those from more formal backgrounds. A more standard expression like ""とても"" (totemo) might be more appropriate for a broader audience."
+369,I work out alone in my bedroom without a spotter or even a weight rack.,誰の補助もなしに、ウェイトラックすらない自分の寝室で一人で筋トレをしています。,"MQM annotations:
+minor: style/awkward - While grammatically correct, the Japanese translation is a bit formal and could be more conversational for a casual context like describing a personal workout routine. Using ""筋トレしている"" instead of ""筋トレをしています"" would make it sound more natural."
+370,Just me and a barbell with a bunch of weights.,俺とバーベルと大量のウェイトだけ。,"MQM annotations:
+minor: style/register - The use of ""俺 (ore)"" is a very masculine and informal way to say ""I"" or ""me"" in Japanese. While not strictly incorrect, it might not be suitable for all audiences. Depending on the context (e.g., a social media post from a male lifter) it could be acceptable, but a more neutral term like ""私 (watashi)"" or ""僕 (boku)"" could be more appropriate for a broader audience. This is borderline but I am marking minor as it's about adjusting the tone/register."
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",自分の最大挙上重量を計算しようとすると、最大挙上できるだけの重りがなかったり、逆に重すぎて怪我をしたり、最悪の場合死んでしまうかもしれない。,"MQM annotations:
+minor: style/awkward - The phrase ""自分の最大挙上重量を計算しようとすると、最大挙上できるだけの重りがなかったり、逆に重すぎて怪我をしたり、最悪の場合死んでしまうかもしれない"" is grammatically correct but slightly wordy and could be more concise in Japanese. A native speaker might express this sentiment more directly. While not strictly inappropriate, it's less natural."
+375,I swear burrata didn't exist five years ago,5年前には、ブラッティーナなんて存在しなかったと誓うよ。,"MQM annotations:
+minor: culture-specific reference/uncommon knowledge - While ""ブラッティーナ"" (burattīna) is a valid transliteration of ""burrata"" into Japanese, the dish itself may not be widely known or understood by a general Japanese audience. A more explanatory translation, or including a note explaining what burrata is, would make it more accessible. However, the error is minor because some people may know what Burrata is."
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,誰かの母親が作っているのを見たことも、パーティーで無理やり押し付けられたことも、誰かのソース作りやパン作りの日に出てきたのを見たこともなかった。,"MQM annotations:
+minor: style/awkward - The phrase ""誰かのソース作りやパン作りの日に出てきたのを見たこともなかった"" feels slightly verbose and could be more naturally expressed in Japanese. While grammatically correct, it's a bit wordy for the relatively simple English sentence. It is not inappropriate, but the phrasing isn't the most elegant or common way to say this."
+384,Does anyone have a Linux tablet they love?,Linuxタブレットで愛用しているものがある人いますか？,"MQM annotations:
+minor: style/awkward - The phrase ""愛用しているものがある人いますか？"" is grammatically correct but slightly less natural than other possible phrasings. While not incorrect, it might sound a little stiff or overly formal for a casual question. A more natural phrasing might be something like ""Linuxタブレットで何かおすすめありますか？"" or ""Linuxタブレット使ってる人いますか？"" depending on the nuance you want to convey. This doesn't impede understanding but affects the naturalness of the Japanese."
+385,"This would be mainly for web browsing, occasional email, and some games.",主にウェブ閲覧、たまにメール、それに少しゲームをする程度です。,"MQM annotations:
+audience appropriateness error:
+[Critical]: None
+[Major]: None
+[Minor]: None"
+388,"A bad game is bad forever.""",駄作は永遠に駄作。,"MQM annotations:
+no-error"
+389,So was it Epic that originated this?,これってEpicがオリジナル？,"MQM annotations:
+minor: style/register - The translation is grammatically correct and conveys the meaning. However, depending on the context, it might be slightly too direct. A more nuanced or polite phrasing might be preferred in some situations."
+390,We can keep going.,続けることができます。,"MQM annotations:
+audience appropriateness error: None"
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",GamePro 1997年11月号の過去の記事には、もっと曖昧な引用がある。,"MQM annotations:
+no-error"
+401,Esp the carriages with the bigger windows.,特に窓の大きい車両。,"MQM annotations:
+minor: style/awkward - The Japanese translation is grammatically correct and conveys the meaning of the English source text, but it lacks the nuance of specifying *why* the carriages with bigger windows are being mentioned. It could be improved by adding context or clarifying the purpose of the statement for a more natural flow in Japanese."
+402,There's areas that could use some polish.,磨きをかけるべき箇所がいくつかあります。,"MQM annotations:
+minor: style/awkward - The Japanese translation ""磨きをかけるべき箇所がいくつかあります"" is a grammatically correct and accurate translation of ""There's areas that could use some polish."" However, it sounds slightly formal and indirect. Depending on the context, a more casual or direct phrasing might be more appropriate for certain audiences. While not strictly an audience inappropriateness error, the level of formality could be slightly adjusted based on the intended reader."
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",つまり、十分なゴミ箱の不足と、照明の色の重要性を説明する標識の不足です。,"MQM annotations:
+audience appropriateness error:
+minor: style/awkward - While grammatically correct, the phrase ""照明の色の重要性"" (the significance of the lighting colors) sounds slightly unnatural in Japanese. A more natural phrasing might be ""照明の色が持つ意味"" (the meaning that lighting colors have) or ""照明の色の意味合い"" (the nuance of the lighting colors). This is a very subtle issue."
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMやDDZ株が終わっても、悲しくはないだろう。,"MQM annotations:
+minor: style/awkward - The phrase ""終わっても、悲しくはないだろう"" (owattemo, kanashiku wa nai darou) is a grammatically correct but slightly stiff way to express ""I won't be sad."" A more natural phrasing might be ""終わっても、別に悲しくはない"" (owattemo, betsu ni kanashiku wa nai) or ""終わっても、悲しまないだろう"" (owattemo, kanashimanai darou). While not strictly inappropriate, the current phrasing is less common in casual conversation."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,お一人様一枚までとさせていただきます。お並びいただいた皆様がボードを入手できるよう努めております。,"MQM annotations:
+minor: style/awkward - The translation is slightly formal, but it is acceptable for this context. No significant audience appropriateness issues detected."
+411,Such friendships transcend differences.,そのような友情は、違いを超える。,"MQM annotations:
+no-error"
+412,We all have stories to tell.,誰にでも語るべき物語がある。,"MQM annotations:
+minor: style/awkward - The Japanese translation ""誰にでも語るべき物語がある"" (Dare ni demo katarubeki monogatari ga aru) literally translates to ""Everyone has a story that should be told"" or ""Everyone has a story to tell."" While grammatically correct, the phrase ""語るべき物語"" (katarubeki monogatari) sounds slightly formal and stiff. A more natural and common phrasing might be ""誰でも話したいことがある"" (Dare demo hanashitai koto ga aru), which translates to ""Everyone has something they want to talk about."" or ""誰でも物語を持っている"" (Dare demo monogatari o motteiru) ""Everyone has a story."" The given translation isn't incorrect but is slightly less natural than other options, which impacts audience appropriateness by creating a slightly stilted impression."
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",なんとなく、この件は最初からつまずいてしまったような気がします。,"MQM annotations:
+minor: style/awkward - The phrase ""最初からつまずいてしまったような気がします"" (saisho kara tsumazuite shimatta you na ki ga shimasu) while literally meaning ""I feel like I stumbled from the beginning"" or ""I feel like things went wrong from the start,"" can sound a bit dramatic or overly negative in some contexts. A slightly more natural or nuanced expression might be preferable, depending on the specific audience and level of formality desired."
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,もう少しここに残って、そもそも移行すべきかどうかを考えます。,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,レプニドたちは地表の下にトンネルを掘り、あなたは下の洞窟で数百ものレプニドの体が煮えたぎる塊の中に落ちてしまう。,"MQM annotations:
+no-error"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは唐突に訪れる。幾つもの牙が猛毒を注入し、ディスクラの空気が肺を蝕む。,"MQM annotations:
+no-error"
+425,Nobody will ever know that you were the first human future traveller.,あなたが人類初の未来旅行者だったことは、誰にも知られることはないだろう。,"MQM annotations:
+minor: style/awkward - While the translation is accurate, the phrase ""誰にも知られることはないだろう"" (dare ni mo shirareru koto wa nai darou) is grammatically correct but might sound slightly formal or dramatic for everyday conversation. A more natural phrasing could be considered depending on the context and intended audience. However, this doesn't necessarily make it inappropriate, just potentially less common in casual settings."
+426,You land the flyer nose upward on the side of the slag heap and climb out.,あなたは鉱滓山の斜面に機首を上にして着陸し、降りる。,"MQM annotations:
+audience appropriateness error: None"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つの目を持つレプニドたちは見ているようだが、こちらに向かってくる気配はない。実際、ゆっくりと近づいても、彼らは微動だにしない。,"MQM annotations:
+audience appropriateness error: None"
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",どうやら、ユニバーサル翻訳機は応答を拾っていないため、彼らはあなたの声が聞こえないどころか、理解もできないようです。,"MQM annotations:
+minor: style/awkward - The use of ""どうやら"" (douyara) at the beginning sounds a bit formal or literary. While not strictly inappropriate, a more casual phrasing might be better suited depending on the context."
+430,You decide to use your Psychic Awareness to contact them mentally.,念動力を使って、精神的に彼らと交信することにした。,"MQM annotations:
+minor: style/awkward - The phrase ""念動力を使って"" (using psychic power) is slightly more technical/formal than the English ""Psychic Awareness,"" which implies a more intuitive or innate ability. While not strictly incorrect, it introduces a slightly different nuance that may not be as smooth for a general audience."
+436,"#today I have coffee, sunshine and quiet time!",今日 は コーヒー と 日光 と 静かな 時間！,"MQM annotations:
+minor: style/awkward - The translation is grammatically correct and understandable, but the use of katakana for ""コーヒー"" (coffee) and omitting particles makes it sound slightly informal, like a casual social media post. While this isn't strictly *inappropriate*, a more formal or polite phrasing might be preferred in some contexts. This leans towards a stylistic preference rather than a major cultural issue."
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,撚りの甘い箇所や塊のある、細撚りの銀灰色の糸を見つけました。,"MQM annotations:
+minor: style/awkward - The phrase ""撚りの甘い箇所や塊のある、細撚りの銀灰色の糸を見つけました"" is grammatically correct and understandable, but slightly verbose. A more natural phrasing, depending on context, might be considered. It's not an inappropriate translation, just not the most elegant."
+441,But am not sure I have enough of the purple.,紫の色が十分にあるかどうか、自信がありません。,"MQM annotations:
+no-error"
+446,I have literally tried and dropped EVERY SINGLE ONE.,すべて、文字通り試してはやめた。,"MQM annotations:
+minor: style/awkward - While technically accurate, the translation ""すべて、文字通り試してはやめた"" (Subete, moji-doori tameshite wa yameta) is a bit stilted and literal. A more natural phrasing for a Japanese audience, especially in a casual context, would be something like ""全部試したけど、どれもダメだった"" (Zenbu tameshita kedo, dore mo dame datta) or ""全部試して、結局全部やめた"" (Zenbu tameshite, kekkyoku zenbu yameta). The ""文字通り"" (moji-doori - literally) also feels slightly out of place. While not incorrect, it isn't commonly used in this kind of casual statement."
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして、2年くらい前までは、成績証明書を確認するまで全く知りませんでした。,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error - None
+[Major]: no-error - None
+[Minor]: no-error - None"
+448,The literature class hatred is even worse: I love to read.,文学の授業嫌いはもっとひどい。読むのは大好きなのに。,"MQM annotations:
+minor: style/awkward - The translation is grammatically correct and understandable, but reads slightly awkwardly. It's not strictly ""inappropriate"", but the flow could be smoother for a more natural reading experience in Japanese."
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしいし、そこで幸せに過ごしているけれど、罪悪感を感じずに日中に小説を読むほどリラックスするには、どこか別の場所にいなければならない。,"MQM annotations:
+minor: style/awkward - While grammatically correct, the phrase ""罪悪感を感じずに日中に小説を読むほどリラックスするには、どこか別の場所にいなければならない"" (to relax enough to read fiction during the day without feeling guilty, I have to be somewhere else) is a bit long and could be phrased more naturally in Japanese. A more common phrasing might exist depending on the nuance the speaker wants to convey."
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,まるで休暇中で、だから休暇中にするようなことをしている、という感じです。,"MQM annotations:
+minor: style/awkward - The phrase ""という感じです"" (to iu kanji desu) is grammatically correct but might sound slightly unnatural or too polite in casual conversation, depending on the context and relationship between the speakers. A more natural phrasing might be more appropriate."
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",ここ2晩は家ほどよく眠れていないし、慣れない環境にいるだけで自分のペース配分が難しくなり、物の場所も覚えなければならないので、少し#MECFS（筋痛性脳脊髄炎/慢性疲労症候群）の症状が出てしまっているにも関わらず、そうなっているんだ。,"MQM annotations:
+minor: culture-specific reference/jargon - The acronym ""#MECFS"" is kept in the Japanese translation, which might not be immediately understandable to all Japanese speakers without the explanation provided in parentheses. Although the explanation is provided, the acronym is still more commonly used in English-speaking contexts."
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",ゲーム業界で働くことの、ワクワク感、緊張感、ストレス、そして私が愛するすべての良いものが詰まっている。,"MQM annotations:
+minor: style/awkward - While technically accurate, the phrase ""そして私が愛するすべての良いものが詰まっている"" (soshite watashi ga aisuru subete no yoi mono ga tsumatteiru) which means ""and all the good things that I love are packed in"" is a bit verbose and slightly unnatural compared to more concise and idiomatic Japanese ways to express the same sentiment. It's not incorrect, but lacks the natural flow a native speaker might use, potentially making it sound slightly ""translated."" A more natural phrasing might be something like ""そして、それらを全部ひっくるめて、ゲーム業界の仕事が大好きなんです。"" (soshite, sorera o zenbu hikkurumete, geemu gyokai no shigoto ga daisuki nan desu) - ""and all those things together, that's why I love working in the game industry."""
+458,Will a community blossom around the user-generated content piece of the game?,ゲームのユーザー生成コンテンツ作品を中心にコミュニティは形成されるだろうか？,"MQM annotations:
+critical: no-error
+major: no-error
+minor: no-error"
+466,So I finally watched #Heartstopper,ついに#Heartstopper 見た。,"MQM annotations:
+minor: style/register - The use of ""#Heartstopper"" is directly translated. While the hashtag itself isn't incorrect, in Japanese social media, users often add more context or descriptive terms around hashtags. Simply translating the hashtag can feel a bit abrupt or less natural in certain contexts, particularly if the goal is to fully engage a Japanese-speaking audience. A slightly more natural phrasing might include additional Japanese terms related to the show or one's reaction."
+467,Was it overly cute to the point of being twee?,甘すぎて、トゥイーって感じだった？,"MQM annotations:
+minor: culture-specific reference/literal translation - The word ""トゥイー"" (twee) is a direct transliteration of an English term. While loanwords are common in Japanese, its usage here might not resonate with all Japanese speakers, especially if they are unfamiliar with the original English meaning and cultural context. It depends on the audience. If the target audience is young people familiar with English, it's not inappropriate, but if the target audience is elderly, then it is inappropriate. Because the context is missing, I will make the annotation as a minor error."
+471,But did I love it?,私はそれを愛したか？,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error - None
+[Major]: no-error - None
+[Minor]: no-error - None"
+476,"In part, because they'd be taught badly.",教え方が悪かったから。,"MQM annotations:
+audience appropriateness error:
+[Critical]: no-error - None
+[Major]: no-error - None
+[Minor]: no-error - None"
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題について言い訳をせずに、ただ解決することが重要です。特に、リードから変更の要求があった場合のプロダクション環境では。,"MQM annotations:
+minor: style/awkward - The phrase ""リードから変更の要求があった場合のプロダクション環境では"" sounds slightly unnatural and could be rephrased for smoother flow in Japanese. While not strictly inappropriate, it could be more naturally rendered. A more natural phrasing might be something like ""リードが変更を要求した際の製造環境では""."
+479,"Every artist has been there, made the same mistakes.",どのアーティストも経験したことがある、同じ過ちを犯したことがある。,"MQM annotations:
+minor: style/awkward - While not strictly incorrect, the phrase ""どのアーティストも経験したことがある、同じ過ちを犯したことがある"" (Dono ātisuto mo keiken shita koto ga aru, onaji ayamachi o okashita koto ga aru) sounds a bit redundant and verbose in Japanese. A more natural and concise phrasing would be better suited for many audiences. This is not a critical issue, but affects the flow."
+484,Watch seeds being sown & cultivated (and not randomly scattered) by good peeps.,良い人たちによって種が蒔かれ、育てられるのを見る（ただランダムにばらまかれるのではなく）。,"MQM annotations:
+audience appropriateness error:
+None"
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",ジャミは犬の番の直前、小道ですれ違う時に彼にそっとメモを渡した。,"MQM annotations:
+minor: CULTURE-SPECIFIC REFERENCE/idiom - ""犬の番"" (inu no ban), while literally meaning ""dog watch,"" is likely a direct translation of the nautical term. While understandable, it may not be the most natural or common way to express the time of day or guard duty in Japanese, especially outside a specific maritime context. A more common expression could enhance audience appropriateness."

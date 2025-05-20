@@ -1,0 +1,670 @@
+index,original,translated,terminology_annotation
+1,"Turns out is was presuming that calling IDirect3D::CreateViewport() would return an IDirect3DViewport3, which has additional methods tacked onto the end compared to an IDirect3DViewport, which is what I've implemented.",実は、IDirect3D::CreateViewport() を呼び出すと IDirect3DViewport ではなく、IDirect3DViewport にメソッドを追加した IDirect3DViewport3 が返ってくると思い込んでいた。私が実装したのは IDirect3DViewport だった。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""IDirect3D::CreateViewport()"" should be in half-width katakana (ＩDirect3D::CreateViewport()).
+minor: WRONG TERM - ""IDirect3DViewport3"" should be in half-width katakana (ＩDirect3DViewport3).
+minor: WRONG TERM - ""IDirect3DViewport"" should be in half-width katakana (ＩDirect3DViewport).
+```"
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,しかし、これは普遍的に正しいわけではなく、該当のオブジェクトを生成する際に使用しているインターフェースによって事情が変わる場合がある。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""インターフェース"" (interface) is written in katakana. While not strictly wrong, it might be better written in hiragana or kanji depending on the specific context and style guide. This doesn't impede comprehension.
+```"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.",議論のために仮に、科学が少なくとも部分的には、世界に関する客観的に事実な記述のリストで構成され、それらが支持するかもしれないいかなる理論とも無関係に真であると仮定しよう。,"```
+MQM annotations:
+```"
+7,Even if it's true that such facts exist in science it's still possible to argue that scientific facts are theory-laden.,科学にそのような事実が存在するというのが真実だとしても、科学的事実が理論負荷的であると主張することは依然として可能だ。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""理論負荷的"" should be ""理論含意"". The glossary term is correct, but the choice of kanji might be different. ""負荷的"" implies loaded with theory, while ""含意"" is more related to implication
+```"
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.",この解釈では、実験が事実を作り出すのではなく、どの実験を行うかの選択が、どの事実が発見されるかを左右する。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - 「解釈」is a valid translation of ""reading"" in the context, but it might be slightly too strong of a word. A more neutral word like 「見方」or「捉え方」might be better, although it doesn't invalidate the current translation.
+```"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",亜原子粒子に関する事実など、資本主義においてのみ可能な実験からしか得られない事実がある。なぜなら、そのような実験はあまりに多くの資源、組織、そして強制力を必要とし、資本主義以外では実現不可能だからだ。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""亜原子粒子"" (subatomic particle) is grammatically correct but sounds slightly unnatural in this context. While not strictly *wrong*, a more common phrasing in Japanese might be considered for better fluency. However, this is a very minor stylistic point.
+```"
+14,Picking this up this weekend.,週末に引き取ります。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The use of ""引き取ります"" (hiki torimasu) is a bit formal and can imply taking something from a storage location or picking up something that belongs to you. A more natural and contextually appropriate translation might be ""取りに行きます"" (tori ni ikimasu) or simply ""もらってきます"" (moratte kimasu), depending on the context of ""picking up"". While not strictly incorrect, it's not the most natural choice.
+```"
+16,Already on coil overs and lowered ride height.,車高調済み、ローダウン済み。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""車高調済み"" is not the most natural way to express ""already on coil overs"". A more natural phrasing might be 「車高調が入っていて」. While technically correct, it sounds a bit technical and less conversational.
+minor: WRONG TERM - ""ローダウン済み"" is not the most natural way to express ""lowered ride height"". While correct, a more natural phrasing might be 「車高が下がっている」 or 「ローダウンされている」.
+
+```"
+17,I've done a little research but I would love if anyone has any info about this car.,少し調べてみたのですが、もしこの車について何か情報をお持ちの方がいらっしゃいましたら教えていただけると嬉しいです。,"```
+MQM annotations:
+```"
+18,Personal experiences?,個人的な経験？,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The question mark should be a full-width question mark (？) in Japanese.
+```"
+19,I know they're not fast compared,それに比べて速くないのは分かっています。,"```
+MQM annotations:
+```"
+23,"Me, in board shorts and a wife beater, and The Domestic Partner, all tatted up and with a new haircut that he himself described as ""making me look like a neo-nazi"".",俺はボードショーツにランニングシャツ姿、そして連れ合いは全身タトゥーで、自分で「ネオナチみたい」って言ってた新しい髪型。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/typo - ""ボードショーツ"" should be ボードショーツ.
+```"
+36,NY is the best hope for accountability,ニューヨークこそが説明責任を果たすための最良の希望だ。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""説明責任を果たす"" is too literal and stiff. While technically correct, a more natural and common phrasing in Japanese would be more appropriate in this context.
+```"
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,現実世界のコミュニケーションは、文脈に依存しない意味を持つ信号の送受信に還元できないという重要な証拠がある。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""信号の送受信"" should be ""信号を送ること"" to match the glossary and be more natural in the context. The current translation sounds too technical/formal."
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",文脈依存的なコミュニケーションは、文脈の分布といった環境特性に大きく影響される、状況依存的な多層現象であると考えられます。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""文脈依存的"" should be ""文脈依存性"" to match the standard translation of ""context-dependent"" and for better grammatical flow. While ""文脈依存的"" isn't strictly *wrong*, ""文脈依存性"" is much more common and natural in this context."
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,2011年にニコラスと一緒に、様々なプロジェクトを支援する貴重な半年間を過ごすことができました。,"```
+MQM annotations:
+```"
+49,"When we caught up at the weekend I was chuffed to hear about progress, particularly with tree planting and farm support.",週末に会った時、進捗状況、特に植林と農家支援について聞けて嬉しかったよ。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""農家支援"" (nouka shien) is grammatically correct but might sound slightly formal in this context. A more casual phrasing like ""農家へのサポート"" (nouka e no sapooto) could be more natural, though the meaning remains clear.
+```"
+61,Licht AGREED to an all Republican audience!,リヒトは共和党支持者のみの聴衆に同意しました！,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation ""共和党支持者"" literally means ""Republican supporters"", which is not entirely wrong, but ""共和党支持者のみの聴衆"" is unnecessarily verbose in Japanese and could be phrased more naturally as ""共和党の聴衆"" or ""共和党員のみの聴衆"". While technically not incorrect, it's less natural and a bit awkward.
+
+```"
+65,It can't be repeated.,繰り返せません。,"```
+MQM annotations:
+```"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨夜、ついにこの繰り返しにうんざりして、ねり消しについてたピーナッツバターを全部取り除いて、罠にピスタチオを瞬間接着剤でくっつけた。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""ねり消し"" is translated as ""kneaded eraser,"" which doesn't fit the context of removing peanut butter from traps. It should be something more general like ""trap"" or ""device.""
+```"
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",ちなみに、市販のほぼ全ての「人道的な」罠を試しましたが、ほとんど効果がありませんでした。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""人道的な"" should be adjusted to the context of ""humane"" traps, perhaps ""動物に優しい"" or similar would be more appropriate. While ""人道的な"" isn't strictly wrong, it implies a more moral/ethical dimension than simply being less harmful to animals.
+```"
+74,"They aren't, at least not in Alberta.",少なくとも、アルバータ州ではね。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The particle ""は"" is missing after ""アルバータ州"". It should be ""アルバータ州ではね""."
+75,Sure they cut business taxes.,確かに彼らは法人税を減税した。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""法人税を減税した"" should be ""法人税を削減した"" because the original sentence is not clear that they already cut business taxes. 減税 (genzei) means tax reduction and 削減 (sakugen) means cut."
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",「グラスゴーまで彼を送っていくだけなんです」と私は説明しようとした、旅の連れを指さしながら。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""送っていく"" is grammatically incorrect, ""送る"" is more appropriate in this context.
+```"
+85,"""There's not something you hear a lot 'I'm just dropping him off in Glasgow,' "" the ticket guy said.",「グラスゴーにちょっと彼を降ろしてくるだけなんです、なんてあんまり聞かないセリフだな」と切符売り場の人は言った。,"```
+MQM annotations:
+```"
+90,And they are truly nuts.,彼らは本当に頭がおかしい。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Grammatical error - ""頭がおかしい"" is too literal and harsh. A more suitable translation could be ""どうかしている"" or ""クレイジー""."
+95,Yell back at those who would try to talk over us.,私たちを言い負かそうとする人たちには、言い返してやりなさい。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The use of ""言い負かそうとする人たち"" (people who try to argue down/defeat in argument) is grammatically correct, but it doesn't precisely capture the nuance of ""talk over us,"" which implies interrupting or not letting someone speak. A more accurate term or phrase that conveys the interruption aspect might be more appropriate. The term isn't incorrect, just not the best fit.
+```"
+98,My neighbor & I arrived home at the same time and I could hear him coughing up a covid mucus storm from across the street.,私の隣人と私が同時に帰宅したんだけど、向かい側から彼の咳と、コロナの痰が嵐のように吹き上がる音が聞こえてきた。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""コロナの痰"" (korona no tan) is a literal translation of ""covid mucus"" and while understandable, it sounds somewhat unnatural in Japanese. A more natural phrasing might be something like ""コロナによる痰"" (korona ni yoru tan) or simply ""コロナのせいで出る痰"" (korona no sei de deru tan). The existing translation isn't incorrect, just not the most idiomatic.
+```"
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,彼を避けるために急いでアパートに入ったのに、結局追いつかれて話しかけられちゃった。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""アパート"" should ideally be translated in a way that captures the nuance that the person was trying to get *into* their apartment. While ""アパート"" itself isn't wrong, it could be more precise."
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.",4000もの苦難の末、Ylは愛に満ちた場所にたどり着き、どうしていいかわからないほどの大きな感情に戸惑っている。だから、その両方がたくさんある。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""愛に満ちた場所"" should be ""愛に溢れた場所"", though the current translation is understandable.
+```"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨日の#MangoMoronの大失敗は、とんでもない大失敗だった。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""#MangoMoron"" is not translated, but should be transliterated or explained in Japanese. While the meaning might be understood, it's not culturally adapted for Japanese speakers.
+```"
+113,A cold front should arrive by the middle of next week.,来週の半ばまでに寒冷前線が到来するでしょう。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""来週の半ばまでに"" translates to ""by the middle of next week"" and is correctly rendered, but the entire phrase is highlighted as a glossary entry. It is grammatically correct, but unnecessary.
+```"
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",今朝早く、IR衛星と地上観測により、低層の層雲が拡大しており、まだらな<URL>が確認されました。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""<URL>"" should have been translated as is or replaced with a relevant Japanese term, but was left as ""<URL>"".
+```"
+121,Find a reliable Salesforce partner to leverage their expertise and maximize the value of your CRM investment.,信頼できるSalesforceパートナーを見つけて、その専門知識を活用し、CRM投資の価値を最大化しましょう。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - The capitalization of ""Salesforce"" is incorrect. It should be ""Salesforce"" to match the proper noun.
+minor: WRONG TERM/Wrong Term - The capitalization of ""CRM"" is incorrect. It should be ""CRM"" to match the acronym.
+```"
+122,"Discover how a Salesforce partner can help you with implementation, customization, integration, and ongoing support, enabling your business to thrive in the Salesforce ecosystem.",Salesforceパートナーがどのように実装、カスタマイズ、インテグレーション、継続的なサポートで貴社を支援し、Salesforceエコシステムでビジネスを成功に導くかをご紹介します。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""インテグレーション"" should be インテグレーションズ as it is plural in the source ""integration**s**""
+```"
+137,But another individual often flies aboard that ship.,しかし、その船にはもう一人の人物がよく搭乗している。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""搭乗している"" should be ""乗っている"" for a more natural and common expression of ""flies aboard"" in Japanese. Although ""搭乗する"" isn't technically wrong, ""乗る"" is more suitable in this context, making it a minor stylistic issue."
+142,The Last of Us is an easy and canonical example of dad-ification.,The Last of Usは、ダッド化の分かりやすく典型的な例だ。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""ダッド化"" is a transliteration of ""dad-ification."" While technically correct, it might be more natural to use a more descriptive term or explanation depending on the context. This is a minor issue as the meaning is still conveyed, but it may sound awkward to a native speaker."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父性化とは、親のような立場の者が子供や子供の代わりとなる者を世話したり保護したりしなければならない状況に対する解決策が、圧倒的な力であり、その力を使って非常に特異な形の力関係を強制することであると通常仮定する。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""父性化"" is a direct translation of ""Dad-ification"" but doesn't quite capture the nuanced meaning in Japanese. A more natural translation might be something like 「父親化」or a paraphrased explanation of the concept.
+```"
+147,Here's a quick overview of how to make use of our website.,当ウェブサイトのご利用方法の簡単な概要です。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""当ウェブサイト"" should ideally be ""弊ウェブサイト"" or ""本ウェブサイト"" for more formal business communication, but ""当ウェブサイト"" isn't incorrect, just less formal and potentially less appropriate depending on the target audience and context.
+```"
+148,- We send out notifications when airfare goes on sale.,航空券がセールになった際にお知らせを送信します。,"```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM - The use of ""セール"" is acceptable, but ""割引"" or ""特売"" might be more appropriate depending on the nuance the client wants to convey. ""セール"" is a borrowed word and its use here isn't inherently wrong, but native alternatives exist and might sound more natural. Therefore, it's a minor stylistic issue.
+```"
+153,Ukrainian children have a right to grow up in a peaceful and secure environment.,ウクライナの子供たちは、平和で安全な環境で成長する権利を有します。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - ""子供たち"" is not wrong, but ""子どもたち"" (with hiragana こども) is more common and natural in this context. While technically not an error, it's a stylistic preference within the terminology.
+```"
+159,Over time dart became my go-to for quick UI.,時間の経過とともに、dartは手軽なUIに最適な選択肢になった。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""dart"" should be written as ""Dart"" with a capital D, as it's a proper noun referring to the programming language.
+```"
+164,Echidna with amethyst and magenta spikes.,アメジストとマゼンタのトゲを持つハリモグラ,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/Wrong Term - ""ハリモグラ"" (harimogura) is a correct translation of ""echidna"" but might not be the most common or natural way to refer to it in this context; another option could be ""針鼠（はりねずみ）"" but both can be considered correct
+```"
+166,Their tail is extremely thick.,彼らの尻尾は非常に太いです。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation of ""tail"" as ""尻尾"" is acceptable, but ""尾"" would be more common. While not strictly wrong, it's less natural and could be improved.
+```"
+168,Their eyes are pear and they wear scarlet cateye glasses.,彼らの目はナシのようで、真っ赤なキャッツアイの眼鏡をかけている。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""ナシ"" (nashi) translates to ""pear"" but in this context, ""ナシのよう"" implies a pear-like shape or color, which is not a standard description for eye color in Japanese. While technically not incorrect, it's an unusual and potentially awkward translation. A more natural translation might use ""真珠色"" (shinju-iro) for ""pearly"".
+```"
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",ブラム・ストーカー、マックス・シュレック、ステファニー・メイヤーが彼らを悪く見せようと最大限の努力をしたにもかかわらず、皆…,"```
+MQM annotations:
+```"
+174,"In real life, my mom did like a puzzle game I made years ago, and she found most of the secrets on her own, so she wasn't just being mom when she said she liked it.",現実では、母が何年も前に私が作ったパズルゲームを気に入って、ほとんどの隠し要素を自力で見つけたので、褒め言葉がお母さん目線だけのものではなかったんです。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""お母さん目線"" literally translates to ""mother's perspective"" or ""from a mother's point of view."" While understandable, it's slightly less natural than a more common phrasing like ""親バカ"" (parental bias/bragging) or a similar expression that conveys the same idea. It is a slightly unnatural phrasing."
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","Here's the Japanese translation:
+
+**北京語（標準中国語）もしくは福建語に翻訳する必要があり、どちらも全く分からないので、翻訳のみを提供してください。**","I understand. I will analyze the provided source and translation (Japanese) and, since I don't know Mandarin or Hokkien, I will assume there are placeholder translations represented by the brackets. Then, I will identify potential terminology errors based on the context. Since I'm not actually translating, I'll focus on hypothetical errors, imagining I *did* have a glossary and that the text inside the brackets is the machine translation.
+
+```
+MQM annotations
+Terminology errors:
+Minor: WRONG TERM - Assuming ""北京語（標準中国語）"" is a glossary entry, there might be capitalization issues depending on the context. Standard Mandarin is generally written with Chinese characters, so the term itself might be out of place.
+Minor: WRONG TERM - Assuming ""福建語"" is a glossary entry, there might be capitalization issues depending on the context. Similar to Mandarin, Hokkien is also written with Chinese characters so the romanized name might be wrong in the first place.
+Minor: WRONG TERM - Assuming ""翻訳"" is a glossary entry, if the context requires a specific type of translation (e.g., machine translation, human translation), this could be too general.
+
+```"
+179,Been toying with this thought for a little while:,この考えをしばらくの間、弄んでいる。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""弄んでいる"" doesn't quite capture the nuance of ""toying with"" in this context. While not entirely wrong, it sounds a bit overly active for simply considering a thought. A more natural phrasing might be something like 「頭の中でしばらく考えている」.
+```"
+180,"Mental health is often seen as something separate from ""regular"" health.",メンタルヘルスは、しばしば「普通の」健康とは別のものとして見なされる。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - 「普通の」is a valid translation for ""regular"", but it sounds slightly unnatural in this context. A more natural translation would be 「通常の」. While understandable, it's not the most common phrasing.
+```"
+182,Because it happens in the mind and seems less tangible than physical health.,心の中で起こり、身体的な健康よりも実体がなさそうに見えるから。,"```
+MQM annotations:
+```"
+194,Very much worth having a go at.,ぜひ挑戦する価値あり。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""挑戦する価値あり"" is too literal and doesn't sound natural in Japanese. A more natural expression would be something like ""やる価値あり"" or ""試す価値あり"".
+```"
+196,Playing around a bit with Flutter.,Flutterを少し触ってみています。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""Flutter"" is transliterated to ""Flutter"" instead of being translated, but it is acceptable in this context.
+```"
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",正直に言うと、グーグルの技術に事業の基盤を置きたくはない。一方で、グーグルは魅力的なクロスプラットフォーム体験を生み出す本当のインセンティブを持っている数少ない大企業の一つであり、それは明らかだ。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""クロスプラットフォーム体験"" should be ""クロスプラットフォームエクスペリエンス"" to align with standard terminology."
+199,Also please refrain from telling me that google/flutter apps suck on iOS and macOS.,また、GoogleやFlutter製のアプリがiOSやmacOSでは使い物にならないといった話はしないで、翻訳だけを提供してください。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Google"" should be capitalized as グーグル.
+minor: WRONG TERM - ""Flutter"" should be capitalized as フラッター.
+```"
+200,Cross platform is hard if you want to do it well.,クロスプラットフォームをきちんとやるのは難しい。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/typo - ""クロスプラットフォーム"" is a transliteration of ""cross-platform"". Although understandable, it should be checked against the glossary. If it is a valid term, then there is no error.
+```"
+201,I know that.,知ってるよ。,"```
+MQM annotations:
+```"
+202,Thank you to those people who have downloaded the latest update to Leasey.,Leaseyの最新アップデートをダウンロードしてくださった皆様、ありがとうございます。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/grammatical error - ""Leaseyの最新アップデートをダウンロードしてくださった皆様、ありがとうございます。"" should be ""Leaseyの最新アップデートをダウンロードしてくださった皆様に、ありがとうございます。"" to be grammatically correct.
+```"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,なぜ私の脳が理解できないのか正確にはわからない。ツールが広範かつ曖昧すぎて、「選択肢が多すぎる」せいで脳がフリーズしてしまうのかもしれない。,"```
+MQM annotations:
+```"
+211,Grafana looks pretty.,Grafanaは見栄えが良いですね。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - 見栄えが良いですね is a valid translation, but ""pretty"" could be translated into more accurate term in Japanese.
+```"
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""",新しい #FFXIV のレイド tier が近づいてきて、「ちゃんとレイドに挑戦してみたいなあ、でもパーティ募集は荒れてそうだし、固定なんて見つかるわけないよなあ」ってずっと考えてた。,"```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM/Wrong Term - The term ""tier"" should be translated to its Japanese equivalent, but it is kept as is.
+minor: WRONG TERM/Wrong Term - The term ""Party Finder"" should be translated to its Japanese equivalent, but it is kept as is.
+minor: WRONG TERM/Wrong Term - The term ""static"" should be translated to its Japanese equivalent, but it is kept as is.
+```"
+214,"So I thought, screw it!",くそくらえ！,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""くそくらえ！"" is a very strong and vulgar expression, whereas ""screw it!"" is more casual. While it conveys the general sentiment, it's not the most appropriate register.
+```"
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!",レイド固定に入るのを試すのをためらうほど不安で、上手くなろうという期待は全くない人たちでいっぱい！,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""レイド固定"" should be inflected in Japanese to fit the sentence grammatically."
+219,I was a voracious reader in my youth.,若い頃は、本の虫だった。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""本の虫"" is a common idiom meaning ""bookworm,"" but it's slightly less formal and doesn't precisely capture the ""voracious"" aspect of the original. A more literal translation using a glossary term related to ""voracious reader"" might be preferable for consistency."
+227,They're not gonna talk about this on Bloomberg!,ブルームバーグじゃ報道されないだろうな！,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/wrong term - ""ブルームバーグじゃ"" should be ""ブルームバーグで"". ""じゃ"" is colloquial and less appropriate in this context.
+```"
+228,"But if Spotify has a good quarter, they will.",しかし、もしスポティファイの業績が良ければ、そうなるでしょう。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""スポティファイの業績"" should be ""Spotifyの業績"" with a katakana name, but leaving it as is doesn't severely hinder comprehension.
+```"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,全国の空洞化し荒廃した都市を再建させよう。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - 全国 should be applied to the entire phrase."
+231,These people want to improve their lives.,これらの人々は、生活を向上させたいと思っています。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The use of ""生活を向上させたい"" to translate ""improve their lives"" is not the most natural or common way to express this sentiment in Japanese, although it is grammatically correct. A more natural phrasing might be ""生活を良くしたい"" or ""暮らしを良くしたい"". While not strictly wrong, it's less idiomatic in this context.
+```"
+234,"I am so tired of the headlines claiming that ""Remote work is dead."" or that ""Remote work was a failed experiment.""",「リモートワークは終わった」とか「リモートワークは失敗だった」という見出しには、もううんざりだ。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM/typo - ""リモートワークは終わった"" should ideally align with a glossary entry if one exists for ""Remote work is dead."" Similarly, ""リモートワークは失敗だった"" should align with a glossary entry if one exists for ""Remote work was a failed experiment."". The issue here is not necessarily a mistranslation, but a possible lack of standardization or a typo if these phrases are defined in the glossary. The translation is understandable, but depending on the glossary, could be more precise. However without access to the specific glossary, it's hard to judge, but flagging a minor typo/wrong term to ensure alignment.
+```"
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.",人々が、息苦しい騒がしいオフィスではなく、快適な空間で働けるようにする。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""オフィス"" should be ""事務所"" for translating ""offices"" in this context."
+243,To just ignore these facts is wrong.,これらの事実を無視するのは間違っている。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - In Japanese, するのは is often considered slightly more formal or stiff. While grammatically correct, a more natural phrasing might be using ことは, especially given the relatively simple context. Therefore, the term itself is correct, but the choice of nuance is not optimal.
+```"
+248,"Parker referred to abortion, and modern urban women's impulse to delay having children for their careers' sake.",パーカーは中絶と、現代の都市に住む女性がキャリアのために出産を遅らせようとする傾向について言及した。,"```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM - The phrasing ""出産を遅らせようとする傾向"" for ""impulse to delay having children"" is a bit too literal and could be phrased more naturally. While not incorrect, it's slightly awkward.
+```"
+255,It took years of changing my life and working hard but finally...,何年も生活を変え、努力した結果、ついに…,"```
+MQM annotations:
+```"
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,念のため、サイクリングジャケットにライナーをファスナーで取り付けます。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""サイクリングジャケット"" should be ""サイクルジャケット"" to match the glossary.
+```"
+266,This is for Wikipedia's component library (OOUI).,これは、ウィキペディアのコンポーネントライブラリ（OOUI）のためのものです。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""コンポーネントライブラリ"" should be ""コンポーネントライブラリー"" with a long vowel sound indicated by the ー character.
+```"
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",一時的な親オブジェクトを分離して作成し、そこにMOをインストールし、それが分離される（つまり、別の場所にアタッチされる）のを観察します。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""MO"" is left untranslated. While it's acceptable to leave acronyms untranslated, consistency should be maintained. If ""MO"" stands for ""Management Object,"" for example, it should be translated consistently or kept as ""MO"" throughout, depending on the specific style guide.
+
+```"
+276,He's just absolutely ripped from tearing around my office twice a day.,彼は毎日私のオフィスを2往復も走り回っているから、完全に筋肉ムキムキになっているんだ。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""筋肉ムキムキ"" is a colloquial way to say ""muscular"" and might not be the most appropriate translation for ""ripped"" in a formal context. While not technically wrong, it carries a less serious connotation than the source text."
+278,It makes me so happy to see him thriving.,彼が活躍しているのを見ると、とても嬉しいです。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""活躍している"" is a translation of ""thriving"" and could be considered a valid translation of ""thriving"", but ""活躍している"" emphasizes ""active"" or ""doing well"" which may not be the best fit for the context, especially because 'thriving' can be translated into 'flourishing' as well. However, it is still understandable, so the severity level is minor.
+```"
+285,Last week got a ton done and feeling much better about field items.,先週はたくさん終わらせることができて、現場の件もだいぶ良くなった気がする。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""現場の件"" translates to ""the matter of the site"" or ""the things on site"", which is acceptable but doesn't quite capture the nuanced meaning of ""field items"" in this context. A more precise term related to fieldwork or tasks might be better. However, it doesn't severely impact comprehension.
+```"
+286,"All collards, kale, chard is transplanted.",すべてのコラード、ケール、スイスチャードは移植済みです。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""すべてのコラード"" should be inflected with a particle like ""は"" or ""が"" to properly connect it to the following items in the list. The same issue applies to ""ケール"" and ""スイスチャード"".
+minor: WRONG TERM - ""すべてのケール"" should be inflected with a particle like ""は"" or ""が"" to properly connect it to the following items in the list. The same issue applies to ""コラード"" and ""スイスチャード"".
+minor: WRONG TERM - ""すべてのスイスチャード"" should be inflected with a particle like ""は"" or ""が"" to properly connect it to the following items in the list. The same issue applies to ""コラード"" and ""ケール""."
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items",また、サラダ菜をそこに播種して、カット野菜を組み込む必要があります。灌漑、畝作り、移植については訓練されたクルーがおり、これは収穫以外のスキルの90％を占めます。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""畝作り"" should be more specific to the context of bed preparation, perhaps using a term that implies creating raised beds or seedbeds (e.g., ""育苗床作り"").
+```"
+294,The experience having to follow directions was far superior on Apple Maps compared to Google Maps.,Apple Maps の方が Google Maps よりも、ナビゲーションの指示に従う体験がはるかに優れていた。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""Apple Maps"" should be ""Apple マップ"" to maintain consistency with ""Google Maps"" and adhere to common Japanese usage for brand names.
+minor: WRONG TERM - ""Google Maps"" should be ""Google マップ"" to maintain consistency with ""Apple Maps"" and adhere to common Japanese usage for brand names.
+```"
+295,Apple Maps wins.,Apple Maps の勝ち。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation ""Apple Maps の勝ち"" is grammatically correct but sounds a bit unnatural. A more natural phrasing might be ""Apple Mapsの勝利"" or ""Apple Mapsが勝利"", using 勝利 (shouri) for ""victory"". However, ""勝ち"" is not strictly incorrect.
+```"
+302,"That said, I'm biased.",そうは言っても、私は偏っています。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/capitalization - ""私は偏っています"" should be ""私は偏見を持っています"" to properly translate the meaning of ""biased."" However, the current translation isn't critically wrong, just not the most natural or accurate term.
+```"
+305,But it's the land that makes it a good storer of wealth for as long as you think the government isn't going to change the system we live in.,しかし、政府が今の制度を変えないと考える限り、富の貯蔵庫として優れているのは土地だからです。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/capitalization - ""土地"" should be ""土地"" to match the glossary.
+```"
+309,In China you can only lease land.,中国では土地はリースしかできません。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""リースしかできません"" sounds unnatural in Japanese. A more natural phrasing would be リースのみです or リースに限られます, although those may not be the most accurate translation depending on the intended meaning. While grammatically correct, the phrase sounds forced.
+```"
+311,The government can change these policies whenever it wants.,政府は、これらの政策をいつでも変更できます。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""変更できます"" is too polite/formal in this context. A more natural translation would be ""変更できる"". While grammatically correct, ""変更できます"" implies a level of deference that is unnecessary when discussing the government's ability to change policies."
+312,The land is temporary.,土地は一時的なもの。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The word ""temporary"" should be translated to ""仮の"" instead of ""一時的な"" in this context."
+318,That's why the Chinese only allow leases.,だから中国はリースしか認めていない。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""リース"" should ideally be ""賃貸"" to better align with the concept of ""lease"" as a permission to use something over a specific time. ""リース"" is a loan of something.
+```"
+322,Let us continue to work together towards creating a brighter future for all.,すべての人々にとって、より明るい未来を創造するために、共に努力し続けましょう。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""すべての人々"" is a little too emphatic and verbose for ""all"". While not strictly incorrect, it's less natural than a more concise option.
+```"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,自分をひどく卑下する人間の能力を、実際の残酷さを示す証拠がこれほど多くあるにもかかわらず、不思議に思うことがよくある。,"```
+MQM annotations:
+```"
+326,"To agonize over personal failure & guilt in a world where ""success"" is so often bestowed on people responsible for the most reprehensible acts...",「成功」が最も非難されるべき行為の責任者たちにしばしば与えられる世界で、個人の失敗と罪悪感に苦悩すること…。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""成功」が最も非難されるべき行為の責任者たちにしばしば与えられる世界で、個人の失敗と罪悪感に苦悩すること…"" is awkward as it contains the symbol 「」."
+332,"or ""Modal editors are useless today"" :morty:",もしくは「モーダルエディタは今や無用」:morty:,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The capitalization of ""モーダルエディタ"" should match the glossary, which is likely ""モーダルエディター"" (with a long vowel sound).
+```"
+333,"Me extracting functionality of my #Axum projects into shared libraries: ""Hold my keyboard"" :partyparrot: :helix: :ferrisdance:",俺の#Axumプロジェクトの機能を共有ライブラリに抽出する作業: 「ちょっとキーボード貸して」:partyparrot: :helix: :ferrisdance:,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""#Axumプロジェクト"" should not have a hashtag in the translated text, as it is a technical term being used in a general context.
+```"
+337,The prompt this week on Revelations is Stay up all night.,今週のRevelationsのお題は、徹夜。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""徹夜"" means ""all-night vigil"" or ""sitting up all night"", which is close to ""stay up all night"" but not the exact equivalent in this context. ""徹夜"" implies a more intentional act than just staying up."
+339,It is definitely more romance than filth.,どちらかと言えば、エロよりロマンスです。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""エロ"" (ero) is a glossary entry, but its use here might be considered slightly informal or slangy compared to a more neutral term for ""filth"" or ""pornography"" in this context. While understandable, it's not the most precise or formal choice.
+```"
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",いつか絶対、飛行機の中でオーガズムを体験してやる。相手は知らない人じゃないかもしれないけど。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""オーガズム"" should be ""オーガズム体験"" to match the glossary entry ""orgasm""."
+345,"I wish there was a ""who to follow"" recommendation somehow.",フォローすべき人のレコメンデーション機能みたいなのがあればいいのに。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""レコメンデーション機能"" is a loanword, and while understandable, it could be argued that a more natural Japanese term could be used for ""recommendation feature"". However, given its common usage in tech contexts, it's a minor issue.
+```"
+348,"So, it requires a bit more effort to get into it and you probably need a good app to improve #UX.",つまり、始めるにはもう少し手間がかかり、#UXを向上させるには優れたアプリが必要になるでしょう。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation of ""#UX"" as ""#UXを"" includes the hashtag, which is unnecessary and stylistically awkward in Japanese. While not impacting comprehension, it's not the most natural way to express it.
+```"
+354,"Interventions: knowledge about things we can do to create change, within some confidence bounds",変化を生み出すためにできることに関する知識（ある程度の信頼区間内で）。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""ある程度の信頼区間内で"" is a literal translation of ""within some confidence bounds"" but might sound unnatural or awkward in Japanese. A more natural phrasing might be something like ""一定の信頼性をもって"" or ""ある程度の確信をもって"".
+```"
+360,He's here and he's going to say this stuff no matter what.,彼はここにいるし、何があってもこれを言うつもりだ。,"```
+MQM annotations:
+```"
+362,It's very underwhelming at the moment.,今は期待外れだ。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""期待外れ"" is a valid translation of ""underwhelming"" but ""今は期待外れだ"" sounds a bit strong and could be rephrased to be more natural.
+```"
+363,"The ""MusicLM Demo"" is mildly interesting.",MusicLM Demo は、まあまあ面白いです。,"```
+MQM annotations:
+```"
+368,"It's weird doing weightlifting but also having no real clue what your one-rep-max is, cus that's one of the key ways people track their progress.",筋トレしてるのに、自分の最大挙上重量がどれくらいか全然知らないのって変な感じだよね。だって、それって進捗を把握する上でめっちゃ重要な指標の一つじゃん。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - 最大挙上重量 is a valid term, but doesn't perfectly capture the nuance of ""one-rep-max"" which is a more commonly understood term in English fitness circles. While not technically wrong, it feels slightly less natural than a more direct translation or romanization of ""one-rep-max.""
+```"
+369,I work out alone in my bedroom without a spotter or even a weight rack.,誰の補助もなしに、ウェイトラックすらない自分の寝室で一人で筋トレをしています。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""ウェイトラック"" should be inflected to indicate possession.
+```"
+370,Just me and a barbell with a bunch of weights.,俺とバーベルと大量のウェイトだけ。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""ウェイト"" should be katakana ""ウエイト"" to match the standard transliteration of ""weight"".
+```"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",自分の最大挙上重量を計算しようとすると、最大挙上できるだけの重りがなかったり、逆に重すぎて怪我をしたり、最悪の場合死んでしまうかもしれない。,"```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM/capitalization - ""自分の最大挙上重量"" should be ""自分の最大挙上重量"" (no change needed, already correct capitalization)
+```"
+375,I swear burrata didn't exist five years ago,5年前には、ブラッティーナなんて存在しなかったと誓うよ。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""ブラッティーナ"" is a transliteration of ""burrata,"" not ""burratina."" Burrata is the correct term.
+```"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,誰かの母親が作っているのを見たことも、パーティーで無理やり押し付けられたことも、誰かのソース作りやパン作りの日に出てきたのを見たこともなかった。,"MQM annotations:
+No terminology errors found."
+384,Does anyone have a Linux tablet they love?,Linuxタブレットで愛用しているものがある人いますか？,"```
+MQM annotations:
+```"
+385,"This would be mainly for web browsing, occasional email, and some games.",主にウェブ閲覧、たまにメール、それに少しゲームをする程度です。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""ウェブ閲覧"" should potentially be ""ウェブブラウジング"" to match the English ""web browsing"" more closely, though ""ウェブ閲覧"" is understandable. This is a stylistic choice, so minor.
+```"
+388,"A bad game is bad forever.""",駄作は永遠に駄作。,"```
+MQM annotations:
+```"
+389,So was it Epic that originated this?,これってEpicがオリジナル？,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""オリジナル"" (original) is used, but in this context, it might be better to use a more specific term like ""開発元"" (developer) or ""発祥"" (origin/source), depending on the precise intended meaning. While not strictly incorrect, it could be more precise.
+```"
+390,We can keep going.,続けることができます。,"```
+MQM annotations:
+```"
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",GamePro 1997年11月号の過去の記事には、もっと曖昧な引用がある。,"```
+MQM annotations:
+```"
+401,Esp the carriages with the bigger windows.,特に窓の大きい車両。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation of ""車両"" to ""vehicles"" is overly specific. A more general term like ""carriages"" or ""cars"" would be more appropriate. Although it's understandable, it's not the most natural or accurate term in this context.
+```"
+402,There's areas that could use some polish.,磨きをかけるべき箇所がいくつかあります。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""磨きをかけるべき箇所がいくつかあります"" is a valid translation of ""There's areas that could use some polish."" However, a more literal translation, if aiming for strict terminology adherence, might use a more direct equivalent for ""polish"" within a defined glossary. Without a specific glossary entry for ""polish"" in this context, it's difficult to assess definitively, but ""磨きをかける"" (migaki o kakeru) which literally translates to ""apply polishing"" is a bit of a stretch. This should be a Mistranslation error though since polish is not highlighted as a glossary item.
+```"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",つまり、十分なゴミ箱の不足と、照明の色の重要性を説明する標識の不足です。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ゴミ箱の不足 (gomibako no fusoku) translates to ""lack of trash cans"". While technically correct, ""bins"" might be better translated as ""ごみ容器 (gomi youki)"" for a more precise meaning in this context, although ""ゴミ箱 (gomibako)"" is still acceptable and doesn't significantly hinder comprehension.
+minor: WRONG TERM - 標識 (hyoushiki) translates to ""sign"". While technically correct, in this context of explaining the significance of lighting colors, ""解説 (kaisetsu)"" or ""説明 (setsumei)"" might be a better fit, referring to explanations or descriptions rather than physical signs. However, ""標識 (hyoushiki)"" is still understandable.
+```"
+405,I won't be sad to see the end of the ICM or DDZ stock.,ICMやDDZ株が終わっても、悲しくはないだろう。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/capitalization - ""ICMやDDZ株"" should be ""ICMやDDZ株"" or ""ICMやDDZの株"" for better readability, depending on the desired nuance. While not strictly incorrect, the current capitalization is less common and might appear slightly awkward to a native speaker.
+```"
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,お一人様一枚までとさせていただきます。お並びいただいた皆様がボードを入手できるよう努めております。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""ボード"" should be ""板"" instead of ""ボード"" because the source text is referring to surfboards or skateboards, which are usually translated as ""板"" in Japanese. ""ボード"" is a more general term for board, which may include circuit boards.
+```"
+411,Such friendships transcend differences.,そのような友情は、違いを超える。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""超える"" is not the most natural or accurate translation of ""transcend"" in this context. While not incorrect, it feels slightly stiff and less nuanced than other options.
+```"
+412,We all have stories to tell.,誰にでも語るべき物語がある。,"```
+MQM annotations:
+```"
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",なんとなく、この件は最初からつまずいてしまったような気がします。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""この件"" translates to ""this matter"" or ""this issue"", which is a more literal translation of ""this instance"". While not entirely incorrect, it changes the nuance of the original phrase ""this instance,"" which is more related to software or IT context. Therefore, it can be considered a Wrong Term because it could lead to misinterpretation depending on the context.
+```"
+418,Will still linger a bit longer on here and think about whether I should migrate at all.,もう少しここに残って、そもそも移行すべきかどうかを考えます。,"```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM - The translation of ""移行"" as ""移行すべきかどうか"" is unnecessarily verbose and slightly awkward. While technically not incorrect, a more natural phrasing might be ""移行するかどうか"" or simply ""移行を検討するかどうか"". The inclusion of ""すべき"" (should) adds a layer of obligation that isn't necessarily present in the original sentence.
+```"
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,レプニドたちは地表の下にトンネルを掘り、あなたは下の洞窟で数百ものレプニドの体が煮えたぎる塊の中に落ちてしまう。,"```
+MQM annotations
+Terminology errors:
+minor: WRONG TERM - The term ""レプニド"" (Repunido) is a transliteration of ""Repnid"". It is not inherently wrong, but using a more natural Japanese term, if available, would be preferable for better flow. The choice is acceptable, but could be improved.
+```"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",終わりは唐突に訪れる。幾つもの牙が猛毒を注入し、ディスクラの空気が肺を蝕む。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""ディスクラの空気"" should be a better fit and more natural.
+```"
+425,Nobody will ever know that you were the first human future traveller.,あなたが人類初の未来旅行者だったことは、誰にも知られることはないだろう。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""未来旅行者"" should be ""未来旅行者"" and not ""未来旅行者だった"".
+```"
+426,You land the flyer nose upward on the side of the slag heap and climb out.,あなたは鉱滓山の斜面に機首を上にして着陸し、降りる。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/wrong term - ""鉱滓山"" is a valid translation of ""slag heap"", but ""斜面"" translates to ""slope"" or ""incline"". While not strictly incorrect in describing the side of the heap, it loses the specific connotation of landing *on* the heap rather than just the side. A more precise term for ""side"" in this context would better convey the image.
+```"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八つの目を持つレプニドたちは見ているようだが、こちらに向かってくる気配はない。実際、ゆっくりと近づいても、彼らは微動だにしない。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""レプニド"" (Repunido) appears to be a transliteration of ""Repnid."" While technically compliant with the glossary, it's a transliteration rather than a more natural-sounding or descriptive Japanese term, making it sound slightly awkward in context.
+```"
+429,"It appears that they cannot hear you, let alone understand, as your Universal Translator picks up no answer.",どうやら、ユニバーサル翻訳機は応答を拾っていないため、彼らはあなたの声が聞こえないどころか、理解もできないようです。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""ユニバーサル翻訳機"" should be inflected (ユニバーサル翻訳機**が**)."
+430,You decide to use your Psychic Awareness to contact them mentally.,念動力を使って、精神的に彼らと交信することにした。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""念動力"" is a possible translation of ""Psychic Awareness,"" but ""精神感応"" would be more appropriate in this context.
+```"
+436,"#today I have coffee, sunshine and quiet time!",今日 は コーヒー と 日光 と 静かな 時間！,"```
+MQM annotations:
+```"
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,撚りの甘い箇所や塊のある、細撚りの銀灰色の糸を見つけました。,"```
+MQM annotations:
+```"
+441,But am not sure I have enough of the purple.,紫の色が十分にあるかどうか、自信がありません。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""紫の色"" should be ""紫"" to match the common and natural way to express ""purple"" in this context. Using ""紫の色"" is not technically wrong, but it sounds less natural.
+```"
+446,I have literally tried and dropped EVERY SINGLE ONE.,すべて、文字通り試してはやめた。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""文字通り"" translates to ""literally,"" but in this context, it might be better translated as ""ありとあらゆる"" to convey the sense of ""every single one."" While not incorrect, it's a less idiomatic choice.
+```"
+447,"And up until like two years ago, I had no idea until I checked my transcripts.",そして、2年くらい前までは、成績証明書を確認するまで全く知りませんでした。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""成績証明書"" is a direct translation of ""transcript"" but might be slightly more formal than needed in this context. A more natural option might be 成績. However, the current translation is understandable.
+```"
+448,The literature class hatred is even worse: I love to read.,文学の授業嫌いはもっとひどい。読むのは大好きなのに。,"MQM annotations
+Terminology errors:
+minor: WRONG TERM - The Japanese translation of ""literature class"" is too literal and sounds awkward in this context. A more natural translation might be something like ""国語の授業"" (kokugo no jugyou) if referring to a native language literature class, or a different phrasing depending on the specific context.
+```"
+450,"My home is comfortable and wonderful and I am happy there, but I have to be somewhere else in order to chill enough to read fiction during the day without feeling guilty.",私の家は快適で素晴らしいし、そこで幸せに過ごしているけれど、罪悪感を感じずに日中に小説を読むほどリラックスするには、どこか別の場所にいなければならない。,"```
+MQM annotations:
+```"
+451,It's like I'm on holidays and therefore am doing what one does on holidays.,まるで休暇中で、だから休暇中にするようなことをしている、という感じです。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The phrase ""休暇中です"" uses the polite form ""です"" but doesn't necessarily convey the casual tone of ""on holidays"". While grammatically correct, it might sound slightly formal in this context.
+```"
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.",ここ2晩は家ほどよく眠れていないし、慣れない環境にいるだけで自分のペース配分が難しくなり、物の場所も覚えなければならないので、少し#MECFS（筋痛性脳脊髄炎/慢性疲労症候群）の症状が出てしまっているにも関わらず、そうなっているんだ。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""#MECFS（筋痛性脳脊髄炎/慢性疲労症候群）"" is acceptable, but the surrounding text ""の症状が出てしまっている"" makes it a bit wordy and less natural. A more concise phrasing could be used.
+```"
+455,"It's exciting, nerve-wracking, stressful, and all the good things that I love about working in games.",ゲーム業界で働くことの、ワクワク感、緊張感、ストレス、そして私が愛するすべての良いものが詰まっている。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""ゲーム業界"" should be ""ゲーム制作"".
+```"
+458,Will a community blossom around the user-generated content piece of the game?,ゲームのユーザー生成コンテンツ作品を中心にコミュニティは形成されるだろうか？,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""ユーザー生成コンテンツ作品"" includes 作品 (sakuhin), which usually refers to a specific piece of work. While technically not incorrect, in this broader context of ""user-generated content,"" ユーザー生成コンテンツ is preferred and more natural. The inclusion of 作品 makes it sound like it is referring to a specific user-generated work rather than the concept.
+```"
+466,So I finally watched #Heartstopper,ついに#Heartstopper 見た。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation ""見た"" is too casual for a general audience and may not be appropriate depending on the context. A more neutral or polite form like ""見ました"" might be preferable. While ""見た"" isn't strictly *wrong*, it might not be the ideal register.
+```"
+467,Was it overly cute to the point of being twee?,甘すぎて、トゥイーって感じだった？,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""トゥイー"" is a transliteration of ""twee,"" and while understandable, it's not a standard or ideal term in Japanese. A more natural word or phrase might be preferable, though its usage here isn't critically wrong.
+```"
+471,But did I love it?,私はそれを愛したか？,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/capitalization - The question mark should be a full-width question mark (？) in Japanese.
+```"
+476,"In part, because they'd be taught badly.",教え方が悪かったから。,"MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The translation ""教え方"" (oshiekata) could be interpreted as ""teaching method"" or ""way of teaching."" While not entirely incorrect, it doesn't fully capture the nuance of ""taught badly,"" which implies the quality of the teaching itself was poor. A better translation might incorporate an adjective to explicitly indicate the poor quality (e.g., ""下手な教え方"" - heta na oshiekata - clumsy/poor teaching method)."
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",しかし、問題について言い訳をせずに、ただ解決することが重要です。特に、リードから変更の要求があった場合のプロダクション環境では。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM/capitalization - ""プロダクション環境"" should be ""プロダクション環境"" (production environment) to match the capitalization in the glossary.
+```"
+479,"Every artist has been there, made the same mistakes.",どのアーティストも経験したことがある、同じ過ちを犯したことがある。,"```
+MQM annotations:
+```"
+484,Watch seeds being sown & cultivated (and not randomly scattered) by good peeps.,良い人たちによって種が蒔かれ、育てられるのを見る（ただランダムにばらまかれるのではなく）。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - ""蒔かれ"" should be ""播かれ"" as the verb used in the source text is ""sown"" instead of a more general term. This refers to a specific way of scattering seeds (sowing, as opposed to simply scattering.)
+```"
+488,"Jami slipped the note to him when they passed each other on the path, just before the dog watch.",ジャミは犬の番の直前、小道ですれ違う時に彼にそっとメモを渡した。,"```
+MQM annotations:
+Terminology errors:
+minor: WRONG TERM - The term ""犬の番"" (inu no ban) is a literal translation of ""dog watch"" and, while understandable, might not be the most natural or common way to express that nautical term in Japanese.
+```"

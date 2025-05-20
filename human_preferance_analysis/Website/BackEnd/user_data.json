@@ -1,0 +1,14 @@
+{
+  "test_user": { "file": "En_Zh_gemini.csv", "index": 105 },
+  "user0": { "file": "En_Zh_GPT.csv", "index": 95 },
+  "user1": { "file": "En_Zh_GPT.csv", "index": 94 },
+  "user2": { "file": "En_Zh_GPT.csv", "index": 95 },
+  "user3": { "file": "En_Zh_claude.csv", "index": 150 },
+  "user4": { "file": "En_Zh_claude.csv", "index": 151 },
+  "user5": { "file": "En_Zh_claude.csv", "index": 151 },
+  "user6": { "file": "En_Zh_gemini.csv", "index": 116 },
+  "user7": { "file": "En_Zh_gemini.csv", "index": 0 },
+  "user8": { "file": "En_Zh_gemini.csv", "index": 118 },
+  "user9": { "file": "En_Zh_gemini.csv", "index": 118 },
+  "user10": { "file": "En_Zh_claude.csv", "index": 150 }
+}

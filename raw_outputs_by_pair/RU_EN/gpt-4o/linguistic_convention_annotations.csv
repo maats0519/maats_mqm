@@ -1,0 +1,735 @@
+index,original,translated,linguistic_convention_annotation
+6,"Соревнования личные с командным зачетом, участвуют спортсмены команд субъектов РФ, в одной возрастной группе — мужчины, женщины.","The competitions are individual with a team scoring, involving athletes from teams of the subjects of the Russian Federation, in one age group — men, women.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""scoring"" should be removed for better flow.
+[Minor]: [punctuation] - The comma after ""Federation"" should be removed for better flow.
+[Minor]: [punctuation] - The em dash should be replaced with a comma for consistency with the rest of the sentence.
+```"
+9,"Перезачет результатов для спортсменов, которые не принимали участие в данных соревнованиях, не производится, а очки для командного зачета не начисляются.","The transfer of results for athletes who did not participate in these competitions is not conducted, and points for the team standings are not awarded.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""and points for the team standings are not awarded"" is unnecessary and disrupts the flow of the sentence.
+```"
+14,"В эстафетном беге спортсмены, могут выступать только за команду одной территории.","In relay races, athletes can compete only for a team from one territory.","```
+MQM annotations:
+linguistic conventions errors:
+major: punctuation - The comma after ""athletes"" is unnecessary and disrupts the flow of the sentence.
+```"
+23,Официальная тренировка на соревновательной арене 14 февраля с 16:00 до 19:00. В соревновательные дни — вне времени соревнований.,"Official training at the competition venue on February 14 from 4:00 PM to 7:00 PM. On competition days, outside of competition times.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence ""On competition days, outside of competition times."" is a fragment and should be connected to the previous sentence or rephrased to form a complete sentence.
+```"
+26,СаЙ Коот будет расположен за вторым виражом рядом с сектором толкания ядра.,Sai Koot will be located after the second turn next to the shot put sector.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: capitalization - ""Sai Koot"" should be ""Sai Koote"" to match the capitalization in the source text.
+```"
+29,Уход участников с места соревнований без разрешения рефери запрещается.,Participants leaving the competition area without the referee's permission is prohibited.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The sentence lacks a period at the end, which is a minor punctuation error.
+```"
+35,"В беге на 60 м и беге с барьерами 60 м соревнования проводятся в 3 круга, выход в следующий круг будет определен по окончанию приема заявок.","In the 60 m sprint and 60 m hurdles, the competitions are held in 3 rounds, and advancement to the next round will be determined after the registration period ends.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""and advancement"" is unnecessary in English.
+```"
+39,"В прыжках и метаниях проводятся квалификационные (в случае более 16 заявленным спортсменов) и финальные соревнования, для участия в которых необходимо пройти квалификацию.","In jumping and throwing events, qualifying (if more than 16 athletes are registered) and final competitions are held, and qualification is required to participate in the finals.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""and qualification is required to participate in the finals"" is unnecessary and disrupts the flow of the sentence.
+```"
+57,Техническое совещание ГСК с официальными представителями команд состоится 14 февраля в 18:00 в конференц-зале манежа ЛФК ЦСКА.,The technical meeting of the GSK with official team representatives will take place on February 14 at 18:00 in the conference hall of the CSKA LFK arena.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: none
+[Major]: none
+[Minor]: capitalization - ""arena"" should be capitalized as ""Arena"" since it is part of a proper noun ""CSKA LFK Arena.""
+```"
+59,"Июльский номер традиционно сдается во время Московского кинофестиваля, и это, конечно, очень грустно: вычитывать полосы, когда душа рвется на Шаброля.","The July issue is traditionally submitted during the Moscow Film Festival, and this is, of course, very sad: proofreading pages when the soul longs for Chabrol.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The colon after ""sad"" should be a semicolon or a period to separate two independent clauses.
+```"
+62,"А еще мы в этот раз публикуем первую часть довольно подробного гида по творчеству Альфреда Хичкока, и вот тут уж точно не нужно ничего специально рекламировать, и ежу понятно, что автор «Подозрения» и «Веревки» - это наше Татьяна Алешичева, Борис Глейзеров, Анна Головня, Ник Де Семлин, Дэн Джолин, Тамара Дондурей, Николай Караев, Денис Корсаков, Мария Кувшинова, Иван Куликов, Уилл Лоуренс, Сергей Мезенов, Сергей Натапов, Иан Нейтан, Ким Ньюмэн, Заира Озова, Нев Пирс, Алексей Простяков, Серафима Скибюк, Адам Смит, Мур Соболева, Василий Степанов, Александр Стрелков, Олли Ричардс, Олег Тищенков, Алена Логунова, Крис Хьюитт, Ольга Шакина лондинку-цэрэушницу Эвелин Солт, несмотря на блестящий послужной список, заподозрили в шпионаже в пользу русских и решили во что бы то ни стало изловить.","Here's the translation of the provided text:
+
+""Additionally, this time we are publishing the first part of a rather detailed guide on the works of Alfred Hitchcock, and there is certainly no need for any special promotion here. It's obvious to everyone that the author of 'Suspicion' and 'Rope' is our Tatiana Aleshicheva, Boris Gleizerov, Anna Golovnya, Nick De Semlyen, Dan Jolin, Tamara Dondurey, Nikolai Karaev, Denis Korsakov, Maria Kuvshinova, Ivan Kulikov, Will Lawrence, Sergey Mezenov, Sergey Natapov, Ian Nathan, Kim Newman, Zaira Ozova, Nev Pierce, Alexey Prostyakov, Serafima Skibyuk, Adam Smith, Mur Soboleva, Vasily Stepanov, Alexander Strelkov, Olly Richards, Oleg Tishchenkov, Alena Logunova, Chris Hewitt, Olga Shakina. Despite her brilliant track record, Evelyn Salt, a London-based CIA agent, was suspected of espionage in favor of the Russians and they decided to catch her at all costs.""","```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [punctuation] - Missing period after the list of authors before starting a new sentence with ""Despite her brilliant track record.""
+[Minor]: [punctuation] - The use of a comma before ""and"" in the list of authors is optional in English, but for consistency, it could be added before ""Olga Shakina.""
+```"
+63,"Загнанная в угол, она перекрасится в привычный нам черный и сама отправится искать правду.","Cornered, she will dye her hair the familiar black and set out to find the truth herself.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence would benefit from a comma after ""Cornered"" to improve readability.
+```"
+66,Примерно так красота и должна спасать мир.,Something like this is how beauty should save the world.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The sentence should end with a period to be grammatically correct.
+```"
+67,"Вот он, родной, взорвавший и починивший мир «Пятым элементом» и сделавший Миллу Йовович самой прекрасной женщиной во вселенной.","Here he is, the one who blew up and fixed the world with ""The Fifth Element"" and made Milla Jovovich the most beautiful woman in the universe.","```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The quotation marks around ""The Fifth Element"" should be consistent with English conventions, typically using double quotation marks (“ ”) instead of single quotes.
+```"
+70,Что делал Бессон 13 лет между «Элементом...» и «Аделью...» вспоминать не хочется.,"What Besson did during the 13 years between ""The Fifth Element"" and ""Adèle..."" is something I don't want to remember.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The ellipsis in ""The Fifth Element"" should be followed by a period to match the source's punctuation style.
+```"
+71,"Он, мягко говоря, без дела не сидел, но вся эта сценарно-продюсерская суета и редкие, вымученные режиссерские выступления забудутся.","He, to put it mildly, was not idle, but all this scriptwriting and producing hustle and the rare, strained directorial appearances will be forgotten.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""but"" is unnecessary in this context.
+```"
+72,А вот «Адель...» — едва ли.,"But ""Adele..."" — hardly.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Incorrect use of ellipsis; should be three dots instead of four.
+```"
+73,"Когда смотришь это кино, кажется, что 13 лет перед нами был не наш Бессон, а какой-то двойник.","When you watch this movie, it seems that for the past 13 years, it wasn't our Besson, but some kind of double.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""movie"" is unnecessary in English.
+```"
+76,"Тут весь невероятный драйв заключается в том, что за каждым поворотом или репликой вас поджидают сюрпризы.",The whole incredible thrill here lies in the fact that surprises await you around every corner or line.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The sentence would benefit from a comma after ""corner"" to improve readability: ""surprises await you around every corner, or line.""
+```"
+77,И все как один приятные.,"""And all of them are pleasant.""","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The sentence should end with a period.
+```"
+78,"То ли девушка, то ли видение",Either a girl or a vision,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+84,"Режиссер не бежит за зрителем с протянутой рукой, умоляя оценить спецэффекты, декорации или трюки, а увлекает за собой, как старомодный романист, восклицающий пред большим путешествием к центру земли или на край света: «Вперед, мой читатель, нас ждут великие дела!»","The director does not chase after the audience with an outstretched hand, begging them to appreciate the special effects, sets, or stunts. Instead, he captivates them like an old-fashioned novelist, exclaiming before a grand journey to the center of the earth or to the ends of the world: ""Onward, my reader, great deeds await us!""","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""stunts"" should be a period to correctly separate the two independent clauses.
+```"
+85,"При этом Бессон обращается с жанровым кино, про которое знает решительно все, бесцеремонно и весело, как мальчишка, насмотревшийся старых фильмов и начитавшийся Жюля Верна.","Besson approaches genre cinema, about which he knows absolutely everything, in a cheeky and fun way, like a boy who has watched old films and read Jules Verne.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""everything"" is unnecessary and disrupts the flow of the sentence.
+[Minor]: [punctuation] - The comma after ""fun way"" is unnecessary and disrupts the flow of the sentence.
+```"
+86,"Манипулируя банальностями, не отказывая себе в цинизме и не стесняясь риско","Manipulating banalities, not denying oneself cynicism, and not hesitating to take risks.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence should end with a period.
+```"
+90,"Город переполошило древнее чудовище, которое пробудил к жизни старый медиум.",The city was alarmed by an ancient monster that was brought to life by an old medium.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The comma after ""medium"" is missing, which would improve the readability of the sentence.
+```"
+92,С той же целью девушка тащит из Египта настоящую мумию.,"With the same purpose, the girl is bringing a real mummy from Egypt.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The comma after ""purpose"" is not necessary and disrupts the flow of the sentence.
+```"
+96,"Стиль Бессона в этом фильме складывается из словесного трюкачества, актерской клоунады и сюжетной эквилибристики (цирковые термины вполне уместны - единение двух искусств здесь органично и крепко как никогда).","Besson's style in this film consists of verbal trickery, acting clownery, and plot acrobatics (circus terms are quite appropriate here—the union of the two arts is as organic and strong as ever).","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The dash should be an em dash (—) instead of a hyphen (-) for proper punctuation.
+```"
+98,"В ней воплотился незаслуженно забытый типаж авантюристки, которая берет не столько эксплуатацией сексуальности, сколько чистейшим куражом и отвагой.",It embodies an undeservedly forgotten archetype of an adventuress who relies not so much on exploiting sexuality as on pure daring and courage.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The comma before ""as"" is unnecessary and disrupts the flow of the sentence.
+```"
+99,"В кино к таким девушкам, как правило, приставляют какого-нибудь дежурного мачо или волоокого романтика","In movies, such girls are usually paired with some macho guy on duty or a doe-eyed romantic.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""or"" is not necessary in this context.
+```"
+104,"Натренированный на многочисленных жанровых «кошках» и, казалось, совсем скисший Люк Бессон проявил неожиданную творческую лихость, напомнив, что граница между предпочтениями скучающих посетителей мегамоллов и высоколобых завсегдатаев арт-хаусных залов легко преодолевается фильмами для жизнерадостных безумцев.","Trained on numerous genre ""cats"" and seemingly completely deflated, Luc Besson displayed unexpected creative audacity, reminding us that the boundary between the preferences of bored megamall visitors and the highbrow regulars of arthouse theaters is easily crossed by films for cheerful madmen.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""deflated"" should be followed by a conjunction for better grammatical structure.
+[Minor]: [punctuation] - The comma after ""audacity"" should be followed by a conjunction for better grammatical structure.
+[Minor]: [punctuation] - The comma after ""theaters"" should be followed by a conjunction for better grammatical structure.
+```"
+107,"Герметичный хоррор с претензией на психологизм и политический контекст 2002 году дебютный ужастик Джонатана Либесмана был разруган критикой, но понравился публике и хорошо заработал в прокате, а главное - попался на глаза продюсеру Майклу Бэю.","The airtight horror with a claim to psychological depth and political context, Jonathan Liebesman's debut horror film in 2002 was panned by critics but liked by the audience and did well at the box office. Most importantly, it caught the eye of producer Michael Bay.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""political context"" is not necessary and disrupts the flow of the sentence.
+[Minor]: [grammar] - The phrase ""Jonathan Liebesman's debut horror film in 2002"" would be clearer as ""Jonathan Liebesman's 2002 debut horror film"" to improve readability.
+```"
+115,А трое мужчин в запертой комнате пытаются выработать стратегию выживания: объединиться в команду или перестрелять друг друга?,And three men in a locked room are trying to devise a survival strategy: to team up or to shoot each other?,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The colon after ""strategy"" should be followed by a lowercase letter, as it introduces a list or explanation.
+```"
+117,Или пытаться сломать свою клетку любой ценой?,"""Or try to break your cage at any cost?""","```
+MQM annotations:
+linguistic conventions errors:
+Minor: Punctuation - The sentence should end with a period for proper punctuation.
+```"
+118,"Проверку проходят не только они, но и молодая амбициозная сотрудница спецслужб, которую тестирует на безжалостность поднаторевший в диких экспериментах опытный профессор.","The test is being taken not only by them but also by a young ambitious intelligence officer, who is being tested for ruthlessness by an experienced professor skilled in wild experiments.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""officer"" is unnecessary and disrupts the flow of the sentence.
+```"
+120,Их сажают в изолированную комнату и выдают каждому кипу листов с бессмысленными вопросами.,They are placed in an isolated room and given a stack of sheets with meaningless questions.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: grammar - The phrase ""given a stack of sheets"" could be more grammatically precise as ""given stacks of sheets"" to align with the plural ""each"" referring to multiple individuals.
+```"
+122,"Начинается игра на выживание, за которой за стеклом внимательно наблюдают правительственные агенты.","The survival game begins, closely watched by government agents behind the glass.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The comma after ""begins"" is missing, which would improve the readability of the sentence.
+```"
+126,"Куртуазным образом жизни отца она уязвлена и откровенно подглядывает за тем, как он, словно пародируя знаменитую сцену из «Шоугелз» Пола Верхувена, ныряет в бассейн за очередной романтической жертвой.","She is hurt by her father's courtly lifestyle and openly spies on him as he, seemingly parodying the famous scene from Paul Verhoeven's ""Showgirls,"" dives into the pool after yet another romantic target.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""Showgirls"" is unnecessary and disrupts the flow of the sentence.
+```"
+129,Вялую мелодраматическую Мгер Мкртчан вместе с Павлом Бардиным снял комедию с Иваном Ургантом «Трое и снежинка».,"The sluggish melodrama Mger Mkrtchyan, along with Pavel Bardin, made a comedy with Ivan Urgant called ""Three and a Snowflake.""","```
+MQM annotations:
+linguistic conventions errors:
+Major: word order - The phrase ""The sluggish melodrama Mger Mkrtchyan"" is awkward and disrupts the flow. It should be reordered for clarity.
+Minor: punctuation - The sentence lacks a comma after ""Pavel Bardin,"" which would improve readability.
+```"
+133,"Особенно жалко линию про бизнес по перекупке футбольных игроков, так и оставшийся за кадром.",It's especially unfortunate that the storyline about the business of trading football players was left out.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence lacks a period at the end.
+```"
+137,"Зато с потенциальным слоганом для аудитории фильма автор попал «в девятку»: «Не ищи проблему там, где ее нет». Точнее не скажешь.","However, the author hit the bullseye with a potential slogan for the film's audience: ""Don't look for a problem where there isn't one."" You couldn't say it better.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The colon after ""audience"" should be followed by a lowercase letter in English, as the clause following it is not a complete sentence.
+```"
+140,"Герои скачут практически по одним и тем же частям света (оба фильма начинаются в Латинской Америке и заканчиваются в порту Лос-Анджелеса) и эксплуатируют одни и те же эффектные кадры - и там и там взрывается нечто, набитое долларовыми купюрами, и на декорации опускается вихрь из баксов.","The heroes gallop through almost the same parts of the world (both films start in Latin America and end at the Port of Los Angeles) and exploit the same spectacular shots—in both, something stuffed with dollar bills explodes, and a whirlwind of cash descends on the set.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The dash should be an em dash (—) instead of an en dash (–) for proper punctuation in English.
+```"
+146,"Просто удивительно, как они, не сговариваясь, привели разный материал к абсолютно идентичному громыхающему знаменателю, сделав довольно тяжелые, предсказуемые, ненужные боевики, вызывающие в памяти массу картин с Уиллисом и Шварценеггером (сравнения неизменно оказываются в пользу Брюса и Арнольда).","It's simply amazing how they, without colluding, brought different material to an absolutely identical thundering denominator, creating rather heavy, predictable, unnecessary action films that evoke a multitude of images of Willis and Schwarzenegger (the comparisons invariably favor Bruce and Arnold).","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""creating"" should be a semicolon to separate independent clauses.
+```"
+151,"Но они живы — и намерены во что бы то ни стало отомстить негодяю с томным голосом, который все это подстроил.",But they are alive—and determined to avenge the scoundrel with the languid voice who orchestrated all of this at any cost.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The em dash should be surrounded by spaces for better readability.
+```"
+153,"Сделанный из вторсырья, условно съедобный боевичок","Made from recycled materials, a conditionally edible action movie.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The comma after ""materials"" is unnecessary and disrupts the flow of the sentence.
+```"
+154,Простая история о беглом румынском каторжнике,A Simple Story About a Fugitive Romanian Convict,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: capitalization - The word ""Simple"" should not be capitalized as it is not the first word of the title.
+```"
+158,"Безусловно, оно будет реалистичным, притом жестко.","Certainly, it will be realistic, and quite tough at that.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""and"" is unnecessary in this context.
+```"
+159,Высока вероятность участия актеров-непрофессионалов.,There is a high likelihood of participation by non-professional actors.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The sentence lacks a period at the end.
+```"
+161,"Также, не зная года выпуска, можно запросто принять происходящее на экране за упражнения каких-то подпольных критических реалистов из стран Варшавского договора, которым в начале 80-х прочитали лекцию о Брессоне","Also, without knowing the year of release, one might easily mistake what is happening on the screen for the exercises of some underground critical realists from Warsaw Pact countries, who attended a lecture on Bresson in the early 80s.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The comma before ""who attended a lecture on Bresson in the early 80s"" could be replaced with a semicolon or a conjunction for better clarity.
+```"
+168,"конвертировать в эксплотейшн а-ля 70-е, с ковбоем, решившим прогуляться из тюряги, откуда ему скоро выходить, до ближайшего салуна).","Translate to exploitation-style like the '70s, with a cowboy who decides to take a stroll from the prison, from which he is soon to be released, to the nearest saloon.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""prison"" is unnecessary and disrupts the flow of the sentence.
+[Minor]: [punctuation] - The comma after ""released"" is unnecessary and disrupts the flow of the sentence.
+```"
+175,"Неплохой дебют, внушающий слабую надежду, что из румынского артхауса когда-нибудь вырастет приличное направление","A decent debut, inspiring a faint hope that Romanian arthouse might one day develop into a respectable movement.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""debut"" is not necessary and disrupts the flow of the sentence.
+```"
+178,"«Гадкий я», наверное, лучшая работа его команды: картина прекрасно нарисована (кстати, имеет смысл смотреть в ЗО), особенно, если вы любите, когда разные объекты то и дело норовят выпрыгнуть с экрана в зал), сносно написана, и, главное, здесь нет ни одной нижепоясной шутки, из-за которых на «Ледниковых периодах» приходилось стыдливо вжиматься в кресло и закрывать детские ушки руками.","""Despicable Me"" is probably the best work of his team: the film is beautifully animated (by the way, it's worth watching in 3D), especially if you enjoy when various objects seem to constantly try to jump off the screen into the audience. It is decently written, and most importantly, there are no below-the-belt jokes that made you want to sink into your seat and cover children's ears with your hands during the ""Ice Age"" movies.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""3D)"" should be removed for better flow.
+```"
+179,"Понятно, что причиной смены курса стало не чувство меры авторов, а вопиющая асексуальность главного героя, каковая в свою очередь продиктована нежеланием как бы то ни было касаться темы педофилии.","It is clear that the reason for the change in course was not the authors' sense of moderation, but the blatant asexuality of the main character, which in turn is dictated by the reluctance to touch on the topic of pedophilia in any way.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The comma before ""which in turn"" is missing, which slightly disrupts the flow of the sentence.
+```"
+182,"Чувствуется кропотливая работа слаженной команды маркетологов, продумавших каждую мелочь, чтобы фильм понравился всем категориям граждан.",You can sense the meticulous work of a cohesive team of marketers who have thought through every detail to ensure the film appeals to all categories of citizens.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The sentence would benefit from a comma after ""marketers"" to improve readability.
+```"
+189,В финале Грю танцует партию Траволты,"In the finale, Gru dances Travolta's part.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - ""Travolta's"" should not be capitalized as it is part of a possessive noun phrase and not a proper noun in this context.
+```"
+190,"К заброшенному трейлеру где-то посреди условной пустыни подкатывает тачка, из которой выходят три пары добротнейших сисек.","A car rolls up to an abandoned trailer somewhere in the middle of a metaphorical desert, and three pairs of impressive breasts step out.","```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [Grammar] - The phrase ""three pairs of impressive breasts step out"" is grammatically awkward and lacks clarity. It would be more natural to say ""three women with impressive breasts step out"" or similar, to clarify the subject.
+```"
+192,Сами по себе носительницы этого дара не так существенны.,The bearers of this gift themselves are not so significant.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: Grammar - The phrase ""themselves are"" is slightly awkward and could be improved for better grammatical flow. A more natural phrasing might be ""are themselves not so significant.""
+```"
+196,А происходит много всего забавного.,A lot of funny things are happening.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The sentence is missing a period at the end.
+```"
+198,"Создатели считают, что матерящаяся телка с щедрыми формами, вымазанная в грязи, с разбитым носом и сияющими белизной зубами - это круто.","The creators believe that a swearing chick with generous curves, covered in mud, with a broken nose and shining white teeth is cool.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The sentence should end with a period for proper punctuation.
+```"
+201,Близкий по духу фильм в московском прокате — «Ствол для Дженнифер».,"A film with a similar spirit in the Moscow box office is ""A Gun for Jennifer.""","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The quotation marks around ""A Gun for Jennifer"" should be double quotation marks (“ ”) instead of single quotation marks (‘ ’) to follow standard English punctuation conventions.
+```"
+203,"В общем, для кино-фетишиста здесь обнаруживается настоящий Клондайк удовольствий.","In general, for a cinema enthusiast, this is a true Klondike of pleasures.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: None
+```
+
+The translation ""In general, for a cinema enthusiast, this is a true Klondike of pleasures."" does not contain any linguistic convention errors. The sentence is grammatically correct, with proper punctuation, capitalization, and word order."
+205,"Если бы не физические данные актрис, скучно стало бы уже к середине.","If it weren't for the actresses' physical attributes, it would have become boring by the middle.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""by the middle"" is unnecessary and disrupts the flow of the sentence.
+```"
+207,"В РОЛЯХ: Джулия Вот, Эрин Каммингс, Америка Оливо, Майкл Херст, Рон Мелендес","CAST: Julia Voth, Erin Cummings, America Olivo, Michael Hurst, Ron Melendez","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing period at the end of the sentence.
+```"
+209,"Ничего не добившись и застрелив несчастного бандита, бабы начинают цапаться, драться друг с другом и периодически прибывающими откуда-то отморозками, а также регулярно целоваться и тискаться.","Having achieved nothing and after shooting the unfortunate bandit, the women start to bicker and fight with each other and with the periodically arriving thugs from somewhere, as well as regularly kissing and cuddling.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""bandit"" should be replaced with a semicolon to correctly separate the two independent clauses.
+[Minor]: [punctuation] - A comma is needed after ""thugs from somewhere"" to separate the clauses more clearly.
+```"
+210,"По ходу дела выясняется, что все трое не те, кем представлялись в начале.","As things progress, it turns out that all three are not who they initially claimed to be.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The comma after ""progress"" is missing, which would improve the readability of the sentence.
+```"
+214,Кровожадный и кусачий пеплум возвращает режиссеру пошатнувшееся доверие.,The bloodthirsty and biting peplum restores the director's shaken confidence.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+217,"«План Маршалла» по очищению «пеплума» от налипшей пост-гладиаторской киногрязи, в целом, сработал.","The ""Marshall Plan"" for cleaning the ""peplum"" from the accumulated post-gladiator film grime, overall, worked.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""overall"" is unnecessary and disrupts the flow of the sentence.
+```"
+226,"Тонкому артхаусному артисту пока удалось отвоевать в Голливуде лишь острохарактерные роли второго плана, но очень хочется верить, что после «Центуриона» ситуация изменится.","The subtle arthouse actor has so far managed to secure only sharply defined supporting roles in Hollywood, but one can hope that the situation will change after ""Centurion.""","```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - Missing comma after ""Hollywood"" for better readability.
+```"
+240,"Лысая, как бильярдный шар, киса замыслила захватить весь мир, и теперь собаки-суперагенты вынуждены объединить усилия со своими мяукующими антагонистами.","Bald as a billiard ball, the kitty has plotted to take over the world, and now the super-agent dogs are forced to join forces with their meowing antagonists.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The comma after ""ball"" is unnecessary and disrupts the flow of the sentence.
+```"
+244,"Обратите внимание на Джорджа Клуни, который объединился с рок-фотографом-ныне-режиссером Антоном Корбайном («Контроль») для весьма любопытного экзистенциального исследования психологии стареющего наемного убийцы, прячущегося от людей в небольшом итальянском городке и сзапозданием постигающего человеческую природу.","Take note of George Clooney, who has teamed up with rock photographer-turned-director Anton Corbijn (""Control"") for a rather intriguing existential exploration of the psychology of an aging assassin. The assassin is hiding from people in a small Italian town and belatedly coming to understand human nature.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence ""The assassin is hiding from people in a small Italian town and belatedly coming to understand human nature."" could benefit from a comma after ""town"" to improve readability.
+```"
+247,"Взяв за основу роман Мартина Бута «Очень скрытный джентльмен», Роуэн Джоффе внес в свой сценарий кое-какие коррективы: место рассказчика-англичанина занял вынесенный в заглавие американец, а из оружейника-нелегала главный герой превратился в простого убийцу.","Based on Martin Booth's novel ""A Very Private Gentleman,"" Rowan Joffe made some adjustments to his screenplay: the English narrator was replaced by the American mentioned in the title, and the protagonist was transformed from an illegal gunsmith into a simple assassin.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The comma after ""adjustments to his screenplay"" should be replaced with a colon for better punctuation.
+```"
+253,А можно я вас из фоторужья щелкну!?,"""Can I snap a photo of you with my camera gun?""","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The exclamation mark should be replaced with a question mark to match the interrogative nature of the sentence.
+```"
+254,Джонни Деппа в этом сезоне можно было увидеть в двух местах одновременно.,Johnny Depp could be seen in two places at the same time this season.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: Capitalization - The name ""Johnny Depp"" should have both names capitalized for proper noun usage.
+```"
+257,"Во-вторых, в Пуэрто Рико на площадке «Ромового дневника», экранизации дебютного романа легендарного Хантера С. Томпсона.","Secondly, in Puerto Rico on the set of ""The Rum Diary,"" an adaptation of the debut novel by the legendary Hunter S. Thompson.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""secondly"" is missing, which is needed to separate the introductory element from the main clause.
+```"
+261,"Впрочем, хорошо хотя бы то, что героиня российской картины хоть и чужая, но совсем не лысая.","However, it's at least good that the heroine of the Russian film, although foreign, is not bald at all.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""film"" is unnecessary and disrupts the flow of the sentence.
+```"
+265,"В график также заложен и седьмой фильм — романтическая комедия «Джек и Джилл», где Сэндлеру предстоит одновременно сыграть Джека и его сестру-близнеца Джилл.","The schedule also includes a seventh film—a romantic comedy ""Jack and Jill,"" where Sandler will play both Jack and his twin sister Jill simultaneously.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The em dash should be surrounded by spaces for proper punctuation: ""film—a"" should be ""film — a"".
+```"
+269,"В то время как съемки новой серии Бондианы откладываются, ее новый режиссер Сэм Мендес скучать не успевает.","While the filming of the new Bond series is being postponed, its new director, Sam Mendes, doesn't have time to be bored.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""its new director"" is unnecessary in English and disrupts the flow of the sentence.
+```"
+277,"По признанию режиссера, это нелегкая (в романе шесть параллельных сюжетных линий), но крайне интересная работа.","According to the director, it is a challenging (the novel has six parallel storylines) but extremely interesting work.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The parentheses should be closed immediately after ""storylines)"" to maintain proper punctuation.
+```"
+279,В Крыму проходят съемки интернационального боевика Максима Коростышевского под рабочим названием «Солдаты удачи».,"In Crimea, filming is underway for the international action movie by Maxim Korostyshevsky, tentatively titled ""Soldiers of Fortune.""","```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The comma after ""Maxim Korostyshevsky"" is unnecessary in this context.
+```"
+280,"Он посвящен миллионерам, отправившимся за свои деньги на настоящую войну в поисках адреналина.",It is dedicated to millionaires who went to a real war for their money in search of adrenaline.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The comma after ""money"" is missing, which would improve the readability of the sentence.
+```"
+288,Этот факт не должен пугать искушенного зрителя - в истории кинематографа есть масса примеров успешной переквалификации моделей в актрис.,This fact should not scare the discerning viewer - there are many examples in the history of cinema where models have successfully transitioned to actresses.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The dash should be an em dash (—) instead of a hyphen (-) for proper punctuation.
+```"
+289,"Шарлиз Терон («Монстро»), Анджелина Джоли («Прерванная жизнь»), Джессика Лэнг («Голубое небо», «Тутси»), Ким Бэсингер («Секреты Лос-Анджелеса»), Дженнифер Коннели («Игры разума»), Джина Дэвис («Случайный турист») и «Первая вице-мисс США-86» Халле Берри («Бал монстров») начинали как манекенщицы или снимались для модных журналов, в итоге получили заслуженный «Оскар».","Charlize Theron (""Monster""), Angelina Jolie (""Girl, Interrupted""), Jessica Lange (""Blue Sky,"" ""Tootsie""), Kim Basinger (""L.A. Confidential""), Jennifer Connelly (""A Beautiful Mind""), Geena Davis (""The Accidental Tourist""), and ""First Runner-Up Miss USA 1986"" Halle Berry (""Monster's Ball"") all started as models or posed for fashion magazines and eventually earned a well-deserved Oscar.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""Blue Sky"" should be inside the quotation marks.
+[Minor]: [punctuation] - The comma after ""Tootsie"" should be inside the quotation marks.
+```"
+290,"Преуспели в актерском мастерстве (также красавицы Милла Йовович, Кэмерон Диас, Моника Белуччи и, что особенно приятно, наша соотечественница Ольга Куриленко.","Succeeded in acting (also beauties Milla Jovovich, Cameron Diaz, Monica Bellucci, and, especially pleasing, our compatriot Olga Kurylenko).","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence is missing a period at the end.
+```"
+293,"Валерия Гай Германика, заслужившая Особого упоминания каннского жюри в 2008 году за картину «Все умрут, а я останусь» и снявшая скандальный телесериал «Школа», получила должность креативного директора на телеканале МТ.","Valeriya Gai Germanika, who earned a Special Mention from the Cannes jury in 2008 for the film ""Everybody Dies But Me"" and directed the controversial TV series ""School,"" has been appointed as the creative director at the MT television channel.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""and directed"" should be removed for better flow and clarity.
+```"
+296,Также Германика начала кастинг новых ведущих.,Germanika has also started casting new hosts.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The word ""Germanika"" should be capitalized as ""Germanika"" is a proper noun and should start with an uppercase letter.
+```"
+297,Комедия «Колотилов» режиссера Лео Габриадзе и продюсера Тимура Бекмамбетова неожиданно превратилась в «Выкрутасы».,"The comedy ""Kolotilov"" directed by Leo Gabriadze and produced by Timur Bekmambetov unexpectedly turned into ""Lucky Trouble.""","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The comma should be placed inside the quotation marks in ""Kolotilov"" and ""Lucky Trouble"" according to English punctuation rules.
+```"
+299,Новое развитие получила вторая сюжетная линия картины.,The second storyline of the film has received new development.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The phrase ""has received new development"" is slightly awkward and could be improved for better grammatical flow. A more natural phrasing might be ""has developed further"" or ""has seen new developments.""
+```"
+308,"Очумевшие от жесткого расписания, критики и кинематографисты на сверхскоростях носились меж сочинским Зимним театром, где проходили показы с мастер-классами, и гостиницей «Жемчужина», в которой потоком шли пресс-конференции и круглые столы, едва успевая нырнуть в Черное море.","Overwhelmed by the hectic schedule, critics and filmmakers were rushing at high speeds between the Sochi Winter Theater, where screenings and master classes were held, and the Zhemchuzhina Hotel, where press conferences and round tables were taking place in a continuous stream, barely managing to dive into the Black Sea.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence could benefit from a comma before ""barely managing"" to improve clarity and flow.
+```"
+313,"На круглом столе, посвященном судьбам российского артхауса, живописную свару с критиками устроил председатель фонда поддержки отечественного кино Сергей Толстиков: «Вы вообще читаете статьи в прессе, которые читаю я?» - грозно вопрошал он у собравшихся.","At the round table dedicated to the fate of Russian arthouse cinema, Sergey Tolstikov, the chairman of the domestic cinema support fund, engaged in a lively dispute with critics: ""Do you even read the articles in the press that I read?"" he asked the attendees sternly.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The colon should be followed by a lowercase letter unless it introduces a complete sentence.
+```"
+318,"Председателю жюри Карену Шахназарову картина Лозницы, напротив, не понравилась вовсе — но под давлением коллег он вынужден был дать ей приз за режиссуру.","The chairman of the jury, Karen Shakhnazarov, did not like Loznitsa's film at all. However, under pressure from his colleagues, he was forced to give it the award for directing.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The dash in ""Shakhnazarov, did not like Loznitsa's film at all. However, under pressure"" should be replaced with a semicolon or a period to improve sentence clarity.
+```"
+319,Награду за лучший дебют — «Пропавший без вести» — получила дочь,"The award for Best Debut — ""Missing"" — was received by the daughter.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The use of em dashes around ""Missing"" is unconventional in English; quotation marks alone are sufficient.
+```"
+320,"Жуткая киноэнциклопедия русской жизни: наивного гуманного и рационального героя бьют, грабят и провоцируют на чудовищные поступки без всякой видимой цели.","The eerie film encyclopedia of Russian life: the naive, humane, and rational hero is beaten, robbed, and provoked into monstrous acts without any apparent purpose.","```
+MQM annotations:
+linguistic conventions errors:
+[Major]: [punctuation] - The colon after ""encyclopedia of Russian life"" is used incorrectly, disrupting the flow of the sentence. A period would be more appropriate.
+[Minor]: [punctuation] - The phrase ""the naive, humane, and rational hero"" could be set off with commas for clarity, as it is a non-restrictive clause.
+```"
+323,Самая сложная картина «Кинотавра» уже отобрана в конкурс Карловых Вар — режиссерская звезда родилась.,"The most complex film of ""Kinotavr"" has already been selected for the Karlovy Vary competition — a directorial star is born.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The em dash should be surrounded by spaces for correct punctuation in English.
+```"
+324,"Безупречно одетый и постриженный программист Леонид реагирует на мир со сдержанной брезгливостью, прячась в норе аккуратного холостяцкого быта.","The impeccably dressed and groomed programmer Leonid reacts to the world with restrained disdain, hiding in the burrow of a neat bachelor lifestyle.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""disdain"" is missing, which would improve the readability of the sentence.
+```"
+325,"Но на дом опускается чугунная баба, на голову героя — несправедливая рука карательных органов, и он начинает бессмысленный бег по кафкианским пространствам и ситуациям.","But an iron lady descends upon the house, an unjust hand of the punitive authorities upon the hero's head, and he begins a senseless run through Kafkaesque spaces and situations.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""house"" should be a semicolon to separate two independent clauses.
+```"
+328,И это симптоматично - нынче в нашем кино зубры движутся за молодежью.,"And this is symptomatic - nowadays in our cinema, the veterans are following the youth.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The dash should be an em dash (—) for proper punctuation in English.
+```"
+330,"Документальное кино, снятое так, что голову сносит почище, чем от аналогичного художественного.",A documentary film made in such a way that it blows your mind even more than a similar feature film.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [grammar] - The phrase ""even more than a similar feature film"" could be rephrased for clarity and grammatical correctness. A more natural phrasing might be ""more than a similar feature film.""
+```"
+331,"Автору интересна и отвертка, исследующая электрический счетчик, и кусок несоленого сливочного, дрейфующий по чугунной сковороде, -— все это превращает историю о безработном шахтере, его редкозубой возлюбленной и ее уголовнике-брате в настоящее док-полотно маслом.","The author is interested both in the screwdriver examining the electric meter and the piece of unsalted butter drifting across the cast-iron skillet—all of this turns the story of the unemployed miner, his gap-toothed beloved, and her criminal brother into a true oil-on-canvas documentary.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The dash before ""all of this"" should be an em dash (—) instead of a hyphen (-).
+```"
+332,Победитель конкурса короткого метра Николай Соколов примеряет черно-белую стилистику французской новой волны на мир спальных районов.,"The winner of the short film competition, Nikolay Sokolov, applies the black-and-white style of the French New Wave to the world of residential districts.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""competition"" is unnecessary and disrupts the flow of the sentence.
+```"
+333,"Пусть годаровские монтажные ходы в истории о двух школьниках, один из которых мечтает сделать бомбу, а другой — сыграть Баха задом наперед, выглядят странно, но за редкую попытку поэтизации окружающей реальности — спасибо.","Let the Godard-style editing techniques in the story about two schoolboys, one of whom dreams of making a bomb and the other of playing Bach backwards, seem strange, but for the rare attempt to poeticize the surrounding reality — thank you.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The em dash should be surrounded by spaces for proper punctuation: ""reality — thank you"" should be ""reality — thank you.""
+```"
+338,"Недавно режиссером был назначен Карл Ринш (у него в графике уже стоит ремейк «Твари из Черной лагуны»), прославившийся своими рекламными роликами.","Recently, Carl Rinsch was appointed as the director (he already has a remake of ""Creature from the Black Lagoon"" on his schedule), who became famous for his commercials.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before the parenthetical phrase ""(he already has a remake of 'Creature from the Black Lagoon' on his schedule)"" is unnecessary and disrupts the flow of the sentence.
+```"
+341,Роберт Родригес приобрел права на ротоскопический фэнтези-мультфильм 80-х и планирует сделать из него масштабное кино.,Robert Rodriguez has acquired the rights to a rotoscope fantasy cartoon from the 80s and plans to turn it into a major film.,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence could benefit from a comma after ""80s"" for better readability.
+```"
+343,"Темой мультфильма были мечи, магия и большое количество нарисованных сисек.","The theme of the cartoon was swords, magic, and a large number of drawn breasts.","```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The comma before ""and"" in the list is optional in English, but its absence does not significantly hinder comprehension.
+```"
+347,"На широкие экраны героев вернет не кто иной, как Майкл Бэй - властелин экшена, взрывов и хоррор-ремейков.","The heroes will return to the big screen thanks to none other than Michael Bay - the master of action, explosions, and horror remakes.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""Michael Bay"" is missing, which is necessary for correct punctuation.
+```"
+353,— Китайские женщины в наше время управляют крупным бизнесом и выигрывают олимпийское золото.,— Chinese women nowadays run large businesses and win Olympic gold.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The comma after ""businesses"" should be added for better readability: ""run large businesses, and win Olympic gold.""
+```"
+367,И этот контакт у нас случился буквально через несколько минут после знакомства.,And this contact happened literally a few minutes after we met.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The comma is missing after ""And"" at the beginning of the sentence.
+```"
+373,Как прошли съемки в Севастополе?,How did the filming in Sevastopol go?,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: Punctuation - The sentence is missing a punctuation mark at the end, such as a period or question mark.
+```"
+375,"У меня никогда не было там гастролей, ни на отдых, ни в детстве я туда не приезжала.","I have never toured there, nor have I visited for vacation or during my childhood.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma after ""there"" is unnecessary and disrupts the flow of the sentence.
+```"
+380,"Получается, вам было несложно играть влюбленность в этот город.",It turns out it wasn't difficult for you to play being in love with this city.,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: grammar - The phrase ""play being in love"" is slightly awkward and could be improved for grammatical correctness. A more natural phrasing might be ""pretend to be in love with this city.""
+```"
+381,"Вообще, вы предельно органичны на экране, чего многие, откровенно говоря, не ожидали.","Overall, you are extremely natural on screen, which, frankly speaking, many did not expect.","```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The comma before ""which"" is unnecessary and disrupts the natural flow of the sentence.
+```"
+387,"Я прекрасно понимаю, что со стороны видней, и я, опять же, прошу подсказок и разговариваю с режиссером, очень долго, даже не я с ним разговариваю, а он со мной ведет предварительные беседы и предельно четко и точно объясняет, что ему нужно.","I completely understand that it's easier to see from the outside, and once again, I ask for guidance and have long conversations with the director. In fact, it's not so much me talking to him, but him having preliminary discussions with me, explaining very clearly and precisely what he needs.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The sentence ""In fact, it's not so much me talking to him, but him having preliminary discussions with me, explaining very clearly and precisely what he needs."" could benefit from a semicolon instead of a comma after ""me"" for better clarity.
+```"
+390,"Я кайфовала от всех, оператора, режиссера, продюсера, Саши Яценко.","I was thrilled with everyone: the cameraman, the director, the producer, Sasha Yatsenko.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The colon should be followed by a space for proper punctuation.
+```"
+393,"Он был готов не спать, не есть - и здесь была ровно такая ситуация.",He was prepared to go without sleep or food - and this was exactly such a situation.,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The dash should be an em dash (—) instead of a hyphen (-) for proper punctuation.
+```"
+394,"Не спать, не есть сутками - и все равно, хоть гром, хоть град.","Not sleeping, not eating for days on end - and still, whether it's thunder or hail.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The comma before ""whether"" should be replaced with a semicolon for better sentence structure.
+```"
+396,В этой атмосфере сумасшествия очень легко работается.,"""In this atmosphere of madness, it is very easy to work.""","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: no-error
+```"
+397,"И мне кажется, что когда люди настолько сдвинуты до болезненного фанатизма на том, что они делают, это не может не получится, потому что слишком много затрачивается энергии.","And it seems to me that when people are so obsessively fanatical about what they do, it cannot fail because too much energy is expended.","```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: None
+[Major]: grammar - The phrase ""it cannot fail because too much energy is expended"" is awkward and could be rephrased for better clarity and flow, such as ""it cannot fail, as too much energy is expended.""
+[Minor]: punctuation - A comma should be added after ""do"" to separate the dependent clause from the main clause: ""And it seems to me that when people are so obsessively fanatical about what they do, it cannot fail because too much energy is expended.""
+```"
+399,"Каковы критерии отбора материала, с которым вам предстоит работать?",What are the selection criteria for the material you will be working with?,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: Punctuation - The sentence lacks a question mark at the end, which is necessary for questions in English.
+```"
+400,"Я не хочу глупостей, глупых диалогов, фильмов, которые ничего не говорят, ничего не несут.","I don't want nonsense, silly dialogues, movies that say nothing, that carry nothing.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing comma after ""dialogues"" in the list.
+```"
+403,Конкретных предложений и планов сейчас нет.,There are no specific proposals or plans at the moment.,"```
+MQM annotations:
+linguistic conventions errors:
+Critical: None
+Major: None
+Minor: None
+```"
+414,«Неуправляемый»,"""Uncontrolled""","```
+MQM annotations:
+linguistic conventions errors:
+Critical: None
+Major: None
+Minor: None
+``` 
+
+The translation ""Uncontrolled"" is linguistically well-formed in English, with no errors in capitalization, punctuation, spelling, grammar, whitespace, or word order."
+446,Технический директор онлайн-направления Андрей Зуев,Technical Director of the Online Division Andrey Zuev,"```
+MQM annotations:
+linguistic conventions errors:
+Minor: capitalization - ""Online Division"" should be ""online division"" as it is not a proper noun.
+```"
+449,Директор по работе с клиентами технического направления Инна Ключарева,Technical Client Relations Director Inna Klyuchareva,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - The title ""Technical Client Relations Director"" should follow English capitalization conventions for job titles, which typically capitalize all major words: ""Technical Client Relations Director"".
+```"
+454,Телефон: +7 (495) 229 6200 Факс: +7 (495) 229 62 01,Phone: +7 (495) 229 6200 Fax: +7 (495) 229 62 01,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [whitespace] - There should be no space between ""Fax:"" and ""+7 (495) 229 62 01"".
+```"
+456,"Адрес: 105082, г. Москва, ул. Малая Почтовая, д. 12, стр. 1, офис 309","Address: 105082, Moscow, Malaya Pochtovaya Street, Building 12, Structure 1, Office 309","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [capitalization] - ""Building"" and ""Structure"" should not be capitalized as they are common nouns in this context.
+```"
+457,Отпечатано в полиграфическом комплексе «Пушкинская площадь».,"Printed at the ""Pushkinskaya Square"" printing complex.","```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The quotation marks around ""Pushkinskaya Square"" should be consistent with English conventions, typically using double quotation marks (“”).
+```"
+462,В ПОДАРОК ПЕРВЫМ ТРЕМ ПРАВИЛЬНО ОТВЕТИВШИМ ЧИТАТЕЛЯМ — ГОДОВАЯ ПОДПИСКА И ОУО ИЗ КОЛЛЕКЦИИ,A GIFT FOR THE FIRST THREE READERS WHO ANSWER CORRECTLY — AN ANNUAL SUBSCRIPTION AND A SOUVENIR FROM THE COLLECTION,"```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: punctuation - The em dash should be surrounded by spaces for better readability in English.
+```"
+470,"Картина повествует об изобретении Facebook, одном из инструментов-первопроходцев в сфере интернета, который объединил весь мир, рассорил пятерых друзей и сделал своего создателя - 26-летнего бывшего студента Гарварда Марка Цукерберга — самым молодым миллиардером последних десятилетий.","The painting tells the story of the invention of Facebook, one of the pioneering tools in the realm of the internet, which united the entire world, caused a rift among five friends, and made its creator, 26-year-old former Harvard student Mark Zuckerberg, the youngest billionaire in recent decades.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""and made its creator"" is not necessary in English and disrupts the flow of the sentence.
+```"
+472,"Цукерберг запускает сайт по целому ряду причин: отчасти из-за озлобленности на окружающий мир, отчасти из-за спортивного интереса и отчасти просто потому, что ЭТО «круто».","Zuckerberg is launching the site for a variety of reasons: partly due to resentment towards the world around him, partly out of a competitive interest, and partly just because it's ""cool.""","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The use of quotation marks around ""cool"" is inconsistent with standard English punctuation conventions. In English, single quotation marks are typically used for quotes within quotes, or double quotation marks should be used consistently.
+```"
+475,То же и с режиссурой Финчера: сравнительно сдержанная (за исключением Близнецов Уинклвоссов сыграли непохожие друг на друга актеры.,"The same goes for Fincher's direction: relatively restrained (with the exception of the Winklevoss twins, who were played by actors that did not resemble each other).","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The opening parenthesis is not closed, leading to an incomplete sentence.
+```"
+480,"В РОЛЯХ: Джесси Айзенберг, Эндрю Гарфилд, Руни Мара, Джастин Тимберлейк, Эрми Хаммер, Джошуа Пенс","CAST: Jesse Eisenberg, Andrew Garfield, Rooney Mara, Justin Timberlake, Armie Hammer, Josh Pence","```
+MQM annotations:
+linguistic conventions errors:
+Minor: punctuation - The colon after ""CAST"" should be followed by a space for proper punctuation.
+```"
+483,"Цветовая палитра играет свою роль: теплая, местами солнечная, даже в темноте оставаясь уютной, она маневрирует между двумя спутанными цепочками событий и двумя обособленными судебными тяжбами.","The color palette plays its role: warm, at times sunny, remaining cozy even in the dark, it maneuvers between two intertwined chains of events and two separate legal battles.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The colon after ""role"" should be replaced with a semicolon for better punctuation in English.
+```"
+486,"После просмотра появляется стойкое ощущение, что «Социальная сеть» - это портрет нашего времени, а недосказанность в данном случае - важный художественный прием.","After watching, there is a persistent feeling that ""The Social Network"" is a portrait of our time, and the lack of explicitness in this case is an important artistic device.","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - The comma before ""and"" in ""our time, and the lack of explicitness"" is unnecessary and disrupts the flow of the sentence.
+```"
+488,"Теперь, когда суточная платежеспособность стала еще выше, политика осуществляется уже не на заседаниях правления, ав песочницах.","Now that daily solvency has become even higher, policy is no longer implemented in board meetings, but in sandboxes.","```
+MQM annotations:
+linguistic conventions errors:
+Minor: Punctuation - The comma before ""but"" should be followed by a space.
+```"
+491,"Уинклвоссы (Хаммер и Пенс), тем временем, топают ногами: кто это сказал, что богатые, красивые и спортивные не могут быть еще и умными?","The Winklevosses (Hammer and Pence), meanwhile, are stomping their feet: who said that the rich, beautiful, and athletic can't also be smart?","```
+MQM annotations:
+linguistic conventions errors:
+[Minor]: [punctuation] - Missing comma after ""beautiful"" for proper punctuation in a list.
+```"
+495,И что за социальные последствия повлечет за собой его изобретение?,And what social consequences will its invention entail?,"```
+MQM annotations:
+linguistic conventions errors:
+[Critical]: no-error
+[Major]: no-error
+[Minor]: punctuation - The sentence should end with a question mark instead of a period to match the interrogative form of the source text.
+```"

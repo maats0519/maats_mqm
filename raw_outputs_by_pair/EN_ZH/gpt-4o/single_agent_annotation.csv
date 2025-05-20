@@ -1,0 +1,5184 @@
+index,original,zero_shot_translation,annotation
+2,"To me, this is a pretty big assumption because it is only creating the viewport using a Direct3D object, not a Direct3D3 object.",对我来说，这是一个相当大的假设，因为它只是使用 Direct3D 对象创建视口，而不是 Direct3D3 对象。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+10,"Some facts, e.g. about subatomic particles, can only result from experiments that are themselves only possible in capitalism because they require too much resources, too much organization, too much coercion, to pull off otherwise.",一些事实，例如关于亚原子粒子的事实，只能通过实验得出，而这些实验本身只有在资本主义中才有可能，因为它们需要太多的资源、太多的组织、太多的强制，否则无法实现。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""to pull off otherwise"" is translated as ""否则无法实现"" which means ""otherwise cannot be realized"". This translation slightly shifts the nuance of the original phrase, which implies difficulty rather than impossibility.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+14,Picking this up this weekend.,这个周末去拿。,"MQM annotations:
+Accuracy Errors
+[Critical]: omission - The source text ""this"" is repeated, indicating a specific emphasis or context that is not captured in the translation.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+15,I was looking for a good first car guy car; and I really love the 80s aesthetic.,我在寻找一辆好的第一辆车，而且我真的很喜欢80年代的美学。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""first car guy car"" is mistranslated. The translation does not convey the meaning of a ""car suitable for a car enthusiast"" or ""a car that appeals to someone who is into cars.""
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The semicolon in the source text is translated as a comma, which is a minor punctuation error.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The translation of ""first car guy car"" is awkward and does not capture the intended nuance of the original phrase.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+19,I know they're not fast compared,我知道它们相比之下不快。,"MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The phrase ""compared"" is mistranslated or incorrectly included in the translation, leading to confusion.
+[Major]: omission - The word ""compared"" is not accurately represented in the translation, causing a loss of meaning.
+[Minor]: addition - The phrase ""相比之下"" (compared to) is added unnecessarily, which is not present in the source text.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+20,#Venting into the Fediverse time.,#在联邦宇宙中发泄时间。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The phrase ""Venting into the Fediverse time"" is mistranslated. The word ""time"" is not correctly interpreted in the context, leading to a misunderstanding of the original meaning.
+[Major]: [addition] - The translation adds the word ""中"" (in), which is not present in the source text and alters the intended meaning.
+[Minor]: [omission] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [awkward] - The translation is awkward and does not convey the intended meaning clearly.
+[Minor]: [punctuation] - None
+
+Locale Convention Errors
+[Critical]: [name] - None
+[Major]: [date] - None
+[Minor]: [currency] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - The translation is awkward and does not flow naturally in Chinese.
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Non-translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error
+[Critical]: None
+[Major]: None
+[Minor]: None"
+21,The Domestic Partner and I went to the liquor store tonight for some beers and a bottle of bub.,我和伴侣今晚去酒铺买了一些啤酒和一瓶香槟。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The term ""bub"" is mistranslated as ""香槟"" (champagne) instead of being accurately translated or left as is, depending on context.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.",当我们去结账时，收银员显然是一位跨性别女性。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+25,And then we just... paid for our stuff.,然后我们就……付了钱。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,她脸上如释重负的微笑是一种很棒的感觉，但她一开始感到害怕真是太糟糕了，我讨厌这种感觉。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""FUCKING SUCKS AND I HATE IT"" is translated as ""真是太糟糕了，我讨厌这种感觉"" which tones down the intensity and explicitness of the original expression.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The translation of the phrase ""但她一开始感到害怕真是太糟糕了，我讨厌这种感觉"" could be considered slightly awkward due to the repetition of ""感觉"" (feeling) which may not be necessary.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+29,This is the stupidest timeline and I hate it dot com.,这是最愚蠢的时间线，我讨厌它.com。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The phrase ""timeline"" is mistranslated as ""时间线"" which could be interpreted as a literal timeline rather than the intended metaphorical sense.
+[Major]: [untranslated text] - The "".com"" at the end of the sentence is left untranslated, which may confuse readers.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - The use of a comma before "".com"" is incorrect in Chinese punctuation.
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [name format] - None
+[Major]: [date format] - None
+[Minor]: [telephone format] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - The translation is awkward and does not capture the informal tone of the original sentence.
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inconsistent use] - None
+
+Non-Translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-Error: None"
+32,But he can't pardon himself out of state prison.,但他无法通过赦免自己逃脱州监狱。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The phrase ""pardon himself"" is mistranslated as ""通过赦免自己逃脱"" which implies escaping rather than being pardoned.
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Fluency Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [grammar] - The phrase ""州监狱"" could be slightly awkward in context, as it translates directly to ""state prison,"" but the flow could be improved for naturalness.
+
+Locale Convention Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Style Errors
+[Critical]: [None] - None
+[Major]: [awkward] - The translation is slightly awkward due to the phrasing of ""通过赦免自己逃脱,"" which does not clearly convey the original meaning.
+[Minor]: [None] - None
+
+Terminology Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Other Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+No-error: None"
+33,It takes the state's governor.,这需要州长。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation does not convey the meaning of ""It takes the state's governor,"" which implies a requirement or necessity involving the governor. The translation ""这需要州长"" simply states ""This requires the governor,"" missing the original nuance.
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [awkward] - The translation is slightly awkward as it does not capture the implied necessity or involvement of the governor as intended in the source text.
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Non-translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+No-error
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None"
+43,"We suggest that context-dependent communication is a situated multilayered phenomenon, crucially influenced by environment properties such as distribution of contexts.",我们建议，情境依赖的交流是一种多层次的现象，受到环境特性（如情境分布）的重要影响。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""distribution of contexts"" is mistranslated as ""情境分布,"" which may not accurately convey the intended meaning of ""distribution of contexts"" in the original text.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+47,Communities gain the knowledge to embed and support their own development.,社区获得了嵌入和支持自身发展的知识。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+50,Thousands of trees have been established and farmers have seen increased crop yields through a range of interventions from support with equipment purchases to training.,成千上万的树木已经种植，农民通过一系列干预措施（从设备采购支持到培训）看到作物产量增加。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+53,The UPS store near me won't allow me to write a label or write on the box.,我附近的UPS商店不允许我写标签或在箱子上写字。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+55,They won't allow me to tell them the address it's going to and who is shipping it.,他们不允许我告诉他们它要寄去的地址和谁在寄。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""who is shipping it"" as ""谁在寄"" could be more accurately translated to ""由谁寄送"" to better reflect the original meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+59,"It was an outrage, like a symbolic Jan 6 anti-democratic festivus of lies & grievance, self-destructively hosted by American media.",这是一场公愤，就像一个象征性的1月6日反民主的谎言和不满节日，由美国媒体自我毁灭地举办。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""festivus of lies & grievance"" is translated as ""谎言和不满节日,"" which does not fully capture the satirical and critical tone of ""festivus"" as used in the source text.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The translation uses ""1月6日"" without a space after ""象征性的,"" which may slightly affect readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The phrase ""自我毁灭地举办"" is somewhat awkward and could be more smoothly expressed in Chinese.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+61,Licht AGREED to an all Republican audience!,Licht同意了全共和党观众！,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The word ""audience"" is mistranslated as ""观众"" which implies a group of people watching a performance or event, whereas the context suggests it should refer to a meeting or gathering, possibly ""听众"" or ""观众群体"" depending on the intended meaning.
+[Major]: [addition] - The translation adds the word ""全"" (all) which is not present in the source text and changes the meaning.
+[Minor]: [omission] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - The exclamation mark should be retained in the translation to maintain the emphasis of the original sentence.
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [name] - None
+[Major]: [date] - None
+[Minor]: [currency] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - The translation is awkward because it does not clearly convey the intended meaning of the original sentence.
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Non-Translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error"
+64,The ratings--seeking delusional irresponsibility of it all.,这一切都是追求收视率的妄想和不负责任。,"MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The phrase ""ratings--seeking delusional irresponsibility of it all"" is mistranslated. The translation does not accurately convey the meaning of ""delusional irresponsibility"" in the context of seeking ratings.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.",我的地下室有很多缝隙，这基本上意味着会有很多啮齿动物来避难。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""a very drafty basement"" is translated as ""地下室有很多缝隙,"" which means ""the basement has many gaps."" While this conveys a similar idea, it slightly shifts the focus from the draftiness to the presence of gaps, which might not fully capture the original nuance.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+69,"I finally got fed up with this routine last night, cleaned all the traps of peanut butter, and superglued a pistachio to them.",昨晚我终于受够了这种日常，把所有捕鼠器上的花生酱清理掉，并用强力胶把开心果粘在上面。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""traps"" as ""捕鼠器"" (mouse traps) is slightly more specific than the general ""traps"" in the source text, which could refer to any kind of trap, not just those for mice.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.",仅供参考，我几乎尝试了市场上所有“人道”的捕鼠器，但成功率很低。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""very little success"" is translated as ""成功率很低"" which means ""low success rate."" While this conveys a similar meaning, it slightly shifts the emphasis from ""very little"" to ""low,"" which could be considered a minor mistranslation.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+73,I'm tired of conservative parties and governments wrapping themselves in the brand of pro-business.,我厌倦了保守党派和政府以亲商业的名义包装自己。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""wrapping themselves in the brand of pro-business"" could be more accurately translated to convey the metaphorical sense of ""branding"" or ""associating"" themselves with being pro-business.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+74,"They aren't, at least not in Alberta.",他们不是，至少在阿尔伯塔省不是。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+75,Sure they cut business taxes.,当然，他们削减了营业税。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall: no-error"
+78,"Discovered the hard way that in 2023, local TV station web sites are the absolute worst experience on the internet.",在2023年，我通过惨痛的教训发现，本地电视台的网站是互联网上最糟糕的体验。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""Discovered the hard way"" is translated as ""通过惨痛的教训发现,"" which is slightly more intense than the original phrase. A more accurate translation could be ""通过艰难的方式发现.""
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+79,"Popups, auto-play videos, animations, popovers, and ads, ads, ads.",弹出窗口、自动播放视频、动画、弹出层和广告、广告、广告。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.",即使现在goatse.cx已经不存在了，这仍然是事实，尽管goatse和比如khou.com之间的竞争可能会非常激烈，我曾尝试在khou.com上观看Wendy发给我的视频。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The phrase ""a close race to the bottom"" is mistranslated. The translation does not convey the intended meaning of a competition to be the worst.
+[Major]: [omission] - The translation omits the nuance of ""say,"" which implies an example or suggestion.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - The translation lacks a comma after ""khou.com"" to separate clauses, which disrupts the flow.
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [name] - None
+[Major]: [name] - None
+[Minor]: [name] - The translation does not distinguish between the website names and the rest of the text, which could be confusing.
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - The translation could be smoother in expressing the competition aspect.
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inconsistent use] - None
+
+Non-translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error: None"
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.",“我只是把他送到格拉斯哥，”我试图解释，指着我的旅伴。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall: no-error"
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,昨晚让我确信的一件事是，我们需要准备好反击特朗普主义。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,弄一些反特朗普的保险杠贴纸到处贴上。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall, the translation is accurate and fluent, with no errors detected."
+95,Yell back at those who would try to talk over us.,对那些试图打断我们的人大声回应。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""talk over us"" is translated as ""打断我们"" which means ""interrupt us."" While similar, ""talk over"" implies speaking louder to dominate the conversation, which is slightly different from simply interrupting.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+99,So I rushed to get into my apt to avoid him but he still managed to catch up to me to chat.,所以我赶紧进公寓以避免见到他，但他还是设法追上我聊天。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+102,I repeat. It is not socially acceptable to spread your covid mucus storm everywhere!!!,我再说一遍。到处传播你的新冠病毒粘液风暴是不可接受的行为！！！,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+104,Abe keeps his sorrows hidden and laughs easily while Tom is not afraid to cry but is less amused by rude humor.,阿贝把他的悲伤藏起来，容易发笑，而汤姆不怕哭泣，但对粗鲁的幽默不太感兴趣。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""less amused by rude humor"" is translated as ""对粗鲁的幽默不太感兴趣"" which means ""not very interested in rude humor."" This changes the nuance of the original meaning.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+106,Mio knows that sorrow is life's constant companion.,美绪知道悲伤是生活的常伴。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The name ""Mio"" is translated as ""美绪"" which might not be the intended or correct transliteration of the name ""Mio"" in Chinese. This could be a minor issue if the name is meant to be kept in its original form.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+108,#CNN needs to just close down.,CNN需要关闭。,"MQM annotations:
+Accuracy Errors
+[Critical]: [omission] - The translation omits the word ""just,"" which adds emphasis to the original statement.
+[Major]: [mistranslation] - The translation ""关闭"" means ""close"" but does not convey the sense of ""close down"" as in shutting down operations completely.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [fluency/character encoding] - None
+[Major]: [fluency/grammar] - None
+[Minor]: [fluency/punctuation] - None
+
+Locale Convention Errors
+[Critical]: [locale convention/currency] - None
+[Major]: [locale convention/date] - None
+[Minor]: [locale convention/name] - None
+
+Style Errors
+[Critical]: [style/awkward] - None
+[Major]: [style/awkward] - None
+[Minor]: [style/awkward] - None
+
+Terminology Errors
+[Critical]: [terminology/inappropriate for context] - None
+[Major]: [terminology/inconsistent use] - None
+[Minor]: [terminology/inappropriate for context] - None
+
+Non-Translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-Error
+[Critical]: [no-error] - None
+[Major]: [no-error] - None
+[Minor]: [no-error] - None"
+109,Yesterday's fiasco with #MangoMoron was an outrageous fiasco.,昨天与#MangoMoron的事件是一个令人愤慨的惨败。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.",书呆子学生阿尼·坎宁安爱上了一辆生锈的1958年普利茅斯狂怒，并痴迷于将这辆经典汽车恢复到昔日的辉煌。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation ""爱上了"" (fell in love with) might imply a romantic connotation, which could be slightly misleading in this context. A more neutral term like ""迷上了"" (became fascinated with) might be more appropriate.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.",随着汽车的变化，阿尼也在改变，他的新信心在驾驶他那辆异国情调的美丽汽车时变成了傲慢。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,关于我的邻居反对我这件事，最疯狂的部分之一就是想到他们需要花费多少精力才能表现出敌意。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""turning against me"" is translated as ""反对我,"" which may not fully capture the nuance of ""turning against"" in terms of betrayal or change in attitude. 
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+126,It hurts but you gotta do you.,虽然很痛，但你还是要做自己。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+127,But at this point the open hostility and violence is getting worse.,但在这一点上，公开的敌意和暴力正在恶化。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+128,That takes effort.,那需要努力。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [accuracy/omission] - The translation omits the space after ""effort."" in the source text, which may imply a missing context or continuation in the original sentence.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+132,They had keys to my apartment for 6+ years.,他们有我公寓的钥匙超过6年。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""6+ years"" is translated as ""超过6年"" which means ""more than 6 years."" The ""+"" in ""6+"" suggests a slightly different nuance, implying a range starting from 6 years and possibly more, which is not fully captured in the translation.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+134,I am aware of your hatred of Organa.,我知道你对欧加纳的憎恨。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+142,The Last of Us is an easy and canonical example of dad-ification.,《最后生还者》是父亲化的一个简单且经典的例子。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The term ""dad-ification"" is a specific cultural reference that may not be accurately conveyed by ""父亲化"" in Chinese, potentially leading to misunderstanding.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The translation of ""dad-ification"" as ""父亲化"" may sound awkward in Chinese due to the lack of a direct equivalent term.
+
+Terminology Errors
+[Critical]: None
+[Major]: inappropriate for context - The term ""父亲化"" may not capture the cultural nuance of ""dad-ification"" in the context of the source material.
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.",父化通常假设，当父母角色必须照顾或保护孩子或孩子替代物的情况下，解决方案是压倒性的力量，并利用这种力量强制形成一个非常具体的权力动态。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+149,- We provide links to where you can book the fare.,我们提供可以预订票价的链接。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: omission - The translation omits the phrase ""to where,"" which specifies the destination or platform for booking the fare.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - There should be a space after the period in the source sentence, but this does not affect the translation.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+151,- More details are in the full blog post.,更多详情请参见完整的博客文章。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [accuracy/addition] - The translation adds ""请参见"" (please refer to), which is not present in the source text.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+159,Over time dart became my go-to for quick UI.,随着时间的推移，Dart 成为我快速 UI 的首选。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The term ""dart"" should be capitalized as ""Dart"" to maintain consistency with the original text and to correctly refer to the programming language.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.",#flutter 很好用，他们有 #mobx 可以轻松进行状态管理。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+164,Echidna with amethyst and magenta spikes.,带有紫水晶和紫红色尖刺的针鼹。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall, the translation is accurate and maintains the intended meaning of the original text without any errors."
+167,"Their hair is raspberry, short and curly.",他们的头发是覆盆子色的，短而卷曲。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+169,Their most interesting feature is their good deeds.,他们最有趣的特点是他们的善行。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+172,"Despite the best efforts of Bram Stoker, Max Schreck, and Stephenie Meyer in trying to make them look bad - everyone ...",尽管布拉姆·斯托克、马克斯·施雷克和斯蒂芬妮·梅耶尽力让他们看起来很糟糕——每个人……,"MQM annotations:
+Accuracy Errors
+[Critical]: [omission] - The phrase ""in trying to make them look bad"" is omitted in the translation, which is crucial for understanding the intent of the sentence.
+[Major]: [mistranslation] - None
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - The use of the dash ""——"" is inconsistent with typical Chinese punctuation, which may disrupt the flow.
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Style Errors
+[Critical]: [None] - None
+[Major]: [awkward] - The sentence structure in Chinese is awkward and may disrupt the flow.
+[Minor]: [None] - None
+
+Terminology Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Non-translation Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+Other Errors
+[Critical]: [None] - None
+[Major]: [None] - None
+[Minor]: [None] - None
+
+No-error: None"
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.",需要将其翻译成普通话和/或福建话，我对这两种语言都一无所知。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+179,Been toying with this thought for a little while:,一直在琢磨这个想法。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""for a little while"" is omitted in the translation, which changes the meaning slightly.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+182,Because it happens in the mind and seems less tangible than physical health.,因为它发生在大脑中，看起来比身体健康更不具体。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""in the mind"" is translated as ""在大脑中"" which means ""in the brain"" rather than ""in the mind,"" leading to a potential misunderstanding.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+189,"My sex is non-binary, my gender is female.",我的性别是非二元的，我的性别认同是女性。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation uses ""性别认同"" (gender identity) instead of ""性别"" (sex) for the second part, which slightly alters the meaning but does not disrupt comprehension.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,喜欢酸菜心情和其他世俗流行音乐、无线电工作室和各种各样的东西。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - ""krauty moods"" is mistranslated as ""酸菜心情"" which is not an accurate representation of the original term.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The use of commas in the translation could be improved for better readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The translation ""酸菜心情"" for ""krauty moods"" is awkward and may not convey the intended meaning effectively.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: inappropriate for context - The term ""krauty"" is not appropriately translated in the given context.
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+196,Playing around a bit with Flutter.,玩转 Flutter。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""Playing around a bit with Flutter"" suggests a casual or experimental interaction, which is not fully captured by ""玩转 Flutter"" as it implies a more skillful handling or mastery.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The translation ""玩转 Flutter"" might sound slightly awkward for the intended casual tone of ""playing around a bit.""
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+197,"I'd hate to base my business on tech from Google, to be honest, on the other hand Google is one of the few big players with real incentives to create a compelling cross platform experience and it shows.",老实说，我不愿意把我的业务建立在谷歌的技术上，另一方面，谷歌是少数真正有动力创造引人注目的跨平台体验的大公司之一，这一点显而易见。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+203,A few very small difficulties have come to light.,出现了一些很小的困难。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: omission - The word ""very"" is omitted in the translation, which affects the emphasis on the size of the difficulties.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+204,Nothing to set alarm bells ringing but nevertheless they are being addressed.,没有什么需要敲响警钟，但它们仍在被解决。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+205,A small update will be produced next week to correct them.,下周将进行一个小更新以纠正它们。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+209,I don't know exactly know why my brain can't figure it out; it might be that the tools are just so broad and vague that my brain just hardlocks due to 'too many options'.,我不知道为什么我的大脑无法弄清楚；可能是因为工具太宽泛和模糊，以至于我的大脑因“选项太多”而死机。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""hardlocks"" is translated as ""死机,"" which typically refers to a computer crashing. While it conveys a similar concept, it may not fully capture the metaphorical use of ""hardlocks"" in the context of the brain.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+217,"There's... no way that would work, probably!",那……这绝对行不通，可能吧！,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""no way that would work"" is mistranslated as ""这绝对行不通"" which means ""this absolutely won't work,"" losing the nuance of uncertainty present in the original.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The use of ""，"" before ""可能吧"" is slightly awkward in Chinese, as it disrupts the flow of the sentence.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The translation of ""probably"" as ""可能吧"" at the end of the sentence feels awkward and does not capture the original tone effectively.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+219,I was a voracious reader in my youth.,我年轻时是个贪婪的读者。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The word ""voracious"" is mistranslated as ""贪婪的"" which means ""greedy"" in a negative sense. The correct translation should convey the idea of being an eager or enthusiastic reader, such as ""如饥似渴的"" or ""热衷的"".
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [punctuation] - There should be a space after the period in the source text, but this is a minor issue as it does not affect the translation.
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [awkward] - The translation ""贪婪的读者"" sounds awkward due to the negative connotation of ""贪婪的"".
+[Minor]: [error/error_subcategory] - None
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [inappropriate for context] - The term ""贪婪的"" is inappropriate for the context of describing a reader's enthusiasm.
+[Minor]: [error/error_subcategory] - None
+
+Non-translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+No-error: None"
+228,"But if Spotify has a good quarter, they will.",但如果 Spotify 季度表现良好，他们会。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: omission - The translation omits the completion of the sentence, which in English is ""they will."" The translation should specify what ""they will"" do, as the original sentence implies an action or outcome that is not conveyed in the translation.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,让他们重建全国那些被掏空和衰败的城市。,"MQM annotations:
+Accuracy Errors
+[Critical]: omission - The word ""Again"" is omitted in the translation, which changes the meaning of the sentence.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+235,These headlines and articles usually reference one CEO at one large company.,这些标题和文章通常提到一家大型公司的某位首席执行官。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The source text specifies ""one CEO at one large company,"" but the translation uses ""某位首席执行官"" which could imply any CEO rather than specifically ""one CEO.""
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+236,It's all clickbait but it does worry me about the executives and managers who read these articles.,这都是标题党，但我确实担心那些阅读这些文章的高管和经理。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The translation could benefit from a comma after ""标题党"" to improve readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall, the translation is accurate and understandable with a minor punctuation issue."
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,它使人们能够避免耗时的通勤，从而节省时间，让他们有更多时间陪伴家人。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""take time away from their day"" is translated as ""节省时间"" (save time), which slightly alters the original meaning. The original implies losing time, not saving it.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+247,"""This is a war between the pro-humans and anti-humans,"" he said.",“这是人类支持者和反人类者之间的战争，”他说。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The term ""pro-humans"" is translated as ""人类支持者,"" which can be interpreted as ""supporters of humans,"" but it might not fully capture the intended meaning of ""pro-humans"" as those who are in favor of human interests or supremacy. Similarly, ""anti-humans"" is translated as ""反人类者,"" which can be understood as ""those against humans,"" but it might not fully convey the nuance of being opposed to human interests or existence.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+249,He also argues that NDP and progressives want to depopulate society for the sake of the environment.,他还争辩说，新民主党和进步人士为了环境的缘故想要减少人口。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+252,Whenever May would pop up I dreaded trying to celebrate my bday.,每当五月来临，我都害怕庆祝我的生日。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: omission - The abbreviation ""bday"" in the source text is not explicitly translated to ""生日"" (birthday) in the Chinese translation, but it is implied.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+258,Winter is 30 days away in this little part of the Great Southern World.,冬天距离这个大南方世界的小地方还有30天。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error: The translation accurately conveys the meaning of the source text without any errors."
+261,"The rain is falling and whilst/while it is not frozen, you ain't going dancing in it!",雨正在下，虽然它没有结冰，但你不会在雨中跳舞！,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""you ain't going dancing in it"" is mistranslated. The informal tone and emphasis on the impossibility of dancing in the rain are not accurately conveyed in the translation.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [register] - The informal contraction ""ain't"" is translated into a more formal tone in Chinese, which slightly affects the register.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+265,Does you know of a performant way for a web component to respond to being added/removed from a document?,你知道有什么高效的方法可以让一个网页组件对被添加或移除文档做出响应吗？,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [grammar] - The phrase ""对被添加或移除文档做出响应"" could be slightly rephrased for better grammatical flow, such as ""对被添加到或从文档中移除做出响应"".
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall, the translation is accurate and understandable with only a minor grammatical suggestion for improved fluency."
+270,"We create a detached temp parent, install MO there, and observe it becoming detached (thus attached elsewhere).",我们创建一个独立的临时父级，在那里安装MO，并观察它变得独立（因此附加到其他地方）。,"MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The phrase ""observe it becoming detached (thus attached elsewhere)"" is mistranslated. The translation suggests that it becomes independent, which is not accurate.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The translation of ""detached"" as ""独立"" is awkward in this context, as it does not convey the intended meaning of being ""detached"" and then ""attached elsewhere.""
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+276,He's just absolutely ripped from tearing around my office twice a day.,他每天在我的办公室里跑两次，身材变得非常健美。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""ripped from tearing around"" is mistranslated. It should convey the idea of being very muscular or fit due to the activity, but the translation does not capture this meaning accurately.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The translation is slightly awkward in phrasing, particularly with ""身材变得非常健美"" which could be more naturally expressed.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+277,"I don't have a scale to weigh him, but he feels like he's well over a pound.",我没有秤来称他的重量，但感觉他已经超过一磅了。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""well over a pound"" is translated as ""超过一磅"" which means ""over a pound"" without the emphasis on ""well over,"" potentially missing the nuance of the original text.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+278,It makes me so happy to see him thriving.,看到他兴旺发达让我很高兴。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""thriving"" is translated as ""兴旺发达,"" which can imply a more material or business-oriented success, whereas ""thriving"" in this context might be more general or personal well-being.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+280,1) Slight modifications to the Hel's Fighters map layout.,对地狱战士地图布局进行轻微修改。,"MQM annotations:
+Accuracy Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [mistranslation] - ""Hel's Fighters"" is mistranslated as ""地狱战士"" which means ""Hell's Warriors"" instead of the specific name ""Hel's Fighters.""
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [awkward] - The translation could be more natural by specifying the proper noun ""Hel's Fighters"" in English or providing a more contextually appropriate translation.
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+No-error: None"
+286,"All collards, kale, chard is transplanted.",所有羽衣甘蓝、羽衣甘蓝、瑞士甜菜都已移植。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation repeats ""羽衣甘蓝"" (kale) twice, which is incorrect as it should include ""collards"" (羽衣甘蓝) and ""kale"" (羽衣甘蓝) as separate items.
+[Major]: [omission] - The translation omits ""chard"" (瑞士甜菜) as a separate item, which should be included alongside collards and kale.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - The translation lacks a comma between ""羽衣甘蓝"" and ""瑞士甜菜,"" which disrupts the list format.
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [date] - None
+[Major]: [currency] - None
+[Minor]: [name] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Other Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+No-error: None"
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,吉尔平的春豌豆已经开始长出来了，所以需要搭建支架。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: mistranslation - The translation of ""showing up"" as ""已经开始长出来了"" could be more accurately rendered to convey the sense of ""appearing"" or ""emerging"" rather than ""growing out.""
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+291,"Apple Maps comes default with iOS, and yet people would go out of their way to download and install Google Maps onto their iPhones.",苹果地图是iOS的默认应用，但人们仍然会特意下载并安装谷歌地图到他们的iPhone上。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).",出于好奇，我保持开放的心态，在我的测试iPhone设备上比较Google地图和Apple地图的表现（我的日常设备是Android设备，所以我很少使用iPhone）。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""my daily driver is an Android device"" is translated as ""我的日常设备是Android设备,"" which is slightly awkward and could be more accurately translated to convey that the Android device is the primary device used daily.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+297,No idea.,不知道。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - There should be a space after the period in ""No idea."" in the source text.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+300,Could it be that Google Search is integrated with Google Maps?,谷歌搜索是否与谷歌地图集成在一起？,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.",我倾向于不向最终用户发布垃圾产品，而苹果在2012年推出的Apple Maps时彻底搞砸了。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+306,The house itself declines in value because it loses its condition and needs to be replaced.,房屋本身的价值下降，因为它的状况变差，需要更换。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+310,They're not stupid enough to sell the sell forever.,他们还不至于愚蠢到永远出售。,"MQM annotations:
+Accuracy Errors
+[Critical]: mistranslation - The phrase ""to sell the sell"" is mistranslated as ""出售"" (to sell) without addressing the repetition or intended meaning.
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: grammar - The translation lacks clarity due to the awkward structure of ""出售"" without context.
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The translation is awkward and does not convey the intended meaning clearly.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,当你观看澳大利亚和美国的媒体频道时，土地可能有一天会被夺走，这似乎是不可思议的，但那是因为富人整天都在上面，确保你的思想以某种方式思考。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The Chinese translation could use a comma after ""不可思议的"" to improve readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The phrase ""确保你的思想以某种方式思考"" could be rephrased for smoother flow, such as ""确保你的思想按照他们的方式思考"".
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall, the translation is quite accurate and comprehensible with only minor fluency and style issues."
+321,"To all the investors out there, I raise a toast to your success and the realization of your dreams.",向所有投资者致敬，祝贺你们的成功和梦想的实现。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Overall: no-error"
+322,Let us continue to work together towards creating a brighter future for all.,让我们继续携手共创更加光明的未来。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,我常常对人类能如此自我贬低感到惊讶，同时又被大量关于真正残酷的证据所淹没。,"MQM annotations:
+
+Accuracy Errors  
+[Critical]: None  
+[Major]: [mistranslation] - The phrase ""to be *so* down on oneself"" is mistranslated. The translation does not fully capture the emphasis and nuance of ""so"" in the context of self-criticism or self-deprecation.  
+[Minor]: None  
+
+Fluency Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Locale Convention Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Style Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Terminology Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Other Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+No-error: None"
+327,We're all such messy critters.,我们都是如此混乱的小动物。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The word ""messy"" is translated as ""混乱"", which can mean ""chaotic"" or ""disorderly"". A more contextually appropriate translation might be ""邋遢"" to convey the sense of being untidy or messy.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None"
+332,"or ""Modal editors are useless today"" :morty:",或者“模式编辑器今天没用” :morty:,"MQM annotations:
+
+Accuracy Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: [mistranslation] - The phrase ""Modal editors"" is translated as ""模式编辑器,"" which may not accurately convey the intended meaning depending on the context. The term ""modal"" might have a specific technical meaning that is not captured in the translation.
+
+Fluency Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Locale Convention Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Style Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Terminology Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Non-translation Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+Other Errors  
+[Critical]: None  
+[Major]: None  
+[Minor]: None  
+
+No-error"
+336,How would you share personal libraries?,你会如何分享个人图书馆？,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The term ""personal libraries"" is mistranslated as ""个人图书馆"" which means ""personal library"" in the sense of a physical library, rather than ""personal collections of books"" or ""personal digital libraries.""
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: inappropriate for context - The term ""图书馆"" is inappropriate for the context as it implies a public or institutional library rather than a personal collection.
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+341,"Also one day I am totally gonna do the mile high orgasm, maybe not with a str",还有一天，我一定要尝试空中高空高潮，也许不需要一个str。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The phrase ""maybe not with a str"" is mistranslated as ""也许不需要一个str"" which is not meaningful in Chinese and does not convey the intended meaning of the original text.
+[Major]: [addition] - The translation includes ""空中高空"" which translates to ""in the air high altitude,"" adding unnecessary repetition not present in the source text.
+[Minor]: [omission] - None
+
+Fluency Errors
+[Critical]: None
+[Major]: [grammar] - The structure of the sentence in Chinese is awkward and does not flow naturally.
+[Minor]: [punctuation] - The use of punctuation in the translation could be improved for better readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: [awkward] - The translation is awkward and does not read smoothly in Chinese.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+342,I don't agree that #Mastodon is difficult to setup.,我不同意 #Mastodon 很难设置。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+345,"I wish there was a ""who to follow"" recommendation somehow.",我希望能有一个“推荐关注”的功能。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""who to follow"" is mistranslated as ""推荐关注"" which means ""recommend to follow"" instead of ""who to follow.""
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+347,If you stick to the default web interface it doesn't look and feel good (imho).,如果你坚持使用默认的网页界面，它看起来和感觉都不好（仅代表个人意见）。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+352,Explanation: account for both sides of mutual influence,解释：考虑到相互影响的双方。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""account for"" is translated as ""考虑到"" which means ""consider"" rather than ""account for,"" leading to a slight change in meaning.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.",即使他在市政厅上没有机会说出来，从现在到2024年11月，美国的每个人都会反复听到这些话。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""during the town hall"" is translated as ""在市政厅上,"" which could be interpreted as ""at the town hall"" rather than ""during the town hall event."" This is a minor mistranslation as the meaning is still mostly conveyed.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error
+[Critical]: None
+[Major]: None
+[Minor]: None"
+366,Throwing everything you've got over the fence in response to GPT is not it.,把你所有的东西都扔过围栏来回应GPT并不是解决办法。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""Throwing everything you've got over the fence"" is translated literally, which may not convey the intended metaphorical meaning in Chinese.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+372,"If I try and figure out my one rep max is I might not own enough weights to max out, or conversely it could seriously injure/kill me.",如果我尝试计算我的一重复最大重量，我可能没有足够的重量来达到最大值，或者相反，这可能会严重伤害/杀死我。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""If I try and figure out my one rep max is"" is slightly mistranslated. The translation could be clearer to reflect the conditional nature of the original sentence.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [punctuation] - The use of the comma in the translation could be improved for better readability.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+375,I swear burrata didn't exist five years ago,我发誓五年前根本没有布拉塔奶酪。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""burrata"" as ""布拉塔奶酪"" is technically correct, but it could be considered a minor error if ""burrata"" is commonly known by its original name in Chinese culinary contexts, similar to how certain food items retain their original names across languages.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error"
+376,This is my personal Mandela effect thing.,这是我个人的曼德拉效应现象。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+379,I'd never seen anyone's mom make it or had it shoved at me at a party or seen it appear in conjunction with anyone's saucemaking escapades or baking days,我从未见过谁的妈妈做过，也没有在聚会上被塞给过，也没有在任何人的调味或烘焙日中出现过。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""shoved at me"" is translated as ""被塞给过"", which is slightly awkward and could be interpreted differently in Chinese. A more accurate translation could capture the informal and somewhat forceful nuance of ""shoved"".
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The sentence structure in Chinese is slightly awkward and could be improved for better readability and flow.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+380,It just appeared one day and suddenly it was available everywhere.,有一天它突然出现，然后到处都能买到。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""available everywhere"" is translated as ""到处都能买到"" which specifically means ""can be bought everywhere."" The original phrase does not necessarily imply purchasing, just availability.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+385,"This would be mainly for web browsing, occasional email, and some games.",这主要用于网页浏览、偶尔的电子邮件和一些游戏。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+387,"""A good game is only late until it ships.",好游戏只会迟到，直到它发货。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""A good game is only late until it ships"" is mistranslated. The intended meaning is that a good game may be delayed, but once it is released, the delay is forgotten. The translation does not convey this meaning accurately.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - There is a missing space after the comma in the translation.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The translation is awkward and does not flow naturally in Chinese.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+392,"""Or, as an industry catch phrase goes: A late game is only late until it ships.",或者，正如行业流行语所说：一款跳票的游戏只会在发售前跳票。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""A late game is only late until it ships"" is mistranslated. The translation implies that a delayed game will continue to be delayed until it is released, which is not the intended meaning. The original phrase suggests that once a game is released, its lateness is no longer relevant.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+394,Is it so ephemeral then?,那么它是如此短暂吗？,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-Error"
+397,"He carries it in his mouth proudly all over the house, and I just have to laugh inwardly.",他骄傲地把它叼在嘴里，满屋子走，我只能在心里偷笑。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any errors."
+399,Have now done a full round trip on the new ICNG train.,现在已经乘坐新的ICNG列车完成了一次往返旅程。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""a full round trip"" could be more accurately translated to ensure the emphasis on ""full"" is captured, though the current translation is still understandable.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+400,I really like it.,我真的很喜欢。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+402,There's areas that could use some polish.,有些地方需要润色。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [accuracy/mistranslation] - The phrase ""There's areas"" is mistranslated as ""有些地方"" which means ""some places"" instead of ""there are areas"". This changes the meaning slightly.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: [fluency/punctuation] - There is a missing space after the period in the source text, but this does not affect the translation.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+403,"Namely the lack of enough bins, and the lack of signs to explain the significance of the lighting colours.",即缺乏足够的垃圾桶，也缺乏解释灯光颜色意义的标志。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: omission - The translation omits the word ""Namely,"" which introduces the specific issues being discussed.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The translation uses a comma instead of a semicolon to separate the two clauses, which is less formal.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+404,"Fix those minor issues, and then can we have more of these please?",修复那些小问题，然后我们可以多要一些吗？,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any issues."
+406,One per customer rules remain as we try to ensure everyone who queues up can get their hands on a board.,每位顾客限购一块，以确保每位排队的人都能买到一块。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""get their hands on a board"" is translated as ""买到一块"" which means ""buy one"" instead of the more general ""get one."" This could imply a purchase rather than simply obtaining or receiving.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+407,"You can buy ONE of the boards listed above, not one of each.",您可以购买上面列出的其中一块板，而不是每种都买一块。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation could be slightly misleading as it implies buying one board instead of each type, which is correct, but the emphasis on ""not one of each"" could be clearer.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+409,Yesterday I had the best time with my friend and former rabbi colleague.,昨天我和我的朋友兼前拉比同事度过了最美好的时光。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+410,We visited for a couple hours on my porch.,我们在我的门廊上待了几个小时。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [accuracy/mistranslation] - The phrase ""a couple hours"" is mistranslated as ""几个小时"" which means ""several hours"" rather than ""a couple of hours"" (两个小时).
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+412,We all have stories to tell.,我们都有故事要讲。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+415,I quite like akkoma the software and the domain name I got for my instance.,我非常喜欢 Akkoma 这个软件和我为我的实例获得的域名。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - ""quite like"" is translated as ""非常喜欢"" which means ""very much like"" instead of ""quite like,"" indicating a slight overstatement of the original sentiment.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+416,"But I feel somehow I started this instance on the wrong foot, so to speak.",但我觉得不知怎么地，我在这个情况下有点不太顺利，可以这么说。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""on the wrong foot"" is a common idiom in English, meaning to start something poorly or with a disadvantage. The translation ""有点不太顺利"" captures the general idea but loses the idiomatic expression.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+423,Repnids have tunnelled below the surface and you fall into a boiling mass of hundreds of Repnid bodies in a cavern below.,Repnid在地表下挖掘隧道，你掉入了下面洞穴中沸腾的数百个Repnid身体之中。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""tunnelled"" could be more accurately translated to convey the continuous action of tunneling, rather than just ""挖掘隧道"" which may imply a completed action.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.",结局迅速，几对毒牙注入致命的毒液，迪斯克拉的空气污染了你的肺部。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: mistranslation - The translation of ""the air of Dyskra"" to ""迪斯克拉的空气"" could be more contextually accurate as ""迪斯克拉的空气"" may not clearly convey the intended meaning of ""the air of Dyskra"" being a specific or unique atmosphere.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The translation could benefit from additional punctuation for better readability, such as a comma before ""迪斯克拉的空气污染了你的肺部"" to separate the clauses more clearly.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: awkward - The phrase ""几对毒牙注入致命的毒液"" might sound awkward and could be rephrased for smoother flow, such as ""几对毒牙注入了致命的毒液"".
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+427,"The eight-eyed Repnids seem to be watching, but they make no move towards you, in fact they are motionless as you walk slowly towards them.",八眼的Repnids似乎在注视着你，但它们没有向你移动，事实上，当你慢慢走向它们时，它们一动不动。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: The translation accurately conveys the meaning of the source text without any noticeable errors."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.",你决定再次建立联系会很危险，于是返回飞行器，但这次经历清醒了你的头脑，自从你跳入未来以来，它一直处于混乱状态。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""which had been befuddled ever since you jumped into the future"" is slightly mistranslated as ""自从你跳入未来以来，它一直处于混乱状态"" which could be more accurately translated to convey the continuous state of confusion.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+437,I started a new shawl.,我开始了一条新的披肩。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+442,I am using a H hook with a similar double crochet pattern as I have done before.,我正在使用H钩和以前相似的长针图案。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The term ""double crochet"" is mistranslated as ""长针"" which could be misleading as it typically refers to ""double crochet"" in the context of crochet patterns.
+[Major]: [omission] - The phrase ""as I have done before"" is omitted in the translation, which affects the completeness of the information.
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - The translation lacks a period at the end of the sentence, which affects the punctuation.
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [name] - None
+[Major]: [name] - The letter ""H"" in ""H hook"" should be maintained in English or appropriately translated to ensure clarity.
+[Minor]: [date] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inappropriate for context] - None
+[Minor]: [inconsistent use] - None
+
+Non-translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error: None"
+448,The literature class hatred is even worse: I love to read.,文学课的仇恨更严重：我喜欢阅读。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The translation does not accurately convey the meaning of ""The literature class hatred is even worse"" as it suggests a more severe hatred in the context of a literature class, which is not clear in the translation.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: punctuation - The colon used in the translation may not be the most appropriate punctuation mark for the sentence structure in Chinese.
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: awkward - The sentence structure in the translation is awkward and does not flow naturally in Chinese.
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+454,Humanity is out in 5 days.,人类将在5天后消失。,"MQM annotations:
+Accuracy Errors
+[Critical]: [mistranslation] - The translation ""人类将在5天后消失"" means ""Humanity will disappear in 5 days,"" which is a significant change in meaning from the source text ""Humanity is out in 5 days.""
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Fluency Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Locale Convention Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Style Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Terminology Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Non-Translation Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+Other Errors
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None
+
+No-Error
+[Critical]: [error/error_subcategory] - None
+[Major]: [error/error_subcategory] - None
+[Minor]: [error/error_subcategory] - None"
+456,What will people think of it?,人们会怎么想？,"MQM annotations:
+Accuracy Errors
+[Critical]: [omission] - The phrase ""of it"" is omitted in the translation, which could lead to a lack of clarity about what is being referred to.
+[Major]: [mistranslation] - None
+[Minor]: [addition] - None
+
+Fluency Errors
+[Critical]: [grammar] - None
+[Major]: [punctuation] - None
+[Minor]: [spelling] - None
+
+Locale Convention Errors
+[Critical]: [date] - None
+[Major]: [currency] - None
+[Minor]: [name] - None
+
+Style Errors
+[Critical]: [awkward] - None
+[Major]: [awkward] - None
+[Minor]: [awkward] - None
+
+Terminology Errors
+[Critical]: [inappropriate for context] - None
+[Major]: [inconsistent use] - None
+[Minor]: [inappropriate for context] - None
+
+Non-translation Errors
+[Critical]: [non-translation] - None
+[Major]: [non-translation] - None
+[Minor]: [non-translation] - None
+
+Other Errors
+[Critical]: [other] - None
+[Major]: [other] - None
+[Minor]: [other] - None
+
+No-error: None"
+463,Came home on my lunch break to see this sitting outside uwu.,午休时回家看到这个坐在外面uwu。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: [mistranslation] - The phrase ""to see this sitting outside"" is mistranslated. The translation does not clearly convey the idea of ""seeing something sitting outside.""
+[Minor]: [untranslated text] - The term ""uwu"" is untranslated, but it might be intentional as it is an emoticon and could be understood in both languages.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: [awkward] - The sentence structure is slightly awkward in Chinese and could be improved for better readability.
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+464,Wish I could take it back to work with me to setup more.,希望我能把它带回去工作，设置更多。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The phrase ""to setup more"" is mistranslated as ""设置更多,"" which does not convey the intended meaning of setting up more things or configurations at work.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+466,So I finally watched #Heartstopper,所以我终于看了《心跳漏一拍》。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation of ""#Heartstopper"" as ""《心跳漏一拍》"" may not accurately convey the intended meaning if ""Heartstopper"" refers to a specific title or brand that should remain untranslated.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+477,"But it's important to not make excuses for issues and just fix them, especially in production when your lead needs changes.",但重要的是不要为问题找借口，而是要解决它们，尤其是在生产中当你的主管需要更改时。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The phrase ""when your lead needs changes"" is translated as ""当你的主管需要更改时,"" which could be interpreted as ""when your supervisor needs to make changes,"" potentially altering the intended meaning slightly.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.",好的批评是为了迅速纠正问题，并不是针对你的能力。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+485,These roots are hidden.,这些根是隐藏的。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: [mistranslation] - The translation ""这些根是隐藏的。"" is a literal translation and may not convey the intended meaning of ""These roots are hidden"" in context. A more appropriate translation might consider the context in which ""roots"" is used, such as ""这些根被隐藏起来了。"" if it implies they are intentionally hidden.
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error: None"
+486,Work is not visible.,工作不可见。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: mistranslation - The translation ""工作不可见"" suggests that the work itself is not visible, which may not accurately convey the intended meaning of the source text. The source could imply that the results or effects of the work are not visible, rather than the work itself.
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+492,He waited until he was in the darkness of the bunk room before he pulled the note out and read it in a beam of light coming through the blackout curtains.,他等到在铺位房间的黑暗中才拿出纸条，在透过遮光窗帘的光束中读了起来。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"
+495,I've met some marvelous new #Mastodon mates lately and want to maintain the trend.,最近我认识了一些很棒的新的 #Mastodon 朋友，并希望保持这种趋势。,"MQM annotations:
+Accuracy Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Fluency Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Locale Convention Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Style Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Terminology Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Non-Translation Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+Other Errors
+[Critical]: None
+[Major]: None
+[Minor]: None
+
+No-error"

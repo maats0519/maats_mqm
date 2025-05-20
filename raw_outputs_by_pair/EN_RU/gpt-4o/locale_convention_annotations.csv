@@ -1,0 +1,1234 @@
+index,original,translated,locale_convention_annotation
+0,The hacked up version of Jedi Knight was crashing because it was calling a function off the end of a vtable.,"Взломанная версия Jedi Knight вылетала, потому что вызывала функцию за пределами vtable.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The Russian translation correctly reflects the meaning and context of the English source text without violating any locale-specific conventions."
+4,But this is not universally true; for those cases it matters what interface you are using to create the object in question.,"Но это не всегда верно; в таких случаях имеет значение, какой интерфейс вы используете для создания данного объекта.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The Russian translation adheres to the locale-specific conventions and accurately reflects the source text."
+5,"So anyway, since it does hold true here, to fix it I had to extend my viewport implementation to contain the IDirect3DViewport3 methods so that the call to the new one was valid.","Итак, поскольку это действительно так, чтобы исправить это, мне пришлось расширить реализацию моего окна просмотра, чтобы она содержала методы IDirect3DViewport3, чтобы вызов нового метода был допустим.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+6,"Suppose for the sake of argument that science at least in part consists of lists of objectively factual statements about the world, true apart from any theory they might support.","Предположим, ради аргумента, что наука, по крайней мере частично, состоит из списков объективно фактических утверждений о мире, истинных независимо от любой теории, которую они могут поддерживать.","```
+locale conventions:
+
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation adheres to the locale-specific content and formatting requirements."
+9,"The experiments don't create the facts on this reading, but the choice of which experiments to conduct controls which facts are discovered.","Эксперименты не создают факты в этом прочтении, но выбор, какие эксперименты проводить, определяет, какие факты будут обнаружены.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+In this case, there are no locale convention errors in the translation. The sentence is correctly translated with respect to locale-specific content and formatting requirements."
+11,This is a very brief sketch of a plausible argument that theories of capitalism influencing the actual content of science are consistent with theories asserting the existence of objective scientific facts.,"Это очень краткий набросок правдоподобного аргумента о том, что теории капитализма, влияющие на фактическое содержание науки, согласуются с теориями, утверждающими существование объективных научных фактов.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation adheres to Russian locale conventions, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+13,Going to be my first project car.,Станет моим первым проектным автомобилем.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+There are no locale convention errors in the translation provided. The sentence ""Станет моим первым проектным автомобилем."" adheres to Russian locale conventions and accurately conveys the meaning of the English source text."
+16,Already on coil overs and lowered ride height.,Уже на койловерах и с заниженной высотой дорожного просвета.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/measurement_format] - The term ""койловеры"" (coilovers) is a technical term in automotive contexts and is correctly used. However, there is no specific measurement format error in this context as the translation is accurate and follows the locale conventions for Russian.
+```"
+20,#Venting into the Fediverse time.,#Выпуск пара в Федивёрс время.,"```
+locale conventions:
+
+MQM annotations:
+Minor: locale_conventions/DATE/TIME FORMAT - The phrase ""время"" (time) does not adhere to any specific time format and may cause confusion. It should be clarified or formatted according to Russian locale conventions if it represents a specific time.
+```"
+22,"When we went to check out, the cashier is a fairly obvious #trans woman.","Когда мы пошли на кассу, кассиром оказалась довольно очевидная транс-женщина.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions - None
+Major: locale_conventions - None
+Minor: locale_conventions - None
+```
+
+Explanation: The translation from English to Russian does not contain any locale convention errors. The sentence structure and content adhere to Russian locale-specific conventions, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+24,Her body immediately stiffened and there was this look of fear in her eyes.,"Её тело мгновенно напряглось, и в глазах появился страх.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+The translation provided does not contain any locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation accurately reflects the source text without violating any locale-specific conventions."
+25,And then we just... paid for our stuff.,А потом мы просто... заплатили за наши вещи.,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+28,The smile of relief on her face was a great feeling but the fact that she was scared first FUCKING SUCKS AND I HATE IT.,"Улыбка облегчения на её лице была замечательным чувством, но тот факт, что сначала она была напугана, ПРОСТО ОТВРАТИТЕЛЕН, И Я НЕНАВИЖУ ЭТО.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+There are no locale convention errors in the translation provided. The translation adheres to Russian locale conventions and does not violate any formatting or content requirements specific to the locale."
+32,But he can't pardon himself out of state prison.,Но он не может помиловать себя из тюрьмы штата.,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+33,It takes the state's governor.,Это зависит от губернатора штата.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation ""Это зависит от губернатора штата."" correctly conveys the meaning of ""It takes the state's governor"" without violating any locale-specific conventions."
+36,NY is the best hope for accountability,Нью-Йорк — лучшая надежда на привлечение к ответственности.,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```
+
+Explanation: The translation of ""NY"" to ""Нью-Йорк"" adheres to the locale conventions for Russian, where ""Нью-Йорк"" is the standard and widely accepted translation for ""New York."" There are no locale-specific formatting or content errors in this translation."
+37,There is significant evidence that real-world communication cannot be reduced to sending signals with context-independent meaning.,"Существует значительное количество доказательств того, что реальная коммуникация не может быть сведена к передаче сигналов с независимым от контекста значением.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation adheres to the Russian locale-specific content and formatting requirements."
+40,"At the same time, we study the environmental conditions and cognitive capabilities that enable contextual disambiguation of symbol meanings.","В то же время мы изучаем условия окружающей среды и когнитивные способности, которые позволяют контекстуально разрешать неоднозначность значений символов.","```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+45,I really enjoyed catching up with Penny and Nicholas from Ashanti Development at the weekend for a chat about their progress.,Мне очень понравилось пообщаться с Пенни и Николасом из Ashanti Development на выходных и обсудить их успехи.,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/DATE/TIME FORMAT] - The phrase ""на выходных"" is a correct translation for ""at the weekend,"" but it is worth noting that in Russian, specifying the exact days (e.g., ""в субботу и воскресенье"" for ""on Saturday and Sunday"") could be more precise, depending on the context. However, this is a minor observation as the current translation is acceptable.
+```"
+48,I was fortunate enough to spend a memorable six months alongside Nicholas in 2011 supporting a range of projects.,"Мне посчастливилось провести незабываемые шесть месяцев вместе с Николасом в 2011 году, поддерживая ряд проектов.","```
+locale conventions:
+
+MQM annotations:
+[Major]: [locale_conventions/date/time format] - The date format ""в 2011 году"" should be ""2011 г."" to adhere to Russian locale conventions.
+```"
+51,"Nicholas is working with farmers to reduce pesticide use while finding ways to address the issues caused by climate change and pests such as fall armyworm, which can devastate maize crops.","Николас работает с фермерами над сокращением использования пестицидов, одновременно находя способы решения проблем, вызванных изменением климата и вредителями, такими как гусеница совки, которая может уничтожать посевы кукурузы.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+53,The UPS store near me won't allow me to write a label or write on the box.,Магазин UPS рядом со мной не позволяет мне писать этикетку или писать на коробке.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation accurately reflects the source text without violating any locale-specific content or formatting requirements."
+55,They won't allow me to tell them the address it's going to and who is shipping it.,"Они не позволят мне сообщить им адрес, куда это отправляется, и кто отправляет.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/ADDRESS FORMAT] - The phrase ""куда это отправляется"" (where it is going) in the translation does not specify an address format, which might be expected in a locale-specific context. However, since the source text does not provide an actual address, this is a minor issue.
+```"
+57,"And they always to charge me $2.25 for that ""convenience"".","И они всегда берут с меня $2.25 за это ""удобство"".","```
+locale conventions:
+
+MQM annotations:
+[Minor]: [locale_conventions/currency format] - In Russian, the currency symbol ""$"" should be placed after the numeric value with a space, formatted as ""2,25 $"".
+```"
+64,The ratings--seeking delusional irresponsibility of it all.,Рейтинго-ищущая бредовая безответственность всего этого.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+There are no locale convention errors in the translation provided. The translation adheres to the locale-specific content and formatting requirements for Russian."
+65,It can't be repeated.,Это нельзя повторить.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+66,"I have a very drafty basement, which essentially means I can get a lot of rodents taking refuge.","У меня очень сквозистый подвал, что, по сути, означает, что там может укрываться много грызунов.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to the locale-specific requirements for Russian."
+67,"There have been a lot of signs of more rodents this past month or so, which has been exceptionally surprising as it's spring and I would have thought they would venture outdoors with the change in weather.","За последний месяц или около того появилось много признаков увеличения числа грызунов, что было особенно удивительно, так как сейчас весна, и я бы подумал, что с изменением погоды они отправятся на улицу.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+71,"(fwiw, I've tried nearly every ""humane"" trap on the market with very little success.","Кстати, я пробовал почти все ""гуманные"" ловушки на рынке, но с очень небольшим успехом.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+72,"I'm not especially happy with killing them, but I won't be taking comments on the ethics of killing mice.)","Я не особенно рад их убивать, но не собираюсь обсуждать этику убийства мышей.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The translation correctly follows the Russian locale conventions, and there are no issues with address format, currency format, date/time format, measurement format, number format, or telephone format."
+76,But they also cut grants and tax credits that encourage more business activity.,"Но они также сократили гранты и налоговые льготы, которые стимулируют более активную предпринимательскую деятельность.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The translation accurately reflects the source text without violating any locale-specific content or formatting requirements."
+81,"This is true even now that goatse.cx is gone, though it would be a close race to the bottom between goatse and, say, khou.com, where I tried to watch a video the Wendy sent me.","Это верно даже сейчас, когда goatse.cx больше не существует, хотя это была бы гонка на дно между goatse и, скажем, khou.com, где я пытался посмотреть видео, которое мне прислала Венди.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+82,"On the first train today, the ticket checker looked at our tickets and said ""long journey!""","Сегодня в первом поезде контролер посмотрел на наши билеты и сказал: ""долгое путешествие!"".","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/DATE/TIME FORMAT] - The translation does not specify the time of day (""сегодня в первом поезде""), which could be considered a minor locale convention error if the context required a specific time format.
+```"
+84,"""I'm just dropping him off in Glasgow,"" I attempted to explain, gesturing at my traveling companion.","""Я просто высаживаю его в Глазго,"" попытался объяснить я, указывая на моего попутчика.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+The translation provided does not contain any locale convention errors. The sentence structure and formatting adhere to Russian locale conventions, and there are no issues with address, currency, date/time, measurement, number, or telephone formats in the given text."
+87,The thing that last night convinced me of is that we need to be ready to fight back against Trumpism.,"То, в чем я убедился прошлой ночью, это то, что мы должны быть готовы бороться против трампизма.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation adheres to the locale-specific conventions for Russian, and there are no formatting issues related to address, currency, date/time, measurement, number, or telephone formats."
+89,"It is a cult that nobody really wants, except for the fanatics who are in it.","Это культ, который на самом деле никто не хочет, кроме фанатиков, которые в нем состоят.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation adheres to the locale-specific content and formatting requirements."
+90,And they are truly nuts.,И они действительно сумасшедшие.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation ""И они действительно сумасшедшие."" accurately reflects the source text ""And they are truly nuts."" without any violations of locale-specific content or formatting requirements."
+94,Get some bumper stickers that are anti-Trump and plaster them all over.,Купите наклейки на бампер с антиреспубликанскими лозунгами и наклейте их повсюду.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+95,Yell back at those who would try to talk over us.,"Кричите в ответ на тех, кто пытается нас перебить.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+In this case, there are no locale convention errors in the translation from English to Russian. The sentence is correctly translated and adheres to the locale-specific conventions for Russian."
+101,It is not socially acceptable to go out in public or rush up to people when you are coughing up a mucus storm.,"Недопустимо выходить на улицу или подбегать к людям, когда у вас сильный кашель с мокротой.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation adheres to the locale-specific content and formatting requirements."
+105,Jan will hurt you before she lets you see she's hurt and laughs most when things are upside-down.,"Ян причинит тебе боль, прежде чем позволит увидеть, что она сама ранена, и больше всего смеется, когда все вверх дном.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to the locale-specific content and formatting requirements for Russian."
+107,"After 4,000 of distress Yl finds herself in a place of love and is having huge feels she doesn't know what to do with so there's a lot of both.","После 4000 лет страданий Йл оказывается в месте, полном любви, и испытывает сильные чувства, с которыми не знает, что делать, поэтому их много с обеих сторон.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/NUMBER FORMAT] - The number ""4000"" in the Russian translation should be formatted with a space as ""4 000"" according to Russian locale conventions.
+```"
+108,#CNN needs to just close down.,CNN нужно просто закрыться.,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```
+
+There are no locale convention errors in the translation provided. The sentence ""CNN needs to just close down."" is correctly translated into Russian as ""CNN нужно просто закрыться."" There are no issues related to address, currency, date/time, measurement, number, or telephone formats."
+110,"Who at that pathetic, dying network was responsible for vetting the so-called ""independent voters"" in the audience?","Кто на этой жалкой, умирающей сети был ответственен за проверку так называемых ""независимых избирателей"" в аудитории?","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+113,A cold front should arrive by the middle of next week.,Холодный фронт должен прийти к середине следующей недели.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/DATE/TIME FORMAT] - The phrase ""by the middle of next week"" should be formatted to match Russian locale conventions, which may prefer a more explicit date range or specific day reference.
+```"
+114,"Early this morning, IR satellite and surface based observations indicated an expanding area of low stratus and patchy <URL>",Сегодня рано утром спутниковые ИК-наблюдения и наблюдения с поверхности указали на расширяющуюся область низкой слоистой облачности и местами <URL>.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/measurement_format] - The translation does not address the ""<URL>"" placeholder, which may require specific formatting or localization depending on the context. However, this is a placeholder and not a specific locale convention error.
+```"
+115,"Geeky student Arnie Cunningham falls for Christine, a rusty 1958 Plymouth Fury, and becomes obsessed with restoring the classic automobile to her former glory.","Задрот Арни Каннингем влюбляется в Кристину, ржавый Plymouth Fury 1958 года, и становится одержим восстановлением классического автомобиля до его прежнего величия.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/NUMBER FORMAT] - In Russian, the year ""1958"" should be written as ""1958-го"" when used in this context to indicate a specific model year.
+```"
+116,"As the car changes, so does Arnie, whose newfound confidence turns to arrogance behind the wheel of his exotic beauty.","По мере того как меняется автомобиль, меняется и Арни, чья новая уверенность за рулем его экзотической красавицы превращается в высокомерие.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to the locale-specific conventions for Russian."
+123,One of the craziest parts about my neighbors turning against me is thinking about how much effort it takes to be hostile.,"Одна из самых безумных вещей в том, что мои соседи настроились против меня, это осознание того, сколько усилий требуется, чтобы быть враждебным.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation adheres to the locale-specific content and formatting requirements."
+126,It hurts but you gotta do you.,"Больно, но ты должен быть собой.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The phrase ""Больно, но ты должен быть собой"" correctly reflects the source text ""It hurts but you gotta do you"" without any locale-specific formatting issues."
+127,But at this point the open hostility and violence is getting worse.,Но на данный момент открытая враждебность и насилие становятся хуже.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+131,And I still have NO IDEA what I could have possibly done to deserve this.,"И я до сих пор НЕ ИМЕЮ ПОНЯТИЯ, что я мог сделать, чтобы заслужить это.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The sentence in Russian adheres to the locale-specific content and formatting requirements."
+133,That vessel is off-limits.,Это судно запрещено.,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+135,She is irrelevant to me.,Она не имеет для меня значения.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+139,I gripe about dad-ification a lot.,Я много жалуюсь на превращение в отца.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors related to address, currency, date/time, measurement, number, or telephone formats in the translation provided. The translation is free from locale-specific formatting issues."
+140,Here is a (slightly longer than) toot-length crash course in what I mean by dad-ification:,"Вот краткий курс о том, что я имею в виду под ""отцовщиной"":","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation correctly follows Russian locale conventions for the given text."
+141,"It isn't my term, it is a term used to describe when a narrative or gameplay mechanic is built around a central protagonist (usually older, usually male) stewarding or guarding another person (often younger).","Это не мой термин, это термин, используемый для описания ситуации, когда повествование или игровой механизм строится вокруг центрального протагониста (обычно старшего, обычно мужского пола), опекающего или охраняющего другого человека (часто младшего).","```
+locale conventions:
+
+MQM annotations:
+[Critical]: locale_conventions - None
+[Major]: locale_conventions - None
+[Minor]: locale_conventions - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation adheres to the Russian locale conventions, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+144,"Dad-ification usually posits that the solution to a situation where a parent figure must care for or protect a child or child stand-in is overwhelming strength, and using that strength to force a very specifically shaped power dynamic.","Отец-фикация обычно предполагает, что решение ситуации, в которой родительская фигура должна заботиться о ребенке или его замене, заключается в подавляющей силе и использовании этой силы для создания очень специфической формы динамики власти.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation does not contain any issues related to address format, currency format, date/time format, measurement format, number format, or telephone format that would violate Russian locale-specific conventions."
+145,"Dad-ification erodes the possibility for communal solutions, and often wholly ignores, or undercuts any agency the child has.","Отец-фикация размывает возможность для коллективных решений и часто полностью игнорирует или подрывает любую самостоятельность, которую имеет ребенок.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+The provided translation does not contain any locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to the locale-specific content and formatting requirements for Russian."
+151,- More details are in the full blog post.,- Более подробная информация в полном блоге.,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions - None
+Major: locale_conventions - None
+Minor: locale_conventions - None
+```"
+159,Over time dart became my go-to for quick UI.,Со временем Dart стал моим выбором для быстрого создания пользовательского интерфейса.,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+160,"#flutter is a pleasure to work with, and they have #mobx for easy store management.","#flutter - это удовольствие работать с ним, и у них есть #mobx для легкого управления хранилищем.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The hashtags and the overall structure of the sentence adhere to the locale-specific conventions for Russian."
+161,"The dependency story is less insane than nodejs, too.","История зависимостей менее безумна, чем у nodejs.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+163,But it allows to move fast and that's why it's ideal for small hacks.,"Но это позволяет двигаться быстро, и поэтому идеально подходит для небольших взломов.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions - None
+Major: locale_conventions - None
+Minor: locale_conventions - None
+```"
+166,Their tail is extremely thick.,Их хвост чрезвычайно толстый.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+The translation provided does not contain any locale convention errors. The sentence ""Их хвост чрезвычайно толстый."" correctly adheres to Russian language conventions and accurately reflects the meaning of the English source text."
+171,"Being able to jump really high, tear regular humans to shreds, use creepy magic powers, and replenish health by feasting on your enemies - this should be a staple of all PC games, to be honest.","Умение прыгать очень высоко, разрывать обычных людей на куски, использовать жуткие магические силы и восстанавливать здоровье, пируя на своих врагах - честно говоря, это должно быть основой всех игр для ПК.","```
+locale conventions:
+
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to the locale-specific conventions for Russian."
+176,It maybe has too many language subtleties.,"Возможно, в нём слишком много языковых тонкостей.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+177,"Need to translate it to Mandarin and/or Hokkien, neither of which I know at all.","Нужно перевести это на мандарин и/или хоккиен, ни один из которых я совсем не знаю.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+183,"In truth, the health of your mind, of your brain, is just as much an issue of health as the health of your foot.","На самом деле, здоровье вашего разума, вашего мозга, является такой же проблемой здоровья, как и здоровье вашей ноги.","```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to Russian locale-specific conventions."
+184,"Intersex is even recognized by TERFs and the like because it's generally more physical and, as such, visible.","Интерсекс признается даже ТЕРФами и подобными, потому что это, как правило, более физическое и, следовательно, заметное.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation adheres to the locale-specific content and formatting requirements."
+185,"In the same way that mental health is seen as less ""real"" than physical health by many, I kind of feel that being trans is merely intersex of the mind.","Точно так же, как психическое здоровье многими воспринимается как менее ""реальное"", чем физическое здоровье, я как бы чувствую, что быть трансгендером — это просто интерсекс мозга.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation adheres to the locale-specific content and formatting requirements for Russian."
+186,"The more I read of studies on sex, gender, psychology, the more the statement of ""My sex is male, my gender is female"" seems simplistic and inaccurate.","Чем больше я читаю исследований о сексе, гендере, психологии, тем больше утверждение ""Мой пол мужской, мой гендер женский"" кажется мне упрощённым и неточным.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+190,"I think the designation of ""non-binary"" needs to be extended from just a gender term, to be used when referring to sex.","Я думаю, что обозначение ""небинарный"" нужно расширить от гендерного термина, чтобы использовать его при упоминании пола.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+193,Like krauty moods and other worldly pop music and radiophonic workshop and all sorts.,"Как краутовые настроения и другая мировая поп-музыка, радиофоническая мастерская и всякое такое.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation is consistent with Russian locale conventions, and there are no issues related to address, currency, date/time, measurement, number, or telephone formats."
+210,I want to make dashboards.,Я хочу создавать панели управления.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+In this case, there are no locale convention errors in the translation of ""I want to make dashboards"" to ""Я хочу создавать панели управления."" The translation adheres to the locale-specific conventions for Russian."
+213,"So with a new #FFXIV raid tier approaching, I've long been thinking ""man, I'd like to try proper raiding, but Party Finder sounds like a mess, and I'm never gonna find a static that'll have me.""","Итак, с приближением нового уровня рейда в #FFXIV, я долго думал: ""Черт, я бы хотел попробовать настоящий рейд, но Party Finder звучит как беспорядок, и я никогда не найду статик, который меня возьмет.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to Russian locale conventions appropriately."
+215,I'll make my own static!,Я сделаю свой собственный статик!,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+216,"Full of people too anxious to try joining a raid static, with no expectations of being good at all!","Полно людей, слишком обеспокоенных, чтобы попробовать присоединиться к рейдовому статик-группе, без каких-либо ожиданий быть хорошими в этом!","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+219,I was a voracious reader in my youth.,В юности я был ненасытным читателем.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to the locale-specific conventions for Russian."
+221,"But, after ~decades~ of reading next to nothing (with the exception of functional work-related non-fiction stuff and an occasional self-help book) I set a goal to read 23 books in 2023.",Но после ~десятилетий~ почти полного отсутствия чтения (за исключением функциональной рабочей научно-популярной литературы и случайной книги по саморазвитию) я поставил цель прочитать 23 книги в 2023 году.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/DATE/TIME FORMAT] - The year ""2023"" should be formatted according to Russian conventions, which typically do not require any specific changes for the year format. However, the sentence structure could be adjusted to better fit Russian stylistic norms.
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+226,I wanna see these companies that intermediate transactions explain to their customers how they set their percentages.,"Я хочу, чтобы эти компании, которые выступают посредниками в транзакциях, объяснили своим клиентам, как они устанавливают свои проценты.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+228,"But if Spotify has a good quarter, they will.","Но если у Spotify будет хороший квартал, они это сделают.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/number_format] - In Russian, the company name ""Spotify"" should be in the nominative case as ""Spotify"" rather than ""у Spotify"" which implies a possessive form. This is a minor locale convention error related to the formatting of company names in Russian.
+```"
+229,Is it a danger to let migrants in at the southern border? I dunno.,Представляет ли опасность впускать мигрантов на южной границе? Не знаю.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+230,Let them rehabilitate the hollowed out and decaying cities across the country. Again.,Пусть они восстановят опустошённые и разрушающиеся города по всей стране.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation adheres to the locale-specific content and formatting requirements."
+238,There are still going to be jobs that can be accomplished remotely for the foreseeable future.,"В обозримом будущем всё ещё будут существовать работы, которые можно выполнять удалённо.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+239,Remote work is enabling.,Удалённая работа является возможностью.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+240,"It enables people to work in comfortable spaces and not stuffy, noisy offices.","Это позволяет людям работать в комфортных помещениях, а не в душных, шумных офисах.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation adheres to the locale-specific content and formatting requirements."
+242,It enables people to avoid lengthy commutes that take time away from their day and their families.,"Это позволяет людям избежать длительных поездок на работу, которые отнимают время у их дня и семьи.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+250,"""You are the carbon they are trying to reduce.""","""Вы — углерод, который они пытаются уменьшить.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+The translation ""Вы — углерод, который они пытаются уменьшить."" does not contain any locale convention errors related to address, currency, date/time, measurement, number, or telephone formats. The translation adheres to Russian language conventions appropriately."
+251,"So like from the beginning for all my birthdays in the past, I always had rough ones.","Так что, начиная с самого начала, на все мои дни рождения в прошлом у меня всегда были тяжелые.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+257,And today is already becoming a great day!,А сегодня уже становится отличным днем!,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+258,Winter is 30 days away in this little part of the Great Southern World.,Зима наступит через 30 дней в этой маленькой части Великого Южного мира.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/DATE/TIME FORMAT] - The phrase ""через 30 дней"" (in 30 days) does not explicitly violate Russian locale conventions, but it could be more precise by specifying the exact date when winter starts, as Russian locale often prefers explicit date formats for clarity.
+```"
+264,I will zip the lining into my cycle jacket - just in case I need it inside.,"Я застегну подкладку в свою велосипедную куртку на случай, если она мне понадобится.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+273,I finally got a good dangle photo so I can be sure he's not fat.,"Наконец-то у меня получилось сделать хорошее фото под углом, чтобы убедиться, что он не толстый.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/measurement_format] - The term ""под углом"" (at an angle) is used to describe the photo, which is a literal translation of ""dangle photo."" In the context of pet photography, ""dangle photo"" refers to a specific way of photographing pets to assess their body condition. The translation does not convey this specific meaning, but it does not significantly hinder understanding.
+```"
+275,He's not.,Он нет.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation ""Он нет."" as it is a direct translation of ""He's not."" However, it should be noted that the translation is not idiomatic in Russian, but this is not a locale convention issue."
+282,2) The currency reward system has been connected.,2) Система вознаграждений валютой была подключена.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/NUMBER FORMAT] - The number ""2)"" should follow Russian numbering conventions, typically using a period instead of a parenthesis, i.e., ""2."" instead of ""2)"".
+```"
+286,"All collards, kale, chard is transplanted.","Все капустные, капуста кале, мангольд пересажены.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/measurement_format] - The translation uses ""капустные"" (cabbage-like) instead of a more specific term for collard greens, which may not align with locale-specific terminology for leafy greens.
+```"
+287,Plans to set in salad at Penn on 6row pattern and see how that compares to broadcast seeded beds.,Планы по посадке салата в Пенне по схеме в 6 рядов и сравнение с посевом на грядках.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/measurement_format] - The translation uses ""6 рядов"" (6 rows) instead of ""6row"" (6-row) pattern, which is a specific measurement format in the context of planting patterns.
+```"
+288,Spring peas at Gilpin are showing up so trellise needs to be set.,"Весенний горох в Гилпине начинает появляться, поэтому нужно установить шпалеры.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The translation adheres to the locale-specific content and formatting requirements for Russian."
+289,"Also need to seed a salad row there to integrate cut greens in both have trained crew on irrigation, bed prep, and transplanting which is 90% of non-harvest skill items","Также нужно посеять ряд салата, чтобы интегрировать нарезанную зелень, обученная команда уже подготовлена по орошению, подготовке грядок и пересадке, что составляет 90% навыков, не связанных со сбором урожая.","```
+locale conventions:
+
+MQM annotations:
+[Critical]: locale_conventions/number_format - None
+[Major]: locale_conventions/number_format - None
+[Minor]: locale_conventions/number_format - None
+```"
+293,"Curious, I kept an open mind to compare how Google Maps and Apple Maps compare, on my test iPhone device (my daily driver is an Android device, so it's rare that I use an iPhone).","Из любопытства я оставил открытым сознание, чтобы сравнить, как Google Maps и Apple Maps сопоставляются на моем тестовом устройстве iPhone (мой основной телефон - Android, поэтому я редко использую iPhone).","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+299,Was it the 2012 Apple Maps disaster?,Это была катастрофа с Apple Maps в 2012 году?,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation correctly adheres to Russian locale conventions."
+303,"I'm biased in favour of not releasing garbage to end users, and Apple royally fucked up with their Apple Maps when it came out in 2012.","Я предвзят в пользу того, чтобы не выпускать мусор для конечных пользователей, и Apple капитально облажалась с их Apple Maps, когда они вышли в 2012 году.","```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/DATE/TIME FORMAT] - The year ""2012"" should be formatted according to Russian locale conventions, which typically do not require any changes for this context, so no error exists.
+```"
+308,Not the case.,Не в этом дело.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+313,It seems inconceivable that land may be taken away one day when you watch Australian and United States media channels but that's because the rich are on there all day ensuring your mind thinks a certain way.,"Кажется немыслимым, что землю могут отнять однажды, когда вы смотрите австралийские и американские медиа-каналы, но это потому, что богатые находятся там весь день, обеспечивая, чтобы ваш разум думал определенным образом.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+The translation provided does not contain any locale-specific formatting errors. The text adheres to the conventions for Russian and does not violate any locale-specific content or formatting requirements."
+314,The land is very easily and quickly taken away by the government one day if they want to do that.,"Земля очень легко и быстро изымается правительством в один день, если они захотят это сделать.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/DATE/TIME FORMAT] - The phrase ""в один день"" (in one day) could be interpreted as a specific date or time expression. While it is not a direct date or time format error, it could be seen as lacking specificity or clarity in terms of locale conventions for expressing time-related information.
+```"
+316,It never made sense how ppl can keep land at the expense of others.,"Никогда не было понятно, как люди могут удерживать землю за счет других.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation accurately reflects the source text without violating any locale-specific content or formatting requirements."
+325,I often wonder at the human capacity to be *so* down on oneself while inundated by so much evidence of what actual cruelty looks like.,"Я часто удивляюсь способности человека быть *настолько* самокритичным, будучи окружённым таким количеством доказательств того, как выглядит настоящая жестокость.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+328,But gentling despair at our messiness is crucial - because it gives us more space to tackle the ruins all around.,"Но смягчение отчаяния по поводу нашего беспорядка имеет решающее значение - потому что оно дает нам больше пространства для того, чтобы справиться с разрухой вокруг.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+331,"Some programmers: ""Typing speed does not matter!""","Некоторые программисты: ""Скорость набора текста не имеет значения!""","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+334,"Not sure if this is the best approach for sharing, but I like it for now: <URL>","Не уверен, что это лучший подход для обмена, но мне он нравится на данный момент: <URL>","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+338,I have been toying with this little piece on my head for a few days now.,Я размышляю над этой небольшой идеей в своей голове уже несколько дней.,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```"
+339,It is definitely more romance than filth.,"Это определённо больше романтика, чем грязь.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+There are no locale convention errors in the translation provided. The translation correctly follows the locale-specific conventions for Russian."
+343,"Common, it's really not that hard.","Общепринято, это действительно не так уж и сложно.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation provided. The translation ""Общепринято, это действительно не так уж и сложно."" does not contain any issues related to address, currency, date/time, measurement, number, or telephone formats."
+345,"I wish there was a ""who to follow"" recommendation somehow.","Хотелось бы, чтобы была рекомендация ""кого следовать"".","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/quotation_format] - In Russian, the correct format for quotes is «...», but the translation uses double quotes (""..."").
+```"
+347,If you stick to the default web interface it doesn't look and feel good (imho).,"Если вы придерживаетесь интерфейса веб по умолчанию, он не выглядит и не ощущается хорошо (имхо).","```
+locale conventions:
+
+MQM annotations:
+[Critical]: locale_conventions/none - None
+[Major]: locale_conventions/none - None
+[Minor]: locale_conventions/none - None
+```"
+349,"I don't know if prevention is possible, but it's worth trying.","Я не знаю, возможно ли предотвратить это, но стоит попробовать.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions - None
+Major: locale_conventions - None
+Minor: locale_conventions - None
+```"
+350,"The four steps I outline are up for debate, with some progress in each:","Четыре шага, которые я изложил, подлежат обсуждению, с некоторым прогрессом в каждом из них.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+``` 
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to the locale-specific content and formatting requirements for Russian."
+356,"Even if he didn't get to say them during the town hall, everyone in America will hear them anyway, repeatedly, between now and November 2024.","Даже если он не смог сказать их во время встречи с избирателями, все в Америке все равно услышат их, неоднократно, между настоящим моментом и ноябрем 2024 года.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/DATE/TIME FORMAT] - The date format ""ноябрем 2024 года"" should follow Russian locale conventions, which typically use ""ноябрь 2024 г."".
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+363,"The ""MusicLM Demo"" is mildly interesting.",«Демонстрация MusicLM» умеренно интересна.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```
+
+Explanation: The translation ""«Демонстрация MusicLM» умеренно интересна."" does not contain any locale convention errors. The formatting and presentation adhere to Russian language norms, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+369,I work out alone in my bedroom without a spotter or even a weight rack.,Я тренируюсь в одиночку в своей спальне без страховщика и даже без стойки для штанги.,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to Russian locale-specific content and formatting requirements."
+371,I bench press on my bed.,Я жму штангу лёжа на кровати.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The translation ""Я жму штангу лёжа на кровати"" correctly adheres to Russian locale conventions and accurately reflects the source text ""I bench press on my bed."""
+378,I'd never seen it at the fancy grocer or any of the Italian delis.,Я никогда не видел этого в дорогом магазине или в каком-либо из итальянских деликатесов.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The translation correctly adheres to Russian locale conventions for the given context."
+383,"Having been radicalized here, we're reluctant to buy a new FAANG machine*.","Будучи радикализированными здесь, мы неохотно покупаем новую машину FAANG.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```
+
+In this translation, there are no locale convention errors related to address, currency, date/time, measurement, number, or telephone formats. The translation does not contain any locale-specific formatting issues that would require annotation."
+386,"In 1998-06 Gamefan, in relation to the long development of the first Unreal game, Jason Schrieber commented,",В выпуске Gamefan за июнь 1998 года Джейсон Шрайбер прокомментировал длительную разработку первой игры Unreal.,"```
+locale conventions:
+
+MQM annotations:
+[Major]: [DATE/TIME FORMAT] - The date format ""1998-06"" in the source should be translated to the Russian date format as ""июнь 1998 года"" instead of ""1998 года"".
+```"
+387,"""A good game is only late until it ships.","""Хорошая игра задерживается только до её выхода.""","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation. The Russian translation ""Хорошая игра задерживается только до её выхода."" correctly follows the locale-specific conventions for Russian, and there are no issues with address, currency, date/time, measurement, number, or telephone formats."
+388,"A bad game is bad forever.""",«Плохая игра плоха навсегда.»,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this case, there are no locale convention errors in the translation from English to Russian. The translation ""«Плохая игра плоха навсегда.»"" correctly follows the locale-specific content and formatting requirements for Russian."
+391,"An earlier issue of GamePro 1997-11 has a quote with far more ambiguity,",Более ранний выпуск GamePro 1997-11 содержит цитату с гораздо большей неоднозначностью.,"```
+locale conventions:
+
+MQM annotations:
+[Major]: [locale_conventions/DATE/TIME FORMAT] - The date format ""1997-11"" is not in the correct Russian locale format. It should be ""11.1997"" for month and year.
+```"
+402,There's areas that could use some polish.,"Есть области, которые можно было бы улучшить.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+404,"Fix those minor issues, and then can we have more of these please?","Исправьте эти мелкие проблемы, а затем можем ли мы получить больше таких, пожалуйста?","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+410,We visited for a couple hours on my porch.,Мы провели пару часов на моем крыльце.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+There are no locale convention errors in the translation provided. The sentence ""Мы провели пару часов на моем крыльце."" correctly reflects the source sentence ""We visited for a couple hours on my porch."" without any locale-specific formatting issues."
+420,"The eight-eyed Repnids seem to be watching as you settle the flyer down on the red soil, but they make no move towards you, in fact they are motionless as you climb out of the flyer and walk slowly towards them.","Восьмиглазые Репниды, кажется, наблюдают за вами, когда вы приземляете летательный аппарат на красную почву, но они не двигаются к вам, на самом деле они неподвижны, когда вы выходите из аппарата и медленно идете к ним.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to the locale-specific content and formatting requirements for Russian."
+421,"The ground beneath your feet begins to tremble and then shake, as if in an earthquake and you lose your footing, though the Repnids seem unaffected.","Земля под вашими ногами начинает дрожать, а затем трястись, как при землетрясении, и вы теряете равновесие, хотя Репниды остаются невозмутимыми.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+422,The rock beneath you gives way suddenly.,Скала под вами внезапно обрушивается.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+There are no locale convention errors in the translation provided. The translation adheres to the locale-specific content and formatting requirements for Russian."
+424,"The end is swift, as several pairs of fangs inject their deadly venom and the air of Dyskra contaminates your lungs.","Конец наступает быстро, когда несколько пар клыков впрыскивают свою смертельную отраву, а воздух Дискры заражает ваши легкие.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+``` 
+
+In this translation, there are no locale convention errors related to address, currency, date/time, measurement, number, or telephone formats. The translation adheres to the locale-specific content and formatting requirements for Russian."
+432,"You decide that establishing contact again would be dangerous and return to your flyer, but the experience has cleared your mind which had been befuddled ever since you jumped into the future.","Вы решаете, что восстанавливать контакт будет опасно, и возвращаетесь к своему летательному аппарату, но этот опыт прояснил ваш разум, который был затуманен с тех пор, как вы прыгнули в будущее.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to the locale-specific content and formatting requirements for the Russian language."
+434,Note that you have used up another polybdenum rod as you jump.,"Обратите внимание, что вы израсходовали еще один полибденовый стержень, когда прыгали.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/MEASUREMENT FORMAT] - The term ""полибденовый"" is a mistranslation of ""polybdenum,"" which should be ""полибденовый"" if it were a correct term. However, ""polybdenum"" is not a recognized element or material, suggesting a potential error in the source text. If it refers to a specific material or fictional context, the translation should maintain that term accurately.
+```"
+439,I found a unevenly spun silver gray yarn that is mostly finely spun with lumps.,"Я нашел неравномерно пряденую серебристо-серую пряжу, которая в основном тонко прядена с комками.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/measurement_format] - The term ""серебристо-серую"" (silver gray) should be hyphenated as ""серебристо-серую"" to conform with Russian compound adjective formatting conventions.
+```"
+440,I plan on mixing it with a fine purple/lilac variegated cotton.,Я планирую смешать это с тонким пурпурно-сиреневым меланжевым хлопком.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+449,"I hit most of the classics before eighteen--though that's more a reflection of living in bumfuck nowhere, I also read the 1979 Encyclopedia Brittanica in desperation.","Я прочитал большинство классиков до восемнадцати лет — хотя это скорее отражение жизни в глуши, я также в отчаянии прочитал Энциклопедию Британнику 1979 года.","```
+locale conventions:
+
+MQM annotations:
+[Critical]: locale_conventions/none - None
+[Major]: locale_conventions/none - None
+[Minor]: locale_conventions/none - None
+```"
+452,"And that's also even though I haven't slept as well here for the last two nights as I do at home, and get a little #MECFS ed out from simply being in a strange environment where I'm less able to pace myself and have to remember where things are.","И это даже несмотря на то, что я не спал здесь так же хорошо последние две ночи, как дома, и немного устал от #MECFS просто из-за нахождения в незнакомой обстановке, где я меньше могу распределять свои силы и должен помнить, где что находится.","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+454,Humanity is out in 5 days.,Человечеству осталось 5 дней.,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```"
+457,I like it but will it be able to attract an audience of the right players?,"Мне это нравится, но сможет ли это привлечь аудиторию нужных игроков?","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+463,Came home on my lunch break to see this sitting outside uwu.,Пришел домой на обеденный перерыв и увидел это снаружи uwu.,"```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+467,Was it overly cute to the point of being twee?,"Было ли это чрезмерно мило до такой степени, что стало приторным?","```
+locale conventions:
+
+MQM annotations:
+Critical: locale_conventions/none - None
+Major: locale_conventions/none - None
+Minor: locale_conventions/none - None
+```"
+474,Did she owe someone money?,Она кому-то была должна деньги?,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+480,"Good critique is there to correct the problem quickly, and isn't directed at your ability.",Хорошая критика предназначена для быстрого исправления проблемы и не направлена на вашу способность.,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```"
+487,But for strong and firm future growth.,Но для сильного и устойчивого будущего роста.,"```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```"
+489,"She was on her way to the wall, he was coming off duty.","Она шла к стене, он как раз закончил дежурство.","```
+MQM annotations:
+Accuracy Errors
+[Critical]: [locale_conventions/error_subcategory] - None
+[Major]: [locale_conventions/error_subcategory] - None
+[Minor]: [locale_conventions/error_subcategory] - None
+```
+
+In this translation, there are no locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation adheres to the locale-specific content and formatting requirements for Russian."
+493,One block-printed word.,Одно блокированное слово.,"```
+locale conventions:
+
+MQM annotations:
+[Critical]: [locale_conventions/none] - None
+[Major]: [locale_conventions/none] - None
+[Minor]: [locale_conventions/none] - None
+```
+
+Explanation: The translation ""Одно блокированное слово"" does not contain any locale convention errors related to address format, currency format, date/time format, measurement format, number format, or telephone format. The translation is straightforward and does not involve any locale-specific formatting requirements."
